@@ -39,11 +39,14 @@
 ```bash
 cd /Users/etrexkuo/toprankland
 npm run build
+CLOUDFLARE_ACCOUNT_ID=8c4a53bddc1c11f46aa4709db491265d npx wrangler pages deploy dist --project-name toprankland --branch master
 git add src/content/rankings/
 git commit -m "content: add/update [ranking name]"
 git push
 ```
-Cloudflare Pages 會自動偵測 push 並部署。
+
+- wrangler deploy 會立即更新線上網站
+- git push 會保存記錄到 GitHub
 
 ## 排行榜主題方向
 優先考慮：
