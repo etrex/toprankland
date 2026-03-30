@@ -55,7 +55,7 @@
       "date": "2026-03-30",
       "rankings": [
         { "id": "mullvad", "rank": 1, "score": 9.1, "scores": { "privacy": 9.8, "speed": 8.5, "network": 8.0, "usability": 8.5, "price": 9.5 } },
-        { "id": "protonvpn", "rank": 2, "score": 9.0, "scores": { "privacy": 9.5, "speed": 8.8, "network": 9.0, "usability": 9.0, "price": 8.0 } },
+        { "id": "protonvpn", "rank": 2, "score": 9.1, "scores": { "privacy": 9.6, "speed": 8.8, "network": 9.0, "usability": 9.0, "price": 8.0 } },
         { "id": "nordvpn", "rank": 3, "score": 8.7, "scores": { "privacy": 8.3, "speed": 9.0, "network": 9.5, "usability": 9.0, "price": 8.5 } },
         { "id": "ivpn", "rank": 4, "score": 8.6, "scores": { "privacy": 9.7, "speed": 8.2, "network": 7.5, "usability": 8.0, "price": 8.5 } },
         { "id": "expressvpn", "rank": 5, "score": 8.4, "scores": { "privacy": 8.0, "speed": 9.2, "network": 9.0, "usability": 9.3, "price": 7.0 } },
@@ -65,18 +65,18 @@
         { "id": "pia", "rank": 9, "score": 7.6, "scores": { "privacy": 8.5, "speed": 8.0, "network": 9.5, "usability": 8.0, "price": 9.5 } },
         { "id": "cyberghost", "rank": 10, "score": 7.2, "scores": { "privacy": 7.0, "speed": 8.0, "network": 9.2, "usability": 9.0, "price": 8.5 } }
       ],
-      "commentary": "本週 VPN 市場最重要的消息是 NordVPN 通過了由 Deloitte 進行的第六次獨立無日誌審計，確認其嚴格的無日誌政策，這大幅提升了 NordVPN 在隱私層面的可信度。本次審計結果促使 NordVPN 的隱私評分從 8.0 上調至 8.3，並與整體分數提升至 8.7，超越 IVPN 晉升至第三名。\n\nIVPN 從第三降至第四，但其核心優勢（多跳路由、最小數據足跡）未變，對注重技術隱私的進階用戶仍是首選。ExpressVPN 在 2 月份新增了獨立密碼管理器、郵件保護工具、AI 平台和個人數據安全即時檢查器，其易用性評分小幅上調至 9.3，整體分數升至 8.4，保持第五名。\n\nSurfshark 本月推出了 HeyPolo——一款注重用戶同意的隱私優先位置共享應用，顯示其產品生態持續擴張。Mullvad 和 ProtonVPN 繼續穩守前兩名，其無帳戶匿名系統和瑞士隱私法律保護依然是最強隱私標準的代名詞。NordVPN 最新方案起價調整至每月 $3.39，相較前期更具競爭力。",
+      "commentary": "VPN 市場在 2026 年 3 月底出現多項重要進展。ProtonVPN 完成了第四次連續無日誌審計，並首次通過 SOC 2 Type II 審計——這是比一般無日誌審計更嚴格的系統性安全驗證，要求稽核方對系統連續觀察數月，確認控制措施長期有效。此一里程碑促使 ProtonVPN 的隱私評分從 9.5 上調至 9.6，整體分數升至 9.1，與 Mullvad 的差距縮小但仍居第二。\n\nNordVPN 已於旗下 NordLynx 協議全平台導入後量子加密（Post-quantum encryption），成為主流 VPN 服務中首批提供完整抗量子保護的業者，有效抵禦未來量子電腦的解密威脅。NordVPN 維持第三名，整體分數 8.7 不變。值得關注的是，1 月間有網路犯罪論壇流出聲稱含有 NordVPN 內部資料的貼文，NordVPN 已確認無任何生產系統或用戶資料受損，涉及內容僅源自隔離的第三方測試環境。\n\n美國國會正積極討論 FISA 702 條款的續期問題（截止日期 4 月 20 日），議員關切 VPN 使用是否影響通訊的地域性法律保護，凸顯隱私監管議題的持續升溫。目前有 42% 的美國人使用 VPN，已從小眾轉為主流行為。Mullvad 和 ProtonVPN 繼續穩守前兩名，無帳戶匿名系統和瑞士法律保障依然是最強隱私標準的代表。",
       "highlights": [
-        "NordVPN 通過 Deloitte 第六次無日誌審計，隱私評分上調，晉升至 #3",
-        "IVPN 退至 #4，但多跳路由仍是技術隱私用戶首選",
-        "ExpressVPN 2 月新增密碼管理器與 AI 安全工具，易用性評分提升",
-        "Surfshark 推出 HeyPolo 隱私位置共享應用，產品線持續擴展",
-        "Mullvad 和 ProtonVPN 隱私第一、第二位穩定，無重大變動"
+        "ProtonVPN 首次通過 SOC 2 Type II 審計，隱私評分升至 9.6，整體升至 9.1",
+        "NordVPN NordLynx 全平台導入後量子加密，抵禦未來量子電腦解密威脅",
+        "NordVPN 1 月資料外洩聲稱已確認無生產系統受損，僅涉及隔離測試環境",
+        "美國 FISA 702 續期辯論：VPN 使用與通訊監控保護的法律邊界受議員質疑",
+        "Mullvad 和 ProtonVPN 隱私前兩名穩固，42% 美國人使用 VPN 顯示市場主流化"
       ],
       "references": [
-        { "title": "Best VPN Service in 2026", "url": "https://gizmodo.com/best-vpn", "source": "Gizmodo" },
         { "title": "Top 9 VPNs of March 2026", "url": "https://ambcrypto.com/top-9-vpns-of-march-2026/", "source": "AMBCrypto" },
-        { "title": "Best VPN in the US for 2026", "url": "https://www.salon.com/2026/03/12/best-vpn-in-the-us-for-2026-fast-secure-and-streaming-ready/", "source": "Salon" }
+        { "title": "Lawmakers question VPN impact on Americans' FISA surveillance protections", "url": "https://www.nextgov.com/cybersecurity/2026/03/lawmakers-question-vpn-impact-americans-fisa-surveillance-protections/412437/", "source": "Nextgov/FCW" },
+        { "title": "Legislation, loopholes, and loose ends — what does 2026 hold for the VPN industry?", "url": "https://www.techradar.com/vpn/vpn-services/legislation-loopholes-and-loose-ends-what-does-2026-hold-for-the-vpn-industry", "source": "TechRadar" }
       ]
     }
   ]
