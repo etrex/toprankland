@@ -71,6 +71,7 @@
 | best-gaming-mice.json | Best Gaming Mice | Gaming |
 | best-vpn-services.json | Best VPN Services | Software |
 | best-smart-watches.json | Best Smart Watches | Wearables |
+| best-mechanical-keyboards.json | Best Mechanical Keyboards | Computing |
 
 ---
 
