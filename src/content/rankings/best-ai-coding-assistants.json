@@ -38,10 +38,10 @@
     {
       "id": "windsurf",
       "name": "Windsurf",
-      "brand": "Codeium",
+      "brand": "Codeium (acq. Cognition AI)",
       "url": "https://windsurf.com/",
       "priceRange": "$15/mo",
-      "description": "A fast-rising agentic IDE offering strong value with daily and weekly usage quotas, known for its clean UX and competitive pricing after March 2026 overhaul."
+      "description": "Agentic IDE with 1M+ active users; acquired by Cognition AI (makers of Devin) in Dec 2025, combining two of the top autonomous coding tools under one parent. Known for clean UX and competitive $15/mo pricing."
     },
     {
       "id": "devin",
@@ -74,6 +74,14 @@
       "url": "https://aider.chat/",
       "priceRange": "Free (API cost)",
       "description": "A free open-source terminal-based AI pair programmer that works with 100+ LLMs, auto-commits changes with Git, and supports multi-file editing via the command line."
+    },
+    {
+      "id": "google-jules",
+      "name": "Google Jules",
+      "brand": "Google",
+      "url": "https://jules.google/",
+      "priceRange": "Bundled (AI Pro/Ultra)",
+      "description": "Google's async autonomous coding agent powered by Gemini 2.5 Pro; integrates natively with GitHub to plan and execute multi-file tasks in a secure cloud sandbox with no IDE required."
     }
   ],
   "history": [
@@ -174,6 +182,18 @@
             "ideIntegration": 5.0,
             "agenticCapability": 7.5,
             "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 8.0
           }
         }
       ],
