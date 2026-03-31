@@ -200,27 +200,48 @@ const currentPath = `/rankings/${ranking.slug}`;
   <!-- History Log -->
   {history.length > 1 && (
     <section class="mb-8">
-      <h2 class="text-lg font-bold mb-4 text-gray-800">{t('update_history')}</h2>
-      <div class="space-y-2">
+      <h2 class="text-lg font-bold mb-6 text-gray-800">{t('update_history')}</h2>
+      <div class="space-y-8">
         {[...history].reverse().slice(1, 11).map((entry: any) => {
           const entryI18n = getI18n(entry.i18n, lang);
           const entryCommentary = entryI18n?.commentary ?? '';
           const entryHighlights = entryI18n?.highlights ?? [];
+          const paragraphs = entryCommentary.split(/\n\n+/).filter(Boolean);
           return (
-            <details class="bg-white rounded-xl border border-gray-200 group">
-              <summary class="flex items-center justify-between p-4 cursor-pointer list-none hover:bg-gray-50 rounded-xl">
-                <span class="text-sm font-medium text-gray-700">{entry.date}</span>
-                <span class="text-xs text-gray-400 group-open:rotate-180 transition-transform inline-block">▼</span>
-              </summary>
-              {(entryCommentary || entryHighlights.length > 0) && (
-                <div class="px-4 pb-4 text-sm text-gray-600 border-t border-gray-100 pt-3 space-y-1">
-                  {entryCommentary && <p class="leading-relaxed">{entryCommentary}</p>}
-                  {entryHighlights.map((h: string) => (
-                    <p class="text-xs text-gray-500">→ {h}</p>
+            <article class="bg-white rounded-xl border border-gray-200 p-6">
+              <h3 class="text-sm font-bold text-indigo-600 mb-4 pb-3 border-b border-gray-100">{entry.date}</h3>
+              {paragraphs.length > 0 && (
+                <div class="space-y-3 mb-5">
+                  {paragraphs.map((para: string) => (
+                    <p class="text-sm text-gray-700 leading-relaxed">{para}</p>
                   ))}
                 </div>
               )}
-            </details>
+              {entryHighlights.length > 0 && (
+                <div class="bg-gray-50 rounded-lg p-4">
+                  <p class="text-xs font-semibold text-gray-400 uppercase tracking-wide mb-2">{t('key_highlights')}</p>
+                  <ul class="space-y-1.5">
+                    {entryHighlights.map((h: string) => (
+                      <li class="flex items-start gap-2 text-sm text-gray-600">
+                        <span class="text-indigo-400 mt-0.5 flex-shrink-0">→</span>
+                        <span>{h}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+              {entry.references?.length > 0 && (
+                <div class="flex flex-wrap gap-2 mt-4 pt-3 border-t border-gray-100">
+                  {entry.references.map((ref: any) => (
+                    <a href={ref.url} target="_blank" rel="noopener"
+                       class="inline-flex items-center gap-1 text-xs text-gray-400 hover:text-indigo-600 transition-colors">
+                      <span>{ref.source}</span>
+                      <span>↗</span>
+                    </a>
+                  ))}
+                </div>
+              )}
+            </article>
           );
         })}
       </div>
