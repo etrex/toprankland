@@ -56,12 +56,16 @@
       ],
       "i18n": {
         "en": {
-          "commentary": "200-400 word English analysis",
-          "highlights": ["English point 1", "English point 2"]
+          "commentary": "200-400 word first-person opinionated analysis. State bold verdicts and defend them. Don't hedge.",
+          "highlights": [
+            { "title": "Strong verdict heading — a judgment, not a neutral observation", "body": "A paragraph defending this verdict with specific technical, market, or value reasons." }
+          ]
         },
         "zh-tw": {
-          "commentary": "200-400字中文分析",
-          "highlights": ["中文重點1", "中文重點2"]
+          "commentary": "200-400字，觀點鮮明的第一人稱分析，直接表達立場，不模糊不迴避。",
+          "highlights": [
+            { "title": "強烈觀點的子標題——是判斷，不是中立觀察", "body": "用一段文字支持這個判斷，給出具體技術或市場理由。" }
+          ]
         }
       }
     }
@@ -114,8 +118,8 @@ git push
 ## 內容品質原則
 
 1. **雙語完整**: `i18n.en` 和 `i18n.zh-tw` 都要填寫，不能只寫一種語言
-2. **客觀**: 分析要有具體理由，引用事件或數據
+2. **主觀有說服力**: 用第一人稱直接表達立場，不用「根據某評測」等模糊措辭。說「X 排第一是正確的，因為...」
 3. **一致**: 同類產品評分標準要一致
 4. **即時**: 重大新聞要反映在排名中
 5. **URL 驗證**: 所有新增的外部連結必須 curl 確認有效
-6. **簡潔**: commentary 200–400 字，highlights 3–5 條
+6. **highlights 格式**: 必須是 `{"title": "觀點強烈的子標題", "body": "支持論點的段落"}` 物件陣列，3–5 個
