@@ -1,8 +1,6 @@
 {
   "slug": "best-mechanical-keyboards",
-  "title": "Best Mechanical Keyboards",
   "category": "Computing",
-  "description": "Daily-updated rankings of the best mechanical keyboards, scored on switch quality, build, features, latency, and value.",
   "scoreFactors": {
     "switches": "Switch Quality & Feel",
     "build": "Build Quality",
@@ -10,80 +8,562 @@
     "latency": "Polling Rate & Latency",
     "value": "Value"
   },
+  "i18n": {
+    "en": {
+      "title": "Best Mechanical Keyboards",
+      "description": "Daily-updated rankings of the best mechanical keyboards, scored on switch quality, build, features, latency, and value."
+    },
+    "zh-tw": {
+      "title": "最佳機械鍵盤 2026",
+      "description": "每日更新的最佳機械鍵盤排行榜，根據按鍵手感、做工品質、功能特性、輪詢率延遲和性價比評分。"
+    }
+  },
   "competitors": [
-    { "id": "keychron-q1-pro", "name": "Keychron Q1 Pro", "brand": "Keychron", "url": "https://www.keychron.com/products/keychron-q1-pro-qmk-via-wireless-custom-mechanical-keyboard", "priceRange": "$199", "description": "Wireless gasket-mount keyboard with QMK/Via support and aluminum build" },
-    { "id": "logitech-g915-tkl", "name": "Logitech G915 TKL", "brand": "Logitech", "url": "https://www.logitechg.com/en-us/shop/p/g915-tkl-wireless", "priceRange": "$229", "description": "Slim wireless TKL with GL low-profile switches and multi-device pairing" },
-    { "id": "steelseries-apex-pro-tkl-w", "name": "SteelSeries Apex Pro TKL Wireless", "brand": "SteelSeries", "url": "https://steelseries.com/gaming-keyboards/apex-pro-2023", "priceRange": "$219", "description": "Adjustable actuation OmniPoint 2.0 switches with 2.4GHz wireless at 40g actuation force" },
-    { "id": "corsair-k100-air", "name": "Corsair K100 AIR Wireless", "brand": "Corsair", "url": "https://www.corsair.com/us/en/p/keyboards/ch-913a21u-na/k100-air-wireless-ultra-thin-mechanical-gaming-keyboard-ch-913a21u-na", "priceRange": "$249", "description": "Ultra-slim wireless mechanical with Cherry MX ULP Tactile switches" },
-    { "id": "ducky-one3", "name": "Ducky One 3", "brand": "Ducky", "url": "https://www.duckychannel.com.tw/en/Ducky-One3", "priceRange": "$149", "description": "Hot-swappable with double-shot PBT keycaps and multiple Cherry/Kailh switch options" },
-    { "id": "keychron-k8-pro", "name": "Keychron K8 Pro", "brand": "Keychron", "url": "https://www.keychron.com/products/keychron-k8-pro-qmk-via-wireless-mechanical-keyboard", "priceRange": "$109", "description": "TKL wireless with QMK/Via, hot-swap, and RGB at entry-level price" },
-    { "id": "nuphy-air75-v2", "name": "NuPhy Air75 V2", "brand": "NuPhy", "url": "https://nuphy.com/collections/keyboards/products/air75-v2", "priceRange": "$149", "description": "Ultra-slim 75% wireless with low-profile Gateron switches and Mac/Win compatibility" },
-    { "id": "rog-strix-scope2-rx", "name": "ASUS ROG Strix Scope II RX", "brand": "ASUS", "url": "https://rog.asus.com/keyboards/keyboards/pbt-keycaps/rog-strix-scope-ii-rx/", "priceRange": "$139", "description": "ROG RX optical switches with IP56 water resistance and XLarge Space key" },
-    { "id": "hyperx-alloy-origins-core", "name": "HyperX Alloy Origins Core", "brand": "HyperX", "url": "https://hyperx.com/products/hyperx-alloy-origins-core-mechanical-gaming-keyboard", "priceRange": "$89", "description": "Full-aluminum TKL with HyperX Red linear switches and RGB at budget price" },
-    { "id": "razer-blackwidow-v4-pro", "name": "Razer BlackWidow V4 Pro", "brand": "Razer", "url": "https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-pro", "priceRange": "$229", "description": "Wireless full-size with Razer Yellow V3 analog-optical switches and Chroma RGB" },
-    { "id": "wooting-60he", "name": "Wooting 60HE+", "brand": "Wooting", "url": "https://wooting.io/wooting-60he", "priceRange": "$175", "description": "Hall-effect analog switch keyboard with Rapid Trigger at 0.1mm resolution" },
-    { "id": "mountain-everest-max", "name": "Mountain Everest Max", "brand": "Mountain", "url": "https://mountain.gg/keyboards/everest-max/", "priceRange": "$199", "description": "Modular full-size with detachable numpad, hot-swap, and magnetic wrist rest" }
+    {
+      "id": "keychron-q1-pro",
+      "name": "Keychron Q1 Pro",
+      "brand": "Keychron",
+      "url": "https://www.keychron.com/products/keychron-q1-pro-qmk-via-wireless-custom-mechanical-keyboard",
+      "priceRange": "$199",
+      "i18n": {
+        "en": {
+          "description": "Wireless gasket-mount keyboard with QMK/Via support and aluminum build"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "logitech-g915-tkl",
+      "name": "Logitech G915 TKL",
+      "brand": "Logitech",
+      "url": "https://www.logitechg.com/en-us/shop/p/g915-tkl-wireless",
+      "priceRange": "$229",
+      "i18n": {
+        "en": {
+          "description": "Slim wireless TKL with GL low-profile switches and multi-device pairing"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "steelseries-apex-pro-tkl-w",
+      "name": "SteelSeries Apex Pro TKL Wireless",
+      "brand": "SteelSeries",
+      "url": "https://steelseries.com/gaming-keyboards/apex-pro-2023",
+      "priceRange": "$219",
+      "i18n": {
+        "en": {
+          "description": "Adjustable actuation OmniPoint 2.0 switches with 2.4GHz wireless at 40g actuation force"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "corsair-k100-air",
+      "name": "Corsair K100 AIR Wireless",
+      "brand": "Corsair",
+      "url": "https://www.corsair.com/us/en/p/keyboards/ch-913a21u-na/k100-air-wireless-ultra-thin-mechanical-gaming-keyboard-ch-913a21u-na",
+      "priceRange": "$249",
+      "i18n": {
+        "en": {
+          "description": "Ultra-slim wireless mechanical with Cherry MX ULP Tactile switches"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "ducky-one3",
+      "name": "Ducky One 3",
+      "brand": "Ducky",
+      "url": "https://www.duckychannel.com.tw/en/Ducky-One3",
+      "priceRange": "$149",
+      "i18n": {
+        "en": {
+          "description": "Hot-swappable with double-shot PBT keycaps and multiple Cherry/Kailh switch options"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "keychron-k8-pro",
+      "name": "Keychron K8 Pro",
+      "brand": "Keychron",
+      "url": "https://www.keychron.com/products/keychron-k8-pro-qmk-via-wireless-mechanical-keyboard",
+      "priceRange": "$109",
+      "i18n": {
+        "en": {
+          "description": "TKL wireless with QMK/Via, hot-swap, and RGB at entry-level price"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "nuphy-air75-v2",
+      "name": "NuPhy Air75 V2",
+      "brand": "NuPhy",
+      "url": "https://nuphy.com/collections/keyboards/products/air75-v2",
+      "priceRange": "$149",
+      "i18n": {
+        "en": {
+          "description": "Ultra-slim 75% wireless with low-profile Gateron switches and Mac/Win compatibility"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "rog-strix-scope2-rx",
+      "name": "ASUS ROG Strix Scope II RX",
+      "brand": "ASUS",
+      "url": "https://rog.asus.com/keyboards/keyboards/pbt-keycaps/rog-strix-scope-ii-rx/",
+      "priceRange": "$139",
+      "i18n": {
+        "en": {
+          "description": "ROG RX optical switches with IP56 water resistance and XLarge Space key"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "hyperx-alloy-origins-core",
+      "name": "HyperX Alloy Origins Core",
+      "brand": "HyperX",
+      "url": "https://hyperx.com/products/hyperx-alloy-origins-core-mechanical-gaming-keyboard",
+      "priceRange": "$89",
+      "i18n": {
+        "en": {
+          "description": "Full-aluminum TKL with HyperX Red linear switches and RGB at budget price"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "razer-blackwidow-v4-pro",
+      "name": "Razer BlackWidow V4 Pro",
+      "brand": "Razer",
+      "url": "https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-pro",
+      "priceRange": "$229",
+      "i18n": {
+        "en": {
+          "description": "Wireless full-size with Razer Yellow V3 analog-optical switches and Chroma RGB"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "wooting-60he",
+      "name": "Wooting 60HE+",
+      "brand": "Wooting",
+      "url": "https://wooting.io/wooting-60he",
+      "priceRange": "$175",
+      "i18n": {
+        "en": {
+          "description": "Hall-effect analog switch keyboard with Rapid Trigger at 0.1mm resolution"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "mountain-everest-max",
+      "name": "Mountain Everest Max",
+      "brand": "Mountain",
+      "url": "https://mountain.gg/keyboards/everest-max/",
+      "priceRange": "$199",
+      "i18n": {
+        "en": {
+          "description": "Modular full-size with detachable numpad, hot-swap, and magnetic wrist rest"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    }
   ],
   "history": [
     {
       "date": "2026-03-30",
       "rankings": [
-        { "id": "wooting-60he", "rank": 1, "score": 9.3, "scores": { "switches": 9.8, "build": 9.0, "features": 9.5, "latency": 9.8, "value": 8.5 } },
-        { "id": "steelseries-apex-pro-tkl-w", "rank": 2, "score": 9.0, "scores": { "switches": 9.5, "build": 8.8, "features": 9.2, "latency": 9.0, "value": 8.3 } },
-        { "id": "keychron-q1-pro", "rank": 3, "score": 8.9, "scores": { "switches": 9.2, "build": 9.5, "features": 9.0, "latency": 8.3, "value": 8.6 } },
-        { "id": "logitech-g915-tkl", "rank": 4, "score": 8.8, "scores": { "switches": 8.5, "build": 9.2, "features": 9.0, "latency": 8.8, "value": 8.5 } },
-        { "id": "ducky-one3", "rank": 5, "score": 8.6, "scores": { "switches": 9.0, "build": 8.8, "features": 8.0, "latency": 8.5, "value": 9.3 } },
-        { "id": "corsair-k100-air", "rank": 6, "score": 8.5, "scores": { "switches": 8.8, "build": 9.0, "features": 9.0, "latency": 8.5, "value": 7.5 } },
-        { "id": "razer-blackwidow-v4-pro", "rank": 7, "score": 8.3, "scores": { "switches": 8.5, "build": 8.5, "features": 8.8, "latency": 8.8, "value": 7.8 } },
-        { "id": "keychron-k8-pro", "rank": 8, "score": 8.2, "scores": { "switches": 8.5, "build": 8.0, "features": 8.5, "latency": 8.0, "value": 9.5 } },
-        { "id": "nuphy-air75-v2", "rank": 9, "score": 8.0, "scores": { "switches": 8.0, "build": 8.5, "features": 8.0, "latency": 8.0, "value": 8.8 } },
-        { "id": "mountain-everest-max", "rank": 10, "score": 7.9, "scores": { "switches": 8.5, "build": 9.0, "features": 8.5, "latency": 8.0, "value": 7.5 } },
-        { "id": "rog-strix-scope2-rx", "rank": 11, "score": 7.7, "scores": { "switches": 8.2, "build": 8.0, "features": 8.0, "latency": 8.5, "value": 8.0 } },
-        { "id": "hyperx-alloy-origins-core", "rank": 12, "score": 7.5, "scores": { "switches": 7.8, "build": 8.0, "features": 7.0, "latency": 8.0, "value": 9.5 } }
-      ],
-      "commentary": "機械鍵盤市場在 2026 年以霍爾效應開關（Hall-Effect Switch）和 8K 輪詢率為核心技術競爭點。Wooting 60HE+ 以 0.1mm Rapid Trigger 精度和霍爾效應磁性開關穩守 #1，在 CS2、FPS 等競技遊戲玩家中擁有最高口碑。此架構讓玩家能在毫秒內取消並重新觸發按鍵，帶來傳統機械開關無法實現的競技優勢。Wooting 80HE 作為 60HE+ 的 80% 配列兄弟款，同樣獲市場高度評價，但尚未納入本榜。\n\nKeychron 在 CES 2026 發表 Q Ultra 和 V Ultra 系列，並於 2 月正式推出 Q1 Ultra（含 75%、80%、全尺寸），搭載 8K 輪詢率和最高 660 小時電池續航（ZMK 韌體）。這使得本榜 Keychron Q1 Pro（原 #2）在功能面相對遜色——Q1 Ultra 在輪詢率（8K vs 標準）和電池效率上全面超越，Q1 Pro 的功能評分從 9.3 下調至 9.0、延遲評分從 8.5 降至 8.3、整體分數從 9.1 降至 8.9，退至第三名。SteelSeries Apex Pro TKL Wireless 以其可調節觸發點 OmniPoint 2.0 開關和穩定的 9.0 整體評分順勢升至第二名。\n\nLogitech G915 TKL 維持 #4，其低矮鍵程仍是習慣筆電鍵盤用戶的首選。預算段由 Keychron K8 Pro 和 HyperX Alloy Origins Core 分別以 QMK 支援和全金屬建置品質主導，前者已可在 $100 以下獲得幾乎完整的自訂體驗。",
-      "highlights": [
-        "Keychron Q1 Ultra（2 月上市）8K 輪詢率 + 660h 電池，Q1 Pro 功能評分下調，退至 #3",
-        "SteelSeries Apex Pro TKL Wireless 升至 #2，OmniPoint 2.0 可調觸發點仍是無線競技首選",
-        "Wooting 60HE+ 維持 #1：0.1mm Rapid Trigger 是 CS2 和 FPS 玩家的標準配備",
-        "Wooting 80HE 作為新 80% 配列旗艦獲市場高評，競技鍵盤生態持續擴張",
-        "Keychron K8 Pro #8：$109 含 QMK/Via + 熱插拔，性價比入門 Keychron 最佳選擇"
+        {
+          "id": "wooting-60he",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "switches": 9.8,
+            "build": 9,
+            "features": 9.5,
+            "latency": 9.8,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "steelseries-apex-pro-tkl-w",
+          "rank": 2,
+          "score": 9,
+          "scores": {
+            "switches": 9.5,
+            "build": 8.8,
+            "features": 9.2,
+            "latency": 9,
+            "value": 8.3
+          }
+        },
+        {
+          "id": "keychron-q1-pro",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "switches": 9.2,
+            "build": 9.5,
+            "features": 9,
+            "latency": 8.3,
+            "value": 8.6
+          }
+        },
+        {
+          "id": "logitech-g915-tkl",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "switches": 8.5,
+            "build": 9.2,
+            "features": 9,
+            "latency": 8.8,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "ducky-one3",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "switches": 9,
+            "build": 8.8,
+            "features": 8,
+            "latency": 8.5,
+            "value": 9.3
+          }
+        },
+        {
+          "id": "corsair-k100-air",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "switches": 8.8,
+            "build": 9,
+            "features": 9,
+            "latency": 8.5,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "razer-blackwidow-v4-pro",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "switches": 8.5,
+            "build": 8.5,
+            "features": 8.8,
+            "latency": 8.8,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "keychron-k8-pro",
+          "rank": 8,
+          "score": 8.2,
+          "scores": {
+            "switches": 8.5,
+            "build": 8,
+            "features": 8.5,
+            "latency": 8,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "nuphy-air75-v2",
+          "rank": 9,
+          "score": 8,
+          "scores": {
+            "switches": 8,
+            "build": 8.5,
+            "features": 8,
+            "latency": 8,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "mountain-everest-max",
+          "rank": 10,
+          "score": 7.9,
+          "scores": {
+            "switches": 8.5,
+            "build": 9,
+            "features": 8.5,
+            "latency": 8,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "rog-strix-scope2-rx",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "switches": 8.2,
+            "build": 8,
+            "features": 8,
+            "latency": 8.5,
+            "value": 8
+          }
+        },
+        {
+          "id": "hyperx-alloy-origins-core",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "switches": 7.8,
+            "build": 8,
+            "features": 7,
+            "latency": 8,
+            "value": 9.5
+          }
+        }
       ],
       "references": [
-        { "title": "Keychron launches wireless Q Ultra keyboard series with up to 660 hours of battery life at 8K polling", "url": "https://www.tomshardware.com/peripherals/keyboards/keychron-launches-wireless-q-ultra-keyboard-series-with-up-to-660-hours-of-battery-life-with-8k-polling-thanks-to-zmk-firmware", "source": "Tom's Hardware" },
-        { "title": "Best Hall Effect keyboards in 2026", "url": "https://www.pcgamer.com/hardware/gaming-keyboards/best-hall-effect-keyboards/", "source": "PC Gamer" },
-        { "title": "Best Gaming Keyboards", "url": "https://www.rtings.com/keyboard/reviews/best/gaming", "source": "RTINGS" }
-      ]
+        {
+          "title": "Keychron launches wireless Q Ultra keyboard series with up to 660 hours of battery life at 8K polling",
+          "url": "https://www.tomshardware.com/peripherals/keyboards/keychron-launches-wireless-q-ultra-keyboard-series-with-up-to-660-hours-of-battery-life-with-8k-polling-thanks-to-zmk-firmware",
+          "source": "Tom's Hardware"
+        },
+        {
+          "title": "Best Hall Effect keyboards in 2026",
+          "url": "https://www.pcgamer.com/hardware/gaming-keyboards/best-hall-effect-keyboards/",
+          "source": "PC Gamer"
+        },
+        {
+          "title": "Best Gaming Keyboards",
+          "url": "https://www.rtings.com/keyboard/reviews/best/gaming",
+          "source": "RTINGS"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "",
+          "highlights": []
+        },
+        "zh-tw": {
+          "commentary": "機械鍵盤市場在 2026 年以霍爾效應開關（Hall-Effect Switch）和 8K 輪詢率為核心技術競爭點。Wooting 60HE+ 以 0.1mm Rapid Trigger 精度和霍爾效應磁性開關穩守 #1，在 CS2、FPS 等競技遊戲玩家中擁有最高口碑。此架構讓玩家能在毫秒內取消並重新觸發按鍵，帶來傳統機械開關無法實現的競技優勢。Wooting 80HE 作為 60HE+ 的 80% 配列兄弟款，同樣獲市場高度評價，但尚未納入本榜。\n\nKeychron 在 CES 2026 發表 Q Ultra 和 V Ultra 系列，並於 2 月正式推出 Q1 Ultra（含 75%、80%、全尺寸），搭載 8K 輪詢率和最高 660 小時電池續航（ZMK 韌體）。這使得本榜 Keychron Q1 Pro（原 #2）在功能面相對遜色——Q1 Ultra 在輪詢率（8K vs 標準）和電池效率上全面超越，Q1 Pro 的功能評分從 9.3 下調至 9.0、延遲評分從 8.5 降至 8.3、整體分數從 9.1 降至 8.9，退至第三名。SteelSeries Apex Pro TKL Wireless 以其可調節觸發點 OmniPoint 2.0 開關和穩定的 9.0 整體評分順勢升至第二名。\n\nLogitech G915 TKL 維持 #4，其低矮鍵程仍是習慣筆電鍵盤用戶的首選。預算段由 Keychron K8 Pro 和 HyperX Alloy Origins Core 分別以 QMK 支援和全金屬建置品質主導，前者已可在 $100 以下獲得幾乎完整的自訂體驗。",
+          "highlights": [
+            "Keychron Q1 Ultra（2 月上市）8K 輪詢率 + 660h 電池，Q1 Pro 功能評分下調，退至 #3",
+            "SteelSeries Apex Pro TKL Wireless 升至 #2，OmniPoint 2.0 可調觸發點仍是無線競技首選",
+            "Wooting 60HE+ 維持 #1：0.1mm Rapid Trigger 是 CS2 和 FPS 玩家的標準配備",
+            "Wooting 80HE 作為新 80% 配列旗艦獲市場高評，競技鍵盤生態持續擴張",
+            "Keychron K8 Pro #8：$109 含 QMK/Via + 熱插拔，性價比入門 Keychron 最佳選擇"
+          ]
+        }
+      }
     },
     {
       "date": "2026-03-31",
       "rankings": [
-        { "id": "wooting-60he", "rank": 1, "score": 9.3, "scores": { "switches": 9.8, "build": 9.0, "features": 9.5, "latency": 9.8, "value": 8.5 } },
-        { "id": "steelseries-apex-pro-tkl-w", "rank": 2, "score": 9.1, "scores": { "switches": 9.5, "build": 8.8, "features": 9.3, "latency": 9.0, "value": 8.5 } },
-        { "id": "keychron-q1-pro", "rank": 3, "score": 8.9, "scores": { "switches": 9.2, "build": 9.5, "features": 9.0, "latency": 8.3, "value": 8.6 } },
-        { "id": "logitech-g915-tkl", "rank": 4, "score": 8.8, "scores": { "switches": 8.5, "build": 9.2, "features": 9.0, "latency": 8.8, "value": 8.5 } },
-        { "id": "ducky-one3", "rank": 5, "score": 8.6, "scores": { "switches": 9.0, "build": 8.8, "features": 8.0, "latency": 8.5, "value": 9.3 } },
-        { "id": "corsair-k100-air", "rank": 6, "score": 8.5, "scores": { "switches": 8.8, "build": 9.0, "features": 9.0, "latency": 8.5, "value": 7.5 } },
-        { "id": "razer-blackwidow-v4-pro", "rank": 7, "score": 8.3, "scores": { "switches": 8.5, "build": 8.5, "features": 8.8, "latency": 8.8, "value": 7.8 } },
-        { "id": "keychron-k8-pro", "rank": 8, "score": 8.2, "scores": { "switches": 8.5, "build": 8.0, "features": 8.5, "latency": 8.0, "value": 9.5 } },
-        { "id": "nuphy-air75-v2", "rank": 9, "score": 8.0, "scores": { "switches": 8.0, "build": 8.5, "features": 8.0, "latency": 8.0, "value": 8.8 } },
-        { "id": "mountain-everest-max", "rank": 10, "score": 7.9, "scores": { "switches": 8.5, "build": 9.0, "features": 8.5, "latency": 8.0, "value": 7.5 } },
-        { "id": "rog-strix-scope2-rx", "rank": 11, "score": 7.7, "scores": { "switches": 8.2, "build": 8.0, "features": 8.0, "latency": 8.5, "value": 8.0 } },
-        { "id": "hyperx-alloy-origins-core", "rank": 12, "score": 7.5, "scores": { "switches": 7.8, "build": 8.0, "features": 7.0, "latency": 8.0, "value": 9.5 } }
-      ],
-      "commentary": "2026 年 Q1 末，機械鍵盤市場在霍爾效應開關生態系持續壯大的背景下進入新的技術成熟期。SteelSeries 本季正式跨配列推出磁性開關版本，涵蓋 60%、75%、100% 三種配列，是繼 Wooting 之後第一個全配列鋪開磁性開關的主流競技品牌。SteelSeries Apex Pro TKL Wireless 因此在「功能與軟體」評分從 9.2 上調至 9.3，整體維持 9.1——其可調節觸發點 OmniPoint 2.0 搭配日趨完整的磁性開關生態，鞏固了 #2 的市場定位。\n\nWooting 60HE+ 以 0.1mm Rapid Trigger 精度持續稱霸 #1。Wooting 80HE TenZ Takeover 限定版在社群引發廣泛討論，其 80% 配列設計滿足了介於 60% 緊湊和全尺寸之間的需求，預期將在下次評估中被納入本榜。TMR（穿隧磁阻）鍵盤亦在本季浮上檯面，被視為傳統機械和霍爾效應之間的技術折衷選項，目前尚無主流品牌採用但值得持續追蹤。\n\nKeychron Q1 Pro（#3）持續以 $199 鋁合金 Gasket-mount 加 QMK/Via 支援鞏固消費者市場中端旗艦地位，雖然 Q1 Ultra 的 8K 輪詢率在規格上已超越，但 Q1 Pro 的整體均衡表現仍是非競技用途的最佳選擇之一。預算段由 Keychron K8 Pro（#8，$109 含 QMK/熱插拔）和 HyperX Alloy Origins Core（#12，$89 全鋁 TKL）分別主導，為入門用戶提供充分選擇。",
-      "highlights": [
-        "SteelSeries 磁性開關跨 60%/75%/100% 配列全面推出，Apex Pro TKL Wireless 功能評分升至 9.3",
-        "Wooting 80HE TenZ Takeover 限定版社群熱議，80% 霍爾效應配列市場空間正式開啟",
-        "Wooting 60HE+ 維持 #1：Rapid Trigger 0.1mm 是 CS2 競技玩家的不二首選",
-        "TMR（穿隧磁阻）鍵盤技術崛起，未來可能成為霍爾效應以外的第三條技術路線",
-        "Keychron K8 Pro (#8)：$109 含 QMK/Via + 熱插拔，Q1 2026 最佳入門性價比不動搖"
+        {
+          "id": "wooting-60he",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "switches": 9.8,
+            "build": 9,
+            "features": 9.5,
+            "latency": 9.8,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "steelseries-apex-pro-tkl-w",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "switches": 9.5,
+            "build": 8.8,
+            "features": 9.3,
+            "latency": 9,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "keychron-q1-pro",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "switches": 9.2,
+            "build": 9.5,
+            "features": 9,
+            "latency": 8.3,
+            "value": 8.6
+          }
+        },
+        {
+          "id": "logitech-g915-tkl",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "switches": 8.5,
+            "build": 9.2,
+            "features": 9,
+            "latency": 8.8,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "ducky-one3",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "switches": 9,
+            "build": 8.8,
+            "features": 8,
+            "latency": 8.5,
+            "value": 9.3
+          }
+        },
+        {
+          "id": "corsair-k100-air",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "switches": 8.8,
+            "build": 9,
+            "features": 9,
+            "latency": 8.5,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "razer-blackwidow-v4-pro",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "switches": 8.5,
+            "build": 8.5,
+            "features": 8.8,
+            "latency": 8.8,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "keychron-k8-pro",
+          "rank": 8,
+          "score": 8.2,
+          "scores": {
+            "switches": 8.5,
+            "build": 8,
+            "features": 8.5,
+            "latency": 8,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "nuphy-air75-v2",
+          "rank": 9,
+          "score": 8,
+          "scores": {
+            "switches": 8,
+            "build": 8.5,
+            "features": 8,
+            "latency": 8,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "mountain-everest-max",
+          "rank": 10,
+          "score": 7.9,
+          "scores": {
+            "switches": 8.5,
+            "build": 9,
+            "features": 8.5,
+            "latency": 8,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "rog-strix-scope2-rx",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "switches": 8.2,
+            "build": 8,
+            "features": 8,
+            "latency": 8.5,
+            "value": 8
+          }
+        },
+        {
+          "id": "hyperx-alloy-origins-core",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "switches": 7.8,
+            "build": 8,
+            "features": 7,
+            "latency": 8,
+            "value": 9.5
+          }
+        }
       ],
       "references": [
-        { "title": "Best Hall Effect keyboards in 2026", "url": "https://www.pcgamer.com/hardware/gaming-keyboards/best-hall-effect-keyboards/", "source": "PC Gamer" },
-        { "title": "Best Gaming Keyboards", "url": "https://www.rtings.com/keyboard/reviews/best/gaming", "source": "RTINGS" },
-        { "title": "TMR Keyboard comparison 2026", "url": "https://gamakay.com/blogs/news/tmr-keyboard-in-2026-compare-to-hall-effect-and-mechanical-keyboards", "source": "GamaKay" }
-      ]
+        {
+          "title": "Best Hall Effect keyboards in 2026",
+          "url": "https://www.pcgamer.com/hardware/gaming-keyboards/best-hall-effect-keyboards/",
+          "source": "PC Gamer"
+        },
+        {
+          "title": "Best Gaming Keyboards",
+          "url": "https://www.rtings.com/keyboard/reviews/best/gaming",
+          "source": "RTINGS"
+        },
+        {
+          "title": "TMR Keyboard comparison 2026",
+          "url": "https://gamakay.com/blogs/news/tmr-keyboard-in-2026-compare-to-hall-effect-and-mechanical-keyboards",
+          "source": "GamaKay"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "",
+          "highlights": []
+        },
+        "zh-tw": {
+          "commentary": "2026 年 Q1 末，機械鍵盤市場在霍爾效應開關生態系持續壯大的背景下進入新的技術成熟期。SteelSeries 本季正式跨配列推出磁性開關版本，涵蓋 60%、75%、100% 三種配列，是繼 Wooting 之後第一個全配列鋪開磁性開關的主流競技品牌。SteelSeries Apex Pro TKL Wireless 因此在「功能與軟體」評分從 9.2 上調至 9.3，整體維持 9.1——其可調節觸發點 OmniPoint 2.0 搭配日趨完整的磁性開關生態，鞏固了 #2 的市場定位。\n\nWooting 60HE+ 以 0.1mm Rapid Trigger 精度持續稱霸 #1。Wooting 80HE TenZ Takeover 限定版在社群引發廣泛討論，其 80% 配列設計滿足了介於 60% 緊湊和全尺寸之間的需求，預期將在下次評估中被納入本榜。TMR（穿隧磁阻）鍵盤亦在本季浮上檯面，被視為傳統機械和霍爾效應之間的技術折衷選項，目前尚無主流品牌採用但值得持續追蹤。\n\nKeychron Q1 Pro（#3）持續以 $199 鋁合金 Gasket-mount 加 QMK/Via 支援鞏固消費者市場中端旗艦地位，雖然 Q1 Ultra 的 8K 輪詢率在規格上已超越，但 Q1 Pro 的整體均衡表現仍是非競技用途的最佳選擇之一。預算段由 Keychron K8 Pro（#8，$109 含 QMK/熱插拔）和 HyperX Alloy Origins Core（#12，$89 全鋁 TKL）分別主導，為入門用戶提供充分選擇。",
+          "highlights": [
+            "SteelSeries 磁性開關跨 60%/75%/100% 配列全面推出，Apex Pro TKL Wireless 功能評分升至 9.3",
+            "Wooting 80HE TenZ Takeover 限定版社群熱議，80% 霍爾效應配列市場空間正式開啟",
+            "Wooting 60HE+ 維持 #1：Rapid Trigger 0.1mm 是 CS2 競技玩家的不二首選",
+            "TMR（穿隧磁阻）鍵盤技術崛起，未來可能成為霍爾效應以外的第三條技術路線",
+            "Keychron K8 Pro (#8)：$109 含 QMK/Via + 熱插拔，Q1 2026 最佳入門性價比不動搖"
+          ]
+        }
+      }
     }
   ]
 }

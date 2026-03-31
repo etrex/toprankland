@@ -6,53 +6,73 @@
 - **技術**: Astro (Static) + Tailwind CSS + Chart.js
 - **部署**: Cloudflare Pages（從 GitHub 自動部署）
 - **專案路徑**: /Users/etrexkuo/toprankland
+- **語系**: 雙語（English `/en/` + 繁體中文 `/zh-tw/`），未來擴展到 10+ 語系
 
 ---
 
-## 資料架構
+## 資料架構（i18n 結構）
 
-排行榜資料位於 `src/content/rankings/*.json`，格式如下：
+排行榜資料位於 `src/content/rankings/*.json`，**必須使用以下 i18n 格式**：
 
 ```json
 {
   "slug": "best-wireless-earbuds",
-  "title": "Best Wireless Earbuds",
   "category": "Electronics",
-  "description": "一句話說明",
   "scoreFactors": {
-    "key1": "Factor Label",
-    "key2": "Factor Label"
+    "key1": "English Factor Label",
+    "key2": "English Factor Label"
+  },
+  "i18n": {
+    "en": {
+      "title": "Best Wireless Earbuds 2026",
+      "description": "One-sentence English description"
+    },
+    "zh-tw": {
+      "title": "最佳無線耳機 2026",
+      "description": "一句話中文說明"
+    }
   },
   "competitors": [
     {
-      "id": "unique-id",
+      "id": "unique-kebab-id",
       "name": "Product Name",
       "brand": "Brand",
-      "url": "https://...",
+      "url": "https://verified-url",
       "priceRange": "$249",
-      "description": "一句話介紹"
+      "i18n": {
+        "en": { "description": "English one-liner" },
+        "zh-tw": { "description": "中文一句話介紹" }
+      }
     }
   ],
   "history": [
     {
       "date": "YYYY-MM-DD",
       "rankings": [
-        {
-          "id": "unique-id",
-          "rank": 1,
-          "score": 9.2,
-          "scores": { "key1": 9.0, "key2": 8.5 }
-        }
+        { "id": "unique-id", "rank": 1, "score": 9.2, "scores": { "key1": 9.0, "key2": 8.5 } }
       ],
-      "commentary": "今日分析（200-400字），客觀說明排名變化原因",
-      "highlights": ["重點摘要1", "重點摘要2"],
       "references": [
-        { "title": "文章標題", "url": "https://...", "source": "來源名稱" }
-      ]
+        { "title": "Article Title", "url": "https://...", "source": "Source Name" }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "200-400 word English analysis",
+          "highlights": ["English point 1", "English point 2"]
+        },
+        "zh-tw": {
+          "commentary": "200-400字中文分析",
+          "highlights": ["中文重點1", "中文重點2"]
+        }
+      }
     }
   ]
 }
 ```
+
+**⚠️ 禁止使用的舊欄位**（會造成頁面渲染錯誤）：
+- 根層級的 `title`, `description` — 必須放在 `i18n.en` / `i18n.zh-tw`
+- `competitors[].description` — 必須放在 `competitors[].i18n.en.description`
+- `history[].commentary`, `history[].highlights` — 必須放在 `history[].i18n.en` / `history[].i18n.zh-tw`
 
 **重要規則**:
 - `competitors` 最多 100 個
@@ -60,72 +80,42 @@
 - 如果今天已有該日期的 history，**更新**而非新增
 - score 範圍 1.0–10.0，保留一位小數
 - rank 從 1 開始，不能重複
+- 所有外部 URL 必須驗證（curl 確認非 404）
+
+---
+
+## URL 結構
+
+- 首頁: `/en/` 和 `/zh-tw/`
+- 排行榜: `/en/rankings/{slug}` 和 `/zh-tw/rankings/{slug}`
+- 舊 URL `/rankings/{slug}` 會自動 301 redirect 到 `/en/rankings/{slug}`
 
 ---
 
 ## 現有排行榜
 
-| 檔案 | 主題 | 類別 |
-|------|------|------|
-| best-wireless-earbuds.json | Best Wireless Earbuds | Electronics |
-| best-gaming-mice.json | Best Gaming Mice | Gaming |
-| best-vpn-services.json | Best VPN Services | Software |
-| best-smart-watches.json | Best Smart Watches | Wearables |
-| best-mechanical-keyboards.json | Best Mechanical Keyboards | Computing |
+讀取 `src/content/rankings/` 目錄取得最新清單。
 
 ---
 
-## 每日更新任務（Daily Ranking Update）
+## 建置並部署
 
-**步驟**:
-
-### 1. 研究最新資訊
-針對每個排行榜，用 WebSearch 搜尋最新評測、新聞、使用者評價：
-- 新型號發布？重大韌體更新？價格變動？重大缺陷？
-- 參考來源優先級：rtings.com > wirecutter > techradar > theverge > reddit
-
-### 2. 重新評估排名
-- **不要每天大幅變動**（市場穩定，除非有重大事件）
-- 新品發布或重大更新才需大幅調整（rank 移動 3+）
-- 小幅口碑累積可調整 0.1–0.2 分
-- 理由要具體、客觀，引用實際事件
-
-### 3. 新增今日 history 條目
-在每個 JSON 的 `history` 陣列末尾新增今天的完整條目。
-
-### 4. 建置並部署
 ```bash
 cd /Users/etrexkuo/toprankland
 npm run build
-CLOUDFLARE_ACCOUNT_ID=8c4a53bddc1c11f46aa4709db491265d npx wrangler pages deploy dist --project-name toprankland --branch master
-git add src/content/rankings/
-git commit -m "content: daily update $(date +%Y-%m-%d)"
+CLOUDFLARE_ACCOUNT_ID=8c4a53bddc1c11f46aa4709db491265d npx wrangler pages deploy dist --project-name toprankland --branch master --commit-dirty=true
+git add -A
+git commit -m "content: [描述]"
 git push
 ```
 
 ---
 
-## 新增排行榜任務（Add New Ranking）
-
-**執行時機**: 每次執行時評估，每週至少新增一個
-
-**選題原則**:
-- 消費者購買前會主動搜尋的類別
-- 有明確可比較競品（至少 8 個）
-- 市場活躍（會有變化）
-- SEO 潛力高
-
-**好的主題**:
-- 實體: 無線耳機、遊戲滑鼠、機械鍵盤、掃地機器人、藍牙喇叭、顯示器、電動牙刷、筆電
-- 虛擬: VPN、密碼管理器、串流平台、雲端儲存、生產力 SaaS
-- 人: 依領域定義，需客觀、有公開可查的指標
-
----
-
 ## 內容品質原則
 
-1. **客觀**: 分析要有具體理由，引用事件或數據
-2. **一致**: 同類產品評分標準要一致
-3. **即時**: 重大新聞要反映在排名中
-4. **公正**: 不偏袒特定品牌，以使用者利益為優先
-5. **簡潔**: commentary 200–400 字，highlights 3–5 條
+1. **雙語完整**: `i18n.en` 和 `i18n.zh-tw` 都要填寫，不能只寫一種語言
+2. **客觀**: 分析要有具體理由，引用事件或數據
+3. **一致**: 同類產品評分標準要一致
+4. **即時**: 重大新聞要反映在排名中
+5. **URL 驗證**: 所有新增的外部連結必須 curl 確認有效
+6. **簡潔**: commentary 200–400 字，highlights 3–5 條

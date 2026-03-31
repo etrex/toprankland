@@ -1,31 +1,52 @@
 ---
 import '../styles/global.css';
+import { supportedLangs, langNames, type Lang } from '../i18n/translations';
 
 interface Props {
   title: string;
   description?: string;
+  lang: Lang;
+  currentPath?: string;
 }
 
-const { title, description = 'TopRankLand - The Best Rankings on Everything' } = Astro.props;
+const { title, description = 'TopRankLand - The Best Rankings on Everything', lang, currentPath = '' } = Astro.props;
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang={lang}>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content={description} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <title>{title} | TopRankLand</title>
+    {supportedLangs.map(l => (
+      <link rel="alternate" hreflang={l} href={`https://toprankland.com/${l}${currentPath}`} />
+    ))}
+    <link rel="alternate" hreflang="x-default" href={`https://toprankland.com/en${currentPath}`} />
   </head>
   <body class="min-h-screen flex flex-col">
     <header class="bg-white border-b border-gray-200 sticky top-0 z-10">
       <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
-        <a href="/" class="text-2xl font-bold text-indigo-600">🏆 TopRankLand</a>
-        <nav class="flex gap-6 text-sm font-medium text-gray-600">
-          <a href="/rankings" class="hover:text-indigo-600">All Rankings</a>
-          <a href="/categories" class="hover:text-indigo-600">Categories</a>
-        </nav>
+        <a href={`/${lang}/`} class="text-2xl font-bold text-indigo-600">🏆 TopRankLand</a>
+        <div class="flex items-center gap-4">
+          <nav class="hidden sm:flex gap-6 text-sm font-medium text-gray-600">
+            <a href={`/${lang}/`} class="hover:text-indigo-600">
+              {lang === 'en' ? 'All Rankings' : '所有排行榜'}
+            </a>
+          </nav>
+          <!-- Language Switcher -->
+          <div class="flex items-center border border-gray-200 rounded-lg overflow-hidden text-xs">
+            {supportedLangs.map(l => (
+              <a
+                href={`/${l}${currentPath}`}
+                class={`px-2.5 py-1.5 font-medium transition-colors ${l === lang ? 'bg-indigo-600 text-white' : 'text-gray-500 hover:text-indigo-600 hover:bg-gray-50'}`}
+              >
+                {langNames[l]}
+              </a>
+            ))}
+          </div>
+        </div>
       </div>
     </header>
 
@@ -35,7 +56,7 @@ const { title, description = 'TopRankLand - The Best Rankings on Everything' } =
 
     <footer class="bg-white border-t border-gray-200 mt-12">
       <div class="max-w-6xl mx-auto px-4 py-6 text-center text-sm text-gray-400">
-        © {new Date().getFullYear()} TopRankLand · Curated Rankings for Everything
+        © {new Date().getFullYear()} TopRankLand · {lang === 'en' ? 'Curated Rankings for Everything' : '精選排行榜，每日追蹤'}
       </div>
     </footer>
   </body>

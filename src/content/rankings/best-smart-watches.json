@@ -1,8 +1,6 @@
 {
   "slug": "best-smart-watches",
-  "title": "Best Smart Watches",
   "category": "Wearables",
-  "description": "Daily-updated rankings of the best smart watches, scored on health tracking, battery life, display quality, ecosystem, and value.",
   "scoreFactors": {
     "health": "Health & Fitness Tracking",
     "battery": "Battery Life",
@@ -10,110 +8,744 @@
     "ecosystem": "App Ecosystem",
     "value": "Value"
   },
+  "i18n": {
+    "en": {
+      "title": "Best Smart Watches",
+      "description": "Daily-updated rankings of the best smart watches, scored on health tracking, battery life, display quality, ecosystem, and value."
+    },
+    "zh-tw": {
+      "title": "最佳智慧手錶 2026",
+      "description": "每日更新的最佳智慧手錶排行榜，根據健康追蹤、電池壽命、螢幕品質、應用生態和性價比評分。"
+    }
+  },
   "competitors": [
-    { "id": "apple-ultra2", "name": "Apple Watch Ultra 2", "brand": "Apple", "url": "https://www.apple.com/apple-watch-ultra-2/", "priceRange": "$799", "description": "Titanium adventure watch with up to 60h battery and brightest Apple Watch display" },
-    { "id": "garmin-fenix8", "name": "Garmin Fenix 8", "brand": "Garmin", "url": "https://www.garmin.com/en-US/p/1228429/", "priceRange": "$799+", "description": "Flagship multisport GPS watch with AMOLED display and up to 29 days battery" },
-    { "id": "apple-s10", "name": "Apple Watch Series 10", "brand": "Apple", "url": "https://www.apple.com/apple-watch-series-10/", "priceRange": "$399", "description": "Thinnest Apple Watch ever with faster charging and new sleep apnea detection" },
-    { "id": "samsung-gw7-ultra", "name": "Samsung Galaxy Watch 7 Ultra", "brand": "Samsung", "url": "https://www.samsung.com/us/watches/galaxy-watch-ultra/", "priceRange": "$649", "description": "Titanium premium Galaxy Watch with tri-sensor and 3-day battery" },
-    { "id": "garmin-fr965", "name": "Garmin Forerunner 965", "brand": "Garmin", "url": "https://www.garmin.com/en-US/p/886785/", "priceRange": "$599", "description": "Runner-focused GPS watch with AMOLED display and 31-day battery life" },
-    { "id": "samsung-gw7", "name": "Samsung Galaxy Watch 7", "brand": "Samsung", "url": "https://www.samsung.com/us/watches/galaxy-watch7/", "priceRange": "$299", "description": "Mainstream Galaxy Watch with BioActive sensor and Galaxy AI health features" },
-    { "id": "google-pw3", "name": "Google Pixel Watch 3", "brand": "Google", "url": "https://store.google.com/us/product/pixel_watch_3", "priceRange": "$349", "description": "Improved battery life with Fitbit health tracking and Wear OS 4 integration" },
-    { "id": "withings-scanwatch2", "name": "Withings ScanWatch 2", "brand": "Withings", "url": "https://www.withings.com/us/en/scanwatch-2", "priceRange": "$349", "description": "Hybrid analog watch with 30-day battery, ECG, and AFib detection" },
-    { "id": "amazfit-balance2", "name": "Amazfit Balance 2", "brand": "Amazfit", "url": "https://www.amazfit.com/en/", "priceRange": "$199", "description": "AI health coach integration with Zepp OS and 14-day battery" },
-    { "id": "coros-pace3", "name": "COROS PACE 3", "brand": "COROS", "url": "https://us.coros.com/pace3", "priceRange": "$229", "description": "Ultra-light sports watch at 30g with 17-day battery and dual-frequency GPS" },
-    { "id": "oneplus-watch2r", "name": "OnePlus Watch 2R", "brand": "OnePlus", "url": "https://www.oneplus.com/us/oneplus-watch-2r", "priceRange": "$229", "description": "Snapdragon W5+ with Wear OS and 100h battery with smart mode" },
-    { "id": "huawei-gt5-pro", "name": "Huawei Watch GT 5 Pro", "brand": "Huawei", "url": "https://consumer.huawei.com/en/wearables/watch-gt5-pro/", "priceRange": "$349", "description": "Titanium build with 14-day battery and advanced health sensors" }
+    {
+      "id": "apple-ultra2",
+      "name": "Apple Watch Ultra 2",
+      "brand": "Apple",
+      "url": "https://www.apple.com/apple-watch-ultra-2/",
+      "priceRange": "$799",
+      "i18n": {
+        "en": {
+          "description": "Titanium adventure watch with up to 60h battery and brightest Apple Watch display"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "garmin-fenix8",
+      "name": "Garmin Fenix 8",
+      "brand": "Garmin",
+      "url": "https://www.garmin.com/en-US/p/1228429/",
+      "priceRange": "$799+",
+      "i18n": {
+        "en": {
+          "description": "Flagship multisport GPS watch with AMOLED display and up to 29 days battery"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "apple-s10",
+      "name": "Apple Watch Series 10",
+      "brand": "Apple",
+      "url": "https://www.apple.com/apple-watch-series-10/",
+      "priceRange": "$399",
+      "i18n": {
+        "en": {
+          "description": "Thinnest Apple Watch ever with faster charging and new sleep apnea detection"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "samsung-gw7-ultra",
+      "name": "Samsung Galaxy Watch 7 Ultra",
+      "brand": "Samsung",
+      "url": "https://www.samsung.com/us/watches/galaxy-watch-ultra/",
+      "priceRange": "$649",
+      "i18n": {
+        "en": {
+          "description": "Titanium premium Galaxy Watch with tri-sensor and 3-day battery"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "garmin-fr965",
+      "name": "Garmin Forerunner 965",
+      "brand": "Garmin",
+      "url": "https://www.garmin.com/en-US/p/886785/",
+      "priceRange": "$599",
+      "i18n": {
+        "en": {
+          "description": "Runner-focused GPS watch with AMOLED display and 31-day battery life"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "samsung-gw7",
+      "name": "Samsung Galaxy Watch 7",
+      "brand": "Samsung",
+      "url": "https://www.samsung.com/us/watches/galaxy-watch7/",
+      "priceRange": "$299",
+      "i18n": {
+        "en": {
+          "description": "Mainstream Galaxy Watch with BioActive sensor and Galaxy AI health features"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "google-pw3",
+      "name": "Google Pixel Watch 3",
+      "brand": "Google",
+      "url": "https://store.google.com/us/product/pixel_watch_3",
+      "priceRange": "$349",
+      "i18n": {
+        "en": {
+          "description": "Improved battery life with Fitbit health tracking and Wear OS 4 integration"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "withings-scanwatch2",
+      "name": "Withings ScanWatch 2",
+      "brand": "Withings",
+      "url": "https://www.withings.com/us/en/scanwatch-2",
+      "priceRange": "$349",
+      "i18n": {
+        "en": {
+          "description": "Hybrid analog watch with 30-day battery, ECG, and AFib detection"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "amazfit-balance2",
+      "name": "Amazfit Balance 2",
+      "brand": "Amazfit",
+      "url": "https://www.amazfit.com/en/",
+      "priceRange": "$199",
+      "i18n": {
+        "en": {
+          "description": "AI health coach integration with Zepp OS and 14-day battery"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "coros-pace3",
+      "name": "COROS PACE 3",
+      "brand": "COROS",
+      "url": "https://us.coros.com/pace3",
+      "priceRange": "$229",
+      "i18n": {
+        "en": {
+          "description": "Ultra-light sports watch at 30g with 17-day battery and dual-frequency GPS"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "oneplus-watch2r",
+      "name": "OnePlus Watch 2R",
+      "brand": "OnePlus",
+      "url": "https://www.oneplus.com/us/oneplus-watch-2r",
+      "priceRange": "$229",
+      "i18n": {
+        "en": {
+          "description": "Snapdragon W5+ with Wear OS and 100h battery with smart mode"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "huawei-gt5-pro",
+      "name": "Huawei Watch GT 5 Pro",
+      "brand": "Huawei",
+      "url": "https://consumer.huawei.com/en/wearables/watch-gt5-pro/",
+      "priceRange": "$349",
+      "i18n": {
+        "en": {
+          "description": "Titanium build with 14-day battery and advanced health sensors"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    }
   ],
   "history": [
     {
       "date": "2026-03-26",
       "rankings": [
-        { "id": "apple-ultra2", "rank": 1, "score": 9.4, "scores": { "health": 9.5, "battery": 8.0, "display": 9.8, "ecosystem": 9.8, "value": 7.5 } },
-        { "id": "garmin-fenix8", "rank": 2, "score": 9.2, "scores": { "health": 9.8, "battery": 9.5, "display": 9.0, "ecosystem": 8.0, "value": 7.5 } },
-        { "id": "apple-s10", "rank": 3, "score": 9.0, "scores": { "health": 9.2, "battery": 7.5, "display": 9.5, "ecosystem": 9.8, "value": 8.5 } },
-        { "id": "samsung-gw7-ultra", "rank": 4, "score": 8.8, "scores": { "health": 9.0, "battery": 8.0, "display": 9.2, "ecosystem": 8.5, "value": 7.8 } },
-        { "id": "garmin-fr965", "rank": 5, "score": 8.7, "scores": { "health": 9.5, "battery": 9.5, "display": 9.0, "ecosystem": 7.5, "value": 8.0 } },
-        { "id": "samsung-gw7", "rank": 6, "score": 8.4, "scores": { "health": 8.5, "battery": 7.5, "display": 8.8, "ecosystem": 8.5, "value": 9.0 } },
-        { "id": "google-pw3", "rank": 7, "score": 8.1, "scores": { "health": 8.5, "battery": 7.8, "display": 8.5, "ecosystem": 8.5, "value": 8.0 } },
-        { "id": "withings-scanwatch2", "rank": 8, "score": 7.9, "scores": { "health": 8.5, "battery": 9.5, "display": 7.0, "ecosystem": 7.0, "value": 8.0 } },
-        { "id": "coros-pace3", "rank": 9, "score": 7.7, "scores": { "health": 8.5, "battery": 9.2, "display": 7.5, "ecosystem": 6.5, "value": 9.2 } },
-        { "id": "amazfit-balance2", "rank": 10, "score": 7.6, "scores": { "health": 8.0, "battery": 9.0, "display": 8.0, "ecosystem": 7.0, "value": 9.0 } },
-        { "id": "oneplus-watch2r", "rank": 11, "score": 7.4, "scores": { "health": 7.5, "battery": 9.0, "display": 7.8, "ecosystem": 7.5, "value": 8.5 } },
-        { "id": "huawei-gt5-pro", "rank": 12, "score": 7.2, "scores": { "health": 8.0, "battery": 9.0, "display": 8.0, "ecosystem": 5.5, "value": 7.5 } }
-      ],
-      "commentary": "The smart watch market in 2026 is defined by two distinct ecosystems: Apple/Samsung for smartphone-integrated experiences, and Garmin/COROS for serious athletes prioritizing battery life. Apple Watch Ultra 2 claims #1 by offering the most complete package for Apple users, with its S9 chip, the industry's best haptics, and now sleep apnea detection cleared by the FDA. Garmin Fenix 8's AMOLED upgrade finally closes the display gap against Apple while maintaining Garmin's legendary battery life. Samsung Galaxy Watch 7 Ultra enters the top tier at #4, but battery life remains a concern vs. premium-priced competitors. Notably, Huawei's ecosystem isolation (no Google services in most markets) keeps the GT 5 Pro at #12 despite impressive hardware.",
-      "highlights": [
-        "Apple Watch Ultra 2 #1: best ecosystem + FDA-cleared sleep apnea detection",
-        "Garmin Fenix 8 #2: AMOLED display upgrade while keeping 29-day battery",
-        "Samsung Galaxy Watch 7 Ultra enters top 4 but battery disappoints at premium price",
-        "COROS PACE 3 best value for runners at #9 with 17-day battery at $229",
-        "Huawei GT 5 Pro drops to #12 due to Google services ecosystem lock-out"
+        {
+          "id": "apple-ultra2",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "health": 9.5,
+            "battery": 8,
+            "display": 9.8,
+            "ecosystem": 9.8,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "garmin-fenix8",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "health": 9.8,
+            "battery": 9.5,
+            "display": 9,
+            "ecosystem": 8,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "apple-s10",
+          "rank": 3,
+          "score": 9,
+          "scores": {
+            "health": 9.2,
+            "battery": 7.5,
+            "display": 9.5,
+            "ecosystem": 9.8,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "samsung-gw7-ultra",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "health": 9,
+            "battery": 8,
+            "display": 9.2,
+            "ecosystem": 8.5,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "garmin-fr965",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "health": 9.5,
+            "battery": 9.5,
+            "display": 9,
+            "ecosystem": 7.5,
+            "value": 8
+          }
+        },
+        {
+          "id": "samsung-gw7",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "health": 8.5,
+            "battery": 7.5,
+            "display": 8.8,
+            "ecosystem": 8.5,
+            "value": 9
+          }
+        },
+        {
+          "id": "google-pw3",
+          "rank": 7,
+          "score": 8.1,
+          "scores": {
+            "health": 8.5,
+            "battery": 7.8,
+            "display": 8.5,
+            "ecosystem": 8.5,
+            "value": 8
+          }
+        },
+        {
+          "id": "withings-scanwatch2",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "health": 8.5,
+            "battery": 9.5,
+            "display": 7,
+            "ecosystem": 7,
+            "value": 8
+          }
+        },
+        {
+          "id": "coros-pace3",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "health": 8.5,
+            "battery": 9.2,
+            "display": 7.5,
+            "ecosystem": 6.5,
+            "value": 9.2
+          }
+        },
+        {
+          "id": "amazfit-balance2",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "health": 8,
+            "battery": 9,
+            "display": 8,
+            "ecosystem": 7,
+            "value": 9
+          }
+        },
+        {
+          "id": "oneplus-watch2r",
+          "rank": 11,
+          "score": 7.4,
+          "scores": {
+            "health": 7.5,
+            "battery": 9,
+            "display": 7.8,
+            "ecosystem": 7.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "huawei-gt5-pro",
+          "rank": 12,
+          "score": 7.2,
+          "scores": {
+            "health": 8,
+            "battery": 9,
+            "display": 8,
+            "ecosystem": 5.5,
+            "value": 7.5
+          }
+        }
       ],
       "references": [
-        { "title": "Best Smartwatch 2026", "url": "https://www.techradar.com/news/wearables/best-smart-watches-what-s-the-best-wearable-tech-for-you-1154074", "source": "TechRadar" },
-        { "title": "The Best Smartwatch", "url": "https://www.nytimes.com/wirecutter/reviews/best-smartwatch/", "source": "Wirecutter" },
-        { "title": "Best Smart Watches Compared", "url": "https://www.wareable.com/smartwatches/best-smartwatches", "source": "Wareable" }
-      ]
+        {
+          "title": "Best Smartwatch 2026",
+          "url": "https://www.techradar.com/news/wearables/best-smart-watches-what-s-the-best-wearable-tech-for-you-1154074",
+          "source": "TechRadar"
+        },
+        {
+          "title": "The Best Smartwatch",
+          "url": "https://www.nytimes.com/wirecutter/reviews/best-smartwatch/",
+          "source": "Wirecutter"
+        },
+        {
+          "title": "Best Smart Watches Compared",
+          "url": "https://www.wareable.com/smartwatches/best-smartwatches",
+          "source": "Wareable"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The smart watch market in 2026 is defined by two distinct ecosystems: Apple/Samsung for smartphone-integrated experiences, and Garmin/COROS for serious athletes prioritizing battery life. Apple Watch Ultra 2 claims #1 by offering the most complete package for Apple users, with its S9 chip, the industry's best haptics, and now sleep apnea detection cleared by the FDA. Garmin Fenix 8's AMOLED upgrade finally closes the display gap against Apple while maintaining Garmin's legendary battery life. Samsung Galaxy Watch 7 Ultra enters the top tier at #4, but battery life remains a concern vs. premium-priced competitors. Notably, Huawei's ecosystem isolation (no Google services in most markets) keeps the GT 5 Pro at #12 despite impressive hardware.",
+          "highlights": [
+            "Apple Watch Ultra 2 #1: best ecosystem + FDA-cleared sleep apnea detection",
+            "Garmin Fenix 8 #2: AMOLED display upgrade while keeping 29-day battery",
+            "Samsung Galaxy Watch 7 Ultra enters top 4 but battery disappoints at premium price",
+            "COROS PACE 3 best value for runners at #9 with 17-day battery at $229",
+            "Huawei GT 5 Pro drops to #12 due to Google services ecosystem lock-out"
+          ]
+        },
+        "zh-tw": {
+          "commentary": "",
+          "highlights": []
+        }
+      }
     },
     {
       "date": "2026-03-30",
       "rankings": [
-        { "id": "apple-ultra2", "rank": 1, "score": 9.2, "scores": { "health": 9.5, "battery": 8.0, "display": 9.8, "ecosystem": 9.8, "value": 7.0 } },
-        { "id": "garmin-fenix8", "rank": 2, "score": 9.2, "scores": { "health": 9.8, "battery": 9.5, "display": 9.0, "ecosystem": 8.0, "value": 7.7 } },
-        { "id": "apple-s10", "rank": 3, "score": 8.8, "scores": { "health": 9.2, "battery": 7.5, "display": 9.5, "ecosystem": 9.8, "value": 7.8 } },
-        { "id": "samsung-gw7-ultra", "rank": 4, "score": 8.8, "scores": { "health": 9.0, "battery": 8.0, "display": 9.2, "ecosystem": 8.5, "value": 7.8 } },
-        { "id": "garmin-fr965", "rank": 5, "score": 8.7, "scores": { "health": 9.5, "battery": 9.5, "display": 9.0, "ecosystem": 7.5, "value": 8.0 } },
-        { "id": "samsung-gw7", "rank": 6, "score": 8.4, "scores": { "health": 8.5, "battery": 7.5, "display": 8.8, "ecosystem": 8.5, "value": 9.0 } },
-        { "id": "google-pw3", "rank": 7, "score": 8.1, "scores": { "health": 8.5, "battery": 7.8, "display": 8.5, "ecosystem": 8.5, "value": 8.0 } },
-        { "id": "withings-scanwatch2", "rank": 8, "score": 7.9, "scores": { "health": 8.5, "battery": 9.5, "display": 7.0, "ecosystem": 7.0, "value": 8.0 } },
-        { "id": "coros-pace3", "rank": 9, "score": 7.7, "scores": { "health": 8.5, "battery": 9.2, "display": 7.5, "ecosystem": 6.5, "value": 9.2 } },
-        { "id": "amazfit-balance2", "rank": 10, "score": 7.6, "scores": { "health": 8.0, "battery": 9.0, "display": 8.0, "ecosystem": 7.0, "value": 9.0 } },
-        { "id": "oneplus-watch2r", "rank": 11, "score": 7.4, "scores": { "health": 7.5, "battery": 9.0, "display": 7.8, "ecosystem": 7.5, "value": 8.5 } },
-        { "id": "huawei-gt5-pro", "rank": 12, "score": 7.2, "scores": { "health": 8.0, "battery": 9.0, "display": 8.0, "ecosystem": 5.5, "value": 7.5 } }
-      ],
-      "commentary": "智慧手錶市場在 2026 年 3 月底持續以 AI 健康功能為核心競爭點。Apple Watch Ultra 3 和 Series 11 的上市已反映在前代機型的性價比評分調降中。根據最新洩露資訊，Apple Watch Series 11 和 Ultra 3 可能搭載 Touch Unlock 指紋辨識功能，進一步強化安全解鎖體驗。Apple Watch Ultra 2 仍以最完整的 Apple 生態整合（含 S9 晶片、FDA 認證睡眠呼吸中止偵測）維持 #1，Garmin Fenix 8 以 29 天超長電池和頂級多運動追蹤緊守 #2。\n\nSamsung Galaxy Watch 8 已確認上市，搭載 Galaxy AI 整合功能，其中包含 AI 驅動的睡眠呼吸中止偵測和體成分分析（BIA）。本榜 Galaxy Watch 7 Ultra（#4）和 Galaxy Watch 7（#6）因而承受性價比壓力，但分數維持不變，需待更多市場測評後再調整。Google Pixel Watch 4 同樣確認，對 Pixel Watch 3（本榜 #7）形成影響。\n\nGarmin 方面，CIRQA Smart Band 預計於 3 月底發布，定位輕量健康追蹤，為 Garmin 產品線擴增新品類。Amazon Big Spring Sale（3/25-3/31）期間 Garmin、Samsung 和 Fitbit 等品牌均有折扣，是入手前代旗艦機型的理想時機。COROS PACE 3 持續以 $229 + 17 天電池的組合，在跑步導向市場提供最高 CP 值。",
-      "highlights": [
-        "Apple Watch Ultra 3/Series 11 確認搭載 Touch Unlock 指紋解鎖，強化安全性",
-        "Samsung Galaxy Watch 8 搭載 Galaxy AI：AI 睡眠呼吸中止偵測 + 體成分分析",
-        "Garmin CIRQA Smart Band 預計 3 月底發布，Garmin 進軍輕量健康追蹤市場",
-        "Amazon Big Spring Sale (3/25-3/31)：Garmin、Samsung、Fitbit 全線折扣中",
-        "Google Pixel Watch 4 確認上市，Pixel Watch 3 (#7) 性價比承壓，待觀察"
+        {
+          "id": "apple-ultra2",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "health": 9.5,
+            "battery": 8,
+            "display": 9.8,
+            "ecosystem": 9.8,
+            "value": 7
+          }
+        },
+        {
+          "id": "garmin-fenix8",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "health": 9.8,
+            "battery": 9.5,
+            "display": 9,
+            "ecosystem": 8,
+            "value": 7.7
+          }
+        },
+        {
+          "id": "apple-s10",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "health": 9.2,
+            "battery": 7.5,
+            "display": 9.5,
+            "ecosystem": 9.8,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "samsung-gw7-ultra",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "health": 9,
+            "battery": 8,
+            "display": 9.2,
+            "ecosystem": 8.5,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "garmin-fr965",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "health": 9.5,
+            "battery": 9.5,
+            "display": 9,
+            "ecosystem": 7.5,
+            "value": 8
+          }
+        },
+        {
+          "id": "samsung-gw7",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "health": 8.5,
+            "battery": 7.5,
+            "display": 8.8,
+            "ecosystem": 8.5,
+            "value": 9
+          }
+        },
+        {
+          "id": "google-pw3",
+          "rank": 7,
+          "score": 8.1,
+          "scores": {
+            "health": 8.5,
+            "battery": 7.8,
+            "display": 8.5,
+            "ecosystem": 8.5,
+            "value": 8
+          }
+        },
+        {
+          "id": "withings-scanwatch2",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "health": 8.5,
+            "battery": 9.5,
+            "display": 7,
+            "ecosystem": 7,
+            "value": 8
+          }
+        },
+        {
+          "id": "coros-pace3",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "health": 8.5,
+            "battery": 9.2,
+            "display": 7.5,
+            "ecosystem": 6.5,
+            "value": 9.2
+          }
+        },
+        {
+          "id": "amazfit-balance2",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "health": 8,
+            "battery": 9,
+            "display": 8,
+            "ecosystem": 7,
+            "value": 9
+          }
+        },
+        {
+          "id": "oneplus-watch2r",
+          "rank": 11,
+          "score": 7.4,
+          "scores": {
+            "health": 7.5,
+            "battery": 9,
+            "display": 7.8,
+            "ecosystem": 7.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "huawei-gt5-pro",
+          "rank": 12,
+          "score": 7.2,
+          "scores": {
+            "health": 8,
+            "battery": 9,
+            "display": 8,
+            "ecosystem": 5.5,
+            "value": 7.5
+          }
+        }
       ],
       "references": [
-        { "title": "The best smartwatches in 2026", "url": "https://www.wareable.com/smartwatches/best-smartwatch-reviews-compared-8286", "source": "Wareable" },
-        { "title": "New Garmin wearable set to launch in March 2026", "url": "https://www.notebookcheck.net/New-Garmin-wearable-set-to-launch-in-March-2026.1253519.0.html", "source": "NotebookCheck" },
-        { "title": "Android smartwatches get AI revolution in 2026", "url": "https://android.gadgethacks.com/news/android-smartwatches-get-ai-revolution-in-2026/", "source": "Gadget Hacks" }
-      ]
+        {
+          "title": "The best smartwatches in 2026",
+          "url": "https://www.wareable.com/smartwatches/best-smartwatch-reviews-compared-8286",
+          "source": "Wareable"
+        },
+        {
+          "title": "New Garmin wearable set to launch in March 2026",
+          "url": "https://www.notebookcheck.net/New-Garmin-wearable-set-to-launch-in-March-2026.1253519.0.html",
+          "source": "NotebookCheck"
+        },
+        {
+          "title": "Android smartwatches get AI revolution in 2026",
+          "url": "https://android.gadgethacks.com/news/android-smartwatches-get-ai-revolution-in-2026/",
+          "source": "Gadget Hacks"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "",
+          "highlights": []
+        },
+        "zh-tw": {
+          "commentary": "智慧手錶市場在 2026 年 3 月底持續以 AI 健康功能為核心競爭點。Apple Watch Ultra 3 和 Series 11 的上市已反映在前代機型的性價比評分調降中。根據最新洩露資訊，Apple Watch Series 11 和 Ultra 3 可能搭載 Touch Unlock 指紋辨識功能，進一步強化安全解鎖體驗。Apple Watch Ultra 2 仍以最完整的 Apple 生態整合（含 S9 晶片、FDA 認證睡眠呼吸中止偵測）維持 #1，Garmin Fenix 8 以 29 天超長電池和頂級多運動追蹤緊守 #2。\n\nSamsung Galaxy Watch 8 已確認上市，搭載 Galaxy AI 整合功能，其中包含 AI 驅動的睡眠呼吸中止偵測和體成分分析（BIA）。本榜 Galaxy Watch 7 Ultra（#4）和 Galaxy Watch 7（#6）因而承受性價比壓力，但分數維持不變，需待更多市場測評後再調整。Google Pixel Watch 4 同樣確認，對 Pixel Watch 3（本榜 #7）形成影響。\n\nGarmin 方面，CIRQA Smart Band 預計於 3 月底發布，定位輕量健康追蹤，為 Garmin 產品線擴增新品類。Amazon Big Spring Sale（3/25-3/31）期間 Garmin、Samsung 和 Fitbit 等品牌均有折扣，是入手前代旗艦機型的理想時機。COROS PACE 3 持續以 $229 + 17 天電池的組合，在跑步導向市場提供最高 CP 值。",
+          "highlights": [
+            "Apple Watch Ultra 3/Series 11 確認搭載 Touch Unlock 指紋解鎖，強化安全性",
+            "Samsung Galaxy Watch 8 搭載 Galaxy AI：AI 睡眠呼吸中止偵測 + 體成分分析",
+            "Garmin CIRQA Smart Band 預計 3 月底發布，Garmin 進軍輕量健康追蹤市場",
+            "Amazon Big Spring Sale (3/25-3/31)：Garmin、Samsung、Fitbit 全線折扣中",
+            "Google Pixel Watch 4 確認上市，Pixel Watch 3 (#7) 性價比承壓，待觀察"
+          ]
+        }
+      }
     },
     {
       "date": "2026-03-31",
       "rankings": [
-        { "id": "apple-ultra2", "rank": 1, "score": 9.2, "scores": { "health": 9.5, "battery": 8.0, "display": 9.8, "ecosystem": 9.8, "value": 7.0 } },
-        { "id": "garmin-fenix8", "rank": 2, "score": 9.2, "scores": { "health": 9.8, "battery": 9.5, "display": 9.0, "ecosystem": 8.0, "value": 7.7 } },
-        { "id": "apple-s10", "rank": 3, "score": 8.8, "scores": { "health": 9.2, "battery": 7.5, "display": 9.5, "ecosystem": 9.8, "value": 7.8 } },
-        { "id": "samsung-gw7-ultra", "rank": 4, "score": 8.8, "scores": { "health": 9.0, "battery": 8.0, "display": 9.2, "ecosystem": 8.5, "value": 7.8 } },
-        { "id": "garmin-fr965", "rank": 5, "score": 8.7, "scores": { "health": 9.5, "battery": 9.5, "display": 9.0, "ecosystem": 7.5, "value": 8.0 } },
-        { "id": "samsung-gw7", "rank": 6, "score": 8.4, "scores": { "health": 8.5, "battery": 7.5, "display": 8.8, "ecosystem": 8.5, "value": 9.0 } },
-        { "id": "google-pw3", "rank": 7, "score": 8.1, "scores": { "health": 8.5, "battery": 7.8, "display": 8.5, "ecosystem": 8.5, "value": 8.0 } },
-        { "id": "withings-scanwatch2", "rank": 8, "score": 7.9, "scores": { "health": 8.5, "battery": 9.5, "display": 7.0, "ecosystem": 7.0, "value": 8.0 } },
-        { "id": "coros-pace3", "rank": 9, "score": 7.7, "scores": { "health": 8.5, "battery": 9.2, "display": 7.5, "ecosystem": 6.5, "value": 9.2 } },
-        { "id": "amazfit-balance2", "rank": 10, "score": 7.6, "scores": { "health": 8.0, "battery": 9.0, "display": 8.0, "ecosystem": 7.0, "value": 9.0 } },
-        { "id": "oneplus-watch2r", "rank": 11, "score": 7.4, "scores": { "health": 7.5, "battery": 9.0, "display": 7.8, "ecosystem": 7.5, "value": 8.5 } },
-        { "id": "huawei-gt5-pro", "rank": 12, "score": 7.2, "scores": { "health": 8.0, "battery": 9.0, "display": 8.0, "ecosystem": 5.5, "value": 7.5 } }
-      ],
-      "commentary": "Q1 2026 最後一天，智慧手錶市場以多項重磅確認消息收官。Amazon Big Spring Sale（3/25-3/31）在今日截止，Garmin Fenix 8、Samsung Galaxy Watch 7 系列和 Fitbit 等主力機型均有明顯折扣，是以現有評測驗證過的旗艦機型入場的理想時機。本榜各排名在今日維持不變，反映市場進入短暫平衡期，等待下一批新品上市後的重評。\n\nGarmin 本月發布的 CIRQA Smart Band 正式上架，定位輕量日常健康追蹤，標誌著 Garmin 從純運動錶向全民健康市場延伸的策略落地。這對本榜 Garmin Fenix 8（#2）和 Forerunner 965（#5）的影響有限，反而進一步強化 Garmin 生態系統的完整性。Apple Watch Series 11 的 24 小時全天候電量改進和 Samsung Galaxy Watch 8 的 Galaxy AI 健身功能，已確認將在本年度晚些時候直接對前代機型的「價值」評分構成衝擊。\n\nMeta 正式宣布 2026 年內推出首款搭載 AI 功能的智慧手錶，進一步擴大智慧手錶市場競爭格局。Zepp Health 公布 2026 年 Amazfit 路線圖，計畫推出至少 9 款新裝置，Amazfit Balance 2（#10）的繼任機型也在其中。Google Pixel Watch 3（#7）面臨 Pixel Watch 4 確認上市的競爭壓力，價值評分後續觀察中。整體而言，本榜 Q1 末維持穩定，Apple Watch Ultra 2 與 Garmin Fenix 8 繼續並列 9.2 分共同領跑。",
-      "highlights": [
-        "Amazon Big Spring Sale 今日（3/31）截止，Garmin、Samsung 旗艦折扣入場最後機會",
-        "Garmin CIRQA Smart Band 正式上架，Garmin 生態系統完整性進一步強化",
-        "Meta 2026 智慧手錶官宣，AI 健康功能將進入全新品牌競爭維度",
-        "Amazfit 2026 路線圖揭露 9 款新裝置，Amazfit Balance 2 繼任機型確認開發中",
-        "Apple Watch Ultra 2 與 Garmin Fenix 8 同列 9.2 分，Q1 末共同領跑智慧手錶榜"
+        {
+          "id": "apple-ultra2",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "health": 9.5,
+            "battery": 8,
+            "display": 9.8,
+            "ecosystem": 9.8,
+            "value": 7
+          }
+        },
+        {
+          "id": "garmin-fenix8",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "health": 9.8,
+            "battery": 9.5,
+            "display": 9,
+            "ecosystem": 8,
+            "value": 7.7
+          }
+        },
+        {
+          "id": "apple-s10",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "health": 9.2,
+            "battery": 7.5,
+            "display": 9.5,
+            "ecosystem": 9.8,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "samsung-gw7-ultra",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "health": 9,
+            "battery": 8,
+            "display": 9.2,
+            "ecosystem": 8.5,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "garmin-fr965",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "health": 9.5,
+            "battery": 9.5,
+            "display": 9,
+            "ecosystem": 7.5,
+            "value": 8
+          }
+        },
+        {
+          "id": "samsung-gw7",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "health": 8.5,
+            "battery": 7.5,
+            "display": 8.8,
+            "ecosystem": 8.5,
+            "value": 9
+          }
+        },
+        {
+          "id": "google-pw3",
+          "rank": 7,
+          "score": 8.1,
+          "scores": {
+            "health": 8.5,
+            "battery": 7.8,
+            "display": 8.5,
+            "ecosystem": 8.5,
+            "value": 8
+          }
+        },
+        {
+          "id": "withings-scanwatch2",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "health": 8.5,
+            "battery": 9.5,
+            "display": 7,
+            "ecosystem": 7,
+            "value": 8
+          }
+        },
+        {
+          "id": "coros-pace3",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "health": 8.5,
+            "battery": 9.2,
+            "display": 7.5,
+            "ecosystem": 6.5,
+            "value": 9.2
+          }
+        },
+        {
+          "id": "amazfit-balance2",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "health": 8,
+            "battery": 9,
+            "display": 8,
+            "ecosystem": 7,
+            "value": 9
+          }
+        },
+        {
+          "id": "oneplus-watch2r",
+          "rank": 11,
+          "score": 7.4,
+          "scores": {
+            "health": 7.5,
+            "battery": 9,
+            "display": 7.8,
+            "ecosystem": 7.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "huawei-gt5-pro",
+          "rank": 12,
+          "score": 7.2,
+          "scores": {
+            "health": 8,
+            "battery": 9,
+            "display": 8,
+            "ecosystem": 5.5,
+            "value": 7.5
+          }
+        }
       ],
       "references": [
-        { "title": "The best smartwatches in 2026", "url": "https://www.wareable.com/smartwatches/best-smartwatch-reviews-compared-8286", "source": "Wareable" },
-        { "title": "Android smartwatches get AI revolution in 2026", "url": "https://android.gadgethacks.com/news/android-smartwatches-get-ai-revolution-in-2026/", "source": "Gadget Hacks" },
-        { "title": "Amazfit 2026 roadmap", "url": "https://gadgetsandwearables.com/2026/03/16/amazfit-roadmap-2026/", "source": "Gadgets & Wearables" }
-      ]
+        {
+          "title": "The best smartwatches in 2026",
+          "url": "https://www.wareable.com/smartwatches/best-smartwatch-reviews-compared-8286",
+          "source": "Wareable"
+        },
+        {
+          "title": "Android smartwatches get AI revolution in 2026",
+          "url": "https://android.gadgethacks.com/news/android-smartwatches-get-ai-revolution-in-2026/",
+          "source": "Gadget Hacks"
+        },
+        {
+          "title": "Amazfit 2026 roadmap",
+          "url": "https://gadgetsandwearables.com/2026/03/16/amazfit-roadmap-2026/",
+          "source": "Gadgets & Wearables"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "",
+          "highlights": []
+        },
+        "zh-tw": {
+          "commentary": "Q1 2026 最後一天，智慧手錶市場以多項重磅確認消息收官。Amazon Big Spring Sale（3/25-3/31）在今日截止，Garmin Fenix 8、Samsung Galaxy Watch 7 系列和 Fitbit 等主力機型均有明顯折扣，是以現有評測驗證過的旗艦機型入場的理想時機。本榜各排名在今日維持不變，反映市場進入短暫平衡期，等待下一批新品上市後的重評。\n\nGarmin 本月發布的 CIRQA Smart Band 正式上架，定位輕量日常健康追蹤，標誌著 Garmin 從純運動錶向全民健康市場延伸的策略落地。這對本榜 Garmin Fenix 8（#2）和 Forerunner 965（#5）的影響有限，反而進一步強化 Garmin 生態系統的完整性。Apple Watch Series 11 的 24 小時全天候電量改進和 Samsung Galaxy Watch 8 的 Galaxy AI 健身功能，已確認將在本年度晚些時候直接對前代機型的「價值」評分構成衝擊。\n\nMeta 正式宣布 2026 年內推出首款搭載 AI 功能的智慧手錶，進一步擴大智慧手錶市場競爭格局。Zepp Health 公布 2026 年 Amazfit 路線圖，計畫推出至少 9 款新裝置，Amazfit Balance 2（#10）的繼任機型也在其中。Google Pixel Watch 3（#7）面臨 Pixel Watch 4 確認上市的競爭壓力，價值評分後續觀察中。整體而言，本榜 Q1 末維持穩定，Apple Watch Ultra 2 與 Garmin Fenix 8 繼續並列 9.2 分共同領跑。",
+          "highlights": [
+            "Amazon Big Spring Sale 今日（3/31）截止，Garmin、Samsung 旗艦折扣入場最後機會",
+            "Garmin CIRQA Smart Band 正式上架，Garmin 生態系統完整性進一步強化",
+            "Meta 2026 智慧手錶官宣，AI 健康功能將進入全新品牌競爭維度",
+            "Amazfit 2026 路線圖揭露 9 款新裝置，Amazfit Balance 2 繼任機型確認開發中",
+            "Apple Watch Ultra 2 與 Garmin Fenix 8 同列 9.2 分，Q1 末共同領跑智慧手錶榜"
+          ]
+        }
+      }
     }
   ]
 }

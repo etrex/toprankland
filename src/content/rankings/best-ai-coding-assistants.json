@@ -1,14 +1,22 @@
 {
   "slug": "best-ai-coding-assistants",
-  "title": "Best AI Coding Assistants 2026",
   "category": "Software",
-  "description": "Ranking the top AI coding tools and assistants that help developers write, refactor, and ship code faster in 2026.",
   "scoreFactors": {
     "codeQuality": "Code Quality & Accuracy",
     "contextWindow": "Context & Codebase Understanding",
     "ideIntegration": "IDE Integration & UX",
     "agenticCapability": "Agentic / Autonomous Capability",
     "valueForMoney": "Value for Money"
+  },
+  "i18n": {
+    "en": {
+      "title": "Best AI Coding Assistants 2026",
+      "description": "Ranking the top AI coding tools and assistants that help developers write, refactor, and ship code faster in 2026."
+    },
+    "zh-tw": {
+      "title": "最佳 AI 程式輔助工具 2026",
+      "description": "每日更新的最佳 AI 程式輔助工具排行榜，根據程式碼品質、上下文理解、整合體驗、速度和性價比評分。"
+    }
   },
   "competitors": [
     {
@@ -17,7 +25,14 @@
       "brand": "Anthropic",
       "url": "https://claude.ai/code",
       "priceRange": "$17/mo",
-      "description": "Terminal-first AI coding agent powered by Claude Opus 4.6, capable of autonomous multi-file refactoring across massive codebases with a 1M-token context window."
+      "i18n": {
+        "en": {
+          "description": "Terminal-first AI coding agent powered by Claude Opus 4.6, capable of autonomous multi-file refactoring across massive codebases with a 1M-token context window."
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
     },
     {
       "id": "cursor",
@@ -25,7 +40,14 @@
       "brand": "Anysphere",
       "url": "https://www.cursor.com/",
       "priceRange": "$20/mo",
-      "description": "A VS Code fork rebuilt around AI, featuring Composer for seamless multi-file edits and deep codebase indexing for true project-level understanding."
+      "i18n": {
+        "en": {
+          "description": "A VS Code fork rebuilt around AI, featuring Composer for seamless multi-file edits and deep codebase indexing for true project-level understanding."
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
     },
     {
       "id": "github-copilot",
@@ -33,7 +55,14 @@
       "brand": "GitHub / Microsoft",
       "url": "https://github.com/features/copilot",
       "priceRange": "$10/mo",
-      "description": "The industry-standard AI code completion tool used by 15+ million developers, with broad IDE support and a genuinely useful free tier."
+      "i18n": {
+        "en": {
+          "description": "The industry-standard AI code completion tool used by 15+ million developers, with broad IDE support and a genuinely useful free tier."
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
     },
     {
       "id": "windsurf",
@@ -41,7 +70,14 @@
       "brand": "Codeium (acq. Cognition AI)",
       "url": "https://windsurf.com/",
       "priceRange": "$15/mo",
-      "description": "Agentic IDE with 1M+ active users; acquired by Cognition AI (makers of Devin) in Dec 2025, combining two of the top autonomous coding tools under one parent. Known for clean UX and competitive $15/mo pricing."
+      "i18n": {
+        "en": {
+          "description": "Agentic IDE with 1M+ active users; acquired by Cognition AI (makers of Devin) in Dec 2025, combining two of the top autonomous coding tools under one parent. Known for clean UX and competitive $15/mo pricing."
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
     },
     {
       "id": "devin",
@@ -49,7 +85,14 @@
       "brand": "Cognition",
       "url": "https://devin.ai/",
       "priceRange": "$20/mo+",
-      "description": "The world's first fully autonomous AI software engineer, capable of independently planning, executing, and deploying complete coding tasks with minimal human input."
+      "i18n": {
+        "en": {
+          "description": "The world's first fully autonomous AI software engineer, capable of independently planning, executing, and deploying complete coding tasks with minimal human input."
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
     },
     {
       "id": "amazon-q-developer",
@@ -57,7 +100,14 @@
       "brand": "Amazon Web Services",
       "url": "https://aws.amazon.com/q/developer/",
       "priceRange": "$19/mo",
-      "description": "AWS's AI coding assistant with deep cloud and infrastructure integration, supporting code generation, security scanning, and automated framework migrations."
+      "i18n": {
+        "en": {
+          "description": "AWS's AI coding assistant with deep cloud and infrastructure integration, supporting code generation, security scanning, and automated framework migrations."
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
     },
     {
       "id": "zed",
@@ -65,7 +115,14 @@
       "brand": "Zed Industries",
       "url": "https://zed.dev/",
       "priceRange": "Free+",
-      "description": "A high-performance, GPU-accelerated AI-native code editor built in Rust, offering fast AI chat and inline assistance using your own API key."
+      "i18n": {
+        "en": {
+          "description": "A high-performance, GPU-accelerated AI-native code editor built in Rust, offering fast AI chat and inline assistance using your own API key."
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
     },
     {
       "id": "aider",
@@ -73,7 +130,14 @@
       "brand": "Paul Gauthier (OSS)",
       "url": "https://aider.chat/",
       "priceRange": "Free (API cost)",
-      "description": "A free open-source terminal-based AI pair programmer that works with 100+ LLMs, auto-commits changes with Git, and supports multi-file editing via the command line."
+      "i18n": {
+        "en": {
+          "description": "A free open-source terminal-based AI pair programmer that works with 100+ LLMs, auto-commits changes with Git, and supports multi-file editing via the command line."
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
     },
     {
       "id": "google-jules",
@@ -81,7 +145,14 @@
       "brand": "Google",
       "url": "https://jules.google/",
       "priceRange": "Bundled (AI Pro/Ultra)",
-      "description": "Google's async autonomous coding agent powered by Gemini 2.5 Pro; integrates natively with GitHub to plan and execute multi-file tasks in a secure cloud sandbox with no IDE required."
+      "i18n": {
+        "en": {
+          "description": "Google's async autonomous coding agent powered by Gemini 2.5 Pro; integrates natively with GitHub to plan and execute multi-file tasks in a secure cloud sandbox with no IDE required."
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
     }
   ],
   "history": [
@@ -95,7 +166,7 @@
           "scores": {
             "codeQuality": 9.5,
             "contextWindow": 9.8,
-            "ideIntegration": 7.0,
+            "ideIntegration": 7,
             "agenticCapability": 9.5,
             "valueForMoney": 7.5
           }
@@ -109,7 +180,7 @@
             "contextWindow": 8.5,
             "ideIntegration": 9.5,
             "agenticCapability": 8.2,
-            "valueForMoney": 8.0
+            "valueForMoney": 8
           }
         },
         {
@@ -130,21 +201,21 @@
           "score": 8.4,
           "scores": {
             "codeQuality": 8.2,
-            "contextWindow": 8.0,
+            "contextWindow": 8,
             "ideIntegration": 8.8,
-            "agenticCapability": 8.0,
+            "agenticCapability": 8,
             "valueForMoney": 8.8
           }
         },
         {
           "id": "devin",
           "rank": 5,
-          "score": 8.0,
+          "score": 8,
           "scores": {
             "codeQuality": 8.5,
             "contextWindow": 8.5,
             "ideIntegration": 7.5,
-            "agenticCapability": 9.0,
+            "agenticCapability": 9,
             "valueForMoney": 6.5
           }
         },
@@ -153,11 +224,11 @@
           "rank": 6,
           "score": 7.8,
           "scores": {
-            "codeQuality": 8.0,
+            "codeQuality": 8,
             "contextWindow": 7.5,
             "ideIntegration": 8.5,
             "agenticCapability": 7.8,
-            "valueForMoney": 7.0
+            "valueForMoney": 7
           }
         },
         {
@@ -167,8 +238,8 @@
           "scores": {
             "codeQuality": 7.8,
             "contextWindow": 7.5,
-            "ideIntegration": 8.0,
-            "agenticCapability": 7.0,
+            "ideIntegration": 8,
+            "agenticCapability": 7,
             "valueForMoney": 8.5
           }
         },
@@ -177,9 +248,9 @@
           "rank": 8,
           "score": 7.7,
           "scores": {
-            "codeQuality": 8.0,
+            "codeQuality": 8,
             "contextWindow": 8.3,
-            "ideIntegration": 5.0,
+            "ideIntegration": 5,
             "agenticCapability": 7.5,
             "valueForMoney": 9.8
           }
@@ -192,18 +263,10 @@
             "codeQuality": 8.2,
             "contextWindow": 8.5,
             "ideIntegration": 7.5,
-            "agenticCapability": 8.0,
-            "valueForMoney": 8.0
+            "agenticCapability": 8,
+            "valueForMoney": 8
           }
         }
-      ],
-      "commentary": "The AI coding assistant market has matured rapidly in early 2026, with a clear split between terminal-first agentic tools and IDE-integrated assistants. Claude Code claims the top spot on the strength of Anthropic's Claude Opus 4.6 model — which scores 80.8% on SWE-bench — paired with an unmatched 1M-token context window that can reason coherently across entire large codebases. It excels at complex autonomous refactoring but its terminal-first UX feels raw compared to polished IDEs.\n\nCursor holds a firm #2 as the best all-around daily driver. Its VS Code fork with Composer multi-file editing and deep codebase indexing makes it the tool of choice for developers who want AI deeply woven into their IDE workflow. At $20/month, it's priced fairly for the quality of experience.\n\nGitHub Copilot stays at #3 due to its unrivalled reach: 15+ million active developers, support for every major IDE, and the most accessible pricing at $10/month. The newer Agent Mode is narrowing the capability gap with Cursor, making it the pragmatic enterprise default. Windsurf at #4 earns praise for value — the March 2026 pricing overhaul to $15/month with daily/weekly quotas makes it the most cost-effective agentic IDE today.\n\nDevin (#5) represents the future of fully autonomous AI engineering. After Cognition slashed pricing from $500 to $20/month in January 2026, it became accessible — but ACU-based usage costs ($2.25/15 min) still add up for iterative work. Amazon Q Developer (#6) remains the default for AWS-heavy teams due to its cloud and infrastructure integration. Zed (#7) and Aider (#8) appeal to power users and open-source advocates respectively, with Aider scoring highest on value thanks to its zero-subscription model.",
-      "highlights": [
-        "Claude Code ranks #1 with Claude Opus 4.6 scoring 80.8% on SWE-bench and a 1M-token context window",
-        "Cursor is the best IDE experience with Composer multi-file editing and deep codebase indexing",
-        "GitHub Copilot remains the most-deployed tool at 15M+ developers, winning on price ($10/mo) and IDE breadth",
-        "Windsurf's March 2026 pricing overhaul to $15/mo makes it the best value agentic IDE",
-        "Devin became accessible to individuals after Cognition dropped pricing from $500 to $20/mo in January 2026"
       ],
       "references": [
         {
@@ -221,7 +284,23 @@
           "url": "https://pecollective.com/tools/best-ai-coding-assistants/",
           "source": "PE Collective"
         }
-      ]
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The AI coding assistant market has matured rapidly in early 2026, with a clear split between terminal-first agentic tools and IDE-integrated assistants. Claude Code claims the top spot on the strength of Anthropic's Claude Opus 4.6 model — which scores 80.8% on SWE-bench — paired with an unmatched 1M-token context window that can reason coherently across entire large codebases. It excels at complex autonomous refactoring but its terminal-first UX feels raw compared to polished IDEs.\n\nCursor holds a firm #2 as the best all-around daily driver. Its VS Code fork with Composer multi-file editing and deep codebase indexing makes it the tool of choice for developers who want AI deeply woven into their IDE workflow. At $20/month, it's priced fairly for the quality of experience.\n\nGitHub Copilot stays at #3 due to its unrivalled reach: 15+ million active developers, support for every major IDE, and the most accessible pricing at $10/month. The newer Agent Mode is narrowing the capability gap with Cursor, making it the pragmatic enterprise default. Windsurf at #4 earns praise for value — the March 2026 pricing overhaul to $15/month with daily/weekly quotas makes it the most cost-effective agentic IDE today.\n\nDevin (#5) represents the future of fully autonomous AI engineering. After Cognition slashed pricing from $500 to $20/month in January 2026, it became accessible — but ACU-based usage costs ($2.25/15 min) still add up for iterative work. Amazon Q Developer (#6) remains the default for AWS-heavy teams due to its cloud and infrastructure integration. Zed (#7) and Aider (#8) appeal to power users and open-source advocates respectively, with Aider scoring highest on value thanks to its zero-subscription model.",
+          "highlights": [
+            "Claude Code ranks #1 with Claude Opus 4.6 scoring 80.8% on SWE-bench and a 1M-token context window",
+            "Cursor is the best IDE experience with Composer multi-file editing and deep codebase indexing",
+            "GitHub Copilot remains the most-deployed tool at 15M+ developers, winning on price ($10/mo) and IDE breadth",
+            "Windsurf's March 2026 pricing overhaul to $15/mo makes it the best value agentic IDE",
+            "Devin became accessible to individuals after Cognition dropped pricing from $500 to $20/mo in January 2026"
+          ]
+        },
+        "zh-tw": {
+          "commentary": "",
+          "highlights": []
+        }
+      }
     },
     {
       "date": "2026-03-31",
@@ -233,7 +312,7 @@
           "scores": {
             "codeQuality": 9.5,
             "contextWindow": 9.8,
-            "ideIntegration": 7.0,
+            "ideIntegration": 7,
             "agenticCapability": 9.6,
             "valueForMoney": 7.8
           }
@@ -271,18 +350,18 @@
             "contextWindow": 8.5,
             "ideIntegration": 7.5,
             "agenticCapability": 8.2,
-            "valueForMoney": 8.0
+            "valueForMoney": 8
           }
         },
         {
           "id": "devin",
           "rank": 5,
-          "score": 8.0,
+          "score": 8,
           "scores": {
             "codeQuality": 8.5,
             "contextWindow": 8.5,
             "ideIntegration": 7.5,
-            "agenticCapability": 9.0,
+            "agenticCapability": 9,
             "valueForMoney": 6.5
           }
         },
@@ -291,11 +370,11 @@
           "rank": 6,
           "score": 7.8,
           "scores": {
-            "codeQuality": 8.0,
+            "codeQuality": 8,
             "contextWindow": 7.5,
             "ideIntegration": 8.5,
             "agenticCapability": 7.8,
-            "valueForMoney": 7.0
+            "valueForMoney": 7
           }
         },
         {
@@ -305,8 +384,8 @@
           "scores": {
             "codeQuality": 7.8,
             "contextWindow": 7.5,
-            "ideIntegration": 8.0,
-            "agenticCapability": 7.0,
+            "ideIntegration": 8,
+            "agenticCapability": 7,
             "valueForMoney": 8.5
           }
         },
@@ -315,9 +394,9 @@
           "rank": 8,
           "score": 7.7,
           "scores": {
-            "codeQuality": 8.0,
+            "codeQuality": 8,
             "contextWindow": 8.3,
-            "ideIntegration": 5.0,
+            "ideIntegration": 5,
             "agenticCapability": 7.5,
             "valueForMoney": 9.8
           }
@@ -328,20 +407,12 @@
           "score": 7.6,
           "scores": {
             "codeQuality": 8.2,
-            "contextWindow": 8.0,
+            "contextWindow": 8,
             "ideIntegration": 8.8,
-            "agenticCapability": 8.0,
+            "agenticCapability": 8,
             "valueForMoney": 5.8
           }
         }
-      ],
-      "commentary": "2026 年 3 月最後一天，AI 程式碼助理市場出現今年以來最大單日排名調整。核心事件是 Windsurf 的定價政策 U 轉：原本備受好評的 $15/月彈性額度制，被強制改為 $20/月嚴格每日/每週配額制，開發者社群在多個論壇爆發強烈反彈，reddit r/cursor 和 r/windsurf 等社群充斥負面評價。「性價比」評分因此從 8.8 斷崖式下滑至 5.8，整體評分從 8.4 降至 7.6，排名從第 4 跌至第 9。這是本榜自建立以來單次最大幅度調整，但 Windsurf 底層技術能力（IDE 整合 8.8、代碼質量 8.2）依然具競爭力，若定價政策修正可望回升。\n\nClaude Code 的市場主導地位本月獲得多項數據驗證：開發者「最喜愛工具」調查中以 46% 遙遙領先 Cursor（19%）和 GitHub Copilot（9%），是自 2025 年 5 月上市以來僅 8 個月即登頂的罕見案例。Agentic Capability 評分從 9.5 上調至 9.6，反映持續的自主多步驟執行能力提升。GitHub Copilot 在 3 月 16 日最新 SWE-bench 測試中以 56% 解題率勝出（Cursor 52%），Code Quality 評分從 8.5 升至 8.6。\n\nGoogle Jules（Gemini 2.5 Pro 驅動）在本次更新中獲得正確的第 4 名排位，其在 GitHub 原生整合、無需 IDE 的雲端沙盒執行以及 Agentic Capability 方面的實力獲得市場逐步認可，agenticCapability 評分從 8.0 升至 8.2。資安層面，3 月 20 日報告指出已有 74 個 CVE 與 AI 撰寫的程式碼相關，各大工具廠商正加強輸出代碼的安全掃描能力。",
-      "highlights": [
-        "Windsurf 定價大逆轉：$15/月額度制改為 $20/月嚴格配額，開發者社群強烈反彈，排名從 #4 跌至 #9",
-        "Claude Code 46% 「最喜愛工具」率，8 個月從零到 #1，Agentic Capability 升至 9.6",
-        "GitHub Copilot SWE-bench 解題率 56% 創新高，超越 Cursor 的 52%，Code Quality 評分升至 8.6",
-        "Google Jules 確立 #4：Gemini 2.5 Pro + GitHub 原生整合 + 雲端沙盒，Agentic Capability 升至 8.2",
-        "資安警示：74 個 CVE 與 AI 生成代碼相關（截至 3 月 20 日），各工具安全掃描能力成新評估指標"
       ],
       "references": [
         {
@@ -359,7 +430,23 @@
           "url": "https://www.theregister.com/2026/03/26/ai_coding_assistant_not_more_secure/",
           "source": "The Register"
         }
-      ]
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "",
+          "highlights": []
+        },
+        "zh-tw": {
+          "commentary": "2026 年 3 月最後一天，AI 程式碼助理市場出現今年以來最大單日排名調整。核心事件是 Windsurf 的定價政策 U 轉：原本備受好評的 $15/月彈性額度制，被強制改為 $20/月嚴格每日/每週配額制，開發者社群在多個論壇爆發強烈反彈，reddit r/cursor 和 r/windsurf 等社群充斥負面評價。「性價比」評分因此從 8.8 斷崖式下滑至 5.8，整體評分從 8.4 降至 7.6，排名從第 4 跌至第 9。這是本榜自建立以來單次最大幅度調整，但 Windsurf 底層技術能力（IDE 整合 8.8、代碼質量 8.2）依然具競爭力，若定價政策修正可望回升。\n\nClaude Code 的市場主導地位本月獲得多項數據驗證：開發者「最喜愛工具」調查中以 46% 遙遙領先 Cursor（19%）和 GitHub Copilot（9%），是自 2025 年 5 月上市以來僅 8 個月即登頂的罕見案例。Agentic Capability 評分從 9.5 上調至 9.6，反映持續的自主多步驟執行能力提升。GitHub Copilot 在 3 月 16 日最新 SWE-bench 測試中以 56% 解題率勝出（Cursor 52%），Code Quality 評分從 8.5 升至 8.6。\n\nGoogle Jules（Gemini 2.5 Pro 驅動）在本次更新中獲得正確的第 4 名排位，其在 GitHub 原生整合、無需 IDE 的雲端沙盒執行以及 Agentic Capability 方面的實力獲得市場逐步認可，agenticCapability 評分從 8.0 升至 8.2。資安層面，3 月 20 日報告指出已有 74 個 CVE 與 AI 撰寫的程式碼相關，各大工具廠商正加強輸出代碼的安全掃描能力。",
+          "highlights": [
+            "Windsurf 定價大逆轉：$15/月額度制改為 $20/月嚴格配額，開發者社群強烈反彈，排名從 #4 跌至 #9",
+            "Claude Code 46% 「最喜愛工具」率，8 個月從零到 #1，Agentic Capability 升至 9.6",
+            "GitHub Copilot SWE-bench 解題率 56% 創新高，超越 Cursor 的 52%，Code Quality 評分升至 8.6",
+            "Google Jules 確立 #4：Gemini 2.5 Pro + GitHub 原生整合 + 雲端沙盒，Agentic Capability 升至 8.2",
+            "資安警示：74 個 CVE 與 AI 生成代碼相關（截至 3 月 20 日），各工具安全掃描能力成新評估指標"
+          ]
+        }
+      }
     }
   ]
 }

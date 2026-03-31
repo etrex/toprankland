@@ -1,8 +1,6 @@
 {
   "slug": "best-wireless-earbuds",
-  "title": "Best Wireless Earbuds",
   "category": "Electronics",
-  "description": "Daily-updated rankings of the best wireless earbuds, scored on sound quality, active noise cancelling, battery life, comfort, and value.",
   "scoreFactors": {
     "sound": "Sound Quality",
     "anc": "Noise Cancelling",
@@ -10,122 +8,897 @@
     "comfort": "Comfort",
     "value": "Value"
   },
+  "i18n": {
+    "en": {
+      "title": "Best Wireless Earbuds",
+      "description": "Daily-updated rankings of the best wireless earbuds, scored on sound quality, active noise cancelling, battery life, comfort, and value."
+    },
+    "zh-tw": {
+      "title": "最佳無線耳機 2026",
+      "description": "每日更新的最佳真無線耳機排行榜，根據降噪、音質、通話品質、電池壽命和性價比綜合評分。"
+    }
+  },
   "competitors": [
-    { "id": "airpods-pro-2", "name": "Apple AirPods Pro 2", "brand": "Apple", "url": "https://www.apple.com/airpods-pro/", "priceRange": "$249", "description": "Apple's flagship TWS with H2 chip, Adaptive Audio, and USB-C case" },
-    { "id": "sony-wf-1000xm5", "name": "Sony WF-1000XM5", "brand": "Sony", "url": "https://electronics.sony.com/audio/headphones/truly-wireless-earbuds/p/WF1000XM5-B", "priceRange": "$279", "description": "Industry-leading ANC with LDAC and Integrated Processor V2" },
-    { "id": "bose-qce2", "name": "Bose QuietComfort Earbuds II", "brand": "Bose", "url": "https://www.bose.com/en_us/products/headphones/earbuds/quietcomfort-earbuds-ii.html", "priceRange": "$299", "description": "Bose's best-in-class noise cancellation and personalized comfort" },
-    { "id": "samsung-buds3-pro", "name": "Samsung Galaxy Buds 3 Pro", "brand": "Samsung", "url": "https://www.samsung.com/global/galaxy/galaxy-buds/", "priceRange": "$249", "description": "Samsung flagship with blade-style design and 24-bit audio" },
-    { "id": "jabra-elite10", "name": "Jabra Elite 10", "brand": "Jabra", "url": "https://www.jabra.com/bluetooth-headsets/jabra-elite-10", "priceRange": "$249", "description": "Open-ear spatial audio with Dolby Atmos and premium fit" },
-    { "id": "sennheiser-mtw4", "name": "Sennheiser MOMENTUM True Wireless 4", "brand": "Sennheiser", "url": "https://us.sennheiser-hearing.com/products/momentum-true-wireless-4", "priceRange": "$299", "description": "Audiophile-grade TWS with aptX Lossless and 7.5h battery" },
-    { "id": "nothing-ear2", "name": "Nothing Ear 2", "brand": "Nothing", "url": "https://us.nothing.tech/products/ear-2", "priceRange": "$149", "description": "Transparent design with dual drivers and personalized ANC" },
-    { "id": "jabra-elite8-active", "name": "Jabra Elite 8 Active", "brand": "Jabra", "url": "https://www.jabra.com/bluetooth-headsets/jabra-elite-8-active", "priceRange": "$199", "description": "Military-grade durability with ShakeGrip and solid ANC" },
-    { "id": "beats-fit-pro", "name": "Beats Fit Pro", "brand": "Beats", "url": "https://www.beatsbydre.com/earbuds/beats-fit-pro", "priceRange": "$199", "description": "Sport-fit with Apple H1 chip, spatial audio, and wing-tip design" },
-    { "id": "pixel-buds-pro2", "name": "Google Pixel Buds Pro 2", "brand": "Google", "url": "https://store.google.com/us/product/pixel_buds_pro", "priceRange": "$229", "description": "Tensor A1 chip with Gemini AI integration and improved ANC" },
-    { "id": "anker-liberty4-nc", "name": "Anker Soundcore Liberty 4 NC", "brand": "Anker", "url": "https://www.soundcore.com/products/liberty-4-nc-a3947z11", "priceRange": "$79", "description": "Budget ANC champion with 98% noise reduction and LDAC" },
-    { "id": "sony-wf-c700n", "name": "Sony WF-C700N", "brand": "Sony", "url": "https://electronics.sony.com/audio/headphones/truly-wireless-earbuds/p/WFC700N-B", "priceRange": "$149", "description": "Compact design with solid ANC at mid-range price" },
-    { "id": "oneplus-buds3", "name": "OnePlus Buds 3", "brand": "OnePlus", "url": "https://www.oneplus.com/us/oneplus-buds-3", "priceRange": "$99", "description": "LHDC 5.0 codec with adaptive ANC and 44h total battery" },
-    { "id": "earfun-air-pro4", "name": "EarFun Air Pro 4", "brand": "EarFun", "url": "https://www.myearfun.com/headphones/earfun-air-pro-4-adaptive-anc-true-wireless-earbuds-glossy-white", "priceRange": "$79", "description": "Quad-mic ANC with LDAC and gaming mode under $80" },
-    { "id": "edifier-neobpro2", "name": "EDIFIER NeoBuds Pro 2", "brand": "EDIFIER", "url": "https://www.edifier.com/us/p/true-wireless-earbuds/neobuds-pro-2", "priceRange": "$129", "description": "Hi-Res Audio with dual drivers and adaptive noise cancelling" }
+    {
+      "id": "airpods-pro-2",
+      "name": "Apple AirPods Pro 2",
+      "brand": "Apple",
+      "url": "https://www.apple.com/airpods-pro/",
+      "priceRange": "$249",
+      "i18n": {
+        "en": {
+          "description": "Apple's flagship TWS with H2 chip, Adaptive Audio, and USB-C case"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "sony-wf-1000xm5",
+      "name": "Sony WF-1000XM5",
+      "brand": "Sony",
+      "url": "https://electronics.sony.com/audio/headphones/truly-wireless-earbuds/p/WF1000XM5-B",
+      "priceRange": "$279",
+      "i18n": {
+        "en": {
+          "description": "Industry-leading ANC with LDAC and Integrated Processor V2"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "bose-qce2",
+      "name": "Bose QuietComfort Earbuds II",
+      "brand": "Bose",
+      "url": "https://www.bose.com/en_us/products/headphones/earbuds/quietcomfort-earbuds-ii.html",
+      "priceRange": "$299",
+      "i18n": {
+        "en": {
+          "description": "Bose's best-in-class noise cancellation and personalized comfort"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "samsung-buds3-pro",
+      "name": "Samsung Galaxy Buds 3 Pro",
+      "brand": "Samsung",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-buds/",
+      "priceRange": "$249",
+      "i18n": {
+        "en": {
+          "description": "Samsung flagship with blade-style design and 24-bit audio"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "jabra-elite10",
+      "name": "Jabra Elite 10",
+      "brand": "Jabra",
+      "url": "https://www.jabra.com/bluetooth-headsets/jabra-elite-10",
+      "priceRange": "$249",
+      "i18n": {
+        "en": {
+          "description": "Open-ear spatial audio with Dolby Atmos and premium fit"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "sennheiser-mtw4",
+      "name": "Sennheiser MOMENTUM True Wireless 4",
+      "brand": "Sennheiser",
+      "url": "https://us.sennheiser-hearing.com/products/momentum-true-wireless-4",
+      "priceRange": "$299",
+      "i18n": {
+        "en": {
+          "description": "Audiophile-grade TWS with aptX Lossless and 7.5h battery"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "nothing-ear2",
+      "name": "Nothing Ear 2",
+      "brand": "Nothing",
+      "url": "https://us.nothing.tech/products/ear-2",
+      "priceRange": "$149",
+      "i18n": {
+        "en": {
+          "description": "Transparent design with dual drivers and personalized ANC"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "jabra-elite8-active",
+      "name": "Jabra Elite 8 Active",
+      "brand": "Jabra",
+      "url": "https://www.jabra.com/bluetooth-headsets/jabra-elite-8-active",
+      "priceRange": "$199",
+      "i18n": {
+        "en": {
+          "description": "Military-grade durability with ShakeGrip and solid ANC"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "beats-fit-pro",
+      "name": "Beats Fit Pro",
+      "brand": "Beats",
+      "url": "https://www.beatsbydre.com/earbuds/beats-fit-pro",
+      "priceRange": "$199",
+      "i18n": {
+        "en": {
+          "description": "Sport-fit with Apple H1 chip, spatial audio, and wing-tip design"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "pixel-buds-pro2",
+      "name": "Google Pixel Buds Pro 2",
+      "brand": "Google",
+      "url": "https://store.google.com/us/product/pixel_buds_pro",
+      "priceRange": "$229",
+      "i18n": {
+        "en": {
+          "description": "Tensor A1 chip with Gemini AI integration and improved ANC"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "anker-liberty4-nc",
+      "name": "Anker Soundcore Liberty 4 NC",
+      "brand": "Anker",
+      "url": "https://www.soundcore.com/products/liberty-4-nc-a3947z11",
+      "priceRange": "$79",
+      "i18n": {
+        "en": {
+          "description": "Budget ANC champion with 98% noise reduction and LDAC"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "sony-wf-c700n",
+      "name": "Sony WF-C700N",
+      "brand": "Sony",
+      "url": "https://electronics.sony.com/audio/headphones/truly-wireless-earbuds/p/WFC700N-B",
+      "priceRange": "$149",
+      "i18n": {
+        "en": {
+          "description": "Compact design with solid ANC at mid-range price"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "oneplus-buds3",
+      "name": "OnePlus Buds 3",
+      "brand": "OnePlus",
+      "url": "https://www.oneplus.com/us/oneplus-buds-3",
+      "priceRange": "$99",
+      "i18n": {
+        "en": {
+          "description": "LHDC 5.0 codec with adaptive ANC and 44h total battery"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "earfun-air-pro4",
+      "name": "EarFun Air Pro 4",
+      "brand": "EarFun",
+      "url": "https://www.myearfun.com/headphones/earfun-air-pro-4-adaptive-anc-true-wireless-earbuds-glossy-white",
+      "priceRange": "$79",
+      "i18n": {
+        "en": {
+          "description": "Quad-mic ANC with LDAC and gaming mode under $80"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "edifier-neobpro2",
+      "name": "EDIFIER NeoBuds Pro 2",
+      "brand": "EDIFIER",
+      "url": "https://www.edifier.com/us/p/true-wireless-earbuds/neobuds-pro-2",
+      "priceRange": "$129",
+      "i18n": {
+        "en": {
+          "description": "Hi-Res Audio with dual drivers and adaptive noise cancelling"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    }
   ],
   "history": [
     {
       "date": "2026-03-26",
       "rankings": [
-        { "id": "airpods-pro-2", "rank": 1, "score": 9.2, "scores": { "sound": 9.0, "anc": 9.5, "battery": 8.5, "comfort": 9.2, "value": 8.0 } },
-        { "id": "sony-wf-1000xm5", "rank": 2, "score": 9.0, "scores": { "sound": 9.5, "anc": 9.3, "battery": 8.8, "comfort": 8.5, "value": 8.0 } },
-        { "id": "bose-qce2", "rank": 3, "score": 8.9, "scores": { "sound": 8.8, "anc": 9.8, "battery": 8.0, "comfort": 9.0, "value": 7.5 } },
-        { "id": "samsung-buds3-pro", "rank": 4, "score": 8.7, "scores": { "sound": 8.8, "anc": 8.8, "battery": 8.5, "comfort": 8.5, "value": 8.3 } },
-        { "id": "jabra-elite10", "rank": 5, "score": 8.6, "scores": { "sound": 8.7, "anc": 8.5, "battery": 9.0, "comfort": 8.8, "value": 8.0 } },
-        { "id": "sennheiser-mtw4", "rank": 6, "score": 8.5, "scores": { "sound": 9.2, "anc": 8.2, "battery": 8.8, "comfort": 8.5, "value": 7.5 } },
-        { "id": "nothing-ear2", "rank": 7, "score": 8.2, "scores": { "sound": 8.2, "anc": 7.8, "battery": 8.5, "comfort": 8.5, "value": 9.0 } },
-        { "id": "jabra-elite8-active", "rank": 8, "score": 8.1, "scores": { "sound": 7.8, "anc": 8.0, "battery": 8.5, "comfort": 8.5, "value": 8.3 } },
-        { "id": "beats-fit-pro", "rank": 9, "score": 7.9, "scores": { "sound": 8.0, "anc": 7.8, "battery": 7.5, "comfort": 8.5, "value": 8.0 } },
-        { "id": "pixel-buds-pro2", "rank": 10, "score": 7.8, "scores": { "sound": 7.8, "anc": 7.8, "battery": 7.5, "comfort": 8.0, "value": 7.8 } },
-        { "id": "anker-liberty4-nc", "rank": 11, "score": 7.6, "scores": { "sound": 7.5, "anc": 7.8, "battery": 8.5, "comfort": 7.5, "value": 9.5 } },
-        { "id": "sony-wf-c700n", "rank": 12, "score": 7.4, "scores": { "sound": 7.5, "anc": 7.5, "battery": 7.5, "comfort": 7.5, "value": 8.5 } },
-        { "id": "oneplus-buds3", "rank": 13, "score": 7.2, "scores": { "sound": 7.3, "anc": 7.0, "battery": 9.0, "comfort": 7.0, "value": 9.0 } },
-        { "id": "earfun-air-pro4", "rank": 14, "score": 7.0, "scores": { "sound": 7.0, "anc": 7.2, "battery": 8.0, "comfort": 7.0, "value": 9.5 } },
-        { "id": "edifier-neobpro2", "rank": 15, "score": 6.9, "scores": { "sound": 7.5, "anc": 6.8, "battery": 7.0, "comfort": 6.5, "value": 8.5 } }
-      ],
-      "commentary": "The wireless earbuds market in early 2026 remains dominated by Apple and Sony at the top. Apple AirPods Pro 2 continues to lead thanks to its seamless Apple ecosystem integration and class-leading Adaptive Audio feature. Sony WF-1000XM5 claims the sound quality crown with LDAC support, making it the go-to for audiophiles on Android. Bose's ANC remains technically unmatched at #3. Notably, Google's Pixel Buds Pro 2 debuts with the Tensor A1 chip but still struggles to break the top echelon, sitting at #10. Budget options from Anker and EarFun continue to punch above their price, making quality ANC accessible below $80.",
-      "highlights": [
-        "Apple AirPods Pro 2 claims #1 with best-in-class Adaptive Audio",
-        "Sony WF-1000XM5 leads on sound quality metrics with LDAC",
-        "Bose QuietComfort Earbuds II remains the ANC technical leader",
-        "Google Pixel Buds Pro 2 enters at #10 with Tensor A1 integration",
-        "Budget picks: Anker Liberty 4 NC and EarFun Air Pro 4 offer strong value under $80"
+        {
+          "id": "airpods-pro-2",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "sound": 9,
+            "anc": 9.5,
+            "battery": 8.5,
+            "comfort": 9.2,
+            "value": 8
+          }
+        },
+        {
+          "id": "sony-wf-1000xm5",
+          "rank": 2,
+          "score": 9,
+          "scores": {
+            "sound": 9.5,
+            "anc": 9.3,
+            "battery": 8.8,
+            "comfort": 8.5,
+            "value": 8
+          }
+        },
+        {
+          "id": "bose-qce2",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "sound": 8.8,
+            "anc": 9.8,
+            "battery": 8,
+            "comfort": 9,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "samsung-buds3-pro",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "sound": 8.8,
+            "anc": 8.8,
+            "battery": 8.5,
+            "comfort": 8.5,
+            "value": 8.3
+          }
+        },
+        {
+          "id": "jabra-elite10",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "sound": 8.7,
+            "anc": 8.5,
+            "battery": 9,
+            "comfort": 8.8,
+            "value": 8
+          }
+        },
+        {
+          "id": "sennheiser-mtw4",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "sound": 9.2,
+            "anc": 8.2,
+            "battery": 8.8,
+            "comfort": 8.5,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "nothing-ear2",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "sound": 8.2,
+            "anc": 7.8,
+            "battery": 8.5,
+            "comfort": 8.5,
+            "value": 9
+          }
+        },
+        {
+          "id": "jabra-elite8-active",
+          "rank": 8,
+          "score": 8.1,
+          "scores": {
+            "sound": 7.8,
+            "anc": 8,
+            "battery": 8.5,
+            "comfort": 8.5,
+            "value": 8.3
+          }
+        },
+        {
+          "id": "beats-fit-pro",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "sound": 8,
+            "anc": 7.8,
+            "battery": 7.5,
+            "comfort": 8.5,
+            "value": 8
+          }
+        },
+        {
+          "id": "pixel-buds-pro2",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "sound": 7.8,
+            "anc": 7.8,
+            "battery": 7.5,
+            "comfort": 8,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "anker-liberty4-nc",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "sound": 7.5,
+            "anc": 7.8,
+            "battery": 8.5,
+            "comfort": 7.5,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "sony-wf-c700n",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "sound": 7.5,
+            "anc": 7.5,
+            "battery": 7.5,
+            "comfort": 7.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "oneplus-buds3",
+          "rank": 13,
+          "score": 7.2,
+          "scores": {
+            "sound": 7.3,
+            "anc": 7,
+            "battery": 9,
+            "comfort": 7,
+            "value": 9
+          }
+        },
+        {
+          "id": "earfun-air-pro4",
+          "rank": 14,
+          "score": 7,
+          "scores": {
+            "sound": 7,
+            "anc": 7.2,
+            "battery": 8,
+            "comfort": 7,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "edifier-neobpro2",
+          "rank": 15,
+          "score": 6.9,
+          "scores": {
+            "sound": 7.5,
+            "anc": 6.8,
+            "battery": 7,
+            "comfort": 6.5,
+            "value": 8.5
+          }
+        }
       ],
       "references": [
-        { "title": "Best Truly Wireless Earbuds in 2026", "url": "https://www.rtings.com/headphones/reviews/best/by-type/truly-wireless-earbuds", "source": "RTINGS" },
-        { "title": "Best True Wireless Earbuds 2026", "url": "https://www.techradar.com/audio/earbuds-airpods/best-wireless-earbuds", "source": "TechRadar" },
-        { "title": "The Best True Wireless Earbuds We've Tested", "url": "https://www.nytimes.com/wirecutter/reviews/the-best-wireless-earbuds/", "source": "Wirecutter" }
-      ]
+        {
+          "title": "Best Truly Wireless Earbuds in 2026",
+          "url": "https://www.rtings.com/headphones/reviews/best/by-type/truly-wireless-earbuds",
+          "source": "RTINGS"
+        },
+        {
+          "title": "Best True Wireless Earbuds 2026",
+          "url": "https://www.techradar.com/audio/earbuds-airpods/best-wireless-earbuds",
+          "source": "TechRadar"
+        },
+        {
+          "title": "The Best True Wireless Earbuds We've Tested",
+          "url": "https://www.nytimes.com/wirecutter/reviews/the-best-wireless-earbuds/",
+          "source": "Wirecutter"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The wireless earbuds market in early 2026 remains dominated by Apple and Sony at the top. Apple AirPods Pro 2 continues to lead thanks to its seamless Apple ecosystem integration and class-leading Adaptive Audio feature. Sony WF-1000XM5 claims the sound quality crown with LDAC support, making it the go-to for audiophiles on Android. Bose's ANC remains technically unmatched at #3. Notably, Google's Pixel Buds Pro 2 debuts with the Tensor A1 chip but still struggles to break the top echelon, sitting at #10. Budget options from Anker and EarFun continue to punch above their price, making quality ANC accessible below $80.",
+          "highlights": [
+            "Apple AirPods Pro 2 claims #1 with best-in-class Adaptive Audio",
+            "Sony WF-1000XM5 leads on sound quality metrics with LDAC",
+            "Bose QuietComfort Earbuds II remains the ANC technical leader",
+            "Google Pixel Buds Pro 2 enters at #10 with Tensor A1 integration",
+            "Budget picks: Anker Liberty 4 NC and EarFun Air Pro 4 offer strong value under $80"
+          ]
+        },
+        "zh-tw": {
+          "commentary": "",
+          "highlights": []
+        }
+      }
     },
     {
       "date": "2026-03-30",
       "rankings": [
-        { "id": "airpods-pro-2", "rank": 1, "score": 9.1, "scores": { "sound": 9.0, "anc": 9.5, "battery": 8.5, "comfort": 9.2, "value": 7.7 } },
-        { "id": "bose-qce2", "rank": 2, "score": 8.9, "scores": { "sound": 8.8, "anc": 9.8, "battery": 8.0, "comfort": 9.0, "value": 7.5 } },
-        { "id": "sony-wf-1000xm5", "rank": 3, "score": 8.8, "scores": { "sound": 9.5, "anc": 9.3, "battery": 8.8, "comfort": 8.5, "value": 7.5 } },
-        { "id": "samsung-buds3-pro", "rank": 4, "score": 8.6, "scores": { "sound": 8.8, "anc": 8.8, "battery": 8.5, "comfort": 8.5, "value": 8.1 } },
-        { "id": "jabra-elite10", "rank": 5, "score": 8.6, "scores": { "sound": 8.7, "anc": 8.5, "battery": 9.0, "comfort": 8.8, "value": 8.0 } },
-        { "id": "sennheiser-mtw4", "rank": 6, "score": 8.5, "scores": { "sound": 9.2, "anc": 8.2, "battery": 8.8, "comfort": 8.5, "value": 7.5 } },
-        { "id": "nothing-ear2", "rank": 7, "score": 8.2, "scores": { "sound": 8.2, "anc": 7.8, "battery": 8.5, "comfort": 8.5, "value": 9.0 } },
-        { "id": "jabra-elite8-active", "rank": 8, "score": 8.1, "scores": { "sound": 7.8, "anc": 8.0, "battery": 8.5, "comfort": 8.5, "value": 8.3 } },
-        { "id": "beats-fit-pro", "rank": 9, "score": 7.9, "scores": { "sound": 8.0, "anc": 7.8, "battery": 7.5, "comfort": 8.5, "value": 8.0 } },
-        { "id": "pixel-buds-pro2", "rank": 10, "score": 7.8, "scores": { "sound": 7.8, "anc": 7.8, "battery": 7.5, "comfort": 8.0, "value": 7.8 } },
-        { "id": "anker-liberty4-nc", "rank": 11, "score": 7.6, "scores": { "sound": 7.5, "anc": 7.8, "battery": 8.5, "comfort": 7.5, "value": 9.5 } },
-        { "id": "sony-wf-c700n", "rank": 12, "score": 7.4, "scores": { "sound": 7.5, "anc": 7.5, "battery": 7.5, "comfort": 7.5, "value": 8.5 } },
-        { "id": "oneplus-buds3", "rank": 13, "score": 7.2, "scores": { "sound": 7.3, "anc": 7.0, "battery": 9.0, "comfort": 7.0, "value": 9.0 } },
-        { "id": "earfun-air-pro4", "rank": 14, "score": 7.0, "scores": { "sound": 7.0, "anc": 7.2, "battery": 8.0, "comfort": 7.0, "value": 9.5 } },
-        { "id": "edifier-neobpro2", "rank": 15, "score": 6.9, "scores": { "sound": 7.5, "anc": 6.8, "battery": 7.0, "comfort": 6.5, "value": 8.5 } }
-      ],
-      "commentary": "無線耳機市場在 2026 年 3 月底進入新一輪競爭格局。Sony WF-1000XM6（$329.99）已成為多家媒體評選的「最佳整體無線耳機」，每側配備四顆麥克風（比 WF-1000XM5 多一顆）並採用全新通風結構，帶來更精準的降噪體驗，持續對前代 WF-1000XM5 的市場地位形成壓力。Apple AirPods Pro 3 以 90% 外部噪音阻隔率稱霸業界降噪測評，並新增心率追蹤、實時翻譯及助聽器功能，確立新世代旗艦地位。\n\nSamsung Galaxy Buds4 Pro 於 3 月 11 日正式出貨（$249.99），在相同售價下功能全面超越前代，導致本榜 Galaxy Buds3 Pro 的「價值」評分從 8.3 下調至 8.1，整體分數從 8.7 降至 8.6，與 Jabra Elite10 並列第四。Bose QuietComfort Earbuds II 維持 #2，本月多項第三方測評中 ANC 技術評分仍居最高，顯示其技術護城河依然穩固。\n\nBeats 與 Nike 本月宣布首款聯名限量版耳機 Powerbeats Pro 2，搭載 Nike Swoosh 標誌，顯示耳機市場加速向生活風格方向延伸。前代旗艦 AirPods Pro 2 和 WF-1000XM5 目前可以折扣價入手，仍是高 CP 值選擇。預算市場穩定：Anker Soundcore Liberty 4 NC 維持 #11 為 $80 以下最佳 ANC 選擇，EarFun Air Pro 4 同樣在 $79 提供優異性價比。",
-      "highlights": [
-        "Samsung Galaxy Buds4 Pro 3 月 11 日出貨，Buds3 Pro 性價比評分下調至 8.1，整體降至 8.6",
-        "Sony WF-1000XM6 以每側 4 麥克風 + 通風降噪結構確立市場最佳整體耳機地位",
-        "Apple AirPods Pro 3 以 90% 降噪率 + 心率追蹤 + 助聽器功能鞏固旗艦定位",
-        "Beats x Nike Powerbeats Pro 2 首款聯名限量版亮相，耳機市場生活風格化加速",
-        "預算首選不變：Anker Liberty 4 NC (#11) 和 EarFun Air Pro 4 (#14) 持續 $80 以下最強 ANC"
+        {
+          "id": "airpods-pro-2",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "sound": 9,
+            "anc": 9.5,
+            "battery": 8.5,
+            "comfort": 9.2,
+            "value": 7.7
+          }
+        },
+        {
+          "id": "bose-qce2",
+          "rank": 2,
+          "score": 8.9,
+          "scores": {
+            "sound": 8.8,
+            "anc": 9.8,
+            "battery": 8,
+            "comfort": 9,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "sony-wf-1000xm5",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "sound": 9.5,
+            "anc": 9.3,
+            "battery": 8.8,
+            "comfort": 8.5,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "samsung-buds3-pro",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "sound": 8.8,
+            "anc": 8.8,
+            "battery": 8.5,
+            "comfort": 8.5,
+            "value": 8.1
+          }
+        },
+        {
+          "id": "jabra-elite10",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "sound": 8.7,
+            "anc": 8.5,
+            "battery": 9,
+            "comfort": 8.8,
+            "value": 8
+          }
+        },
+        {
+          "id": "sennheiser-mtw4",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "sound": 9.2,
+            "anc": 8.2,
+            "battery": 8.8,
+            "comfort": 8.5,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "nothing-ear2",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "sound": 8.2,
+            "anc": 7.8,
+            "battery": 8.5,
+            "comfort": 8.5,
+            "value": 9
+          }
+        },
+        {
+          "id": "jabra-elite8-active",
+          "rank": 8,
+          "score": 8.1,
+          "scores": {
+            "sound": 7.8,
+            "anc": 8,
+            "battery": 8.5,
+            "comfort": 8.5,
+            "value": 8.3
+          }
+        },
+        {
+          "id": "beats-fit-pro",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "sound": 8,
+            "anc": 7.8,
+            "battery": 7.5,
+            "comfort": 8.5,
+            "value": 8
+          }
+        },
+        {
+          "id": "pixel-buds-pro2",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "sound": 7.8,
+            "anc": 7.8,
+            "battery": 7.5,
+            "comfort": 8,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "anker-liberty4-nc",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "sound": 7.5,
+            "anc": 7.8,
+            "battery": 8.5,
+            "comfort": 7.5,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "sony-wf-c700n",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "sound": 7.5,
+            "anc": 7.5,
+            "battery": 7.5,
+            "comfort": 7.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "oneplus-buds3",
+          "rank": 13,
+          "score": 7.2,
+          "scores": {
+            "sound": 7.3,
+            "anc": 7,
+            "battery": 9,
+            "comfort": 7,
+            "value": 9
+          }
+        },
+        {
+          "id": "earfun-air-pro4",
+          "rank": 14,
+          "score": 7,
+          "scores": {
+            "sound": 7,
+            "anc": 7.2,
+            "battery": 8,
+            "comfort": 7,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "edifier-neobpro2",
+          "rank": 15,
+          "score": 6.9,
+          "scores": {
+            "sound": 7.5,
+            "anc": 6.8,
+            "battery": 7,
+            "comfort": 6.5,
+            "value": 8.5
+          }
+        }
       ],
       "references": [
-        { "title": "Best wireless earbuds 2026", "url": "https://www.whathifi.com/best-buys/best-wireless-earbuds-budget-and-premium", "source": "What Hi-Fi?" },
-        { "title": "Beats and Nike announce limited-edition wireless earbuds", "url": "https://www.bloomberg.com/news/articles/2026-03-17/beats-and-nike-announce-limited-edition-wireless-earbuds", "source": "Bloomberg" },
-        { "title": "Best wireless earbuds in 2026", "url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/", "source": "SoundGuys" }
-      ]
+        {
+          "title": "Best wireless earbuds 2026",
+          "url": "https://www.whathifi.com/best-buys/best-wireless-earbuds-budget-and-premium",
+          "source": "What Hi-Fi?"
+        },
+        {
+          "title": "Beats and Nike announce limited-edition wireless earbuds",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-17/beats-and-nike-announce-limited-edition-wireless-earbuds",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Best wireless earbuds in 2026",
+          "url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+          "source": "SoundGuys"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "",
+          "highlights": []
+        },
+        "zh-tw": {
+          "commentary": "無線耳機市場在 2026 年 3 月底進入新一輪競爭格局。Sony WF-1000XM6（$329.99）已成為多家媒體評選的「最佳整體無線耳機」，每側配備四顆麥克風（比 WF-1000XM5 多一顆）並採用全新通風結構，帶來更精準的降噪體驗，持續對前代 WF-1000XM5 的市場地位形成壓力。Apple AirPods Pro 3 以 90% 外部噪音阻隔率稱霸業界降噪測評，並新增心率追蹤、實時翻譯及助聽器功能，確立新世代旗艦地位。\n\nSamsung Galaxy Buds4 Pro 於 3 月 11 日正式出貨（$249.99），在相同售價下功能全面超越前代，導致本榜 Galaxy Buds3 Pro 的「價值」評分從 8.3 下調至 8.1，整體分數從 8.7 降至 8.6，與 Jabra Elite10 並列第四。Bose QuietComfort Earbuds II 維持 #2，本月多項第三方測評中 ANC 技術評分仍居最高，顯示其技術護城河依然穩固。\n\nBeats 與 Nike 本月宣布首款聯名限量版耳機 Powerbeats Pro 2，搭載 Nike Swoosh 標誌，顯示耳機市場加速向生活風格方向延伸。前代旗艦 AirPods Pro 2 和 WF-1000XM5 目前可以折扣價入手，仍是高 CP 值選擇。預算市場穩定：Anker Soundcore Liberty 4 NC 維持 #11 為 $80 以下最佳 ANC 選擇，EarFun Air Pro 4 同樣在 $79 提供優異性價比。",
+          "highlights": [
+            "Samsung Galaxy Buds4 Pro 3 月 11 日出貨，Buds3 Pro 性價比評分下調至 8.1，整體降至 8.6",
+            "Sony WF-1000XM6 以每側 4 麥克風 + 通風降噪結構確立市場最佳整體耳機地位",
+            "Apple AirPods Pro 3 以 90% 降噪率 + 心率追蹤 + 助聽器功能鞏固旗艦定位",
+            "Beats x Nike Powerbeats Pro 2 首款聯名限量版亮相，耳機市場生活風格化加速",
+            "預算首選不變：Anker Liberty 4 NC (#11) 和 EarFun Air Pro 4 (#14) 持續 $80 以下最強 ANC"
+          ]
+        }
+      }
     },
     {
       "date": "2026-03-31",
       "rankings": [
-        { "id": "airpods-pro-2", "rank": 1, "score": 9.1, "scores": { "sound": 9.0, "anc": 9.5, "battery": 8.5, "comfort": 9.2, "value": 7.7 } },
-        { "id": "bose-qce2", "rank": 2, "score": 8.9, "scores": { "sound": 8.8, "anc": 9.8, "battery": 8.0, "comfort": 9.0, "value": 7.5 } },
-        { "id": "sony-wf-1000xm5", "rank": 3, "score": 8.7, "scores": { "sound": 9.5, "anc": 9.3, "battery": 8.8, "comfort": 8.5, "value": 7.2 } },
-        { "id": "samsung-buds3-pro", "rank": 4, "score": 8.6, "scores": { "sound": 8.8, "anc": 8.8, "battery": 8.5, "comfort": 8.5, "value": 8.1 } },
-        { "id": "jabra-elite10", "rank": 5, "score": 8.6, "scores": { "sound": 8.7, "anc": 8.5, "battery": 9.0, "comfort": 8.8, "value": 8.0 } },
-        { "id": "sennheiser-mtw4", "rank": 6, "score": 8.5, "scores": { "sound": 9.2, "anc": 8.2, "battery": 8.8, "comfort": 8.5, "value": 7.5 } },
-        { "id": "nothing-ear2", "rank": 7, "score": 8.2, "scores": { "sound": 8.2, "anc": 7.8, "battery": 8.5, "comfort": 8.5, "value": 9.0 } },
-        { "id": "jabra-elite8-active", "rank": 8, "score": 8.1, "scores": { "sound": 7.8, "anc": 8.0, "battery": 8.5, "comfort": 8.5, "value": 8.3 } },
-        { "id": "beats-fit-pro", "rank": 9, "score": 7.9, "scores": { "sound": 8.0, "anc": 7.8, "battery": 7.5, "comfort": 8.5, "value": 8.0 } },
-        { "id": "pixel-buds-pro2", "rank": 10, "score": 7.8, "scores": { "sound": 7.8, "anc": 7.8, "battery": 7.5, "comfort": 8.0, "value": 7.8 } },
-        { "id": "anker-liberty4-nc", "rank": 11, "score": 7.6, "scores": { "sound": 7.5, "anc": 7.8, "battery": 8.5, "comfort": 7.5, "value": 9.5 } },
-        { "id": "sony-wf-c700n", "rank": 12, "score": 7.4, "scores": { "sound": 7.5, "anc": 7.5, "battery": 7.5, "comfort": 7.5, "value": 8.5 } },
-        { "id": "oneplus-buds3", "rank": 13, "score": 7.2, "scores": { "sound": 7.3, "anc": 7.0, "battery": 9.0, "comfort": 7.0, "value": 9.0 } },
-        { "id": "earfun-air-pro4", "rank": 14, "score": 7.0, "scores": { "sound": 7.0, "anc": 7.2, "battery": 8.0, "comfort": 7.0, "value": 9.5 } },
-        { "id": "edifier-neobpro2", "rank": 15, "score": 6.9, "scores": { "sound": 7.5, "anc": 6.8, "battery": 7.0, "comfort": 6.5, "value": 8.5 } }
-      ],
-      "commentary": "2026 年 Q1 最後一天，無線耳機市場格局在各大旗艦機型的競爭下趨於穩定。本榜 Sony WF-1000XM5 的「價值」評分從 7.5 下調至 7.2，整體分數從 8.8 降至 8.7——主因是 Sony WF-1000XM6（$329.99）已完成市場鋪貨，各大測評一致確認 XM6 在每側四顆麥克風與通風降噪結構上全面超越前代，使 XM5 在當前售價下的競爭力略有下滑。儘管如此，WF-1000XM5 在音質面的優勢（LDAC、9小時32分續航）仍是本榜排名第三的核心依據。\n\nApple AirPods Pro 2 穩守第一，其 Adaptive Audio 自適應音訊與 Apple 生態整合優勢短期內難以撼動。Bose QuietComfort Earbuds II 以 9.8 的降噪技術評分繼續鞏固第二，多項第三方測評持續給出五星評價，技術護城河穩固。值得一提的是，CES 2026 亮相的法國 Naox Technologies NAOX Wave EEG 耳機，首次將臨床級腦電圖（EEG）感測器整合進無線耳機，支援認知狀態追蹤與睡眠分析，代表耳機市場正向神經科技方向延伸。\n\nSamsung Galaxy Buds 3 Pro（#4）因 Buds 4 Pro 已出貨的壓力，性價比評分維持 8.1 的低水位。預算段 Anker Soundcore Liberty 4 NC 和 EarFun Air Pro 4 分別以 $79 提供 $80 以下最具競爭力的主動降噪體驗，持續穩居 #11 和 #14。整體而言，今日排名反映 Q1 2026 末的市場共識，重大變化預計在新機型陸續納入本榜後才會發生。",
-      "highlights": [
-        "Sony WF-1000XM5 價值評分下調至 7.2，整體降至 8.7——WF-1000XM6 全面上市後前代 CP 值縮水",
-        "Apple AirPods Pro 2 穩守 #1，Adaptive Audio 生態整合短期無對手",
-        "Bose QuietComfort Earbuds II 降噪評分 9.8 維持技術領先，第三方五星評價持續累積",
-        "NAOX Wave EEG 耳機亮相：腦電圖感測器整合耳機，神經科技賽道正式開啟",
-        "預算首選穩定：Anker Liberty 4 NC (#11) 和 EarFun Air Pro 4 (#14) 繼續 $80 以下最強 ANC"
+        {
+          "id": "airpods-pro-2",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "sound": 9,
+            "anc": 9.5,
+            "battery": 8.5,
+            "comfort": 9.2,
+            "value": 7.7
+          }
+        },
+        {
+          "id": "bose-qce2",
+          "rank": 2,
+          "score": 8.9,
+          "scores": {
+            "sound": 8.8,
+            "anc": 9.8,
+            "battery": 8,
+            "comfort": 9,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "sony-wf-1000xm5",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "sound": 9.5,
+            "anc": 9.3,
+            "battery": 8.8,
+            "comfort": 8.5,
+            "value": 7.2
+          }
+        },
+        {
+          "id": "samsung-buds3-pro",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "sound": 8.8,
+            "anc": 8.8,
+            "battery": 8.5,
+            "comfort": 8.5,
+            "value": 8.1
+          }
+        },
+        {
+          "id": "jabra-elite10",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "sound": 8.7,
+            "anc": 8.5,
+            "battery": 9,
+            "comfort": 8.8,
+            "value": 8
+          }
+        },
+        {
+          "id": "sennheiser-mtw4",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "sound": 9.2,
+            "anc": 8.2,
+            "battery": 8.8,
+            "comfort": 8.5,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "nothing-ear2",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "sound": 8.2,
+            "anc": 7.8,
+            "battery": 8.5,
+            "comfort": 8.5,
+            "value": 9
+          }
+        },
+        {
+          "id": "jabra-elite8-active",
+          "rank": 8,
+          "score": 8.1,
+          "scores": {
+            "sound": 7.8,
+            "anc": 8,
+            "battery": 8.5,
+            "comfort": 8.5,
+            "value": 8.3
+          }
+        },
+        {
+          "id": "beats-fit-pro",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "sound": 8,
+            "anc": 7.8,
+            "battery": 7.5,
+            "comfort": 8.5,
+            "value": 8
+          }
+        },
+        {
+          "id": "pixel-buds-pro2",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "sound": 7.8,
+            "anc": 7.8,
+            "battery": 7.5,
+            "comfort": 8,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "anker-liberty4-nc",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "sound": 7.5,
+            "anc": 7.8,
+            "battery": 8.5,
+            "comfort": 7.5,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "sony-wf-c700n",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "sound": 7.5,
+            "anc": 7.5,
+            "battery": 7.5,
+            "comfort": 7.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "oneplus-buds3",
+          "rank": 13,
+          "score": 7.2,
+          "scores": {
+            "sound": 7.3,
+            "anc": 7,
+            "battery": 9,
+            "comfort": 7,
+            "value": 9
+          }
+        },
+        {
+          "id": "earfun-air-pro4",
+          "rank": 14,
+          "score": 7,
+          "scores": {
+            "sound": 7,
+            "anc": 7.2,
+            "battery": 8,
+            "comfort": 7,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "edifier-neobpro2",
+          "rank": 15,
+          "score": 6.9,
+          "scores": {
+            "sound": 7.5,
+            "anc": 6.8,
+            "battery": 7,
+            "comfort": 6.5,
+            "value": 8.5
+          }
+        }
       ],
       "references": [
-        { "title": "Best Wireless Earbuds 2026", "url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/", "source": "SoundGuys" },
-        { "title": "Best wireless earbuds 2026", "url": "https://www.whathifi.com/best-buys/best-wireless-earbuds-budget-and-premium", "source": "What Hi-Fi?" },
-        { "title": "7 new wireless earbuds that just raised the stakes", "url": "https://the-gadgeteer.com/2026/03/10/7-new-wireless-earbuds-that-just-raised-the-stakes/", "source": "The Gadgeteer" }
-      ]
+        {
+          "title": "Best Wireless Earbuds 2026",
+          "url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+          "source": "SoundGuys"
+        },
+        {
+          "title": "Best wireless earbuds 2026",
+          "url": "https://www.whathifi.com/best-buys/best-wireless-earbuds-budget-and-premium",
+          "source": "What Hi-Fi?"
+        },
+        {
+          "title": "7 new wireless earbuds that just raised the stakes",
+          "url": "https://the-gadgeteer.com/2026/03/10/7-new-wireless-earbuds-that-just-raised-the-stakes/",
+          "source": "The Gadgeteer"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "",
+          "highlights": []
+        },
+        "zh-tw": {
+          "commentary": "2026 年 Q1 最後一天，無線耳機市場格局在各大旗艦機型的競爭下趨於穩定。本榜 Sony WF-1000XM5 的「價值」評分從 7.5 下調至 7.2，整體分數從 8.8 降至 8.7——主因是 Sony WF-1000XM6（$329.99）已完成市場鋪貨，各大測評一致確認 XM6 在每側四顆麥克風與通風降噪結構上全面超越前代，使 XM5 在當前售價下的競爭力略有下滑。儘管如此，WF-1000XM5 在音質面的優勢（LDAC、9小時32分續航）仍是本榜排名第三的核心依據。\n\nApple AirPods Pro 2 穩守第一，其 Adaptive Audio 自適應音訊與 Apple 生態整合優勢短期內難以撼動。Bose QuietComfort Earbuds II 以 9.8 的降噪技術評分繼續鞏固第二，多項第三方測評持續給出五星評價，技術護城河穩固。值得一提的是，CES 2026 亮相的法國 Naox Technologies NAOX Wave EEG 耳機，首次將臨床級腦電圖（EEG）感測器整合進無線耳機，支援認知狀態追蹤與睡眠分析，代表耳機市場正向神經科技方向延伸。\n\nSamsung Galaxy Buds 3 Pro（#4）因 Buds 4 Pro 已出貨的壓力，性價比評分維持 8.1 的低水位。預算段 Anker Soundcore Liberty 4 NC 和 EarFun Air Pro 4 分別以 $79 提供 $80 以下最具競爭力的主動降噪體驗，持續穩居 #11 和 #14。整體而言，今日排名反映 Q1 2026 末的市場共識，重大變化預計在新機型陸續納入本榜後才會發生。",
+          "highlights": [
+            "Sony WF-1000XM5 價值評分下調至 7.2，整體降至 8.7——WF-1000XM6 全面上市後前代 CP 值縮水",
+            "Apple AirPods Pro 2 穩守 #1，Adaptive Audio 生態整合短期無對手",
+            "Bose QuietComfort Earbuds II 降噪評分 9.8 維持技術領先，第三方五星評價持續累積",
+            "NAOX Wave EEG 耳機亮相：腦電圖感測器整合耳機，神經科技賽道正式開啟",
+            "預算首選穩定：Anker Liberty 4 NC (#11) 和 EarFun Air Pro 4 (#14) 繼續 $80 以下最強 ANC"
+          ]
+        }
+      }
     }
   ]
 }

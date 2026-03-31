@@ -1,22 +1,27 @@
 ---
-import Layout from '../../layouts/Layout.astro';
+import Layout from '../../../layouts/Layout.astro';
 import { readdir, readFile } from 'fs/promises';
 import { join } from 'path';
+import { supportedLangs, useTranslations, getI18n, type Lang } from '../../../i18n/translations';
 
 export async function getStaticPaths() {
   const dir = join(process.cwd(), 'src/content/rankings');
   const files = await readdir(dir).catch(() => []);
-  return Promise.all(
-    files
-      .filter(f => f.endsWith('.json'))
-      .map(async f => {
-        const data = JSON.parse(await readFile(join(dir, f), 'utf-8'));
-        return { params: { slug: data.slug }, props: { ranking: data } };
-      })
+  const rankings = await Promise.all(
+    files.filter(f => f.endsWith('.json'))
+      .map(async f => JSON.parse(await readFile(join(dir, f), 'utf-8')))
+  );
+  return rankings.flatMap(ranking =>
+    supportedLangs.map(lang => ({
+      params: { lang, slug: ranking.slug },
+      props: { ranking, lang },
+    }))
   );
 }
 
-const { ranking } = Astro.props;
+const { ranking, lang } = Astro.props as { ranking: any; lang: Lang };
+const t = useTranslations(lang);
+
 const history = ranking.history ?? [];
 const latest = history[history.length - 1];
 const previous = history[history.length - 2];
@@ -27,7 +32,9 @@ const currentRankings = (latest?.rankings ?? [])
   .map((r: any) => {
     const prevEntry = previous?.rankings?.find((p: any) => p.id === r.id);
     const delta = prevEntry ? prevEntry.rank - r.rank : 0;
-    return { ...r, competitor: competitorMap[r.id], delta };
+    const competitor = competitorMap[r.id];
+    const compI18n = getI18n(competitor?.i18n, lang);
+    return { ...r, competitor, compDesc: compI18n?.description || competitor?.description || '', delta };
   })
   .sort((a: any, b: any) => a.rank - b.rank);
 
@@ -51,35 +58,47 @@ const showChart = chartHistory.length > 1;
 
 const scoreFactorLabels = Object.entries(ranking.scoreFactors ?? {});
 const updatedAt = latest?.date ?? '—';
+
+// i18n content for current page
+const rankingI18n = getI18n(ranking.i18n, lang);
+const rankingTitle = rankingI18n?.title ?? ranking.slug;
+const rankingDesc = rankingI18n?.description ?? '';
+
+// Latest commentary/highlights
+const latestI18n = getI18n(latest?.i18n, lang);
+const commentary = latestI18n?.commentary ?? '';
+const highlights = latestI18n?.highlights ?? [];
+
+const currentPath = `/rankings/${ranking.slug}`;
 ---
 
-<Layout title={`${ranking.title} | TopRankLand`} description={ranking.description}>
+<Layout title={rankingTitle} description={rankingDesc} lang={lang} currentPath={currentPath}>
   <div class="mb-6">
-    <a href="/" class="text-sm text-indigo-500 hover:underline">← All Rankings</a>
+    <a href={`/${lang}/`} class="text-sm text-indigo-500 hover:underline">{t('back_all')}</a>
   </div>
 
   <!-- Header -->
   <div class="mb-8">
     <span class="inline-block text-xs font-semibold text-indigo-500 uppercase tracking-wide bg-indigo-50 px-2 py-1 rounded mb-2">{ranking.category}</span>
-    <h1 class="text-3xl font-bold mb-2">{ranking.title}</h1>
-    <p class="text-gray-500 mb-1">{ranking.description}</p>
-    <p class="text-xs text-gray-400">Last updated: {updatedAt} · {currentRankings.length} entries tracked daily</p>
+    <h1 class="text-3xl font-bold mb-2">{rankingTitle}</h1>
+    <p class="text-gray-500 mb-1">{rankingDesc}</p>
+    <p class="text-xs text-gray-400">{t('last_updated')}: {updatedAt} · {currentRankings.length} {t('entries_tracked')}</p>
   </div>
 
   <!-- Rank Trend Chart -->
   {showChart && (
     <section class="bg-white rounded-xl border border-gray-200 p-6 mb-8">
-      <h2 class="text-lg font-bold mb-4 text-gray-800">Rank Trend — Top 10</h2>
+      <h2 class="text-lg font-bold mb-4 text-gray-800">{t('rank_trend')}</h2>
       <div class="relative" style="height: 280px;">
         <canvas id="trendChart"></canvas>
       </div>
-      <p class="text-xs text-gray-400 mt-3">Lower = better rank. Showing last {chartHistory.length} days.</p>
+      <p class="text-xs text-gray-400 mt-3">{t('chart_note_pre')} {chartHistory.length} {t('chart_note_post')}</p>
     </section>
   )}
 
   <!-- Current Rankings -->
   <section class="mb-8">
-    <h2 class="text-xl font-bold mb-4 text-gray-800">Current Rankings</h2>
+    <h2 class="text-xl font-bold mb-4 text-gray-800">{t('current_rankings')}</h2>
     <div class="space-y-3">
       {currentRankings.map((item: any) => (
         <div class="bg-white rounded-xl border border-gray-200 p-5 hover:shadow-sm hover:border-indigo-200 transition-all">
@@ -113,8 +132,8 @@ const updatedAt = latest?.date ?? '—';
                 </div>
               </div>
 
-              {item.competitor?.description && (
-                <p class="text-sm text-gray-500 mb-3">{item.competitor.description}</p>
+              {item.compDesc && (
+                <p class="text-sm text-gray-500 mb-3">{item.compDesc}</p>
               )}
 
               <!-- Score factor bars -->
@@ -142,19 +161,22 @@ const updatedAt = latest?.date ?? '—';
   </section>
 
   <!-- Daily Commentary -->
-  {latest?.commentary && (
+  {commentary && (
     <section class="bg-indigo-50 rounded-xl border border-indigo-100 p-6 mb-6">
-      <h2 class="text-lg font-bold mb-3 text-indigo-800">Today's Analysis · {updatedAt}</h2>
-      <p class="text-gray-700 leading-relaxed mb-4">{latest.commentary}</p>
-      {latest.highlights?.length > 0 && (
-        <ul class="space-y-1.5">
-          {latest.highlights.map((h: string) => (
-            <li class="flex items-start gap-2 text-sm text-gray-700">
-              <span class="text-indigo-400 mt-0.5 flex-shrink-0">→</span>
-              <span>{h}</span>
-            </li>
-          ))}
-        </ul>
+      <h2 class="text-lg font-bold mb-3 text-indigo-800">{t('todays_analysis')} · {updatedAt}</h2>
+      <p class="text-gray-700 leading-relaxed mb-4">{commentary}</p>
+      {highlights.length > 0 && (
+        <div>
+          <p class="text-sm font-semibold text-indigo-700 mb-2">{t('key_highlights')}</p>
+          <ul class="space-y-1.5">
+            {highlights.map((h: string) => (
+              <li class="flex items-start gap-2 text-sm text-gray-700">
+                <span class="text-indigo-400 mt-0.5 flex-shrink-0">→</span>
+                <span>{h}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
       )}
     </section>
   )}
@@ -162,7 +184,7 @@ const updatedAt = latest?.date ?? '—';
   <!-- References -->
   {latest?.references?.length > 0 && (
     <section class="mb-8">
-      <h3 class="text-sm font-semibold text-gray-400 uppercase tracking-wide mb-3">References</h3>
+      <h3 class="text-sm font-semibold text-gray-400 uppercase tracking-wide mb-3">{t('references')}</h3>
       <div class="flex flex-wrap gap-2">
         {latest.references.map((ref: any) => (
           <a href={ref.url} target="_blank" rel="noopener"
@@ -178,22 +200,29 @@ const updatedAt = latest?.date ?? '—';
   <!-- History Log -->
   {history.length > 1 && (
     <section class="mb-8">
-      <h2 class="text-lg font-bold mb-4 text-gray-800">Update History</h2>
+      <h2 class="text-lg font-bold mb-4 text-gray-800">{t('update_history')}</h2>
       <div class="space-y-2">
-        {[...history].reverse().slice(1, 11).map((entry: any) => (
-          <details class="bg-white rounded-xl border border-gray-200 group">
-            <summary class="flex items-center justify-between p-4 cursor-pointer list-none hover:bg-gray-50 rounded-xl">
-              <span class="text-sm font-medium text-gray-700">{entry.date}</span>
-              <span class="text-xs text-gray-400 group-open:rotate-180 transition-transform inline-block">▼</span>
-            </summary>
-            <div class="px-4 pb-4 text-sm text-gray-600 border-t border-gray-100 pt-3 space-y-1">
-              <p class="leading-relaxed">{entry.commentary}</p>
-              {entry.highlights?.map((h: string) => (
-                <p class="text-xs text-gray-500">→ {h}</p>
-              ))}
-            </div>
-          </details>
-        ))}
+        {[...history].reverse().slice(1, 11).map((entry: any) => {
+          const entryI18n = getI18n(entry.i18n, lang);
+          const entryCommentary = entryI18n?.commentary ?? '';
+          const entryHighlights = entryI18n?.highlights ?? [];
+          return (
+            <details class="bg-white rounded-xl border border-gray-200 group">
+              <summary class="flex items-center justify-between p-4 cursor-pointer list-none hover:bg-gray-50 rounded-xl">
+                <span class="text-sm font-medium text-gray-700">{entry.date}</span>
+                <span class="text-xs text-gray-400 group-open:rotate-180 transition-transform inline-block">▼</span>
+              </summary>
+              {(entryCommentary || entryHighlights.length > 0) && (
+                <div class="px-4 pb-4 text-sm text-gray-600 border-t border-gray-100 pt-3 space-y-1">
+                  {entryCommentary && <p class="leading-relaxed">{entryCommentary}</p>}
+                  {entryHighlights.map((h: string) => (
+                    <p class="text-xs text-gray-500">→ {h}</p>
+                  ))}
+                </div>
+              )}
+            </details>
+          );
+        })}
       </div>
     </section>
   )}

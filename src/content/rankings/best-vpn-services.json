@@ -1,8 +1,6 @@
 {
   "slug": "best-vpn-services",
-  "title": "Best VPN Services",
   "category": "Software",
-  "description": "Daily-updated rankings of the best VPN services, scored on privacy, speed, server network, ease of use, and price.",
   "scoreFactors": {
     "privacy": "Privacy & Logging Policy",
     "speed": "Speed",
@@ -10,102 +8,642 @@
     "usability": "Ease of Use",
     "price": "Price"
   },
+  "i18n": {
+    "en": {
+      "title": "Best VPN Services",
+      "description": "Daily-updated rankings of the best VPN services, scored on privacy, speed, server network, ease of use, and price."
+    },
+    "zh-tw": {
+      "title": "最佳 VPN 服務 2026",
+      "description": "每日更新的最佳 VPN 服務排行榜，根據隱私保護、連線速度、伺服器數量、易用性和價格評分。"
+    }
+  },
   "competitors": [
-    { "id": "mullvad", "name": "Mullvad VPN", "brand": "Mullvad", "url": "https://mullvad.net/", "priceRange": "€5/mo (flat)", "description": "No-account anonymous VPN with flat-rate pricing and no usage logs" },
-    { "id": "protonvpn", "name": "ProtonVPN", "brand": "Proton", "url": "https://protonvpn.com/", "priceRange": "Free / $9.99/mo", "description": "Swiss-based VPN with open-source apps and strong transparency record" },
-    { "id": "ivpn", "name": "IVPN", "brand": "IVPN", "url": "https://www.ivpn.net/", "priceRange": "$6/mo+", "description": "Privacy-first VPN with multi-hop routing and no tracking" },
-    { "id": "nordvpn", "name": "NordVPN", "brand": "Nord Security", "url": "https://nordvpn.com/", "priceRange": "$3.99/mo+", "description": "6,400+ servers in 111 countries with Meshnet and Threat Protection" },
-    { "id": "expressvpn", "name": "ExpressVPN", "brand": "Kape Technologies", "url": "https://www.expressvpn.com/", "priceRange": "$8.32/mo+", "description": "Lightway protocol VPN with consistent speeds across 105 countries" },
-    { "id": "surfshark", "name": "Surfshark", "brand": "Nord Security", "url": "https://surfshark.com/", "priceRange": "$2.49/mo+", "description": "Unlimited devices with CleanWeb ad blocking and Nexus network routing" },
-    { "id": "windscribe", "name": "Windscribe", "brand": "Windscribe", "url": "https://windscribe.com/", "priceRange": "Free / $9/mo", "description": "Generous free tier with R.O.B.E.R.T. DNS-level blocker and 10 Gbit servers" },
-    { "id": "airvpn", "name": "AirVPN", "brand": "AirVPN", "url": "https://airvpn.org/", "priceRange": "€5/mo+", "description": "Open-source, community-driven VPN with port forwarding and Eddie client" },
-    { "id": "pia", "name": "Private Internet Access", "brand": "Kape Technologies", "url": "https://www.privateinternetaccess.com/", "priceRange": "$2.03/mo+", "description": "Court-proven no-logs policy with 35,000 servers and open-source apps" },
-    { "id": "cyberghost", "name": "CyberGhost", "brand": "Kape Technologies", "url": "https://www.cyberghost.com/", "priceRange": "$2.03/mo+", "description": "User-friendly with 9,700+ servers and dedicated streaming/torrenting servers" }
+    {
+      "id": "mullvad",
+      "name": "Mullvad VPN",
+      "brand": "Mullvad",
+      "url": "https://mullvad.net/",
+      "priceRange": "€5/mo (flat)",
+      "i18n": {
+        "en": {
+          "description": "No-account anonymous VPN with flat-rate pricing and no usage logs"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "protonvpn",
+      "name": "ProtonVPN",
+      "brand": "Proton",
+      "url": "https://protonvpn.com/",
+      "priceRange": "Free / $9.99/mo",
+      "i18n": {
+        "en": {
+          "description": "Swiss-based VPN with open-source apps and strong transparency record"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "ivpn",
+      "name": "IVPN",
+      "brand": "IVPN",
+      "url": "https://www.ivpn.net/",
+      "priceRange": "$6/mo+",
+      "i18n": {
+        "en": {
+          "description": "Privacy-first VPN with multi-hop routing and no tracking"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "nordvpn",
+      "name": "NordVPN",
+      "brand": "Nord Security",
+      "url": "https://nordvpn.com/",
+      "priceRange": "$3.99/mo+",
+      "i18n": {
+        "en": {
+          "description": "6,400+ servers in 111 countries with Meshnet and Threat Protection"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "expressvpn",
+      "name": "ExpressVPN",
+      "brand": "Kape Technologies",
+      "url": "https://www.expressvpn.com/",
+      "priceRange": "$8.32/mo+",
+      "i18n": {
+        "en": {
+          "description": "Lightway protocol VPN with consistent speeds across 105 countries"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "surfshark",
+      "name": "Surfshark",
+      "brand": "Nord Security",
+      "url": "https://surfshark.com/",
+      "priceRange": "$2.49/mo+",
+      "i18n": {
+        "en": {
+          "description": "Unlimited devices with CleanWeb ad blocking and Nexus network routing"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "windscribe",
+      "name": "Windscribe",
+      "brand": "Windscribe",
+      "url": "https://windscribe.com/",
+      "priceRange": "Free / $9/mo",
+      "i18n": {
+        "en": {
+          "description": "Generous free tier with R.O.B.E.R.T. DNS-level blocker and 10 Gbit servers"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "airvpn",
+      "name": "AirVPN",
+      "brand": "AirVPN",
+      "url": "https://airvpn.org/",
+      "priceRange": "€5/mo+",
+      "i18n": {
+        "en": {
+          "description": "Open-source, community-driven VPN with port forwarding and Eddie client"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "pia",
+      "name": "Private Internet Access",
+      "brand": "Kape Technologies",
+      "url": "https://www.privateinternetaccess.com/",
+      "priceRange": "$2.03/mo+",
+      "i18n": {
+        "en": {
+          "description": "Court-proven no-logs policy with 35,000 servers and open-source apps"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "cyberghost",
+      "name": "CyberGhost",
+      "brand": "Kape Technologies",
+      "url": "https://www.cyberghost.com/",
+      "priceRange": "$2.03/mo+",
+      "i18n": {
+        "en": {
+          "description": "User-friendly with 9,700+ servers and dedicated streaming/torrenting servers"
+        },
+        "zh-tw": {
+          "description": ""
+        }
+      }
+    }
   ],
   "history": [
     {
       "date": "2026-03-26",
       "rankings": [
-        { "id": "mullvad", "rank": 1, "score": 9.1, "scores": { "privacy": 9.8, "speed": 8.5, "network": 8.0, "usability": 8.5, "price": 9.5 } },
-        { "id": "protonvpn", "rank": 2, "score": 9.0, "scores": { "privacy": 9.5, "speed": 8.8, "network": 9.0, "usability": 9.0, "price": 8.0 } },
-        { "id": "ivpn", "rank": 3, "score": 8.8, "scores": { "privacy": 9.7, "speed": 8.2, "network": 7.5, "usability": 8.0, "price": 8.5 } },
-        { "id": "nordvpn", "rank": 4, "score": 8.6, "scores": { "privacy": 8.0, "speed": 9.0, "network": 9.5, "usability": 9.0, "price": 8.5 } },
-        { "id": "expressvpn", "rank": 5, "score": 8.3, "scores": { "privacy": 8.0, "speed": 9.2, "network": 9.0, "usability": 9.2, "price": 7.0 } },
-        { "id": "surfshark", "rank": 6, "score": 8.2, "scores": { "privacy": 7.8, "speed": 8.8, "network": 9.0, "usability": 9.0, "price": 9.5 } },
-        { "id": "windscribe", "rank": 7, "score": 8.0, "scores": { "privacy": 8.5, "speed": 8.0, "network": 8.0, "usability": 8.5, "price": 9.0 } },
-        { "id": "airvpn", "rank": 8, "score": 7.8, "scores": { "privacy": 9.3, "speed": 7.8, "network": 7.5, "usability": 7.0, "price": 8.5 } },
-        { "id": "pia", "rank": 9, "score": 7.6, "scores": { "privacy": 8.5, "speed": 8.0, "network": 9.5, "usability": 8.0, "price": 9.5 } },
-        { "id": "cyberghost", "rank": 10, "score": 7.2, "scores": { "privacy": 7.0, "speed": 8.0, "network": 9.2, "usability": 9.0, "price": 8.5 } }
-      ],
-      "commentary": "The VPN market in 2026 increasingly splits between privacy-first services and mainstream speed-focused options. Mullvad retains #1 with its unique no-account system — users pay anonymously with cash or crypto and receive a random account number. This radical privacy approach, combined with its flat €5/month pricing (no discounts, no lock-ins), earns top marks. ProtonVPN moves to #2 after its 2025 security audit cleared all critical findings. IVPN holds #3 for power users who need multi-hop routing and minimum data footprint. NordVPN at #4 leads the mainstream segment with 6,400+ servers. Notably, ExpressVPN's ownership by Kape Technologies (also owns PIA and CyberGhost) continues to concern privacy advocates, capping its ranking despite excellent speeds.",
-      "highlights": [
-        "Mullvad #1: no accounts, flat pricing, strongest privacy model",
-        "ProtonVPN rises to #2 after clean 2025 security audit",
-        "NordVPN #4 leads mainstream segment with 9,500+ servers",
-        "Kape Technologies owns ExpressVPN, PIA, and CyberGhost — conflict of interest noted",
-        "Windscribe free tier remains best value for light users"
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.8,
+            "network": 9,
+            "usability": 9,
+            "price": 8
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 9.7,
+            "speed": 8.2,
+            "network": 7.5,
+            "usability": 8,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 8,
+            "speed": 9,
+            "network": 9.5,
+            "usability": 9,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "privacy": 8,
+            "speed": 9.2,
+            "network": 9,
+            "usability": 9.2,
+            "price": 7
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.8,
+            "speed": 8.8,
+            "network": 9,
+            "usability": 9,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 8,
+            "network": 8,
+            "usability": 8.5,
+            "price": 9
+          }
+        },
+        {
+          "id": "airvpn",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "privacy": 9.3,
+            "speed": 7.8,
+            "network": 7.5,
+            "usability": 7,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "pia",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 8,
+            "network": 9.5,
+            "usability": 8,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "cyberghost",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "privacy": 7,
+            "speed": 8,
+            "network": 9.2,
+            "usability": 9,
+            "price": 8.5
+          }
+        }
       ],
       "references": [
-        { "title": "Best VPN Service 2026", "url": "https://www.pcmag.com/picks/the-best-vpn-services", "source": "PCMag" },
-        { "title": "The Best VPNs", "url": "https://www.nytimes.com/wirecutter/reviews/best-vpn-service/", "source": "Wirecutter" },
-        { "title": "VPN Comparison 2026", "url": "https://www.privacyguides.org/en/vpn/", "source": "Privacy Guides" }
-      ]
+        {
+          "title": "Best VPN Service 2026",
+          "url": "https://www.pcmag.com/picks/the-best-vpn-services",
+          "source": "PCMag"
+        },
+        {
+          "title": "The Best VPNs",
+          "url": "https://www.nytimes.com/wirecutter/reviews/best-vpn-service/",
+          "source": "Wirecutter"
+        },
+        {
+          "title": "VPN Comparison 2026",
+          "url": "https://www.privacyguides.org/en/vpn/",
+          "source": "Privacy Guides"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The VPN market in 2026 increasingly splits between privacy-first services and mainstream speed-focused options. Mullvad retains #1 with its unique no-account system — users pay anonymously with cash or crypto and receive a random account number. This radical privacy approach, combined with its flat €5/month pricing (no discounts, no lock-ins), earns top marks. ProtonVPN moves to #2 after its 2025 security audit cleared all critical findings. IVPN holds #3 for power users who need multi-hop routing and minimum data footprint. NordVPN at #4 leads the mainstream segment with 6,400+ servers. Notably, ExpressVPN's ownership by Kape Technologies (also owns PIA and CyberGhost) continues to concern privacy advocates, capping its ranking despite excellent speeds.",
+          "highlights": [
+            "Mullvad #1: no accounts, flat pricing, strongest privacy model",
+            "ProtonVPN rises to #2 after clean 2025 security audit",
+            "NordVPN #4 leads mainstream segment with 9,500+ servers",
+            "Kape Technologies owns ExpressVPN, PIA, and CyberGhost — conflict of interest noted",
+            "Windscribe free tier remains best value for light users"
+          ]
+        },
+        "zh-tw": {
+          "commentary": "",
+          "highlights": []
+        }
+      }
     },
     {
       "date": "2026-03-30",
       "rankings": [
-        { "id": "mullvad", "rank": 1, "score": 9.1, "scores": { "privacy": 9.8, "speed": 8.5, "network": 8.0, "usability": 8.5, "price": 9.5 } },
-        { "id": "protonvpn", "rank": 2, "score": 9.1, "scores": { "privacy": 9.6, "speed": 8.8, "network": 9.0, "usability": 9.0, "price": 8.0 } },
-        { "id": "nordvpn", "rank": 3, "score": 8.7, "scores": { "privacy": 8.3, "speed": 9.0, "network": 9.5, "usability": 9.0, "price": 8.5 } },
-        { "id": "ivpn", "rank": 4, "score": 8.6, "scores": { "privacy": 9.7, "speed": 8.2, "network": 7.5, "usability": 8.0, "price": 8.5 } },
-        { "id": "expressvpn", "rank": 5, "score": 8.4, "scores": { "privacy": 8.0, "speed": 9.2, "network": 9.0, "usability": 9.3, "price": 7.0 } },
-        { "id": "surfshark", "rank": 6, "score": 8.2, "scores": { "privacy": 7.8, "speed": 8.8, "network": 9.0, "usability": 9.0, "price": 9.5 } },
-        { "id": "windscribe", "rank": 7, "score": 8.0, "scores": { "privacy": 8.5, "speed": 8.0, "network": 8.0, "usability": 8.5, "price": 9.0 } },
-        { "id": "airvpn", "rank": 8, "score": 7.8, "scores": { "privacy": 9.3, "speed": 7.8, "network": 7.5, "usability": 7.0, "price": 8.5 } },
-        { "id": "pia", "rank": 9, "score": 7.6, "scores": { "privacy": 8.5, "speed": 8.0, "network": 9.5, "usability": 8.0, "price": 9.5 } },
-        { "id": "cyberghost", "rank": 10, "score": 7.2, "scores": { "privacy": 7.0, "speed": 8.0, "network": 9.2, "usability": 9.0, "price": 8.5 } }
-      ],
-      "commentary": "VPN 市場在 2026 年 3 月底出現多項重要進展。ProtonVPN 完成了第四次連續無日誌審計，並首次通過 SOC 2 Type II 審計——這是比一般無日誌審計更嚴格的系統性安全驗證，要求稽核方對系統連續觀察數月，確認控制措施長期有效。此一里程碑促使 ProtonVPN 的隱私評分從 9.5 上調至 9.6，整體分數升至 9.1，與 Mullvad 的差距縮小但仍居第二。\n\nNordVPN 已於旗下 NordLynx 協議全平台導入後量子加密（Post-quantum encryption），成為主流 VPN 服務中首批提供完整抗量子保護的業者，有效抵禦未來量子電腦的解密威脅。NordVPN 維持第三名，整體分數 8.7 不變。值得關注的是，1 月間有網路犯罪論壇流出聲稱含有 NordVPN 內部資料的貼文，NordVPN 已確認無任何生產系統或用戶資料受損，涉及內容僅源自隔離的第三方測試環境。\n\n美國國會正積極討論 FISA 702 條款的續期問題（截止日期 4 月 20 日），議員關切 VPN 使用是否影響通訊的地域性法律保護，凸顯隱私監管議題的持續升溫。目前有 42% 的美國人使用 VPN，已從小眾轉為主流行為。Mullvad 和 ProtonVPN 繼續穩守前兩名，無帳戶匿名系統和瑞士法律保障依然是最強隱私標準的代表。",
-      "highlights": [
-        "ProtonVPN 首次通過 SOC 2 Type II 審計，隱私評分升至 9.6，整體升至 9.1",
-        "NordVPN NordLynx 全平台導入後量子加密，抵禦未來量子電腦解密威脅",
-        "NordVPN 1 月資料外洩聲稱已確認無生產系統受損，僅涉及隔離測試環境",
-        "美國 FISA 702 續期辯論：VPN 使用與通訊監控保護的法律邊界受議員質疑",
-        "Mullvad 和 ProtonVPN 隱私前兩名穩固，42% 美國人使用 VPN 顯示市場主流化"
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.6,
+            "speed": 8.8,
+            "network": 9,
+            "usability": 9,
+            "price": 8
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "privacy": 8.3,
+            "speed": 9,
+            "network": 9.5,
+            "usability": 9,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.7,
+            "speed": 8.2,
+            "network": 7.5,
+            "usability": 8,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.4,
+          "scores": {
+            "privacy": 8,
+            "speed": 9.2,
+            "network": 9,
+            "usability": 9.3,
+            "price": 7
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.8,
+            "speed": 8.8,
+            "network": 9,
+            "usability": 9,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 8,
+            "network": 8,
+            "usability": 8.5,
+            "price": 9
+          }
+        },
+        {
+          "id": "airvpn",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "privacy": 9.3,
+            "speed": 7.8,
+            "network": 7.5,
+            "usability": 7,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "pia",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 8,
+            "network": 9.5,
+            "usability": 8,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "cyberghost",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "privacy": 7,
+            "speed": 8,
+            "network": 9.2,
+            "usability": 9,
+            "price": 8.5
+          }
+        }
       ],
       "references": [
-        { "title": "Top 9 VPNs of March 2026", "url": "https://ambcrypto.com/top-9-vpns-of-march-2026/", "source": "AMBCrypto" },
-        { "title": "Lawmakers question VPN impact on Americans' FISA surveillance protections", "url": "https://www.nextgov.com/cybersecurity/2026/03/lawmakers-question-vpn-impact-americans-fisa-surveillance-protections/412437/", "source": "Nextgov/FCW" },
-        { "title": "Legislation, loopholes, and loose ends — what does 2026 hold for the VPN industry?", "url": "https://www.techradar.com/vpn/vpn-services/legislation-loopholes-and-loose-ends-what-does-2026-hold-for-the-vpn-industry", "source": "TechRadar" }
-      ]
+        {
+          "title": "Top 9 VPNs of March 2026",
+          "url": "https://ambcrypto.com/top-9-vpns-of-march-2026/",
+          "source": "AMBCrypto"
+        },
+        {
+          "title": "Lawmakers question VPN impact on Americans' FISA surveillance protections",
+          "url": "https://www.nextgov.com/cybersecurity/2026/03/lawmakers-question-vpn-impact-americans-fisa-surveillance-protections/412437/",
+          "source": "Nextgov/FCW"
+        },
+        {
+          "title": "Legislation, loopholes, and loose ends — what does 2026 hold for the VPN industry?",
+          "url": "https://www.techradar.com/vpn/vpn-services/legislation-loopholes-and-loose-ends-what-does-2026-hold-for-the-vpn-industry",
+          "source": "TechRadar"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "",
+          "highlights": []
+        },
+        "zh-tw": {
+          "commentary": "VPN 市場在 2026 年 3 月底出現多項重要進展。ProtonVPN 完成了第四次連續無日誌審計，並首次通過 SOC 2 Type II 審計——這是比一般無日誌審計更嚴格的系統性安全驗證，要求稽核方對系統連續觀察數月，確認控制措施長期有效。此一里程碑促使 ProtonVPN 的隱私評分從 9.5 上調至 9.6，整體分數升至 9.1，與 Mullvad 的差距縮小但仍居第二。\n\nNordVPN 已於旗下 NordLynx 協議全平台導入後量子加密（Post-quantum encryption），成為主流 VPN 服務中首批提供完整抗量子保護的業者，有效抵禦未來量子電腦的解密威脅。NordVPN 維持第三名，整體分數 8.7 不變。值得關注的是，1 月間有網路犯罪論壇流出聲稱含有 NordVPN 內部資料的貼文，NordVPN 已確認無任何生產系統或用戶資料受損，涉及內容僅源自隔離的第三方測試環境。\n\n美國國會正積極討論 FISA 702 條款的續期問題（截止日期 4 月 20 日），議員關切 VPN 使用是否影響通訊的地域性法律保護，凸顯隱私監管議題的持續升溫。目前有 42% 的美國人使用 VPN，已從小眾轉為主流行為。Mullvad 和 ProtonVPN 繼續穩守前兩名，無帳戶匿名系統和瑞士法律保障依然是最強隱私標準的代表。",
+          "highlights": [
+            "ProtonVPN 首次通過 SOC 2 Type II 審計，隱私評分升至 9.6，整體升至 9.1",
+            "NordVPN NordLynx 全平台導入後量子加密，抵禦未來量子電腦解密威脅",
+            "NordVPN 1 月資料外洩聲稱已確認無生產系統受損，僅涉及隔離測試環境",
+            "美國 FISA 702 續期辯論：VPN 使用與通訊監控保護的法律邊界受議員質疑",
+            "Mullvad 和 ProtonVPN 隱私前兩名穩固，42% 美國人使用 VPN 顯示市場主流化"
+          ]
+        }
+      }
     },
     {
       "date": "2026-03-31",
       "rankings": [
-        { "id": "mullvad", "rank": 1, "score": 9.2, "scores": { "privacy": 9.9, "speed": 8.5, "network": 8.0, "usability": 8.5, "price": 9.5 } },
-        { "id": "protonvpn", "rank": 2, "score": 9.1, "scores": { "privacy": 9.6, "speed": 8.8, "network": 9.0, "usability": 9.0, "price": 8.0 } },
-        { "id": "nordvpn", "rank": 3, "score": 8.7, "scores": { "privacy": 8.3, "speed": 9.0, "network": 9.5, "usability": 9.0, "price": 8.5 } },
-        { "id": "ivpn", "rank": 4, "score": 8.6, "scores": { "privacy": 9.7, "speed": 8.2, "network": 7.5, "usability": 8.0, "price": 8.5 } },
-        { "id": "expressvpn", "rank": 5, "score": 8.4, "scores": { "privacy": 8.0, "speed": 9.2, "network": 9.0, "usability": 9.3, "price": 7.0 } },
-        { "id": "surfshark", "rank": 6, "score": 8.2, "scores": { "privacy": 7.8, "speed": 8.8, "network": 9.0, "usability": 9.0, "price": 9.5 } },
-        { "id": "windscribe", "rank": 7, "score": 8.0, "scores": { "privacy": 8.5, "speed": 8.0, "network": 8.0, "usability": 8.5, "price": 9.0 } },
-        { "id": "airvpn", "rank": 8, "score": 7.8, "scores": { "privacy": 9.3, "speed": 7.8, "network": 7.5, "usability": 7.0, "price": 8.5 } },
-        { "id": "pia", "rank": 9, "score": 7.6, "scores": { "privacy": 8.5, "speed": 8.0, "network": 9.5, "usability": 8.0, "price": 9.5 } },
-        { "id": "cyberghost", "rank": 10, "score": 7.2, "scores": { "privacy": 7.0, "speed": 8.0, "network": 9.2, "usability": 9.0, "price": 8.5 } }
-      ],
-      "commentary": "2026 年 3 月 31 日，美國國會 FISA 702 條款辯論在最後一天達到新高峰：民主黨議員正式警告，透過海外伺服器路由的 VPN 使用可能改變情報機構對用戶所在地的法律判斷，進而削弱憲法第四修正案的監控保護。此一進展直接強化了 Mullvad 無帳戶匿名模式的市場價值——Mullvad 的隱私評分從 9.8 上調至 9.9，整體分數升至 9.2，是本榜本季最高分。其現金或加密貨幣匿名付款加上無任何帳戶資訊的設計，是目前市場上對 FISA 式監控最具抵抗力的架構。\n\n同日，資安研究機構揭露威脅行為者 Storm-2561 正透過 SEO 投毒散布假冒 Pulse Secure 的惡意 VPN 客戶端，竊取用戶 VPN 憑證並轉發至攻擊者控制的伺服器。此事件再次凸顯只從官方管道下載 VPN 客戶端的重要性，也間接提升了開源客戶端（Mullvad、ProtonVPN、IVPN）的相對可信度。\n\nNordVPN 以 520 Mbps 平均速度領銜速度測評，並已在所有平台的 NordLynx 協議中完整導入後量子加密，成為目前主流 VPN 中抗量子防護最完整的選項之一。ProtonVPN 則宣布 2-年方案限時 7 折優惠（最低 $2.99/月），吸引大量新用戶入場，隱私品牌形象持續強化。ExpressVPN 在 2 月推出含 ExpressAI、電子郵件保護和身份防護的全新產品組合，朝全方位隱私套件方向擴張。",
-      "highlights": [
-        "FISA 702 議員警告：VPN 海外路由可能影響憲法監控保護——Mullvad 無帳號架構隱私評分升至 9.9",
-        "Storm-2561 假冒 Pulse Secure 發動憑證竊取攻擊，開源 VPN 客戶端可信度相對提升",
-        "NordVPN NordLynx 後量子加密全平台就緒，主流 VPN 抗量子防護最完整",
-        "ProtonVPN 2-年方案限時 7 折（最低 $2.99/月），隱私品牌持續強化用戶基礎",
-        "Mullvad 整體評分升至 9.2，領先 Q1 2026 全榜最高分"
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.9,
+            "speed": 8.5,
+            "network": 8,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.6,
+            "speed": 8.8,
+            "network": 9,
+            "usability": 9,
+            "price": 8
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "privacy": 8.3,
+            "speed": 9,
+            "network": 9.5,
+            "usability": 9,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.7,
+            "speed": 8.2,
+            "network": 7.5,
+            "usability": 8,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.4,
+          "scores": {
+            "privacy": 8,
+            "speed": 9.2,
+            "network": 9,
+            "usability": 9.3,
+            "price": 7
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.8,
+            "speed": 8.8,
+            "network": 9,
+            "usability": 9,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 8,
+            "network": 8,
+            "usability": 8.5,
+            "price": 9
+          }
+        },
+        {
+          "id": "airvpn",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "privacy": 9.3,
+            "speed": 7.8,
+            "network": 7.5,
+            "usability": 7,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "pia",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 8,
+            "network": 9.5,
+            "usability": 8,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "cyberghost",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "privacy": 7,
+            "speed": 8,
+            "network": 9.2,
+            "usability": 9,
+            "price": 8.5
+          }
+        }
       ],
       "references": [
-        { "title": "Lawmakers Warn VPN Use May Let NSA Spy on You", "url": "https://www.nextgov.com/cybersecurity/2026/03/lawmakers-question-vpn-impact-americans-fisa-surveillance-protections/412437/", "source": "Nextgov/FCW" },
-        { "title": "Threat Actor Targeting VPN Users in New Credential Theft Campaign", "url": "https://www.securityweek.com/threat-actor-targeting-vpn-users-in-new-credential-theft-campaign/", "source": "SecurityWeek" },
-        { "title": "Legislation, loopholes, and loose ends — what does 2026 hold for the VPN industry?", "url": "https://www.techradar.com/vpn/vpn-services/legislation-loopholes-and-loose-ends-what-does-2026-hold-for-the-vpn-industry", "source": "TechRadar" }
-      ]
+        {
+          "title": "Lawmakers Warn VPN Use May Let NSA Spy on You",
+          "url": "https://www.nextgov.com/cybersecurity/2026/03/lawmakers-question-vpn-impact-americans-fisa-surveillance-protections/412437/",
+          "source": "Nextgov/FCW"
+        },
+        {
+          "title": "Threat Actor Targeting VPN Users in New Credential Theft Campaign",
+          "url": "https://www.securityweek.com/threat-actor-targeting-vpn-users-in-new-credential-theft-campaign/",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Legislation, loopholes, and loose ends — what does 2026 hold for the VPN industry?",
+          "url": "https://www.techradar.com/vpn/vpn-services/legislation-loopholes-and-loose-ends-what-does-2026-hold-for-the-vpn-industry",
+          "source": "TechRadar"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "",
+          "highlights": []
+        },
+        "zh-tw": {
+          "commentary": "2026 年 3 月 31 日，美國國會 FISA 702 條款辯論在最後一天達到新高峰：民主黨議員正式警告，透過海外伺服器路由的 VPN 使用可能改變情報機構對用戶所在地的法律判斷，進而削弱憲法第四修正案的監控保護。此一進展直接強化了 Mullvad 無帳戶匿名模式的市場價值——Mullvad 的隱私評分從 9.8 上調至 9.9，整體分數升至 9.2，是本榜本季最高分。其現金或加密貨幣匿名付款加上無任何帳戶資訊的設計，是目前市場上對 FISA 式監控最具抵抗力的架構。\n\n同日，資安研究機構揭露威脅行為者 Storm-2561 正透過 SEO 投毒散布假冒 Pulse Secure 的惡意 VPN 客戶端，竊取用戶 VPN 憑證並轉發至攻擊者控制的伺服器。此事件再次凸顯只從官方管道下載 VPN 客戶端的重要性，也間接提升了開源客戶端（Mullvad、ProtonVPN、IVPN）的相對可信度。\n\nNordVPN 以 520 Mbps 平均速度領銜速度測評，並已在所有平台的 NordLynx 協議中完整導入後量子加密，成為目前主流 VPN 中抗量子防護最完整的選項之一。ProtonVPN 則宣布 2-年方案限時 7 折優惠（最低 $2.99/月），吸引大量新用戶入場，隱私品牌形象持續強化。ExpressVPN 在 2 月推出含 ExpressAI、電子郵件保護和身份防護的全新產品組合，朝全方位隱私套件方向擴張。",
+          "highlights": [
+            "FISA 702 議員警告：VPN 海外路由可能影響憲法監控保護——Mullvad 無帳號架構隱私評分升至 9.9",
+            "Storm-2561 假冒 Pulse Secure 發動憑證竊取攻擊，開源 VPN 客戶端可信度相對提升",
+            "NordVPN NordLynx 後量子加密全平台就緒，主流 VPN 抗量子防護最完整",
+            "ProtonVPN 2-年方案限時 7 折（最低 $2.99/月），隱私品牌持續強化用戶基礎",
+            "Mullvad 整體評分升至 9.2，領先 Q1 2026 全榜最高分"
+          ]
+        }
+      }
     }
   ]
 }
