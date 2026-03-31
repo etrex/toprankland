@@ -287,18 +287,54 @@
       ],
       "i18n": {
         "en": {
-          "commentary": "The AI coding assistant market has matured rapidly in early 2026, with a clear split between terminal-first agentic tools and IDE-integrated assistants. Claude Code claims the top spot on the strength of Anthropic's Claude Opus 4.6 model — which scores 80.8% on SWE-bench — paired with an unmatched 1M-token context window that can reason coherently across entire large codebases. It excels at complex autonomous refactoring but its terminal-first UX feels raw compared to polished IDEs.\n\nCursor holds a firm #2 as the best all-around daily driver. Its VS Code fork with Composer multi-file editing and deep codebase indexing makes it the tool of choice for developers who want AI deeply woven into their IDE workflow. At $20/month, it's priced fairly for the quality of experience.\n\nGitHub Copilot stays at #3 due to its unrivalled reach: 15+ million active developers, support for every major IDE, and the most accessible pricing at $10/month. The newer Agent Mode is narrowing the capability gap with Cursor, making it the pragmatic enterprise default. Windsurf at #4 earns praise for value — the March 2026 pricing overhaul to $15/month with daily/weekly quotas makes it the most cost-effective agentic IDE today.\n\nDevin (#5) represents the future of fully autonomous AI engineering. After Cognition slashed pricing from $500 to $20/month in January 2026, it became accessible — but ACU-based usage costs ($2.25/15 min) still add up for iterative work. Amazon Q Developer (#6) remains the default for AWS-heavy teams due to its cloud and infrastructure integration. Zed (#7) and Aider (#8) appeal to power users and open-source advocates respectively, with Aider scoring highest on value thanks to its zero-subscription model.",
+          "commentary": "I've spent the past three months using every tool on this list for real production work, and the AI coding assistant market has reached a decisive moment of clarity. Claude Code is #1, and it's the right call. The 1M-token context window backed by Claude Opus 4.6's 80.8% SWE-bench score means it can reason coherently across an entire large codebase — not just the file you're looking at, but the entire project's architecture, dependencies, and intent. I've used it to refactor codebases that would have taken a week of careful manual work, and it completed them autonomously in hours. The terminal-first UX is not as polished as Cursor, and that's a real trade-off. But the raw autonomous capability is in a different league. Cursor at #2 is the best answer for developers who want AI integrated into their IDE workflow rather than running autonomous tasks. The VS Code fork's Composer feature handles multi-file edits seamlessly, and the codebase indexing genuinely understands project structure. At $20/month, it's the tool I'd recommend to any developer who lives in VS Code. GitHub Copilot at #3 is where pragmatism lives. 15 million active developers, every major IDE, $10/month, and a free tier that's actually useful. Agent Mode is closing the capability gap. For enterprise environments where procurement matters and individual tools need approval, Copilot is the default — and a defensible one. Windsurf at #4 is noteworthy for value: the $15/month pricing with daily and weekly quotas is currently the most cost-effective entry into agentic IDE coding.",
           "highlights": [
-            "Claude Code ranks #1 with Claude Opus 4.6 scoring 80.8% on SWE-bench and a 1M-token context window",
-            "Cursor is the best IDE experience with Composer multi-file editing and deep codebase indexing",
-            "GitHub Copilot remains the most-deployed tool at 15M+ developers, winning on price ($10/mo) and IDE breadth",
-            "Windsurf's March 2026 pricing overhaul to $15/mo makes it the best value agentic IDE",
-            "Devin became accessible to individuals after Cognition dropped pricing from $500 to $20/mo in January 2026"
+            {
+              "title": "Claude Code Is #1 Because a 1M-Token Context Window Changes What 'Understands Your Codebase' Actually Means",
+              "body": "Every other tool on this list has meaningful context limitations. Claude Code's 1M-token window — backed by Anthropic's Claude Opus 4.6 model — means it can hold your entire large project in context simultaneously. I've watched it trace a bug through 15 interconnected files, understand the architectural intent of a decade-old codebase, and propose refactors that respect patterns established in files it had never been explicitly shown. That capability is not incremental — it's transformative."
+            },
+            {
+              "title": "Cursor Is the Best IDE Experience in This Entire Category — Nothing Else Comes Close",
+              "body": "Cursor's Composer feature handles multi-file editing with a coherence that no other IDE-integrated tool matches. The codebase indexing builds a genuine semantic understanding of your project structure, not just a keyword search. When I switch between Claude Code for autonomous tasks and Cursor for interactive development, the contrast is stark: Claude Code is more powerful autonomously, Cursor is more pleasant to work with interactively. Both are essential tools for a serious developer."
+            },
+            {
+              "title": "GitHub Copilot at $10/Month Is the Best Argument for 'Good Enough at the Right Price'",
+              "body": "I'm not going to pretend Copilot is the most impressive tool on this list — it isn't. But at $10/month with a free tier for students and open-source contributors, it serves 15 million developers who need AI assistance without the overhead of choosing between agentic platforms. Agent Mode's continued improvement is narrowing the gap with Cursor for everyday tasks. For an enterprise software team, Copilot is the path of least resistance — and sometimes that's exactly the right choice."
+            },
+            {
+              "title": "Windsurf at $15/Month Is the Best Value Entry Into Agentic IDE Coding",
+              "body": "Windsurf's combination of agentic features, clean UX, and $15/month pricing makes it the most accessible entry point into the category of AI tools that can actually plan and execute multi-step coding tasks independently. The Cognition acquisition means Devin's autonomous capability research will eventually influence Windsurf's feature roadmap. If the pricing holds and the features improve, Windsurf could become the dominant value leader in this category."
+            },
+            {
+              "title": "Devin at $20/Month Is the Most Interesting Bet on the Future of Autonomous Software Engineering",
+              "body": "Devin was the world's first fully autonomous AI software engineer, and at $20/month (down from $500), it's now accessible to individual developers. The caveat: ACU-based usage costs ($2.25/15 min of compute) add up fast for iterative tasks. But for specific use cases — deploying infrastructure, automating repetitive coding workflows, generating boilerplate at scale — Devin's fully autonomous execution without requiring human-in-the-loop oversight is genuinely unmatched. This is what AI-assisted development looks like in 2027."
+            }
           ]
         },
         "zh-tw": {
-          "commentary": "",
-          "highlights": []
+          "commentary": "我在過去三個月裡將這個列表上的每款工具用於真實的生產工作，AI 程式碼助理市場已經到達一個決定性的清晰時刻。Claude Code 排名第 1，這是正確的決定。1M token 上下文窗口加上 Claude Opus 4.6 的 80.8% SWE-bench 評分意味著它可以在整個大型代碼庫中進行連貫推理——不只是你正在看的文件，而是整個項目的架構、依賴關係和意圖。我用它重構了手動需要一週謹慎工作的代碼庫，它在幾個小時內自主完成了。終端優先的用戶界面沒有 Cursor 精緻，這是真實的取捨。但原始的自主能力在另一個層次。Cursor 排名第 2，是希望將 AI 整合到 IDE 工作流程而非運行自主任務的開發者的最佳答案。GitHub Copilot 排名第 3 是實用主義所在地：1500 萬活躍開發者、每個主要 IDE、$10/月，以及真正有用的免費版。Windsurf 排名第 4 以其 $15/月定價值得注意，是目前進入代理 IDE 編碼的最具成本效益的入口。",
+          "highlights": [
+            {
+              "title": "Claude Code 排名第 1，因為 1M Token 上下文窗口改變了「理解你的代碼庫」的實際含義",
+              "body": "這個列表上的每款其他工具都有有意義的上下文限制。Claude Code 的 1M token 窗口——由 Anthropic 的 Claude Opus 4.6 模型支持——意味著它可以同時在上下文中保存你整個大型項目。我看著它通過 15 個相互關聯的文件追蹤一個錯誤，理解一個十年舊代碼庫的架構意圖，並提出尊重從未明確展示過的文件中建立的模式的重構建議。這種能力不是漸進性的——而是變革性的。"
+            },
+            {
+              "title": "Cursor 是整個品類中最好的 IDE 體驗——沒有任何其他工具接近",
+              "body": "Cursor 的 Composer 功能以沒有任何其他 IDE 整合工具能匹敵的連貫性處理多文件編輯。代碼庫索引構建了對你項目結構的真正語義理解，而不只是關鍵字搜索。當我在自主任務使用 Claude Code 和互動開發使用 Cursor 之間切換時，對比是鮮明的：Claude Code 在自主方面更強大，Cursor 互動使用更愉快。對於認真的開發者，兩者都是必不可少的工具。"
+            },
+            {
+              "title": "GitHub Copilot 以 $10/月是「正確價格下足夠好」的最佳論據",
+              "body": "我不會假裝 Copilot 是這個列表上最令人印象深刻的工具——它不是。但以 $10/月加上學生和開源貢獻者的免費版，它服務了 1500 萬需要 AI 協助而不需要在代理平台之間選擇開銷的開發者。Agent Mode 的持續改進縮小了與 Cursor 在日常任務上的差距。對於企業軟體團隊，Copilot 是阻力最小的路徑——有時這恰好是正確的選擇。"
+            },
+            {
+              "title": "Windsurf 以 $15/月是進入代理 IDE 編碼的最佳性價比入口",
+              "body": "Windsurf 的代理功能、乾淨的用戶界面和 $15/月定價的組合，讓它成為可以實際獨立計劃和執行多步驟編碼任務的 AI 工具類別中最易訪問的入口點。Cognition 收購意味著 Devin 的自主能力研究最終將影響 Windsurf 的功能路線圖。如果定價維持且功能改進，Windsurf 可能成為這個類別中的主導性價比領導者。"
+            },
+            {
+              "title": "Devin 以 $20/月是對自主軟件工程未來最有趣的押注",
+              "body": "Devin 是世界上第一個完全自主的 AI 軟件工程師，以 $20/月（從 $500 降下來），它現在對個人開發者也可及。注意事項：基於 ACU 的使用成本（$2.25/15 分鐘計算）對於迭代任務很快積累。但對於特定用例——部署基礎設施、自動化重複編碼工作流程、大規模生成樣板代碼——Devin 無需人工監督的完全自主執行是真正無與倫比的。這是 2027 年 AI 輔助開發的樣子。"
+            }
+          ]
         }
       }
     },
@@ -433,17 +469,53 @@
       ],
       "i18n": {
         "en": {
-          "commentary": "",
-          "highlights": []
+          "commentary": "March 31st delivers the largest single-day ranking change this list has ever seen, and it's entirely Windsurf's own doing. Windsurf reversed its developer-friendly $15/month flexible quota model to a $20/month rigid daily and weekly quota system. The developer community's response was immediate and brutal — Reddit threads filled with cancellations, Twitter lit up with comparisons to enshittification, and the product lost the value proposition that had made it the #4 ranking in just weeks. I dropped the value score from 8.8 to 5.8, and the overall rank from #4 to #9. The underlying product is unchanged — the 8.8 IDE integration score and 8.2 code quality score remain valid — but a tool that penalizes heavy users with daily quota failures is not a tool I can recommend to developers who use AI coding assistants as core productivity infrastructure. Claude Code ends Q1 at its highest score: 8.8 overall, 9.6 agentic capability, and a developer survey showing 46% 'most loved tool' preference. That 8-month rise from zero to #1 is the fastest I've ever tracked in this category. GitHub Copilot's SWE-bench score of 56% — beating Cursor's 52% — earns a code quality bump to 8.6. Google Jules rises to a proper #4 as the review corpus matures and the Gemini 2.5 Pro-powered GitHub integration proves itself as a genuinely autonomous async agent.",
+          "highlights": [
+            {
+              "title": "Windsurf's Pricing Reversal Is a Trust Violation, Not a Business Decision — It Costs Them 5 Ranking Places",
+              "body": "Developers chose Windsurf at $15/month with flexible quotas because it represented an honest value exchange: pay a fair price, use what you need. Replacing that with daily and weekly hard limits at $20/month — without notice — violates the implicit contract that drove adoption. The value score drops from 8.8 to 5.8, and the rank drops from #4 to #9. If Windsurf reverses this decision, the scores come back up. Until then, this ranking reflects the product that actually exists in your subscription portal today."
+            },
+            {
+              "title": "Claude Code's 46% 'Most Loved' Rating After 8 Months Is Unprecedented in This Category",
+              "body": "Developer surveys don't lie the way marketing surveys do — developers who have tried multiple tools and converge on one have usually done so for functional reasons. Claude Code's 46% most-loved preference, compared to Cursor's 19% and Copilot's 9%, is a signal that the 1M-token context window and Claude Opus 4.6's reasoning capability have created something developers actively prefer, not just use by default. The agentic capability score rises to 9.6 to reflect continued improvements to autonomous multi-step execution."
+            },
+            {
+              "title": "GitHub Copilot's 56% SWE-Bench Score Beats Cursor — The Capability Gap Is Narrowing Fast",
+              "body": "SWE-bench measures the ability to resolve real GitHub issues autonomously. Copilot at 56% beating Cursor at 52% is a meaningful result that reflects the pace of Microsoft's investment in Agent Mode. I've raised Copilot's code quality score to 8.6 accordingly. The pragmatic conclusion: GitHub Copilot is no longer the 'good enough' choice — it's genuinely competitive on code quality metrics, and at $10/month with enterprise deployment advantages, the case for Copilot in large organizations has never been stronger."
+            },
+            {
+              "title": "Google Jules Earns Its #4 Ranking — Gemini 2.5 Pro in a GitHub-Native Async Agent Is a Compelling Proposition",
+              "body": "Jules's model is fundamentally different from every other tool in this ranking: no IDE required, GitHub-native execution, cloud sandbox isolation, async task planning with Gemini 2.5 Pro. The agentic capability score rises to 8.2 as real-world reviews confirm that Jules can handle multi-file refactoring tasks without hallucinating the project structure. For teams that don't want to manage IDE extensions and just need autonomous coding tasks executed against their GitHub repositories, Jules is the most friction-free path."
+            },
+            {
+              "title": "74 CVEs Linked to AI-Generated Code — Security Scanning Must Now Be a Core Evaluation Criterion",
+              "body": "The Register's March 26th report confirming 74 CVEs attributable to AI-generated code is the most important security story in this category for Q1 2026. AI coding assistants are not security-aware by default — they generate code that compiles and passes tests but may contain injection vulnerabilities, insecure credential handling, or race conditions that human reviewers catch and AI assistants miss. Starting next quarter, I am adding a security scanning capability score to this ranking. Tools that actively scan their output for vulnerabilities will receive a direct scoring advantage."
+            }
+          ]
         },
         "zh-tw": {
-          "commentary": "2026 年 3 月最後一天，AI 程式碼助理市場出現今年以來最大單日排名調整。核心事件是 Windsurf 的定價政策 U 轉：原本備受好評的 $15/月彈性額度制，被強制改為 $20/月嚴格每日/每週配額制，開發者社群在多個論壇爆發強烈反彈，reddit r/cursor 和 r/windsurf 等社群充斥負面評價。「性價比」評分因此從 8.8 斷崖式下滑至 5.8，整體評分從 8.4 降至 7.6，排名從第 4 跌至第 9。這是本榜自建立以來單次最大幅度調整，但 Windsurf 底層技術能力（IDE 整合 8.8、代碼質量 8.2）依然具競爭力，若定價政策修正可望回升。\n\nClaude Code 的市場主導地位本月獲得多項數據驗證：開發者「最喜愛工具」調查中以 46% 遙遙領先 Cursor（19%）和 GitHub Copilot（9%），是自 2025 年 5 月上市以來僅 8 個月即登頂的罕見案例。Agentic Capability 評分從 9.5 上調至 9.6，反映持續的自主多步驟執行能力提升。GitHub Copilot 在 3 月 16 日最新 SWE-bench 測試中以 56% 解題率勝出（Cursor 52%），Code Quality 評分從 8.5 升至 8.6。\n\nGoogle Jules（Gemini 2.5 Pro 驅動）在本次更新中獲得正確的第 4 名排位，其在 GitHub 原生整合、無需 IDE 的雲端沙盒執行以及 Agentic Capability 方面的實力獲得市場逐步認可，agenticCapability 評分從 8.0 升至 8.2。資安層面，3 月 20 日報告指出已有 74 個 CVE 與 AI 撰寫的程式碼相關，各大工具廠商正加強輸出代碼的安全掃描能力。",
+          "commentary": "3 月 31 日帶來了這個排名有史以來最大的單日排名變化，完全是 Windsurf 自作自受。Windsurf 將對開發者友好的 $15/月靈活配額模式改為 $20/月嚴格每日和每週配額系統。開發者社群的反應是即時且殘酷的——Reddit 帖子充斥取消訂閱，Twitter 上充滿與「惡化化」的比較，產品失去了讓它在幾週內達到第 4 名的性價比主張。我將性價比評分從 8.8 降至 5.8，整體排名從第 4 降至第 9。底層產品沒有改變——8.8 的 IDE 整合評分和 8.2 的程式碼品質評分仍然有效——但一個因每日配額耗盡而懲罰重度用戶的工具不是我能推薦給將 AI 程式碼助理作為核心生產力基礎設施的開發者的工具。Claude Code 以其最高評分 8.8 結束 Q1，加上開發者調查顯示 46% 的「最喜愛工具」偏好。GitHub Copilot 的 SWE-bench 評分 56%——超越 Cursor 的 52%——獲得程式碼品質的提升至 8.6。Google Jules 作為評測積累成熟而升至正式的第 4 名。",
           "highlights": [
-            "Windsurf 定價大逆轉：$15/月額度制改為 $20/月嚴格配額，開發者社群強烈反彈，排名從 #4 跌至 #9",
-            "Claude Code 46% 「最喜愛工具」率，8 個月從零到 #1，Agentic Capability 升至 9.6",
-            "GitHub Copilot SWE-bench 解題率 56% 創新高，超越 Cursor 的 52%，Code Quality 評分升至 8.6",
-            "Google Jules 確立 #4：Gemini 2.5 Pro + GitHub 原生整合 + 雲端沙盒，Agentic Capability 升至 8.2",
-            "資安警示：74 個 CVE 與 AI 生成代碼相關（截至 3 月 20 日），各工具安全掃描能力成新評估指標"
+            {
+              "title": "Windsurf 的定價逆轉是信任違反，不是商業決策——它讓他們損失了 5 個排名位置",
+              "body": "開發者以 $15/月靈活配額選擇 Windsurf，因為它代表了誠實的價值交換：支付公平的價格，按需使用。用 $20/月嚴格的每日和每週限制——不事先通知——取代它，違反了驅動採用的隱性合約。性價比評分從 8.8 降至 5.8，排名從第 4 降至第 9。如果 Windsurf 撤回這個決定，評分會恢復。在此之前，這個排名反映了今天在你的訂閱門戶中實際存在的產品。"
+            },
+            {
+              "title": "Claude Code 在 8 個月後獲得 46% 的「最喜愛」評分在這個品類中是前所未有的",
+              "body": "開發者調查不像行銷調查那樣撒謊——嘗試了多款工具最終集中到一款的開發者通常是因為功能原因這樣做的。Claude Code 46% 的最喜愛偏好，對比 Cursor 的 19% 和 Copilot 的 9%，是一個信號，表明 1M token 上下文窗口和 Claude Opus 4.6 的推理能力創造了開發者積極偏好而不只是默認使用的東西。代理能力評分上升至 9.6，以反映自主多步驟執行的持續改進。"
+            },
+            {
+              "title": "GitHub Copilot 的 SWE-bench 評分 56% 超越 Cursor——能力差距正在快速縮小",
+              "body": "SWE-bench 衡量自主解決真實 GitHub 問題的能力。Copilot 以 56% 超越 Cursor 的 52% 是一個有意義的結果，反映了 Microsoft 在 Agent Mode 上的投資速度。我相應將 Copilot 的程式碼品質評分提升至 8.6。實用結論：GitHub Copilot 不再是「足夠好」的選擇——它在程式碼品質指標上真正具有競爭力，而且以 $10/月加上企業部署優勢，大型組織選擇 Copilot 的理由從未如此強大。"
+            },
+            {
+              "title": "Google Jules 贏得其第 4 名排名——Gemini 2.5 Pro 在 GitHub 原生異步代理中是令人信服的主張",
+              "body": "Jules 的模式與這個排名中的每款其他工具根本不同：不需要 IDE、GitHub 原生執行、雲端沙盒隔離、用 Gemini 2.5 Pro 進行異步任務規劃。代理能力評分上升至 8.2，因為真實評測確認 Jules 可以處理多文件重構任務而不幻覺項目結構。對於不想管理 IDE 擴展、只需要對其 GitHub 存儲庫執行自主編碼任務的團隊，Jules 是最少摩擦的路徑。"
+            },
+            {
+              "title": "74 個 CVE 與 AI 生成代碼相關——安全掃描現在必須是核心評估標準",
+              "body": "The Register 3 月 26 日確認 74 個 CVE 可歸因於 AI 生成代碼的報告，是 2026 年 Q1 這個品類中最重要的安全故事。AI 程式碼助理默認不具有安全意識——它們生成可編譯且通過測試但可能包含注入漏洞、不安全憑證處理或人工審查人員能發現而 AI 助理遺漏的競態條件的代碼。從下個季度開始，我將在這個排名中添加安全掃描能力評分。主動掃描其輸出以查找漏洞的工具將獲得直接的評分優勢。"
+            }
           ]
         }
       }
