@@ -56,8 +56,27 @@ export function useTranslations(lang: Lang) {
   };
 }
 
-/** Get i18n content with fallback: preferred lang → EN → zh-tw → '' */
+/** Check if an i18n value has meaningful content (non-empty string, non-empty array, non-empty object) */
+function hasContent(val: any): boolean {
+  if (!val) return false;
+  if (typeof val === 'string') return val.length > 0;
+  if (Array.isArray(val)) return val.length > 0;
+  if (typeof val === 'object') return Object.values(val).some(v => hasContent(v));
+  return Boolean(val);
+}
+
+/**
+ * Get i18n content with smart fallback.
+ * Falls back to other languages if the preferred lang value is empty/missing.
+ * preferred lang → EN → zh-tw
+ */
 export function getI18n(obj: Record<string, any> | undefined, lang: Lang): any {
   if (!obj) return undefined;
-  return obj[lang] ?? obj[defaultLang] ?? obj['zh-tw'];
+  const preferred = obj[lang];
+  if (hasContent(preferred)) return preferred;
+  const fallbacks: string[] = lang !== defaultLang ? [defaultLang, 'zh-tw'] : ['zh-tw'];
+  for (const fb of fallbacks) {
+    if (fb !== lang && hasContent(obj[fb])) return obj[fb];
+  }
+  return preferred; // return even if empty, better than undefined
 }
