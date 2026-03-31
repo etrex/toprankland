@@ -222,6 +222,144 @@
           "source": "PE Collective"
         }
       ]
+    },
+    {
+      "date": "2026-03-31",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 8.8,
+          "scores": {
+            "codeQuality": 9.5,
+            "contextWindow": 9.8,
+            "ideIntegration": 7.0,
+            "agenticCapability": 9.6,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 8.7,
+          "scores": {
+            "codeQuality": 8.8,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.6,
+            "contextWindow": 7.8,
+            "ideIntegration": 9.3,
+            "agenticCapability": 7.8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 4,
+          "score": 8.1,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.2,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 5,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 6.5
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 6,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.8,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 8,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.3,
+            "ideIntegration": 5.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.8,
+            "agenticCapability": 8.0,
+            "valueForMoney": 5.8
+          }
+        }
+      ],
+      "commentary": "2026 年 3 月最後一天，AI 程式碼助理市場出現今年以來最大單日排名調整。核心事件是 Windsurf 的定價政策 U 轉：原本備受好評的 $15/月彈性額度制，被強制改為 $20/月嚴格每日/每週配額制，開發者社群在多個論壇爆發強烈反彈，reddit r/cursor 和 r/windsurf 等社群充斥負面評價。「性價比」評分因此從 8.8 斷崖式下滑至 5.8，整體評分從 8.4 降至 7.6，排名從第 4 跌至第 9。這是本榜自建立以來單次最大幅度調整，但 Windsurf 底層技術能力（IDE 整合 8.8、代碼質量 8.2）依然具競爭力，若定價政策修正可望回升。\n\nClaude Code 的市場主導地位本月獲得多項數據驗證：開發者「最喜愛工具」調查中以 46% 遙遙領先 Cursor（19%）和 GitHub Copilot（9%），是自 2025 年 5 月上市以來僅 8 個月即登頂的罕見案例。Agentic Capability 評分從 9.5 上調至 9.6，反映持續的自主多步驟執行能力提升。GitHub Copilot 在 3 月 16 日最新 SWE-bench 測試中以 56% 解題率勝出（Cursor 52%），Code Quality 評分從 8.5 升至 8.6。\n\nGoogle Jules（Gemini 2.5 Pro 驅動）在本次更新中獲得正確的第 4 名排位，其在 GitHub 原生整合、無需 IDE 的雲端沙盒執行以及 Agentic Capability 方面的實力獲得市場逐步認可，agenticCapability 評分從 8.0 升至 8.2。資安層面，3 月 20 日報告指出已有 74 個 CVE 與 AI 撰寫的程式碼相關，各大工具廠商正加強輸出代碼的安全掃描能力。",
+      "highlights": [
+        "Windsurf 定價大逆轉：$15/月額度制改為 $20/月嚴格配額，開發者社群強烈反彈，排名從 #4 跌至 #9",
+        "Claude Code 46% 「最喜愛工具」率，8 個月從零到 #1，Agentic Capability 升至 9.6",
+        "GitHub Copilot SWE-bench 解題率 56% 創新高，超越 Cursor 的 52%，Code Quality 評分升至 8.6",
+        "Google Jules 確立 #4：Gemini 2.5 Pro + GitHub 原生整合 + 雲端沙盒，Agentic Capability 升至 8.2",
+        "資安警示：74 個 CVE 與 AI 生成代碼相關（截至 3 月 20 日），各工具安全掃描能力成新評估指標"
+      ],
+      "references": [
+        {
+          "title": "AI Coding Assistants in March 2026: What's New",
+          "url": "https://vibehackers.io/blog/best-ai-coding-assistants",
+          "source": "Vibehackers"
+        },
+        {
+          "title": "Claude Code vs Cursor vs GitHub Copilot: The 2026 AI Coding Tool Showdown",
+          "url": "https://dev.to/alexcloudstar/claude-code-vs-cursor-vs-github-copilot-the-2026-ai-coding-tool-showdown-53n4",
+          "source": "DEV Community"
+        },
+        {
+          "title": "Using AI to code does not mean your code is more secure",
+          "url": "https://www.theregister.com/2026/03/26/ai_coding_assistant_not_more_secure/",
+          "source": "The Register"
+        }
+      ]
     }
   ]
 }

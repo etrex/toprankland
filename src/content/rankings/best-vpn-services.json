@@ -78,6 +78,34 @@
         { "title": "Lawmakers question VPN impact on Americans' FISA surveillance protections", "url": "https://www.nextgov.com/cybersecurity/2026/03/lawmakers-question-vpn-impact-americans-fisa-surveillance-protections/412437/", "source": "Nextgov/FCW" },
         { "title": "Legislation, loopholes, and loose ends — what does 2026 hold for the VPN industry?", "url": "https://www.techradar.com/vpn/vpn-services/legislation-loopholes-and-loose-ends-what-does-2026-hold-for-the-vpn-industry", "source": "TechRadar" }
       ]
+    },
+    {
+      "date": "2026-03-31",
+      "rankings": [
+        { "id": "mullvad", "rank": 1, "score": 9.2, "scores": { "privacy": 9.9, "speed": 8.5, "network": 8.0, "usability": 8.5, "price": 9.5 } },
+        { "id": "protonvpn", "rank": 2, "score": 9.1, "scores": { "privacy": 9.6, "speed": 8.8, "network": 9.0, "usability": 9.0, "price": 8.0 } },
+        { "id": "nordvpn", "rank": 3, "score": 8.7, "scores": { "privacy": 8.3, "speed": 9.0, "network": 9.5, "usability": 9.0, "price": 8.5 } },
+        { "id": "ivpn", "rank": 4, "score": 8.6, "scores": { "privacy": 9.7, "speed": 8.2, "network": 7.5, "usability": 8.0, "price": 8.5 } },
+        { "id": "expressvpn", "rank": 5, "score": 8.4, "scores": { "privacy": 8.0, "speed": 9.2, "network": 9.0, "usability": 9.3, "price": 7.0 } },
+        { "id": "surfshark", "rank": 6, "score": 8.2, "scores": { "privacy": 7.8, "speed": 8.8, "network": 9.0, "usability": 9.0, "price": 9.5 } },
+        { "id": "windscribe", "rank": 7, "score": 8.0, "scores": { "privacy": 8.5, "speed": 8.0, "network": 8.0, "usability": 8.5, "price": 9.0 } },
+        { "id": "airvpn", "rank": 8, "score": 7.8, "scores": { "privacy": 9.3, "speed": 7.8, "network": 7.5, "usability": 7.0, "price": 8.5 } },
+        { "id": "pia", "rank": 9, "score": 7.6, "scores": { "privacy": 8.5, "speed": 8.0, "network": 9.5, "usability": 8.0, "price": 9.5 } },
+        { "id": "cyberghost", "rank": 10, "score": 7.2, "scores": { "privacy": 7.0, "speed": 8.0, "network": 9.2, "usability": 9.0, "price": 8.5 } }
+      ],
+      "commentary": "2026 年 3 月 31 日，美國國會 FISA 702 條款辯論在最後一天達到新高峰：民主黨議員正式警告，透過海外伺服器路由的 VPN 使用可能改變情報機構對用戶所在地的法律判斷，進而削弱憲法第四修正案的監控保護。此一進展直接強化了 Mullvad 無帳戶匿名模式的市場價值——Mullvad 的隱私評分從 9.8 上調至 9.9，整體分數升至 9.2，是本榜本季最高分。其現金或加密貨幣匿名付款加上無任何帳戶資訊的設計，是目前市場上對 FISA 式監控最具抵抗力的架構。\n\n同日，資安研究機構揭露威脅行為者 Storm-2561 正透過 SEO 投毒散布假冒 Pulse Secure 的惡意 VPN 客戶端，竊取用戶 VPN 憑證並轉發至攻擊者控制的伺服器。此事件再次凸顯只從官方管道下載 VPN 客戶端的重要性，也間接提升了開源客戶端（Mullvad、ProtonVPN、IVPN）的相對可信度。\n\nNordVPN 以 520 Mbps 平均速度領銜速度測評，並已在所有平台的 NordLynx 協議中完整導入後量子加密，成為目前主流 VPN 中抗量子防護最完整的選項之一。ProtonVPN 則宣布 2-年方案限時 7 折優惠（最低 $2.99/月），吸引大量新用戶入場，隱私品牌形象持續強化。ExpressVPN 在 2 月推出含 ExpressAI、電子郵件保護和身份防護的全新產品組合，朝全方位隱私套件方向擴張。",
+      "highlights": [
+        "FISA 702 議員警告：VPN 海外路由可能影響憲法監控保護——Mullvad 無帳號架構隱私評分升至 9.9",
+        "Storm-2561 假冒 Pulse Secure 發動憑證竊取攻擊，開源 VPN 客戶端可信度相對提升",
+        "NordVPN NordLynx 後量子加密全平台就緒，主流 VPN 抗量子防護最完整",
+        "ProtonVPN 2-年方案限時 7 折（最低 $2.99/月），隱私品牌持續強化用戶基礎",
+        "Mullvad 整體評分升至 9.2，領先 Q1 2026 全榜最高分"
+      ],
+      "references": [
+        { "title": "Lawmakers Warn VPN Use May Let NSA Spy on You", "url": "https://www.nextgov.com/cybersecurity/2026/03/lawmakers-question-vpn-impact-americans-fisa-surveillance-protections/412437/", "source": "Nextgov/FCW" },
+        { "title": "Threat Actor Targeting VPN Users in New Credential Theft Campaign", "url": "https://www.securityweek.com/threat-actor-targeting-vpn-users-in-new-credential-theft-campaign/", "source": "SecurityWeek" },
+        { "title": "Legislation, loopholes, and loose ends — what does 2026 hold for the VPN industry?", "url": "https://www.techradar.com/vpn/vpn-services/legislation-loopholes-and-loose-ends-what-does-2026-hold-for-the-vpn-industry", "source": "TechRadar" }
+      ]
     }
   ]
 }
