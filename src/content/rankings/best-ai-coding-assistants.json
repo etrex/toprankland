@@ -519,6 +519,176 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-04-01",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 8.8,
+          "scores": {
+            "codeQuality": 9.5,
+            "contextWindow": 9.8,
+            "ideIntegration": 7,
+            "agenticCapability": 9.6,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 8.7,
+          "scores": {
+            "codeQuality": 8.8,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.6,
+            "contextWindow": 7.8,
+            "ideIntegration": 9.3,
+            "agenticCapability": 7.8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 4,
+          "score": 8.1,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.2,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 5,
+          "score": 8,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 6.5
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 6,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.8,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 8,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.3,
+            "ideIntegration": 5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8,
+            "ideIntegration": 8.8,
+            "agenticCapability": 8,
+            "valueForMoney": 5.8
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Coding Agents 2026: Cursor vs Windsurf vs Claude vs Copilot — Lushbinary",
+          "url": "https://www.lushbinary.com/blog/ai-coding-agents-comparison-cursor-windsurf-claude-copilot-kiro-2026/",
+          "source": "Lushbinary"
+        },
+        {
+          "title": "GitHub Copilot vs Claude Code vs Cursor vs Windsurf — Kanerika",
+          "url": "https://kanerika.com/blogs/github-copilot-vs-claude-code-vs-cursor-vs-windsurf/",
+          "source": "Kanerika"
+        },
+        {
+          "title": "Claude Code achieves 80.8% SWE-bench score — Anthropic",
+          "url": "https://www.anthropic.com/news/claude-code",
+          "source": "Anthropic"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The AI coding assistant market has stratified into two tiers in early 2026, and I'll name them directly. Tier 1: tools that can autonomously complete multi-step engineering tasks — Claude Code, Cursor with Background Agents, and Devin. Tier 2: tools that make individual tasks faster but require constant human direction — GitHub Copilot, Amazon Q, Aider. The gap between these tiers is growing, not shrinking.\n\nClaude Code holds #1 with an 80.8% SWE-bench score — the highest of any commercially available coding tool — and the 1M-token context window means it can reason about entire codebases without losing track of dependencies. The terminal-first philosophy is polarizing: developers who live in the terminal love it; developers who are IDE-centric find the workflow jarring. But on raw task completion for complex multi-file refactors, Claude Code has no peer.\n\nCursor is the correct recommendation for developers who spend most of their time in an IDE and want AI deeply embedded in that workflow. Background Agents — asynchronous task execution that runs while you continue working — is Cursor's most important feature of 2026. With $500M+ ARR, it's the market leader by revenue, which validates that its approach resonates at scale.\n\nGitHub Copilot at #3 is the correct pick for teams who want broad compatibility, free tier access for students, and deep VS Code integration without committing to a single AI model provider. Agent Mode has made it genuinely autonomous in ways it wasn't a year ago. At $10/month, it remains the best value in the category.",
+          "highlights": [
+            {
+              "title": "Claude Code Is #1 Because SWE-bench 80.8% Is Not a Marketing Number — It's the Hardest Benchmark in Software Engineering",
+              "body": "SWE-bench tests AI systems against real GitHub issues requiring autonomous codebase navigation, bug identification, and fix implementation across repositories they've never seen before. An 80.8% pass rate means Claude Code correctly resolves 80.8% of real-world engineering tasks without human intervention. No other commercial tool comes close. This is why Claude Code handles the most demanding engineering work — legacy migration, cross-service refactoring, test coverage expansion — better than any alternative. The benchmark exists specifically to filter out tools that are good at toy problems but fail on real codebases."
+            },
+            {
+              "title": "Cursor Is the Revenue Leader for a Reason: It Made AI-Native Development the Default Workflow",
+              "body": "Cursor's insight was that AI shouldn't be a plugin in an existing IDE — it should be the foundation the IDE is built on. By forking VS Code and rebuilding the editor around AI capabilities, they created a product where AI assistance feels native rather than bolted on. Composer for multi-file context, codebase indexing for semantic search, Background Agents for async execution — these are not features you can replicate with a Copilot plugin. At $500M+ ARR with over 1 million active users, the market has validated this architectural decision."
+            },
+            {
+              "title": "GitHub Copilot Agent Mode Changed Everything — It's No Longer Just an Autocomplete Tool",
+              "body": "GitHub Copilot's Agent Mode is the most underrated development in the AI coding space in 2026. It transforms Copilot from a sophisticated autocomplete into a system that can read error messages, run tests, identify failures, and iterate to fix them — all within the VS Code environment. For teams already using GitHub for CI/CD and code review, the integration depth is unmatched. The fact that it now powers Claude Opus 4.6 under the hood (via GitHub's model selection) means the quality gap between Copilot and premium tools has narrowed significantly."
+            },
+            {
+              "title": "Windsurf's Acquisition by Cognition Is the Most Interesting Strategic Move in AI Coding — The Outcome Is Uncertain",
+              "body": "Windsurf (Codeium) was acquired by Cognition AI (makers of Devin) in December 2025, combining one of the top agentic IDEs with the world's first fully autonomous software engineer under one parent. This creates a potential product stack where Windsurf handles daily coding assistance and Devin handles fully autonomous long-horizon tasks. The integration has not yet materialized in product form, which is why both tools rank separately and Windsurf ranks lower than its ambition suggests. Watch this space in Q2 2026."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "2026 年初，AI 程式輔助工具市場已分層為兩個層級，我直接點名。第一層：能夠自主完成多步驟工程任務的工具——Claude Code、帶有 Background Agents 的 Cursor，以及 Devin。第二層：讓個別任務更快但需要持續人類指引的工具——GitHub Copilot、Amazon Q、Aider。這兩層之間的差距在擴大，不在縮小。\n\nClaude Code 以 SWE-bench 80.8% 的分數排第一——是所有商業可用程式工具中最高的——100 萬 token 的上下文窗口意味著它能夠在不失去依賴關係追蹤的情況下推理整個代碼庫。終端機優先的哲學是兩極化的：生活在終端機中的開發者喜愛它；以 IDE 為中心的開發者覺得工作流程不適應。但在複雜多文件重構的原始任務完成上，Claude Code 沒有對手。\n\nCursor 是花大部分時間在 IDE 中、希望 AI 深度嵌入該工作流程的開發者的正確推薦。Background Agents——你繼續工作時在背景執行的異步任務——是 Cursor 2026 年最重要的功能。以超過 5 億美元的年經常性收入，它是收入方面的市場領導者，這驗證了其方法在規模上產生共鳴。\n\nGitHub Copilot 排第三，是想要廣泛相容性、學生免費方案、深度 VS Code 整合而不承諾單一 AI 模型提供商的團隊的正確選擇。Agent Mode 讓它在一年前無法實現的方面真正自主。每月 $10，仍然是該類別中最佳性價比。",
+          "highlights": [
+            {
+              "title": "Claude Code 排第一因為 SWE-bench 80.8% 不是行銷數字——它是軟體工程中最難的基準測試",
+              "body": "SWE-bench 針對真實 GitHub Issues 測試 AI 系統，要求自主導航代碼庫、識別錯誤並在之前從未見過的存儲庫中實現修復。80.8% 的通過率意味著 Claude Code 在無人工干預的情況下正確解決了 80.8% 的真實工程任務。沒有其他商業工具接近這個數字。這就是為什麼 Claude Code 在最苛刻的工程工作——遺留遷移、跨服務重構、測試覆蓋擴展——上優於任何替代方案。"
+            },
+            {
+              "title": "Cursor 是收入領導者是有原因的：它讓 AI 原生開發成為默認工作流程",
+              "body": "Cursor 的洞見是 AI 不應該是現有 IDE 的插件——它應該是 IDE 構建的基礎。通過 fork VS Code 並圍繞 AI 能力重建編輯器，他們創造了一個 AI 輔助感覺原生而非附加的產品。用於多文件上下文的 Composer、用於語義搜索的代碼庫索引、用於異步執行的 Background Agents——這些都是你無法用 Copilot 插件複製的功能。以超過 5 億美元的年經常性收入和超過 100 萬活躍用戶，市場驗證了這個架構決策。"
+            },
+            {
+              "title": "Windsurf 被 Cognition 收購是 AI 程式領域最有趣的戰略布局——結果尚不明朗",
+              "body": "Windsurf（Codeium）於 2025 年 12 月被 Devin 的製造商 Cognition AI 收購，將頂級代理 IDE 之一與全球首個完全自主的軟體工程師整合在一個母公司下。這創造了 Windsurf 處理日常程式輔助而 Devin 處理完全自主長視野任務的潛在產品堆棧。這個整合尚未以產品形式呈現，這就是為什麼兩個工具分別排名，而 Windsurf 的排名低於其雄心所暗示的位置。密切關注 2026 年第二季的動向。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

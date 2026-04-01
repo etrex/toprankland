@@ -752,6 +752,188 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-04-01",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.9,
+            "speed": 8.5,
+            "network": 8,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.6,
+            "speed": 8.8,
+            "network": 9,
+            "usability": 9,
+            "price": 8
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "privacy": 8.3,
+            "speed": 9,
+            "network": 9.5,
+            "usability": 9,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.7,
+            "speed": 8.2,
+            "network": 7.5,
+            "usability": 8,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.4,
+          "scores": {
+            "privacy": 8,
+            "speed": 9.2,
+            "network": 9,
+            "usability": 9.3,
+            "price": 7
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.8,
+            "speed": 8.8,
+            "network": 9,
+            "usability": 9,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 8,
+            "network": 8,
+            "usability": 8.5,
+            "price": 9
+          }
+        },
+        {
+          "id": "airvpn",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "privacy": 9.3,
+            "speed": 7.8,
+            "network": 7.5,
+            "usability": 7,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "pia",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 8,
+            "network": 9.5,
+            "usability": 8,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "cyberghost",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "privacy": 7,
+            "speed": 8,
+            "network": 9.2,
+            "usability": 9,
+            "price": 8.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best VPN Services for 2026 — Salon",
+          "url": "https://www.salon.com/2026/03/30/best-vpn-services-for-2026/",
+          "source": "Salon"
+        },
+        {
+          "title": "Mullvad vs ProtonVPN 2026 — Cyber Insider",
+          "url": "https://cyberinsider.com/vpn/comparison/mullvad-vs-proton-vpn/",
+          "source": "Cyber Insider"
+        },
+        {
+          "title": "NordVPN January 2026 incident: what happened and what it means",
+          "url": "https://nordvpn.com/blog/security/",
+          "source": "NordVPN Blog"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "I'll be direct: most VPN marketing is noise, and most VPN review sites are compromised by affiliate revenue. My ranking is based on one overriding principle — who do I trust with my traffic metadata when I genuinely need privacy? The answer is Mullvad, and it's not close.\n\nMullvad's anonymous account model is unique among major VPNs. You don't create an account with an email — you receive a random account number and pay with cash or Monero if you want zero metadata. When Swedish police raided Mullvad's offices in 2023, they left empty-handed because there was nothing to hand over. That's not marketing — that's a demonstrated privacy architecture under adversarial conditions.\n\nProtonVPN holds #2 because it's the correct pick for users who want Mullvad's privacy philosophy with better usability and a working free tier. Four consecutive SOC 2 Type II no-logs audits, Swiss jurisdiction, and Secure Core routing (your traffic hops through Switzerland before exiting) make it the gold standard for verifiable privacy claims.\n\nNordVPN had a minor incident in January 2026 — forum claims of third-party development environment exposure, with NordVPN confirming no user data was compromised. No user data was at risk, but it's a reminder that NordVPN's privacy architecture depends on trusting their internal processes rather than demonstrating zero-knowledge principles. It holds #3 because its network size (6,400+ servers) and speed remain best-in-class, but I'd rather have Mullvad's architecture than NordVPN's server count.",
+          "highlights": [
+            {
+              "title": "Mullvad Is the Only VPN Whose Privacy Architecture Has Been Stress-Tested by Law Enforcement — and Passed",
+              "body": "The 2023 Swedish police raid on Mullvad is the most important data point in VPN privacy history. Police arrived with a court order and Mullvad's engineers walked them through the system: no user accounts, no logs, no connection records. The officers left with nothing. This is the correct standard for evaluating VPN privacy. ProtonVPN has audits. NordVPN has audits. Mullvad has a real-world adversarial test against motivated law enforcement with subpoena power. Until another VPN achieves that test, Mullvad stays at #1."
+            },
+            {
+              "title": "ProtonVPN Free Tier Is the Correct Answer to 'I Want a VPN But I Won't Pay For One'",
+              "body": "ProtonVPN's free tier is the only genuinely useful free VPN: no bandwidth limit, no ads, no data selling, servers in three countries, and full WireGuard support. Every other 'free' VPN is either a data harvesting operation (Opera VPN, Hola) or so throttled it's unusable (most others). The free tier's limitations — no P2P, no Tor, slower speeds — are reasonable constraints, not dark patterns. If you want a VPN and you're not sure you'll use it enough to pay, ProtonVPN Free is the responsible starting point."
+            },
+            {
+              "title": "NordVPN's January 2026 Incident Didn't Expose Users — But It Exposed a Structural Weakness in Privacy Architecture",
+              "body": "NordVPN's January incident — unverified claims of third-party dev environment exposure, quickly contained — is not a reason to abandon NordVPN. No user data was at risk. But it illustrates the difference between 'we say we don't log' (NordVPN) and 'we structurally cannot log' (Mullvad). When your privacy guarantee depends on internal process discipline rather than cryptographic impossibility, incidents like this create legitimate uncertainty regardless of their actual impact. NordVPN remains the best choice for users who prioritize speed and server network over maximum privacy guarantee."
+            },
+            {
+              "title": "Surfshark Is the Only VPN With Unlimited Simultaneous Connections — and It Matters for Families",
+              "body": "If you're paying for a family VPN, Surfshark's unlimited device policy is the decisive argument. Every other VPN in this ranking caps you at 5–10 devices. Surfshark covers your entire household — routers, smart TVs, phones, tablets — on one subscription at $2.49/month on a two-year plan. For shared households, this pricing model makes Surfshark the cheapest per-device option by a significant margin, even though its per-seat privacy guarantees are weaker than Mullvad or ProtonVPN."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "我直說：大多數 VPN 行銷都是噪音，大多數 VPN 評測網站都被聯盟行銷收入所左右。我的排名基於一個核心原則——當我真正需要隱私時，我信任誰來處理我的流量元資料？答案是 Mullvad，而且毫無懸念。\n\nMullvad 的匿名帳戶模式在主要 VPN 中獨一無二。你不需要用電子郵件建立帳戶——你會收到一個隨機帳號，如果你想要零元資料，可以用現金或 Monero 支付。2023 年瑞典警察突擊 Mullvad 辦公室時空手而歸，因為根本沒有東西可以交出去。這不是行銷——這是在對抗性條件下經過實戰驗證的隱私架構。\n\nProtonVPN 排第二，因為它是想要 Mullvad 隱私哲學、同時又要更好易用性和免費方案的用戶的正確選擇。四次連續 SOC 2 Type II 無日誌審計、瑞士司法管轄，以及 Secure Core 路由（你的流量在離開之前先經過瑞士）使其成為可驗證隱私聲明的黃金標準。\n\nNordVPN 在 2026 年一月有個小事件——有論壇聲稱第三方開發環境遭到存取，NordVPN 確認沒有用戶資料外洩。沒有用戶資料受到風險，但這提醒我們 NordVPN 的隱私架構依賴信任其內部流程，而非展示零知識原則。它仍排第三，因為其網路規模（6,400+ 伺服器）和速度仍然是業界最佳，但我寧願要 Mullvad 的架構而非 NordVPN 的伺服器數量。",
+          "highlights": [
+            {
+              "title": "Mullvad 是唯一一個隱私架構經過執法機構壓力測試並通過的 VPN",
+              "body": "2023 年瑞典警察突擊 Mullvad 是 VPN 隱私史上最重要的數據點。警察帶著法院命令到來，Mullvad 的工程師帶他們走過整個系統：沒有用戶帳戶、沒有日誌、沒有連線記錄。警員空手而歸。這是評估 VPN 隱私的正確標準。ProtonVPN 有審計。NordVPN 有審計。Mullvad 有一個針對有傳票權力的執法機構的真實對抗測試。在其他 VPN 達到這個測試之前，Mullvad 繼續排第一。"
+            },
+            {
+              "title": "ProtonVPN 免費方案是「想要 VPN 但不想付費」這個問題的正確答案",
+              "body": "ProtonVPN 的免費方案是唯一真正有用的免費 VPN：無流量限制、無廣告、不賣資料、三個國家的伺服器、完整 WireGuard 支援。所有其他「免費」VPN 不是資料收割操作（Opera VPN、Hola）就是被限速到無法使用（大多數其他選項）。免費方案的限制——無 P2P、無 Tor、較慢速度——是合理的約束，不是暗黑模式。如果你想要 VPN 但不確定是否會用到值得付費，ProtonVPN 免費方案是負責任的起點。"
+            },
+            {
+              "title": "NordVPN 一月事件沒有暴露用戶——但暴露了隱私架構的結構性弱點",
+              "body": "NordVPN 的一月事件——未經證實的第三方開發環境存取聲稱，已迅速遏制——不是棄用 NordVPN 的理由。沒有用戶資料受到風險。但它說明了「我們說我們不記日誌」（NordVPN）和「我們在結構上無法記日誌」（Mullvad）之間的差異。當你的隱私保證依賴內部流程紀律而非加密上的不可能性時，這類事件無論實際影響如何都會產生合理的不確定性。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
