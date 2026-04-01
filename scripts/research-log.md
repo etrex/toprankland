@@ -240,3 +240,76 @@
 - **智慧家庭安全訂閱反彈**：Ring/Nest 漲價引發消費者轉向 Eufy/REOLINK 等無訂閱方案，比較搜尋量明顯攀升。
 - **人體工學椅平價化**：Branch、Sihoo 等中端品牌侵蝕 Herman Miller 市場，"best ergonomic chair under $500" 長尾關鍵字熱度顯著。
 - **雲端儲存重新洗牌**：Proton Drive 與 pCloud 受隱私意識驅動快速成長，消費者開始主動搜尋 Google Drive 替代方案。
+
+---
+
+## 2026-04-01 研究報告
+
+### 現有排行榜（截至今日，排除重複）
+- best-wireless-earbuds
+- best-vpn-services
+- best-smart-watches
+- best-mechanical-keyboards
+- best-ai-coding-assistants
+- best-gaming-mice
+- best-noise-cancelling-headphones
+
+### 已建議過主題（歷史紀錄，亦排除）
+- best-robot-vacuums, best-bluetooth-speakers, best-password-managers
+- best-standing-desks, best-wireless-chargers
+- best-ai-productivity-tools, best-project-management-software
+- best-ai-writing-tools, best-vibe-coding-platforms
+- best-gaming-monitors, best-home-security-cameras, best-ergonomic-chairs, best-cloud-storage
+
+---
+
+### 推薦新排行榜主題
+
+1. **Best Mirrorless Cameras 2026**
+   - 建議 slug: `best-mirrorless-cameras`
+   - EN title: Best Mirrorless Cameras of 2026, Ranked
+   - ZH-TW title: 2026 最佳無反光鏡相機排行榜
+   - 目標關鍵字: best mirrorless camera 2026, sony a7 iv vs nikon z6 iii vs canon r5, best camera for photography 2026, best full frame mirrorless
+   - 選題理由: DPReview、Photography Life、Amateur Photographer 等高 DA 攝影媒體均有活躍 2026 評測；Sony A1 II、Canon EOS R5 Mark II、Nikon Z9 等旗艦機皆在 2025–2026 更新，市場正值換機潮。高單價商品（$800–$6000）代表高購買意圖；台灣攝影社群活躍，ZH-TW 受眾需求明確。
+   - 候選競品（10個）: Sony A7 IV, Nikon Z6 III, Canon EOS R5 Mark II, Fujifilm X-T5, Sony A1 II, Nikon Z5 II, Canon EOS R6 Mark II, Fujifilm X100VI, Nikon Z8, OM System OM-5
+
+2. **Best Running Shoes 2026**
+   - 建議 slug: `best-running-shoes`
+   - EN title: Best Running Shoes of 2026: Expert-Tested & Ranked
+   - ZH-TW title: 2026 最佳跑鞋排行榜：專家實測推薦
+   - 目標關鍵字: best running shoes 2026, best daily trainer 2026, nike vs asics vs brooks vs hoka, best marathon shoes 2026
+   - 選題理由: 跑步是最大眾化的運動之一，Fleet Feet、Marathon Handbook、Believe in the Run 等專業媒體均有高流量排名頁面；2026 年 adidas Adizero Adios Pro 4、Nike Alphafly 3 等碳板鞋帶動新一波比較搜尋。跑鞋品類消費者購買前高度研究，且台灣路跑文化蓬勃，ZH-TW 受眾需求大。
+   - 候選競品（10個）: Nike Alphafly 3, adidas Adizero Adios Pro 4, ASICS GEL-Nimbus 27, Brooks Glycerin 22, HOKA Clifton 10, On Cloudmonster 2, New Balance Fresh Foam 1080 v14, Saucony Endorphin Speed 4, Nike Pegasus 42, Salomon S/Lab Pulsar 3
+
+3. **Best Air Purifiers 2026**
+   - 建議 slug: `best-air-purifiers`
+   - EN title: Best Air Purifiers of 2026: Tested by Experts
+   - ZH-TW title: 2026 最佳空氣清淨機排行榜：專家實測
+   - 目標關鍵字: best air purifier 2026, best HEPA air purifier, coway vs blueair vs levoit vs dyson, best air purifier for allergies 2026
+   - 選題理由: Consumer Reports 與 RTINGS.com 均有獨立測試結果，代表高搜尋量與高消費者信任需求；台灣空污問題（PM2.5、沙塵暴季節）使 ZH-TW 受眾需求極高，是少數雙語搜尋量均衡的品類。多個比較維度（CADR、濾網成本、噪音、適用坪數）有利製作豐富的排行內容。
+   - 候選競品（10個）: Coway Airmega ProX, Blueair HealthProtect 7770i, Levoit Core 400S, Dyson Purifier Cool Gen1, Winix 5500-2, NuWave OxyPure, Rabbit Air MinusA3, Molekule Air Pro, Bissell Air320, IQAir HealthPro Plus
+
+4. **Best Video Editing Software 2026**
+   - 建議 slug: `best-video-editing-software`
+   - EN title: Best Video Editing Software of 2026 (Free & Paid)
+   - ZH-TW title: 2026 最佳影片剪輯軟體排行榜（免費與付費）
+   - 目標關鍵字: best video editing software 2026, davinci resolve vs premiere pro vs final cut pro, best free video editor 2026, best AI video editor
+   - 選題理由: 創作者經濟持續爆發，YouTuber、短影音創作者高速成長；AI 影片剪輯（CapCut AI、Adobe AI、Runway）帶動全新一波搜尋熱潮。manus.im、Vagon、DIYVideoEditor 等頁面確認搜尋量龐大。台灣 YouTuber 與短影音市場活躍，ZH-TW 受眾明確。免費 vs 付費的清晰分野讓排行內容具高實用性。
+   - 候選競品（10個）: DaVinci Resolve, Adobe Premiere Pro, Final Cut Pro, CapCut, Filmora, iMovie, HitFilm Express, Sony Vegas Pro, Kdenlive, Adobe Premiere Rush
+
+5. **Best Online Learning Platforms 2026**
+   - 建議 slug: `best-online-learning-platforms`
+   - EN title: Best Online Learning Platforms of 2026: Coursera vs Udemy vs More
+   - ZH-TW title: 2026 最佳線上學習平台排行榜
+   - 目標關鍵字: best online learning platform 2026, coursera vs udemy vs linkedin learning, best online courses for career growth, best platform to learn coding online
+   - 選題理由: 終身學習需求在 AI 衝擊職場的背景下急速攀升；Skill Springer、Upskillwise、Reviewed.com 等媒體均有高流量 2026 比較頁面。各平台差異明顯（認證含金量、定價模式、課程廣度），有利排行製作。台灣上班族自我進修需求旺盛，ZH-TW 有效受眾充足。
+   - 候選競品（10個）: Coursera, Udemy, LinkedIn Learning, Skillshare, edX, Pluralsight, MasterClass, Brilliant, Codecademy, Khan Academy
+
+---
+
+### 市場動態摘要
+- **無反光鏡相機換機潮**：Sony A1 II、Canon EOS R5 Mark II、Nikon Z6 III 在 2025–2026 年陸續發布，帶動「best mirrorless camera 2026」搜尋量創近三年新高，DPReview 評測頁面流量顯著。
+- **碳板跑鞋全面化**：Nike Alphafly 3、adidas Adios Pro 4 將頂級碳板技術滲透至主流市場，消費者在選購時高度依賴比較排名，r/running 上的選鞋討論貼文週週登上熱門。
+- **空氣清淨機亞洲熱潮持續**：台灣、香港 PM2.5 季節性惡化推動年初購買潮，Coway（韓系品牌）在亞洲市場滲透率高，是少數 ZH-TW 受眾搜尋量高於 EN 的品類。
+- **AI 影片剪輯重塑市場格局**：CapCut 的免費 AI 功能蠶食 Adobe 市場份額，DaVinci Resolve 持續以免費旗艦搶攻專業創作者，「AI video editor 2026」搜尋量年增超過 120%。
+- **職場技能學習需求爆發**：AI 取代工作浪潮驅動大規模轉職與升技需求，Coursera Professional Certificates 與 Udemy AI 課程銷售額均創新高，學習平台比較型搜尋量持續攀升。
