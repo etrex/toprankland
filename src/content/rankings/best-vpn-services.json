@@ -314,19 +314,19 @@
       ],
       "i18n": {
         "en": {
-          "commentary": "I've tested every major VPN service in this ranking, and the single most important thing I can tell you about choosing a VPN is this: your threat model should determine your choice, not marketing materials or speed tests. Mullvad is #1 because it has the most radical privacy architecture in the industry: no accounts, no email, no personal information, cash-in-an-envelope payment accepted. If a government subpoenas Mullvad, there is literally nothing to hand over. That's a technical fact, it's a technical fact about their data model. ProtonVPN at #2 is the choice for people who want Mullvad-level privacy principles with a more conventional user experience and the additional protection of Swiss law. Their open-source apps mean anyone can verify what the software is actually doing, which is more than most VPNs can say. NordVPN at #4 is where I draw a sharp line: it's an excellent product, but its privacy score of 8.0 reflects the fact that it's headquartered in Panama and owned by a holding company that has faced data breach questions in its history. For privacy-critical use cases, Mullvad and ProtonVPN remain the correct choice over NordVPN for privacy-critical use cases. For streaming and general browsing, NordVPN is perfectly fine. The Kape Technologies conflict deserves more attention than it gets: they now own ExpressVPN, Private Internet Access, and CyberGhost. Three competing VPNs under one parent company with a murky acquisition history is something privacy-conscious users should factor into their decision.",
+          "commentary": "I've tested every major VPN service in this ranking, and the single most important thing I can tell you about choosing a VPN is this: your threat model should determine your choice, ahead of marketing materials or speed tests. Mullvad is #1 because it has the most radical privacy architecture in the industry: anonymous accounts, zero email required, zero personal information collected, cash-in-an-envelope payment accepted. If a government subpoenas Mullvad, the result is an empty record — a technical fact about their data model, a structural guarantee. ProtonVPN at #2 is the choice for people who want Mullvad-level privacy principles with a more conventional user experience and the additional protection of Swiss law. Their open-source apps mean anyone can verify what the software is actually doing, a level of transparency that most VPNs still need to achieve. NordVPN at #4 is where I draw a sharp line: it's an excellent product, but its privacy score of 8.0 reflects the fact that it's headquartered in Panama and owned by a holding company that has faced data breach questions in its history. For privacy-critical use cases, Mullvad and ProtonVPN remain the correct choice. For streaming and general browsing, NordVPN is perfectly fine. The Kape Technologies conflict deserves more attention than it gets: they now own ExpressVPN, Private Internet Access, and CyberGhost. Three competing VPNs under one parent company with a murky acquisition history is something privacy-conscious users should factor into their decision.",
           "highlights": [
             {
               "title": "Mullvad Is #1 Because 'No Account Exists' Is a Technically Superior Privacy Model",
-              "body": "Every other VPN in this ranking asks you for an email address or account credentials. Mullvad doesn't. You receive a random 16-digit account number. When your subscription ends, nothing remains, no account, no profile, no history. When law enforcement requests user data, Mullvad has nothing to give them. This isn't a privacy policy, it's a privacy architecture. The difference is fundamental."
+              "body": "Every other VPN in this ranking asks you for an email address or account credentials. Mullvad gives you a random 16-digit account number and that is all. When your subscription ends, the record is empty — zero account, zero profile, zero history. When law enforcement requests user data, Mullvad hands over an empty record. This is a privacy architecture, far beyond any policy. The difference is fundamental."
             },
             {
               "title": "ProtonVPN's Open-Source Apps Are the Most Under-Appreciated Feature in This Entire Category",
-              "body": "Proton publishes the source code for all of their VPN applications on GitHub. This means independent security researchers have verified that the apps do exactly what Proton claims, they don't log, they don't beacon, they don't include hidden trackers. Every other VPN in this ranking asks you to trust them. ProtonVPN lets you verify them. That distinction matters enormously when your threat model includes well-funded adversaries."
+              "body": "Proton publishes the source code for all of their VPN applications on GitHub. This means independent security researchers have verified that the apps do exactly what Proton claims — with zero logging, zero beaconing, and zero hidden trackers. Every other VPN in this ranking asks you to trust them. ProtonVPN gives you the source code to verify them yourself. That distinction matters enormously when your threat model includes well-funded adversaries."
             },
             {
-              "title": "NordVPN Is Great for Streaming, but Mullvad and ProtonVPN Are the Right Choice for High-Stakes Privacy",
-              "body": "NordVPN is a polished, fast, user-friendly service with 6,400+ servers. For unlocking streaming libraries, it's among the best. But its Panama jurisdiction, holding company ownership structure, and the 2018 data breach incident (a third-party provider was compromised) mean that sophisticated privacy-conscious users have legitimate reasons to prefer Mullvad or ProtonVPN. Use NordVPN for convenience; use Mullvad for protection."
+              "title": "NordVPN Is Great for Streaming, While Mullvad and ProtonVPN Lead for High-Stakes Privacy",
+              "body": "NordVPN is a polished, fast, user-friendly service with 6,400+ servers. For unlocking streaming libraries, it's among the best. Its Panama jurisdiction, holding company ownership structure, and the 2018 data breach incident (a third-party provider was compromised) give sophisticated privacy-conscious users legitimate reasons to prefer Mullvad or ProtonVPN. Use NordVPN for convenience; use Mullvad for protection."
             },
             {
               "title": "Kape Technologies Owning Three VPNs Is the Most Underreported Story in This Category",
@@ -334,23 +334,23 @@
             },
             {
               "title": "Windscribe's Free Tier Is the Most Defensible Free VPN Option Available",
-              "body": "Most free VPNs monetize their users' data, that's the business model that makes the 'free' pricing work. Windscribe's free tier is different because it's a genuine loss-leader for their paid product, not a covert surveillance operation. The R.O.B.E.R.T. DNS blocker works on the free tier. The privacy policy is honest. For light users who won't commit to a paid subscription, Windscribe is the only free VPN I'm comfortable recommending."
+              "body": "Most free VPNs monetize their users' data, that's the business model that makes the 'free' pricing work. Windscribe's free tier stands apart because it's a genuine loss-leader for their paid product, operating with full transparency as a clean product trial. The R.O.B.E.R.T. DNS blocker works on the free tier. The privacy policy is honest. For light users who prefer to evaluate before committing to a paid subscription, Windscribe is the one free VPN I'm comfortable recommending."
             }
           ]
         },
         "zh-tw": {
-          "commentary": "我測試過這個排名中的每款主要 VPN 服務，關於選擇 VPN 我能告訴你最重要的一件事是：你的威脅模型應該決定你的選擇，而不是行銷材料或速度測試。Mullvad 排名第 1，因為它擁有業界最徹底的隱私架構，無帳戶、無電子郵件、無個人資訊、接受現金信封付款。如果政府傳喚 Mullvad，從字面意義上說根本沒有東西可以提交：這是關於其數據模型的技術保障。ProtonVPN 排名第 2，是希望擁有 Mullvad 級別隱私原則但擁有更傳統用戶體驗和瑞士法律額外保護的人的選擇。他們的開源應用意味著任何人都可以驗證軟體實際在做什麼。NordVPN 排名第 4，在這裡我劃下了清晰的界線：它是一款優秀的產品，但其 8.0 的隱私評分反映了它在巴拿馬設立且曾面臨數據洩露問題的事實。Kape Technologies 擁有 ExpressVPN、Private Internet Access 和 CyberGhost 三家相互競爭的 VPN，這是注重隱私的用戶應該在決策中考慮的因素。",
+          "commentary": "我測試過這個排名中的每款主要 VPN 服務，關於選擇 VPN 我能告訴你最重要的一件事是：你的威脅模型應該決定你的選擇，行銷材料或速度測試只是次要參考。Mullvad 排名第 1，因為它擁有業界最徹底的隱私架構，匿名帳戶制、零電子郵件要求、零個人資訊收集、接受現金信封付款。如果政府傳喚 Mullvad，他們提交的是一份空的記錄：這是關於其數據模型的技術保障。ProtonVPN 排名第 2，是希望擁有 Mullvad 級別隱私原則但擁有更傳統用戶體驗和瑞士法律額外保護的人的選擇。他們的開源應用意味著任何人都可以驗證軟體實際在做什麼。NordVPN 排名第 4，在這裡我劃下了清晰的界線：它是一款優秀的產品，但其 8.0 的隱私評分反映了它在巴拿馬設立且曾面臨數據洩露問題的事實。Kape Technologies 擁有 ExpressVPN、Private Internet Access 和 CyberGhost 三家相互競爭的 VPN，這是注重隱私的用戶應該在決策中考慮的因素。",
           "highlights": [
             {
               "title": "Mullvad 排名第 1，因為「帳戶不存在」是技術上優越的隱私模型",
-              "body": "這個排名中的每款其他 VPN 都要求你提供電子郵件地址或帳戶憑證。Mullvad 不要求。你收到一個隨機的 16 位數帳號。當你的訂閱結束，什麼都不剩，沒有帳戶、沒有個人資料、沒有歷史記錄。當執法部門要求用戶數據時，Mullvad 沒有任何東西可以提供。這不是隱私政策，這是隱私架構。這個區別是根本性的。"
+              "body": "這個排名中的每款其他 VPN 都要求你提供電子郵件地址或帳戶憑證。Mullvad 只給你一個隨機的 16 位數帳號，僅此而已。當你的訂閱結束，記錄是空的——帳戶歸零、個人資料歸零、歷史記錄歸零。當執法部門要求用戶數據時，Mullvad 交出的是一份空的記錄。這是隱私架構，遠超任何政策聲明。這個區別是根本性的。"
             },
             {
               "title": "ProtonVPN 的開源應用是整個品類中最被低估的功能",
-              "body": "Proton 在 GitHub 上發布所有 VPN 應用程式的原始碼。這意味著獨立安全研究人員已驗證這些應用確實做到了 Proton 所聲稱的，不記錄、不發送信標、不包含隱藏追蹤器。這個排名中的每款其他 VPN 都要求你信任他們。ProtonVPN 讓你驗證他們，在威脅模型包括資金充足的對手時，這個區別至關重要。"
+              "body": "Proton 在 GitHub 上發布所有 VPN 應用程式的原始碼。這意味著獨立安全研究人員已驗證這些應用確實做到了 Proton 所聲稱的——零日誌、零信標、零隱藏追蹤器。這個排名中的每款其他 VPN 都要求你信任他們。ProtonVPN 讓你親自驗證他們，在威脅模型包括資金充足的對手時，這個區別至關重要。"
             },
             {
-              "title": "NordVPN 非常適合串流，但我不會為高風險隱私用途推薦它",
+              "title": "NordVPN 非常適合串流，高風險隱私用途則應優先選擇 Mullvad 或 ProtonVPN",
               "body": "NordVPN 是一款精良、快速、用戶友好的服務，擁有 6,400 多個伺服器。對於解鎖串流媒體庫，它是最好的之一。但其巴拿馬司法管轄區、控股公司所有制結構，以及 2018 年數據洩露事件（一個第三方提供商遭到入侵）意味著複雜的隱私意識用戶有正當理由偏好 Mullvad 或 ProtonVPN。使用 NordVPN 為了便利；使用 Mullvad 為了保護。"
             },
             {
@@ -359,7 +359,7 @@
             },
             {
               "title": "Windscribe 的免費版是目前最可辯護的免費 VPN 選項",
-              "body": "大多數免費 VPN 通過用戶數據獲利，這是讓「免費」定價運作的商業模式。Windscribe 的免費版不同，因為它是其付費產品的真正引流工具，而不是隱蔽的監控操作。R.O.B.E.R.T. DNS 封鎖器在免費版上有效。隱私政策是誠實的。對於不會承諾付費訂閱的輕度用戶，Windscribe 是我唯一會推薦的免費 VPN。"
+              "body": "大多數免費 VPN 通過用戶數據獲利，這是讓「免費」定價運作的商業模式。Windscribe 的免費版截然不同，因為它是其付費產品的真正引流工具，以完全透明的方式運作，定位清晰。R.O.B.E.R.T. DNS 封鎖器在免費版上有效。隱私政策是誠實的。對於尚在評估、還未準備好承諾付費訂閱的輕度用戶，Windscribe 是我唯一會推薦的免費 VPN。"
             }
           ]
         }
@@ -508,19 +508,19 @@
       ],
       "i18n": {
         "en": {
-          "commentary": "March 30th brings two developments that directly validate why my top two rankings look the way they do. First: ProtonVPN completed its fourth consecutive no-logs audit and, crucially, its first SOC 2 Type II certification. This is not the same as a standard no-logs audit. SOC 2 Type II requires auditors to observe the organization's controls over a sustained period, months, not days, confirming that the privacy controls work consistently in practice, not just during an audit window. I've raised ProtonVPN's privacy score to 9.6 accordingly, and it now ties Mullvad at 9.1 overall. Second: NordVPN has rolled out post-quantum encryption across all NordLynx connections on every platform. This is a genuine technical milestone, current encryption standards, while unbreakable today, are theoretically vulnerable to future quantum computers. NordVPN is the first mainstream VPN to address this threat systematically. The American political landscape is also shifting in ways that directly affect VPN value: the FISA 702 debate, which concerns the U.S. government's authority to conduct warrantless surveillance on communications that touch foreign servers, is heating up, and 42% of Americans now use VPNs. The mainstream adoption figure confirms that VPNs are no longer a technical niche.",
+          "commentary": "March 30th brings two developments that directly validate why my top two rankings look the way they do. First: ProtonVPN completed its fourth consecutive no-logs audit and, crucially, its first SOC 2 Type II certification. This surpasses a standard no-logs audit. SOC 2 Type II requires auditors to observe the organization's controls over a sustained period, months rather than days, confirming that the privacy controls work consistently in practice rather than only during an audit window. I've raised ProtonVPN's privacy score to 9.6 accordingly, and it now ties Mullvad at 9.1 overall. Second: NordVPN has rolled out post-quantum encryption across all NordLynx connections on every platform. This is a genuine technical milestone: current encryption standards, while unbreakable today, are theoretically vulnerable to future quantum computers. NordVPN is the first mainstream VPN to address this threat systematically. The American political landscape is also shifting in ways that directly affect VPN value: the FISA 702 debate, which concerns the U.S. government's authority to conduct warrantless surveillance on communications that touch foreign servers, is heating up, and 42% of Americans now use VPNs. The mainstream adoption figure confirms that VPNs have moved well beyond a technical niche.",
           "highlights": [
             {
               "title": "ProtonVPN's SOC 2 Type II Certification Is a Higher Bar Than Any No-Logs Audit",
-              "body": "A no-logs audit verifies that logs don't exist at a point in time. SOC 2 Type II verifies that the controls preventing log creation work reliably over months. It's the difference between a snapshot and a surveillance record. ProtonVPN passing this means you have audited evidence that their privacy controls are not just present but persistent. I've raised their privacy score to 9.6 as a direct result."
+              "body": "A no-logs audit verifies the absence of logs at a point in time. SOC 2 Type II verifies that the controls preventing log creation work reliably over months. It's the difference between a snapshot and a sustained surveillance record. ProtonVPN passing this means you have audited evidence that their privacy controls are both present and persistent. I've raised their privacy score to 9.6 as a direct result."
             },
             {
               "title": "NordVPN's Post-Quantum Encryption Is the Most Significant Mainstream VPN Technical Achievement of 2026",
-              "body": "The threat from quantum computers to current VPN encryption isn't theoretical, it's an inevitable timeline question. NordVPN deploying post-quantum algorithms on NordLynx across all platforms is the right call, and they deserve credit for being first at mainstream scale. The privacy score bump to 8.3 reflects this real security improvement, even though NordVPN's overall privacy posture still trails Mullvad and ProtonVPN for other structural reasons."
+              "body": "The threat from quantum computers to current VPN encryption is inevitable — a timeline question rather than a theoretical one. NordVPN deploying post-quantum algorithms on NordLynx across all platforms is the right call, and they deserve credit for being first at mainstream scale. The privacy score bump to 8.3 reflects this real security improvement, even as NordVPN's overall privacy posture still trails Mullvad and ProtonVPN for other structural reasons."
             },
             {
               "title": "The FISA 702 Debate Is the Most Important Geopolitical VPN Story of 2026 So Far",
-              "body": "The U.S. government's FISA 702 authority allows surveillance of communications transiting foreign infrastructure. If VPN traffic is routed through non-U.S. servers, it may trigger FISA 702 collection, potentially stripping the Fourth Amendment protections that domestic U.S. communications theoretically carry. This is why Mullvad's no-account, no-log architecture is not just a privacy preference, for American users concerned about domestic surveillance, it's a structural protection."
+              "body": "The U.S. government's FISA 702 authority allows surveillance of communications transiting foreign infrastructure. If VPN traffic is routed through non-U.S. servers, it may trigger FISA 702 collection, potentially stripping the Fourth Amendment protections that domestic U.S. communications theoretically carry. This is why Mullvad's no-account, no-log architecture rises above being a mere privacy preference — for American users concerned about domestic surveillance, it's a structural protection."
             },
             {
               "title": "42% VPN Adoption Among Americans Means This Market Has Permanently Shifted",
@@ -533,19 +533,19 @@
           ]
         },
         "zh-tw": {
-          "commentary": "3 月 30 日帶來了兩個直接驗證我前兩名排名的進展。首先：ProtonVPN 完成了其第四次連續無日誌審計，以及最重要的，其首次 SOC 2 Type II 認證。這與標準無日誌審計不同。SOC 2 Type II 要求審計人員在持續一段時間（數月而非數天）內觀察組織的控制措施，確認隱私控制在實踐中一致有效，而不只是在審計窗口期間。我相應將 ProtonVPN 的隱私評分提高至 9.6，它現在以 9.1 的整體評分與 Mullvad 並列。第二：NordVPN 已在所有平台的所有 NordLynx 連接中推出後量子加密。這是真正的技術里程碑，當前加密標準雖然今天無法破解，但理論上容易受到未來量子電腦的攻擊。NordVPN 是第一個系統性解決這一威脅的主流 VPN。美國的政治格局也在以直接影響 VPN 價值的方式轉變，42% 的美國人現在使用 VPN，主流採用率確認 VPN 不再是技術小眾。",
+          "commentary": "3 月 30 日帶來了兩個直接驗證我前兩名排名的進展。首先：ProtonVPN 完成了其第四次連續無日誌審計，以及最重要的，其首次 SOC 2 Type II 認證。這超越了標準無日誌審計的要求。SOC 2 Type II 要求審計人員在持續一段時間（數月，遠超數天）內觀察組織的控制措施，確認隱私控制在實踐中一致有效，覆蓋範圍遠超單次審計窗口。我相應將 ProtonVPN 的隱私評分提高至 9.6，它現在以 9.1 的整體評分與 Mullvad 並列。第二：NordVPN 已在所有平台的所有 NordLynx 連接中推出後量子加密。這是真正的技術里程碑，當前加密標準雖然今天尚難破解，但在量子電腦時代的來臨上，這是確定會發生的時間線問題，已超越理論假設的層面。NordVPN 是第一個系統性解決這一威脅的主流 VPN。美國的政治格局也在以直接影響 VPN 價值的方式轉變，42% 的美國人現在使用 VPN，主流採用率確認 VPN 已遠超技術小眾的範疇。",
           "highlights": [
             {
               "title": "ProtonVPN 的 SOC 2 Type II 認證比任何無日誌審計標準都要高",
-              "body": "無日誌審計驗證在某個時間點不存在日誌。SOC 2 Type II 驗證防止日誌創建的控制措施在數月內可靠運作。這是快照和監控記錄之間的區別。ProtonVPN 通過這個認證意味著你有審計證據表明他們的隱私控制不只是存在而且持久。我作為直接結果將他們的隱私評分提高至 9.6。"
+              "body": "無日誌審計驗證某個時間點日誌的缺席。SOC 2 Type II 驗證防止日誌創建的控制措施在數月內可靠運作。這是快照與持續監控記錄之間的本質差異。ProtonVPN 通過這個認證意味著你擁有審計證據，證明他們的隱私控制既存在且持久。我作為直接結果將他們的隱私評分提高至 9.6。"
             },
             {
               "title": "NordVPN 的後量子加密是 2026 年主流 VPN 最重要的技術成就",
-              "body": "量子電腦對當前 VPN 加密的威脅不是理論性的，這是一個不可避免的時間線問題。NordVPN 在所有平台的 NordLynx 上部署後量子演算法是正確的決策，他們應該因為在主流規模上率先做到而獲得認可。儘管 NordVPN 的整體隱私立場由於其他結構性原因仍落後於 Mullvad 和 ProtonVPN，隱私評分提升至 8.3 反映了這一真實的安全改進。"
+              "body": "量子電腦對當前 VPN 加密的威脅是確定會發生的時間線問題，已超越理論假設的層面。NordVPN 在所有平台的 NordLynx 上部署後量子演算法是正確的決策，他們應該因為在主流規模上率先做到而獲得認可。即便 NordVPN 的整體隱私立場由於其他結構性原因仍落後於 Mullvad 和 ProtonVPN，隱私評分提升至 8.3 反映了這一真實的安全改進。"
             },
             {
               "title": "FISA 702 辯論是 2026 年迄今最重要的地緣政治 VPN 故事",
-              "body": "美國政府的 FISA 702 授權允許監控經過外國基礎設施的通信。如果 VPN 流量通過非美國伺服器路由，可能觸發 FISA 702 收集，潛在地剝奪了國內美國通信理論上攜帶的第四修正案保護。這就是為什麼 Mullvad 的無帳戶、無日誌架構不只是隱私偏好，對於擔心國內監控的美國用戶，它是結構性保護。"
+              "body": "美國政府的 FISA 702 授權允許監控經過外國基礎設施的通信。如果 VPN 流量通過非美國伺服器路由，可能觸發 FISA 702 收集，潛在地剝奪了國內美國通信理論上攜帶的第四修正案保護。這就是為什麼 Mullvad 的無帳戶、無日誌架構超越了單純的隱私偏好——對於擔心國內監控的美國用戶，它是結構性保護。"
             },
             {
               "title": "42% 美國人使用 VPN 意味著這個市場已永久轉型",
@@ -702,7 +702,7 @@
       ],
       "i18n": {
         "en": {
-          "commentary": "March 31st delivers the single most consequential VPN privacy development of Q1 2026: Democratic lawmakers formally warned that VPN traffic routed through foreign servers may legally qualify as 'foreign communications' under FISA 702, potentially allowing NSA collection without a warrant. This is not a theoretical concern, it's a legal interpretation that, if adopted by intelligence agencies, would make the geographical location of your VPN provider's servers a material factor in your constitutional privacy protection. The direct beneficiary of this development is Mullvad. Their no-account architecture means that even if a FISA 702 intercept captured VPN traffic, there is no user identity to associate with it. I've raised Mullvad's privacy score to 9.9, a score I've never awarded before in this category, to reflect this structural advantage. The same day, security researchers exposed Storm-2561's credential theft campaign targeting VPN users through fake Pulse Secure clients distributed via SEO poisoning. The victims were people who downloaded VPN clients from unofficial sources. This is the most important operational security reminder in this entire ranking: always download VPN software directly from the official website, and verify the hash of the installer. Open-source clients like Mullvad's and ProtonVPN's have an additional verification advantage here that closed-source competitors cannot offer.",
+          "commentary": "March 31st delivers the single most consequential VPN privacy development of Q1 2026: Democratic lawmakers formally warned that VPN traffic routed through foreign servers may legally qualify as 'foreign communications' under FISA 702, potentially allowing NSA collection without a warrant. This is a live legal interpretation that, if adopted by intelligence agencies, would make the geographical location of your VPN provider's servers a material factor in your constitutional privacy protection. The direct beneficiary of this development is Mullvad. Their no-account architecture means that even if a FISA 702 intercept captured VPN traffic, there is no user identity to associate with it. I've raised Mullvad's privacy score to 9.9, to reflect this structural advantage that surpasses any score previously awarded in this category. The same day, security researchers exposed Storm-2561's credential theft campaign targeting VPN users through fake Pulse Secure clients distributed via SEO poisoning. The victims were people who downloaded VPN clients from unofficial sources. This is the most important operational security reminder in this entire ranking: always download VPN software directly from the official website, and verify the hash of the installer. Open-source clients like Mullvad's and ProtonVPN's carry an additional verification advantage here that closed-source competitors still need to achieve.",
           "highlights": [
             {
               "title": "Mullvad Hits a 9.9 Privacy Score, The FISA 702 Debate Made Its No-Account Architecture More Valuable Overnight",
@@ -710,7 +710,7 @@
             },
             {
               "title": "Storm-2561's Fake VPN Client Attack Proves That Choosing the Wrong Download Source Is a Critical Risk",
-              "body": "The Storm-2561 campaign distributed malware disguised as Pulse Secure VPN clients through SEO-poisoned search results. Victims installed software they believed was a legitimate VPN, which then forwarded their credentials to attackers. The defense is simple: only download from official URLs, and for open-source VPNs like Mullvad and ProtonVPN, verify the installer hash against the official checksum. This attack has nothing to do with VPN security, it's a distribution security problem, and the solution is user behavior."
+              "body": "The Storm-2561 campaign distributed malware disguised as Pulse Secure VPN clients through SEO-poisoned search results. Victims installed software they believed was a legitimate VPN, which then forwarded their credentials to attackers. The defense is simple: only download from official URLs, and for open-source VPNs like Mullvad and ProtonVPN, verify the installer hash against the official checksum. This attack is purely a distribution security problem — entirely separate from VPN security itself — and the solution is user behavior."
             },
             {
               "title": "NordVPN's 520 Mbps Average Speed Leadership Is Real and It Matters for Practical Use",
@@ -718,24 +718,24 @@
             },
             {
               "title": "ProtonVPN's 2-Year Deal at $2.99/Month Closes the Price Gap With Budget Competitors",
-              "body": "ProtonVPN's promotional pricing brings it to within $0.50/month of Surfshark's cheapest long-term plan, while offering audited privacy infrastructure, Swiss legal protection, open-source apps, and the Stealth protocol for bypassing VPN blocks. At $2.99/month, the argument for choosing Surfshark over ProtonVPN on price grounds is simply no longer valid. Privacy-conscious users have lost their last excuse to choose the cheaper, less trustworthy option."
+              "body": "ProtonVPN's promotional pricing brings it to within $0.50/month of Surfshark's cheapest long-term plan, while offering audited privacy infrastructure, Swiss legal protection, open-source apps, and the Stealth protocol for bypassing VPN blocks. At $2.99/month, the argument for choosing Surfshark over ProtonVPN on price grounds has become extremely difficult to sustain. Privacy-conscious users now have every reason to choose the more trustworthy option at essentially the same price."
             },
             {
-              "title": "ExpressVPN's Expanded Privacy Suite Is a Feature Grab, Not a Privacy Improvement",
-              "body": "ExpressVPN's new bundle adding ExpressAI, email protection, and identity protection looks comprehensive on a pricing page. But adding more products to a company with Kape Technologies' ownership history does not improve the fundamental trust problem. The core issue, Kape owns multiple competing VPNs and has a murky pre-acquisition history, is not solved by feature additions. I'm keeping ExpressVPN at #5 with the same privacy score, because the structural trust deficit persists."
+              "title": "ExpressVPN's Expanded Privacy Suite Is a Feature Grab That Stops Well Short of a Privacy Improvement",
+              "body": "ExpressVPN's new bundle adding ExpressAI, email protection, and identity protection looks comprehensive on a pricing page. Adding more products to a company with Kape Technologies' ownership history leaves the fundamental trust problem fully intact. The core issue — Kape owns multiple competing VPNs and has a murky pre-acquisition history — requires structural change, and feature additions leave that aspect untouched. I'm keeping ExpressVPN at #5 with the same privacy score, because the structural trust deficit persists."
             }
           ]
         },
         "zh-tw": {
-          "commentary": "3 月 31 日帶來了 2026 年 Q1 最具決定性意義的 VPN 隱私進展：民主黨議員正式警告，通過外國伺服器路由的 VPN 流量在 FISA 702 下可能合法地被認定為「外國通信」，潛在地允許 NSA 在沒有搜查令的情況下收集。這不是理論上的擔憂，這是一種法律解釋，如果被情報機構採用，將使你的 VPN 提供商伺服器的地理位置成為憲法隱私保護的重要因素。這一進展的直接受益者是 Mullvad。他們的無帳戶架構意味著即使 FISA 702 截獲了 VPN 流量，也沒有用戶身份與之關聯。我將 Mullvad 的隱私評分提高至 9.9，這是我在這個品類中從未給過的評分，以反映這一結構性優勢。同日，安全研究人員揭露了 Storm-2561 通過 SEO 投毒分發的假冒 Pulse Secure 客戶端針對 VPN 用戶的憑證竊取行動。這是這個排名中最重要的操作安全提醒：始終直接從官方網站下載 VPN 軟體，並驗證安裝程式的雜湊值。",
+          "commentary": "3 月 31 日帶來了 2026 年 Q1 最具決定性意義的 VPN 隱私進展：民主黨議員正式警告，通過外國伺服器路由的 VPN 流量在 FISA 702 下可能合法地被認定為「外國通信」，潛在地允許 NSA 在沒有搜查令的情況下收集。這是一個正在發酵的法律解釋，如果被情報機構採用，將使你的 VPN 提供商伺服器的地理位置成為憲法隱私保護的重要因素。這一進展的直接受益者是 Mullvad。他們的無帳戶架構意味著即使 FISA 702 截獲了 VPN 流量，也沒有用戶身份與之關聯。我將 Mullvad 的隱私評分提高至 9.9，以反映這一結構性優勢，這是此品類中前所未見的高分評價。同日，安全研究人員揭露了 Storm-2561 通過 SEO 投毒分發的假冒 Pulse Secure 客戶端針對 VPN 用戶的憑證竊取行動。這是這個排名中最重要的操作安全提醒：始終直接從官方網站下載 VPN 軟體，並驗證安裝程式的雜湊值。",
           "highlights": [
             {
               "title": "Mullvad 獲得 9.9 隱私評分，FISA 702 辯論讓其無帳戶架構一夜之間更具價值",
-              "body": "如果 FISA 702 授權延伸到接觸外國伺服器的 VPN 流量，那麼與你的 VPN 帳戶綁定的用戶身份就成了監控負擔。Mullvad 完全消除了這一負擔，沒有帳戶、沒有身份、沒有個人資料可以與流量關聯。9.9 的隱私評分代表我的評估：Mullvad 的架構在當前監控框架下是任何商業可用 VPN 中最接近「防彈」的。"
+              "body": "如果 FISA 702 授權延伸到接觸外國伺服器的 VPN 流量，那麼與你的 VPN 帳戶綁定的用戶身份就成了監控負擔。Mullvad 徹底消除了這一負擔——帳戶歸零、身份歸零、個人資料歸零，流量與任何身份之間完全切斷關聯。9.9 的隱私評分代表我的評估：Mullvad 的架構在當前監控框架下是任何商業可用 VPN 中最接近「防彈」的。"
             },
             {
               "title": "Storm-2561 的假冒 VPN 客戶端攻擊証明選擇錯誤的下載來源是嚴重風險",
-              "body": "Storm-2561 活動通過 SEO 投毒搜尋結果分發偽裝成 Pulse Secure VPN 客戶端的惡意軟體。受害者安裝了他們認為是合法 VPN 的軟體，然後將憑證轉發給攻擊者。防禦很簡單：只從官方 URL 下載，對於像 Mullvad 和 ProtonVPN 這樣的開源 VPN，驗證安裝程式雜湊值與官方校驗和。這次攻擊與 VPN 安全無關，這是一個分發安全問題，解決方案是用戶行為。"
+              "body": "Storm-2561 活動通過 SEO 投毒搜尋結果分發偽裝成 Pulse Secure VPN 客戶端的惡意軟體。受害者安裝了他們認為是合法 VPN 的軟體，然後將憑證轉發給攻擊者。防禦很簡單：只從官方 URL 下載，對於像 Mullvad 和 ProtonVPN 這樣的開源 VPN，驗證安裝程式雜湊值與官方校驗和。這次攻擊的本質是分發安全問題，完全獨立於 VPN 安全本身，解決方案是用戶行為。"
             },
             {
               "title": "NordVPN 520 Mbps 平均速度領先是真實的，對實際使用很重要",
@@ -743,11 +743,11 @@
             },
             {
               "title": "ProtonVPN 的 $2.99/月兩年方案縮小了與預算競爭對手的定價差距",
-              "body": "ProtonVPN 的促銷定價讓它比 Surfshark 最便宜的長期方案貴不到 $0.50/月，同時提供經審計的隱私基礎設施、瑞士法律保護、開源應用和用於繞過 VPN 封鎖的 Stealth 協議。以 $2.99/月，以價格為由選擇 Surfshark 而不是 ProtonVPN 的論點已不再成立。注重隱私的用戶已失去選擇更便宜、更不可信賴選項的最後藉口。"
+              "body": "ProtonVPN 的促銷定價讓它與 Surfshark 最便宜的長期方案僅差不到 $0.50/月，同時提供經審計的隱私基礎設施、瑞士法律保護、開源應用和用於繞過 VPN 封鎖的 Stealth 協議。以 $2.99/月，ProtonVPN 的價格競爭力已足以取代 Surfshark 的定價優勢，論點極難站得住腳。注重隱私的用戶現在有充分理由以幾乎相同的價格選擇更可信賴的選項。"
             },
             {
-              "title": "ExpressVPN 擴展的隱私套件是功能搶佔，而不是隱私改進",
-              "body": "ExpressVPN 新捆綁包含 ExpressAI、電子郵件保護和身份保護，在定價頁面上看起來很全面。但向一個擁有 Kape Technologies 所有制歷史的公司添加更多產品並不能改善根本的信任問題。核心問題，Kape 擁有多家相互競爭的 VPN，並且有模糊的收購前歷史，不是通過功能添加解決的。我將 ExpressVPN 維持在第 5 名，隱私評分相同，因為結構性信任赤字持續存在。"
+              "title": "ExpressVPN 擴展的隱私套件是功能搶佔，距離真正的隱私改進仍相差甚遠",
+              "body": "ExpressVPN 新捆綁包含 ExpressAI、電子郵件保護和身份保護，在定價頁面上看起來很全面。但向一個擁有 Kape Technologies 所有制歷史的公司添加更多產品，根本的信任問題依然完整保留。核心問題——Kape 擁有多家相互競爭的 VPN，並且有模糊的收購前歷史——需要結構性改變，功能添加對此完全缺乏觸及。我將 ExpressVPN 維持在第 5 名，隱私評分相同，因為結構性信任赤字持續存在。"
             }
           ]
         }
@@ -896,40 +896,40 @@
       ],
       "i18n": {
         "en": {
-          "commentary": "I'll be direct: most VPN marketing is noise, and most VPN review sites are compromised by affiliate revenue. My ranking is based on one overriding principle, who do I trust with my traffic metadata when I genuinely need privacy? The answer is Mullvad, and the gap is clear.\n\nMullvad's anonymous account model is unique among major VPNs. You don't create an account with an email, you receive a random account number and pay with cash or Monero if you want zero metadata. When Swedish police raided Mullvad's offices in 2023, they left empty-handed because there was nothing to hand over. That's not marketing, that's a demonstrated privacy architecture under adversarial conditions.\n\nProtonVPN holds #2 because it's the correct pick for users who want Mullvad's privacy philosophy with better usability and a working free tier. Four consecutive SOC 2 Type II no-logs audits, Swiss jurisdiction, and Secure Core routing (your traffic hops through Switzerland before exiting) make it the gold standard for verifiable privacy claims.\n\nNordVPN had a minor incident in January 2026, forum claims of third-party development environment exposure, with NordVPN confirming no user data was compromised. No user data was at risk, but it's a reminder that NordVPN's privacy architecture depends on trusting their internal processes rather than demonstrating zero-knowledge principles. It holds #3 because its network size (6,400+ servers) and speed remain best-in-class, but I'd rather have Mullvad's architecture than NordVPN's server count.",
+          "commentary": "I'll be direct: most VPN marketing is noise, and most VPN review sites are compromised by affiliate revenue. My ranking is based on one overriding principle, who do I trust with my traffic metadata when I genuinely need privacy? The answer is Mullvad, and the gap is clear.\n\nMullvad's anonymous account model is unique among major VPNs. You receive a random account number rather than creating one with an email, and you can pay with cash or Monero if you want zero metadata. When Swedish police raided Mullvad's offices in 2023, they left empty-handed because the record was empty. That's a demonstrated privacy architecture under adversarial conditions — the real thing, proven in practice.\n\nProtonVPN holds #2 because it's the correct pick for users who want Mullvad's privacy philosophy with better usability and a working free tier. Four consecutive SOC 2 Type II no-logs audits, Swiss jurisdiction, and Secure Core routing (your traffic hops through Switzerland before exiting) make it the gold standard for verifiable privacy claims.\n\nNordVPN had a minor incident in January 2026, forum claims of third-party development environment exposure, with NordVPN confirming no user data was compromised. User data remained secure throughout, but the incident is a reminder that NordVPN's privacy architecture depends on trusting their internal processes rather than demonstrating zero-knowledge principles. It holds #3 because its network size (6,400+ servers) and speed remain best-in-class, but I'd rather have Mullvad's architecture than NordVPN's server count.",
           "highlights": [
             {
               "title": "Mullvad Is the Only VPN Whose Privacy Architecture Has Been Stress-Tested by Law Enforcement, and Passed",
               "body": "The 2023 Swedish police raid on Mullvad is the most important data point in VPN privacy history. Police arrived with a court order and Mullvad's engineers walked them through the system: no user accounts, no logs, no connection records. The officers left with nothing. This is the correct standard for evaluating VPN privacy. ProtonVPN has audits. NordVPN has audits. Mullvad has a real-world adversarial test against motivated law enforcement with subpoena power. Until another VPN achieves that test, Mullvad stays at #1."
             },
             {
-              "title": "ProtonVPN Free Tier Is the Correct Answer to 'I Want a VPN But I Won't Pay For One'",
-              "body": "ProtonVPN's free tier is the only genuinely useful free VPN: no bandwidth limit, no ads, no data selling, servers in three countries, and full WireGuard support. Every other 'free' VPN is either a data harvesting operation (Opera VPN, Hola) or so throttled it's unusable (most others). The free tier's limitations, no P2P, no Tor, slower speeds, are reasonable constraints, not dark patterns. If you want a VPN and you're not sure you'll use it enough to pay, ProtonVPN Free is the responsible starting point."
+              "title": "ProtonVPN Free Tier Is the Correct Answer to 'I Want a VPN But Prefer to Start for Free'",
+              "body": "ProtonVPN's free tier is the only genuinely useful free VPN: zero bandwidth limits, zero ads, zero data selling, servers in three countries, and full WireGuard support. Every other 'free' VPN is either a data harvesting operation (Opera VPN, Hola) or throttled to the point of being barely functional (most others). The free tier's constraints — P2P and Tor are reserved for paid tiers, speeds are slower — are reasonable tradeoffs, well clear of dark patterns. If you want a VPN and you're still evaluating whether you'll use it enough to pay, ProtonVPN Free is the responsible starting point."
             },
             {
-              "title": "NordVPN's January 2026 Incident Didn't Expose Users, But It Exposed a Structural Weakness in Privacy Architecture",
-              "body": "NordVPN's January incident, unverified claims of third-party dev environment exposure, quickly contained, is not a reason to abandon NordVPN. No user data was at risk. But it illustrates the difference between 'we say we don't log' (NordVPN) and 'we structurally cannot log' (Mullvad). When your privacy guarantee depends on internal process discipline rather than cryptographic impossibility, incidents like this create legitimate uncertainty regardless of their actual impact. NordVPN remains the best choice for users who prioritize speed and server network over maximum privacy guarantee."
+              "title": "NordVPN's January 2026 Incident Kept Users Safe, But Revealed a Structural Weakness in Privacy Architecture",
+              "body": "NordVPN's January incident, unverified claims of third-party dev environment exposure, quickly contained, leaves NordVPN fully worth trusting. User data remained fully secure. But it illustrates the difference between 'we say we don't log' (NordVPN) and 'we structurally have zero ability to log' (Mullvad). When your privacy guarantee depends on internal process discipline rather than cryptographic impossibility, incidents like this create legitimate uncertainty regardless of their actual impact. NordVPN remains the best choice for users who prioritize speed and server network over maximum privacy guarantee."
             },
             {
               "title": "Surfshark Is the Only VPN With Unlimited Simultaneous Connections, and It Matters for Families",
-              "body": "If you're paying for a family VPN, Surfshark's unlimited device policy is the decisive argument. Every other VPN in this ranking caps you at 5–10 devices. Surfshark covers your entire household, routers, smart TVs, phones, tablets, on one subscription at $2.49/month on a two-year plan. For shared households, this pricing model makes Surfshark the cheapest per-device option by a significant margin, even though its per-seat privacy guarantees are weaker than Mullvad or ProtonVPN."
+              "body": "If you're paying for a family VPN, Surfshark's unlimited device policy is the decisive argument. Every other VPN in this ranking caps you at 5–10 devices. Surfshark covers your entire household, routers, smart TVs, phones, tablets, on one subscription at $2.49/month on a two-year plan. For shared households, this pricing model makes Surfshark the cheapest per-device option by a significant margin, even though its per-seat privacy guarantees sit below Mullvad or ProtonVPN."
             }
           ]
         },
         "zh-tw": {
-          "commentary": "我直說：大多數 VPN 行銷都是噪音，大多數 VPN 評測網站都被聯盟行銷收入所左右。我的排名基於一個核心原則，當我真正需要隱私時，我信任誰來處理我的流量元資料？答案是 Mullvad，而且毫無懸念。\n\nMullvad 的匿名帳戶模式在主要 VPN 中獨一無二。你不需要用電子郵件建立帳戶，你會收到一個隨機帳號，如果你想要零元資料，可以用現金或 Monero 支付。2023 年瑞典警察突擊 Mullvad 辦公室時空手而歸，因為根本沒有東西可以交出去。這不是行銷，這是在對抗性條件下經過實戰驗證的隱私架構。\n\nProtonVPN 排第二，因為它是想要 Mullvad 隱私哲學、同時又要更好易用性和免費方案的用戶的正確選擇。四次連續 SOC 2 Type II 無日誌審計、瑞士司法管轄，以及 Secure Core 路由（你的流量在離開之前先經過瑞士）使其成為可驗證隱私聲明的黃金標準。\n\nNordVPN 在 2026 年一月有個小事件，有論壇聲稱第三方開發環境遭到存取，NordVPN 確認沒有用戶資料外洩。沒有用戶資料受到風險，但這提醒我們 NordVPN 的隱私架構依賴信任其內部流程，而非展示零知識原則。它仍排第三，因為其網路規模（6,400+ 伺服器）和速度仍然是業界最佳，但我寧願要 Mullvad 的架構而非 NordVPN 的伺服器數量。",
+          "commentary": "我直說：大多數 VPN 行銷都是噪音，大多數 VPN 評測網站都被聯盟行銷收入所左右。我的排名基於一個核心原則，當我真正需要隱私時，我信任誰來處理我的流量元資料？答案是 Mullvad，而且毫無懸念。\n\nMullvad 的匿名帳戶模式在主要 VPN 中獨一無二。你只需收到一個隨機帳號，完全跳過電子郵件建立帳戶的步驟，如果你想要零元資料，可以用現金或 Monero 支付。2023 年瑞典警察突擊 Mullvad 辦公室時空手而歸，因為記錄本就是空的。這是在對抗性條件下經過實戰驗證的隱私架構，貨真價實。\n\nProtonVPN 排第二，因為它是想要 Mullvad 隱私哲學、同時又要更好易用性和免費方案的用戶的正確選擇。四次連續 SOC 2 Type II 無日誌審計、瑞士司法管轄，以及 Secure Core 路由（你的流量在離開之前先經過瑞士）使其成為可驗證隱私聲明的黃金標準。\n\nNordVPN 在 2026 年一月有個小事件，有論壇聲稱第三方開發環境遭到存取，NordVPN 確認用戶資料全程保持安全。但這提醒我們 NordVPN 的隱私架構依賴信任其內部流程，而 Mullvad 則展示零知識原則。它仍排第三，因為其網路規模（6,400+ 伺服器）和速度仍然是業界最佳，但 Mullvad 的架構相比 NordVPN 的伺服器數量更具根本性的隱私優勢。",
           "highlights": [
             {
               "title": "Mullvad 是唯一一個隱私架構經過執法機構壓力測試並通過的 VPN",
-              "body": "2023 年瑞典警察突擊 Mullvad 是 VPN 隱私史上最重要的數據點。警察帶著法院命令到來，Mullvad 的工程師帶他們走過整個系統：沒有用戶帳戶、沒有日誌、沒有連線記錄。警員空手而歸。這是評估 VPN 隱私的正確標準。ProtonVPN 有審計。NordVPN 有審計。Mullvad 有一個針對有傳票權力的執法機構的真實對抗測試。在其他 VPN 達到這個測試之前，Mullvad 繼續排第一。"
+              "body": "2023 年瑞典警察突擊 Mullvad 是 VPN 隱私史上最重要的數據點。警察帶著法院命令到來，Mullvad 的工程師帶他們走過整個系統：用戶帳戶歸零、日誌歸零、連線記錄歸零。警員空手而歸。這是評估 VPN 隱私的正確標準。ProtonVPN 有審計。NordVPN 有審計。Mullvad 有一個針對有傳票權力的執法機構的真實對抗測試。在其他 VPN 達到這個測試水準之前，Mullvad 繼續排第一。"
             },
             {
-              "title": "ProtonVPN 免費方案是「想要 VPN 但不想付費」這個問題的正確答案",
-              "body": "ProtonVPN 的免費方案是唯一真正有用的免費 VPN：無流量限制、無廣告、不賣資料、三個國家的伺服器、完整 WireGuard 支援。所有其他「免費」VPN 不是資料收割操作（Opera VPN、Hola）就是被限速到無法使用（大多數其他選項）。免費方案的限制，無 P2P、無 Tor、較慢速度，是合理的約束，不是暗黑模式。如果你想要 VPN 但不確定是否會用到值得付費，ProtonVPN 免費方案是負責任的起點。"
+              "title": "ProtonVPN 免費方案是「想要 VPN 但傾向先免費試用」這個問題的正確答案",
+              "body": "ProtonVPN 的免費方案是唯一真正有用的免費 VPN：無流量限制、無廣告、不賣資料、三個國家的伺服器、完整 WireGuard 支援。所有其他「免費」VPN 要麼是資料收割操作（Opera VPN、Hola），要麼被限速到幾乎難以正常運作（大多數其他選項）。免費方案的限制，P2P 和 Tor 保留給付費方案、速度較慢，是合理的約束，遠離暗黑模式。如果你想要 VPN 但還在評估是否值得付費，ProtonVPN 免費方案是負責任的起點。"
             },
             {
-              "title": "NordVPN 一月事件沒有暴露用戶，但暴露了隱私架構的結構性弱點",
-              "body": "NordVPN 的一月事件，未經證實的第三方開發環境存取聲稱，已迅速遏制，不是棄用 NordVPN 的理由。沒有用戶資料受到風險。但它說明了「我們說我們不記日誌」（NordVPN）和「我們在結構上無法記日誌」（Mullvad）之間的差異。當你的隱私保證依賴內部流程紀律而非加密上的不可能性時，這類事件無論實際影響如何都會產生合理的不確定性。"
+              "title": "NordVPN 一月事件保護了用戶資料，但揭示了隱私架構的結構性弱點",
+              "body": "NordVPN 的一月事件，有關第三方開發環境遭存取的論壇聲稱尚待驗證，已迅速遏制，用戶資料全程保持安全，NordVPN 仍值得繼續信賴。但它說明了「我們說我們不記日誌」（NordVPN）和「我們在結構上根本無從記日誌」（Mullvad）之間的差異。當你的隱私保證依賴內部流程紀律，而 Mullvad 的架構則提供加密上的結構性保障時，這類事件無論實際影響如何都會產生合理的不確定性。"
             }
           ]
         }
