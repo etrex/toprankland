@@ -38,10 +38,9 @@
       "name": "Product Name",
       "brand": "Brand",
       "url": "https://verified-url",
-      "priceRange": "$249",
       "i18n": {
-        "en": { "description": "English one-liner" },
-        "zh-tw": { "description": "中文一句話介紹" }
+        "en": { "description": "English one-liner", "priceRange": "$249" },
+        "zh-tw": { "description": "中文一句話介紹", "priceRange": "NT$7,990" }
       }
     }
   ],

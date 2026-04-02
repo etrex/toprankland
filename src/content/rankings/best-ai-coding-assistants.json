@@ -24,12 +24,13 @@
       "name": "Claude Code",
       "brand": "Anthropic",
       "url": "https://claude.ai/code",
-      "priceRange": "$17/mo",
       "i18n": {
         "en": {
+          "priceRange": "$17/mo",
           "description": "Terminal-first AI coding agent powered by Claude Opus 4.6, capable of autonomous multi-file refactoring across massive codebases with a 1M-token context window."
         },
         "zh-tw": {
+          "priceRange": "NT$544/月",
           "description": "終端機優先的 AI 程式代理，核心是 Claude Opus 4.6。1M token 上下文窗口讓你把整個專案丟進去，SWE-bench 80.8% 目前是所有商業工具裡面最高的分數，跨 15 個檔案追 bug、全專案重構這些事，它都能自主完成。"
         }
       }
@@ -39,12 +40,13 @@
       "name": "Cursor",
       "brand": "Anysphere",
       "url": "https://www.cursor.com/",
-      "priceRange": "$20/mo",
       "i18n": {
         "en": {
+          "priceRange": "$20/mo",
           "description": "A VS Code fork rebuilt around AI, featuring Composer for seamless multi-file edits and deep codebase indexing for true project-level understanding."
         },
         "zh-tw": {
+          "priceRange": "NT$640/月",
           "description": "把 VS Code 整個以 AI 為核心重建的編輯器。Composer 做多文件編輯的連貫性在這個品類裡數一數二，代碼庫索引帶來真正的語意理解，年收入超過五億美元，市場已經給了答案。"
         }
       }
@@ -54,12 +56,13 @@
       "name": "GitHub Copilot",
       "brand": "GitHub / Microsoft",
       "url": "https://github.com/features/copilot",
-      "priceRange": "$10/mo",
       "i18n": {
         "en": {
+          "priceRange": "$10/mo",
           "description": "The industry-standard AI code completion tool used by 15+ million developers, with broad IDE support and a genuinely useful free tier."
         },
         "zh-tw": {
+          "priceRange": "NT$320/月",
           "description": "全球 1500 萬開發者在用的 AI 程式工具，所有主流 IDE 都支援，月費才台幣三百出頭，學生還有免費版。Agent Mode 上線後，已經從補全工具進化成真正能自主執行任務的代理。"
         }
       }
@@ -69,13 +72,14 @@
       "name": "Windsurf",
       "brand": "Codeium (acq. Cognition AI)",
       "url": "https://windsurf.com/",
-      "priceRange": "$15/mo",
       "i18n": {
         "en": {
+          "priceRange": "$15/mo",
           "description": "Agentic IDE with 1M+ active users; acquired by Cognition AI (makers of Devin) in Dec 2025, combining two of the top autonomous coding tools under one parent. Known for clean UX and competitive $15/mo pricing."
         },
         "zh-tw": {
-          "description": "活躍用戶超過百萬的代理 IDE，月費台幣約五百，在這個品類裡 CP 值數一數二。2025 年 12 月被 Devin 的開發商 Cognition AI 收購，介面乾淨好上手，後續整合 Devin 的方向值得追蹤。"
+          "priceRange": "NT$640/月",
+          "description": "活躍用戶超過百萬的代理 IDE，月費台幣約六百多，在這個品類裡 CP 值數一數二。2025 年 12 月被 Devin 的開發商 Cognition AI 收購，介面乾淨好上手，後續整合 Devin 的方向值得追蹤。"
         }
       }
     },
@@ -84,12 +88,13 @@
       "name": "Devin",
       "brand": "Cognition",
       "url": "https://devin.ai/",
-      "priceRange": "$20/mo+",
       "i18n": {
         "en": {
+          "priceRange": "$20/mo+",
           "description": "The world's first fully autonomous AI software engineer, capable of independently planning, executing, and deploying complete coding tasks with minimal human input."
         },
         "zh-tw": {
+          "priceRange": "NT$640/月+",
           "description": "全球第一個完全自主的 AI 軟體工程師，規劃、執行、部署全程自己來。月費從原本的 $500 大砍到 $20，現在個人開發者也用得起。基礎設施部署、大量樣板生成這類重複性高的任務交給它跑，省力程度很明顯。"
         }
       }
@@ -99,12 +104,13 @@
       "name": "Amazon Q Developer",
       "brand": "Amazon Web Services",
       "url": "https://aws.amazon.com/q/developer/",
-      "priceRange": "$19/mo",
       "i18n": {
         "en": {
+          "priceRange": "$19/mo",
           "description": "AWS's AI coding assistant with deep cloud and infrastructure integration, supporting code generation, security scanning, and automated framework migrations."
         },
         "zh-tw": {
+          "priceRange": "NT$608/月",
           "description": "AWS 原生的 AI 程式助理，深度整合雲端與基礎設施。程式生成、安全漏洞掃描、自動化框架遷移都有支援。如果你的工作環境就在 AWS 生態系裡，這個選擇最順手，摩擦最少。"
         }
       }
@@ -114,12 +120,13 @@
       "name": "Zed",
       "brand": "Zed Industries",
       "url": "https://zed.dev/",
-      "priceRange": "Free+",
       "i18n": {
         "en": {
+          "priceRange": "Free+",
           "description": "A high-performance, GPU-accelerated AI-native code editor built in Rust, offering fast AI chat and inline assistance using your own API key."
         },
         "zh-tw": {
+          "priceRange": "Free+",
           "description": "用 Rust 寫的 GPU 加速 AI 原生編輯器，啟動速度業界最快。用自己的 API 金鑰就能跑 AI 對話與行內輔助，費用結構完全按用量計算。追求效能、偏好靈活付費模式的開發者，這個值得認真試試。"
         }
       }
@@ -129,12 +136,13 @@
       "name": "Aider",
       "brand": "Paul Gauthier (OSS)",
       "url": "https://aider.chat/",
-      "priceRange": "Free (API cost)",
       "i18n": {
         "en": {
+          "priceRange": "Free (API cost)",
           "description": "A free open-source terminal-based AI pair programmer that works with 100+ LLMs, auto-commits changes with Git, and supports multi-file editing via the command line."
         },
         "zh-tw": {
+          "priceRange": "免費（API 費用另計）",
           "description": "免費開源的終端機 AI 結對工程師，支援 100 種以上 LLM，每次修改自動用 Git 提交。零訂閱費，只需要付 API 費用，對於接案或跑 Side Project 的開發者來說，靈活度和成本控制都很到位。"
         }
       }
@@ -144,12 +152,13 @@
       "name": "Google Jules",
       "brand": "Google",
       "url": "https://jules.google/",
-      "priceRange": "Bundled (AI Pro/Ultra)",
       "i18n": {
         "en": {
+          "priceRange": "Bundled (AI Pro/Ultra)",
           "description": "Google's async autonomous coding agent powered by Gemini 2.5 Pro; integrates natively with GitHub to plan and execute multi-file tasks in a secure cloud sandbox with no IDE required."
         },
         "zh-tw": {
+          "priceRange": "隨 AI Pro/Ultra 方案附贈",
           "description": "Google 出品的非同步自主程式代理，Gemini 2.5 Pro 驅動，直接整合 GitHub repository，在雲端沙盒裡規劃並執行多文件任務。完全零 IDE 依賴，對於習慣純 GitHub 工作流的團隊，這個入門門檻最低。"
         }
       }
