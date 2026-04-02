@@ -938,6 +938,70 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-04-02",
+      "rankings": [
+        { "id": "mullvad", "rank": 1, "score": 9.2, "scores": { "privacy": 9.9, "speed": 8.5, "network": 8, "usability": 8.5, "price": 9.5 } },
+        { "id": "protonvpn", "rank": 2, "score": 9.1, "scores": { "privacy": 9.6, "speed": 8.8, "network": 9, "usability": 9, "price": 8 } },
+        { "id": "nordvpn", "rank": 3, "score": 8.7, "scores": { "privacy": 8.3, "speed": 9, "network": 9.5, "usability": 9, "price": 8.5 } },
+        { "id": "ivpn", "rank": 4, "score": 8.6, "scores": { "privacy": 9.7, "speed": 8.2, "network": 7.5, "usability": 8, "price": 8.5 } },
+        { "id": "expressvpn", "rank": 5, "score": 8.4, "scores": { "privacy": 8, "speed": 9.2, "network": 9, "usability": 9.3, "price": 7 } },
+        { "id": "surfshark", "rank": 6, "score": 8.2, "scores": { "privacy": 7.8, "speed": 8.8, "network": 9, "usability": 9, "price": 9.5 } },
+        { "id": "windscribe", "rank": 7, "score": 8, "scores": { "privacy": 8.5, "speed": 8, "network": 8, "usability": 8.5, "price": 9 } },
+        { "id": "airvpn", "rank": 8, "score": 7.8, "scores": { "privacy": 9.3, "speed": 7.8, "network": 7.5, "usability": 7, "price": 8.5 } },
+        { "id": "pia", "rank": 9, "score": 7.6, "scores": { "privacy": 8.5, "speed": 8, "network": 9.5, "usability": 8, "price": 9.5 } },
+        { "id": "cyberghost", "rank": 10, "score": 7.2, "scores": { "privacy": 7, "speed": 8, "network": 9.2, "usability": 9, "price": 8.5 } }
+      ],
+      "references": [
+        { "title": "FISA renewal debate raises new questions about VPN users and warrantless surveillance", "url": "https://proton.me/blog/fisa-702-vpn-surveillance-risk", "source": "Proton" },
+        { "title": "Russia's New VPN Crackdown: Fines Fees And The Quiet War On Digital Privacy", "url": "https://www.webanditnews.com/2026/04/01/russias-new-vpn-crackdown-fines-fees-and-the-quiet-war-on-digital-privacy/", "source": "Web and IT News" },
+        { "title": "Legislation loopholes and loose ends what does 2026 hold for the VPN industry", "url": "https://www.techradar.com/vpn/vpn-services/legislation-loopholes-and-loose-ends-what-does-2026-hold-for-the-vpn-industry", "source": "TechRadar" }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Two major developments this week make this the most consequential VPN ranking update in months. First: the US Senate is actively debating FISA Section 702, which expires April 20, 2026. Senate Democrats formally asked the Director of National Intelligence to clarify whether VPN use affects Americans' FISA protections. The concern is real: VPN traffic routed through foreign servers could cause intelligence agencies to misclassify a US person's location and apply different legal protections. This is not a hypothetical threat. It is an active congressional debate about government surveillance and VPN technology.\n\nSecond: Russia's State Duma is pushing sweeping VPN crackdown legislation with fines of up to 30,000 rubles ($300) for individuals and 700,000 rubles ($7,000) for businesses caught using unauthorized VPNs to bypass internet restrictions. This is Moscow's most aggressive push yet to eliminate tools that millions of Russians rely on for access to blocked content.\n\nBoth developments reinforce the same conclusion: privacy-first VPN architecture matters more than ever. Mullvad's structural design, no accounts, no logs, anonymous payments, means there is nothing to hand over under any legal process. ProtonVPN's Swiss jurisdiction places it outside US FISA authority entirely. NordVPN holds #3 for network and speed, with the Panama jurisdiction providing meaningful protection from US law enforcement requests.\n\nFor Taiwan users specifically, this week's FISA debate is a reminder that using a VPN with a US-adjacent jurisdiction adds legal complexity that privacy-focused alternatives avoid by design.",
+          "highlights": [
+            {
+              "title": "FISA Section 702 Expires April 20: The VPN Surveillance Question Is Now a Congressional Debate",
+              "body": "Senate Democrats formally asked the Director of National Intelligence to clarify whether VPN use affects FISA surveillance protections, because routing traffic through a foreign VPN server could cause intelligence agencies to classify a US person's traffic as foreign and apply different legal standards. Mullvad and ProtonVPN's structural architectures provide the most defensible answer: there is no user metadata to be leveraged under any legal process. This is the most important argument for privacy-first VPNs in Q2 2026."
+            },
+            {
+              "title": "Russia's VPN Crackdown Is the Most Aggressive Government Anti-VPN Action in History, and It Proves VPNs Work",
+              "body": "Fines of 30,000 rubles for individuals and 700,000 rubles for businesses represent unprecedented escalation. The legal and technical enforcement gap is real: attributing VPN use to specific individuals at scale is difficult. More importantly, the crackdown demonstrates that VPNs are effective enough that an authoritarian government feels compelled to criminalize them. Mullvad, ProtonVPN, and AirVPN's transparent architecture and non-US jurisdiction make them the most defensible choices for users in environments with hostile government VPN enforcement."
+            },
+            {
+              "title": "ProtonVPN's Swiss Jurisdiction Places It Outside US FISA Section 702 Authority, Not Just Policy",
+              "body": "ProtonVPN is headquartered in Geneva, Switzerland. FISA Section 702 does not apply to Swiss infrastructure. A US government subpoena to ProtonVPN faces Swiss privacy law, not American surveillance law. Combined with four consecutive SOC 2 Type II no-logs audits and Secure Core routing through Switzerland before exiting to the destination, ProtonVPN provides both structural jurisdictional protection and independently verified no-logging. For users concerned specifically about US government surveillance, Swiss jurisdiction is the decisive criterion."
+            },
+            {
+              "title": "Mullvad's No-Account Architecture Means There Is Structurally Nothing to Hand Over Under Any Legal Process",
+              "body": "Mullvad assigns a random account number with no email, no name, no payment identity link. The architecture makes it technically impossible for Mullvad to associate traffic with a user identity even under compelled legal process. In the context of FISA Section 702 debate and Russia's crackdown, the distinction between a VPN that promises not to log and a VPN that structurally cannot log is the most important criterion for users who face real adversarial scenarios. Mullvad's 2023 Swedish police raid, which produced nothing, is the only real-world stress test of this architecture that exists for any major VPN."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週有兩個重大發展讓這份 VPN 排行的意義比平常更重要。第一，美國參議員正在討論 FISA 第 702 條監控授權的期限，2026 年 4 月 20 日到期，參議員正式致函要求國家情報總監說明使用 VPN 是否影響美國公民的 FISA 保護。具體的疑慮是，VPN 流量通過境外伺服器時，情報機構可能把美國公民的位置判斷為境外並適用不同的法律保護，這是國會層級的真實立法辯論。\n\n第二，俄羅斯國家杜馬正在推進全面的 VPN 管制立法，個人使用未授權 VPN 最高罰款三萬盧布，企業最高七十萬盧布，這是莫斯科迄今最強硬的 VPN 打壓行動。\n\n兩個發展都指向同一個結論，選擇有結構性隱私保障的 VPN 在這週是比任何時候都更有說服力的決定。Mullvad 的架構設計讓日誌記錄在技術上根本無從發生，ProtonVPN 的瑞士管轄把它完全置於美國 FISA 授權之外。\n\n對台灣用戶來說，這週的 FISA 辯論提醒我們，使用管轄地接近美國的 VPN 引入了隱私優先替代方案靠設計本身就避開的法律複雜性。",
+          "highlights": [
+            {
+              "title": "FISA 第 702 條 4 月 20 日到期，VPN 與政府監控的交集成為國會核心議題",
+              "body": "美國參議員正式致函國家情報總監，詢問使用 VPN 是否影響 FISA 監控保護，核心疑慮是通過境外 VPN 伺服器的流量可能讓情報機構把美國公民的位置判斷為境外，從而適用不同的法律標準。Mullvad 和 ProtonVPN 的結構性架構是最有說服力的回應，在任何法律程序下都沒有用戶元資料可以被要求提供，這是 2026 年第二季選擇隱私優先 VPN 最強的論據。"
+            },
+            {
+              "title": "俄羅斯 VPN 管制是歷史上最強硬的政府打壓行動，而且這個行動本身就說明了 VPN 的有效性",
+              "body": "個人最高三萬盧布、企業最高七十萬盧布的罰款代表了前所未有的力度升級。執法的技術缺口是真實存在的，大規模把 VPN 使用歸因到具體個人在技術上很困難。更重要的是，這個管制行動說明 VPN 的有效性強到讓威權政府不得不把它列為犯罪，這是間接的有效性認證。Mullvad、ProtonVPN 和 AirVPN 在架構透明度和非美國管轄的組合，使它們成為面對敵意政府環境最有防禦性的選擇。"
+            },
+            {
+              "title": "ProtonVPN 的瑞士管轄不只是政策承諾，它讓服務在法律上置於美國 FISA 第 702 條授權之外",
+              "body": "ProtonVPN 總部在日內瓦，FISA 第 702 條管不到瑞士的基礎設施。美國政府的傳票在瑞士面對瑞士隱私法，不是美國監控法。加上四次連續 SOC 2 Type II 零日誌審計和 Secure Core 流量先過瑞士再出去的設計，ProtonVPN 同時提供結構性管轄保護和獨立驗證的零日誌承諾。對有具體美國政府監控顧慮的用戶，瑞士管轄是最決定性的選擇依據。"
+            },
+            {
+              "title": "Mullvad 的無帳號架構代表在任何法律程序下都沒有任何東西可以被要求交出",
+              "body": "Mullvad 用隨機帳號號碼，不要電郵、不要姓名、不連結支付身份，在技術上不可能把流量和用戶身份關聯起來，即使被強制要求也做不到。在 FISA 第 702 條辯論和俄羅斯管制的背景下，承諾不記錄日誌的 VPN 和在架構上不可能記錄日誌的 VPN 之間的差別，是對面臨真實對抗場景的用戶最重要的選擇依據。2023 年瑞典警察帶著法院命令突擊 Mullvad 並空手離開，這是任何主流 VPN 目前唯一的真實壓力測試記錄。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
