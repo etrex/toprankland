@@ -42,6 +42,10 @@
         "en": { "description": "English one-liner", "priceRange": "$249" },
         "zh-tw": { "description": "中文一句話介紹", "priceRange": "NT$7,990" }
       }
+
+zh-tw priceRange 格式規則：
+- 有台灣官方售價（品牌官網、PChome、momo 等主流通路）：直接寫 `NT$X,XXX`
+- 台灣無官方代理、需代購或僅有國際售價可參考：寫 `約 NT$X,XXX`（「約」表示估計值，讓讀者知道這不是官方台灣定價）
     }
   ],
   "history": [
