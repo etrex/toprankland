@@ -148,6 +148,22 @@
       }
     },
     {
+      "id": "asus-zenbook-a16",
+      "name": "Zenbook A16 (UX3607)",
+      "brand": "ASUS",
+      "url": "https://www.asus.com/us/laptops/for-home/zenbook/asus-zenbook-a16-ux3607/",
+      "i18n": {
+        "en": {
+          "priceRange": "$1,599",
+          "description": "ASUS's lightest 16-inch Copilot+ laptop with Snapdragon X2 Elite Extreme, 48GB RAM, a 3K 120Hz OLED display, Wi-Fi 7, and 21-plus-hour battery life in a 1.2kg ceraluminum chassis."
+        },
+        "zh-tw": {
+          "priceRange": "約 NT$51,900",
+          "description": "Snapdragon X2 Elite Extreme 加 48GB 記憶體，16 吋 3K 120Hz OLED 螢幕，機身只有 1.2 公斤，官方標榜超過 21 小時電池，陶瓷鋁合金外殼質感很好。這個螢幕尺寸要做到這個重量本來就很難，再加上這份規格，是 CES 2026 最讓我認真看的 Windows 輕薄本。"
+        }
+      }
+    },
+    {
       "id": "acer-swift-go-16",
       "name": "Swift Go 16",
       "brand": "Acer",
@@ -209,8 +225,20 @@
           }
         },
         {
-          "id": "dell-xps-14-2026",
+          "id": "asus-zenbook-a16",
           "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "performance": 9.0,
+            "display": 9.5,
+            "battery": 9.5,
+            "portability": 9.5,
+            "value": 7.0
+          }
+        },
+        {
+          "id": "dell-xps-14-2026",
+          "rank": 4,
           "score": 8.7,
           "scores": {
             "performance": 8.5,
@@ -222,7 +250,7 @@
         },
         {
           "id": "asus-zenbook-s14-oled",
-          "rank": 4,
+          "rank": 5,
           "score": 8.5,
           "scores": {
             "performance": 8.5,
@@ -234,7 +262,7 @@
         },
         {
           "id": "lenovo-yoga-9i-2in1-aura",
-          "rank": 5,
+          "rank": 6,
           "score": 8.3,
           "scores": {
             "performance": 8.5,
@@ -246,7 +274,7 @@
         },
         {
           "id": "razer-blade-16",
-          "rank": 6,
+          "rank": 7,
           "score": 8.2,
           "scores": {
             "performance": 9.5,
@@ -258,7 +286,7 @@
         },
         {
           "id": "microsoft-surface-pro-11",
-          "rank": 7,
+          "rank": 8,
           "score": 8.0,
           "scores": {
             "performance": 8.0,
@@ -270,7 +298,7 @@
         },
         {
           "id": "hp-spectre-x360-14",
-          "rank": 8,
+          "rank": 9,
           "score": 7.9,
           "scores": {
             "performance": 8.0,
@@ -282,7 +310,7 @@
         },
         {
           "id": "acer-swift-go-16",
-          "rank": 9,
+          "rank": 10,
           "score": 7.7,
           "scores": {
             "performance": 7.5,
@@ -294,7 +322,7 @@
         },
         {
           "id": "acer-aspire-go-15",
-          "rank": 10,
+          "rank": 11,
           "score": 7.0,
           "scores": {
             "performance": 6.5,
@@ -339,14 +367,18 @@
       ],
       "i18n": {
         "en": {
-          "commentary": "The MacBook Air 13-inch M5 earns the top spot by delivering what most laptop buyers actually need: exceptional battery life, fanless silence, and enough raw performance to handle everyday creative and professional work. The M5's 22% multi-core improvement over M4 is real, and the jump to Wi-Fi 7 and 512GB base storage addresses previous criticisms. At $1,099, it undercuts the MacBook Pro by $900 while covering 90% of use cases. The MacBook Pro 14-inch M4 Pro takes second — for video editors, developers running heavy simulations, and anyone who needs the 120Hz ProMotion display's sustained peak performance, the extra $900 justifies itself quickly. The Dell XPS 14's 2026 refresh with Intel Panther Lake is the most compelling Windows answer I've seen: 25+ hours of real-world battery and an optional OLED display at $1,399 make it a genuine MacBook Air alternative for Windows users. The ASUS Zenbook S 14 OLED earns fourth with aggressive pricing, an OLED panel that outshines competitors at double the price, and 32GB of RAM at $999. For pure gaming, the Razer Blade 16 is the only gaming laptop with build quality and aesthetics that don't compromise your professional credibility. Its RTX 5080 is genuinely transformative for GPU workloads. The Surface Pro 11 and Acer Swift Go 16 round out the value segments — the Swift Go 16's $699 OLED display remains one of the best screen-for-dollar deals in the market today.",
+          "commentary": "The MacBook Air 13-inch M5 earns the top spot by delivering what most laptop buyers actually need: exceptional battery life, fanless silence, and enough raw performance to handle everyday creative and professional work. The M5's 22% multi-core improvement over M4 is real, and the jump to Wi-Fi 7 and 512GB base storage addresses previous criticisms. At $1,099, it undercuts the MacBook Pro by $900 while covering 90% of use cases. The MacBook Pro 14-inch M4 Pro takes second for video editors, developers running heavy simulations, and anyone who needs the 120Hz ProMotion display's sustained peak performance.\n\nThe ASUS Zenbook A16 earns rank 3 and is the most impressive Windows laptop to debut at CES 2026. Snapdragon X2 Elite Extreme with 48GB RAM, a 3K 120Hz OLED display, 21-plus-hour battery life, all at 1.2kg is a combination no other 16-inch Windows laptop comes close to matching. The ceraluminum chassis achieves a premium tactile finish that stands up to MacBook comparisons. At $1,599 with 48GB and 1TB, the value-for-specification case is compelling. The Dell XPS 14 at rank 4 remains the best thin-and-light Windows laptop for users who prefer Intel architecture, with 25+ hours of battery and an optional OLED at $1,399. The ASUS Zenbook S 14 OLED at rank 5 holds its position as the best value 14-inch OLED on the market at $999 with 32GB RAM. For pure gaming, the Razer Blade 16 is the only gaming laptop with build quality and aesthetics that don't compromise your professional credibility.",
           "highlights": [
             {
               "title": "MacBook Air M5 is still the best laptop for most people",
               "body": "The M5 chip's 22% multi-core gain, combined with Wi-Fi 7 and doubled base storage, closes the gap with the MacBook Pro enough that most users have no reason to spend more. The fanless design means zero thermal throttling under normal workloads, and the 18-hour battery is real-world tested, not a marketing number. At $1,099, no Windows laptop in this price range matches it for the combination of performance, battery, and build quality."
             },
             {
-              "title": "Dell XPS 14 is the strongest Windows challenger yet",
+              "title": "ASUS Zenbook A16 is the most impressive Windows ultrabook to debut at CES 2026",
+              "body": "The Zenbook A16 combines Snapdragon X2 Elite Extreme, 48GB RAM, a 16-inch 3K 120Hz OLED display, Wi-Fi 7, and over 21 hours of battery life in a 1.2kg ceraluminum chassis at $1,599. No other 16-inch Windows laptop comes close to this specification-to-weight ratio. The Snapdragon X2 Elite Extreme's 18-core CPU and 80 TOPS NPU deliver sustained performance across creative, development, and AI workloads. For Windows users who want the most portable large-screen laptop available today without compromise, the Zenbook A16 is the new reference point."
+            },
+            {
+              "title": "Dell XPS 14 is the strongest Intel Windows challenger yet",
               "body": "Intel's Panther Lake architecture delivers a generational leap in efficiency, and Dell has put it in a chassis that finally matches MacBook-level build quality. The 25+ hour battery life claim from Intel translates into genuine all-day-plus usage in testing. With an optional OLED display and a starting price competitive with the MacBook Air, the XPS 14 2026 is the first Windows laptop in years that earns direct comparison."
             },
             {
@@ -364,15 +396,19 @@
           ]
         },
         "zh-tw": {
-          "commentary": "MacBook Air 13 吋 M5 拿第一，理由說起來很直白：大多數人買筆電要的東西，它全做到了。M5 比 M4 快 22%，Wi-Fi 7、512GB 起跳，電池 18 小時不是假的，機身安靜得什麼聲音都沒有。台幣三萬多，砍掉了 MacBook Pro 九成的售價差，卻涵蓋了九成的使用情境。\n\nMacBook Pro 14 吋 M4 Pro 排第二，給剪片、跑模擬器、需要 ProMotion 螢幕的人。120Hz、M4 Pro 的持續效能、更亮的螢幕，那六萬多的售價對這群人是合理的。\n\nDell XPS 14 拿下 Windows 陣營第一，Intel Panther Lake 新架構讓電池突破 25 小時，這個數字在 Windows 筆電裡是里程碑，加上可選 OLED 螢幕，這是我目前見過最直接挑戰 MacBook Air 的 Windows 輕薄本。\n\nASUS Zenbook S 14 OLED 給台幣三萬以內預算最好的螢幕，OLED 面板色準超越兩倍價格的競品，32GB 記憶體加持，CP 值在這份榜單裡沒有對手。\n\nRazer Blade 16 是電競筆電裡唯一做到拿去客戶會議不丟臉的機型，RTX 5080 跑渲染、跑 AI 推理都是碾壓級，電池是弱點，但如果你要的就是最強 GPU，這台沒有替代品。",
+          "commentary": "MacBook Air 13 吋 M5 拿第一，理由說起來很直白：大多數人買筆電要的東西，它全做到了。M5 比 M4 快 22%，Wi-Fi 7、512GB 起跳，電池 18 小時不是假的，機身安靜得什麼聲音都沒有。台幣三萬多，砍掉了 MacBook Pro 九成的售價差，卻涵蓋了九成的使用情境。\n\nMacBook Pro 14 吋 M4 Pro 排第二，給剪片、跑模擬器、需要 ProMotion 螢幕的人。120Hz、M4 Pro 的持續效能、更亮的螢幕，那六萬多的售價對這群人是合理的。\n\nASUS Zenbook A16 進榜直接拿第三，是 CES 2026 讓我最認真看的 Windows 輕薄本。Snapdragon X2 Elite Extreme 加 48GB 記憶體，16 吋 3K 120Hz OLED 螢幕，電池超過 21 小時，機身只有 1.2 公斤，這個規格組合在 16 吋 Windows 筆電裡找不到競品。陶瓷鋁合金外殼的觸感和質感都站得住腳，約台幣五萬出頭含 48GB 和 1TB，對這份規格來說 CP 值說得通。\n\nDell XPS 14 排第四，Intel 架構的 Windows 輕薄本裡最強的一台，Panther Lake 讓電池突破 25 小時，加上可選 OLED，台幣四萬多的售價在 Windows 旗艦中有競爭力。\n\nASUS Zenbook S 14 OLED 排第五，台幣三萬以內螢幕最好的選擇，OLED 色準超越兩倍價位競品，32GB 記憶體加持，CP 值在這份榜單裡依然無人能及。\n\nRazer Blade 16 是電競筆電裡唯一做到拿去客戶會議不丟臉的機型，RTX 5080 跑渲染、跑 AI 推理都是碾壓級，電池是弱點，但如果你要的就是最強 GPU，這台沒有替代品。",
           "highlights": [
             {
               "title": "MacBook Air M5 是多數人的筆電終點答案",
               "body": "M5 多核心效能比 M4 快 22%，Wi-Fi 7、512GB 起跳解決了舊版被批評的痛點，18 小時電池是實測數字。風扇不存在，所以沒有熱當問題，一般辦公創作場景下效能全程穩定輸出。台幣三萬多這個價位，在這份榜單裡沒有任何 Windows 筆電在效能、電池、做工三項全部贏它。"
             },
             {
-              "title": "Dell XPS 14 是 Windows 陣營最強的一次反攻",
-              "body": "Intel Panther Lake 的效率架構讓 XPS 14 的電池突破 25 小時，這個數字在 Windows 世界是里程碑。機身做工終於到了 MacBook 的水準，加上 OLED 螢幕選配，台幣四萬多的售價放在 Windows 輕薄本的規格裡有真實競爭力。這是這幾年第一台讓我覺得可以直接跟 MacBook Air 比的 Windows 筆電。"
+              "title": "ASUS Zenbook A16 是 CES 2026 最讓人認真看的 Windows 輕薄本",
+              "body": "16 吋機身只有 1.2 公斤，這件事本身就很驚人。再加上 Snapdragon X2 Elite Extreme、48GB 記憶體、3K 120Hz OLED 螢幕、21 小時以上電池，這個規格在 16 吋 Windows 筆電裡找不到競品。陶瓷鋁合金外殼的觸感站得住腳，約台幣五萬出頭含 48GB 和 1TB SSD，對這份規格 CP 值說得通。想要大螢幕又不想揹重機的人，Zenbook A16 是 2026 年目前的第一選擇。"
+            },
+            {
+              "title": "Dell XPS 14 是 Intel 架構 Windows 陣營最強的一次反攻",
+              "body": "Intel Panther Lake 的效率架構讓 XPS 14 的電池突破 25 小時，這個數字在 Windows 世界是里程碑。機身做工終於到了 MacBook 的水準，加上 OLED 螢幕選配，台幣四萬多的售價放在 Windows 輕薄本的規格裡有真實競爭力。偏好 Intel 架構和 x86 軟體相容性的用戶，這是最直接的選擇。"
             },
             {
               "title": "ASUS Zenbook S 14 OLED 是台幣三萬以內螢幕最好的筆電",
