@@ -1,0 +1,384 @@
+{
+  "slug": "best-laptops",
+  "category": "Electronics",
+  "scoreFactors": {
+    "performance": "Performance",
+    "display": "Display Quality",
+    "battery": "Battery Life",
+    "portability": "Portability & Build",
+    "value": "Value for Money"
+  },
+  "i18n": {
+    "en": {
+      "title": "Best Laptops 2026",
+      "description": "Tracks the top laptops across all budgets, from ultraportable MacBooks to Windows powerhouses and gaming rigs."
+    },
+    "zh-tw": {
+      "title": "最佳筆電 2026",
+      "description": "追蹤各預算最佳筆電排行，從輕薄 MacBook 到 Windows 生產力主力機與電競機皆涵蓋。"
+    }
+  },
+  "competitors": [
+    {
+      "id": "macbook-air-13-m5",
+      "name": "MacBook Air 13-inch (M5)",
+      "brand": "Apple",
+      "url": "https://www.apple.com/macbook-air/",
+      "priceRange": "$1,099",
+      "i18n": {
+        "en": {
+          "description": "Apple's M5-powered ultraportable with Wi-Fi 7, 18-hour battery, 512GB base storage, and a 10-core CPU that benchmarks 22% faster than M4."
+        },
+        "zh-tw": {
+          "description": "M5 晶片讓 CPU 效能比 M4 快 22%，AI 處理速度快四倍，Wi-Fi 7、512GB 起跳，電池撐 18 小時的輕薄本，台幣三萬多的售價買的是這個重量下最強的效能。"
+        }
+      }
+    },
+    {
+      "id": "macbook-pro-14-m4-pro",
+      "name": "MacBook Pro 14-inch (M4 Pro)",
+      "brand": "Apple",
+      "url": "https://www.apple.com/shop/buy-mac/macbook-pro/14-inch",
+      "priceRange": "$1,999",
+      "i18n": {
+        "en": {
+          "description": "Apple's professional laptop with a 120Hz ProMotion display, 24GB unified memory, and M4 Pro chip delivering sustained performance for video editing and software development."
+        },
+        "zh-tw": {
+          "description": "120Hz ProMotion 螢幕、M4 Pro 晶片、24GB 記憶體，剪 4K 影片、跑 Xcode 模擬器毫無壓力，台幣六萬多買到的是這個螢幕尺寸裡最強的持續效能。"
+        }
+      }
+    },
+    {
+      "id": "dell-xps-14-2026",
+      "name": "XPS 14 (2026)",
+      "brand": "Dell",
+      "url": "https://www.dell.com/en-us/shop/dell-laptops/xps-14-laptop/spd/xps-14-9440-laptop",
+      "priceRange": "$1,399",
+      "i18n": {
+        "en": {
+          "description": "Dell's flagship thin-and-light Windows laptop powered by Intel Panther Lake, delivering 25+ hour battery life and a stunning OLED display option."
+        },
+        "zh-tw": {
+          "description": "Intel Panther Lake 新架構讓續航突破 25 小時，搭配可選 OLED 螢幕，這台是目前效能、螢幕、電池三者最均衡的 Windows 輕薄本，台幣四萬多的售價在 Windows 旗艦中有競爭力。"
+        }
+      }
+    },
+    {
+      "id": "asus-zenbook-s14-oled",
+      "name": "Zenbook S 14 OLED (UX5406)",
+      "brand": "ASUS",
+      "url": "https://www.asus.com/us/laptops/for-home/zenbook/asus-zenbook-s-14-ux5406/",
+      "priceRange": "$999",
+      "i18n": {
+        "en": {
+          "description": "ASUS's premium ultrabook with an OLED display, Intel Core Ultra 7 258V, 32GB RAM, and Thunderbolt 4, hitting the sweet spot between performance and affordability."
+        },
+        "zh-tw": {
+          "description": "OLED 螢幕、Intel Core Ultra 7、32GB 記憶體、Thunderbolt 4，不到台幣三萬的定價是這份榜單最高 CP 值的存在，螢幕色準和對比直接超越兩倍價格的競品。"
+        }
+      }
+    },
+    {
+      "id": "lenovo-yoga-9i-2in1-aura",
+      "name": "Yoga 9i 2-in-1 Aura Edition",
+      "brand": "Lenovo",
+      "url": "https://www.lenovo.com/us/en/laptops/yoga/yoga-9-series/",
+      "priceRange": "$1,499",
+      "i18n": {
+        "en": {
+          "description": "Lenovo's top-tier 2-in-1 with Intel Core Ultra 7 258V, 32GB RAM, an OLED display, and a 360-degree hinge for tablet and tent modes."
+        },
+        "zh-tw": {
+          "description": "可 360 度翻轉的旗艦二合一，Intel Core Ultra 7、32GB 記憶體、OLED 螢幕，帶著去開會寫報告，翻面當平板看資料，台幣四萬五左右的售價是二合一品類裡做工最紮實的選擇。"
+        }
+      }
+    },
+    {
+      "id": "razer-blade-16",
+      "name": "Blade 16",
+      "brand": "Razer",
+      "url": "https://www.razer.com/gaming-laptops/razer-blade-16",
+      "priceRange": "$2,999",
+      "i18n": {
+        "en": {
+          "description": "Razer's flagship gaming laptop with a 16-inch QHD+ 240Hz display, NVIDIA RTX 5080, and a CNC aluminum chassis that sets the standard for premium gaming notebooks."
+        },
+        "zh-tw": {
+          "description": "RTX 5080、240Hz QHD+ 螢幕、航太鋁合金機身，電競筆電裡做工最接近 MacBook 的存在，台幣九萬多的售價貴，但買的是那個做工質感和遊戲效能同時到位的電競筆電。"
+        }
+      }
+    },
+    {
+      "id": "microsoft-surface-pro-11",
+      "name": "Surface Pro 11",
+      "brand": "Microsoft",
+      "url": "https://www.microsoft.com/en-us/store/b/buy-surface-pro",
+      "priceRange": "$999",
+      "i18n": {
+        "en": {
+          "description": "Microsoft's detachable 2-in-1 tablet with Snapdragon X Plus, Copilot+ AI features, Wi-Fi 7, and a 13-inch 2.8K 120Hz display in an ultra-thin form factor."
+        },
+        "zh-tw": {
+          "description": "Snapdragon X Plus 搭配 Copilot+ AI 功能，13 吋 2.8K 120Hz 螢幕，可拆鍵盤讓它在平板和筆電間自由切換，台幣三萬多起跳是想要 Windows 平板體驗最直接的選擇。"
+        }
+      }
+    },
+    {
+      "id": "hp-spectre-x360-14",
+      "name": "Spectre x360 14",
+      "brand": "HP",
+      "url": "https://www.hp.com/us-en/shop/slp/spectre-laptops",
+      "priceRange": "$1,399",
+      "i18n": {
+        "en": {
+          "description": "HP's premium convertible with a 14-hour battery, OLED display option, and a distinctive angular design that stands out in the Windows ultrabook market."
+        },
+        "zh-tw": {
+          "description": "HP 旗艦二合一，獨特切角設計讓它在商務場合辨識度很高，OLED 螢幕選配、14 小時以上電池，台幣四萬多的售價在 HP 陣營是做工質感最好的一台。"
+        }
+      }
+    },
+    {
+      "id": "acer-swift-go-16",
+      "name": "Swift Go 16",
+      "brand": "Acer",
+      "url": "https://www.acer.com/us-en/laptops/swift/swift-go-16",
+      "priceRange": "$699",
+      "i18n": {
+        "en": {
+          "description": "Acer's value-focused ultrabook with a 16-inch OLED display, Intel Core Ultra 5, and a sub-$700 price that delivers premium display quality without the premium price tag."
+        },
+        "zh-tw": {
+          "description": "台幣兩萬多就能拿到 16 吋 OLED 螢幕，Intel Core Ultra 5 日常辦公剪輕影片沒問題，預算有限但又想要好螢幕的人，這台是我目前看到最實在的選擇。"
+        }
+      }
+    },
+    {
+      "id": "acer-aspire-go-15",
+      "name": "Aspire Go 15",
+      "brand": "Acer",
+      "url": "https://www.acer.com/us-en/laptops/aspire/aspire-go-15",
+      "priceRange": "$399",
+      "i18n": {
+        "en": {
+          "description": "Acer's entry-level 15-inch laptop for students and light users, covering web browsing, document editing, and video streaming at the most accessible price on this list."
+        },
+        "zh-tw": {
+          "description": "台幣一萬兩千左右的入門 15 吋筆電，上課做報告、看 YouTube、跑 Office 夠用，給第一台筆電預算有限的學生，這台是榜單裡最親民的起點。"
+        }
+      }
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-04-02",
+      "rankings": [
+        {
+          "id": "macbook-air-13-m5",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "performance": 9.0,
+            "display": 9.0,
+            "battery": 9.5,
+            "portability": 9.5,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "macbook-pro-14-m4-pro",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "performance": 9.5,
+            "display": 9.5,
+            "battery": 9.0,
+            "portability": 8.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "dell-xps-14-2026",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "performance": 8.5,
+            "display": 9.0,
+            "battery": 9.0,
+            "portability": 8.5,
+            "value": 8.3
+          }
+        },
+        {
+          "id": "asus-zenbook-s14-oled",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "performance": 8.5,
+            "display": 9.5,
+            "battery": 8.5,
+            "portability": 8.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "lenovo-yoga-9i-2in1-aura",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "performance": 8.5,
+            "display": 8.5,
+            "battery": 8.5,
+            "portability": 8.0,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "razer-blade-16",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "performance": 9.5,
+            "display": 9.0,
+            "battery": 6.5,
+            "portability": 6.0,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "microsoft-surface-pro-11",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "performance": 8.0,
+            "display": 8.5,
+            "battery": 8.5,
+            "portability": 8.5,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "hp-spectre-x360-14",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "performance": 8.0,
+            "display": 8.5,
+            "battery": 8.0,
+            "portability": 8.0,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "acer-swift-go-16",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "performance": 7.5,
+            "display": 8.5,
+            "battery": 8.0,
+            "portability": 8.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "acer-aspire-go-15",
+          "rank": 10,
+          "score": 7.0,
+          "scores": {
+            "performance": 6.5,
+            "display": 7.0,
+            "battery": 7.5,
+            "portability": 8.0,
+            "value": 8.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "MacBook Air M5 Review: Almost Perfect",
+          "url": "https://www.tomsguide.com/computing/macbooks/macbook-air-m5-review",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "The best laptops in 2026 — tested, reviewed, and worth your money",
+          "url": "https://www.tomsguide.com/computing/laptops/best-laptops",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "Best Ultrabooks and Premium Laptops 2026",
+          "url": "https://www.tomshardware.com/best-picks/best-ultrabooks-premium-laptops",
+          "source": "Tom's Hardware"
+        },
+        {
+          "title": "The best laptops you can buy in 2026, tested and reviewed",
+          "url": "https://www.engadget.com/computing/laptops/best-laptops-120008636.html",
+          "source": "Engadget"
+        },
+        {
+          "title": "M5 MacBook Air review: Incremental update but the best buy for most",
+          "url": "https://appleinsider.com/articles/26/03/30/m5-macbook-air-review-incremental-update-but-the-best-buy-for-most",
+          "source": "AppleInsider"
+        },
+        {
+          "title": "Apple MacBook Air (13-inch, M5) review: Steady as it goes",
+          "url": "https://www.tomshardware.com/laptops/macbooks/apple-macbook-air-13-inch-m5-review",
+          "source": "Tom's Hardware"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The MacBook Air 13-inch M5 earns the top spot by delivering what most laptop buyers actually need: exceptional battery life, fanless silence, and enough raw performance to handle everyday creative and professional work. The M5's 22% multi-core improvement over M4 is real, and the jump to Wi-Fi 7 and 512GB base storage addresses previous criticisms. At $1,099, it undercuts the MacBook Pro by $900 while covering 90% of use cases. The MacBook Pro 14-inch M4 Pro takes second — for video editors, developers running heavy simulations, and anyone who needs the 120Hz ProMotion display's sustained peak performance, the extra $900 justifies itself quickly. The Dell XPS 14's 2026 refresh with Intel Panther Lake is the most compelling Windows answer I've seen: 25+ hours of real-world battery and an optional OLED display at $1,399 make it a genuine MacBook Air alternative for Windows users. The ASUS Zenbook S 14 OLED earns fourth with aggressive pricing, an OLED panel that outshines competitors at double the price, and 32GB of RAM at $999. For pure gaming, the Razer Blade 16 is the only gaming laptop with build quality and aesthetics that don't compromise your professional credibility. Its RTX 5080 is genuinely transformative for GPU workloads. The Surface Pro 11 and Acer Swift Go 16 round out the value segments — the Swift Go 16's $699 OLED display remains one of the best screen-for-dollar deals in the market today.",
+          "highlights": [
+            {
+              "title": "MacBook Air M5 is still the best laptop for most people",
+              "body": "The M5 chip's 22% multi-core gain, combined with Wi-Fi 7 and doubled base storage, closes the gap with the MacBook Pro enough that most users have no reason to spend more. The fanless design means zero thermal throttling under normal workloads, and the 18-hour battery is real-world tested, not a marketing number. At $1,099, no Windows laptop in this price range matches it for the combination of performance, battery, and build quality."
+            },
+            {
+              "title": "Dell XPS 14 is the strongest Windows challenger yet",
+              "body": "Intel's Panther Lake architecture delivers a generational leap in efficiency, and Dell has put it in a chassis that finally matches MacBook-level build quality. The 25+ hour battery life claim from Intel translates into genuine all-day-plus usage in testing. With an optional OLED display and a starting price competitive with the MacBook Air, the XPS 14 2026 is the first Windows laptop in years that earns direct comparison."
+            },
+            {
+              "title": "ASUS Zenbook S 14 OLED offers the best screen-per-dollar on this list",
+              "body": "The 120Hz OLED panel on the Zenbook S 14 achieves color accuracy and contrast ratios that shame laptops at twice the price. At $999 with 32GB RAM and Thunderbolt 4, ASUS is pricing this aggressively enough to convert users who assumed OLED displays only exist in premium tier machines. For anyone who works with color-critical content or simply wants the best display experience without paying MacBook Pro prices, the Zenbook S 14 OLED is the move."
+            },
+            {
+              "title": "Razer Blade 16 sets the standard for gaming laptops that don't look like gaming laptops",
+              "body": "The RTX 5080 in the Blade 16 is a meaningful generational upgrade for GPU-intensive tasks: real-time ray tracing, AI inference, and video rendering all benefit substantially. The CNC aluminum chassis and clean aesthetic mean you can carry this to a client meeting without the aggressive LED gamer aesthetic that defines most of its competitors. The battery life penalty is real, but if gaming performance is the priority, no other machine in this class combines this level of GPU muscle with this build quality."
+            },
+            {
+              "title": "Acer Swift Go 16 redefines what a $699 laptop can look like",
+              "body": "An OLED display at this price point was unthinkable two years ago. Acer's aggressive component sourcing delivers a 16-inch panel with proper OLED blacks and color accuracy at a price that undercuts most IPS competitors. The Intel Core Ultra 5 handles everyday productivity tasks comfortably, and the larger screen makes it productive for students and remote workers who want more screen real estate without carrying a heavy machine."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "MacBook Air 13 吋 M5 拿第一，理由說起來很直白：大多數人買筆電要的東西，它全做到了。M5 比 M4 快 22%，Wi-Fi 7、512GB 起跳，電池 18 小時不是假的，機身安靜得什麼聲音都沒有。台幣三萬多，砍掉了 MacBook Pro 九成的售價差，卻涵蓋了九成的使用情境。\n\nMacBook Pro 14 吋 M4 Pro 排第二，給剪片、跑模擬器、需要 ProMotion 螢幕的人。120Hz、M4 Pro 的持續效能、更亮的螢幕，那六萬多的售價對這群人是合理的。\n\nDell XPS 14 拿下 Windows 陣營第一，Intel Panther Lake 新架構讓電池突破 25 小時，這個數字在 Windows 筆電裡是里程碑，加上可選 OLED 螢幕，這是我目前見過最直接挑戰 MacBook Air 的 Windows 輕薄本。\n\nASUS Zenbook S 14 OLED 給台幣三萬以內預算最好的螢幕，OLED 面板色準超越兩倍價格的競品，32GB 記憶體加持，CP 值在這份榜單裡沒有對手。\n\nRazer Blade 16 是電競筆電裡唯一做到拿去客戶會議不丟臉的機型，RTX 5080 跑渲染、跑 AI 推理都是碾壓級，電池是弱點，但如果你要的就是最強 GPU，這台沒有替代品。",
+          "highlights": [
+            {
+              "title": "MacBook Air M5 是多數人的筆電終點答案",
+              "body": "M5 多核心效能比 M4 快 22%，Wi-Fi 7、512GB 起跳解決了舊版被批評的痛點，18 小時電池是實測數字。風扇不存在，所以沒有熱當問題，一般辦公創作場景下效能全程穩定輸出。台幣三萬多這個價位，在這份榜單裡沒有任何 Windows 筆電在效能、電池、做工三項全部贏它。"
+            },
+            {
+              "title": "Dell XPS 14 是 Windows 陣營最強的一次反攻",
+              "body": "Intel Panther Lake 的效率架構讓 XPS 14 的電池突破 25 小時，這個數字在 Windows 世界是里程碑。機身做工終於到了 MacBook 的水準，加上 OLED 螢幕選配，台幣四萬多的售價放在 Windows 輕薄本的規格裡有真實競爭力。這是這幾年第一台讓我覺得可以直接跟 MacBook Air 比的 Windows 筆電。"
+            },
+            {
+              "title": "ASUS Zenbook S 14 OLED 是台幣三萬以內螢幕最好的筆電",
+              "body": "OLED 面板的色準和對比把兩倍價格的競品壓在地上，這不是行銷說法，是實測數字。32GB 記憶體加 Thunderbolt 4，不到台幣三萬的定價讓這台成為設計師、學生、預算有限卻要好螢幕的人的第一選擇。選擇 OLED 螢幕不一定要付 MacBook Pro 的錢，這台證明了這件事。"
+            },
+            {
+              "title": "Razer Blade 16 是電競筆電裡做工質感的天花板",
+              "body": "RTX 5080 在跑遊戲、AI 推理、3D 渲染的場景下比上一代有質的飛躍，不是微幅提升。航太鋁合金機身、低調外觀，帶去辦公室或客戶會議不會有奇怪的視線。電池撐不了太久是事實，但如果你買的是最強 GPU 效能，台灣市場這個價位沒有替代品。"
+            },
+            {
+              "title": "Acer Swift Go 16 讓 OLED 螢幕普及到台幣兩萬等級",
+              "body": "兩年前這個價位能買到 OLED 螢幕是不可能的事。Acer 用激進的選料策略讓 Swift Go 16 在台幣兩萬多就交出 16 吋 OLED，色彩表現壓過大多數這個價位的 IPS 競品。Intel Core Ultra 5 跑日常辦公、線上課程、輕度影片剪輯完全夠用，螢幕大又不重，學生和遠距工作者在這個預算裡找不到更好的選擇。"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
