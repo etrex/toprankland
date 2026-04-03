@@ -210,6 +210,22 @@
           "priceRange": "NT$16,990"
         }
       }
+    },
+    {
+      "id": "samsung-gw8",
+      "name": "Samsung Galaxy Watch 8",
+      "brand": "Samsung",
+      "url": "https://www.samsung.com/us/watches/galaxy-watch8/",
+      "i18n": {
+        "en": {
+          "description": "Galaxy Watch 7 successor with Google Gemini AI, One UI 8 Watch, 3000-nit display, and BioActive Sensor 3.0 for comprehensive Android health tracking",
+          "priceRange": "$349+"
+        },
+        "zh-tw": {
+          "description": "Galaxy Watch 7 的正式接班款，Gemini AI 整合搭配 One UI 8 Watch，3000 尼特螢幕比前代更亮更薄，BioActive Sensor 3.0 涵蓋心率、ECG、體成分、血壓監測，台幣一萬一九九起，Android 日常旗艦錶的標準選擇。",
+          "priceRange": "NT$11,990+"
+        }
+      }
     }
   ],
   "history": [
@@ -1432,6 +1448,18 @@
             "display": 7.5,
             "ecosystem": 5.5,
             "value": 8.0
+          }
+        },
+        {
+          "id": "samsung-gw8",
+          "rank": 13,
+          "score": 8.6,
+          "scores": {
+            "health": 8.8,
+            "battery": 8.0,
+            "display": 9.0,
+            "ecosystem": 9.0,
+            "value": 8.5
           }
         }
       ],
