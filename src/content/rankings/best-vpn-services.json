@@ -952,21 +952,143 @@
     {
       "date": "2026-04-02",
       "rankings": [
-        { "id": "mullvad", "rank": 1, "score": 9.2, "scores": { "privacy": 9.9, "speed": 8.5, "network": 8, "usability": 8.5, "price": 9.5 } },
-        { "id": "protonvpn", "rank": 2, "score": 9.1, "scores": { "privacy": 9.6, "speed": 8.8, "network": 9, "usability": 9, "price": 8 } },
-        { "id": "nordvpn", "rank": 3, "score": 8.7, "scores": { "privacy": 8.3, "speed": 9, "network": 9.5, "usability": 9, "price": 8.5 } },
-        { "id": "ivpn", "rank": 4, "score": 8.6, "scores": { "privacy": 9.7, "speed": 8.2, "network": 7.5, "usability": 8, "price": 8.5 } },
-        { "id": "expressvpn", "rank": 5, "score": 8.4, "scores": { "privacy": 8, "speed": 9.2, "network": 9, "usability": 9.3, "price": 7 } },
-        { "id": "surfshark", "rank": 6, "score": 8.2, "scores": { "privacy": 7.8, "speed": 8.8, "network": 9, "usability": 9, "price": 9.5 } },
-        { "id": "windscribe", "rank": 7, "score": 8, "scores": { "privacy": 8.5, "speed": 8, "network": 8, "usability": 8.5, "price": 9 } },
-        { "id": "airvpn", "rank": 8, "score": 7.8, "scores": { "privacy": 9.3, "speed": 7.8, "network": 7.5, "usability": 7, "price": 8.5 } },
-        { "id": "pia", "rank": 9, "score": 7.6, "scores": { "privacy": 8.5, "speed": 8, "network": 9.5, "usability": 8, "price": 9.5 } },
-        { "id": "cyberghost", "rank": 10, "score": 7.2, "scores": { "privacy": 7, "speed": 8, "network": 9.2, "usability": 9, "price": 8.5 } }
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.9,
+            "speed": 8.5,
+            "network": 8,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.6,
+            "speed": 8.8,
+            "network": 9,
+            "usability": 9,
+            "price": 8
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "privacy": 8.3,
+            "speed": 9,
+            "network": 9.5,
+            "usability": 9,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.7,
+            "speed": 8.2,
+            "network": 7.5,
+            "usability": 8,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.4,
+          "scores": {
+            "privacy": 8,
+            "speed": 9.2,
+            "network": 9,
+            "usability": 9.3,
+            "price": 7
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.8,
+            "speed": 8.8,
+            "network": 9,
+            "usability": 9,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 8,
+            "network": 8,
+            "usability": 8.5,
+            "price": 9
+          }
+        },
+        {
+          "id": "airvpn",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "privacy": 9.3,
+            "speed": 7.8,
+            "network": 7.5,
+            "usability": 7,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "pia",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 8,
+            "network": 9.5,
+            "usability": 8,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "cyberghost",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "privacy": 7,
+            "speed": 8,
+            "network": 9.2,
+            "usability": 9,
+            "price": 8.5
+          }
+        }
       ],
       "references": [
-        { "title": "FISA renewal debate raises new questions about VPN users and warrantless surveillance", "url": "https://proton.me/blog/fisa-702-vpn-surveillance-risk", "source": "Proton" },
-        { "title": "Russia's New VPN Crackdown: Fines Fees And The Quiet War On Digital Privacy", "url": "https://www.webanditnews.com/2026/04/01/russias-new-vpn-crackdown-fines-fees-and-the-quiet-war-on-digital-privacy/", "source": "Web and IT News" },
-        { "title": "Legislation loopholes and loose ends what does 2026 hold for the VPN industry", "url": "https://www.techradar.com/vpn/vpn-services/legislation-loopholes-and-loose-ends-what-does-2026-hold-for-the-vpn-industry", "source": "TechRadar" }
+        {
+          "title": "FISA renewal debate raises new questions about VPN users and warrantless surveillance",
+          "url": "https://proton.me/blog/fisa-702-vpn-surveillance-risk",
+          "source": "Proton"
+        },
+        {
+          "title": "Russia's New VPN Crackdown: Fines Fees And The Quiet War On Digital Privacy",
+          "url": "https://www.webanditnews.com/2026/04/01/russias-new-vpn-crackdown-fines-fees-and-the-quiet-war-on-digital-privacy/",
+          "source": "Web and IT News"
+        },
+        {
+          "title": "Legislation loopholes and loose ends what does 2026 hold for the VPN industry",
+          "url": "https://www.techradar.com/vpn/vpn-services/legislation-loopholes-and-loose-ends-what-does-2026-hold-for-the-vpn-industry",
+          "source": "TechRadar"
+        }
       ],
       "i18n": {
         "en": {
@@ -1008,6 +1130,197 @@
             {
               "title": "Mullvad 的無帳號架構代表在任何法律程序下都沒有任何東西可以被要求交出",
               "body": "Mullvad 用隨機帳號號碼，不要電郵、不要姓名、不連結支付身份，在技術上不可能把流量和用戶身份關聯起來，即使被強制要求也做不到。在 FISA 第 702 條辯論和俄羅斯管制的背景下，承諾不記錄日誌的 VPN 和在架構上不可能記錄日誌的 VPN 之間的差別，是對面臨真實對抗場景的用戶最重要的選擇依據。2023 年瑞典警察帶著法院命令突擊 Mullvad 並空手離開，這是任何主流 VPN 目前唯一的真實壓力測試記錄。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-04-03",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 9.0,
+            "network": 8.5,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 9.0,
+            "network": 9.0,
+            "usability": 9.0,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.5,
+            "network": 9.5,
+            "usability": 9.0,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.5,
+            "network": 7.5,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.4,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 9.5,
+            "network": 9.0,
+            "usability": 9.0,
+            "price": 7.5
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 8.5,
+            "network": 8.5,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 7.5,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "airvpn",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "privacy": 9.0,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 7.0,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "pia",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.0,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "cyberghost",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "privacy": 6.5,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "The Best VPN Services of 2026: 50+ VPNs Tested & Ranked",
+          "url": "https://www.security.org/vpn/best/",
+          "source": "Security.org"
+        },
+        {
+          "title": "The best VPN in 2026: our top 5 picks",
+          "url": "https://www.tomsguide.com/best-picks/best-vpn",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "Best VPN services 2026: tested and reviewed",
+          "url": "https://www.techradar.com/vpn/best-vpn",
+          "source": "TechRadar"
+        },
+        {
+          "title": "Best VPN of 2026: Top 7 Picks From Hands-On Testing",
+          "url": "https://thebestvpn.com/",
+          "source": "TheBestVPN"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The FISA Section 702 reauthorization debate continues in the US Senate with the April 20 deadline approaching. Senate Democrats are pushing for warrant requirements on US persons data, which would affect how US-based VPN infrastructure handles government requests. This doesn't change the rankings, but it strengthens the case for Mullvad and IVPN specifically: both have no-account-required architecture and have undergone independent audits confirming zero-log claims. For users who consider US jurisdiction exposure a risk factor, these two services offer the cleanest privacy architecture on this list.\n\nMullvad holds rank 1 for the same reasons it has for years: no account system, cash and Monero payment accepted, independently audited, and €5/month with no long-term commitment required. The privacy-first architecture is not marketing; it's built into the product so that even if compelled, Mullvad has no user data to provide.\n\nProtonVPN at rank 2 continues to earn its position through the combination of Swiss jurisdiction, open-source clients, Stealth protocol for deep packet inspection environments, and the Proton ecosystem integration for users who also use ProtonMail or ProtonDrive. NordVPN holds rank 3 for speed and network reach. Its Threat Protection Pro feature, which blocks ads and malware at the DNS level, adds genuine utility beyond connection security.",
+          "highlights": [
+            {
+              "title": "FISA 702 debate makes Mullvad and IVPN's no-account architecture more relevant",
+              "body": "The US Senate debate over FISA Section 702 warrant requirements makes the architectural differences between VPN providers more consequential than usual. Mullvad's accountless system and IVPN's minimal data collection mean there is no subscriber database to compel. Both have completed independent audits. For users who are choosing a VPN partly because of concerns about surveillance law, services outside US jurisdiction with no-account infrastructure provide a fundamentally different threat model than US-based providers."
+            },
+            {
+              "title": "Mullvad's no-account architecture is not a privacy gimmick, it is a structural protection",
+              "body": "Most VPN providers promise not to log your activity. Mullvad's architecture means they cannot identify which customer is using which server even if they wanted to. No email address, no username, no billing address associated with your subscription. At €5/month with cash payment accepted, the barrier to building a genuinely private connection is as low as it has ever been. For threat models that include protecting against legal compulsion, this architecture matters more than any policy statement."
+            },
+            {
+              "title": "ProtonVPN's Stealth protocol is the correct choice for censored internet environments",
+              "body": "Stealth is Proton's obfuscated protocol designed to bypass deep packet inspection. For users in environments where VPN traffic itself is blocked or flagged, including certain corporate networks and countries with aggressive filtering, Stealth makes ProtonVPN the most reliable option on this list. The Swiss jurisdiction means no compliance with US or EU law enforcement requests that don't meet Swiss legal standards. The open-source client audit trail adds verification beyond policy commitments."
+            },
+            {
+              "title": "NordVPN's Threat Protection Pro is the best ad and malware blocking in the consumer VPN category",
+              "body": "Threat Protection Pro blocks known malicious domains, trackers, and ads at the DNS level before requests reach your device. This works across all applications, not just the browser, and it functions even when the VPN tunnel is not active. For users who want combined privacy and security protection without managing separate ad blocker and DNS filter configurations, Nord's implementation is the most seamless option at this price tier."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "美國參議院正在辯論 FISA 702 條款的重新授權，四月二十日到期前的攻防持續中。民主黨推動對美國公民資料的搜索令要求，這個立法走向對 VPN 服務的司法管轄影響不小。這不改變當前排名，但讓 Mullvad 和 IVPN 的無帳號架構更顯關鍵：這兩個服務本來就沒有用戶帳號和個人資料，就算被要求配合調查，也沒有資料可以提供。\n\nMullvad 第一名的理由繼續成立：無帳號系統、接受現金和門羅幣付款、通過獨立稽核、每月五歐元不需要綁長約。這個隱私架構是硬體設計上的保護，不是政策聲明。\n\nProtonVPN 第二名，靠的是瑞士司法管轄、開源客戶端、Stealth 協議（針對深度封包檢測環境）和 Proton 生態整合。NordVPN 第三名，速度最快、伺服器最多，Threat Protection Pro 的廣告和惡意軟體封鎖是這份榜單裡最完整的安全附加功能。",
+          "highlights": [
+            {
+              "title": "FISA 702 辯論讓 Mullvad 和 IVPN 的無帳號架構更有說服力",
+              "body": "美國參議院對 FISA 702 搜索令要求的討論讓選 VPN 的決策更有意義。Mullvad 的無帳號設計和 IVPN 的最少資料收集代表就算收到法律要求，也沒有用戶資料庫可以提供。這兩個服務都完成了獨立稽核。如果你選 VPN 的部分原因是對監控法規有疑慮，司法管轄在美國境外、採無帳號架構的服務，提供的是和美國供應商完全不同的威脅模型。"
+            },
+            {
+              "title": "Mullvad 的無帳號架構是結構性保護，不是行銷話術",
+              "body": "大多數 VPN 保證不記錄你的活動。Mullvad 的架構設計讓他們在技術上就無法識別哪個客戶在用哪台伺服器，就算他們想。沒有電子郵件、沒有帳號名稱、沒有帳單地址和你的訂閱綁在一起。每月五歐元，接受現金付款，建立真正私密連線的門檻是史上最低的。對於威脅模型包含法律強制配合的人，這個架構比任何政策聲明都重要。"
+            },
+            {
+              "title": "ProtonVPN 的 Stealth 協議是在被封鎖網路環境裡最可靠的方案",
+              "body": "Stealth 是 Proton 設計用來繞過深度封包檢測的混淆協議。在 VPN 流量本身被封鎖或標記的環境裡，包括某些企業網路和有積極過濾的國家，Stealth 讓 ProtonVPN 成為這份榜單裡最可靠的選項。瑞士司法管轄代表不需要遵守不符合瑞士法律標準的美國或歐盟執法要求，開源客戶端稽核在政策聲明之外提供了可驗證的保障。"
+            },
+            {
+              "title": "NordVPN 的 Threat Protection Pro 是消費級 VPN 裡廣告和惡意軟體封鎖最完整的方案",
+              "body": "Threat Protection Pro 在 DNS 層面封鎖已知惡意網域、追蹤器和廣告，在請求到達你的裝置之前就攔截。這對所有應用程式都有效，不只是瀏覽器，而且就算 VPN 隧道沒有啟用也持續運作。如果你想要隱私加安全雙重保護，又不想另外設定廣告攔截器和 DNS 過濾器，Nord 的實作是這個價位帶裡最無縫的選項。"
             }
           ]
         }

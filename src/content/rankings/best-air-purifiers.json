@@ -437,23 +437,167 @@
     {
       "date": "2026-04-02",
       "rankings": [
-        { "id": "iqair-healthpro-plus", "rank": 1, "score": 9.4, "scores": { "cadr": 9.5, "filtration": 10.0, "smart_features": 7.5, "noise": 8.5, "value": 6.0 } },
-        { "id": "coway-airmega-400s", "rank": 2, "score": 9.0, "scores": { "cadr": 9.5, "filtration": 9.0, "smart_features": 8.5, "noise": 8.5, "value": 9.5 } },
-        { "id": "blueair-healthprotect-7470i", "rank": 3, "score": 8.8, "scores": { "cadr": 8.5, "filtration": 9.0, "smart_features": 9.5, "noise": 9.0, "value": 7.0 } },
-        { "id": "rabbit-air-minusa3", "rank": 4, "score": 8.6, "scores": { "cadr": 8.5, "filtration": 9.0, "smart_features": 8.0, "noise": 9.5, "value": 7.5 } },
-        { "id": "iqair-atem-earth", "rank": 5, "score": 8.5, "scores": { "cadr": 9.0, "filtration": 9.5, "smart_features": 9.0, "noise": 9.5, "value": 5.5 } },
-        { "id": "levoit-core-600s", "rank": 6, "score": 8.4, "scores": { "cadr": 8.5, "filtration": 8.5, "smart_features": 8.0, "noise": 8.0, "value": 9.5 } },
-        { "id": "levoit-vital-200s", "rank": 7, "score": 8.3, "scores": { "cadr": 8.0, "filtration": 8.5, "smart_features": 9.0, "noise": 8.0, "value": 9.5 } },
-        { "id": "dyson-purifier-cool-tp07", "rank": 8, "score": 8.2, "scores": { "cadr": 8.0, "filtration": 8.5, "smart_features": 9.5, "noise": 8.0, "value": 7.5 } },
-        { "id": "winix-5500-2", "rank": 9, "score": 8.0, "scores": { "cadr": 8.0, "filtration": 8.0, "smart_features": 6.5, "noise": 7.5, "value": 9.5 } },
-        { "id": "molekule-air-pro", "rank": 10, "score": 7.6, "scores": { "cadr": 7.0, "filtration": 9.0, "smart_features": 8.0, "noise": 8.0, "value": 5.5 } },
-        { "id": "bissell-air320-max", "rank": 11, "score": 7.4, "scores": { "cadr": 7.0, "filtration": 7.5, "smart_features": 7.5, "noise": 7.5, "value": 8.5 } },
-        { "id": "nuwave-oxypure", "rank": 12, "score": 7.0, "scores": { "cadr": 8.0, "filtration": 7.5, "smart_features": 7.0, "noise": 6.5, "value": 8.0 } }
+        {
+          "id": "iqair-healthpro-plus",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "cadr": 9.5,
+            "filtration": 10.0,
+            "smart_features": 7.5,
+            "noise": 8.5,
+            "value": 6.0
+          }
+        },
+        {
+          "id": "coway-airmega-400s",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "cadr": 9.5,
+            "filtration": 9.0,
+            "smart_features": 8.5,
+            "noise": 8.5,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "blueair-healthprotect-7470i",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "cadr": 8.5,
+            "filtration": 9.0,
+            "smart_features": 9.5,
+            "noise": 9.0,
+            "value": 7.0
+          }
+        },
+        {
+          "id": "rabbit-air-minusa3",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "cadr": 8.5,
+            "filtration": 9.0,
+            "smart_features": 8.0,
+            "noise": 9.5,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "iqair-atem-earth",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "cadr": 9.0,
+            "filtration": 9.5,
+            "smart_features": 9.0,
+            "noise": 9.5,
+            "value": 5.5
+          }
+        },
+        {
+          "id": "levoit-core-600s",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "cadr": 8.5,
+            "filtration": 8.5,
+            "smart_features": 8.0,
+            "noise": 8.0,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "levoit-vital-200s",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "cadr": 8.0,
+            "filtration": 8.5,
+            "smart_features": 9.0,
+            "noise": 8.0,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "dyson-purifier-cool-tp07",
+          "rank": 8,
+          "score": 8.2,
+          "scores": {
+            "cadr": 8.0,
+            "filtration": 8.5,
+            "smart_features": 9.5,
+            "noise": 8.0,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "winix-5500-2",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "cadr": 8.0,
+            "filtration": 8.0,
+            "smart_features": 6.5,
+            "noise": 7.5,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "molekule-air-pro",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "cadr": 7.0,
+            "filtration": 9.0,
+            "smart_features": 8.0,
+            "noise": 8.0,
+            "value": 5.5
+          }
+        },
+        {
+          "id": "bissell-air320-max",
+          "rank": 11,
+          "score": 7.4,
+          "scores": {
+            "cadr": 7.0,
+            "filtration": 7.5,
+            "smart_features": 7.5,
+            "noise": 7.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "nuwave-oxypure",
+          "rank": 12,
+          "score": 7.0,
+          "scores": {
+            "cadr": 8.0,
+            "filtration": 7.5,
+            "smart_features": 7.0,
+            "noise": 6.5,
+            "value": 8.0
+          }
+        }
       ],
       "references": [
-        { "title": "Best Air Purifiers of 2026 Tested by Our Experts", "url": "https://www.consumerreports.org/appliances/air-purifiers/best-air-purifiers-of-the-year-a1197763201/", "source": "Consumer Reports" },
-        { "title": "Prep your home for spring with discounted air purifiers at Amazon", "url": "https://www.cnn.com/cnn-underscored/deals/air-purifier-fan-spring-amazon-prime-day-sales-2026-03-29", "source": "CNN Underscored" },
-        { "title": "Smart Air Purifier Market 2026 gaining momentum as pollution concerns intensify", "url": "https://natlawreview.com/press-releases/smart-air-purifier-market-2026-gaining-momentum-pollution-concerns-intensify", "source": "National Law Review" }
+        {
+          "title": "Best Air Purifiers of 2026 Tested by Our Experts",
+          "url": "https://www.consumerreports.org/appliances/air-purifiers/best-air-purifiers-of-the-year-a1197763201/",
+          "source": "Consumer Reports"
+        },
+        {
+          "title": "Prep your home for spring with discounted air purifiers at Amazon",
+          "url": "https://www.cnn.com/cnn-underscored/deals/air-purifier-fan-spring-amazon-prime-day-sales-2026-03-29",
+          "source": "CNN Underscored"
+        },
+        {
+          "title": "Smart Air Purifier Market 2026 gaining momentum as pollution concerns intensify",
+          "url": "https://natlawreview.com/press-releases/smart-air-purifier-market-2026-gaining-momentum-pollution-concerns-intensify",
+          "source": "National Law Review"
+        }
       ],
       "i18n": {
         "en": {
@@ -495,6 +639,221 @@
             {
               "title": "IQAir HealthPro Plus 是醫療等級產品，台幣兩萬九的定價如實對應規格的每一分錢",
               "body": "HyperHEPA 以 99.995% 的效率捕捉 0.003 微米的粒子，H13 True HEPA 的過濾目標是 0.3 微米，IQAir 的精度高出 100 倍。免疫力低下者、新生兒、慢性呼吸道疾病，這些使用情境下 IQAir 的規格是正確的應對，不是過度的選擇。台幣兩萬九的售價，是清淨機市場裡唯一達到醫院隔離病房標準的選項對應的誠實定價。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-04-03",
+      "rankings": [
+        {
+          "id": "iqair-healthpro-plus",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "cadr": 9.5,
+            "filtration": 9.8,
+            "smart_features": 8.5,
+            "noise": 8.5,
+            "value": 7.0
+          }
+        },
+        {
+          "id": "coway-airmega-400s",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "cadr": 9.5,
+            "filtration": 9.0,
+            "smart_features": 8.5,
+            "noise": 8.5,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "blueair-healthprotect-7470i",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "cadr": 8.5,
+            "filtration": 9.5,
+            "smart_features": 9.0,
+            "noise": 9.0,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "rabbit-air-minusa3",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "cadr": 8.5,
+            "filtration": 9.0,
+            "smart_features": 8.0,
+            "noise": 9.5,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "iqair-atem-earth",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "cadr": 8.0,
+            "filtration": 9.5,
+            "smart_features": 8.5,
+            "noise": 9.0,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "levoit-core-600s",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "cadr": 9.0,
+            "filtration": 8.5,
+            "smart_features": 8.5,
+            "noise": 8.0,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "levoit-vital-200s",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "cadr": 8.0,
+            "filtration": 8.5,
+            "smart_features": 8.0,
+            "noise": 8.5,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "dyson-purifier-cool-tp07",
+          "rank": 8,
+          "score": 8.2,
+          "scores": {
+            "cadr": 8.0,
+            "filtration": 8.5,
+            "smart_features": 9.0,
+            "noise": 8.0,
+            "value": 7.0
+          }
+        },
+        {
+          "id": "winix-5500-2",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "cadr": 8.5,
+            "filtration": 8.0,
+            "smart_features": 7.5,
+            "noise": 8.0,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "molekule-air-pro",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "cadr": 7.5,
+            "filtration": 8.0,
+            "smart_features": 8.5,
+            "noise": 7.5,
+            "value": 6.5
+          }
+        },
+        {
+          "id": "bissell-air320-max",
+          "rank": 11,
+          "score": 7.4,
+          "scores": {
+            "cadr": 7.5,
+            "filtration": 7.5,
+            "smart_features": 7.0,
+            "noise": 7.5,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "nuwave-oxypure",
+          "rank": 12,
+          "score": 7.0,
+          "scores": {
+            "cadr": 7.0,
+            "filtration": 7.5,
+            "smart_features": 7.0,
+            "noise": 7.0,
+            "value": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best Air Purifiers 2026 — 95 Models Objectively Tested",
+          "url": "https://moderncastle.com/air-purifiers/best-air-purifier/",
+          "source": "Modern Castle"
+        },
+        {
+          "title": "8 Best Air Purifiers of 2026, Tested by Our Experts",
+          "url": "https://www.consumerreports.org/health/air-purifiers/best-air-purifiers-of-2026/",
+          "source": "Consumer Reports"
+        },
+        {
+          "title": "Best Air Purifiers: 5 Top Picks from Consumer Reports",
+          "url": "https://www.blueair.com/blogs/news/top-5-best-air-purifiers",
+          "source": "Blueair"
+        },
+        {
+          "title": "Best air purifiers 2026: tested by our experts",
+          "url": "https://www.tomsguide.com/us/best-air-purifiers,review-7563.html",
+          "source": "Tom's Guide"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Peak spring allergy season is now fully in effect across the northern hemisphere. Pollen counts are at their annual highs in most of North America, Europe, and East Asia. For Taiwan readers, PM2.5 concentrations from cross-strait transport typically peak in late March through April, making this genuinely the highest-impact season for air purifier performance. This is the time of year when the difference between a 200 CFM CADR purifier and a 350 CFM unit is felt most directly.\n\nIQAir HealthPro Plus holds rank 1. The HyperHEPA filter's 0.003-micron particle capture is not marketing for the HealthPro Plus: it is the reason hospitals and pharmaceutical companies use IQAir equipment. For residential users with severe allergies, asthma, or compromised immune systems, this is the purifier that provides genuine clinical-grade air quality. The $899 price is high, but the filter lifespan and the verifiable air quality measurements make the long-term cost of ownership more competitive than it appears.\n\nCoway Airmega 400S at rank 2 is the best value machine for large rooms. The dual-HEPA configuration achieves 350 CFM smoke CADR, which covers the 1,560 sq ft specification with real purification throughput. At $349, it covers all residential use cases that don't require medical-grade filtration. Levoit Core 600S at rank 6 and Levoit Vital 200S at rank 7 are the go-to recommendations for mid-room and small-room applications at honest prices.",
+          "highlights": [
+            {
+              "title": "Peak pollen season makes CADR specs matter more than any other time of year",
+              "body": "Allergy season is the real-world performance test for air purifiers. A machine with a higher CADR processes the same room volume more times per hour, which means pollen concentrations drop faster and stay lower. For a 300 sq ft bedroom, a 200 CFM CADR unit achieves about 4 air changes per hour. A 350 CFM unit achieves 7. During high pollen days, that difference is felt directly in symptom reduction. If you've been managing with an underpowered machine, this is the time of year you'll notice."
+            },
+            {
+              "title": "IQAir HealthPro Plus serves a specific buyer: anyone with a clinical need for air quality",
+              "body": "Most residential buyers don't need HyperHEPA filtration. Standard HEPA captures particles down to 0.3 microns at 99.97%, which removes all practical allergy and pollution sources. HyperHEPA's 0.003-micron capability matters for ultrafine particles from traffic pollution, cooking combustion, and certain mold spores that standard HEPA misses. If you or a family member has severe asthma, chemical sensitivities, or a compromised immune system, this is the correct machine. For everyone else, the Coway Airmega 400S delivers comparable particle reduction at 40% of the price."
+            },
+            {
+              "title": "Coway Airmega 400S is the best all-around air purifier for living rooms and open-plan spaces",
+              "body": "The dual Max2 HEPA configuration achieves 350 CFM smoke CADR, covering 1,560 sq ft with genuine throughput. Multiple independent tests rank it as the best value in its class, and the Alexa and Google Home integration means you can automate it based on outdoor air quality readings. At $349, this is the machine for the main living area of any home. The filter replacement cost is reasonable for the lifespan, and the build quality has held up well in long-term user reports."
+            },
+            {
+              "title": "Levoit Core 600S and Vital 200S cover mid-room and bedroom applications at the right prices",
+              "body": "Levoit's Core 600S at $229 handles rooms up to 635 sq ft with 410 CFM CADR, which covers master bedrooms and home offices with thoroughput. The VeSync app integration and auto-mode that responds to air quality sensors make it a hands-off solution. The Vital 200S at $99 is the recommendation for bedrooms up to 380 sq ft. The combination of effective HEPA filtration, quiet operation, and sub-$100 pricing makes it the first purifier most people should buy."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "北半球的花粉季高峰已經全面到來。台灣讀者知道的季節性 PM2.5 跨海輸送通常在三月底到四月到頂，加上本地的春季花粉，這是空氣清淨機一年中實際清淨效果差異最明顯的時候。200 CFM 和 350 CFM 的機器在其他季節可能感受不到差別，這個季節就感受得到。\n\nIQAir HealthPro Plus 繼續第一。HyperHEPA 的 0.003 微米過濾不是行銷話術，是醫院和藥廠選 IQAir 的理由。家裡有嚴重過敏、氣喘或免疫力弱的成員，台幣六萬的售價在這個需求下是說得通的。\n\nCoway Airmega 400S 第二，大空間的最強 CP 值機型。雙 Max2 HEPA 配置、煙霧 CADR 350 CFM，台幣一萬出頭，適用面積 1,560 平方英尺，這個規格組合在同價位帶裡找不到競品。Levoit Core 600S 和 Vital 200S 分別是中型房間和臥室的首選，前者台幣約六千多，後者台幣不到三千，CP 值都非常清楚。",
+          "highlights": [
+            {
+              "title": "花粉季高峰讓 CADR 規格差異最容易感受到",
+              "body": "過敏季是空氣清淨機的真實效能考試。CADR 更高代表同一個空間每小時換氣次數更多，花粉濃度下降得更快也維持得更低。同一個三十坪臥室，200 CFM 的機器每小時換氣約四次，350 CFM 的機器每小時換氣約七次。花粉高濃度的日子，這個差距直接反映在過敏症狀上。如果你之前用的機器功率不夠，這個季節是你會明顯感受到的時候。"
+            },
+            {
+              "title": "IQAir HealthPro Plus 服務一個特定的買家：有臨床級空氣品質需求的人",
+              "body": "一般家庭用戶不需要 HyperHEPA。標準 HEPA 過濾到 0.3 微米可以處理所有日常過敏和污染來源。HyperHEPA 的 0.003 微米針對的是超細顆粒，主要是交通廢氣、烹飪燃燒和某些標準 HEPA 過不掉的黴菌孢子。家裡有嚴重氣喘、化學物質敏感或免疫力弱的人，這台是正確選擇。其他人台幣兩萬以內的 Coway Airmega 400S 提供相當的顆粒清除效果。"
+            },
+            {
+              "title": "Coway Airmega 400S 是客廳和大空間最佳全能空氣清淨機",
+              "body": "雙 Max2 HEPA 配置達到煙霧 CADR 350 CFM，適用面積 1,560 平方英尺是真實的清淨量。多個獨立測試把它列為同價位帶最值得買的機型，支援 Alexa 和 Google Home，可以根據室外空氣品質數據自動控制。台幣約 NT$19,000，這個價位能拿到這份性能，家裡主要生活空間的首選就是這台。濾網更換成本對使用壽命來說合理，長期使用評價也很穩定。"
+            },
+            {
+              "title": "Levoit Core 600S 和 Vital 200S 是中型房間和臥室的 CP 值首選",
+              "body": "Levoit Core 600S 台幣約 NT$5,990，CADR 410 CFM 涵蓋到 635 平方英尺，主臥和書房都夠用。VeSync APP 整合和根據空氣品質感測器自動調節的模式讓它用起來基本不用手動管。Vital 200S 台幣約 NT$2,990，380 平方英尺以內的小臥室，有效 HEPA 過濾加安靜運轉，不到台幣三千拿到這個，是多數人第一台空氣清淨機的最直接推薦。"
             }
           ]
         }

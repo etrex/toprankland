@@ -1080,23 +1080,167 @@
     {
       "date": "2026-04-02",
       "rankings": [
-        { "id": "apple-ultra2", "rank": 1, "score": 9.2, "scores": { "health": 9.5, "battery": 8, "display": 9.8, "ecosystem": 9.8, "value": 7 } },
-        { "id": "garmin-fenix8", "rank": 2, "score": 9.2, "scores": { "health": 9.8, "battery": 9.5, "display": 9, "ecosystem": 8, "value": 7.7 } },
-        { "id": "apple-s10", "rank": 3, "score": 8.8, "scores": { "health": 9.2, "battery": 7.5, "display": 9.5, "ecosystem": 9.8, "value": 7.8 } },
-        { "id": "samsung-gw7-ultra", "rank": 4, "score": 8.8, "scores": { "health": 9, "battery": 8, "display": 9.2, "ecosystem": 8.5, "value": 7.8 } },
-        { "id": "garmin-fr965", "rank": 5, "score": 8.7, "scores": { "health": 9.5, "battery": 9.5, "display": 9, "ecosystem": 7.5, "value": 8 } },
-        { "id": "samsung-gw7", "rank": 6, "score": 8.4, "scores": { "health": 8.5, "battery": 7.5, "display": 8.8, "ecosystem": 8.5, "value": 9 } },
-        { "id": "google-pw3", "rank": 7, "score": 8.1, "scores": { "health": 8.5, "battery": 7.8, "display": 8.5, "ecosystem": 8.5, "value": 8 } },
-        { "id": "withings-scanwatch2", "rank": 8, "score": 7.9, "scores": { "health": 8.5, "battery": 9.5, "display": 7, "ecosystem": 7, "value": 8 } },
-        { "id": "coros-pace3", "rank": 9, "score": 7.7, "scores": { "health": 8.5, "battery": 9.2, "display": 7.5, "ecosystem": 6.5, "value": 9.2 } },
-        { "id": "amazfit-balance2", "rank": 10, "score": 7.6, "scores": { "health": 8, "battery": 9, "display": 8, "ecosystem": 7, "value": 9 } },
-        { "id": "oneplus-watch2r", "rank": 11, "score": 7.4, "scores": { "health": 7.5, "battery": 9, "display": 7.8, "ecosystem": 7.5, "value": 8.5 } },
-        { "id": "huawei-gt5-pro", "rank": 12, "score": 7.2, "scores": { "health": 8, "battery": 9, "display": 8, "ecosystem": 5.5, "value": 7.5 } }
+        {
+          "id": "apple-ultra2",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "health": 9.5,
+            "battery": 8,
+            "display": 9.8,
+            "ecosystem": 9.8,
+            "value": 7
+          }
+        },
+        {
+          "id": "garmin-fenix8",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "health": 9.8,
+            "battery": 9.5,
+            "display": 9,
+            "ecosystem": 8,
+            "value": 7.7
+          }
+        },
+        {
+          "id": "apple-s10",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "health": 9.2,
+            "battery": 7.5,
+            "display": 9.5,
+            "ecosystem": 9.8,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "samsung-gw7-ultra",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "health": 9,
+            "battery": 8,
+            "display": 9.2,
+            "ecosystem": 8.5,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "garmin-fr965",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "health": 9.5,
+            "battery": 9.5,
+            "display": 9,
+            "ecosystem": 7.5,
+            "value": 8
+          }
+        },
+        {
+          "id": "samsung-gw7",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "health": 8.5,
+            "battery": 7.5,
+            "display": 8.8,
+            "ecosystem": 8.5,
+            "value": 9
+          }
+        },
+        {
+          "id": "google-pw3",
+          "rank": 7,
+          "score": 8.1,
+          "scores": {
+            "health": 8.5,
+            "battery": 7.8,
+            "display": 8.5,
+            "ecosystem": 8.5,
+            "value": 8
+          }
+        },
+        {
+          "id": "withings-scanwatch2",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "health": 8.5,
+            "battery": 9.5,
+            "display": 7,
+            "ecosystem": 7,
+            "value": 8
+          }
+        },
+        {
+          "id": "coros-pace3",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "health": 8.5,
+            "battery": 9.2,
+            "display": 7.5,
+            "ecosystem": 6.5,
+            "value": 9.2
+          }
+        },
+        {
+          "id": "amazfit-balance2",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "health": 8,
+            "battery": 9,
+            "display": 8,
+            "ecosystem": 7,
+            "value": 9
+          }
+        },
+        {
+          "id": "oneplus-watch2r",
+          "rank": 11,
+          "score": 7.4,
+          "scores": {
+            "health": 7.5,
+            "battery": 9,
+            "display": 7.8,
+            "ecosystem": 7.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "huawei-gt5-pro",
+          "rank": 12,
+          "score": 7.2,
+          "scores": {
+            "health": 8,
+            "battery": 9,
+            "display": 8,
+            "ecosystem": 5.5,
+            "value": 7.5
+          }
+        }
       ],
       "references": [
-        { "title": "Best Smartwatches 2026 — Android Authority", "url": "https://www.androidauthority.com/best-smartwatch-2026-3626202/", "source": "Android Authority" },
-        { "title": "Best Smartwatches of 2026: Our Editors Top Tested Picks", "url": "https://www.nbcnews.com/select/shopping/best-smartwatches-rcna248847", "source": "NBC News" },
-        { "title": "Amazon Big Spring Sale: Best smartwatch and fitness tracker deals 2026", "url": "https://www.nbcnews.com/select/shopping/amazon-spring-smartwatch-deals-2026-rcna264996", "source": "NBC News" }
+        {
+          "title": "Best Smartwatches 2026 — Android Authority",
+          "url": "https://www.androidauthority.com/best-smartwatch-2026-3626202/",
+          "source": "Android Authority"
+        },
+        {
+          "title": "Best Smartwatches of 2026: Our Editors Top Tested Picks",
+          "url": "https://www.nbcnews.com/select/shopping/best-smartwatches-rcna248847",
+          "source": "NBC News"
+        },
+        {
+          "title": "Amazon Big Spring Sale: Best smartwatch and fitness tracker deals 2026",
+          "url": "https://www.nbcnews.com/select/shopping/amazon-spring-smartwatch-deals-2026-rcna264996",
+          "source": "NBC News"
+        }
       ],
       "i18n": {
         "en": {
@@ -1138,6 +1282,221 @@
             {
               "title": "COROS Pace 3 台幣六千出頭，提供 Garmin 等級的 GPS 和 24 天電池",
               "body": "COROS 為認真戶外跑者設計了 Pace 3，Garmin 的資料深度，不用 Garmin 旗艦的價格。GPS 精度在開放空間裡和 Fenix 8 競爭，訓練負荷管理和 VO2 Max 追蹤的資料量級相近，24 天電池撐過整個備賽期，台幣六千出頭。對固定在戶外訓練、想要深度數據但不想花兩萬四的運動員，Pace 3 是目前最說得清楚的性價比建議。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-04-03",
+      "rankings": [
+        {
+          "id": "apple-ultra2",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "health": 9.5,
+            "battery": 8.5,
+            "display": 9.5,
+            "ecosystem": 9.5,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "garmin-fenix8",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "health": 9.5,
+            "battery": 9.5,
+            "display": 9.0,
+            "ecosystem": 8.5,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "apple-s10",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "health": 9.0,
+            "battery": 8.0,
+            "display": 9.0,
+            "ecosystem": 9.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "samsung-gw7-ultra",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "health": 9.0,
+            "battery": 8.5,
+            "display": 9.0,
+            "ecosystem": 9.0,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "garmin-fr965",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "health": 9.0,
+            "battery": 9.5,
+            "display": 8.5,
+            "ecosystem": 8.0,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "samsung-gw7",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "health": 8.5,
+            "battery": 7.5,
+            "display": 8.5,
+            "ecosystem": 9.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "google-pw3",
+          "rank": 7,
+          "score": 8.1,
+          "scores": {
+            "health": 8.0,
+            "battery": 7.5,
+            "display": 8.5,
+            "ecosystem": 8.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "withings-scanwatch2",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "health": 8.5,
+            "battery": 9.0,
+            "display": 7.0,
+            "ecosystem": 7.0,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "coros-pace3",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "health": 8.0,
+            "battery": 9.0,
+            "display": 7.5,
+            "ecosystem": 6.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "amazfit-balance2",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "health": 7.5,
+            "battery": 8.5,
+            "display": 7.5,
+            "ecosystem": 7.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "oneplus-watch2r",
+          "rank": 11,
+          "score": 7.4,
+          "scores": {
+            "health": 7.5,
+            "battery": 8.5,
+            "display": 7.5,
+            "ecosystem": 7.0,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "huawei-gt5-pro",
+          "rank": 12,
+          "score": 7.2,
+          "scores": {
+            "health": 7.5,
+            "battery": 9.0,
+            "display": 7.5,
+            "ecosystem": 5.5,
+            "value": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best Smartwatches 2026: Top Picks for Every Budget & Lifestyle",
+          "url": "https://www.onlyalok.com/2026/04/best-smartwatches-2026-top-picks-for.html",
+          "source": "OnlyAlok"
+        },
+        {
+          "title": "New Smartwatch Releases 2026: Apple, Samsung, Garmin Updates",
+          "url": "https://smartbodytouch.com/%F0%9F%94%A5-new-smartwatch-releases-for-2026-apple-samsung-garmin-fitbit-top-7-must-see-upgrades/",
+          "source": "SmartBodyTouch"
+        },
+        {
+          "title": "Best smartwatches of 2026, tested and reviewed",
+          "url": "https://www.tomsguide.com/us/best-smartwatches,review-2829.html",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "The 5 Best Smartwatches of 2026",
+          "url": "https://www.rtings.com/smartwatch/reviews/best/smartwatches",
+          "source": "RTINGS.com"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The smartwatch market in early April 2026 is in a stable period between major product cycles. Apple Watch Ultra 2 and Garmin Fenix 8 share rank 1 at 9.2, serving genuinely different user profiles at similar price points. The Apple Watch Ultra 2 is the right choice for users in the Apple ecosystem who want the best health sensor suite and the brightest display available in a smartwatch. The Garmin Fenix 8 is the right choice for endurance athletes and outdoor users who need the best GPS accuracy, multi-week battery life, and durability in the category.\n\nApple Watch Series 10 and Samsung Galaxy Watch 7 Ultra share rank 3 at 8.8, representing the best premium options for their respective ecosystems at mainstream price points. The Samsung Galaxy Watch 7 Ultra's titanium body and advanced blood pressure monitoring via the Bio-Active Sensor make it a compelling option for health-focused Android users.\n\nFor runners specifically, the Garmin Forerunner 965 at rank 5 remains the most analytically complete training tool on this list. Daily Suggested Workouts, race predictor, and HRV status tracking built around years of real athlete data make this the watch that serious runners use when they want training guidance backed by actual exercise science. At $599, it undercuts the Fenix 8 by $350 while covering 95% of the same training features.",
+          "highlights": [
+            {
+              "title": "Apple Watch Ultra 2 and Garmin Fenix 8 serve different buyers equally well at rank 1",
+              "body": "These two watches cost roughly the same and score the same, but they're built for different people. Apple Watch Ultra 2 is the best health and lifestyle watch with the best display brightness and the deepest Apple ecosystem integration. Garmin Fenix 8 is the best outdoor sports and endurance watch with multi-week battery, best-in-class GPS, and built for users who train in environments where a touchscreen isn't reliable. Picking between them is about which ecosystem you live in and whether you train outdoors."
+            },
+            {
+              "title": "Samsung Galaxy Watch 7 Ultra delivers the best Android premium health experience",
+              "body": "The titanium chassis, blood pressure monitoring, and the Galaxy AI health summary features make the Galaxy Watch 7 Ultra the most fully realized health-focused Android smartwatch. One UI Watch 6 is the most polished Android watch software available. For Android users who want the best health monitoring with deep smartphone integration, the Galaxy Watch 7 Ultra at $649 is the correct purchase, assuming you're not also an endurance athlete who needs the GPS precision of a Garmin."
+            },
+            {
+              "title": "Garmin Forerunner 965 is the best running watch at the best price",
+              "body": "Serious runners who want data-driven training guidance don't need to pay Fenix 8 prices to get Garmin's training intelligence. The Forerunner 965 includes Daily Suggested Workouts, race predictor, HRV status, Training Readiness, and the same multi-GNSS GPS accuracy in a lighter form factor at $599. The 31-day battery in GPS-off mode and 31-hour full GPS duration cover ultramarathon distances. This is the Garmin for athletes who train seriously and don't need the extra durability of the Fenix."
+            },
+            {
+              "title": "Withings ScanWatch 2 serves the health-first user who prefers a traditional watch aesthetic",
+              "body": "Not everyone wants to wear a screen on their wrist. The Withings ScanWatch 2 delivers ECG monitoring, blood oxygen tracking, and a 30-day battery in a package that looks like a dress watch. The health credentials are real and medically certified. For users who need meaningful health tracking but won't wear an Apple Watch or Garmin to work or formal occasions, the ScanWatch 2 is the watch that covers both requirements."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "四月初的智慧手錶市場處於主要產品週期之間的穩定期。Apple Watch Ultra 2 和 Garmin Fenix 8 同以 9.2 分共享第一，服務的是不同的用戶輪廓。Apple Watch Ultra 2 是 Apple 生態系用戶、重視健康感測和螢幕亮度的人最完整的選擇。Garmin Fenix 8 是耐力運動員和戶外活動者的首選，GPS 精度、多週電池和耐用性全品類第一。\n\nApple Watch Series 10 和 Samsung Galaxy Watch 7 Ultra 同以 8.8 分並列第三，分別是各自生態系的主流旗艦最佳選擇。Galaxy Watch 7 Ultra 的鈦合金機身和 Bio-Active Sensor 血壓監測是功能上的亮點，是注重健康追蹤的 Android 用戶最完整的選擇。\n\n專門跑步的人看 Garmin Forerunner 965，這是榜單裡訓練分析最完整的跑步手錶，每日建議訓練、賽事預測、HRV 狀態追蹤，這些功能比 Fenix 8 便宜台幣一萬多，覆蓋了九五成的跑步訓練需求。",
+          "highlights": [
+            {
+              "title": "Apple Watch Ultra 2 和 Garmin Fenix 8 各有專屬的用戶，都值得第一",
+              "body": "這兩隻手錶價格差不多、分數一樣，但設計給完全不同的人。Apple Watch Ultra 2 是健康生活手錶的頂點，螢幕最亮、Apple 生態系整合最深。Garmin Fenix 8 是戶外運動和耐力訓練的頂點，多週電池、最精確的 GPS、在各種惡劣環境都能可靠使用。選哪個取決於你住在哪個生態系、以及你是不是在戶外認真訓練的人。"
+            },
+            {
+              "title": "Samsung Galaxy Watch 7 Ultra 是 Android 陣營最完整的健康手錶",
+              "body": "鈦合金機身、血壓監測、Galaxy AI 健康摘要，加上 One UI Watch 6 是目前最成熟的 Android 手錶軟體，這台是認真使用 Android 手機、想要最完整健康監測的人的正確選擇。台幣售價約 NT$22,990，如果你是長距離耐力運動員需要 Garmin 等級的 GPS 精度，就另當別論。"
+            },
+            {
+              "title": "Garmin Forerunner 965 是認真跑步的人不用付 Fenix 8 價格就能拿到的最完整訓練工具",
+              "body": "每日建議訓練、賽事預測、HRV 狀態、訓練準備度，這些讓 Garmin 在跑者圈有口碑的功能 Forerunner 965 全部有，重量比 Fenix 8 輕，台幣售價約 NT$20,900，比 Fenix 8 便宜一萬多。GPS 關閉 31 天電池、全 GPS 31 小時，超馬距離也能跑完全程。這是認真訓練但不需要 Fenix 那個等級戶外耐用性的人的正確選擇。"
+            },
+            {
+              "title": "Withings ScanWatch 2 是不想戴運動手錶外觀的人做健康追蹤的最佳選擇",
+              "body": "不是每個人都想戴個螢幕上班。ScanWatch 2 的外觀是傳統腕錶，電池 30 天，同時有 ECG 心電圖、血氧監測，健康功能有醫療認證。上班、正式場合都能戴，又能做到真實的健康監測，這個需求在智慧手錶市場裡沒有太多選擇，ScanWatch 2 是最直接的答案。"
             }
           ]
         }

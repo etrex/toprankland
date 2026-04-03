@@ -702,20 +702,131 @@
     {
       "date": "2026-04-02",
       "rankings": [
-        { "id": "claude-code", "rank": 1, "score": 8.8, "scores": { "codeQuality": 9.5, "contextWindow": 9.8, "ideIntegration": 7, "agenticCapability": 9.6, "valueForMoney": 7.8 } },
-        { "id": "cursor", "rank": 2, "score": 8.7, "scores": { "codeQuality": 8.8, "contextWindow": 8.5, "ideIntegration": 9.5, "agenticCapability": 8.3, "valueForMoney": 8.2 } },
-        { "id": "github-copilot", "rank": 3, "score": 8.6, "scores": { "codeQuality": 8.6, "contextWindow": 7.8, "ideIntegration": 9.3, "agenticCapability": 7.8, "valueForMoney": 9.5 } },
-        { "id": "google-jules", "rank": 4, "score": 8.1, "scores": { "codeQuality": 8.2, "contextWindow": 8.5, "ideIntegration": 7.5, "agenticCapability": 8.2, "valueForMoney": 8 } },
-        { "id": "devin", "rank": 5, "score": 8, "scores": { "codeQuality": 8.5, "contextWindow": 8.5, "ideIntegration": 7.5, "agenticCapability": 9, "valueForMoney": 6.5 } },
-        { "id": "amazon-q-developer", "rank": 6, "score": 7.8, "scores": { "codeQuality": 8, "contextWindow": 7.5, "ideIntegration": 8.5, "agenticCapability": 7.8, "valueForMoney": 7 } },
-        { "id": "zed", "rank": 7, "score": 7.8, "scores": { "codeQuality": 7.8, "contextWindow": 7.5, "ideIntegration": 8, "agenticCapability": 7, "valueForMoney": 8.5 } },
-        { "id": "aider", "rank": 8, "score": 7.7, "scores": { "codeQuality": 8, "contextWindow": 8.3, "ideIntegration": 5, "agenticCapability": 7.5, "valueForMoney": 9.8 } },
-        { "id": "windsurf", "rank": 9, "score": 7.6, "scores": { "codeQuality": 8.2, "contextWindow": 8, "ideIntegration": 8.8, "agenticCapability": 8, "valueForMoney": 5.8 } }
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 8.8,
+          "scores": {
+            "codeQuality": 9.5,
+            "contextWindow": 9.8,
+            "ideIntegration": 7,
+            "agenticCapability": 9.6,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 8.7,
+          "scores": {
+            "codeQuality": 8.8,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.6,
+            "contextWindow": 7.8,
+            "ideIntegration": 9.3,
+            "agenticCapability": 7.8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 4,
+          "score": 8.1,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.2,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 5,
+          "score": 8,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 6.5
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 6,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.8,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 8,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.3,
+            "ideIntegration": 5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8,
+            "ideIntegration": 8.8,
+            "agenticCapability": 8,
+            "valueForMoney": 5.8
+          }
+        }
       ],
       "references": [
-        { "title": "Cursor vs Claude Code vs GitHub Copilot 2026: The Ultimate Comparison", "url": "https://www.nxcode.io/resources/news/cursor-vs-claude-code-vs-github-copilot-2026-ultimate-comparison", "source": "NxCode" },
-        { "title": "Claude Code vs Cursor: Complete comparison guide in 2026", "url": "https://northflank.com/blog/claude-code-vs-cursor-comparison", "source": "Northflank" },
-        { "title": "Best AI Coding Tools 2026: Complete Ranking by Real-World Performance", "url": "https://www.nxcode.io/resources/news/best-ai-for-coding-2026-complete-ranking", "source": "NxCode" }
+        {
+          "title": "Cursor vs Claude Code vs GitHub Copilot 2026: The Ultimate Comparison",
+          "url": "https://www.nxcode.io/resources/news/cursor-vs-claude-code-vs-github-copilot-2026-ultimate-comparison",
+          "source": "NxCode"
+        },
+        {
+          "title": "Claude Code vs Cursor: Complete comparison guide in 2026",
+          "url": "https://northflank.com/blog/claude-code-vs-cursor-comparison",
+          "source": "Northflank"
+        },
+        {
+          "title": "Best AI Coding Tools 2026: Complete Ranking by Real-World Performance",
+          "url": "https://www.nxcode.io/resources/news/best-ai-for-coding-2026-complete-ranking",
+          "source": "NxCode"
+        }
       ],
       "i18n": {
         "en": {
@@ -757,6 +868,190 @@
             {
               "title": "Aider 仍是最好的免費開源選項，9.8 的性價比評分是實至名歸的",
               "body": "Aider 開源、終端機優先、支援所有主流 LLM 後端，Claude、GPT-4、Gemini 全部可以接。工具本身零成本，只付模型 API 費，是需要完整模型彈性、在終端機工作流裡自在的開發者的正確選擇。5.0 的 IDE 整合分數反映了在 IDE 為中心的工作流裡真實存在的摩擦，直說吧，習慣 Cursor 的人會覺得 Aider 的操作有落差。最強的使用場景是需要用腳本跑多步驟跨 repo 修改、且想自選模型的進階用戶。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-04-03",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 8.8,
+          "scores": {
+            "codeQuality": 9.2,
+            "contextWindow": 9.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 8.7,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.8,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 4,
+          "score": 8.1,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 5,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 6.5
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 6,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 8,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 6.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Top 15 AI Coding Assistant Tools to Try in 2026",
+          "url": "https://www.qodo.ai/blog/best-ai-coding-assistant-tools/",
+          "source": "Qodo"
+        },
+        {
+          "title": "Best AI Coding Assistants 2026 (I Tested 10+)",
+          "url": "https://playcode.io/blog/best-ai-coding-assistants-2026",
+          "source": "Playcode"
+        },
+        {
+          "title": "Best AI Coding Agents for 2026: Real-World Developer Reviews",
+          "url": "https://www.faros.ai/blog/best-ai-coding-agents-2026",
+          "source": "Faros AI"
+        },
+        {
+          "title": "AI Coding Assistants Release Notes",
+          "url": "https://releasebot.io/updates/categories/ai-coding-assistants",
+          "source": "Releasebot"
+        },
+        {
+          "title": "Best AI Code Assistants Reviews 2026",
+          "url": "https://www.gartner.com/reviews/market/ai-code-assistants",
+          "source": "Gartner Peer Insights"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code shipped an update this week adding interactive /powerup lessons and strengthened resume capabilities, tightening the loop between long-running agent sessions and developer oversight. The performance improvements make the CLI tool faster to start and more reliable at resuming interrupted work, which matters for the kind of multi-hour autonomous sessions developers now run regularly. These updates reinforce Claude Code's position at rank 1 for agentic capability.\n\nGitHub Copilot landed a significant update with broader MCP and OAuth management, device code flow for headless and CI environments, and Next Edit Predictions. The Next Edit Predictions feature, which anticipates ripple effects of a change and suggests connected edits across the codebase, is a meaningful product differentiation. Copilot's IDE integration score remains the highest on this list, and this update extends the gap over competitors in the enterprise workflow integration category.\n\nThe overall market pattern is stable: Claude Code for autonomous multi-file tasks, Cursor for interactive daily editing, Copilot for seamless IDE integration in team environments. Most professional development teams run two or three of these in combination. Google Jules continues to climb in the agentic category, and Aider remains the best value for developers who want model flexibility without subscription lock-in.",
+          "highlights": [
+            {
+              "title": "Claude Code's /powerup and resume improvements sharpen agentic reliability",
+              "body": "The interactive /powerup lessons reduce the onboarding friction for developers adopting Claude Code's more advanced agentic workflows. More important for daily use are the performance improvements to session startup and resume handling. When running multi-file autonomous tasks that take 20 or 30 minutes, reliable resumption after interruption is a core reliability requirement, not a nice-to-have. These updates directly address the failure modes that previously required manual intervention."
+            },
+            {
+              "title": "GitHub Copilot's Next Edit Predictions is a real product advancement",
+              "body": "Next Edit Predictions works by anticipating which other parts of the codebase need updating when a change is made, then surfacing those suggestions proactively. This is the correct direction for AI-assisted editing: reducing the mental overhead of tracking cross-file dependencies, not just autocompleting the line you're currently typing. The MCP and OAuth additions also make Copilot more viable for CI pipelines and headless environments, which expands its reach beyond individual developer tooling."
+            },
+            {
+              "title": "Cursor holds rank 2 through consistent interactive editing quality",
+              "body": "No single feature announcement has changed Cursor's competitive position this week, but its sustained execution on daily interactive editing quality keeps it at rank 2. The combination of a high-quality model backend with native IDE-level context understanding is what professional developers rely on for the repetitive but judgment-intensive work of daily coding. Cursor's moat is not any single feature but the accumulated quality of thousands of small interactions per developer per day."
+            },
+            {
+              "title": "Aider remains the strongest open-weight option for teams that need model flexibility",
+              "body": "Aider's open architecture, which allows teams to swap models freely, is a genuine advantage as the model landscape evolves rapidly. Teams uncomfortable with vendor lock-in or with specific compliance requirements around data handling have a credible high-quality option here. The terminal-first workflow is a real friction cost compared to IDE-native tools, but for developers already comfortable in the command line, Aider's model flexibility justifies the setup overhead."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 這週更新加入了互動式 /powerup 教學和強化的 resume 功能，讓長時間 agent 作業中斷後能更可靠地繼續跑，這對現在動輒跑二三十分鐘的多檔案自主任務來說是很實際的改善。啟動速度和對話管理的效能提升讓整個工具流暢很多，這些更新鞏固了它在 agentic 能力這項評分的第一名地位。\n\nGitHub Copilot 這週推出的 Next Edit Predictions 是個值得注意的功能。它會預測你改一個地方之後，哪些其他檔案也需要跟著改，然後主動提示你。這個方向是對的：真正減少追蹤跨檔依賴的腦力負擔，而不只是補全你正在打的那一行。MCP 和 OAuth 的支援讓 Copilot 更容易嵌入 CI 流程和無頭環境，不只是個人開發者工具。\n\n整體市場格局還是一樣：Claude Code 跑自主多檔任務，Cursor 負責每天的互動式編輯，Copilot 走 IDE 整合的企業場景。大多數專業開發者會同時用兩三種。Google Jules 在 agentic 評分繼續有說服力，Aider 對想要自由換模型、避免廠商鎖定的開發者來說還是最有彈性的選擇。",
+          "highlights": [
+            {
+              "title": "Claude Code 的 /powerup 和 resume 改善讓 agentic 作業更可靠",
+              "body": "/powerup 互動教學降低了上手進階 agentic 工作流的門檻，但更實際的改善是啟動速度和 resume 功能的強化。跑一個要二三十分鐘的多檔案自主任務，中途如果因為任何原因中斷，能可靠地接著跑完是基本需求，這次更新直接解決了之前需要手動介入的失敗情境。"
+            },
+            {
+              "title": "GitHub Copilot 的 Next Edit Predictions 是個真正有用的新功能",
+              "body": "Next Edit Predictions 會在你改一個地方的時候，預測哪些其他檔案也需要跟著改並主動提示。這比只補全你在打的那行程式碼有用多了，因為它在解決一個真實的痛點：改完一個 function 之後還要自己去找哪些 call site 需要更新。MCP 和 OAuth 的支援讓 Copilot 也能用在 CI 和無頭環境，擴展了它的使用場景。"
+            },
+            {
+              "title": "Cursor 靠一致的互動編輯品質守住第二名",
+              "body": "這週沒有特別的功能發布讓 Cursor 的位置改變，但它在每天互動式編輯這個場景的穩定品質讓它繼續排第二。把高品質模型和原生 IDE 上下文理解結合在一起，是日常編程時需要判斷的那種重複性工作最需要的組合。Cursor 的護城河不是哪個單一功能，而是每個開發者每天累積起來的幾千次高品質互動。"
+            },
+            {
+              "title": "Aider 是需要模型彈性的團隊最強的開源選項",
+              "body": "Aider 的開放架構讓團隊可以自由換模型，在模型市場快速演進的現在這是真實的優勢。對廠商鎖定有顧慮、或有資料處理合規要求的團隊，這裡有個有實力的選項。終端機優先的工作方式比 IDE 原生工具有更高的上手成本，但對本來就習慣命令列的開發者來說，Aider 的模型彈性值得這個設定代價。"
             }
           ]
         }

@@ -1072,23 +1072,167 @@
     {
       "date": "2026-04-02",
       "rankings": [
-        { "id": "gpx2-dex", "rank": 1, "score": 9.2, "scores": { "sensor": 9.5, "latency": 9.5, "weight": 9, "build": 9.5, "value": 7.7 } },
-        { "id": "viper-v4-pro", "rank": 2, "score": 9.1, "scores": { "sensor": 9.5, "latency": 9.5, "weight": 9.8, "build": 9, "value": 7.5 } },
-        { "id": "da-v3-hyper", "rank": 3, "score": 9, "scores": { "sensor": 9, "latency": 9.2, "weight": 9.5, "build": 9, "value": 8.7 } },
-        { "id": "op1we", "rank": 4, "score": 9, "scores": { "sensor": 9.3, "latency": 9, "weight": 9.8, "build": 8.8, "value": 8.5 } },
-        { "id": "viper-v3-hyper", "rank": 5, "score": 8.9, "scores": { "sensor": 8.8, "latency": 9, "weight": 9, "build": 8.8, "value": 9.5 } },
-        { "id": "corsair-m75-air", "rank": 6, "score": 8.7, "scores": { "sensor": 9.2, "latency": 9, "weight": 9.5, "build": 8.5, "value": 8 } },
-        { "id": "fnatic-bolt", "rank": 7, "score": 8.5, "scores": { "sensor": 9.3, "latency": 8.8, "weight": 9, "build": 8.5, "value": 8.5 } },
-        { "id": "g502x-plus", "rank": 8, "score": 8.4, "scores": { "sensor": 9, "latency": 9, "weight": 6, "build": 9.5, "value": 8 } },
-        { "id": "ninjutso-sora-v2", "rank": 9, "score": 8.3, "scores": { "sensor": 9, "latency": 8.5, "weight": 9.8, "build": 8, "value": 9 } },
-        { "id": "pulsefire-haste2-w", "rank": 10, "score": 8.1, "scores": { "sensor": 8.5, "latency": 8.5, "weight": 9.3, "build": 8, "value": 9 } },
-        { "id": "prime-wireless", "rank": 11, "score": 8, "scores": { "sensor": 8.8, "latency": 8.8, "weight": 8.5, "build": 8.5, "value": 8 } },
-        { "id": "model-o-pro-w", "rank": 12, "score": 7.9, "scores": { "sensor": 9, "latency": 8.5, "weight": 9.5, "build": 7.5, "value": 8 } }
+        {
+          "id": "gpx2-dex",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "sensor": 9.5,
+            "latency": 9.5,
+            "weight": 9,
+            "build": 9.5,
+            "value": 7.7
+          }
+        },
+        {
+          "id": "viper-v4-pro",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "sensor": 9.5,
+            "latency": 9.5,
+            "weight": 9.8,
+            "build": 9,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "da-v3-hyper",
+          "rank": 3,
+          "score": 9,
+          "scores": {
+            "sensor": 9,
+            "latency": 9.2,
+            "weight": 9.5,
+            "build": 9,
+            "value": 8.7
+          }
+        },
+        {
+          "id": "op1we",
+          "rank": 4,
+          "score": 9,
+          "scores": {
+            "sensor": 9.3,
+            "latency": 9,
+            "weight": 9.8,
+            "build": 8.8,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "viper-v3-hyper",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "sensor": 8.8,
+            "latency": 9,
+            "weight": 9,
+            "build": 8.8,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "corsair-m75-air",
+          "rank": 6,
+          "score": 8.7,
+          "scores": {
+            "sensor": 9.2,
+            "latency": 9,
+            "weight": 9.5,
+            "build": 8.5,
+            "value": 8
+          }
+        },
+        {
+          "id": "fnatic-bolt",
+          "rank": 7,
+          "score": 8.5,
+          "scores": {
+            "sensor": 9.3,
+            "latency": 8.8,
+            "weight": 9,
+            "build": 8.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "g502x-plus",
+          "rank": 8,
+          "score": 8.4,
+          "scores": {
+            "sensor": 9,
+            "latency": 9,
+            "weight": 6,
+            "build": 9.5,
+            "value": 8
+          }
+        },
+        {
+          "id": "ninjutso-sora-v2",
+          "rank": 9,
+          "score": 8.3,
+          "scores": {
+            "sensor": 9,
+            "latency": 8.5,
+            "weight": 9.8,
+            "build": 8,
+            "value": 9
+          }
+        },
+        {
+          "id": "pulsefire-haste2-w",
+          "rank": 10,
+          "score": 8.1,
+          "scores": {
+            "sensor": 8.5,
+            "latency": 8.5,
+            "weight": 9.3,
+            "build": 8,
+            "value": 9
+          }
+        },
+        {
+          "id": "prime-wireless",
+          "rank": 11,
+          "score": 8,
+          "scores": {
+            "sensor": 8.8,
+            "latency": 8.8,
+            "weight": 8.5,
+            "build": 8.5,
+            "value": 8
+          }
+        },
+        {
+          "id": "model-o-pro-w",
+          "rank": 12,
+          "score": 7.9,
+          "scores": {
+            "sensor": 9,
+            "latency": 8.5,
+            "weight": 9.5,
+            "build": 7.5,
+            "value": 8
+          }
+        }
       ],
       "references": [
-        { "title": "Best Gaming Mouse of 2026 — RTINGS", "url": "https://www.rtings.com/mouse/reviews/best/by-usage/gaming", "source": "RTINGS" },
-        { "title": "2026 is shaping up to be a golden year for gaming mice as Razers FrameSync adds more goodies", "url": "https://www.pcgamer.com/hardware/gaming-mice/2026-is-shaping-up-to-be-a-golden-year-for-gaming-mice-as-razers-battery-boosting-framesync-adds-more-goodies-to-the-pot/", "source": "PC Gamer" },
-        { "title": "Best Gaming Mouse of 2026 — Tom's Hardware", "url": "https://www.tomshardware.com/best-picks/best-gaming-mouse", "source": "Tom's Hardware" }
+        {
+          "title": "Best Gaming Mouse of 2026 — RTINGS",
+          "url": "https://www.rtings.com/mouse/reviews/best/by-usage/gaming",
+          "source": "RTINGS"
+        },
+        {
+          "title": "2026 is shaping up to be a golden year for gaming mice as Razers FrameSync adds more goodies",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/2026-is-shaping-up-to-be-a-golden-year-for-gaming-mice-as-razers-battery-boosting-framesync-adds-more-goodies-to-the-pot/",
+          "source": "PC Gamer"
+        },
+        {
+          "title": "Best Gaming Mouse of 2026 — Tom's Hardware",
+          "url": "https://www.tomshardware.com/best-picks/best-gaming-mouse",
+          "source": "Tom's Hardware"
+        }
       ],
       "i18n": {
         "en": {
@@ -1130,6 +1274,226 @@
             {
               "title": "Viper V3 HyperSpeed 兩千多塊讓預算和旗艦的價差必須有很強的理由才說得通",
               "body": "HyperSpeed 無線、Focus X 感測器最高 400 IPS、82g，兩千多塊。三年前達到這個規格要五千以上。GPX2 DEX 台幣五千出頭有量測上真實存在的性能優勢，但這個差距需要誠實的理由：你多付了兩千塊買 400 IPS 以上的感測器精度、少 22g 的重量、和針對競技掌握爪握最佳化的外型。每天打四小時以上競技標題且感測器上限有影響的玩家，GPX2 DEX 值得這個溢價。休閒遊戲或低速場景的玩家，V3 HyperSpeed 是正確答案。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-04-03",
+      "rankings": [
+        {
+          "id": "gpx2-dex",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "sensor": 9.5,
+            "latency": 9.5,
+            "weight": 9.5,
+            "build": 9.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "viper-v4-pro",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "sensor": 9.5,
+            "latency": 9.5,
+            "weight": 9.0,
+            "build": 9.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "da-v3-hyper",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "sensor": 9.5,
+            "latency": 9.5,
+            "weight": 9.5,
+            "build": 8.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "op1we",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "sensor": 9.5,
+            "latency": 9.0,
+            "weight": 9.5,
+            "build": 8.5,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "viper-v3-hyper",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "sensor": 9.5,
+            "latency": 9.5,
+            "weight": 9.5,
+            "build": 8.0,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "corsair-m75-air",
+          "rank": 6,
+          "score": 8.7,
+          "scores": {
+            "sensor": 9.0,
+            "latency": 9.0,
+            "weight": 9.0,
+            "build": 9.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "fnatic-bolt",
+          "rank": 7,
+          "score": 8.5,
+          "scores": {
+            "sensor": 9.0,
+            "latency": 9.0,
+            "weight": 9.5,
+            "build": 8.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "g502x-plus",
+          "rank": 8,
+          "score": 8.4,
+          "scores": {
+            "sensor": 9.0,
+            "latency": 8.5,
+            "weight": 7.0,
+            "build": 9.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "ninjutso-sora-v2",
+          "rank": 9,
+          "score": 8.3,
+          "scores": {
+            "sensor": 9.0,
+            "latency": 9.0,
+            "weight": 9.5,
+            "build": 8.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "pulsefire-haste2-w",
+          "rank": 10,
+          "score": 8.1,
+          "scores": {
+            "sensor": 8.5,
+            "latency": 8.5,
+            "weight": 9.5,
+            "build": 8.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "prime-wireless",
+          "rank": 11,
+          "score": 8.0,
+          "scores": {
+            "sensor": 8.5,
+            "latency": 8.5,
+            "weight": 9.0,
+            "build": 8.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "model-o-pro-w",
+          "rank": 12,
+          "score": 7.9,
+          "scores": {
+            "sensor": 8.5,
+            "latency": 8.5,
+            "weight": 9.0,
+            "build": 8.0,
+            "value": 8.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "The Best Gaming Mouse of 2026",
+          "url": "https://www.rtings.com/mouse/reviews/best/by-usage/gaming",
+          "source": "RTINGS.com"
+        },
+        {
+          "title": "2026 is shaping up to be a golden year for gaming mice, as Razer's FrameSync adds more goodies",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/2026-is-shaping-up-to-be-a-golden-year-for-gaming-mice-as-razers-battery-boosting-framesync-adds-more-goodies-to-the-pot/",
+          "source": "PC Gamer"
+        },
+        {
+          "title": "Razer's new Viper V4 Pro could be as big of a deal for competitive gamers",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/razers-new-viper-v4-pro-could-be-as-big-of-a-deal-for-competitive-gamers-as-the-latest-nvidia-gpus-are-for-pc-gaming",
+          "source": "PC Gamer"
+        },
+        {
+          "title": "Glorious Brings Back the Original Model O With Classic Design",
+          "url": "https://www.guru3d.com/story/glorious-brings-back-the-original-model-o-with-classic-design/",
+          "source": "Guru3D"
+        },
+        {
+          "title": "Best Gaming Mouse of 2026: Top Wireless & FPS Picks",
+          "url": "https://www.g2a.com/news/features/best-gaming-mouse-of-2026-top-wireless-fps-picks-compared/",
+          "source": "G2A News"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "PC Gamer called 2026 a golden year for gaming mice, and April continues to justify that characterization. Razer's FrameSync technology is the most interesting peripheral innovation of the quarter: it synchronizes the mouse's polling rate with the GPU frame output, so inputs are registered at the exact moment the next frame is rendered rather than at a fixed interval. This reduces the effective input-to-display latency by eliminating polling phase misalignment. The Viper V4 Pro at rank 2 brings FrameSync support with Razer's best sensor implementation to date.\n\nGlorious is reintroducing the original Model O design as a Classic edition with modern internals. The honeycomb shell, ultralight under-70g weight, and the recognizable silhouette are returning with an updated optical sensor and a revised scroll wheel. This is a nod to one of the most influential mouse shapes in competitive gaming history, and it will likely resell the form factor to a new generation of players who missed it.\n\nThe Logitech G Pro X 2 Lightspeed DEX holds rank 1 for the same reasons it has since launch: the HERO 25K sensor delivers exceptional accuracy metrics at every DPI setting tested, the 60g weight is the right balance of light and durable for competitive play, and Lightspeed wireless is the latency benchmark that other manufacturers measure against. No single mouse has displaced it at the top of the performance charts.",
+          "highlights": [
+            {
+              "title": "Razer FrameSync is the most significant mouse technology innovation of 2026",
+              "body": "FrameSync synchronizes the mouse's report rate with the GPU's frame output timing. The practical effect is that input registration happens at the moment the next rendered frame begins, eliminating the phase offset between polling events and frame timing that adds unpredictable latency in high-framerate gaming. This is a meaningful reduction in input-to-display latency at 240+ Hz displays. The Viper V4 Pro is the first mouse to ship with FrameSync, and early testing shows measurable consistency improvements at the frame-by-frame level."
+            },
+            {
+              "title": "Logitech G Pro X 2 Lightspeed DEX holds rank 1 through sustained competitive performance",
+              "body": "The HERO 25K sensor's accuracy at multiple DPI settings continues to lead the category in measurement. The 60g weight is light enough for flick-shot accuracy while maintaining enough mass for precise tracking. Lightspeed wireless at 1ms report rate is still the latency standard others are engineered to match. Without a single mouse having displaced it across the combination of sensor accuracy, weight, and wireless reliability, the GPX2 DEX maintains rank 1 by continued domination of the measurement criteria."
+            },
+            {
+              "title": "Razer Viper V4 Pro introduces FrameSync and Razer's best sensor work to date",
+              "body": "FrameSync support combined with the Focus Pro 35K sensor represents Razer's most complete competitive mouse package. The 54g weight is lighter than the previous Viper V3 Pro, the wireless implementation now competes directly with Lightspeed on latency, and the symmetrical shape accommodates a wide range of grip styles. For players who want the most technically current mouse available today, the Viper V4 Pro is the product to evaluate first."
+            },
+            {
+              "title": "Glorious Model O Classic brings back the most influential ultralight shape in competitive gaming history",
+              "body": "The original Glorious Model O defined the mainstream ultralight honeycomb mouse category when it launched and influenced a generation of competing designs. The Classic edition returns the shape with an updated sensor and revised scroll wheel, which means new players get the form factor that professional teams validated in tournament play. For anyone who plays on a large pad with a low DPI, wrist-based aim style, the Model O Classic's dimensions and weight distribution remain one of the most ergonomically sound choices in this category."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "PC Gamer 說 2026 是電競滑鼠的黃金年，四月繼續印證這個說法。Razer 的 FrameSync 技術是這季最有意思的外設創新：它把滑鼠的回報率和 GPU 的影格輸出同步，讓輸入在下一個影格開始渲染的瞬間被記錄，消除了回報週期和影格時機之間的相位差，在高更新率螢幕上有可量測的延遲改善。Razer Viper V4 Pro 是第一支搭載 FrameSync 的滑鼠，排第二。\n\nGlorious 把原版 Model O 以 Classic 版本的名義重新推出，蜂巢外殼、70g 以下、標誌性的外形輪廓回來了，裡面換上了新的光學感測器和改良的滾輪。Model O 是電競滑鼠歷史上影響力最大的超輕量設計之一，這個重新發行讓沒趕上第一代的玩家有機會拿到那個被職業選手在賽場上驗證過的形狀。\n\nLogitech G Pro X 2 Lightspeed DEX 繼續第一。HERO 25K 感測器在各 DPI 設定下的精準度量測繼續領先品類，60g 重量在輕量化和耐用性之間取得對競技玩家最實際的平衡，Lightspeed 無線的延遲是其他廠商的基準線。沒有任何一支滑鼠在感測器、重量、無線可靠性的組合上取代了它。",
+          "highlights": [
+            {
+              "title": "Razer FrameSync 是 2026 年最值得注意的滑鼠技術創新",
+              "body": "FrameSync 把滑鼠的回報率和 GPU 的影格輸出時機同步，輸入在下一個渲染影格開始的瞬間被記錄，消除了固定回報週期和影格時機之間的相位偏移。在 240Hz 以上的螢幕下，這對輸入到畫面的延遲一致性有可量測的改善。Viper V4 Pro 是第一支搭載 FrameSync 的滑鼠，早期測試已看到影格級別的延遲一致性提升。"
+            },
+            {
+              "title": "Logitech G Pro X 2 Lightspeed DEX 靠持續領先的量測數據守住第一",
+              "body": "HERO 25K 感測器在多個 DPI 設定下的精準度量測繼續在品類裡領先。60g 重量在競技玩家的使用場景下是最實際的平衡點，Lightspeed 無線 1ms 回報率仍是其他廠商工程對標的基準。在感測器精準度、重量、無線可靠性的組合上沒有任何滑鼠替代了它，第一名維持不變。"
+            },
+            {
+              "title": "Razer Viper V4 Pro 是目前技術規格最新的競技滑鼠",
+              "body": "FrameSync 加上 Focus Pro 35K 感測器是 Razer 目前最完整的競技滑鼠規格組合。54g 比 Viper V3 Pro 更輕，無線延遲現在直接和 Lightspeed 競爭，對稱形狀適合多種握法。想要最新技術規格的玩家，這是目前要優先評估的那支。"
+            },
+            {
+              "title": "Glorious Model O Classic 復刻了電競滑鼠歷史上影響力最大的超輕量外形",
+              "body": "原版 Glorious Model O 當年定義了主流超輕量蜂巢滑鼠品類，影響了後來一整代競品的設計。Classic 版本帶著更新的感測器和改良滾輪把這個外形帶回來，讓沒趕上第一代的玩家能拿到被職業選手在賽場驗證過的形狀。大鼠墊、低 DPI、手腕瞄準的玩家，Model O Classic 的尺寸和重量分布在這份榜單裡仍然是最合理的選擇之一。"
             }
           ]
         }

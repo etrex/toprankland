@@ -854,23 +854,167 @@
     {
       "date": "2026-04-02",
       "rankings": [
-        { "id": "wooting-60he", "rank": 1, "score": 9.3, "scores": { "switches": 9.8, "build": 9, "features": 9.5, "latency": 9.8, "value": 8.5 } },
-        { "id": "steelseries-apex-pro-tkl-w", "rank": 2, "score": 9.1, "scores": { "switches": 9.5, "build": 8.8, "features": 9.3, "latency": 9, "value": 8.5 } },
-        { "id": "keychron-q1-pro", "rank": 3, "score": 8.9, "scores": { "switches": 9.2, "build": 9.5, "features": 9, "latency": 8.3, "value": 8.6 } },
-        { "id": "logitech-g915-tkl", "rank": 4, "score": 8.8, "scores": { "switches": 8.5, "build": 9.2, "features": 9, "latency": 8.8, "value": 8.5 } },
-        { "id": "ducky-one3", "rank": 5, "score": 8.6, "scores": { "switches": 9, "build": 8.8, "features": 8, "latency": 8.5, "value": 9.3 } },
-        { "id": "corsair-k100-air", "rank": 6, "score": 8.5, "scores": { "switches": 8.8, "build": 9, "features": 9, "latency": 8.5, "value": 7.5 } },
-        { "id": "razer-blackwidow-v4-pro", "rank": 7, "score": 8.3, "scores": { "switches": 8.5, "build": 8.5, "features": 8.8, "latency": 8.8, "value": 7.8 } },
-        { "id": "keychron-k8-pro", "rank": 8, "score": 8.2, "scores": { "switches": 8.5, "build": 8, "features": 8.5, "latency": 8, "value": 9.5 } },
-        { "id": "nuphy-air75-v2", "rank": 9, "score": 8, "scores": { "switches": 8, "build": 8.5, "features": 8, "latency": 8, "value": 8.8 } },
-        { "id": "mountain-everest-max", "rank": 10, "score": 7.9, "scores": { "switches": 8.5, "build": 9, "features": 8.5, "latency": 8, "value": 7.5 } },
-        { "id": "rog-strix-scope2-rx", "rank": 11, "score": 7.7, "scores": { "switches": 8.2, "build": 8, "features": 8, "latency": 8.5, "value": 8 } },
-        { "id": "hyperx-alloy-origins-core", "rank": 12, "score": 7.5, "scores": { "switches": 7.8, "build": 8, "features": 7, "latency": 8, "value": 9.5 } }
+        {
+          "id": "wooting-60he",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "switches": 9.8,
+            "build": 9,
+            "features": 9.5,
+            "latency": 9.8,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "steelseries-apex-pro-tkl-w",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "switches": 9.5,
+            "build": 8.8,
+            "features": 9.3,
+            "latency": 9,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "keychron-q1-pro",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "switches": 9.2,
+            "build": 9.5,
+            "features": 9,
+            "latency": 8.3,
+            "value": 8.6
+          }
+        },
+        {
+          "id": "logitech-g915-tkl",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "switches": 8.5,
+            "build": 9.2,
+            "features": 9,
+            "latency": 8.8,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "ducky-one3",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "switches": 9,
+            "build": 8.8,
+            "features": 8,
+            "latency": 8.5,
+            "value": 9.3
+          }
+        },
+        {
+          "id": "corsair-k100-air",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "switches": 8.8,
+            "build": 9,
+            "features": 9,
+            "latency": 8.5,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "razer-blackwidow-v4-pro",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "switches": 8.5,
+            "build": 8.5,
+            "features": 8.8,
+            "latency": 8.8,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "keychron-k8-pro",
+          "rank": 8,
+          "score": 8.2,
+          "scores": {
+            "switches": 8.5,
+            "build": 8,
+            "features": 8.5,
+            "latency": 8,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "nuphy-air75-v2",
+          "rank": 9,
+          "score": 8,
+          "scores": {
+            "switches": 8,
+            "build": 8.5,
+            "features": 8,
+            "latency": 8,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "mountain-everest-max",
+          "rank": 10,
+          "score": 7.9,
+          "scores": {
+            "switches": 8.5,
+            "build": 9,
+            "features": 8.5,
+            "latency": 8,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "rog-strix-scope2-rx",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "switches": 8.2,
+            "build": 8,
+            "features": 8,
+            "latency": 8.5,
+            "value": 8
+          }
+        },
+        {
+          "id": "hyperx-alloy-origins-core",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "switches": 7.8,
+            "build": 8,
+            "features": 7,
+            "latency": 8,
+            "value": 9.5
+          }
+        }
       ],
       "references": [
-        { "title": "Keychron launches Q Ultra keyboard series with 660-hour battery and 8K polling", "url": "https://www.tomshardware.com/peripherals/keyboards/keychron-launches-wireless-q-ultra-keyboard-series-with-up-to-660-hours-of-battery-life-with-8k-polling-thanks-to-zmk-firmware", "source": "Tom's Hardware" },
-        { "title": "Keychron Q1 Ultra mechanical keyboard for Mac hands-on", "url": "https://9to5mac.com/2026/02/12/new-keychron-q1-ultra-mechanical-keyboard-for-mac-hands-on/", "source": "9to5Mac" },
-        { "title": "Best Mechanical Keyboards 2026 — RTINGS", "url": "https://www.rtings.com/keyboard/reviews/best/mechanical", "source": "RTINGS" }
+        {
+          "title": "Keychron launches Q Ultra keyboard series with 660-hour battery and 8K polling",
+          "url": "https://www.tomshardware.com/peripherals/keyboards/keychron-launches-wireless-q-ultra-keyboard-series-with-up-to-660-hours-of-battery-life-with-8k-polling-thanks-to-zmk-firmware",
+          "source": "Tom's Hardware"
+        },
+        {
+          "title": "Keychron Q1 Ultra mechanical keyboard for Mac hands-on",
+          "url": "https://9to5mac.com/2026/02/12/new-keychron-q1-ultra-mechanical-keyboard-for-mac-hands-on/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "Best Mechanical Keyboards 2026 — RTINGS",
+          "url": "https://www.rtings.com/keyboard/reviews/best/mechanical",
+          "source": "RTINGS"
+        }
       ],
       "i18n": {
         "en": {
@@ -912,6 +1056,226 @@
             {
               "title": "Keychron Q1 Pro 是非遊戲鍵盤品質的基準，QMK/Via 改變了你和鍵盤的關係",
               "body": "QMK/Via 可程式化讓你用完全開源的軟體控制每個鍵、每個層和每個巨集，不依賴任何雲端服務。Gasket-mount 吸收按鍵振動的效果很出色，帶來高端鍵盤特有的柔和厚實聲音。對每天打八小時字的開發者，Q1 Pro 帶來的人體工學和聲學體驗改變了你和鍵盤之間的關係。六千出頭的定價，是把打字品質放在競技延遲前面的用戶的基準購買選擇。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-04-03",
+      "rankings": [
+        {
+          "id": "wooting-60he",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "switches": 9.8,
+            "build": 9.0,
+            "features": 9.5,
+            "latency": 9.8,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "steelseries-apex-pro-tkl-w",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "switches": 9.5,
+            "build": 9.0,
+            "features": 9.5,
+            "latency": 9.5,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "keychron-q1-pro",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "switches": 9.0,
+            "build": 9.5,
+            "features": 8.5,
+            "latency": 8.5,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "logitech-g915-tkl",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "switches": 8.5,
+            "build": 9.0,
+            "features": 9.0,
+            "latency": 9.0,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "ducky-one3",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "switches": 9.0,
+            "build": 9.0,
+            "features": 8.0,
+            "latency": 8.5,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "corsair-k100-air",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "switches": 8.5,
+            "build": 8.5,
+            "features": 9.0,
+            "latency": 8.5,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "razer-blackwidow-v4-pro",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "switches": 8.5,
+            "build": 8.5,
+            "features": 8.5,
+            "latency": 8.5,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "keychron-k8-pro",
+          "rank": 8,
+          "score": 8.2,
+          "scores": {
+            "switches": 8.5,
+            "build": 8.5,
+            "features": 8.0,
+            "latency": 8.0,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "nuphy-air75-v2",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "switches": 8.0,
+            "build": 8.0,
+            "features": 8.0,
+            "latency": 7.5,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "mountain-everest-max",
+          "rank": 10,
+          "score": 7.9,
+          "scores": {
+            "switches": 8.0,
+            "build": 8.5,
+            "features": 9.0,
+            "latency": 7.5,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "rog-strix-scope2-rx",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "switches": 8.5,
+            "build": 8.0,
+            "features": 7.5,
+            "latency": 8.0,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "hyperx-alloy-origins-core",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "switches": 7.5,
+            "build": 8.0,
+            "features": 7.5,
+            "latency": 7.5,
+            "value": 8.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "The 7 Best Mechanical Keyboards of 2026",
+          "url": "https://www.rtings.com/keyboard/reviews/best/mechanical",
+          "source": "RTINGS.com"
+        },
+        {
+          "title": "The best mechanical keyboards of 2026, tested",
+          "url": "https://www.cnn.com/cnn-underscored/reviews/best-mechanical-keyboards",
+          "source": "CNN Underscored"
+        },
+        {
+          "title": "Wooting 80HE Review 2026: 8KHz Hall Effect Gaming Keyboard Tested",
+          "url": "https://levelupblogs.com/review/wooting-80he-keyboard-review/",
+          "source": "Level Up Blogs"
+        },
+        {
+          "title": "Wooting 80HE Keyboard Review",
+          "url": "https://www.rtings.com/keyboard/reviews/wooting/80he",
+          "source": "RTINGS.com"
+        },
+        {
+          "title": "Best mechanical keyboard 2026: our top picks",
+          "url": "https://www.techradar.com/best/best-mechanical-keyboards",
+          "source": "TechRadar"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The Wooting 60HE holds rank 1, and the competitive gaming keyboard landscape in April 2026 continues to validate that decision. Wooting launched the 80HE, a tenkeyless sibling with the same Lekker Hall Effect switches and 8000 Hz polling rate. Early reviews confirm the 80HE delivers the same latency profile as the 60HE with more key real estate. This reinforces Wooting's position as the company building the most technically advanced switches available in a production keyboard at non-custom pricing.\n\nThe Lekker switch's analog actuation point adjustment remains the core competitive advantage. The ability to set actuation at 0.1mm means effectively zero pre-travel before registration. At 8KHz polling, the latency between keypress and system registration is below 0.125ms. For competitive gaming, this combination is genuinely unmatched by traditional mechanical or optical switches. The SteelSeries Apex Pro TKL Wireless at rank 2 offers the closest magnetic switch implementation in a wireless form factor.\n\nKeychron Q1 Pro at rank 3 remains the best choice for users who want a premium typing experience for work and don't need the competitive gaming features. The aluminum chassis, pre-lubed switches, and gasket mount deliver a typing feel that costs $300+ to replicate in the custom keyboard market. At $199 QMK-compatible, it is the most accessible path to custom keyboard quality without the custom keyboard process.",
+          "highlights": [
+            {
+              "title": "Wooting 80HE confirms Hall Effect switches at 8KHz are the new competitive standard",
+              "body": "The Wooting 80HE, announced and reviewed this month, delivers the same Lekker switch performance in a tenkeyless layout that many competitive players prefer. The 8000 Hz polling rate and 0.1mm actuation point floor are the specifications that define the current ceiling for switch responsiveness. No traditional mechanical or optical switch implementation reaches this latency profile. Wooting's decision to price these at consumer market rates rather than custom keyboard pricing is what makes them accessible."
+            },
+            {
+              "title": "SteelSeries Apex Pro TKL Wireless brings magnetic switch performance to a wireless form factor",
+              "body": "The Apex Pro TKL Wireless achieves sub-1ms wireless latency through SteelSeries' 2.4GHz implementation, which is competitive with wired performance. The OmniPoint 2.0 magnetic switches offer adjustable actuation from 0.1mm to 4.0mm, matching Wooting's core competitive feature in a wireless package. For players who prefer wireless setup or tournament configurations where cable management matters, the Apex Pro TKL Wireless is the correct alternative at rank 2."
+            },
+            {
+              "title": "Keychron Q1 Pro delivers custom keyboard quality at a production keyboard price",
+              "body": "The aluminum chassis, pre-lubed POM plate, gasket mount, and south-facing RGB lighting add up to a typing experience that custom keyboard builders would price at $300 to $400 to assemble from components. At $199 QMK-compatible, Keychron has packaged this into a production keyboard that accepts standard key switch swaps and runs open-source firmware. For professionals who want a satisfying typing tool for daily writing and coding without entering the custom keyboard hobby, this is the most direct path."
+            },
+            {
+              "title": "Nuphy Air75 V2 is the best low-profile option for users who travel with their keyboards",
+              "body": "Low-profile mechanical switches in a 75% layout at 900 grams is the formula for a keyboard you can realistically carry to the office or conference. The Air75 V2's Nuphy Aloe switches provide a recognizable mechanical tactile response without the keycap height that makes full-profile keyboards impractical for travel. For developers who work across multiple locations and want consistent typing feedback, the Air75 V2 is the machine to pack."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Wooting 60HE 繼續第一，而且這個月 Wooting 新發表的 80HE 進一步鞏固了這個判斷。80HE 是同款 Lekker Hall Effect 磁軸加 8000Hz 回報率的 TKL 版本，早期評測確認延遲表現和 60HE 一樣，只是多了幾排按鍵。Wooting 現在用消費市場的定價在出售客製化鍵盤等級的軸體技術，這在鍵盤市場是很清楚的定位。\n\nLekker 磁軸的觸發點可以調到 0.1mm，加上 8KHz 回報率，從按鍵到系統接收的延遲在 0.125ms 以下。競技遊戲場景裡，沒有傳統機械軸或光軸能到這個延遲水準。SteelSeries Apex Pro TKL 無線版在第二名提供了在無線形式下最接近的磁軸方案。\n\nKeychron Q1 Pro 第三名，給需要優質打字體驗但不玩競技遊戲的用戶。鋁合金機身、預潤軸、墊片懸浮結構，這個組合在客製化鍵盤市場要花三萬以上才能組出來，台幣六千多的售價和 QMK 相容性讓它是最容易入手的高品質打字機。",
+          "highlights": [
+            {
+              "title": "Wooting 80HE 確認了 Hall Effect 磁軸加 8KHz 是競技鍵盤的新標準",
+              "body": "Wooting 這個月發表並開始接受評測的 80HE，在 TKL 配列上交出了和 60HE 相同的 Lekker 磁軸表現。8000Hz 回報率加上觸發點可調到 0.1mm，這是目前按鍵響應的天花板，傳統機械軸和光軸達不到這個延遲。Wooting 用消費市場定價出售這個規格，是讓競技鍵盤技術從小眾客製圈走向主流的關鍵。"
+            },
+            {
+              "title": "SteelSeries Apex Pro TKL 無線版讓磁軸進入無線市場",
+              "body": "Apex Pro TKL 無線版透過 2.4GHz 實現的無線延遲接近有線水準，OmniPoint 2.0 磁軸的觸發點可以從 0.1mm 調到 4.0mm，和 Wooting 的核心競技功能齊平。對偏好無線配置或賽場線材管理有需求的玩家，這是第二名最直接的替代方案。"
+            },
+            {
+              "title": "Keychron Q1 Pro 用客製化鍵盤的品質，賣生產型鍵盤的價格",
+              "body": "鋁合金機身、預潤 POM 板、墊片懸浮、朝南 RGB，這個規格組合在客製化鍵盤圈要自己選料組裝得花台幣一萬以上。Keychron 把這些打包成一個 QMK 相容的生產型鍵盤，台幣約 NT$6,000 出頭，可以換軸、跑開源韌體，是想要高品質打字感但不想進客製化坑的人最直接的選擇。"
+            },
+            {
+              "title": "NuPhy Air75 V2 是需要帶著鍵盤到處跑的人的最佳低矮鍵盤",
+              "body": "低矮機械軸加 75% 配列，機身九百多克，這是一個可以真的帶去辦公室或出差的鍵盤。Air75 V2 的 NuPhy Aloe 軸提供有段落感的機械軸回饋，又不像全高鍵帽那樣讓鍵盤變得難攜帶。常在多個地點工作、需要一致打字手感的開發者，這台是最值得裝進包包的選擇。"
             }
           ]
         }

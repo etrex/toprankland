@@ -1268,26 +1268,203 @@
     {
       "date": "2026-04-02",
       "rankings": [
-        { "id": "airpods-pro-2", "rank": 1, "score": 9.1, "scores": { "sound": 9, "anc": 9.5, "battery": 8.5, "comfort": 9.2, "value": 7.7 } },
-        { "id": "bose-qce2", "rank": 2, "score": 8.9, "scores": { "sound": 8.8, "anc": 9.8, "battery": 8, "comfort": 9, "value": 7.5 } },
-        { "id": "sony-wf-1000xm5", "rank": 3, "score": 8.7, "scores": { "sound": 9.5, "anc": 9.3, "battery": 8.8, "comfort": 8.5, "value": 7.2 } },
-        { "id": "samsung-buds3-pro", "rank": 4, "score": 8.6, "scores": { "sound": 8.8, "anc": 8.8, "battery": 8.5, "comfort": 8.5, "value": 8.1 } },
-        { "id": "jabra-elite10", "rank": 5, "score": 8.6, "scores": { "sound": 8.7, "anc": 8.5, "battery": 9, "comfort": 8.8, "value": 8 } },
-        { "id": "sennheiser-mtw4", "rank": 6, "score": 8.5, "scores": { "sound": 9.2, "anc": 8.2, "battery": 8.8, "comfort": 8.5, "value": 7.5 } },
-        { "id": "nothing-ear2", "rank": 7, "score": 8.2, "scores": { "sound": 8.2, "anc": 7.8, "battery": 8.5, "comfort": 8.5, "value": 9 } },
-        { "id": "jabra-elite8-active", "rank": 8, "score": 8.1, "scores": { "sound": 7.8, "anc": 8, "battery": 8.5, "comfort": 8.5, "value": 8.3 } },
-        { "id": "beats-fit-pro", "rank": 9, "score": 7.9, "scores": { "sound": 8, "anc": 7.8, "battery": 7.5, "comfort": 8.5, "value": 8 } },
-        { "id": "pixel-buds-pro2", "rank": 10, "score": 7.8, "scores": { "sound": 7.8, "anc": 7.8, "battery": 7.5, "comfort": 8, "value": 7.8 } },
-        { "id": "anker-liberty4-nc", "rank": 11, "score": 7.6, "scores": { "sound": 7.5, "anc": 7.8, "battery": 8.5, "comfort": 7.5, "value": 9.5 } },
-        { "id": "sony-wf-c700n", "rank": 12, "score": 7.4, "scores": { "sound": 7.5, "anc": 7.5, "battery": 7.5, "comfort": 7.5, "value": 8.5 } },
-        { "id": "oneplus-buds3", "rank": 13, "score": 7.2, "scores": { "sound": 7.3, "anc": 7, "battery": 9, "comfort": 7, "value": 9 } },
-        { "id": "earfun-air-pro4", "rank": 14, "score": 7, "scores": { "sound": 7, "anc": 7.2, "battery": 8, "comfort": 7, "value": 9.5 } },
-        { "id": "edifier-neobpro2", "rank": 15, "score": 6.9, "scores": { "sound": 7.5, "anc": 6.8, "battery": 7, "comfort": 6.5, "value": 8.5 } }
+        {
+          "id": "airpods-pro-2",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "sound": 9,
+            "anc": 9.5,
+            "battery": 8.5,
+            "comfort": 9.2,
+            "value": 7.7
+          }
+        },
+        {
+          "id": "bose-qce2",
+          "rank": 2,
+          "score": 8.9,
+          "scores": {
+            "sound": 8.8,
+            "anc": 9.8,
+            "battery": 8,
+            "comfort": 9,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "sony-wf-1000xm5",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "sound": 9.5,
+            "anc": 9.3,
+            "battery": 8.8,
+            "comfort": 8.5,
+            "value": 7.2
+          }
+        },
+        {
+          "id": "samsung-buds3-pro",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "sound": 8.8,
+            "anc": 8.8,
+            "battery": 8.5,
+            "comfort": 8.5,
+            "value": 8.1
+          }
+        },
+        {
+          "id": "jabra-elite10",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "sound": 8.7,
+            "anc": 8.5,
+            "battery": 9,
+            "comfort": 8.8,
+            "value": 8
+          }
+        },
+        {
+          "id": "sennheiser-mtw4",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "sound": 9.2,
+            "anc": 8.2,
+            "battery": 8.8,
+            "comfort": 8.5,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "nothing-ear2",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "sound": 8.2,
+            "anc": 7.8,
+            "battery": 8.5,
+            "comfort": 8.5,
+            "value": 9
+          }
+        },
+        {
+          "id": "jabra-elite8-active",
+          "rank": 8,
+          "score": 8.1,
+          "scores": {
+            "sound": 7.8,
+            "anc": 8,
+            "battery": 8.5,
+            "comfort": 8.5,
+            "value": 8.3
+          }
+        },
+        {
+          "id": "beats-fit-pro",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "sound": 8,
+            "anc": 7.8,
+            "battery": 7.5,
+            "comfort": 8.5,
+            "value": 8
+          }
+        },
+        {
+          "id": "pixel-buds-pro2",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "sound": 7.8,
+            "anc": 7.8,
+            "battery": 7.5,
+            "comfort": 8,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "anker-liberty4-nc",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "sound": 7.5,
+            "anc": 7.8,
+            "battery": 8.5,
+            "comfort": 7.5,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "sony-wf-c700n",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "sound": 7.5,
+            "anc": 7.5,
+            "battery": 7.5,
+            "comfort": 7.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "oneplus-buds3",
+          "rank": 13,
+          "score": 7.2,
+          "scores": {
+            "sound": 7.3,
+            "anc": 7,
+            "battery": 9,
+            "comfort": 7,
+            "value": 9
+          }
+        },
+        {
+          "id": "earfun-air-pro4",
+          "rank": 14,
+          "score": 7,
+          "scores": {
+            "sound": 7,
+            "anc": 7.2,
+            "battery": 8,
+            "comfort": 7,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "edifier-neobpro2",
+          "rank": 15,
+          "score": 6.9,
+          "scores": {
+            "sound": 7.5,
+            "anc": 6.8,
+            "battery": 7,
+            "comfort": 6.5,
+            "value": 8.5
+          }
+        }
       ],
       "references": [
-        { "title": "Best Wireless Earbuds 2026 — SoundGuys", "url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/", "source": "SoundGuys" },
-        { "title": "Best Wireless Earbuds 2026 — RTINGS", "url": "https://www.rtings.com/headphones/reviews/best/wireless-earbuds", "source": "RTINGS" },
-        { "title": "Best Wireless Earbuds 2026 Tested and Rated — Tom's Guide", "url": "https://www.tomsguide.com/us/best-wireless-earbuds,review-6160.html", "source": "Tom's Guide" }
+        {
+          "title": "Best Wireless Earbuds 2026 — SoundGuys",
+          "url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+          "source": "SoundGuys"
+        },
+        {
+          "title": "Best Wireless Earbuds 2026 — RTINGS",
+          "url": "https://www.rtings.com/headphones/reviews/best/wireless-earbuds",
+          "source": "RTINGS"
+        },
+        {
+          "title": "Best Wireless Earbuds 2026 Tested and Rated — Tom's Guide",
+          "url": "https://www.tomsguide.com/us/best-wireless-earbuds,review-6160.html",
+          "source": "Tom's Guide"
+        }
       ],
       "i18n": {
         "en": {
@@ -1329,6 +1506,262 @@
             {
               "title": "Nothing Ear(2) 仍是預算段最紮實的推薦，台幣三千出頭的驚喜感沒有退",
               "body": "Nothing Ear(2) 持續以台幣三千出頭交付 LHDC 5.0、有效 ANC 和 IP54 防水，這份規格三年前要台幣七千以上。台幣三千出頭對台幣七千五的差距，在實際使用上比規格表看起來的小很多，這是預算段性價比真正壓縮的結果。第一次建立無線耳機配備或補買替換品的買家，Ear(2) 是值得認真考慮的起點。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-04-03",
+      "rankings": [
+        {
+          "id": "airpods-pro-2",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "sound": 9.0,
+            "anc": 9.2,
+            "battery": 9.0,
+            "comfort": 9.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "bose-qce2",
+          "rank": 2,
+          "score": 8.9,
+          "scores": {
+            "sound": 9.0,
+            "anc": 9.5,
+            "battery": 8.5,
+            "comfort": 9.0,
+            "value": 8.3
+          }
+        },
+        {
+          "id": "sony-wf-1000xm5",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "sound": 9.2,
+            "anc": 8.8,
+            "battery": 8.5,
+            "comfort": 8.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "samsung-buds3-pro",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "sound": 8.5,
+            "anc": 8.5,
+            "battery": 9.0,
+            "comfort": 8.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "jabra-elite10",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "sound": 8.8,
+            "anc": 8.5,
+            "battery": 8.8,
+            "comfort": 9.0,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "sennheiser-mtw4",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "sound": 9.2,
+            "anc": 8.0,
+            "battery": 8.5,
+            "comfort": 8.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "nothing-ear2",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "sound": 8.5,
+            "anc": 8.0,
+            "battery": 8.5,
+            "comfort": 8.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "jabra-elite8-active",
+          "rank": 8,
+          "score": 8.1,
+          "scores": {
+            "sound": 8.0,
+            "anc": 8.0,
+            "battery": 8.5,
+            "comfort": 8.5,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "beats-fit-pro",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "sound": 8.0,
+            "anc": 7.8,
+            "battery": 8.0,
+            "comfort": 8.5,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "pixel-buds-pro2",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "sound": 8.0,
+            "anc": 7.8,
+            "battery": 8.0,
+            "comfort": 8.0,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "anker-liberty4-nc",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "sound": 7.5,
+            "anc": 7.5,
+            "battery": 8.0,
+            "comfort": 7.5,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "sony-wf-c700n",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "sound": 7.5,
+            "anc": 7.5,
+            "battery": 7.5,
+            "comfort": 7.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "oneplus-buds3",
+          "rank": 13,
+          "score": 7.2,
+          "scores": {
+            "sound": 7.5,
+            "anc": 7.0,
+            "battery": 7.5,
+            "comfort": 7.5,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "earfun-air-pro4",
+          "rank": 14,
+          "score": 7.0,
+          "scores": {
+            "sound": 7.0,
+            "anc": 7.0,
+            "battery": 7.5,
+            "comfort": 7.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "edifier-neobpro2",
+          "rank": 15,
+          "score": 6.9,
+          "scores": {
+            "sound": 7.0,
+            "anc": 6.5,
+            "battery": 7.5,
+            "comfort": 7.0,
+            "value": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "The best wireless earbuds of 2026",
+          "url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+          "source": "SoundGuys"
+        },
+        {
+          "title": "The 7 Best Wireless Earbuds of 2026",
+          "url": "https://www.rtings.com/headphones/reviews/best/wireless-earbuds",
+          "source": "RTINGS.com"
+        },
+        {
+          "title": "Best wireless earbuds 2026: top pairs tested",
+          "url": "https://www.whathifi.com/best-buys/best-wireless-earbuds-budget-and-premium",
+          "source": "What Hi-Fi?"
+        },
+        {
+          "title": "Best wireless earbuds 2026 — tested and rated",
+          "url": "https://www.tomsguide.com/us/best-wireless-earbuds,review-6160.html",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "7 New Wireless Earbuds That Just Raised the Stakes",
+          "url": "https://the-gadgeteer.com/2026/03/10/7-new-wireless-earbuds-that-just-raised-the-stakes/",
+          "source": "The Gadgeteer"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The wireless earbud market context for April 2026 requires transparency: both the Sony WF-1000XM6 ($329.99) and AirPods Pro 3 have shipped and are receiving strong reviews. The WF-1000XM6 posts 88% average noise reduction across all frequencies according to early testing, and the AirPods Pro 3 shows improved bass response over the Pro 2. Samsung Galaxy Buds4 Pro shipped March 11 at $249.99 with competitive ANC performance.\n\nThis ranking continues to track the WF-1000XM5, AirPods Pro 2, and Buds3 Pro as established, widely available reference points. The newer models are genuine improvements, and I'll update this list to incorporate them once testing data is more comprehensive.\n\nWithin the current tracked field, rankings are unchanged. AirPods Pro 2 holds rank 1 due to the combination of best-in-class Apple ecosystem integration, strong ANC, and broad availability. Bose QC Earbuds 2 holds rank 2 with the highest absolute noise cancellation measurement among tracked products. The Sony WF-1000XM5 at rank 3 delivers the best sound quality in this list, with audiophile-grade LDAC support. For Samsung users, the Galaxy Buds3 Pro at rank 4 delivers tight ecosystem integration and competitive ANC at $249.99.",
+          "highlights": [
+            {
+              "title": "Sony WF-1000XM6 and AirPods Pro 3 are out and they are both strong",
+              "body": "The WF-1000XM6 at $329.99 represents a meaningful upgrade with 88% average ANC across all frequencies in early testing and improved AI beamforming microphones. AirPods Pro 3 shows stronger bass response and improved noise cancellation over the Pro 2. This ranking currently tracks the previous generation as reference models, but these new releases will be incorporated as testing data matures. If you're buying today and care about ANC performance, the WF-1000XM6 is worth considering seriously."
+            },
+            {
+              "title": "AirPods Pro 2 holds rank 1 through ecosystem integration depth",
+              "body": "Spatial Audio, seamless switching across Apple devices, and Adaptive Transparency remain the most refined implementation of these features across any earbuds. For users in the Apple ecosystem, no product delivers the same frictionless integration. The ANC performance is excellent and the hardware reliability record is strong after two-plus years of market presence. At $179 after typical discounting, this is where the AirPods Pro 2 earns its value."
+            },
+            {
+              "title": "Bose QC Earbuds 2 delivers the strongest pure ANC measurement on this list",
+              "body": "Among tracked products, the Bose QC Earbuds 2 records the highest passive and active noise reduction in independent measurement. For commuters, frequent flyers, or anyone working in noisy environments where sonic isolation is the primary requirement, this is the product to own. Sound quality is good but tuned for clarity in noisy environments rather than audiophile listening. The battery at 6 hours per charge is shorter than the category average, which is the only meaningful trade-off."
+            },
+            {
+              "title": "Sony WF-1000XM5 remains the best choice for pure sound quality in this list",
+              "body": "LDAC support at 990kbps delivers genuinely higher-resolution audio than competing codecs when paired with an Android device and a compatible streaming service. The sound signature is well-tuned for both music and voice content, and Sony's 360 Reality Audio implementation is the most refined spatial audio system on Android. For listeners who prioritize audio fidelity over ANC depth, the WF-1000XM5 at $279 (with frequent discounts to $249) delivers the best listening experience tracked here."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "四月初的無線耳機市場有幾個新的重要變數需要說明：Sony WF-1000XM6 在二月以 NT$9,990 上市，早期測試的 ANC 降噪幅度 88% 是全品類最高；AirPods Pro 3 低頻和降噪表現都比 Pro 2 更好；Samsung Galaxy Buds4 Pro 三月中以約 NT$8,490 開賣，ANC 有競爭力。\n\n這份排行目前繼續追蹤 WF-1000XM5、AirPods Pro 2 和 Buds3 Pro 作為已有充分測試數據的基準機型，等新款累積足夠評測資料後會納入。\n\n目前榜單排名維持不變。AirPods Pro 2 第一，靠的是 Apple 生態系整合深度、穩定的 ANC 表現和廣泛的市場普及率。Bose QC Earbuds 2 第二，榜單裡測試數據最高的純降噪表現。Sony WF-1000XM5 第三，音質是榜單裡最好的，LDAC 高解析支援讓它在聽音樂這件事上最完整。Samsung Buds3 Pro 第四，是 Samsung 生態系用戶在降噪和音質之間最均衡的選擇。",
+          "highlights": [
+            {
+              "title": "Sony WF-1000XM6 和 AirPods Pro 3 都上市了，都很強",
+              "body": "WF-1000XM6 台幣約 NT$9,990，早期測試的 ANC 全頻降噪幅度 88%，AI 降噪麥克風也有明顯升級。AirPods Pro 3 低頻和降噪都比 Pro 2 更好。這份排行目前還在等更多評測數據，但如果你現在要買，主要看降噪的人 WF-1000XM6 值得認真考慮。"
+            },
+            {
+              "title": "AirPods Pro 2 靠 Apple 生態系整合深度守住第一",
+              "body": "Spatial Audio、多裝置自動切換、Adaptive Transparency，在 Apple 生態系裡這三件事做得比任何耳機都流暢。降噪效果紮實，兩年多的市場口碑讓可靠性有保證。台幣大約 NT$7,490 含折扣的價位，在 ANC 旗艦耳機裡是很有競爭力的定價，iPhone 用戶直接買就對了。"
+            },
+            {
+              "title": "Bose QC Earbuds 2 是榜單裡純降噪測試數字最高的",
+              "body": "獨立測試的被動加主動降噪組合在榜單裡排第一，上班通勤、長途飛機、開放式辦公室這類場景，這雙耳機的隔音效果是這份榜單裡最好的。音質調音偏向在吵雜環境聽清楚，而不是發燒友取向，這是合理的選擇。每充一次電只有六小時是比較短的，這是唯一需要考慮的取捨。"
+            },
+            {
+              "title": "Sony WF-1000XM5 是榜單裡音質最好的，聽音樂首選",
+              "body": "搭配 Android 手機跑 LDAC 的話，990kbps 確實比 AAC 或 SBC 有更高的音質下限，配合支援 LDAC 的串流服務是有感差異。Sony 的 360 Reality Audio 實作在 Android 陣營裡是最完整的空間音效方案。台幣大約 NT$8,490 含折扣，如果聽音樂的時間比通勤的時間多，這是最值得買的選擇。"
             }
           ]
         }
