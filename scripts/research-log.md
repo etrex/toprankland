@@ -313,3 +313,148 @@
 - **空氣清淨機亞洲熱潮持續**：台灣、香港 PM2.5 季節性惡化推動年初購買潮，Coway（韓系品牌）在亞洲市場滲透率高，是少數 ZH-TW 受眾搜尋量高於 EN 的品類。
 - **AI 影片剪輯重塑市場格局**：CapCut 的免費 AI 功能蠶食 Adobe 市場份額，DaVinci Resolve 持續以免費旗艦搶攻專業創作者，「AI video editor 2026」搜尋量年增超過 120%。
 - **職場技能學習需求爆發**：AI 取代工作浪潮驅動大規模轉職與升技需求，Coursera Professional Certificates 與 Udemy AI 課程銷售額均創新高，學習平台比較型搜尋量持續攀升。
+
+
+---
+
+## 2026-04-03 已建立排行榜
+
+- **best-robot-vacuums** — 10 個競品，Dreame X60 Max Ultra Complete 拿第一（35,000 Pa + 100°C 熱水洗拖布），Roborock Saros 10R 第二（固態 LiDAR 障礙辨識最強），Dreame L50 Ultra 第三（促銷 CP 值最高）
+
+---
+
+## 2026-04-02 已建立排行榜
+
+- **best-laptops** — 10 個競品，MacBook Air M5 拿第一，Dell XPS 14 2026 排 Windows 陣營第一
+
+---
+
+## 2026-04-02 研究報告
+
+### 新主題建議
+
+1. **Best Laptops 2026**
+   - 建議 slug: `best-laptops`
+   - EN title: Best Laptops of 2026: Tested & Ranked for Every Budget
+   - ZH-TW title: 2026 最佳筆電排行榜：各預算實測推薦
+   - 目標關鍵字: best laptop 2026, best MacBook 2026, best Windows laptop 2026, best budget laptop 2026, MacBook Air M5 review
+   - SEO 潛力: 超高搜尋量品類，Tom's Guide、PCWorld、TechRadar 等高 DA 媒體均有活躍 2026 評測頁面；CES 2026 與 MWC 2026 帶動一波新機發布（MacBook Air M5、Lenovo Yoga 9i、Dell 14 Plus），購買意圖集中於 Q1-Q2。筆電單價高（$500–$3000），商業轉化率高。台灣市場蘋果與 Lenovo 消費者眾，ZH-TW 受眾龐大。
+   - 候選競品（10個）: MacBook Air 13-inch M5, Lenovo Yoga 9i 2-in-1 Aura Edition, Dell XPS 14 Plus, Asus Zenbook S 14 OLED, MacBook Pro 14-inch M4 Pro, Microsoft Surface Pro 11, Acer Swift Go 16, HP Spectre x360 14, Razer Blade 15, Acer Aspire Go 15
+
+2. **Best Robot Vacuums 2026**
+   - 建議 slug: `best-robot-vacuums`
+   - EN title: Best Robot Vacuums of 2026: Lab-Tested & Ranked
+   - ZH-TW title: 2026 最佳掃地機器人排行榜：實測推薦
+   - 目標關鍵字: best robot vacuum 2026, best robot vacuum mop combo 2026, dreame vs roborock vs roomba, best robot vacuum under 500
+   - SEO 潛力: VacuumWars、RTINGS.com、TechGearLab、ModernCastle 等多個專業評測媒體均在 2026 年 3-4 月更新排名，代表持續高搜尋需求；Dreame X60 Max Ultra（$1,499）與 Roborock Saros 10R 等新旗艦帶動換機比較潮。台灣消費者對掃地機器人接受度高，Dreame、Roborock 等亞洲品牌知名度優勢帶動 ZH-TW 搜尋量。高單價（$300–$1,500）代表強購買決策意圖。
+   - 候選競品（10個）: Dreame X60 Max Ultra, Roborock Saros 10R, Roborock Qrevo CurvX, iRobot Roomba j9+, Shark Matrix Plus, Ecovacs Deebot X5 Pro Omni, Eufy RoboVac X10 Omni, Narwal Freo X Ultra, Tikom L8000 Plus, Dreame L50 Ultra
+
+3. **Best Streaming Services 2026**
+   - 建議 slug: `best-streaming-services`
+   - EN title: Best Streaming Services of 2026: Which Are Worth Paying For?
+   - ZH-TW title: 2026 最佳串流平台排行榜：哪個最值得訂閱？
+   - 目標關鍵字: best streaming service 2026, Netflix vs Disney Plus vs Max 2026, best streaming service for movies, cheapest streaming service 2026
+   - SEO 潛力: 訂閱制服務因價格頻繁調整（Netflix 最高達 $24.99/月、Apple TV 漲至 $13/月）驅動大量比較搜尋，每次漲價都帶來搜尋量峰值；Tom's Guide、Engadget、SlashGear 等媒體均有高流量比較頁面。美國家庭平均每月在 4 個以上串流平台花費約 $69，消費者持續尋找最佳組合。虛擬商品品類契合 toprankland 定位，且內容可每季更新維持時效性。
+   - 候選競品（10個）: Netflix, Apple TV+, Max (HBO), Disney+, Hulu, Amazon Prime Video, Peacock, Paramount+, YouTube Premium, Crunchyroll
+
+4. **Best Standing Desks 2026**
+   - 建議 slug: `best-standing-desks`
+   - EN title: Best Standing Desks of 2026: Top Height-Adjustable Desks Reviewed
+   - ZH-TW title: 2026 最佳升降桌排行榜：居家辦公首選推薦
+   - 目標關鍵字: best standing desk 2026, best height adjustable desk 2026, flexispot vs uplift vs autonomous, best standing desk for dual monitor
+   - SEO 潛力: 遠距工作趨勢使「home office setup」相關搜尋量長期居高；TechRadar、Tom's Guide、GamesRadar 均在 2026 年 Q1 更新評測，顯示主流媒體持續投入。站立式辦公符合健康趨勢，台灣企業採購與個人居家辦公需求均在成長。高單價（$300–$1,200）確保購買意圖強度，FlexiSpot 促銷（55% off）等活動持續帶動搜尋。
+   - 候選競品（10個）: FlexiSpot E7, FlexiSpot E7 Plus, Uplift V2, Autonomous SmartDesk Pro, Secretlab Magnus Pro, Fezibo Electric Standing Desk, VertDesk v3, Vari Electric, Flexispot EW8, Fully Jarvis
+
+5. **Best Electric Toothbrushes 2026**
+   - 建議 slug: `best-electric-toothbrushes`
+   - EN title: Best Electric Toothbrushes of 2026: Dentist-Tested & Ranked
+   - ZH-TW title: 2026 最佳電動牙刷排行榜：牙醫推薦實測
+   - 目標關鍵字: best electric toothbrush 2026, oral-b vs sonicare 2026, best electric toothbrush for sensitive teeth, best budget electric toothbrush
+   - SEO 潛力: Consumer Reports、TechRadar、LiveScience、Today.com 等多元媒體類型均有 2026 評測，代表跨受眾廣泛需求；牙科健康是全年常青型搜尋主題，無明顯季節性衰退。牙醫「推薦」關鍵字帶動高信任型搜尋，購買決策周期短，轉化率高。台灣電動牙刷滲透率持續成長（Oral-B 與 Philips Sonicare 雙品牌主導市場），ZH-TW 受眾需求穩定。
+   - 候選競品（10個）: Oral-B iO Series 10, Philips Sonicare DiamondClean 9900 Prestige, Oral-B iO Series 6, Philips Sonicare ProtectiveClean 6100, SURI 2.0, Oclean X Ultra S, Colgate Hum, Ordo Sonic Lite, Burst Sonic Toothbrush, Quip Electric Toothbrush
+
+### 市場動態
+
+- **MacBook Air M5 帶動筆電換機潮**：Apple 於 2026 Q1 推出搭載 M5 晶片的 MacBook Air，在 Tom's Guide 等媒體評測中奪得最佳筆電推薦位置，Wi-Fi 7 支援與電池續航改善驅動「M5 MacBook Air review」搜尋量大幅攀升。
+- **掃地機器人旗艦競爭白熱化**：Dreame X60 Max Ultra 以 $1,499 取代上一代 L50 Ultra 登頂，Roborock Saros 10R 以固態 LiDAR 技術差異化，高端型號功能差距縮小推動大量比較搜尋，VacuumWars 在 2026 年 3 月更新的評測頁面流量持續高漲。
+- **串流平台價格持續上漲**：Apple TV+ 漲至 $13、Netflix Premium 達 $24.99，美國家庭月均串流支出攀升至 $69，每次漲價事件均帶動「best streaming service worth it 2026」類型比較搜尋的峰值流量。
+- **居家辦公升降桌促銷熱潮**：FlexiSpot 在 2026 年 3 月底推出最高 55% off 促銷，9to5toys 等科技媒體跟進報導，顯示品類關注度持續，遠距工作設備需求在後疫情時代保持穩健基本盤。
+- **電動牙刷健康升級換購趨勢**：Consumer Reports 2026 最新測試指出入門級替代品（Ordo Sonic Lite 等）可提供與旗艦機型相近的清潔效果，帶動「best budget electric toothbrush」類型搜尋量成長，同時也驅動想確認自身選擇的用戶搜尋高端機型評測。
+
+---
+
+## 2026-04-03 研究報告
+
+### 現有排行榜（截至今日，排除重複）
+- best-wireless-earbuds
+- best-vpn-services
+- best-smart-watches
+- best-mechanical-keyboards
+- best-ai-coding-assistants
+- best-gaming-mice
+- best-noise-cancelling-headphones
+- best-air-purifiers
+- best-laptops
+
+### 已建議過主題（歷史紀錄，亦排除）
+- best-robot-vacuums, best-bluetooth-speakers, best-password-managers
+- best-standing-desks, best-wireless-chargers
+- best-ai-productivity-tools, best-project-management-software
+- best-ai-writing-tools, best-vibe-coding-platforms
+- best-gaming-monitors, best-home-security-cameras, best-ergonomic-chairs, best-cloud-storage
+- best-mirrorless-cameras, best-running-shoes, best-video-editing-software, best-online-learning-platforms
+- best-streaming-services, best-electric-toothbrushes
+
+---
+
+### 新主題建議
+
+1. **Best Gaming Headsets 2026**
+   - 建議 slug: `best-gaming-headsets`
+   - EN title: Best Gaming Headsets of 2026: Top Picks for Every Platform
+   - ZH-TW title: 2026 最佳電競耳機排行榜：跨平台實測推薦
+   - 目標關鍵字: best gaming headset 2026, best wireless gaming headset, SteelSeries Arctis Nova Pro vs Audeze Maxwell, best gaming headset for PS5 2026
+   - SEO 潛力: Tom's Hardware、RTINGS.com、PC Gamer 在 2026 年 4 月均有更新評測，代表持續的高搜尋需求。遊戲周邊品類消費者購買前高度依賴比較排名，且與已有的 best-gaming-mice 形成配套，構成電競設備生態系。AI 音頻個人化、無損無線傳輸（Bluetooth LE Audio）等新技術帶動換機比較搜尋，Audeze Maxwell（$250）至 HyperX Alpha（$80）的寬廣價格區間提升內容可及性。台灣電競玩家族群活躍，ZH-TW 受眾規模可觀。
+   - 候選競品（10個）: SteelSeries Arctis Nova Pro Wireless, Audeze Maxwell, HyperX Cloud III Wireless, Razer BlackShark V2 Pro, Astro A50 X, Corsair HS80 Max, Logitech G735, Turtle Beach Stealth Pro, Beyerdynamic MMX 300 Pro, Sony INZONE H9
+
+2. **Best Mesh WiFi Systems 2026**
+   - 建議 slug: `best-mesh-wifi-systems`
+   - EN title: Best Mesh WiFi Systems of 2026: WiFi 7 Routers Tested & Ranked
+   - ZH-TW title: 2026 最佳 Mesh WiFi 路由器排行榜：WiFi 7 實測推薦
+   - 目標關鍵字: best mesh wifi system 2026, best wifi 7 router 2026, eero vs google nest wifi vs TP-Link Deco, best mesh router for large home
+   - SEO 潛力: WiFi 7 在 2026 年全面普及是本品類最強的更新換購驅動力，TechRadar、Tom's Hardware、RTINGS.com 均在 2026 年持續更新評測頁面。網路設備是常青型高搜尋量品類（家庭覆蓋問題全年都有），且 TP-Link Deco BE63 兩包裝降至 $300 帶動平價 WiFi 7 比較需求攀升。消費者選購前必定研究規格差異（覆蓋範圍、延伸節點數、回傳頻寬），有利製作差異化排行內容。
+   - 候選競品（10個）: TP-Link Deco BE85, Eero Max 7, Google Nest WiFi Pro, Netgear Orbi 970, ASUS ZenWiFi Pro ET12, TP-Link Deco BE63, Amazon Eero 6+, Netgear Orbi 760, Linksys Velop Pro 7, ASUS ZenWiFi XD6
+
+3. **Best Budget Smartphones 2026**
+   - 建議 slug: `best-budget-smartphones`
+   - EN title: Best Budget Smartphones of 2026: Top Picks Under $500
+   - ZH-TW title: 2026 最佳平價手機排行榜：500 美元以下最強推薦
+   - 目標關鍵字: best budget smartphone 2026, best cheap phone 2026, google pixel 8a vs samsung galaxy a55, best phone under 500 2026
+   - SEO 潛力: Tom's Guide、Tech Advisor、TechTimes 等媒體均有高流量 2026 平價手機榜，代表龐大的消費者研究需求。平價手機在 2026 年縮小了與旗艦的規格差距（5G 普及、OLED 下放、快速處理器），使比較型搜尋複雜度上升，消費者更依賴排名。Galaxy S26 系列發布後，上一代 Galaxy A 系列降價帶動大量「best value phone」搜尋。台灣市場安卓用戶對 CP 值的重視程度高，ZH-TW 受眾對此品類有強烈需求。
+   - 候選競品（10個）: Google Pixel 8a, Samsung Galaxy A56, OnePlus Nord 4, Motorola Moto G Power 2026, Samsung Galaxy A35, Nothing Phone (3a), Google Pixel 9a, Xiaomi Redmi Note 15 Pro, Honor 200 Lite, Realme 13 Pro+
+
+4. **Best Portable Projectors 2026**
+   - 建議 slug: `best-portable-projectors`
+   - EN title: Best Portable Projectors of 2026: Compact & Powerful Picks
+   - ZH-TW title: 2026 最佳便攜投影機排行榜：輕薄高亮度推薦
+   - 目標關鍵字: best portable projector 2026, best mini projector 2026, Nebula vs XGIMI vs BenQ portable projector, best laser portable projector 2026
+   - SEO 潛力: TechRadar、CNN Underscored、RTINGS.com 均有活躍的 2026 便攜投影機評測頁面。雷射技術小型化在 2026 年進入主流（$400–$800 區間），Google TV 整合、Matter 智慧家庭相容性等新功能帶動比較搜尋；AI 自動校正設定成為差異化賣點，消費者需要排名協助評估新功能組合。此品類在台灣以露營、戶外影音等使用情境帶動需求，ZH-TW 受眾有明確購買意圖。
+   - 候選競品（10個）: Anker Nebula Mars 3 Air, XGIMI MoGo 3 Pro, BenQ GP20, Samsung Freestyle Gen 2, Anker Nebula Capsule 3 Laser, LG PF510Q, Epson EF-21, ViewSonic M2e, AAXA P9, Optoma LV130
+
+5. **Best Coffee Makers 2026**
+   - 建議 slug: `best-coffee-makers`
+   - EN title: Best Coffee Makers of 2026: Tested by Coffee Experts
+   - ZH-TW title: 2026 最佳咖啡機排行榜：專家實測推薦
+   - 目標關鍵字: best coffee maker 2026, best drip coffee maker 2026, best espresso machine under 500, breville vs technivorm vs fellow coffee maker
+   - SEO 潛力: Consumer Reports 測試超過 160 款咖啡機，代表此品類的消費者研究深度與頻率。咖啡機橫跨多個子品類（手沖滴濾、義式濃縮、膠囊機、智慧 App 聯控），每個子品類都有獨立高搜尋量關鍵字，後續可分拆為多篇排行內容。台灣精品咖啡文化在 2023–2026 年快速成長，獨立咖啡館密度全球前列，ZH-TW 受眾對器材選購的研究意圖強烈。Philips 推出搭載 AI 對話式咖啡助理的新機型，帶動 AI 咖啡機相關搜尋熱度。
+   - 候選競品（10個）: Technivorm Moccamaster KBGV Select, Breville Precision Brewer, Fellow Aiden, OXO Brew 9-Cup, Cuisinart DCC-3200P1, Philips 5400 Series LatteGo, De'Longhi Magnifica Evo, Nespresso Vertuo Pop, Hamilton Beach FlexBrew, Mr. Coffee 14-Cup
+
+---
+
+### 市場動態
+
+- **WiFi 7 全面普及帶動換機潮**：TP-Link Deco BE63 等 WiFi 7 Mesh 系統降至 $300 以下，讓升級成本大幅降低，帶動「best wifi 7 router 2026」搜尋量明顯攀升，消費者主動比較 WiFi 6E 與 WiFi 7 的實際效益差異。
+- **電競耳機 AI 音頻技術競賽加速**：SteelSeries、Audeze、Razer 在 2026 年均推出 AI 個人化音頻功能，加上 Bluetooth LE Audio 無損無線傳輸成為新標準，帶動玩家重新比較現有耳機與新品的規格差距，RTINGS.com 的 gaming headset 評測頁面在 2026 年 4 月仍保持活躍更新。
+- **平價旗艦手機競爭白熱化**：三星 Galaxy S26 正式發布後帶動 Galaxy A 系列降價，加上 Google Pixel 8a 以 AI 攝影功能搶攻 $499 以下市場，Nothing Phone (3a) 以設計差異化吸引年輕買家，「best phone under 500 2026」比較需求持續攀升。
+- **便攜投影機進入主流消費**：雷射光源小型化讓 400–800 ANSI 流明的便攜機型下放至 $400–$800 價位，Samsung Freestyle Gen 2 等兼具智慧家庭整合的產品帶動新一輪換機，加上露營與戶外場景需求，亞洲市場比較搜尋量快速成長。
+- **台灣精品咖啡器材消費持續升溫**：台灣獨立咖啡館密度全球前列，帶動家用咖啡器材升級換購需求，「義式機 vs 手沖機 vs 膠囊機」的選擇討論在 PTT、Dcard 等台灣社群平台持續出現，ZH-TW 內容在此品類有明顯的市場空缺。
