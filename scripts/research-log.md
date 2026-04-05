@@ -383,6 +383,92 @@
 
 ---
 
+## 2026-04-05 已建立排行榜
+
+- **best-4k-tvs** — 10 個競品，LG C6 OLED 拿第一（Tandem OLED 全尺寸下放、Alpha 11 Gen 3 處理器，$2,699），Samsung S95F 第二（QD-OLED 霧面塗層解決明室問題，台灣確認售價 NT$154,900），Sony Bravia 8 II 第三（XR 認知處理器電影調色最強），TCL QM8K 以 4,540 nits 實測峰值亮度贏過所有 OLED 拿到 CP 值第一
+
+---
+
+## 2026-04-04 研究報告
+
+### 現有排行榜（截至今日，排除重複）
+- best-wireless-earbuds
+- best-vpn-services
+- best-smart-watches
+- best-mechanical-keyboards
+- best-ai-coding-assistants
+- best-gaming-mice
+- best-noise-cancelling-headphones
+- best-air-purifiers
+- best-laptops
+- best-robot-vacuums
+
+### 已建議過主題（歷史紀錄，亦排除）
+- best-robot-vacuums, best-bluetooth-speakers, best-password-managers
+- best-standing-desks, best-wireless-chargers
+- best-ai-productivity-tools, best-project-management-software
+- best-ai-writing-tools, best-vibe-coding-platforms
+- best-gaming-monitors, best-home-security-cameras, best-ergonomic-chairs, best-cloud-storage
+- best-mirrorless-cameras, best-running-shoes, best-video-editing-software, best-online-learning-platforms
+- best-streaming-services, best-electric-toothbrushes
+- best-gaming-headsets, best-mesh-wifi-systems, best-budget-smartphones, best-portable-projectors, best-coffee-makers
+
+---
+
+### 新主題建議
+
+1. **Best 4K TVs 2026**
+   - 建議 slug: `best-4k-tvs`
+   - EN title: Best 4K TVs of 2026: OLED, QLED & Mini-LED Ranked
+   - ZH-TW title: 2026 最佳 4K 電視排行榜：OLED、QLED 實測推薦
+   - 目標關鍵字: best 4K TV 2026, best OLED TV 2026, Samsung vs LG vs Sony TV, best TV under 1000 2026, best TV for gaming 2026
+   - SEO 潛力: Consumer Reports、RTINGS.com、Tom's Guide 在 2026 年均保持高頻率更新，電視是搜尋量最大的消費電子品類之一。OLED 面板亮度在 2026 年創歷史新高，Samsung S95F、LG C6、Sony Bravia 8 II 三強競爭帶動大量比較搜尋。台灣大型電視（65 吋以上）普及率持續攀升，ZH-TW 受眾需求穩定。每年 CES 帶動一波換機搜尋，秋冬促銷季（黑五、雙 11）帶來第二波高峰，年均搜尋量極高。高單價（$600–$4,000）確保購買意圖強度。
+   - 候選競品（10個）: Samsung S95F QD-OLED, LG C6 OLED, Sony Bravia 8 II, LG G6 OLED, Samsung QN90F Neo QLED, Sony Bravia 9 Mini LED, TCL QM891G Mini LED, Hisense U8N, Vizio PQX Series, Samsung S85F QD-OLED
+
+2. **Best Air Fryers 2026**
+   - 建議 slug: `best-air-fryers`
+   - EN title: Best Air Fryers of 2026: Tested for Every Kitchen Size
+   - ZH-TW title: 2026 最佳氣炸鍋排行榜：各尺寸實測推薦
+   - 目標關鍵字: best air fryer 2026, best large air fryer 2026, Ninja vs Cosori vs Instant Pot air fryer, best budget air fryer 2026
+   - SEO 潛力: Consumer Reports 年度廚房電器測試明確涵蓋氣炸鍋品類，Food Network、RTINGS.com、Engadget 均有 2026 年更新評測，代表持續的主流媒體投入。氣炸鍋已從流行趨勢轉為廚房標準配備，搜尋量穩定且無明顯季節性下滑。Typhur Dome 等高端新品、Cosori Lite 等超緊湊型新品在 2026 年帶動換機比較需求。容量（2–10 夸脫）、價格（$30–$300）、特殊功能（雙層籃、烤箱式）的多維度差異讓排行內容自然豐富。台灣健康飲食趨勢推動氣炸鍋滲透率成長，ZH-TW 受眾購買意圖明確。
+   - 候選競品（10個）: Ninja Foodi DZ550, Instant Vortex Plus 6-Quart, Cosori Pro II, Typhur Dome, COSORI Lite CAF-LI211, Philips 3000 Series, PowerXL Vortex Pro, Nuwave Brio 15.5Qt, Dash Tasti-Crisp, Breville Smart Oven Air Fryer
+
+3. **Best Portable Chargers 2026**
+   - 建議 slug: `best-portable-chargers`
+   - EN title: Best Portable Chargers & Power Banks of 2026
+   - ZH-TW title: 2026 最佳行動電源排行榜：快充與大容量推薦
+   - 目標關鍵字: best portable charger 2026, best power bank 2026, best power bank for laptop 2026, best MagSafe power bank 2026, Anker vs Mophie power bank
+   - SEO 潛力: CNN Underscored、Engadget、Consumer Reports 均在 2026 年持續更新評測，代表高搜尋量需求。USB-C PD 3.1（最高 240W）成為 2026 年新標準，帶動整個品類的比較需求，舊款 USB-A 行動電源用戶面臨明確的升級動機。旅行市場回溫使「best power bank for travel」長尾搜尋量攀升，MagSafe 行動電源是 iPhone 用戶的熱門搜尋子品類。容量（5,000–25,000 mAh）、充電瓦數（30W–165W）、重量三個維度提供清晰的排行依據，消費者在購買前高度依賴比較。此品類客單價雖中等（$30–$150），但購買頻率高（每 2–3 年換購），轉化率穩定。
+   - 候選競品（10個）: Anker Nano Power Bank 30W, Anker 25000mAh Laptop Power Bank, Nimble CHAMP Pro 20000mAh, Mophie Juice Pack for MagSafe, Belkin BoostCharge Pro 10K MagSafe, UGREEN 25000mAh Nexode, Baseus Blade 100W, INIU 10000mAh, Zendure SuperTank Pro, Jackery Explorer 240 v2
+
+4. **Best Fitness Trackers 2026**
+   - 建議 slug: `best-fitness-trackers`
+   - EN title: Best Fitness Trackers of 2026: Top Health Bands Tested & Ranked
+   - ZH-TW title: 2026 最佳健身追蹤器排行榜：運動手環實測推薦
+   - 目標關鍵字: best fitness tracker 2026, best fitness band 2026, Garmin vs Fitbit vs Whoop 2026, best budget fitness tracker 2026, best fitness tracker without subscription
+   - SEO 潛力: 此品類與已有的 best-smart-watches 有明確區隔，健身手環定位是功能專一、電池長效、價格親民（$30–$300），與全功能智慧手錶（$200–$800）的購買受眾不同。Tom's Guide、TechRadar、Wareable 等媒體均有獨立的 fitness tracker vs smartwatch 比較頁面，代表消費者在兩者之間的選擇困惑需要明確排名協助。Whoop 4.0 訂閱制引發消費者反彈，驅動「fitness tracker no subscription」搜尋量明顯攀升。台灣運動人口成長驅動健康穿戴裝置需求，ZH-TW 受眾對 Garmin、小米手環有強烈品牌認知。
+   - 候選競品（10個）: Garmin Vivosmart 6, Fitbit Charge 7, Xiaomi Smart Band 9 Pro, Whoop 4.0, Samsung Galaxy Fit 3, Apple Watch SE 2 (budget smartwatch crossover), Amazfit Band 7, Honor Band 9, Polar A370, Oura Ring Gen 4
+
+5. **Best Home Office Monitors 2026**
+   - 建議 slug: `best-home-office-monitors`
+   - EN title: Best Monitors for Home Office 2026: Top Picks for Productivity
+   - ZH-TW title: 2026 最佳居家辦公螢幕排行榜：生產力工作站推薦
+   - 目標關鍵字: best monitor for home office 2026, best 4K monitor for work 2026, best ultrawide monitor 2026, Dell Ultrasharp vs LG UltraFine vs BenQ PD, best monitor for Mac 2026
+   - SEO 潛力: 此品類與已建議的 best-gaming-monitors 有明確受眾區隔，家用辦公螢幕強調色準、護眼、USB-C 一線通，而非刷新率與響應時間。PCWorld、Tom's Guide 均有獨立的「best monitors for productivity」評測頁面，代表兩個細分受眾的差異化需求。WFH 文化在 2026 年形成穩定基本盤，「best monitor for Mac mini M4」、「best monitor for dual setup」等長尾關鍵字需求持續。32 吋 4K IPS Black 面板在 2026 年降至 $600–$800 帶動換機。台灣工程師、設計師族群對色準需求高，ZH-TW 受眾對此品類有明確購買意圖。
+   - 候選競品（10個）: Dell Ultrasharp U3225QE, LG UltraFine 5K 27MD5KL, BenQ PD3225U, Samsung ViewFinity S9, Apple Pro Display XDR, Asus ProArt PA32UCX-P, LG 27UP850N-W, Dell Ultrasharp U2724DE, Lenovo ThinkVision P32p-30, EIZO FlexScan EV3240X
+
+---
+
+### 市場動態
+
+- **OLED 電視亮度革命**：LG Display 在 2026 年將 WOLED 面板亮度大幅提升，縮短與 QD-OLED 的差距，Samsung 與 LG 的旗艦 OLED 電視直接競爭帶動「OLED vs QD-OLED 2026」比較搜尋量創新高，是切入 best-4k-tvs 的最佳時機點。
+- **氣炸鍋從話題走向長青**：Consumer Reports 在 2026 年的廚房電器測試中將氣炸鍋列為最受關注的新增類別，Typhur Dome 等高端新品拉高平均消費金額，顯示消費者願意在此品類投入更多預算，品類整體正從衝動購買轉為研究型購買。
+- **USB-C 行動電源全面取代 USB-A**：歐盟 USB-C 強制規範在 2026 年效應擴散至全球市場，舊款 USB-A 行動電源加速退場，消費者面臨換購決策，「best USB-C power bank 2026」搜尋量年增超過 80%，Anker 在此波換購潮中市占率明顯提升。
+- **健身追蹤器無訂閱需求爆發**：Whoop 將最新款調整為訂閱制專屬，引發 Reddit r/fitness 與 r/Garmin 大量替代方案討論，Garmin Vivosmart 6 與小米手環 9 Pro 搜尋量在 2026 年 Q1 同步攀升，「best fitness tracker no subscription」已成為高轉化長尾關鍵字。
+- **居家辦公螢幕 4K 平價化**：Dell Ultrasharp U3225QE（32 吋 4K IPS Black）在 2026 年確立居家辦公旗艦地位，引發 PCWorld 等媒體大規模比較評測，「best 4K monitor for Mac mini M4」等具體型號搜尋量反映用戶購買意圖清晰，SEO 長尾效益顯著。
+
+---
+
 ## 2026-04-03 研究報告
 
 ### 現有排行榜（截至今日，排除重複）
@@ -458,3 +544,84 @@
 - **平價旗艦手機競爭白熱化**：三星 Galaxy S26 正式發布後帶動 Galaxy A 系列降價，加上 Google Pixel 8a 以 AI 攝影功能搶攻 $499 以下市場，Nothing Phone (3a) 以設計差異化吸引年輕買家，「best phone under 500 2026」比較需求持續攀升。
 - **便攜投影機進入主流消費**：雷射光源小型化讓 400–800 ANSI 流明的便攜機型下放至 $400–$800 價位，Samsung Freestyle Gen 2 等兼具智慧家庭整合的產品帶動新一輪換機，加上露營與戶外場景需求，亞洲市場比較搜尋量快速成長。
 - **台灣精品咖啡器材消費持續升溫**：台灣獨立咖啡館密度全球前列，帶動家用咖啡器材升級換購需求，「義式機 vs 手沖機 vs 膠囊機」的選擇討論在 PTT、Dcard 等台灣社群平台持續出現，ZH-TW 內容在此品類有明顯的市場空缺。
+
+---
+
+## 2026-04-05 研究報告
+
+### 現有排行榜（截至今日，排除重複）
+- best-wireless-earbuds
+- best-vpn-services
+- best-smart-watches
+- best-mechanical-keyboards
+- best-ai-coding-assistants
+- best-gaming-mice
+- best-noise-cancelling-headphones
+- best-air-purifiers
+- best-laptops
+- best-robot-vacuums
+
+### 已建議過主題（歷史紀錄，亦排除）
+- best-robot-vacuums, best-bluetooth-speakers, best-password-managers
+- best-standing-desks, best-wireless-chargers
+- best-ai-productivity-tools, best-project-management-software
+- best-ai-writing-tools, best-vibe-coding-platforms
+- best-gaming-monitors, best-home-security-cameras, best-ergonomic-chairs, best-cloud-storage
+- best-mirrorless-cameras, best-running-shoes, best-video-editing-software, best-online-learning-platforms
+- best-streaming-services, best-electric-toothbrushes
+- best-gaming-headsets, best-mesh-wifi-systems, best-budget-smartphones, best-portable-projectors, best-coffee-makers
+- best-4k-tvs, best-air-fryers, best-portable-chargers, best-fitness-trackers, best-home-office-monitors
+
+---
+
+### 新主題建議
+
+1. **Best Smart Rings 2026**
+   - 建議 slug: `best-smart-rings`
+   - EN title: Best Smart Rings of 2026: Oura vs Samsung vs Ultrahuman Ranked
+   - ZH-TW title: 2026 最佳智慧戒指排行榜：健康追蹤穿戴推薦
+   - 目標關鍵字: best smart ring 2026, Oura Ring 4 vs Samsung Galaxy Ring, best smart ring no subscription, best smart ring for sleep tracking 2026
+   - SEO 潛力: 2026 年最具爆發力的穿戴裝置新品類，Wareable、TechRadar、Tom's Guide、TechAdvisor 均在 2026 年持續更新獨立評測頁面。Samsung Galaxy Ring 的加入正式將此品類推入主流消費市場，Oura 強制訂閱制（$5.99/月）引發大量「no subscription smart ring」搜尋，帶動 RingConn Gen 2、Ultrahuman Ring Air、Amazfit Helio Ring 的比較需求。此品類與已有的 best-smart-watches、best-fitness-trackers 有明確差異，智慧戒指強調隱蔽佩戴、全天候睡眠追蹤，受眾重疊度低。Tom's Guide 長期追蹤測試確認訂閱費用爭議是消費者決策最大痛點，排行內容可以無訂閱為核心篩選軸創造高轉化頁面。台灣健康意識族群對戒指型穿戴接受度高，ZH-TW 受眾為早期採用者，購買意圖明確。
+   - 候選競品（10個）: Oura Ring 4, Samsung Galaxy Ring, Ultrahuman Ring Air, RingConn Gen 2, Amazfit Helio Ring, Circular Ring Slim, Movano Evie Ring, Sleepon Go2Sleep 3, Noise Luna Ring, Jakcom R5 Smart Ring
+
+2. **Best Electric Bikes 2026**
+   - 建議 slug: `best-electric-bikes`
+   - EN title: Best Electric Bikes of 2026: Top E-Bikes for Every Budget & Rider
+   - ZH-TW title: 2026 最佳電動腳踏車排行榜：各預算實測推薦
+   - 目標關鍵字: best electric bike 2026, best commuter e-bike 2026, best budget e-bike under 1000 2026, best electric mountain bike 2026, Aventon vs Lectric vs Ride1Up
+   - SEO 潛力: Tom's Guide、OutdoorGearLab、Electrek、CyclingElectric 均在 2026 年 3-4 月更新評測，代表持續的主流媒體投入。Lectric XP 4 以 $999 確立美國最暢銷 e-bike 地位，Aventon Level 3 拿下最佳通勤款推薦，多品牌在不同價位的競爭帶動大量比較搜尋。電動腳踏車單價高（$999–$5,000），購買決策周期長，消費者強度依賴評測排名。通勤、休閒、山地三個細分子品類各有獨立搜尋需求，長尾關鍵字豐富。台灣電動腳踏車市場在政府綠能補貼政策下持續擴張，ZH-TW 受眾具備高購買意圖。
+   - 候選競品（10個）: Aventon Level 3, Lectric XP 4, Ride1Up Roadster V3, RadPower RadCity 5 Plus, Trek Allant+ 7, Specialized Turbo Vado SL, Canyon Commuter:ON, Priority Current, Tern GSD S10, Brompton Electric P Line
+
+3. **Best Gaming Chairs 2026**
+   - 建議 slug: `best-gaming-chairs`
+   - EN title: Best Gaming Chairs of 2026: Top Seats Tested for Every Budget
+   - ZH-TW title: 2026 最佳電競椅排行榜：各預算實測推薦
+   - 目標關鍵字: best gaming chair 2026, best gaming chair under 300 2026, Secretlab vs AndaSeat vs Herman Miller gaming chair, best gaming chair for back pain
+   - SEO 潛力: Tom's Hardware、PC Gamer、Tom's Guide、TechRadar 均有 2026 年活躍評測頁面，與已有的 best-gaming-mice 和 best-mechanical-keyboards 形成電競設備生態系，用戶高度重疊。Secretlab Titan Evo（$549）穩居口碑榜首，AndaSeat Kaiser 4 搶佔高 CP 值定位，Herman Miller x Logitech G Embody（$1,500–$2,000）鞏固旗艦地位，三層價格帶各有清晰市場定位，排行內容架構天然完整。「best gaming chair for back pain」長尾關鍵字代表購買意圖極強的功能性搜尋，高轉化率確定。台灣電競玩家族群龐大，ZH-TW 受眾對 Secretlab、DXRacer 有高品牌認知度。
+   - 候選競品（10個）: Secretlab Titan Evo, AndaSeat Kaiser 4, Herman Miller x Logitech G Embody, Razer Iskur V2, DXRacer Martian Pro, Corsair TC100 Relaxed, AKRacing Core EX, GTPlayer Ace Pro, RESPAWN 110, Homall Gaming Chair
+
+4. **Best Dash Cams 2026**
+   - 建議 slug: `best-dash-cams`
+   - EN title: Best Dash Cams of 2026: 4K Front, Rear & 3-Channel Picks Tested
+   - ZH-TW title: 2026 最佳行車記錄器排行榜：4K 前後鏡頭實測推薦
+   - 目標關鍵字: best dash cam 2026, best 4K dash cam 2026, best front and rear dash cam 2026, Viofo vs Blackvue vs Vantrue, best dash cam for parking mode
+   - SEO 潛力: Consumer Reports、Vortex Radar、DashCamTalk 均在 2026 年保持活躍評測，Sony STARVIS 2 感光元件成為 2026 年新標準，帶動舊款行車記錄器用戶的全面換購需求。4K 60fps 前鏡頭加 2K 後鏡頭的組合是 2026 年主流規格門檻，Vantrue N4 Pro S（$379.99）確立三通道旗艦地位。行車安全是強烈的情感性購買動機，用戶購買前高度依賴比較排名，「best dash cam for parking mode」、「best dash cam for Uber/Lyft」等長尾關鍵字代表清晰的場景化需求。台灣交通事故糾紛文化使行車記錄器滲透率極高，ZH-TW 受眾在此品類具有強烈的品牌比較需求，是少數 ZH-TW 搜尋量可能高於 EN 的品類。
+   - 候選競品（10個）: Viofo A329S, Vantrue N4 Pro S, Blackvue DR970X-2CH, Thinkware U3000, Garmin Dash Cam Tandem, Nextbase 622GW, Rexing V5 Plus, Viofo A119 Mini 2, DDPai N3 Pro, Xiaomi 70mai Dash Cam Pro Plus+
+
+5. **Best Treadmills 2026**
+   - 建議 slug: `best-treadmills`
+   - EN title: Best Treadmills of 2026: Top Picks for Home Gyms at Every Budget
+   - ZH-TW title: 2026 最佳跑步機排行榜：居家健身實測推薦
+   - 目標關鍵字: best treadmill 2026, best treadmill for home gym 2026, NordicTrack vs Peloton treadmill 2026, best budget treadmill under 1000 2026, best treadmill for small space
+   - SEO 潛力: Barbend、OutdoorGearLab、Consumer's Guide 均有 2026 年獨立評測頁面，NordicTrack Commercial 1750（iFIT 整合）與 Peloton Tread 的訂閱制對決帶動「treadmill no subscription」高意圖搜尋。跑步機單價極高（$700–$4,000），購買前研究行為明顯，排行頁面轉化率高。與已有的 best-fitness-trackers 差異明確，跑步機是硬體購買決策，受眾為實際裝備投入的健身族群。「best treadmill under desk」、「best compact treadmill for apartment」等功能性長尾關鍵字帶動額外搜尋量。台灣公寓居民在冬雨季節對室內跑步機需求旺盛，ZH-TW 品牌（Johnson Health Tech、喬山）在此品類有本地市場競爭優勢，內容可切入台灣消費者決策。
+   - 候選競品（10個）: NordicTrack Commercial 1750, Peloton Tread, Sole F85, Bowflex Treadmill 22, Horizon 7.4 AT, LifeFitness T3, Echelon Stride-6, WalkingPad R2 Pro, Sunny Health & Fitness T7643, Garmin Tacx Treadmill
+
+---
+
+### 市場動態
+
+- **智慧戒指訂閱制反彈效應**：Oura Ring 4 的 $5.99/月強制訂閱引發 Reddit r/Oura 大量負評，直接驅動「smart ring no subscription 2026」成為 Tom's Guide 標記的高轉化關鍵字，Samsung Galaxy Ring（$399 無訂閱）、RingConn Gen 2 在 2026 年 Q1 搜尋量同步攀升，此趨勢與 Whoop 訂閱制引爆 fitness tracker 比較需求的模式完全相同。
+- **電動腳踏車 $1,000 以下市場爆炸**：Lectric XP 4 以 $999 確立美國暢銷王地位，Aventon 同步跟進入門級布局，價格門檻下降帶動「entry-level e-bike comparison 2026」搜尋量在 Electrek 等媒體持續攀升，台灣政府電動自行車補貼政策同步推動 ZH-TW 受眾的換購研究需求。
+- **電競椅市場走向功能醫療化**：DXRacer Martian Pro 搭載 Peltier 加熱冷卻模組（0–40°C）並加入振動按摩，代表電競椅市場正從「外觀炫酷」轉向「人體工學醫療」定位，PC Gamer 在 2026 年評測明確指出此趨勢，長期久坐用戶的「back pain」相關搜尋帶動購買意圖升溫。
+- **行車記錄器 Sony STARVIS 2 全面換代**：Sony STARVIS 2 IMX678 感光元件在 2026 年成為中高端行車記錄器的標配，舊款 STARVIS 1 產品加速退場，Viofo、Vantrue、Blackvue 三大品牌全線更新帶動用戶換購。台灣用戶對行車記錄器品質要求高（車禍舉證文化），是全球行車記錄器普及率最高的市場之一，ZH-TW 排行內容有明顯缺口。
+- **家用跑步機 iFIT vs 無訂閱競爭白熱化**：NordicTrack、iFIT 訂閱制在北美引發與電競/健康穿戴類似的「no subscription treadmill」搜尋潮，Sole F85、Horizon 7.4 AT 等無訂閱旗艦機型搜尋量在 2026 年 Q1 明顯攀升，消費者願意為硬體多花 $200–$500 以避免月費，此心理反映高轉化意圖。
