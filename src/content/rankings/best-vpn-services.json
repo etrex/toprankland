@@ -1325,6 +1325,71 @@
           ]
         }
       }
+    },
+  {
+    "date": "2026-04-05",
+    "rankings": [
+      { "id": "mullvad", "rank": 1, "score": 9.2, "scores": { "privacy": 9.8, "speed": 9.0, "network": 8.5, "usability": 8.5, "price": 9.5 } },
+      { "id": "protonvpn", "rank": 2, "score": 9.1, "scores": { "privacy": 9.5, "speed": 9.0, "network": 9.0, "usability": 9.0, "price": 8.5 } },
+      { "id": "nordvpn", "rank": 3, "score": 8.7, "scores": { "privacy": 8.5, "speed": 9.5, "network": 9.5, "usability": 9.0, "price": 8.0 } },
+      { "id": "ivpn", "rank": 4, "score": 8.6, "scores": { "privacy": 9.5, "speed": 8.5, "network": 7.5, "usability": 8.5, "price": 8.5 } },
+      { "id": "expressvpn", "rank": 5, "score": 8.4, "scores": { "privacy": 8.0, "speed": 9.5, "network": 9.0, "usability": 9.0, "price": 7.5 } },
+      { "id": "surfshark", "rank": 6, "score": 8.2, "scores": { "privacy": 8.0, "speed": 8.5, "network": 8.5, "usability": 8.5, "price": 8.5 } },
+      { "id": "windscribe", "rank": 7, "score": 8.0, "scores": { "privacy": 8.5, "speed": 7.5, "network": 8.0, "usability": 8.0, "price": 8.5 } },
+      { "id": "airvpn", "rank": 8, "score": 7.8, "scores": { "privacy": 9.0, "speed": 8.0, "network": 7.5, "usability": 7.0, "price": 8.0 } },
+      { "id": "pia", "rank": 9, "score": 7.6, "scores": { "privacy": 7.5, "speed": 8.5, "network": 9.0, "usability": 8.0, "price": 8.5 } },
+      { "id": "cyberghost", "rank": 10, "score": 7.2, "scores": { "privacy": 6.5, "speed": 8.5, "network": 9.0, "usability": 8.5, "price": 7.5 } }
+    ],
+    "references": [
+      { "title": "NordVPN had a busy start to 2026: all the releases you may have missed", "url": "https://www.techradar.com/vpn/vpn-services/nordvpn-had-a-busy-start-to-2026-heres-a-recap-of-all-the-releases-you-may-have-missed", "source": "TechRadar" },
+      { "title": "Malwarebytes Privacy VPN receives full third-party audit", "url": "https://www.malwarebytes.com/blog/product/2026/04/vpnsoftwareaudit", "source": "Malwarebytes" },
+      { "title": "Best VPN services for 2026", "url": "https://www.salon.com/2026/03/30/best-vpn-services-for-2026/", "source": "Salon" },
+      { "title": "Best VPN for Privacy and Security in 2026", "url": "https://www.privacytools.io/privacy-vpn", "source": "PrivacyTools.io" }
+    ],
+    "i18n": {
+      "en": {
+        "commentary": "The US Senate debate over FISA Section 702 is now weeks from its April 20 expiration, and the legislative outcome will affect how US-jurisdiction VPN providers operate. The current debate centers on whether law enforcement should require a warrant before accessing VPN provider records. This legislative pressure is exactly why Mullvad and IVPN's no-account architectures matter: there are no user records to compel. Rankings are unchanged, with Mullvad at rank 1 and ProtonVPN at rank 2.\n\nNordVPN had a busy first quarter in 2026, shipping a completely redesigned mobile experience, taking its Android scam-blocking tool global, and launching NordWhisper, a new protocol specifically for obfuscation and censorship circumvention. The sixth independent no-logs audit by Deloitte, completed in early 2026, reinforces NordVPN's accountability position. These updates maintain NordVPN at rank 3, where the combination of speed, server network, and security tooling is the strongest on this list.\n\nMalwarebytes completed its first independent third-party audit of the infrastructure powering Malwarebytes Privacy VPN and AzireVPN. The audit confirmed strong security posture and server configuration, which is meaningful evidence beyond policy commitments. For buyers evaluating VPN trustworthiness, audited services with published results are the correct starting point.",
+        "highlights": [
+          {
+            "title": "FISA Section 702 expiration debate makes VPN jurisdiction more consequential",
+            "body": "The April 20 expiration of FISA Section 702 authorization is driving a Senate debate over whether warrants should be required to access records held by technology companies, including VPN providers. For buyers whose threat model includes legal compulsion, this legislative environment underscores the value of VPN providers outside US jurisdiction with minimal or no user data collection. Mullvad and IVPN both operate outside US legal reach and hold no user data to provide even if compelled. ProtonVPN operates under Swiss law, which requires a higher evidentiary threshold for compliance with foreign law enforcement requests."
+          },
+          {
+            "title": "Mullvad's no-account architecture provides structural privacy guarantees, not just policy promises",
+            "body": "Mullvad requires no email address, no username, and no billing address. The subscription is identified by a random account number. Payment by cash or cryptocurrency is accepted. The practical result is that Mullvad cannot identify which customer is connected to which server, even under legal compulsion, because the link between payment identity and tunnel activity simply does not exist in their systems. At €5/month flat, this is the most privacy-complete consumer VPN available."
+          },
+          {
+            "title": "NordVPN's NordWhisper protocol strengthens its position for censored network environments",
+            "body": "NordWhisper is NordVPN's new obfuscation protocol designed to bypass deep packet inspection in environments where standard VPN traffic is blocked or throttled. This makes NordVPN more viable for users in restrictive internet environments alongside ProtonVPN's established Stealth protocol. Combined with the global scam-blocking tool for Android and the sixth Deloitte audit confirming no-logs compliance, NordVPN's first quarter 2026 updates reinforce its rank 3 position as the service for users who prioritize speed and tooling breadth."
+          },
+          {
+            "title": "Independent audits are the only meaningful privacy verification beyond VPN provider claims",
+            "body": "Malwarebytes' first independent infrastructure audit joins a growing list of providers who have moved beyond policy statements to third-party verification. Mullvad, ProtonVPN, IVPN, and NordVPN all have published audit results. For buyers evaluating VPN services, a published independent audit that verifies no-logs compliance is the minimum credibility threshold. Services without published audits are asking for trust on the basis of a promise alone."
+          }
+        ]
+      },
+      "zh-tw": {
+        "commentary": "美國參議院的 FISA 702 條款重新授權辯論距離四月二十日到期還有兩週，立法走向對美國司法管轄的 VPN 供應商有直接影響。目前的爭論核心是執法機構在調閱 VPN 供應商記錄時是否需要搜索令。這正是 Mullvad 和 IVPN 的無帳號架構的價值所在：根本沒有用戶記錄可以被要求提供。排名不變，Mullvad 第一，ProtonVPN 第二。\n\nNordVPN 2026 年第一季動作頻繁，重新設計了行動端介面、把 Android 詐騙封鎖工具推向全球、發布了新的 NordWhisper 混淆協議、完成了第六次 Deloitte 無日誌稽核。這些更新鞏固了 NordVPN 的第三名地位，速度、伺服器數量、安全工具的組合是這份榜單裡最完整的。\n\nMalwarebytes 完成了 Malwarebytes Privacy VPN 和 AzireVPN 基礎設施的首次第三方獨立稽核，確認了強大的安全架構和伺服器設定。對評估 VPN 可信度的買家來說，有發布獨立稽核結果的服務是正確的起點。",
+        "highlights": [
+          {
+            "title": "FISA 702 到期辯論讓 VPN 司法管轄問題更關鍵",
+            "body": "四月二十日到期的 FISA 702 授權正引發參議院激烈辯論，核心是執法機構調閱科技公司（包括 VPN 供應商）記錄時是否需要搜索令。對威脅模型包含法律強制要求的用戶，這個立法環境凸顯了選擇美國境外司法管轄、且幾乎不收集用戶資料的 VPN 供應商的價值。Mullvad 和 IVPN 兩者都在美國法律管轄範圍之外，且因架構設計而沒有用戶資料可以提供。ProtonVPN 在瑞士法律管轄下，外國執法機構的要求需要符合更高的法律門檻。"
+          },
+          {
+            "title": "Mullvad 的無帳號架構提供的是結構性隱私保護，不是政策承諾",
+            "body": "Mullvad 不需要電子郵件、不需要帳號名稱、不需要帳單地址。訂閱由隨機帳號編號識別，接受現金和加密貨幣付款。實際結果是 Mullvad 在技術上就無法識別哪個客戶連接到哪台伺服器，就算被要求配合也一樣，因為付款身份和隧道活動之間的連結根本不存在於他們的系統裡。每月五歐元固定費率，是目前最完整的消費級隱私 VPN。"
+          },
+          {
+            "title": "NordVPN 的 NordWhisper 協議強化了它在網路受限環境裡的可用性",
+            "body": "NordWhisper 是 NordVPN 新推出的混淆協議，設計用來繞過深度封包檢測，在一般 VPN 流量被封鎖或限速的環境裡更可靠地連線。這讓 NordVPN 在網路受限環境的適用性更接近 ProtonVPN 的 Stealth 協議。加上第六次 Deloitte 稽核確認無日誌合規，NordVPN 2026 年第一季的更新鞏固了它速度和工具廣度第一的第三名地位。"
+          },
+          {
+            "title": "獨立稽核是 VPN 供應商聲明之外唯一有意義的隱私驗證",
+            "body": "Malwarebytes 的首次獨立基礎設施稽核加入了已有發布稽核結果的供應商名單，包括 Mullvad、ProtonVPN、IVPN 和 NordVPN。對評估 VPN 服務的買家來說，有發布獨立稽核結果且確認無日誌合規的服務，是最低的可信度門檻。沒有發布稽核結果的服務是要求你單純相信它的政策聲明。"
+          }
+        ]
+      }
     }
+  }
   ]
 }
