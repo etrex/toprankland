@@ -138,11 +138,11 @@
       "url": "https://www.irobot.com/en_US/roomba-j9plus-self-emptying-robot-vacuum/J955020.html",
       "i18n": {
         "en": {
-          "description": "The Roomba j9+ earns its spot through Dirt Detective AI that automatically prioritizes the dirtiest rooms, plus a 60-day self-empty base and the industry's best pet-waste avoidance guarantee.",
+          "description": "The Roomba j9+ brings Dirt Detective AI that automatically prioritizes the dirtiest rooms, a 60-day self-empty base, and the industry's best pet-waste avoidance — now under Picea ownership after iRobot filed Chapter 11 bankruptcy in December 2025.",
           "priceRange": "$565"
         },
         "zh-tw": {
-          "description": "Dirt Detective AI 自動判斷哪個房間最髒並優先清掃，60 天自動倒垃圾，承諾辨識寵物排泄物避開，是養狗貓家庭的可靠選擇。",
+          "description": "Dirt Detective AI 自動判斷哪個房間最髒優先清掃，60 天自動倒垃圾，標榜寵物排泄物辨識迴避。2025 年 12 月 iRobot 申請破產後由中國廠商 Picea 接手，未來走向還在觀察中。",
           "priceRange": "約 NT$18,000"
         }
       }
@@ -178,29 +178,175 @@
           "priceRange": "約 NT$11,000"
         }
       }
+    },
+    {
+      "id": "roborock-saros-z70",
+      "name": "Roborock Saros Z70",
+      "brand": "Roborock",
+      "url": "https://us.roborock.com/products/roborock-saros-z70",
+      "i18n": {
+        "en": {
+          "description": "The Saros Z70 is the first mass-produced robot vacuum with a 5-axis OmniGrip robotic arm that can pick up objects up to 300g off the floor before cleaning, pairing that capability with 22,000 Pa suction and a 79.8mm slim chassis.",
+          "priceRange": "$1,799"
+        },
+        "zh-tw": {
+          "description": "史上第一款量產配備五軸機械手臂的掃地機，OmniGrip 可以直接把地上 300g 以內的雜物抓起來再開始清掃，搭配 22,000 Pa 吸力，機身只有 79.8mm，可以鑽桌子底下。這個功能真的是打開新格局。",
+          "priceRange": "約 NT$57,000"
+        }
+      }
     }
   ],
   "history": [
     {
       "date": "2026-04-03",
       "rankings": [
-        { "id": "dreame-x60-max-ultra", "rank": 1, "score": 9.4, "scores": { "cleaning": 9.8, "mapping": 9.2, "mopping": 9.5, "automation": 9.5, "value": 8.8 } },
-        { "id": "roborock-saros-10r", "rank": 2, "score": 9.1, "scores": { "cleaning": 9.0, "mapping": 9.8, "mopping": 9.0, "automation": 9.2, "value": 8.5 } },
-        { "id": "dreame-l50-ultra", "rank": 3, "score": 8.8, "scores": { "cleaning": 9.0, "mapping": 8.5, "mopping": 8.8, "automation": 9.0, "value": 9.2 } },
-        { "id": "roborock-qrevo-curvx", "rank": 4, "score": 8.6, "scores": { "cleaning": 8.8, "mapping": 8.5, "mopping": 8.8, "automation": 8.8, "value": 9.0 } },
-        { "id": "ecovacs-deebot-x5-pro-omni", "rank": 5, "score": 8.4, "scores": { "cleaning": 8.5, "mapping": 8.2, "mopping": 8.8, "automation": 8.8, "value": 8.2 } },
-        { "id": "eufy-x10-pro-omni", "rank": 6, "score": 8.2, "scores": { "cleaning": 8.0, "mapping": 8.2, "mopping": 8.2, "automation": 8.5, "value": 9.0 } },
-        { "id": "narwal-freo-x-ultra", "rank": 7, "score": 8.0, "scores": { "cleaning": 7.8, "mapping": 7.8, "mopping": 9.2, "automation": 8.5, "value": 7.8 } },
-        { "id": "dreame-l20-ultra", "rank": 8, "score": 7.8, "scores": { "cleaning": 7.5, "mapping": 7.8, "mopping": 8.5, "automation": 8.2, "value": 8.5 } },
-        { "id": "irobot-roomba-j9-plus", "rank": 9, "score": 7.5, "scores": { "cleaning": 7.8, "mapping": 8.0, "mopping": 5.0, "automation": 8.5, "value": 8.5 } },
-        { "id": "shark-matrix-plus", "rank": 10, "score": 7.2, "scores": { "cleaning": 7.5, "mapping": 7.5, "mopping": 7.2, "automation": 7.5, "value": 8.8 } }
+        {
+          "id": "dreame-x60-max-ultra",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "cleaning": 9.8,
+            "mapping": 9.2,
+            "mopping": 9.5,
+            "automation": 9.5,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "roborock-saros-10r",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "cleaning": 9.0,
+            "mapping": 9.8,
+            "mopping": 9.0,
+            "automation": 9.2,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "dreame-l50-ultra",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "cleaning": 9.0,
+            "mapping": 8.5,
+            "mopping": 8.8,
+            "automation": 9.0,
+            "value": 9.2
+          }
+        },
+        {
+          "id": "roborock-qrevo-curvx",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "cleaning": 8.8,
+            "mapping": 8.5,
+            "mopping": 8.8,
+            "automation": 8.8,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "ecovacs-deebot-x5-pro-omni",
+          "rank": 5,
+          "score": 8.4,
+          "scores": {
+            "cleaning": 8.5,
+            "mapping": 8.2,
+            "mopping": 8.8,
+            "automation": 8.8,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "eufy-x10-pro-omni",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "cleaning": 8.0,
+            "mapping": 8.2,
+            "mopping": 8.2,
+            "automation": 8.5,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "narwal-freo-x-ultra",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "cleaning": 7.8,
+            "mapping": 7.8,
+            "mopping": 9.2,
+            "automation": 8.5,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "dreame-l20-ultra",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "cleaning": 7.5,
+            "mapping": 7.8,
+            "mopping": 8.5,
+            "automation": 8.2,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "irobot-roomba-j9-plus",
+          "rank": 9,
+          "score": 7.5,
+          "scores": {
+            "cleaning": 7.8,
+            "mapping": 8.0,
+            "mopping": 5.0,
+            "automation": 8.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "shark-matrix-plus",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "cleaning": 7.5,
+            "mapping": 7.5,
+            "mopping": 7.2,
+            "automation": 7.5,
+            "value": 8.8
+          }
+        }
       ],
       "references": [
-        { "title": "Top 20 Best Robot Vacuums 2026 — Vacuum Wars", "url": "https://vacuumwars.com/vacuum-wars-best-robot-vacuums/", "source": "Vacuum Wars" },
-        { "title": "Best Robot Vacuums 2026 — RTINGS", "url": "https://www.rtings.com/robot-vacuum/reviews/best/robot", "source": "RTINGS.com" },
-        { "title": "Dreame X60 Max Ultra Complete Review — Vacuum Wars", "url": "https://vacuumwars.com/dreame-x60-max-ultra-complete-review/", "source": "Vacuum Wars" },
-        { "title": "Roborock Saros 10R Review — RTINGS", "url": "https://www.rtings.com/robot-vacuum/reviews/roborock/saros-10r", "source": "RTINGS.com" },
-        { "title": "Best Robot Vacuums of CES 2026 — Tom's Guide", "url": "https://www.tomsguide.com/home/home-appliances/best-robot-vacuums-of-ces-2026", "source": "Tom's Guide" }
+        {
+          "title": "Top 20 Best Robot Vacuums 2026 — Vacuum Wars",
+          "url": "https://vacuumwars.com/vacuum-wars-best-robot-vacuums/",
+          "source": "Vacuum Wars"
+        },
+        {
+          "title": "Best Robot Vacuums 2026 — RTINGS",
+          "url": "https://www.rtings.com/robot-vacuum/reviews/best/robot",
+          "source": "RTINGS.com"
+        },
+        {
+          "title": "Dreame X60 Max Ultra Complete Review — Vacuum Wars",
+          "url": "https://vacuumwars.com/dreame-x60-max-ultra-complete-review/",
+          "source": "Vacuum Wars"
+        },
+        {
+          "title": "Roborock Saros 10R Review — RTINGS",
+          "url": "https://www.rtings.com/robot-vacuum/reviews/roborock/saros-10r",
+          "source": "RTINGS.com"
+        },
+        {
+          "title": "Best Robot Vacuums of CES 2026 — Tom's Guide",
+          "url": "https://www.tomsguide.com/home/home-appliances/best-robot-vacuums-of-ces-2026",
+          "source": "Tom's Guide"
+        }
       ],
       "i18n": {
         "en": {
@@ -255,71 +401,213 @@
         }
       }
     },
-  {
-    "date": "2026-04-05",
-    "rankings": [
-      { "id": "dreame-x60-max-ultra", "rank": 1, "score": 9.4, "scores": { "cleaning": 9.8, "mapping": 9.2, "mopping": 9.5, "automation": 9.5, "value": 8.8 } },
-      { "id": "roborock-saros-10r", "rank": 2, "score": 9.1, "scores": { "cleaning": 9.0, "mapping": 9.8, "mopping": 9.0, "automation": 9.2, "value": 8.5 } },
-      { "id": "dreame-l50-ultra", "rank": 3, "score": 8.8, "scores": { "cleaning": 9.0, "mapping": 8.5, "mopping": 8.8, "automation": 9.0, "value": 9.2 } },
-      { "id": "roborock-qrevo-curvx", "rank": 4, "score": 8.6, "scores": { "cleaning": 8.8, "mapping": 8.5, "mopping": 8.8, "automation": 8.8, "value": 9.0 } },
-      { "id": "ecovacs-deebot-x5-pro-omni", "rank": 5, "score": 8.4, "scores": { "cleaning": 8.5, "mapping": 8.2, "mopping": 8.8, "automation": 8.8, "value": 8.2 } },
-      { "id": "eufy-x10-pro-omni", "rank": 6, "score": 8.2, "scores": { "cleaning": 8.0, "mapping": 8.2, "mopping": 8.2, "automation": 8.5, "value": 9.0 } },
-      { "id": "narwal-freo-x-ultra", "rank": 7, "score": 8.0, "scores": { "cleaning": 7.8, "mapping": 7.8, "mopping": 9.2, "automation": 8.5, "value": 7.8 } },
-      { "id": "dreame-l20-ultra", "rank": 8, "score": 7.8, "scores": { "cleaning": 7.5, "mapping": 7.8, "mopping": 8.5, "automation": 8.2, "value": 8.5 } },
-      { "id": "irobot-roomba-j9-plus", "rank": 9, "score": 7.5, "scores": { "cleaning": 7.8, "mapping": 8.0, "mopping": 5.0, "automation": 8.5, "value": 8.5 } },
-      { "id": "shark-matrix-plus", "rank": 10, "score": 7.2, "scores": { "cleaning": 7.5, "mapping": 7.5, "mopping": 7.2, "automation": 7.5, "value": 8.8 } }
-    ],
-    "references": [
-      { "title": "Top 20 Best Robot Vacuums in 2026 | Vacuum Wars", "url": "https://vacuumwars.com/vacuum-wars-best-robot-vacuums/", "source": "Vacuum Wars" },
-      { "title": "Best Robot Vacuums 2026 — RTINGS.com", "url": "https://www.rtings.com/robot-vacuum/reviews/best/robot", "source": "RTINGS.com" },
-      { "title": "Narwal at CES 2026: Flow 2 Flagship Robot Vacuum", "url": "https://vacuumwars.com/narwal-ces-2026/", "source": "Vacuum Wars" },
-      { "title": "Ecovacs Highlights New Deebot X12 and T90 Pro Omni at CES 2026", "url": "https://vacuumwars.com/ecovacs-ces-2026-highlights/", "source": "Vacuum Wars" },
-      { "title": "New Dyson Products for 2026: Vacuums, Robots, and More", "url": "https://vacuumwars.com/dyson-2026-lineup/", "source": "Vacuum Wars" }
-    ],
-    "i18n": {
-      "en": {
-        "commentary": "Spring cleaning season is driving robot vacuum demand to its annual peak, and the rankings are unchanged from last week. The Dreame X60 Max Ultra Complete holds rank 1 with no challenger to its 35,000 Pa suction or 100°C hot-water mop sterilization. Narwal's Flow 2 Ultra, announced at CES 2026, brings Narmind Pro AI navigation and 140°F heated mopping to Narwal's lineup, but it has not yet shipped for independent testing, so it does not affect rankings. Ecovacs' Deebot T90 Pro Omni and X12 series with OZMO Roller 3.0 continuous self-washing, and Dyson's Spot+Scrub Ai robot vacuum reboot, are all in the same position: announced, not yet independently tested.\n\nThe practical implication for buyers in April 2026 is that the current tested field is the correct reference. The Dreame L50 Ultra at rank 3 is the value story of the season. With promotional pricing in the $850 range and spring cleaning motivation high, the L50 Ultra delivers the previous top-ranked performance at a fraction of the X60 Max Ultra's price. For most households, the cleaning gap is not worth the premium.\n\nThe Roborock Saros 10R at rank 2 continues to hold its position as the definitive choice for obstacle-avoidance priority buyers. Homes with pets, children, and everyday clutter benefit most from the Saros 10R's 108-obstacle-type recognition and FlexiArm extending mop. The Eufy X10 Pro Omni at rank 6 remains the most accessible full-feature flagship at $649.",
-        "highlights": [
-          {
-            "title": "Dreame X60 Max Ultra holds rank 1 through peak spring cleaning season",
-            "body": "No new robot vacuum has shipped with specifications that challenge the X60 Max Ultra on the key metrics: 35,000 Pa suction, 100°C mop sterilization, 7.95cm body height via retractable LiDAR. Spring is when high airborne pollen and opened windows create the most consistent daily vacuuming demand, and the X60 Max Ultra handles the volume without requiring manual intervention between runs. Narwal Flow 2, Ecovacs X12, and Dyson Spot+Scrub Ai are all announced but unshipped, so the ranking picture is stable."
-          },
-          {
-            "title": "Narwal Flow 2 Ultra is the most anticipated 2026 robot that hasn't shipped yet",
-            "body": "Narwal's CES 2026 announcement of the Flow 2 Ultra with Narmind Pro AI navigation and 140°F heated mopping represents the brand's best attempt to address the navigation gap between the Freo X Ultra and top competitors. If the Flow 2 delivers on the navigation improvements, the combination of zero-tangle brush and precision AI routing has a realistic path to a top-5 placement. Independent testing will determine the final position."
-          },
-          {
-            "title": "Dreame L50 Ultra at $850 is the best robot vacuum purchase of spring 2026",
-            "body": "Spring promotional pricing on the L50 Ultra brings it to roughly $850, which is 43% less than the X60 Max Ultra at $1,499. The L50 Ultra held the Vacuum Wars number-one ranking for the better part of 2025. At current prices, you are buying last year's champion at this year's discount. The ProLeap obstacle system, 19,500 Pa suction, and hot-water mop cleaning close 90% of the performance gap against the X60 at 57% of the price."
-          },
-          {
-            "title": "Roborock Qrevo CurvX brings 22,000 Pa and AdaptiLift chassis to the mid-range sweet spot",
-            "body": "At $899, the Qrevo CurvX is the most capable Roborock below flagship pricing. The AdaptiLift chassis raises the robot body over thresholds and transitions, and the 22,000 Pa HyperForce suction handles embedded pet hair that lower-powered robots leave behind. The 80°C dock for mop sterilization covers the hygiene requirement for households with pets or young children. For buyers who want strong Roborock build quality and software without paying Saros 10R prices, this is the correct entry point."
+    {
+      "date": "2026-04-05",
+      "rankings": [
+        {
+          "id": "dreame-x60-max-ultra",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "cleaning": 9.8,
+            "mapping": 9.2,
+            "mopping": 9.5,
+            "automation": 9.5,
+            "value": 8.8
           }
-        ]
-      },
-      "zh-tw": {
-        "commentary": "春季清潔旺季，掃地機器人市場需求到達全年高點，排名和上週一致。Dreame X60 Max Ultra Complete 繼續第一，35,000 Pa 吸力加 100°C 熱水殺菌，目前沒有任何已出貨的新機型在這兩項規格上超越它。Narwal 在 CES 宣布的 Flow 2 Ultra 配備 Narmind Pro AI 導航和 140°F 加熱拖地，但還沒出貨也沒獨立評測，暫不影響排名。Ecovacs X12 系列和 Dyson Spot+Scrub Ai 也是同樣的狀況，宣布了但還沒有完整實測資料。\n\nDreame L50 Ultra 第三名，春季促銷期間的 CP 值論述更強了。促銷時大約台幣兩萬多，L50 Ultra 給你的是 2025 年長期排名第一的清潔性能，比旗艦 X60 便宜約台幣一萬多。對多數家庭來說，這個差價很難用性能差距填回來。\n\nRoborock Saros 10R 第二名繼續是障礙辨識優先買家的最佳選擇。家裡有貓狗、小孩玩具、日常雜物的家庭，Saros 10R 的 108 種障礙辨識能力讓它在這個使用情境下最可靠。Eufy X10 Pro Omni 第六名，台幣兩萬出頭買到 LiDAR、AI 障礙辨識、全功能基站，入門旗艦的 CP 值標竿繼續成立。",
-        "highlights": [
-          {
-            "title": "Dreame X60 Max Ultra 在春季旺季繼續守住第一",
-            "body": "目前市場上沒有任何已出貨的新機型在主要評分項目上超越 X60 Max Ultra：35,000 Pa 吸力、100°C 熱水殺菌、可縮式 LiDAR 帶來的 7.95 公分超薄機身。春天是開窗通風、花粉和灰塵濃度最高的季節，正是吸力優勢最明顯的使用情境。Narwal Flow 2、Ecovacs X12、Dyson Spot+Scrub Ai 全部宣布了但都還沒出貨，排名格局短期內穩定。"
-          },
-          {
-            "title": "Narwal Flow 2 Ultra 是 2026 年最值得關注的待出貨新機",
-            "body": "Narwal 在 CES 宣布 Flow 2 Ultra 配備 Narmind Pro AI 導航系統和 140°F 加熱拖地。如果 Flow 2 Ultra 在導航精度上確實超越 Freo X Ultra，結合零纏繞主刷和精準 AI 路徑規劃，進入前五名是有可能的。等獨立評測出來之後再決定是否納入排名。"
-          },
-          {
-            "title": "Dreame L50 Ultra 春季促銷是今年最好的掃地機買點",
-            "body": "春季促銷台幣大約兩萬多，比 X60 Max Ultra 的定價少了約一萬多塊。L50 Ultra 在 X60 推出前長期排名第一超過半年，你現在用折扣價買的是「前任冠軍」的清潔性能，ProLeap 爬坡腿越六公分障礙、19,500 Pa 吸力、熱水洗拖布，九成的性能差距用六成的價格，這是春季最清楚的買點。"
-          },
-          {
-            "title": "Roborock Qrevo CurvX 是中價位最完整的 Roborock 選擇",
-            "body": "台幣 NT$28,888，比 Saros 10R 便宜一大截，但 22,000 Pa HyperForce 吸力加 AdaptiLift 升降底盤可以跨越門檻，基站 80°C 熱水洗拖布有效殺菌。不想付旗艦機價格但想要 Roborock 軟體生態和硬體品質的買家，Qrevo CurvX 是目前最直接的切入點。"
+        },
+        {
+          "id": "roborock-saros-10r",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "cleaning": 9.0,
+            "mapping": 9.8,
+            "mopping": 9.0,
+            "automation": 9.2,
+            "value": 8.5
           }
-        ]
+        },
+        {
+          "id": "roborock-saros-z70",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "cleaning": 9.5,
+            "mapping": 9.0,
+            "mopping": 7.0,
+            "automation": 9.0,
+            "value": 7.0
+          }
+        },
+        {
+          "id": "dreame-l50-ultra",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "cleaning": 9.0,
+            "mapping": 8.5,
+            "mopping": 8.8,
+            "automation": 9.0,
+            "value": 9.2
+          }
+        },
+        {
+          "id": "roborock-qrevo-curvx",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "cleaning": 8.8,
+            "mapping": 8.5,
+            "mopping": 8.8,
+            "automation": 8.8,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "ecovacs-deebot-x5-pro-omni",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "cleaning": 8.5,
+            "mapping": 8.2,
+            "mopping": 8.8,
+            "automation": 8.8,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "eufy-x10-pro-omni",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "cleaning": 8.0,
+            "mapping": 8.2,
+            "mopping": 8.2,
+            "automation": 8.5,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "narwal-freo-x-ultra",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "cleaning": 7.8,
+            "mapping": 7.8,
+            "mopping": 9.2,
+            "automation": 8.5,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "dreame-l20-ultra",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "cleaning": 7.5,
+            "mapping": 7.8,
+            "mopping": 8.5,
+            "automation": 8.2,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "irobot-roomba-j9-plus",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "cleaning": 7.8,
+            "mapping": 8.0,
+            "mopping": 5.0,
+            "automation": 8.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "shark-matrix-plus",
+          "rank": 11,
+          "score": 7.2,
+          "scores": {
+            "cleaning": 7.5,
+            "mapping": 7.5,
+            "mopping": 7.2,
+            "automation": 7.5,
+            "value": 8.8
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Top 20 Best Robot Vacuums in 2026 | Vacuum Wars",
+          "url": "https://vacuumwars.com/vacuum-wars-best-robot-vacuums/",
+          "source": "Vacuum Wars"
+        },
+        {
+          "title": "Best Robot Vacuums 2026 — RTINGS.com",
+          "url": "https://www.rtings.com/robot-vacuum/reviews/best/robot",
+          "source": "RTINGS.com"
+        },
+        {
+          "title": "Narwal at CES 2026: Flow 2 Flagship Robot Vacuum",
+          "url": "https://vacuumwars.com/narwal-ces-2026/",
+          "source": "Vacuum Wars"
+        },
+        {
+          "title": "Ecovacs Highlights New Deebot X12 and T90 Pro Omni at CES 2026",
+          "url": "https://vacuumwars.com/ecovacs-ces-2026-highlights/",
+          "source": "Vacuum Wars"
+        },
+        {
+          "title": "New Dyson Products for 2026: Vacuums, Robots, and More",
+          "url": "https://vacuumwars.com/dyson-2026-lineup/",
+          "source": "Vacuum Wars"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Spring cleaning season is driving robot vacuum demand to its annual peak, and the rankings are unchanged from last week. The Dreame X60 Max Ultra Complete holds rank 1 with no challenger to its 35,000 Pa suction or 100°C hot-water mop sterilization. Narwal's Flow 2 Ultra, announced at CES 2026, brings Narmind Pro AI navigation and 140°F heated mopping to Narwal's lineup, but it has not yet shipped for independent testing, so it does not affect rankings. Ecovacs' Deebot T90 Pro Omni and X12 series with OZMO Roller 3.0 continuous self-washing, and Dyson's Spot+Scrub Ai robot vacuum reboot, are all in the same position: announced, not yet independently tested.\n\nThe practical implication for buyers in April 2026 is that the current tested field is the correct reference. The Dreame L50 Ultra at rank 3 is the value story of the season. With promotional pricing in the $850 range and spring cleaning motivation high, the L50 Ultra delivers the previous top-ranked performance at a fraction of the X60 Max Ultra's price. For most households, the cleaning gap is not worth the premium.\n\nThe Roborock Saros 10R at rank 2 continues to hold its position as the definitive choice for obstacle-avoidance priority buyers. Homes with pets, children, and everyday clutter benefit most from the Saros 10R's 108-obstacle-type recognition and FlexiArm extending mop. The Eufy X10 Pro Omni at rank 6 remains the most accessible full-feature flagship at $649.",
+          "highlights": [
+            {
+              "title": "Dreame X60 Max Ultra holds rank 1 through peak spring cleaning season",
+              "body": "No new robot vacuum has shipped with specifications that challenge the X60 Max Ultra on the key metrics: 35,000 Pa suction, 100°C mop sterilization, 7.95cm body height via retractable LiDAR. Spring is when high airborne pollen and opened windows create the most consistent daily vacuuming demand, and the X60 Max Ultra handles the volume without requiring manual intervention between runs. Narwal Flow 2, Ecovacs X12, and Dyson Spot+Scrub Ai are all announced but unshipped, so the ranking picture is stable."
+            },
+            {
+              "title": "Narwal Flow 2 Ultra is the most anticipated 2026 robot that hasn't shipped yet",
+              "body": "Narwal's CES 2026 announcement of the Flow 2 Ultra with Narmind Pro AI navigation and 140°F heated mopping represents the brand's best attempt to address the navigation gap between the Freo X Ultra and top competitors. If the Flow 2 delivers on the navigation improvements, the combination of zero-tangle brush and precision AI routing has a realistic path to a top-5 placement. Independent testing will determine the final position."
+            },
+            {
+              "title": "Dreame L50 Ultra at $850 is the best robot vacuum purchase of spring 2026",
+              "body": "Spring promotional pricing on the L50 Ultra brings it to roughly $850, which is 43% less than the X60 Max Ultra at $1,499. The L50 Ultra held the Vacuum Wars number-one ranking for the better part of 2025. At current prices, you are buying last year's champion at this year's discount. The ProLeap obstacle system, 19,500 Pa suction, and hot-water mop cleaning close 90% of the performance gap against the X60 at 57% of the price."
+            },
+            {
+              "title": "Roborock Qrevo CurvX brings 22,000 Pa and AdaptiLift chassis to the mid-range sweet spot",
+              "body": "At $899, the Qrevo CurvX is the most capable Roborock below flagship pricing. The AdaptiLift chassis raises the robot body over thresholds and transitions, and the 22,000 Pa HyperForce suction handles embedded pet hair that lower-powered robots leave behind. The 80°C dock for mop sterilization covers the hygiene requirement for households with pets or young children. For buyers who want strong Roborock build quality and software without paying Saros 10R prices, this is the correct entry point."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "春季清潔旺季，掃地機器人市場需求到達全年高點，排名和上週一致。Dreame X60 Max Ultra Complete 繼續第一，35,000 Pa 吸力加 100°C 熱水殺菌，目前沒有任何已出貨的新機型在這兩項規格上超越它。Narwal 在 CES 宣布的 Flow 2 Ultra 配備 Narmind Pro AI 導航和 140°F 加熱拖地，但還沒出貨也沒獨立評測，暫不影響排名。Ecovacs X12 系列和 Dyson Spot+Scrub Ai 也是同樣的狀況，宣布了但還沒有完整實測資料。\n\nDreame L50 Ultra 第三名，春季促銷期間的 CP 值論述更強了。促銷時大約台幣兩萬多，L50 Ultra 給你的是 2025 年長期排名第一的清潔性能，比旗艦 X60 便宜約台幣一萬多。對多數家庭來說，這個差價很難用性能差距填回來。\n\nRoborock Saros 10R 第二名繼續是障礙辨識優先買家的最佳選擇。家裡有貓狗、小孩玩具、日常雜物的家庭，Saros 10R 的 108 種障礙辨識能力讓它在這個使用情境下最可靠。Eufy X10 Pro Omni 第六名，台幣兩萬出頭買到 LiDAR、AI 障礙辨識、全功能基站，入門旗艦的 CP 值標竿繼續成立。",
+          "highlights": [
+            {
+              "title": "Dreame X60 Max Ultra 在春季旺季繼續守住第一",
+              "body": "目前市場上沒有任何已出貨的新機型在主要評分項目上超越 X60 Max Ultra：35,000 Pa 吸力、100°C 熱水殺菌、可縮式 LiDAR 帶來的 7.95 公分超薄機身。春天是開窗通風、花粉和灰塵濃度最高的季節，正是吸力優勢最明顯的使用情境。Narwal Flow 2、Ecovacs X12、Dyson Spot+Scrub Ai 全部宣布了但都還沒出貨，排名格局短期內穩定。"
+            },
+            {
+              "title": "Narwal Flow 2 Ultra 是 2026 年最值得關注的待出貨新機",
+              "body": "Narwal 在 CES 宣布 Flow 2 Ultra 配備 Narmind Pro AI 導航系統和 140°F 加熱拖地。如果 Flow 2 Ultra 在導航精度上確實超越 Freo X Ultra，結合零纏繞主刷和精準 AI 路徑規劃，進入前五名是有可能的。等獨立評測出來之後再決定是否納入排名。"
+            },
+            {
+              "title": "Dreame L50 Ultra 春季促銷是今年最好的掃地機買點",
+              "body": "春季促銷台幣大約兩萬多，比 X60 Max Ultra 的定價少了約一萬多塊。L50 Ultra 在 X60 推出前長期排名第一超過半年，你現在用折扣價買的是「前任冠軍」的清潔性能，ProLeap 爬坡腿越六公分障礙、19,500 Pa 吸力、熱水洗拖布，九成的性能差距用六成的價格，這是春季最清楚的買點。"
+            },
+            {
+              "title": "Roborock Qrevo CurvX 是中價位最完整的 Roborock 選擇",
+              "body": "台幣 NT$28,888，比 Saros 10R 便宜一大截，但 22,000 Pa HyperForce 吸力加 AdaptiLift 升降底盤可以跨越門檻，基站 80°C 熱水洗拖布有效殺菌。不想付旗艦機價格但想要 Roborock 軟體生態和硬體品質的買家，Qrevo CurvX 是目前最直接的切入點。"
+            }
+          ]
+        }
       }
     }
-  }
   ]
 }
