@@ -383,6 +383,92 @@
 
 ---
 
+## 2026-04-06 研究報告
+
+### 現有排行榜（截至今日，排除重複）
+- best-wireless-earbuds
+- best-vpn-services
+- best-smart-watches
+- best-mechanical-keyboards
+- best-ai-coding-assistants
+- best-gaming-mice
+- best-noise-cancelling-headphones
+- best-air-purifiers
+- best-laptops
+- best-robot-vacuums
+- best-4k-tvs
+
+### 已建議過主題（歷史紀錄，亦排除）
+- best-bluetooth-speakers, best-password-managers, best-standing-desks, best-wireless-chargers
+- best-ai-productivity-tools, best-project-management-software, best-ai-writing-tools, best-vibe-coding-platforms
+- best-gaming-monitors, best-home-security-cameras, best-ergonomic-chairs, best-cloud-storage
+- best-mirrorless-cameras, best-running-shoes, best-video-editing-software, best-online-learning-platforms
+- best-streaming-services, best-electric-toothbrushes
+- best-gaming-headsets, best-mesh-wifi-systems, best-budget-smartphones, best-portable-projectors, best-coffee-makers
+- best-air-fryers, best-portable-chargers, best-fitness-trackers, best-home-office-monitors
+
+---
+
+### 新主題建議
+
+1. **Best Dash Cams 2026**
+   - 建議 slug: `best-dash-cams`
+   - EN title: Best Dash Cams of 2026: 4K Front, Rear & 3-Channel Picks
+   - ZH-TW title: 2026 最佳行車記錄器排行榜：4K 前後鏡頭實測推薦
+   - 目標關鍵字: best dash cam 2026, best 4K dash cam, best front and rear dash cam 2026, Viofo vs Garmin vs Blackvue, best dash cam with parking mode
+   - SEO 潛力: Consumer Reports、BlackboxMyCar、VortexRadar 在 2026 年均有活躍評測頁面，且 Glimpse 數據確認「dash cam」每月搜尋量超過 100,000 次。4K 解析度在 2026 年成為新基準，舊款 1080p 用戶面臨明確升級動機；三鏡頭系統（前後加車室內）因 Uber/外送平台需求帶動搜尋量成長。台灣行車安全意識高，行車記錄器是全台滲透率最高的汽車配件之一，ZH-TW 受眾購買意圖極強，Viofo A329S 等 Sony STARVIS 2 感光元件機型在本地社群討論熱度高。$100–$400 中等客單價，換購週期 3–4 年，SEO 常青。
+   - 候選競品（10個）: Viofo A329S, Vantrue N4 Pro S, Blackvue Elite 9, Garmin Dash Cam Mini 3, Viofo A119 Mini 2, Nexar One, Thinkware U3000, Wolfbox G900 4K, Viofo A139 Pro 3CH, Rexing V1P Pro Max
+
+2. **Best E-Readers 2026**
+   - 建議 slug: `best-e-readers`
+   - EN title: Best E-Readers of 2026: Kindle, Kobo & More Tested & Ranked
+   - ZH-TW title: 2026 最佳電子書閱讀器排行榜：Kindle、Kobo 實測推薦
+   - 目標關鍵字: best e-reader 2026, best Kindle 2026, Kindle Paperwhite vs Kobo Libra Colour, best e-reader for reading books, best colour e-reader 2026
+   - SEO 潛力: Good e-Reader、Engadget、Android Central 均有 2026 年春季更新的評測頁面，代表搜尋需求持續旺盛。彩色 E Ink（Kaleido 3 技術）在 2026 年正式進入主流（Kobo Libra Colour、Boox Note Air 5 C），帶動已有黑白閱讀器用戶的比較換機搜尋潮。亞太區是全球 e-reader 市場成長最快的地區（9.1% CAGR），8 月開學季與 11 月節慶是搜尋量雙峰，出版社電子書銷售額年增確保此品類長效需求。訂閱費（Kindle Unlimited vs Kobo Plus）是選購決策的核心因素，有利製作具深度的差異化排行。$100–$500 客單價，購買意圖高且具備季節性峰值。
+   - 候選競品（10個）: Amazon Kindle Paperwhite 2024, Kobo Libra Colour, Onyx Boox Note Air 5 C, Amazon Kindle Scribe 2025, Kobo Elipsa 2E, reMarkable 2, Onyx Boox Go 10.3, Amazon Kindle 2024 (entry), Kobo Clara Colour, PocketBook InkPad Color 3
+
+3. **Best Electric Bikes 2026**
+   - 建議 slug: `best-electric-bikes`
+   - EN title: Best Electric Bikes of 2026: Top Commuter E-Bikes Tested & Ranked
+   - ZH-TW title: 2026 最佳電動輔助自行車排行榜：通勤電動車實測推薦
+   - 目標關鍵字: best electric bike 2026, best commuter ebike 2026, best ebike under 2000 2026, Aventon vs Rad Power vs Lectric, best folding ebike 2026
+   - SEO 潛力: Tom's Guide、OutdoorGearLab、CyclingElectric 在 2026 年 4 月均有活躍更新，Electric Bike Report 有 6 年以上評測累積代表品類長效性。城市通勤電動車在後疫情時代形成穩定需求，歐盟電動腳踏車補貼政策持續刺激購買，UL 安全認證要求（2026 年生效）帶動消費者更積極研究品牌資質。$1,000–$3,000 高客單價確保強購買意圖，Aventon、Lectric、Ride1Up 等美國品牌在評測媒體獲大量報導，台灣市場因山地地形與城市騎乘需求並存，成長潛力明確，ZH-TW 受眾中等。
+   - 候選競品（10個）: Aventon Level 3, Lectric XP4 750, Ride1Up Roadster V3, Rad Power RadCity 5 Plus, Trek Verve+ 3 Lowstep, Specialized Turbo Vado SL, Tern GSD S10, Velotric Fold 1, Cannondale Treadwell Neo 2 EQ, Specialized Como SL 5.0
+
+4. **Best Smart Home Hubs 2026**
+   - 建議 slug: `best-smart-home-hubs`
+   - EN title: Best Smart Home Hubs of 2026: Matter, Zigbee & Thread Controllers Ranked
+   - ZH-TW title: 2026 最佳智慧家庭主機排行榜：Matter 相容推薦
+   - 目標關鍵字: best smart home hub 2026, best Matter hub 2026, Aqara vs Amazon Echo vs Google Nest Hub, best hub for Apple HomeKit 2026, best smart home controller without subscription
+   - SEO 潛力: MatterCatalog、Tom's Guide、OfZenAndComputing 在 2026 年有密集的 Matter 主機更新評測，代表此品類搜尋需求隨 Matter 協議普及而急速上升。Matter 標準在 2026 年真正進入大眾消費市場，舊款智慧家庭用戶面臨一次性升級決策，「best Matter hub 2026」類型搜尋量年增明顯。消費者在 Amazon Alexa、Google Home、Apple HomeKit 三大生態間的選擇困惑強，排行內容有明確的資訊缺口。Hubitat C-8 Pro（無訂閱本地處理）vs Amazon Echo Dot Max（Alexa 生態整合）是當前最熱討論點，有利製作觀點鮮明的排行內容。$50–$250 客單價，一次性購買後帶動整個智慧家庭生態投資，LTV 高。
+   - 候選競品（10個）: Aqara Hub M3, Amazon Echo Dot Max, Google Nest Hub 2nd Gen, Apple HomePod mini, Hubitat C-8 Pro, Samsung SmartThings Hub, Philips Hue Bridge 2.1, SONOFF ZB Bridge Ultra, Amazon Echo 4th Gen, Home Assistant Yellow
+
+5. **Best Smart Rings 2026**
+   - 建議 slug: `best-smart-rings`
+   - EN title: Best Smart Rings of 2026: Health & Sleep Tracking Ranked
+   - ZH-TW title: 2026 最佳智慧戒指排行榜：健康睡眠追蹤推薦
+   - 目標關鍵字: best smart ring 2026, best smart ring no subscription, Oura Ring 4 vs Samsung Galaxy Ring, best health tracking ring 2026, smart ring vs fitness tracker
+   - SEO 潛力: Wareable、TechRadar、Tom's Guide 在 2026 年均有活躍評測，此品類與已有的 best-smart-watches 及 best-fitness-trackers（已建議）形成明確區隔：智慧戒指主打被動式 24 小時健康監測、無螢幕設計、電池 5–8 天，目標受眾是不想戴手錶但重視健康數據的用戶。Oura Ring 4 訂閱制（$5.99/月）引發 Reddit r/ouraring 大量「is it worth it」討論，推動「smart ring no subscription」成為高轉化長尾關鍵字，Samsung Galaxy Ring 以無訂閱費切入正面競爭。Apple 智慧戒指傳言持續在媒體發酵，保持品類熱度。$250–$450 高客單價，健康意識消費者購買意圖強，ZH-TW 受眾因 Oura 台灣代理成立對此品類認知度提升。
+   - 候選競品（10個）: Oura Ring 4, Samsung Galaxy Ring, RingConn Gen 2, Ultrahuman Ring AIR, Circular Ring Slim, Evie Ring, Amazfit Helio Ring, Movano Evie Ring Pro, UltraCare Ring, Happy Ring
+
+---
+
+### 市場動態
+
+- **行車記錄器 4K 標準化**：Consumer Reports 在 2026 年明確將「2K 以下不推薦購買」列入評選標準，Sony STARVIS 2 感光元件全面下放至 $150 以下機型，帶動一波舊款換新需求；Viofo A329S 在 VortexRadar 等專業評測中持續奪冠，品牌辨識度帶動「Viofo vs Garmin」比較搜尋成長顯著。
+- **彩色 E Ink 突破閾值**：Kobo Libra Colour 以 $150 將彩色 Kaleido 3 技術帶入主流定價區間，打破過去彩色電子紙只在高端機型（$300+）出現的慣例；Onyx Boox Note Air 5 C 同步以 $380 覆蓋筆記功能需求，2026 年 Q1 彩色 e-reader 搜尋量年增估計超過 60%，品類比較內容需求明確。
+- **電動腳踏車 UL 認證效應**：美國多個城市在 2026 年加強實施 e-bike 安全規範，要求 UL 2849 認證，消費者購買決策從「便宜就好」轉向「有認證才買」，帶動比較排名的信任需求上升；Aventon 與 Lectric 率先完成認證強化市場地位，搜尋流量向通過認證的品牌集中。
+- **Matter 智慧家庭主機換購潮啟動**：Amazon、Apple、Google 在 2026 年 Q1 同步完成 Matter 1.3 韌體更新，舊款 Zigbee only 主機正式成為「升級候選」，「best Matter hub upgrade from Smartthings」等具體升級需求搜尋量攀升；Aqara M3 因同時支援 Zigbee、Thread、Matter 三協議成為熱門推薦，台灣智慧家庭市場在裝修潮推動下同步成長。
+- **智慧戒指訂閱制反彈帶動無訂閱替代搜尋**：Oura Ring 漲價至 $5.99/月後，Reddit r/ouraring 出現大量「switching to Galaxy Ring」討論，Samsung Galaxy Ring 在 2026 年 Q1 銷售額成長估計超過 120%；「smart ring no subscription 2026」已成為此品類轉化率最高的長尾關鍵字，RingConn Gen 2 與 Ultrahuman Ring AIR 受益最大。
+
+---
+
+## 2026-04-06 已建立排行榜
+
+- **best-dash-cams** — 10 個競品，Viofo A329S 拿第一（雙 Sony STARVIS 2 IMX678、4K 60FPS、Wi-Fi 6、SSD 支援，NT$11,900），Vantrue N4 Pro S 第二（三路全 STARVIS 2、4K+1080P IR+2.5K，台灣需代購約 NT$12,100），BlackVue Elite 9 第三（雲端即時備份最強），Viofo A119 Mini 2 以 NT$2,690 的預算拿到 STARVIS 2 感光元件獲最佳 CP 值
+
+---
+
 ## 2026-04-05 已建立排行榜
 
 - **best-4k-tvs** — 10 個競品，LG C6 OLED 拿第一（Tandem OLED 全尺寸下放、Alpha 11 Gen 3 處理器，$2,699），Samsung S95F 第二（QD-OLED 霧面塗層解決明室問題，台灣確認售價 NT$154,900），Sony Bravia 8 II 第三（XR 認知處理器電影調色最強），TCL QM8K 以 4,540 nits 實測峰值亮度贏過所有 OLED 拿到 CP 值第一
