@@ -1544,6 +1544,222 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-04-06",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 9.0,
+            "network": 8.5,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 9.0,
+            "network": 9.0,
+            "usability": 9.0,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.5,
+            "network": 9.5,
+            "usability": 9.0,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.5,
+            "network": 7.5,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 9.5,
+            "network": 9.0,
+            "usability": 9.0,
+            "price": 7.8
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 8.5,
+            "network": 8.5,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 7.5,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "airvpn",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "privacy": 9.0,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 7.0,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "pia",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.0,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "nymvpn",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 5.5,
+            "network": 6.0,
+            "usability": 7.0,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "cyberghost",
+          "rank": 11,
+          "score": 7.2,
+          "scores": {
+            "privacy": 6.5,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Mullvad VPN Completes WireGuard-Only Transition, Drops OpenVPN Servers",
+          "url": "https://www.tomsguide.com/computing/vpns/mullvad-vpn-will-remove-all-its-openvpn-servers-in-six-months-time",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "Mullvad Browser Now on Firefox Rapid Release Channel, Available on Linux ARM",
+          "url": "https://www.techradar.com/vpn/vpn-privacy-security/mullvad-browsers-testers-now-get-access-to-updates-every-four-weeks-also-on-linux-arm-devices",
+          "source": "TechRadar"
+        },
+        {
+          "title": "ProtonVPN 2026 Roadmap: New Free Server Locations and Linux CLI Expansion",
+          "url": "https://www.techradar.com/vpn/vpn-services/proton-vpn-2025s-privacy-milestones-and-the-2026-roadmap",
+          "source": "TechRadar"
+        },
+        {
+          "title": "NordVPN 2026: New Interactive Map, My Location Tool, and Easter Promotions",
+          "url": "https://www.techradar.com/vpn/vpn-services/nordvpn-had-a-busy-start-to-2026-heres-a-recap-of-all-the-releases-you-may-have-missed",
+          "source": "TechRadar"
+        },
+        {
+          "title": "ExpressVPN Lightway Turbo Launched with Post-Quantum Encryption Support",
+          "url": "https://gizmodo.com/best-vpn/expressvpn",
+          "source": "Gizmodo"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Mullvad completed a significant infrastructure decision this week: the transition to WireGuard-only protocol, dropping all OpenVPN servers, is done. This was announced months in advance and the January 2026 deadline has now passed. The practical implication is that Mullvad users are now exclusively on WireGuard — which is faster, more efficient, and has a smaller attack surface than OpenVPN. For privacy-first users, this is a positive development. For the minority of users who specifically needed OpenVPN for network compatibility reasons, this is a reason to look elsewhere.\n\nThe Mullvad Browser Alpha is now on the Firefox Rapid Release channel instead of the ESR track, meaning users get security and feature updates every four weeks instead of waiting for major releases. Linux ARM support is added.\n\nProtonVPN released Windows app v4.3.13 and Linux GUI v4.15.1 recently, with the 2026 roadmap including new free server locations and Linux CLI expansion. These are meaningful improvements for Proton's core user base — particularly developers and privacy-conscious users who depend on the free tier.\n\nExpressVPN launched Lightway Turbo with multi-lane support for improved throughput, and required all users to update by March 31 for post-quantum encryption support. The Pro plan bundles additional services. The exclusive gaming deal at $2.27/month for a biennial plan extends through April 2026. The price score edges up slightly on this deal.",
+          "highlights": [
+            {
+              "title": "Mullvad's WireGuard-Only Transition Is Complete and Strengthens Its Privacy Position",
+              "body": "Mullvad completed the shutdown of all OpenVPN servers in January 2026. Every connection now uses WireGuard, which has a significantly smaller codebase than OpenVPN — fewer lines of code means fewer potential vulnerabilities. WireGuard also performs better on modern hardware, with faster handshake times and lower CPU overhead. The Mullvad Browser's move to Firefox Rapid Release ensures security patches arrive on a four-week cycle rather than waiting for ESR major releases. These changes reinforce Mullvad's position as the most technically rigorous VPN service for users who prioritize security over feature breadth."
+            },
+            {
+              "title": "ProtonVPN's 2026 Roadmap Addresses Its Core User Base Directly",
+              "body": "The ProtonVPN 2026 roadmap focuses on the features its users actually request: new free server locations, improved split tunneling in the Windows app, expanded Linux CLI capabilities with community-driven scripting, and architectural improvements. The free tier is the reason ProtonVPN has the largest privacy-conscious user base of any paid VPN — the roadmap items that improve free tier coverage directly expand that competitive position. ProtonVPN's no-logs policy has been independently audited, and its Swiss legal jurisdiction provides privacy protections that US-based VPN operators cannot offer."
+            },
+            {
+              "title": "NordVPN's Redesigned Map and Location Transparency Tool Are Marketing Assets, Not Privacy Improvements",
+              "body": "NordVPN's interactive map redesign and the 'My Location' tool — which shows what websites can infer about your location — are well-executed user-facing features. They make the service more engaging and visible. They are not privacy improvements in the technical sense; they do not change how NordVPN handles your traffic or logs. NordVPN maintains its third position because of its speed, network size, and usability, not because of these additions. The Easter promotional pricing at 76% off a biennial plan is a good entry point if you intend to use NordVPN long term."
+            },
+            {
+              "title": "ExpressVPN Lightway Turbo Adds Speed, and Post-Quantum Encryption Is Now Live",
+              "body": "Lightway Turbo's multi-lane architecture allows a single VPN connection to use multiple parallel channels, improving throughput on high-speed connections. The post-quantum encryption requirement that went live March 31 means ExpressVPN connections are now protected against future quantum computing attacks on current encryption schemes. This is a forward-looking security improvement, not a present threat mitigation. At $2.27 per month on the current biennial promotion, ExpressVPN is at its most competitive price this year. The speed score edges up to reflect Lightway Turbo."
+            },
+            {
+              "title": "IVPN Holds Fourth Despite Smaller Network Through Superior Privacy Architecture",
+              "body": "IVPN's fourth position with a smaller server network than NordVPN, ExpressVPN, or Surfshark is a consistent source of questions. The answer is that IVPN's privacy architecture is fundamentally more rigorous: no email required for account creation, cryptocurrency payment accepted without identity linkage, a multi-hop system that routes traffic through two separate servers in different jurisdictions by default, and a verified no-logs policy. For users who treat VPN selection primarily as a privacy decision rather than a streaming unblocking or speed decision, IVPN's architecture justifies its position ahead of larger networks."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Mullvad 這週完成了一個重要的基礎設施決策：全面移除 OpenVPN 伺服器、只保留 WireGuard 協議的轉換已經完成，一月的截止日期已過。這對 Mullvad 用戶的實際意義是，所有連線現在都走 WireGuard，這個協議比 OpenVPN 程式碼更精簡、效能更好、潛在攻擊面更小。對需要 OpenVPN 的少數用戶這是個轉換點，對多數用戶這是個正面升級。\n\nMullvad Browser 從 Firefox ESR 切換到 Rapid Release 頻道，安全更新從每幾個月一次加快到每四週一次，同時加入 Linux ARM 支援。\n\nProtonVPN 在 2026 年路線圖中確認了新的免費伺服器位置、Windows 分割隧道改進、Linux CLI 擴充。這些改進直接針對 Proton 的核心用戶群：開發者和依賴免費層的隱私導向用戶。\n\nExpressVPN 發布了 Lightway Turbo 多通道架構提升速度，三月三十一日也強制要求全用戶升級到支援後量子加密的版本。雙年計劃促銷到四月 $2.27/月，是 ExpressVPN 今年的最低定價。",
+          "highlights": [
+            {
+              "title": "Mullvad 完成 WireGuard 轉換，技術隱私立場進一步強化",
+              "body": "Mullvad 一月完成了全面關閉 OpenVPN 伺服器的計畫，所有連線現在都走 WireGuard。WireGuard 的程式碼量遠比 OpenVPN 精簡，程式碼少代表潛在漏洞少。在現代硬體上的握手速度更快、CPU 消耗更低。搭配 Mullvad Browser 切換到 Firefox Rapid Release 頻道、每四週收到安全更新，Mullvad 在技術嚴謹度上的領先地位持續鞏固。這些改變對隱私優先的用戶是正向信號，對需要 OpenVPN 相容性的少數用戶是轉換訊號。"
+            },
+            {
+              "title": "ProtonVPN 2026 路線圖聚焦免費層擴充，是它最強的競爭武器",
+              "body": "ProtonVPN 在隱私導向 VPN 市場擁有最大的免費用戶基礎，2026 年路線圖明確計劃擴充免費伺服器位置、改善 Windows 分割隧道、擴充 Linux CLI 功能。這些項目直接強化它的核心優勢。ProtonVPN 的無記錄政策有獨立稽核認證，瑞士法律管轄提供了美國 VPN 供應商無法提供的隱私保護。在台灣，ProtonMail 和 ProtonVPN 的組合是最流行的完整隱私套件方案之一。"
+            },
+            {
+              "title": "NordVPN 的互動地圖和位置透明工具是行銷功能，不是隱私升級",
+              "body": "NordVPN 這週的主要更新是互動地圖重設計和「My Location」工具，讓用戶看到網站能推斷你哪些位置資訊。這些是做得很好的用戶介面功能，不是隱私技術的改進，不改變 NordVPN 處理你流量或日誌的方式。NordVPN 排第三靠的是速度、伺服器數量和易用性，這些更新不改變它的排名依據。Easter 促銷的雙年計劃打七六折是長期用戶的好入場點。"
+            },
+            {
+              "title": "ExpressVPN Lightway Turbo 提升速度，後量子加密已強制啟用",
+              "body": "Lightway Turbo 的多通道架構讓單一 VPN 連線可以使用多條並行通道，在高速網路連線下的吞吐量明顯提升。三月三十一日強制全用戶升級到支援後量子加密的版本，是前瞻性的安全部署，針對未來量子電腦可能破解當前加密方案的威脅提前設防。目前的雙年計劃促銷 $2.27/月延續到四月，是 ExpressVPN 今年的最低定價，速度分數微調反映 Lightway Turbo 的改進。"
+            },
+            {
+              "title": "IVPN 靠隱私架構嚴謹度守住第四，伺服器數量不是它的核心競爭點",
+              "body": "IVPN 排在第四，卻比 NordVPN、ExpressVPN 和 Surfshark 的伺服器網路小很多，理由是隱私架構的根本差異：申請帳號不需要 email、支援加密貨幣匿名付款、預設多跳路由讓流量經過不同司法管轄的兩台伺服器。對把 VPN 選擇視為隱私決策的用戶，IVPN 的架構設計是排在更大網路前面的合理理由。如果你的首要考量是串流解鎖或速度，NordVPN 或 ExpressVPN 是更實用的選擇。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
