@@ -383,6 +383,12 @@
 
 ---
 
+## 2026-04-07 已建立排行榜
+
+- **best-e-readers** — 8 個競品，Kindle Paperwhite 2025 拿第一（300 ppi + 10 週電池 + Amazon 書庫，同價位無對手），Kobo Libra Colour 第二（彩色 Kaleido 3 + 實體翻頁鍵 + 最佳圖書館借閱整合），Kindle Colorsoft 第三（彩色 Amazon 生態系首選），reMarkable 2 第八（本質是筆記裝置非閱讀器）
+
+---
+
 ## 2026-04-06 研究報告
 
 ### 現有排行榜（截至今日，排除重複）
@@ -460,6 +466,88 @@
 - **電動腳踏車 UL 認證效應**：美國多個城市在 2026 年加強實施 e-bike 安全規範，要求 UL 2849 認證，消費者購買決策從「便宜就好」轉向「有認證才買」，帶動比較排名的信任需求上升；Aventon 與 Lectric 率先完成認證強化市場地位，搜尋流量向通過認證的品牌集中。
 - **Matter 智慧家庭主機換購潮啟動**：Amazon、Apple、Google 在 2026 年 Q1 同步完成 Matter 1.3 韌體更新，舊款 Zigbee only 主機正式成為「升級候選」，「best Matter hub upgrade from Smartthings」等具體升級需求搜尋量攀升；Aqara M3 因同時支援 Zigbee、Thread、Matter 三協議成為熱門推薦，台灣智慧家庭市場在裝修潮推動下同步成長。
 - **智慧戒指訂閱制反彈帶動無訂閱替代搜尋**：Oura Ring 漲價至 $5.99/月後，Reddit r/ouraring 出現大量「switching to Galaxy Ring」討論，Samsung Galaxy Ring 在 2026 年 Q1 銷售額成長估計超過 120%；「smart ring no subscription 2026」已成為此品類轉化率最高的長尾關鍵字，RingConn Gen 2 與 Ultrahuman Ring AIR 受益最大。
+
+---
+
+## 2026-04-07 研究報告
+
+### 現有排行榜（截至今日，排除重複）
+- best-4k-tvs
+- best-ai-coding-assistants
+- best-air-purifiers
+- best-dash-cams
+- best-gaming-mice
+- best-laptops
+- best-mechanical-keyboards
+- best-noise-cancelling-headphones
+- best-robot-vacuums
+- best-smart-watches
+- best-vpn-services
+- best-wireless-earbuds
+
+### 已建議過主題（歷史紀錄，亦排除）
+- best-bluetooth-speakers, best-password-managers, best-standing-desks, best-wireless-chargers
+- best-ai-productivity-tools, best-project-management-software, best-ai-writing-tools, best-vibe-coding-platforms
+- best-gaming-monitors, best-home-security-cameras, best-ergonomic-chairs, best-cloud-storage
+- best-mirrorless-cameras, best-running-shoes, best-video-editing-software, best-online-learning-platforms
+- best-streaming-services, best-electric-toothbrushes
+- best-gaming-headsets, best-mesh-wifi-systems, best-budget-smartphones, best-portable-projectors, best-coffee-makers
+- best-air-fryers, best-portable-chargers, best-fitness-trackers, best-home-office-monitors
+- best-e-readers, best-electric-bikes, best-smart-home-hubs, best-smart-rings
+
+---
+
+### 新主題建議
+
+1. **Best Portable Power Stations 2026**
+   - 建議 slug: `best-portable-power-stations`
+   - EN title: Best Portable Power Stations of 2026: Home Backup & Camping Tested
+   - ZH-TW title: 2026 最佳行動電源站排行榜：居家備用與戶外露營實測推薦
+   - 目標關鍵字: best portable power station 2026, best home backup power station, EcoFlow vs Bluetti vs Jackery, best power station for camping, best LFP battery power station 2026
+   - SEO 潛力: TechRadar、Popular Science、OutdoorGearLab 在 2026 年均有活躍更新評測，代表搜尋需求橫跨戶外愛好者與居家備災兩大受眾族群。美國電網可靠性問題（颶風、冬季暴風雪）持續驅動備用電源需求，FEMA 調查顯示 47% 美國家庭將添購備用電源列為年度優先消費項目。EcoFlow Delta 3 Plus（1024Wh）以 10ms UPS 切換速度穩居評測第一，Bluetti Elite 200v2（2073Wh LFP 電池）覆蓋高需求家庭市場，Jackery Explorer 2000 Plus 可擴充至 12,000Wh 吸引重度用戶。$500–$3,000 寬幅客單價確保多層次購買意圖，台灣颱風季備災需求使 ZH-TW 受眾有明確觸發點。LFP 電芯全面普及帶動換購舊款鋰電池型號的搜尋潮，「best LFP power station 2026」已成高轉化長尾關鍵字。
+   - 候選競品（10個）: EcoFlow Delta 3 Plus, Bluetti Elite 200v2, Jackery Explorer 2000 Plus, EcoFlow Delta Pro 3, Anker SOLIX C1000 Gen 2, Goal Zero Yeti 1500X, Allpowers R1500, Oupes Mega 5, Bluetti AC180P, EcoFlow River 3 Max
+
+2. **Best AI Smart Glasses 2026**
+   - 建議 slug: `best-smart-glasses`
+   - EN title: Best Smart Glasses of 2026: AI Audio & Display Glasses Ranked
+   - ZH-TW title: 2026 最佳智慧眼鏡排行榜：AI 語音與顯示鏡片推薦
+   - 目標關鍵字: best smart glasses 2026, best AI glasses 2026, Ray-Ban Meta Gen 2 review, Meta vs Solos vs Even Reals, best AR glasses 2026
+   - SEO 潛力: Tom's Guide、TechRadar、Engadget 在 2026 年 Q1 均有活躍評測，Meta Ray-Ban Gen 2 整合 LLAMA 4 模型搭配 42% 更大電池已成為最熱門 AI 穿戴裝置。市場明確分裂為「音訊優先（無顯示器）」與「顯示優先（AR 螢幕）」兩大陣營，兩種消費需求截然不同，有利製作清晰分類的排行內容。Meta Ray-Ban 系列在 TikTok 與 YouTube 的開箱影片累積破億觀看，帶動「should I buy Ray-Ban Meta glasses」型搜尋持續攀升。新款 Meta Ray-Ban Display（內嵌鏡片螢幕）在 2026 年 Q1 發布，帶動舊款 vs 新款的比較搜尋急速上升。XREAL One Pro 在生產力應用與沉浸式遊戲場景中佔優，覆蓋與 Ray-Ban 完全不同的受眾。$200–$700 客單價，是目前成長最快的消費性穿戴裝置品類之一。
+   - 候選競品（10個）: Meta Ray-Ban Gen 2 Smart Glasses, Meta Ray-Ban Display, Solos AirGo 3, Even Reals G1, XREAL One Pro, XREAL Air 2 Ultra, Oakley Meta Vanguard, RayNeo Air 3s, Dymesty AI Glasses, Google Glasses 2026
+
+3. **Best E-Ink Tablets 2026**
+   - 建議 slug: `best-e-ink-tablets`
+   - EN title: Best E-Ink Tablets of 2026: For Note-Taking, Writing & Reading
+   - ZH-TW title: 2026 最佳電子紙平板排行榜：手寫筆記與閱讀推薦
+   - 目標關鍵字: best e-ink tablet 2026, best e-ink tablet for note taking, reMarkable 2 vs Kindle Scribe vs Boox, best writing tablet 2026, best e-paper tablet
+   - SEO 潛力: 此品類與已建議過的 best-e-readers 形成清晰區隔，電子紙平板主打「手寫筆記 + 長時間專注閱讀 + 無藍光螢幕」，目標受眾是學生、研究人員、作家，而非純閱讀用戶。Engadget、Trusted Reviews、GadgetFlow 均在 2026 年 Q1 更新評測，確認搜尋需求旺盛。reMarkable Paper Pro 推出彩色 Gallery 3 E Ink 面板，成為 2026 年最受討論的新品之一。Boox Tab Ultra C Pro 以完整 Android 11 生態系滿足生產力需求，吸引需要 APP 整合的專業用戶。「digital paper tablet」與「paper-like tablet」等替代搜尋詞持續成長，代表消費者積極尋找 iPad 之外的無干擾工作工具。$300–$700 客單價，購買前高度依賴評測比較，轉化率高。
+   - 候選競品（10個）: reMarkable 2, reMarkable Paper Pro, Onyx Boox Tab Ultra C Pro, Amazon Kindle Scribe 2025, Onyx Boox Go 10.3, Supernote A5 X2, Onyx Boox Note Air 5 C, Kobo Elipsa 2E, iFLYTEK Smart Notebook X3 Pro, Bigme S6 Color Plus
+
+4. **Best Espresso Machines 2026**
+   - 建議 slug: `best-espresso-machines`
+   - EN title: Best Espresso Machines of 2026: From Beginner to Home Barista
+   - ZH-TW title: 2026 最佳義式咖啡機排行榜：入門到進階居家咖啡師推薦
+   - 目標關鍵字: best espresso machine 2026, best home espresso machine, Breville vs De'Longhi vs Lelit, best espresso machine under 500, best automatic espresso machine 2026
+   - SEO 潛力: 此品類與已建議的 best-coffee-makers 形成明確區隔，義式咖啡機是獨立高搜尋量品類，Tom's Guide、CNN Underscored、CoffeeKev 均有活躍 2026 評測頁面，Bean Ground、Coffee Chronicler 等垂直媒體更有長達數年的高流量內容累積。咖啡文化在台灣急速升溫，台北人均咖啡店密度亞洲第一，帶動家用義式咖啡機購買需求，ZH-TW 受眾需求極為明確。$200–$2,500 寬幅客單價覆蓋入門到發燒友族群，Breville Bambino（$300 入門）與 Lelit Bianca V3（$2,000+ 進階）的巨大價差有利製作多層次排行。「best espresso machine under 500」是此品類轉化率最高的長尾關鍵字，搜尋量穩定且年增。
+   - 候選競品（10個）: Breville Barista Express Touch, De'Longhi La Specialista Touch, Breville Bambino Plus, JURA E8 Gen 2, Lelit Bianca V3, Gaggia Classic Evo Pro, Nespresso Vertuo Creatista, Sage Barista Pro, ECM Synchronika, Rancilio Silvia Pro X
+
+5. **Best Home Gym Equipment 2026**
+   - 建議 slug: `best-home-gym-equipment`
+   - EN title: Best Home Gym Equipment of 2026: Smart & Traditional Gear Ranked
+   - ZH-TW title: 2026 最佳居家健身器材排行榜：智慧與傳統設備推薦
+   - 目標關鍵字: best home gym equipment 2026, best home gym machine 2026, Tonal vs Tempo vs REP Fitness, best all-in-one home gym, best home gym under 1000 2026
+   - SEO 潛力: BarBend、Men's Journal、OutdoorGearLab 均有 2026 年活躍評測，代表此品類橫跨體能訓練、健身科技、空間優化三大搜尋族群。「智慧健身」（Smart Gym）趨勢驅動新一波購買：Tonal 2 以壁掛式 250 磅數位阻力與 AI 教練整合，成為小坪數家庭訓練的代表性產品。後疫情時代 WFH 文化固化使居家健身長期需求穩定，Peloton 訂閱制漲價反彈驅動消費者轉向買斷型器材。台灣健身房會員費用高（每月 $1,500–$3,000 新台幣），居家器材一次性投資的性價比論述有強說服力，ZH-TW 受眾購買意圖清晰。「best home gym under $1,000」是搜尋量最大的長尾關鍵字，涵蓋調整式啞鈴、折疊式深蹲架等高轉化商品類型，內容製作彈性高。
+   - 候選競品（10個）: Tonal 2, REP Fitness Ares 2.0, PRx Profile ONE Squat Rack, Bowflex SelectTech 552 Dumbbells, Mikolo M4 2.0 Functional Trainer, NordicTrack Vault, Peloton Row 2, HARISON-610 Adjustable Bench, Titan Fitness T-3 Power Rack, Force USA G6 All-In-One Trainer
+
+---
+
+### 市場動態
+
+- **行動電源站 LFP 電芯全面普及**：EcoFlow、Bluetti、Jackery 在 2026 年全線旗艦產品已換裝 LFP（磷酸鐵鋰）電芯，循環壽命達 3,000–4,000 次對比舊款三元鋰電池的 500–800 次，帶動一波舊款換新潮，「LFP vs lithium power station」比較搜尋年增顯著。美國 2025–2026 年多次大規模停電事件（加州山火、德州冬季暴風雪）進一步拉高消費者備災意識。
+- **Meta Ray-Ban Display 重新定義 AI 眼鏡**：Meta 於 2026 年 Q1 發布搭載鏡片內嵌顯示器的新款 Ray-Ban，帶動「smart glasses display 2026」搜尋量急速攀升，原有的音訊型 Ray-Ban 用戶大量湧入「should I upgrade to display version」討論，比較型搜尋需求在 2026 年 3 月底創單月新高。
+- **電子紙平板彩色化門檻突破**：reMarkable Paper Pro 將 Gallery 3 彩色 E Ink 面板定價維持在 $580，低於市場預期，帶動「is reMarkable Paper Pro worth it」搜尋量暴增；Onyx Boox 同步以 Note Air 5 C 強攻 $380 中端市場，彩色電子紙平板在 2026 年 Q1 成為最受關注的生產力新品類之一。
+- **台灣義式咖啡機市場進入高成長期**：台北一公里咖啡店密度超過東京成為亞洲第一，帶動消費者從「外帶咖啡」轉向「在家自製義式咖啡」，Breville 與 De'Longhi 台灣官方零售通路在 2025–2026 年均設立，ZH-TW 市場搜尋量增速確認此品類在台灣本地有明確 SEO 機會。
+- **居家健身智慧化加速**：Tonal 2 發布後 AI 個人教練功能訂閱滲透率達 78%，Men's Journal 調查顯示 2026 年消費者在「有 AI 指導的家用健身器材」上的支出意願比 2024 年上升 34%，帶動「smart home gym machine 2026」類型搜尋量持續攀升。
 
 ---
 
