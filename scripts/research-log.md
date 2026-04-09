@@ -2,6 +2,42 @@
 
 ---
 
+## 2026-04-09 已建立排行榜
+
+- **best-bluetooth-speakers** — 8 個競品，JBL Charge 6 拿第一（45W、IP68、28h、行動電源功能、Auracast、NT$6,980），Marshall Emberton III 第二（32h 最長續航、680g 最輕巧、NT$6,490），Bose SoundLink Max 第三（97dB 最高音壓、雙 89mm 單體、NT$12,900），UE Hyperboom 殿底（180W 最大輸出但 IPX4 防水等級偏低、NT$14,000+代購）
+
+---
+
+## 2026-04-09 研究報告
+
+### 新主題建議
+
+1. **Best Smart Rings**：智慧戒指是 2026 年健康穿戴成長最快的品類，Oura Ring 4（$349 + $69.99/年訂閱）、Samsung Galaxy Ring（$399、無月費）、RingConn Gen 2（$299、無月費）三強鼎立。「best smart ring」在 TechRadar、Tom's Guide、Wareable 等主流科技媒體均有專門排行，消費者購前比較意圖明確。訂閱費是否划算是核心爭議點，很適合做多維度排名。現有排行榜已有 best-smart-watches，智慧戒指可補足手腕穿戴以外的健康追蹤賽道，兩者互補不重疊。
+
+2. **Best Standing Desks**：遠端工作已成常態，站立桌是居家辦公必購品類，平均售價 $500 到 $1,500，購買決策謹慎，搜尋研究行為強。Uplift V3、FlexiSpot E7、Desky Dual 是 2026 年主流推薦款。Tom's Guide、TechRadar、Consumer Reports 均有常青排行頁面，代表搜尋量持續穩定。此類別和現有排行榜（best-laptops、best-mechanical-keyboards）有相同的居家辦公受眾，交叉導流潛力高。
+
+3. **Best Espresso Machines**：咖啡機是高 AOV（平均訂單價值）的廚房電器品類，入門款 $150 到旗艦款 $3,000 以上，價格帶清晰，排名維度豐富（預算、全自動、手動）。Breville Barista Express、Breville Bambino、Jura Z10、De'Longhi Stilosa 是當前主要競品。Consumer Reports、Tom's Guide 均有長青排行，顯示搜尋量常年穩定。消費者購前比較行為強烈，「best espresso machine under $500」類型的長尾關鍵字搜尋量可觀。
+
+4. **Best Electric Bikes**：電動自行車市場在通勤替代、環保意識抬頭雙重驅動下持續擴張，2026 年主力款集中在 $1,000 到 $2,500 區間。Aventon Level 3（最佳全能款）、Lectric XP4（最佳折疊值回比）、Ride1Up Roadster v3（最佳預算款）是三大方向。Electrek、OutdoorGearLab、Tom's Guide 的排行頁面流量穩定。消費者購前高度依賴評測和比較，平均購買決策週期長，SEO 流量轉換價值高。
+
+5. **Best Monitors**：顯示器是電腦周邊中第二高購買金額的品類（僅次於電腦本體），2026 年 OLED 普及帶動換機潮，ASUS ROG Swift OLED PG27UCDM（4K 240Hz QD-OLED）和 Dell Ultrasharp U2724DE（生產力旗艦）是主要競品。Tom's Hardware、PCWorld、RTINGS.com 均有持續更新的排行。現有排行榜已覆蓋 best-laptops 和 best-gaming-mice，顯示器是同一受眾的自然延伸，內部連結機會明確。
+
+### 市場動態
+
+- **智慧戒指訂閱費之爭持續發酵**：Samsung Galaxy Ring 和 RingConn Gen 2 主打無訂閱費差異化，直接衝擊 Oura 的定價模式。best-smart-watches 排行榜可在文章中增加相關比較連結。
+- **OLED 螢幕滲透率提升**：2026 年 500Hz QD-OLED 面板正式量產（ASUS ROG Swift、MSI MAG 272QP），帶動電競顯示器換機需求，「best gaming monitor」搜尋量預期上升。
+- **電動自行車政策利多**：多個美國城市持續補貼 e-bike 購買，帶動搜尋量增長，Electrek 4 月 5 日已發布最新電動自行車評測，市場活躍度高。
+- **居家辦公設備需求持穩**：站立桌、顯示器、機械鍵盤等品類搜尋量在 2026 Q1 維持高位，現有 best-mechanical-keyboards 和 best-laptops 排行持續有流量。
+- **咖啡機品類 AI 功能整合加速**：Jura 和 Breville 的新款機型開始整合 app 連線和個人化萃取建議，「best smart espresso machine」類型搜尋量上升，可作為排行評分維度。
+
+---
+
+## 2026-04-08 已建立排行榜
+
+- **best-portable-power-stations** — 8 個競品，EcoFlow Delta 3 Plus 拿第一（1024Wh、56 分鐘充滿、X-Boost 2200W、$549），Bluetti Elite 200 V2 第二（2073.6Wh LFP、6000 循環壽命、$899），EcoFlow Delta Pro 3 第三（4096Wh、4000W、120/240V 雙電壓、唯一整棟備電方案），Goal Zero Yeti 1500X 墊底（實測容量只有標稱 74%、原廠充電器 12.5 小時充滿）
+
+---
+
 ## 2026-03-30 — 熱門排行榜主題研究
 
 ### 現有排行榜（已存在，排除重複）
