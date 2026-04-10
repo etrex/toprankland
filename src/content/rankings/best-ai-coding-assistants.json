@@ -162,6 +162,38 @@
           "description": "Google 出品的非同步自主程式代理，Gemini 2.5 Pro 驅動，直接整合 GitHub repository，在雲端沙盒裡規劃並執行多文件任務。完全零 IDE 依賴，對於習慣純 GitHub 工作流的團隊，這個入門門檻最低。"
         }
       }
+    },
+    {
+      "id": "openai-codex",
+      "name": "OpenAI Codex",
+      "brand": "OpenAI",
+      "url": "https://openai.com/codex/",
+      "i18n": {
+        "en": {
+          "priceRange": "$20/mo+",
+          "description": "Cloud-based autonomous coding agent from OpenAI, bundled with ChatGPT Plus and Pro plans, capable of parallel task execution in isolated environments."
+        },
+        "zh-tw": {
+          "priceRange": "約 NT$640/月+",
+          "description": "OpenAI 的雲端自主編程代理，內建於 ChatGPT Plus 和 Pro 方案，可以在隔離環境中平行執行多個任務，適合大型重構和功能開發。"
+        }
+      }
+    },
+    {
+      "id": "augment-code",
+      "name": "Augment Code",
+      "brand": "Augment",
+      "url": "https://www.augmentcode.com",
+      "i18n": {
+        "en": {
+          "priceRange": "$20/mo+",
+          "description": "Enterprise-focused AI coding assistant with deep codebase indexing, supporting VS Code and JetBrains with credit-based usage across autonomous agent tasks."
+        },
+        "zh-tw": {
+          "priceRange": "約 NT$640/月+",
+          "description": "專攻企業級大型程式庫的 AI 編程助手，支援 VS Code 和 JetBrains，透過深度程式庫索引理解整個專案上下文，採用信用點數制計費。"
+        }
+      }
     }
   ],
   "history": [
@@ -1821,8 +1853,20 @@
           }
         },
         {
-          "id": "google-jules",
+          "id": "openai-codex",
           "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
           "score": 8.2,
           "scores": {
             "codeQuality": 8.5,
@@ -1834,7 +1878,7 @@
         },
         {
           "id": "devin",
-          "rank": 5,
+          "rank": 6,
           "score": 8.0,
           "scores": {
             "codeQuality": 8.5,
@@ -1846,7 +1890,7 @@
         },
         {
           "id": "amazon-q-developer",
-          "rank": 6,
+          "rank": 7,
           "score": 7.8,
           "scores": {
             "codeQuality": 8.0,
@@ -1858,7 +1902,7 @@
         },
         {
           "id": "zed",
-          "rank": 7,
+          "rank": 8,
           "score": 7.8,
           "scores": {
             "codeQuality": 8.0,
@@ -1870,7 +1914,7 @@
         },
         {
           "id": "aider",
-          "rank": 8,
+          "rank": 9,
           "score": 7.7,
           "scores": {
             "codeQuality": 8.5,
@@ -1882,7 +1926,7 @@
         },
         {
           "id": "windsurf",
-          "rank": 9,
+          "rank": 10,
           "score": 7.7,
           "scores": {
             "codeQuality": 8.0,
@@ -1890,6 +1934,18 @@
             "ideIntegration": 8.5,
             "agenticCapability": 7.5,
             "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 7.0
           }
         }
       ],

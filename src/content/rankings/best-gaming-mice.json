@@ -210,6 +210,38 @@
           "description": "左右手通用設計壓到 45g，PixArt PAW3395 競技級感測器，三千出頭體驗極致輕量無線的入場券"
         }
       }
+    },
+    {
+      "id": "gpx2-superstrike",
+      "name": "Logitech G PRO X2 SUPERSTRIKE",
+      "brand": "Logitech",
+      "url": "https://www.logitechg.com/en-us/shop/p/pro-x2-superstrike-mouse",
+      "i18n": {
+        "en": {
+          "priceRange": "$179",
+          "description": "World's first haptic inductive trigger gaming mouse with electromagnetic analog switches, 61g, HERO 2 sensor at 44K DPI, and 8000Hz polling rate."
+        },
+        "zh-tw": {
+          "priceRange": "NT$5,190",
+          "description": "全球第一款搭載電磁感應類比觸發系統的電競滑鼠，61g 重量，HERO 2 感測器最高 44K DPI，支援 8000Hz 回報率，10 段觸發力道可調。"
+        }
+      }
+    },
+    {
+      "id": "da-v4-pro",
+      "name": "Razer DeathAdder V4 Pro",
+      "brand": "Razer",
+      "url": "https://www.razer.com/gaming-mice/razer-deathadder-v4-pro",
+      "i18n": {
+        "en": {
+          "priceRange": "$170",
+          "description": "56g ultralight wireless with Focus Pro 45K Gen-2 sensor, 8000Hz polling, optical scroll wheel, and 150-hour battery life."
+        },
+        "zh-tw": {
+          "priceRange": "NT$6,290",
+          "description": "56g 超輕量無線滑鼠，Focus Pro 45K Gen-2 感測器，光學滾輪首次導入電競鼠，8000Hz 回報率，150 小時續航力。"
+        }
+      }
     }
   ],
   "history": [
@@ -2318,19 +2350,19 @@
       "date": "2026-04-10",
       "rankings": [
         {
-          "id": "gpx2-dex",
+          "id": "gpx2-superstrike",
           "rank": 1,
-          "score": 9.2,
+          "score": 9.3,
           "scores": {
             "sensor": 9.5,
-            "latency": 9.5,
+            "latency": 9.8,
             "weight": 9.5,
-            "build": 9.0,
-            "value": 8.5
+            "build": 9.5,
+            "value": 8.2
           }
         },
         {
-          "id": "viper-v4-pro",
+          "id": "gpx2-dex",
           "rank": 2,
           "score": 9.2,
           "scores": {
@@ -2342,8 +2374,32 @@
           }
         },
         {
-          "id": "da-v3-hyper",
+          "id": "viper-v4-pro",
           "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "sensor": 9.5,
+            "latency": 9.5,
+            "weight": 9.5,
+            "build": 9.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "da-v4-pro",
+          "rank": 4,
+          "score": 9.1,
+          "scores": {
+            "sensor": 9.5,
+            "latency": 9.5,
+            "weight": 9.5,
+            "build": 9.0,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "da-v3-hyper",
+          "rank": 5,
           "score": 9.0,
           "scores": {
             "sensor": 9.5,
@@ -2355,7 +2411,7 @@
         },
         {
           "id": "op1we",
-          "rank": 4,
+          "rank": 6,
           "score": 9.0,
           "scores": {
             "sensor": 9.5,
@@ -2367,7 +2423,7 @@
         },
         {
           "id": "viper-v3-hyper",
-          "rank": 5,
+          "rank": 7,
           "score": 8.9,
           "scores": {
             "sensor": 9.5,
@@ -2379,7 +2435,7 @@
         },
         {
           "id": "corsair-m75-air",
-          "rank": 6,
+          "rank": 8,
           "score": 8.7,
           "scores": {
             "sensor": 9.0,
@@ -2391,7 +2447,7 @@
         },
         {
           "id": "fnatic-bolt",
-          "rank": 7,
+          "rank": 9,
           "score": 8.5,
           "scores": {
             "sensor": 9.0,
@@ -2403,7 +2459,7 @@
         },
         {
           "id": "g502x-plus",
-          "rank": 8,
+          "rank": 10,
           "score": 8.4,
           "scores": {
             "sensor": 9.0,
@@ -2415,7 +2471,7 @@
         },
         {
           "id": "ninjutso-sora-v2",
-          "rank": 9,
+          "rank": 11,
           "score": 8.3,
           "scores": {
             "sensor": 9.0,
@@ -2427,7 +2483,7 @@
         },
         {
           "id": "pulsefire-haste2-w",
-          "rank": 10,
+          "rank": 12,
           "score": 8.1,
           "scores": {
             "sensor": 8.5,
@@ -2439,7 +2495,7 @@
         },
         {
           "id": "prime-wireless",
-          "rank": 11,
+          "rank": 13,
           "score": 8.0,
           "scores": {
             "sensor": 8.5,
