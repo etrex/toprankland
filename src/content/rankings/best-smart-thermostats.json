@@ -1,0 +1,342 @@
+{
+  "slug": "best-smart-thermostats",
+  "category": "Smart Home",
+  "scoreFactors": {
+    "autoScheduling": "Auto-Scheduling & Learning",
+    "multiRoomSupport": "Multi-Room Sensor Support",
+    "smartHomeIntegration": "Smart Home Integration",
+    "energySavings": "Energy Savings",
+    "installation": "Installation Ease",
+    "displayDesign": "Display & Design"
+  },
+  "i18n": {
+    "en": {
+      "title": "Best Smart Thermostats 2026",
+      "description": "Ranked by real-world energy savings, auto-scheduling capability, and smart home integration across the top Wi-Fi thermostats of 2026."
+    },
+    "zh-tw": {
+      "title": "最佳智慧恆溫器 2026",
+      "description": "從實際省電效果、自動排程能力、智慧家居整合三個維度，評比 2026 年最值得入手的 Wi-Fi 智慧恆溫器。"
+    }
+  },
+  "competitors": [
+    {
+      "id": "ecobee-smart-thermostat-premium",
+      "name": "Smart Thermostat Premium",
+      "brand": "Ecobee",
+      "url": "https://www.ecobee.com/en-us/smart-thermostats/smart-thermostat-premium/",
+      "i18n": {
+        "en": {
+          "description": "The most feature-complete smart thermostat on the market, with built-in Alexa, Siri, air quality monitoring, and a SmartSensor included in the box.",
+          "priceRange": "$249"
+        },
+        "zh-tw": {
+          "description": "功能最完整的智慧恆溫器，內建 Alexa 與 Siri、空氣品質監測、盒內附 SmartSensor，一台搞定全部。",
+          "priceRange": "約 NT$8,000"
+        }
+      }
+    },
+    {
+      "id": "google-nest-learning-thermostat-4th-gen",
+      "name": "Nest Learning Thermostat (4th gen)",
+      "brand": "Google",
+      "url": "https://store.google.com/product/nest_learning_thermostat_4th_gen",
+      "i18n": {
+        "en": {
+          "description": "Google's flagship thermostat auto-learns your schedule within a week, ships with a Nest Temperature Sensor, and is fully Matter-certified for any smart home platform.",
+          "priceRange": "$279.99"
+        },
+        "zh-tw": {
+          "description": "Google 旗艦款，一週內自動學習你的作息習慣，附贈第二代 Nest 溫度感應器，完整支援 Matter 協議，跨平台無痛整合。",
+          "priceRange": "約 NT$9,000"
+        }
+      }
+    },
+    {
+      "id": "honeywell-home-t9",
+      "name": "Home T9 Smart Thermostat",
+      "brand": "Honeywell Home",
+      "url": "https://www.honeywellhome.com/products/t9-smart-thermostat",
+      "i18n": {
+        "en": {
+          "description": "The best choice for large homes with hot and cold spots, supporting up to 20 wireless room sensors with 200-foot range and occupancy-based zone control.",
+          "priceRange": "$199"
+        },
+        "zh-tw": {
+          "description": "大坪數住宅的最佳解，支援最多 20 個無線室內感應器、訊號範圍達 60 公尺，依照各房間實際使用狀況自動調節溫度。",
+          "priceRange": "約 NT$6,400"
+        }
+      }
+    },
+    {
+      "id": "emerson-sensi-touch-2",
+      "name": "Sensi Touch 2 Smart Thermostat",
+      "brand": "Emerson",
+      "url": "https://sensi.copeland.com/en-us/products/touch2-smart-thermostat",
+      "i18n": {
+        "en": {
+          "description": "The thinnest smart thermostat at just 0.8 inches deep, with a full-color touchscreen, geofencing, and 23% average HVAC energy savings according to Emerson's data.",
+          "priceRange": "$160"
+        },
+        "zh-tw": {
+          "description": "厚度僅 2 公分，是市面上最薄的智慧恆溫器，彩色觸控螢幕加上地理圍欄功能，平均幫你省下 23% 的空調電費。",
+          "priceRange": "約 NT$5,200"
+        }
+      }
+    },
+    {
+      "id": "ecobee-smart-thermostat-enhanced",
+      "name": "Smart Thermostat Enhanced",
+      "brand": "Ecobee",
+      "url": "https://www.ecobee.com/en-us/smart-thermostats/smart-thermostat-enhanced/",
+      "i18n": {
+        "en": {
+          "description": "Ecobee's mid-range model delivers the same occupancy-sensing and energy-saving algorithms as the Premium at a lower price, without the built-in speaker or air quality sensor.",
+          "priceRange": "$189"
+        },
+        "zh-tw": {
+          "description": "Ecobee 中階款，搭載與 Premium 相同的佔用偵測與省電演算法，沒有內建喇叭和空氣品質感測器，但省下一筆預算。",
+          "priceRange": "約 NT$6,000"
+        }
+      }
+    },
+    {
+      "id": "google-nest-thermostat-2020",
+      "name": "Nest Thermostat (2020)",
+      "brand": "Google",
+      "url": "https://store.google.com/product/nest_thermostat",
+      "i18n": {
+        "en": {
+          "description": "Google's entry-level smart thermostat at $129.99 brings app-based scheduling, geofencing, and Google Home integration without the auto-learning premium.",
+          "priceRange": "$129.99"
+        },
+        "zh-tw": {
+          "description": "Google 入門款，售價約 NT$4,200，支援 App 手動排程與地理圍欄，整合 Google Home，適合不需要自動學習功能的用戶。",
+          "priceRange": "約 NT$4,200"
+        }
+      }
+    },
+    {
+      "id": "honeywell-t6-pro-smart",
+      "name": "T6 Pro Smart Thermostat",
+      "brand": "Honeywell Home",
+      "url": "https://www.honeywellhome.com/products/t6-pro-smart-thermostat",
+      "i18n": {
+        "en": {
+          "description": "The go-to for HVAC professionals and complex systems, supporting up to 3 Heat / 2 Cool multi-stage setups with Energy Star certification and Wi-Fi remote access.",
+          "priceRange": "$150"
+        },
+        "zh-tw": {
+          "description": "HVAC 工程師首選，支援最複雜的三段加熱、兩段冷卻系統，Energy Star 認證，適合暖氣系統複雜的老房子改裝。",
+          "priceRange": "約 NT$4,800"
+        }
+      }
+    },
+    {
+      "id": "amazon-smart-thermostat",
+      "name": "Smart Thermostat",
+      "brand": "Amazon",
+      "url": "https://www.amazon.com/Amazon-Smart-Thermostat/dp/B08J4C8871",
+      "i18n": {
+        "en": {
+          "description": "At $79.99, the Amazon Smart Thermostat is an Energy Star certified budget pick that leverages Alexa Hunches to adjust settings automatically based on your routine.",
+          "priceRange": "$79.99"
+        },
+        "zh-tw": {
+          "description": "只要約 NT$2,600，Energy Star 認證，搭配 Alexa Hunches 功能根據你的日常習慣自動調節溫度，是預算有限時的合理選擇。",
+          "priceRange": "約 NT$2,600"
+        }
+      }
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-04-10",
+      "rankings": [
+        {
+          "id": "ecobee-smart-thermostat-premium",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "autoScheduling": 9.0,
+            "multiRoomSupport": 9.5,
+            "smartHomeIntegration": 9.5,
+            "energySavings": 9.0,
+            "installation": 8.5,
+            "displayDesign": 9.0
+          }
+        },
+        {
+          "id": "google-nest-learning-thermostat-4th-gen",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "autoScheduling": 9.8,
+            "multiRoomSupport": 8.0,
+            "smartHomeIntegration": 9.5,
+            "energySavings": 9.0,
+            "installation": 9.0,
+            "displayDesign": 9.5
+          }
+        },
+        {
+          "id": "honeywell-home-t9",
+          "rank": 3,
+          "score": 8.5,
+          "scores": {
+            "autoScheduling": 7.5,
+            "multiRoomSupport": 9.8,
+            "smartHomeIntegration": 8.5,
+            "energySavings": 8.5,
+            "installation": 8.0,
+            "displayDesign": 8.0
+          }
+        },
+        {
+          "id": "emerson-sensi-touch-2",
+          "rank": 4,
+          "score": 7.8,
+          "scores": {
+            "autoScheduling": 7.5,
+            "multiRoomSupport": 7.0,
+            "smartHomeIntegration": 8.0,
+            "energySavings": 8.0,
+            "installation": 8.5,
+            "displayDesign": 8.5
+          }
+        },
+        {
+          "id": "ecobee-smart-thermostat-enhanced",
+          "rank": 5,
+          "score": 7.5,
+          "scores": {
+            "autoScheduling": 8.0,
+            "multiRoomSupport": 8.0,
+            "smartHomeIntegration": 8.5,
+            "energySavings": 8.0,
+            "installation": 8.5,
+            "displayDesign": 7.0
+          }
+        },
+        {
+          "id": "google-nest-thermostat-2020",
+          "rank": 6,
+          "score": 7.2,
+          "scores": {
+            "autoScheduling": 7.0,
+            "multiRoomSupport": 6.0,
+            "smartHomeIntegration": 8.5,
+            "energySavings": 7.5,
+            "installation": 8.5,
+            "displayDesign": 7.5
+          }
+        },
+        {
+          "id": "honeywell-t6-pro-smart",
+          "rank": 7,
+          "score": 7.0,
+          "scores": {
+            "autoScheduling": 6.5,
+            "multiRoomSupport": 6.0,
+            "smartHomeIntegration": 7.0,
+            "energySavings": 7.5,
+            "installation": 8.0,
+            "displayDesign": 7.0
+          }
+        },
+        {
+          "id": "amazon-smart-thermostat",
+          "rank": 8,
+          "score": 6.5,
+          "scores": {
+            "autoScheduling": 6.0,
+            "multiRoomSupport": 5.0,
+            "smartHomeIntegration": 7.5,
+            "energySavings": 7.0,
+            "installation": 7.5,
+            "displayDesign": 6.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "8 Best Smart Thermostats of 2026, Lab-Tested and Reviewed",
+          "url": "https://www.consumerreports.org/appliances/thermostats/best-smart-thermostats-of-the-year-a4768074255/",
+          "source": "Consumer Reports"
+        },
+        {
+          "title": "Best Smart Thermostats 2026",
+          "url": "https://www.reviewed.com/smarthome/best-right-now/the-best-smart-thermostats",
+          "source": "Reviewed.com"
+        },
+        {
+          "title": "The Best Thermostat | Lab Tested & Ranked",
+          "url": "https://www.techgearlab.com/topics/smart-home/best-thermostat",
+          "source": "TechGearLab"
+        },
+        {
+          "title": "Best Matter-Compatible Smart Thermostats in 2026",
+          "url": "https://simplifyhometech.com/best-matter-compatible-smart-thermostats/",
+          "source": "Simplify Home Tech"
+        },
+        {
+          "title": "Nest Learning Thermostat (4th gen) review",
+          "url": "https://www.techhive.com/article/2442945/nest-learning-thermostat-4th-gen-review.html",
+          "source": "TechHive"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The smart thermostat market in 2026 has a clear leader: the Ecobee Smart Thermostat Premium. At $249, it does more than control your heating and cooling — it monitors indoor air quality, listens for smoke alarms, doubles as a security hub, and includes a SmartSensor to handle the hot and cold spots that most homes have. I put it first because no other thermostat bundles this many genuinely useful features at a price that is still reasonable for what you get.\n\nThe Google Nest Learning Thermostat (4th gen) earns the second spot for one reason that matters more than any feature list: it actually learns. Within a week of installation, it builds a schedule based on when you're home and what temperatures you prefer. Most people never fully program a thermostat. The Nest removes that friction entirely. It also ships with a Nest Temperature Sensor in the box, is fully Matter-certified, and has the best-looking display in this category. The $279.99 price is the highest here, but the justification is clear.\n\nIf you have a large home with uneven temperatures, the Honeywell Home T9 is the right answer. Supporting up to 20 wireless sensors at a 200-foot range, it is the only thermostat in this group designed around the reality that a single thermostat reading does not represent what is actually happening across a multi-room house. Its auto-scheduling is less sophisticated than Ecobee or Nest, but the room-level control it provides compensates for that.\n\nThe Amazon Smart Thermostat at $79.99 is the honest budget pick. It will not impress anyone with its display or feature set, but the Alexa Hunches integration — where it adjusts based on whether you are home, asleep, or away — delivers the core value of a smart thermostat without requiring you to spend $200 or more. For a second home, a rental, or anyone who simply wants remote control and basic scheduling, it earns its place.",
+          "highlights": [
+            {
+              "title": "Ecobee Premium is the most complete package at $249",
+              "body": "Most thermostats do one thing well. The Ecobee Smart Thermostat Premium does six. Built-in Alexa and Siri voice control, air quality monitoring that tells you when to change your filter, smoke alarm detection, SmartSensor for room-level temperature balancing, and a security hub that integrates with Alexa Guard. The included SmartSensor alone is a $79 add-on with competing products. At $249, Ecobee is not asking you to pay a premium without justification — the value is there in the box."
+            },
+            {
+              "title": "The Nest Learning Thermostat's auto-learning is genuinely useful, not a gimmick",
+              "body": "Auto-learning thermostats have been around for over a decade, but the 4th gen Nest executes it better than any previous version. The new Adaptive Comfort setting adjusts target temperatures based on real-time humidity levels and weather forecasts, not just your stored schedule. The Sunblock feature detects when direct sunlight is hitting the thermostat and compensates for the false reading. These are not marketing bullets — they are the kind of details that make a thermostat's automatic decisions feel correct rather than frustrating. Matter certification means this device is fully compatible with Apple Home, Google Home, Alexa, and SmartThings without any workarounds."
+            },
+            {
+              "title": "Matter compatibility reshapes how I evaluate smart thermostats in 2026",
+              "body": "In 2026, Matter is no longer a future consideration. It is the standard that determines whether a smart home device is worth recommending for the long term. The Nest Learning Thermostat (4th gen) is Matter-certified out of the box. The Ecobee Premium works across Siri, Alexa, and Google Assistant natively. If a thermostat lacks broad platform support in 2026, I treat that as a structural weakness, not a minor limitation. The Honeywell T6 Pro Smart falls here — solid HVAC compatibility, but narrow smart home integration by comparison."
+            },
+            {
+              "title": "The Honeywell T9 solves the problem most thermostats pretend doesn't exist",
+              "body": "A single thermostat placed in the hallway cannot know that your bedroom is 4 degrees warmer than the rest of the house. The Honeywell T9 acknowledges this and builds its entire design around it. With up to 20 wireless sensors at a 200-foot range, it can focus heating and cooling based on which rooms are actually occupied. For a 2,000+ square foot home with multiple zones, this is not a luxury. It is the correct way to manage comfort across the whole space."
+            },
+            {
+              "title": "Amazon's $79.99 thermostat is the right answer for the right buyer",
+              "body": "The Amazon Smart Thermostat does not compete with Ecobee or Nest on features. It is not trying to. At $79.99, it delivers Energy Star certified scheduling, Alexa Hunches automation, and remote app control — the three things that separate a smart thermostat from a programmable one. The payback period at estimated $50 annual energy savings is under 18 months. For a secondary property, a rental unit, or a household where smart home investment is minimal, this is a defensible purchase."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "2026 年智慧恆溫器市場的格局很清楚，Ecobee Smart Thermostat Premium 是最完整的選擇，Google Nest Learning Thermostat 第四代是最聰明的選擇，而 Honeywell Home T9 解決了其他產品刻意忽視的問題，就是大坪數空間的分區溫控。\n\nEcobee Premium 賣 249 美元，折合台幣約 8,000 元，聽起來不便宜，但你拆箱就能用到的東西包括：內建 Alexa 和 Siri 語音控制、空氣品質監測、濾網更換提醒、煙霧警報偵測、安全感測器整合，還有一個本來要另外買、售價 79 美元的 SmartSensor。把這些加起來，8,000 元其實是合理的。我把它排第一，是因為它的 CP 值在這個品類裡真的最高。\n\nGoogle Nest Learning Thermostat 第四代排第二，理由只有一個：它會自動學習你的生活習慣。大多數人買了智慧恆溫器從來不認真設定排程，Nest 的自動學習功能就是為這種情況設計的，一週後它就能知道你幾點起床、幾點出門、回家前要提前幾分鐘開始調溫。新的 Adaptive Comfort 功能還會根據當天濕度和天氣預測微調設定溫度，這種細節讓它的自動決策比對手更貼近實際需求。\n\nHoneywell Home T9 則是大坪數住宅的正確答案。單一感應器放在走廊，根本無法代表整棟房子的溫度狀況，T9 支援最多 20 個無線感應器、訊號範圍 60 公尺，可以依照哪個房間有人在、哪個時段需要優先控溫來做決策。這不是噱頭，是真正解決問題的設計。\n\n台灣讀者要注意的是，這些產品主要針對北美暖氣系統設計，台灣本地大多是冷氣主導的空調架構，購買前要確認 HVAC 系統相容性，直接進口使用的難度較高。",
+          "highlights": [
+            {
+              "title": "Ecobee Premium 的 249 美元物超所值",
+              "body": "很多恆溫器專攻一件事，Ecobee Premium 把六件事打包成一台。內建 Alexa 和 Siri 語音控制、空氣品質監測、濾網到期提醒、煙霧警報偵測、SmartSensor 分區溫控、安全監控整合，這樣的配置競品通常要分開買。光是 SmartSensor 就值 79 美元，加上去整台的性價比非常清楚。"
+            },
+            {
+              "title": "Nest 的自動學習功能是真正有用的技術",
+              "body": "Nest Learning Thermostat 第四代的自動學習不是說說而已。新增的 Adaptive Comfort 功能會根據即時濕度和天氣預報微調目標溫度，Sunblock 功能則會偵測陽光直射感應器時的讀數誤差並自動補償。這些細節讓恆溫器的自動決策感覺正確，而不是你時不時要去手動修正。Matter 認證讓它和 Apple Home、Alexa、Google Home、SmartThings 全數相容，未來換平台也不必換設備。"
+            },
+            {
+              "title": "2026 年 Matter 支援已經是基本門檻",
+              "body": "2026 年的智慧家居整合標準是 Matter，不是可選的加分項。Nest Learning 第四代原生支援 Matter，Ecobee Premium 橫跨 Siri、Alexa、Google Assistant 三大平台。如果一台恆溫器在 2026 年還做不到跨平台整合，我會把它視為長期使用的風險，而不只是小缺點。Honeywell T6 Pro Smart 的 HVAC 相容性很強，但智慧家居整合明顯落後，這是它排名偏後的主因。"
+            },
+            {
+              "title": "T9 解決了其他恆溫器假裝不存在的問題",
+              "body": "放在走廊的單一感應器無法知道你臥室比客廳熱了四度。Honeywell T9 直接承認這個問題存在，設計上就是圍繞多房間溫控來做的。支援最多 20 個無線感應器、訊號範圍 60 公尺，可以依照各房間的使用狀況決定優先調節哪個區域。超過 60 坪的住宅，這不是錦上添花，是讓每個房間都舒適的必要配置。"
+            },
+            {
+              "title": "Amazon 的 79.99 美元方案適合對的使用者",
+              "body": "Amazon Smart Thermostat 沒打算和 Ecobee、Nest 比功能，這台的定位從一開始就是讓預算有限的人用上智慧恆溫器。Alexa Hunches 功能會根據你在不在家、是否已睡著來自動調整溫度，這是智慧恆溫器最核心的價值，它都做到了。折合台幣約 2,600 元，如果是度假屋、出租套房、或智慧家居投資還在觀望的用戶，這台的投資報酬率相當合理。"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
