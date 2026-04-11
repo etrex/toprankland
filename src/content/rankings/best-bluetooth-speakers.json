@@ -147,6 +147,22 @@
           "priceRange": "約NT$14,000"
         }
       }
+    },
+    {
+      "id": "sonos-play",
+      "name": "Sonos Play",
+      "brand": "Sonos",
+      "url": "https://www.sonos.com/en-us/shop/sonos-play",
+      "i18n": {
+        "en": {
+          "description": "A $299 portable AirPlay 2 speaker with 24-hour battery, IP67 waterproofing, replaceable battery, and stereo sound from dual angled tweeters and force-opposed bass radiators — released March 2026.",
+          "priceRange": "$299"
+        },
+        "zh-tw": {
+          "description": "2026 年 3 月發布，定位在 Roam 2 和 Move 2 之間的攜帶式喇叭，支援 AirPlay 2 和藍牙，24 小時續航、IP67 防水、電池可更換，雙角度高音加被動輻射器帶出有層次的低頻。",
+          "priceRange": "約 NT$9,800"
+        }
+      }
     }
   ],
   "history": [
@@ -391,8 +407,21 @@
           }
         },
         {
-          "id": "sonos-move-2",
+          "id": "sonos-play",
           "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "soundQuality": 9.0,
+            "portability": 8.0,
+            "battery": 8.5,
+            "durability": 9.0,
+            "value": 7.5,
+            "features": 8.5
+          }
+        },
+        {
+          "id": "sonos-move-2",
+          "rank": 5,
           "score": 8.2,
           "scores": {
             "soundQuality": 9.5,
@@ -405,7 +434,7 @@
         },
         {
           "id": "jbl-flip-7",
-          "rank": 5,
+          "rank": 6,
           "score": 8.0,
           "scores": {
             "soundQuality": 7.5,
@@ -418,7 +447,7 @@
         },
         {
           "id": "bang-olufsen-beosound-a1-3rd-gen",
-          "rank": 6,
+          "rank": 7,
           "score": 7.8,
           "scores": {
             "soundQuality": 9.0,
@@ -431,7 +460,7 @@
         },
         {
           "id": "anker-soundcore-motion-x600",
-          "rank": 7,
+          "rank": 8,
           "score": 7.7,
           "scores": {
             "soundQuality": 8.0,
@@ -444,7 +473,7 @@
         },
         {
           "id": "ue-hyperboom",
-          "rank": 8,
+          "rank": 9,
           "score": 7.5,
           "scores": {
             "soundQuality": 8.5,

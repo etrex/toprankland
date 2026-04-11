@@ -147,6 +147,22 @@
           "priceRange": "約 NT$2,600"
         }
       }
+    },
+    {
+      "id": "aqara-thermostat-hub-w200",
+      "name": "Thermostat Hub W200",
+      "brand": "Aqara",
+      "url": "https://us.aqara.com/products/thermostat-hub-w200",
+      "i18n": {
+        "en": {
+          "description": "The first thermostat to support Apple's Adaptive Temperature and Clean Energy Guidance features in iOS 26, with Matter 1.4, Thread, built-in mmWave radar for occupancy sensing, and a 4-inch auto-wake touchscreen at $159.99.",
+          "priceRange": "$159.99"
+        },
+        "zh-tw": {
+          "description": "全球首款支援 Apple Adaptive Temperature 和 Clean Energy Guidance 的恆溫器，Matter 1.4 加 Thread 連線，內建 mmWave 毫米波雷達偵測人員在場，4 吋觸控螢幕走近自動喚醒，整合 Alexa、Google Home 和 Apple Home。",
+          "priceRange": "約 NT$5,200"
+        }
+      }
     }
   ],
   "history": [
@@ -193,8 +209,21 @@
           }
         },
         {
-          "id": "emerson-sensi-touch-2",
+          "id": "aqara-thermostat-hub-w200",
           "rank": 4,
+          "score": 8.0,
+          "scores": {
+            "autoScheduling": 7.5,
+            "multiRoomSupport": 6.0,
+            "smartHomeIntegration": 9.5,
+            "energySavings": 8.5,
+            "installation": 8.0,
+            "displayDesign": 8.5
+          }
+        },
+        {
+          "id": "emerson-sensi-touch-2",
+          "rank": 5,
           "score": 7.8,
           "scores": {
             "autoScheduling": 7.5,
@@ -207,7 +236,7 @@
         },
         {
           "id": "ecobee-smart-thermostat-enhanced",
-          "rank": 5,
+          "rank": 6,
           "score": 7.5,
           "scores": {
             "autoScheduling": 8.0,
@@ -220,7 +249,7 @@
         },
         {
           "id": "google-nest-thermostat-2020",
-          "rank": 6,
+          "rank": 7,
           "score": 7.2,
           "scores": {
             "autoScheduling": 7.0,
@@ -233,7 +262,7 @@
         },
         {
           "id": "honeywell-t6-pro-smart",
-          "rank": 7,
+          "rank": 8,
           "score": 7.0,
           "scores": {
             "autoScheduling": 6.5,
@@ -246,7 +275,7 @@
         },
         {
           "id": "amazon-smart-thermostat",
-          "rank": 8,
+          "rank": 9,
           "score": 6.5,
           "scores": {
             "autoScheduling": 6.0,
