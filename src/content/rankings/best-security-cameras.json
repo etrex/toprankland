@@ -120,7 +120,7 @@
       "id": "blink-outdoor-4",
       "name": "Outdoor 4",
       "brand": "Blink",
-      "url": "https://blinkforhome.com/products/blink-outdoor-4",
+      "url": "https://www.amazon.com/dp/B0B1N5HW22",
       "i18n": {
         "en": {
           "description": "1080p wireless outdoor camera with 2-year battery life, 143° FOV, IP65 rating, and local storage via USB — no cloud subscription needed.",
@@ -145,6 +145,38 @@
         "zh-tw": {
           "description": "2.5K 彩色夜視，AI 移動偵測、Wi-Fi 6 加 microSD 本地錄影，一台不到台幣 1,200 元，預算玩家的最強性價比。",
           "priceRange": "約 NT$1,200"
+        }
+      }
+    },
+    {
+      "id": "reolink-trackflex-floodlight",
+      "name": "TrackFlex Floodlight WiFi",
+      "brand": "Reolink",
+      "url": "https://reolink.com/us/product/trackflex-floodlight-wifi/",
+      "i18n": {
+        "en": {
+          "description": "4K dual-lens AC-wired floodlight camera with 360° PTZ, 3000-lumen lighting, AI auto-tracking, local video search, Wi-Fi 6, and no subscription fees.",
+          "priceRange": "$260"
+        },
+        "zh-tw": {
+          "description": "4K 雙鏡頭 360° 旋轉泛光燈攝影機，3000 流明照明、AI 自動追蹤、本地影像搜尋，Wi-Fi 6，完全免訂閱，需有線 AC 供電安裝。",
+          "priceRange": "約 NT$8,500"
+        }
+      }
+    },
+    {
+      "id": "baseus-security-x1-pro",
+      "name": "Security X1 Pro",
+      "brand": "Baseus",
+      "url": "https://security.baseus.com/products/security-x1-pro-outdoor-dual-camera",
+      "i18n": {
+        "en": {
+          "description": "Dual 3K solar-powered outdoor camera with AI dual-target tracking, 300° pan, 8x zoom, 150-day battery, local storage up to 512GB, and zero subscription fees.",
+          "priceRange": "$170"
+        },
+        "zh-tw": {
+          "description": "雙 3K 太陽能戶外機，AI 雙目標同步追蹤、300° 水平旋轉、8 倍變焦，7800mAh 電池搭太陽能充電可撐 150 天，本地儲存最高 512GB，完全免訂閱。",
+          "priceRange": "約 NT$5,500"
         }
       }
     }
@@ -454,6 +486,32 @@
             "batteryLife": 5.5,
             "valueForMoney": 9.8
           }
+        },
+        {
+          "id": "reolink-trackflex-floodlight",
+          "rank": 9,
+          "score": 8.3,
+          "scores": {
+            "videoQuality": 9.5,
+            "nightVision": 9.5,
+            "aiDetection": 9.0,
+            "storageFlexibility": 9.0,
+            "batteryLife": 5.5,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "baseus-security-x1-pro",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "videoQuality": 7.5,
+            "nightVision": 7.5,
+            "aiDetection": 8.5,
+            "storageFlexibility": 8.5,
+            "batteryLife": 9.5,
+            "valueForMoney": 9.0
+          }
         }
       ],
       "references": [
@@ -470,15 +528,23 @@
       ],
       "i18n": {
         "en": {
-          "commentary": "Rankings hold steady in the security camera category this week. The Reolink Argus 4 Pro continues to lead for the reasons established last week: 4K dual-lens 180-degree coverage, ColorX night vision that delivers recognizable color footage without floodlights, Wi-Fi 6, and solar power at a price point that is genuinely competitive with subscription-dependent alternatives. The on-device AI detection handles person, vehicle, and package recognition without a cloud service, which is the structural advantage that makes no-subscription cameras compelling in 2026.\n\nArlo Pro 5S at rank 2 remains the AI detection leader with a 94% accuracy rate in independent testing. For cameras placed at primary entry points where misses have real consequences — front doors, garage entrances, driveways with narrow sightlines — that precision gap over the Reolink's 8.5 AI detection score is meaningful. The Arlo Secure subscription cost needs to be factored into the purchase decision, but the detection performance justifies the premium for installations where reliability matters most.\n\nThe broader trend worth noting: five of the eight cameras in this list deliver local AI detection without subscription fees. The 2026 market has decisively shifted away from cloud-dependent AI, and the remaining subscription models need to demonstrate detection accuracy that local processing cannot match — currently, only Arlo's 94% rate does that at scale.",
+          "commentary": "Two strong additions to the list this week — the Reolink TrackFlex Floodlight WiFi and Baseus Security X1 Pro — expand the category's coverage into wired floodlight and AI dual-tracking solar camera territory that the existing eight did not address. Both carry zero subscription fees.\n\nThe core rankings hold steady. Reolink Argus 4 Pro continues to lead as the best no-subscription camera for most homes: 4K dual-lens 180-degree coverage, ColorX night vision at 0.0001 lux, Wi-Fi 6, solar power, and $220 with no ongoing fees. Arlo Pro 5S at rank 2 remains the AI detection precision leader at 94% in independent testing. For entry-point installations where false negatives carry real consequences, that accuracy margin over on-device competitors is worth the Arlo Secure subscription cost.\n\nThe Reolink TrackFlex Floodlight WiFi enters at rank 9 with an 8.3 overall score that understates its hardware quality. The 4K dual-lens configuration with 360° PTZ, 3000-lumen floodlights, and AI auto-tracking that locks onto a target and zooms in with the telephoto lens is a technically superior package. The limitation is that it requires hardwired AC installation, which places it outside the solar and battery camera segment where most of this list competes. For homeowners who can wire it to a junction box, this camera produces the best combination of resolution, floodlight output, and active tracking in the no-subscription category.\n\nThe Baseus Security X1 Pro at rank 10 enters the list as the only dual-target-tracking solar camera available. Its 7800mAh battery plus a 3W solar panel claims 150-day standby life, and Baseus's data shows 20 minutes of direct sunlight delivers 24 hours of runtime. The 300° pan range with dual 3K cameras covers a wider horizontal area than any battery-powered competitor here. The brand has a shorter reliability track record than Reolink, eufy, or Arlo, which is the reason for the conservative initial rank.",
           "highlights": [
             {
               "title": "Reolink Argus 4 Pro's 180-degree dual-lens design eliminates the blind-spot problem",
               "body": "Single-lens cameras require careful placement to cover key areas without leaving gaps. The Argus 4 Pro's dual-lens 180-degree field of view eliminates that constraint — one camera covers what two conventional units would need to cover. ColorX night vision produces full-color footage at 0.0001 lux without supplemental lighting, which means identifiable footage at 2am without illuminating the yard. Wi-Fi 6 dual-band connectivity holds a stable 4K stream in homes with 30+ connected devices. At around $220 with no monthly fee, the value calculation against subscription-based alternatives is decisive."
             },
             {
+              "title": "Reolink TrackFlex Floodlight WiFi: the best wired security camera with no subscription in 2026",
+              "body": "The TrackFlex Floodlight's dual-lens 360° PTZ design plus 3000-lumen floodlights and AI auto-tracking creates a qualitatively different security experience from battery or solar cameras. When motion is detected, the telephoto lens locks onto the target and follows it actively while the wide-angle lens maintains the full scene. The AI video search feature indexes footage locally — no cloud upload needed — so finding a specific event or face from a week's recordings takes seconds. At $260 hardwired with no subscription, it delivers features that competing smart floodlight cameras charge ongoing fees to access."
+            },
+            {
+              "title": "Baseus Security X1 Pro introduces AI dual-target tracking to the solar camera category",
+              "body": "Most solar security cameras track one subject at a time. The Baseus X1 Pro's dual-camera system tracks two moving targets simultaneously, maintaining separate zoom locks for each. At $170 on sale with 300° horizontal pan, 512GB local storage, and a 150-day battery backed by solar charging, it sets a new benchmark for what a no-subscription solar camera can do. The brand's shorter market history relative to Reolink or eufy warrants a conservative initial ranking — track record takes time to establish — but the hardware specification is genuinely competitive."
+            },
+            {
               "title": "2026 security camera market: local AI has ended the subscription-or-nothing era",
-              "body": "Three years ago, smart detection — person, vehicle, package differentiation — required a cloud subscription on almost every camera. In 2026, on-device neural processing handles these detection tasks at accuracy levels that would have required cloud compute in 2023. Reolink, eufy, aosu, Blink, and Wyze all ship cameras that run full AI detection locally. The practical consequence is that the subscription decision is now about cloud backup and remote access, not intelligence. For most home security needs, a microSD card or local NAS with no monthly fee provides equivalent protection."
+              "body": "Three years ago, smart detection — person, vehicle, package differentiation — required a cloud subscription on almost every camera. In 2026, on-device neural processing handles these detection tasks at accuracy levels that would have required cloud compute in 2023. Every no-subscription camera in this updated list of ten runs full AI detection locally. The practical consequence is that the subscription decision is now about cloud backup and remote access, not intelligence. For most home security needs, a microSD card or local NAS with no monthly fee provides equivalent protection."
             },
             {
               "title": "Wyze Cam v4 is the clearest demonstration of what 2026's silicon makes possible at $36",
@@ -487,19 +553,27 @@
           ]
         },
         "zh-tw": {
-          "commentary": "監控攝影機類別這週排名維持穩定。Reolink Argus 4 Pro 繼續領先，理由和上週一樣：4K 雙鏡頭 180° 無死角覆蓋、ColorX 夜視在不需要泛光燈的情況下輸出可辨識的全彩畫面、Wi-Fi 6、太陽能供電，以及在和需要訂閱的競品比較時具競爭力的售價。裝置端 AI 偵測在不需要雲端服務的情況下識別人形、車輛和包裹，這是 2026 年免訂閱攝影機的結構性優勢。\n\nArlo Pro 5S 排第二，繼續以 94% 的獨立測試移動偵測準確率維持 AI 偵測領先地位。對於裝在主要出入口的攝影機，例如前門、車庫入口或視角狹窄的車道，比 Reolink 8.5 AI 偵測分高出的這個差距有實際意義。Arlo Secure 訂閱費要納入購買決策計算，但對安裝在最需要可靠性的位置的用戶，偵測精準度的溢價是合理的。\n\n值得注意的整體趨勢：這份清單裡八台攝影機有五台在沒有訂閱費的情況下提供本地 AI 偵測。2026 年市場已經決定性地從雲端依賴 AI 轉向，剩下的訂閱模式需要展示本地運算無法比擬的偵測準確率，目前只有 Arlo 的 94% 在規模上達到了這個門檻。",
+          "commentary": "這週新增兩台攝影機進入排行：Reolink TrackFlex Floodlight WiFi 和 Baseus Security X1 Pro。前者填補了有線 AC 泛光燈攝影機的空缺，後者是 AI 雙目標追蹤太陽能機的首個代表，兩台都是零月費。\n\n核心排名維持穩定。Reolink Argus 4 Pro 繼續領先，理由沒有改變：4K 雙鏡頭 180° 無死角、ColorX 夜視不需要開燈就能在極暗環境輸出全彩畫面、Wi-Fi 6、太陽能，220 美元零月費。Arlo Pro 5S 排第二，94% 移動偵測準確率的獨立測試成績在今年市場上仍然沒有對手，對裝在主要出入口、不能漏報的場景，Arlo Secure 訂閱費是值得的溢價。\n\nReolink TrackFlex Floodlight WiFi 以 8.3 分進入第九名，這個名次其實低估了它的硬體水準。4K 雙鏡頭 360° PTZ 旋轉、3000 流明泛光燈、AI 自動追蹤鎖定目標並切換到望遠鏡頭跟拍，是這個榜單裡免訂閱陣營中技術規格最完整的有線安防攝影機。限制是需要接 AC 有線電源安裝，排除了這份清單大多數競品所在的太陽能和電池攝影機使用場景。對於能夠走明線或暗管的用戶，這台機器提供了免訂閱市場裡解析度、照明輸出和主動追蹤的最強組合。\n\nBaseus Security X1 Pro 以第十名初次進入排行，是目前唯一能同時追蹤兩個目標的太陽能攝影機。7800mAh 電池加 3W 太陽能板，Baseus 聲稱 20 分鐘陽光可供 24 小時使用，待機壽命 150 天。300° 水平旋轉加上雙 3K 鏡頭，覆蓋範圍超過這份清單任何電池攝影機。排名保守是因為品牌上市時間比 Reolink、eufy 或 Arlo 短，口碑需要時間建立。",
           "highlights": [
             {
               "title": "Reolink Argus 4 Pro 的 180° 雙鏡頭設計從根本上解決了死角問題",
-              "body": "單鏡頭攝影機需要仔細選擇安裝位置才能在不留下缺口的情況下覆蓋關鍵區域。Argus 4 Pro 的雙鏡頭 180° 視角消除了這個限制，一台覆蓋兩台傳統攝影機才能處理的範圍。ColorX 夜視在 0.0001 lux 的極暗環境下輸出全彩畫面，不需要打開 LED 泛光燈就能在凌晨 2 點拍到可辨識的影像。Wi-Fi 6 雙頻連線在 30 個以上連網設備的家庭環境中維持穩定的 4K 串流。大約 220 美元，零月費，對比需要訂閱的替代方案，性價比計算不需要猶豫。"
+              "body": "單鏡頭攝影機需要仔細選擇安裝位置才能不留死角。Argus 4 Pro 的雙鏡頭 180° 視角讓一台覆蓋兩台傳統攝影機的範圍。ColorX 夜視在 0.0001 lux 的極暗環境輸出全彩畫面，凌晨兩點拍到的是臉孔，不是輪廓。Wi-Fi 6 雙頻在多設備家庭網路裡穩定維持 4K 串流。220 美元零月費，對比需要訂閱的替代方案，CP 值計算不需要猶豫。"
             },
             {
-              "title": "2026 年監控攝影機市場：本地 AI 終結了「訂閱才能用 AI」的時代",
-              "body": "三年前，智慧偵測，也就是人形、車輛、包裹的分類識別，幾乎在所有攝影機上都需要雲端訂閱才能使用。2026 年，裝置端神經網路處理器已能在本地完成這些偵測任務，準確率達到 2023 年需要雲端運算才能實現的水準。Reolink、eufy、aosu、Blink 和 Wyze 的新品全都在本地運行完整的 AI 偵測。實際結果是，2026 年的訂閱決策是關於是否需要雲端備份和遠端存取，而不是是否要智慧偵測。對大多數家用監控需求，microSD 卡加本地備份方案在沒有月費的情況下提供相當的保護。"
+              "title": "Reolink TrackFlex Floodlight WiFi：2026 年免訂閱有線安防攝影機的最強選擇",
+              "body": "TrackFlex Floodlight 的 360° PTZ 雙鏡頭、3000 流明泛光燈加上 AI 自動追蹤，創造出一個和電池或太陽能攝影機本質上不同的安防體驗。偵測到移動時，望遠鏡頭鎖定並跟蹤目標，廣角鏡頭同時保持全景畫面。AI 影像搜尋功能在本地索引影像，不需要上傳雲端，從一週的錄影裡找到特定事件或人臉只需幾秒鐘。260 美元有線安裝、零月費，這個功能集合在需要訂閱費才能開啟的競品前面毫不遜色。"
+            },
+            {
+              "title": "Baseus Security X1 Pro 把 AI 雙目標追蹤帶進太陽能攝影機市場",
+              "body": "大多數太陽能安防攝影機一次只能追蹤一個目標。Baseus X1 Pro 的雙鏡頭系統能同時對兩個移動目標保持獨立的變焦追蹤。促銷價 170 美元，300° 水平旋轉、512GB 本地儲存、150 天電池壽命加太陽能充電，是目前免訂閱太陽能攝影機能做到的最強規格組合。相比 Reolink 和 eufy，品牌口碑的累積年份較短，這是第十名保守排名的理由，但硬體規格的競爭力是真實的。"
+            },
+            {
+              "title": "2026 年監控攝影機市場：本地 AI 終結了訂閱才能用 AI 的時代",
+              "body": "三年前，人形、車輛、包裹的分類識別幾乎在所有攝影機上都需要雲端訂閱才能使用。2026 年，裝置端神經網路處理器本地完成這些偵測任務的準確率，達到 2023 年需要雲端運算才能實現的水準。更新後的十台攝影機全數在本地運行完整的 AI 偵測。2026 年的訂閱決策是關於是否需要雲端備份和遠端存取，不是是否需要智慧偵測。對大多數家庭，microSD 卡加本地備份在沒有月費的情況下提供同等保護。"
             },
             {
               "title": "Wyze Cam v4 是 36 美元在 2026 年能做到什麼的最清楚示範",
-              "body": "v4 的規格表在 2022 年描述的會是一台 150 美元的攝影機：2.5K QHD 解析度、人形車輛分類的 AI 移動追蹤、雙 LED 彩色夜視、Wi-Fi 6、IP65 防水、最高 256GB microSD 錄影。Wyze 靠裝置端 AI 晶片運算加上選配的 CamPlus 訂閱維持成本結構，讓這台機器可以賣到 36 美元。對於有插座的遮蔽式門廊、車道或車庫，v4 提供的監控能力有真實的安防和保險價值。"
+              "body": "v4 的規格表在 2022 年描述的會是一台 150 美元的攝影機：2.5K QHD、AI 人形車輛偵測、雙 LED 彩色夜視、Wi-Fi 6、IP65 防水、最高 256GB microSD 錄影。Wyze 靠裝置端 AI 晶片加上選配的 CamPlus 訂閱維持成本結構，讓這台機器可以賣到 36 美元。對有插座的遮蔽式門廊、車道或車庫，v4 提供的監控能力有真實的安防和保險價值，是預算布點的最佳選擇。"
             }
           ]
         }
