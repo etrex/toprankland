@@ -2549,6 +2549,201 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-04-12",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.5,
+            "network": 9.5,
+            "usability": 9.0,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 9.0,
+            "network": 9.5,
+            "usability": 9.0,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.5,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 7.5,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "airvpn",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "privacy": 9.0,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.0,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "pia",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 8.0,
+            "network": 9.0,
+            "usability": 8.0,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "nymvpn",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "privacy": 9.0,
+            "speed": 7.0,
+            "network": 6.5,
+            "usability": 7.0,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "cyberghost",
+          "rank": 11,
+          "score": 7.2,
+          "scores": {
+            "privacy": 6.5,
+            "speed": 8.0,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "US Lawmakers Question VPN Surveillance, Seek Transparency on Privacy Risks",
+          "url": "https://www.cysecurity.news/2026/04/us-lawmakers-question-vpn-surveillance.html",
+          "source": "CySecurity News"
+        },
+        {
+          "title": "Senators Ask Tulsi Gabbard To Tell Americans That VPN Use Might Subject Them To Domestic Surveillance",
+          "url": "https://www.techdirt.com/2026/04/03/senators-ask-tulsi-gabbard-to-tell-americans-that-vpn-use-might-subject-them-to-domestic-surveillance/",
+          "source": "Techdirt"
+        },
+        {
+          "title": "NordVPN Q1 2026 Feature Recap",
+          "url": "https://www.techradar.com/vpn/vpn-services/nordvpn-had-a-busy-start-to-2026-heres-a-recap-of-all-the-releases-you-may-have-missed",
+          "source": "TechRadar"
+        },
+        {
+          "title": "Malwarebytes Privacy VPN First-Ever Third-Party Audit",
+          "url": "https://www.malwarebytes.com/blog/product/2026/04/vpnsoftwareaudit",
+          "source": "Malwarebytes"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "A significant development this week: US senators sent a letter to Director of National Intelligence Tulsi Gabbard asking her to inform Americans that VPN use may subject them to domestic surveillance. The legal argument is that because VPNs obscure a user's true location, intelligence agencies presume communications of unknown origin are foreign — potentially stripping users of Fourth Amendment protections they'd otherwise hold. This is not a new legal theory, but congressional attention to it is new, and it directly reinforces why the ranking criteria for privacy VPNs weight jurisdiction and no-logs policy so heavily.\n\nMullvad holds first place for reasons this news makes clearer. Swedish jurisdiction, a provably anonymous payment system (cash and cryptocurrency accepted, no account email required), and an audited no-logs policy combine to create the most minimal metadata footprint available in commercial VPN services. Mullvad cannot comply with a surveillance request it has no data to respond to.\n\nProton VPN at rank 2 benefits from Swiss jurisdiction — one of the strongest legal frameworks for user privacy globally — and its open-source infrastructure has been independently audited. The free tier remains the most capable free VPN available, which means Proton's user base includes many users who never pay, keeping the commercial service honest about logging practices.\n\nThe congressional scrutiny of VPN surveillance is a structural argument for providers that have completed independent audits. NordVPN's SOC 2 certification and Malwarebytes' first-ever third-party audit (completed this month) represent meaningful accountability steps. Providers without any third-party validation should be evaluated with additional skepticism regardless of marketing claims.",
+          "highlights": [
+            {
+              "title": "Congressional scrutiny of VPN surveillance makes jurisdiction more important than ever",
+              "body": "The senators' letter frames a legal concern that VPN users should understand: if your VPN routes traffic through servers whose location is unclear to surveillance agencies, the legal treatment of that traffic may differ from domestically-originated traffic. Mullvad's Sweden jurisdiction and ProtonVPN's Switzerland jurisdiction represent the strongest legal frameworks for resisting surveillance requests from US intelligence agencies. For users in jurisdictions with strong data protection laws who are considering VPNs for privacy rather than location-spoofing, provider jurisdiction is the first criterion — not speed or server count."
+            },
+            {
+              "title": "Mullvad's account-free model removes the metadata that most VPNs retain by default",
+              "body": "Most VPN providers require an email address to create an account, which creates a link between your identity and your VPN subscription. Mullvad's account system generates a random account number that requires no personal information — you pay in cash, Monero, or Bitcoin and receive a number. The VPN provider cannot connect your traffic to an identity because no identity is stored. This is not just a policy claim — it is a structural property of the account system that cannot be changed by a court order, because the data Mullvad would be ordered to produce does not exist in identifiable form."
+            },
+            {
+              "title": "NordVPN's Q1 2026 Dark Web Monitor Pro upgrade adds meaningful identity protection features",
+              "body": "NordVPN expanded its Dark Web Monitor Pro tool in Q1 2026 to include credit card monitoring, national ID number alerts, Social Security number alerts, and phone number tracking — with clear mitigation steps attached to each alert type. This moves NordVPN's offering beyond the pure VPN use case into an identity protection platform. For users who want a single subscription covering both traffic privacy and credential monitoring, NordVPN's expanded feature set makes it the most comprehensive option at its price tier."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "本週有一個值得關注的重要發展：美國參議員向國家情報總監 Tulsi Gabbard 發函，要求她告知美國民眾，使用 VPN 可能使他們暴露在國內監控之下。法律論點是：因為 VPN 隱藏了用戶的真實位置，情報機構可能把來源不明的通訊視為外國流量，從而剝奪用戶本應享有的第四修正案保護。這個法律理論本身不是新的，但國會對此的公開關注是新的，這直接強化了為什麼我的 VPN 隱私排名把管轄權和無日誌政策放在這麼高的權重上。\n\nMullvad 繼續排第一，原因被這則新聞說得更清楚了。瑞典管轄權、可証明匿名的付款系統（接受現金和加密貨幣，不需要帳號電子郵件）、以及通過稽核的無日誌政策，創造出商業 VPN 服務中最小的元數據足跡。Mullvad 沒有可以回應監控要求的數據。\n\nProton VPN 排第二，受益於瑞士管轄權，這是全球對用戶隱私最強的法律框架之一，加上其開源基礎設施已通過獨立稽核。免費方案依然是最強大的免費 VPN，這意味著 Proton 的用戶群裡有很多從未付費的用戶，讓商業服務在日誌實踐上保持誠實。\n\n國會對 VPN 監控的審查是支持已完成獨立稽核的提供商的結構性論點。NordVPN 的 SOC 2 認證和 Malwarebytes 本月完成的首次第三方稽核代表了有意義的問責步驟。沒有任何第三方驗證的提供商，無論行銷宣稱什麼，都應該用更多懷疑來評估。",
+          "highlights": [
+            {
+              "title": "美國國會對 VPN 監控的審查讓管轄權比以前任何時候都更重要",
+              "body": "參議員的信函提出了一個 VPN 用戶應該理解的法律問題：如果你的 VPN 把流量路由通過監控機構位置不明確的伺服器，這些流量的法律處理方式可能與國內發起的流量不同。Mullvad 的瑞典管轄權和 ProtonVPN 的瑞士管轄權代表了對抗美國情報機構監控要求的最強法律框架。對於在有強力資料保護法的地區使用 VPN 保護隱私（而不只是欺騙位置）的用戶，提供商的管轄權是第一個評判標準，不是速度或伺服器數量。"
+            },
+            {
+              "title": "Mullvad 的無帳號模式從結構上消除了大多數 VPN 預設保留的元數據",
+              "body": "大多數 VPN 提供商要求電子郵件地址創建帳號，這在你的身份和 VPN 訂閱之間建立了連結。Mullvad 的帳號系統生成一個不需要任何個人信息的隨機帳號號碼，你用現金、Monero 或比特幣付款並收到一個數字。VPN 提供商無法把你的流量連結到身份，因為沒有存儲任何身份信息。這不只是政策聲明，而是帳號系統的結構性屬性，即使面對法院命令也無法改變，因為 Mullvad 被要求提供的數據根本不以可識別形式存在。"
+            },
+            {
+              "title": "NordVPN Q1 2026 的暗網監控 Pro 升級增加了有意義的身份保護功能",
+              "body": "NordVPN 在 2026 年第一季擴展了暗網監控 Pro 工具，增加了信用卡監控、國民身份證號碼警報、社會安全號碼警報和電話號碼追蹤，每種警報類型都附帶清晰的緩解步驟。這把 NordVPN 的服務從純 VPN 使用場景延伸到身份保護平台。對於想要一個訂閱同時覆蓋流量隱私和憑證監控的用戶，NordVPN 擴展後的功能集讓它成為這個價格層級裡最全面的選擇。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

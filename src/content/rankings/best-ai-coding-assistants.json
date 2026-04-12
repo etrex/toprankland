@@ -2200,6 +2200,196 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-04-12",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 8.8,
+          "scores": {
+            "codeQuality": 9.5,
+            "contextWindow": 9.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 3,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 6.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Coding Assistants April 2026: Rankings and Review",
+          "url": "https://www.digitalapplied.com/blog/ai-coding-assistants-april-2026-cursor-copilot-claude",
+          "source": "Digital Applied"
+        },
+        {
+          "title": "Cursor vs Claude Code vs GitHub Copilot: AI Coding Agent Comparison April 2026",
+          "url": "https://www.abhs.in/blog/cursor-vs-claude-code-vs-github-copilot-ai-coding-agent-comparison-2026",
+          "source": "Abhishek Gautam"
+        },
+        {
+          "title": "GitHub Copilot agent mode reaches GA across VS Code and JetBrains",
+          "url": "https://github.blog/changelog/2026-03/",
+          "source": "GitHub Blog"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Cursor shipped Composer 2 on March 19, 2026, and it changed how I think about this ranking. Built on Moonshot AI's Kimi K2.5 foundation with large-scale reinforcement learning, Composer 2 scored 61.3 on CursorBench — a 37% improvement over Composer 1.5 — and 73.7 on SWE-bench Multilingual. That is a measurable jump in autonomous task completion. Claude Code and Cursor are now statistically tied at 8.8, and I'm keeping Claude Code at rank 1 because its 200K context window and agentic task completion across entire repositories remain the strongest combination for complex, multi-file engineering work. Cursor's Composer 2 advantage shows up most clearly on well-scoped single-task completions, where its IDE-native context gives it a speed edge.\n\nGitHub Copilot's March 2026 updates matter for enterprise adoption: agent mode is now generally available across VS Code and JetBrains, agentic code review shipped in March, and the semantic search upgrade makes it more capable of reasoning about large codebases. More than 20 million developers use Copilot daily. The network effects of that install base — reviewed code, trained models, shared workspace history — compound over time in ways that smaller tools cannot match.\n\nThe most interesting development lower in the rankings is that over 70% of professional developers now use AI tools daily, and the most common stack is Cursor for daily editing combined with Claude Code for complex tasks. That pattern reflects what each tool does best: Cursor's IDE integration is the fastest path for focused file edits, Claude Code's extended context and reasoning handles architectural decisions and cross-file refactors that Cursor's context window cannot fully address.",
+          "highlights": [
+            {
+              "title": "Cursor Composer 2's CursorBench jump is real and changes the competitive picture",
+              "body": "Cursor Composer 2 scored 73.7 on SWE-bench Multilingual, compared to around 54 for the previous version. That 37% benchmark improvement translates to fewer failed agentic completions and more accurate code generation on complex real-world tasks. The model was built on Kimi K2.5 with extensive continued pretraining at $0.50 per million input tokens — competitive pricing for the output quality. Claude Code and Cursor are now the two strongest agentic tools, and the choice between them depends primarily on whether IDE-native integration or extended context matters more for your workflow."
+            },
+            {
+              "title": "GitHub Copilot's agent mode GA changes enterprise adoption calculus",
+              "body": "Copilot's agent mode, now generally available across VS Code and JetBrains, allows it to execute multi-step coding tasks autonomously — creating files, running tests, making pull requests. The March 2026 agentic code review addition means Copilot can now flag issues in incoming PRs without human initiation. For teams already standardized on GitHub, the integration depth is compelling. The 20 million daily user base also means Copilot's training data includes more recent and diverse code patterns than any smaller competitor."
+            },
+            {
+              "title": "Claude Code's 200K context window is still the ceiling for complex repository work",
+              "body": "No other tool in this ranking gives you 200,000 tokens of working context. For tasks that require understanding an entire codebase — refactoring authentication systems, debugging cross-service interactions, implementing features that touch 15 files — that context ceiling matters. Claude Code's score on agentic capability reflects real performance on these tasks, not benchmark gaming. The IDE integration score is its weakest dimension, but for terminal-first developers and those using the VS Code or JetBrains extensions, the gap has narrowed since the 2025 extension updates."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "2026 年 3 月 19 日，Cursor 發布了 Composer 2，這件事讓我重新思考這份排名的格局。Composer 2 基於 Moonshot AI 的 Kimi K2.5 模型，加上大規模強化學習訓練，在 CursorBench 上得到 61.3 分，比前代 Composer 1.5 進步了 37%，SWE-bench Multilingual 則拿到 73.7 分。這是自主任務完成能力的實質飛躍，不是行銷數字。\n\nClaude Code 和 Cursor 現在並列 8.8 分，我把 Claude Code 維持在第一名，理由是它 200K token 的上下文視窗和跨整個 repository 的代理任務執行能力，依然是處理複雜多檔案工程問題的最強組合。Cursor Composer 2 的優勢主要表現在範圍明確的單一任務上，IDE 原生整合讓它在這類場景的速度佔優。\n\nGitHub Copilot 3 月的更新對企業採用影響很大：代理模式在 VS Code 和 JetBrains 全面 GA，代理程式碼審查功能在三月出貨，語義搜尋升級讓它對大型 codebase 的理解更準確。超過 2,000 萬開發者每天使用 Copilot，這個規模的網路效應讓它的模型持續從最廣泛的真實程式碼中學習。\n\n目前最普遍的使用組合是日常編輯用 Cursor、複雜任務用 Claude Code，這個模式直接反映了兩款工具各自的強項：Cursor 的 IDE 整合在快速檔案編輯上最快，Claude Code 的長上下文和推理能力在跨檔案重構和架構決策上無可替代。",
+          "highlights": [
+            {
+              "title": "Cursor Composer 2 的 SWE-bench 進步幅度是這一季最重要的技術事件",
+              "body": "Cursor Composer 2 在 SWE-bench Multilingual 上拿到 73.7 分，比前代進步 37%，這個數字直接反映在真實複雜任務的完成率上。模型基於 Kimi K2.5 加上大量繼續預訓練，輸入定價 0.50 美元每百萬 token，以這個輸出品質來說相當有競爭力。Claude Code 和 Cursor 現在是代理能力最強的兩個工具，選哪一個主要取決於你的工作流程更重視 IDE 原生整合還是超長上下文。"
+            },
+            {
+              "title": "GitHub Copilot 代理模式全面 GA 改變了企業選工具的邏輯",
+              "body": "Copilot 代理模式在 VS Code 和 JetBrains 全面上線，可以自主執行多步驟任務，包含建立檔案、執行測試、發起 Pull Request。三月新增的代理程式碼審查讓 Copilot 可以在不需要人工觸發的情況下標記 PR 問題。對於已經深度整合 GitHub 的團隊，這個整合深度的說服力很強。2,000 萬日活用戶的規模也讓 Copilot 的訓練資料持續涵蓋最廣泛的真實程式碼模式。"
+            },
+            {
+              "title": "Claude Code 的 200K 上下文視窗在複雜 repository 工作上依然是天花板",
+              "body": "這份排名裡沒有其他工具給你 200,000 token 的工作上下文。對於需要理解整個 codebase 的任務，例如重構認證系統、除錯跨服務互動、實作觸及 15 個檔案的新功能，這個上下文上限的差距非常關鍵。Claude Code 在代理能力這個維度的高分反映的是真實任務表現。IDE 整合是它最弱的一環，但對於以終端機為主的開發者，或是使用 VS Code 和 JetBrains 擴充套件的用戶，2025 年的更新已經縮小了這個差距。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
