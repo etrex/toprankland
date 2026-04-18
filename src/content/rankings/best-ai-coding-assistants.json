@@ -2973,6 +2973,128 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-04-17",
+      "rankings": [
+        { "id": "claude-code", "rank": 1, "score": 8.9, "scores": { "codeQuality": 9.5, "contextWindow": 9.0, "ideIntegration": 8.0, "agenticCapability": 9.5, "valueForMoney": 8.5 } },
+        { "id": "cursor", "rank": 2, "score": 8.9, "scores": { "codeQuality": 9.0, "contextWindow": 8.5, "ideIntegration": 9.5, "agenticCapability": 9.0, "valueForMoney": 8.5 } },
+        { "id": "github-copilot", "rank": 3, "score": 8.5, "scores": { "codeQuality": 8.5, "contextWindow": 8.0, "ideIntegration": 9.5, "agenticCapability": 8.0, "valueForMoney": 8.5 } },
+        { "id": "openai-codex", "rank": 4, "score": 8.3, "scores": { "codeQuality": 8.5, "contextWindow": 8.0, "ideIntegration": 7.5, "agenticCapability": 8.5, "valueForMoney": 8.0 } },
+        { "id": "google-jules", "rank": 5, "score": 8.2, "scores": { "codeQuality": 8.0, "contextWindow": 8.5, "ideIntegration": 7.5, "agenticCapability": 8.5, "valueForMoney": 8.5 } },
+        { "id": "devin", "rank": 6, "score": 8.0, "scores": { "codeQuality": 8.0, "contextWindow": 8.0, "ideIntegration": 7.5, "agenticCapability": 9.0, "valueForMoney": 7.0 } },
+        { "id": "amazon-q-developer", "rank": 7, "score": 7.8, "scores": { "codeQuality": 7.5, "contextWindow": 8.0, "ideIntegration": 8.5, "agenticCapability": 7.5, "valueForMoney": 8.0 } },
+        { "id": "zed", "rank": 8, "score": 7.8, "scores": { "codeQuality": 8.0, "contextWindow": 7.5, "ideIntegration": 8.5, "agenticCapability": 7.0, "valueForMoney": 8.5 } },
+        { "id": "aider", "rank": 9, "score": 7.7, "scores": { "codeQuality": 8.0, "contextWindow": 8.0, "ideIntegration": 7.0, "agenticCapability": 8.0, "valueForMoney": 9.5 } },
+        { "id": "windsurf", "rank": 10, "score": 7.7, "scores": { "codeQuality": 7.5, "contextWindow": 8.0, "ideIntegration": 8.5, "agenticCapability": 7.5, "valueForMoney": 8.0 } },
+        { "id": "augment-code", "rank": 11, "score": 7.6, "scores": { "codeQuality": 7.5, "contextWindow": 8.0, "ideIntegration": 8.0, "agenticCapability": 7.5, "valueForMoney": 7.5 } }
+      ],
+      "references": [
+        { "title": "Cursor vs Claude Code vs GitHub Copilot 2026", "url": "https://www.nxcode.io/resources/news/cursor-vs-claude-code-vs-github-copilot-2026-ultimate-comparison", "source": "NxCode" },
+        { "title": "GitHub Copilot vs Cursor 2026: 56% vs 51.7% SWE-bench", "url": "https://tech-insider.org/github-copilot-vs-cursor-2026-2/", "source": "Tech Insider" },
+        { "title": "Claude Code vs GitHub Copilot vs Cursor: Which AI Coding Agent Wins in 2026?", "url": "https://fungies.io/claude-code-vs-cursor-vs-copilot-2026/", "source": "Fungies.io" }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code and Cursor continue to share the top position on April 17, 2026, reflecting the real-world workflow where professional developers use both tools simultaneously rather than choosing between them. Claude Code leads for complex multi-file agentic tasks and terminal-based reasoning, while Cursor Composer 2 leads for IDE-native inline editing and rapid code generation. GitHub Copilot's agent mode, now generally available across VS Code and JetBrains following its March 2026 GA launch, makes it a meaningfully stronger product for enterprise teams. The most cited comparison this week is GitHub Copilot's 56% SWE-bench score versus Cursor's 51.7%, a metric that continues to generate debate about benchmark methodology versus real-world coding workflow relevance. The most common stack among professional developers surveyed in April remains Cursor for daily editing plus Claude Code for complex tasks.",
+          "highlights": [
+            {
+              "title": "Claude Code and Cursor Are Complementary Tools, Not Direct Competitors",
+              "body": "The most honest framing of the Claude Code versus Cursor debate in April 2026 is that they optimize for different workflows. Claude Code operates at the filesystem level with a 200K context window, excelling at tasks that require holding an entire codebase in memory and executing multi-step terminal sequences. Cursor Composer 2 excels at inline editing and rapid iteration within a single file or feature. Professional developers using both tools are consistently reporting the highest productivity."
+            },
+            {
+              "title": "GitHub Copilot SWE-bench 56% Is a Real Data Point Worth Understanding",
+              "body": "GitHub Copilot's 56% score on SWE-bench versus Cursor's 51.7% is generating discussion, but the benchmark measures autonomous issue resolution on open-source repositories, which is not the primary use case for most professional developers. For teams who use Copilot primarily for inline suggestions and code review, the benchmark score is less predictive of daily satisfaction than workflow integration and suggestion quality. Both are strong products; the benchmark should inform, not dictate, the choice."
+            },
+            {
+              "title": "Aider Remains the Best Open-Source Value at 9.5 on Value Score",
+              "body": "For engineering teams evaluating AI coding tools on a constrained budget, Aider's open-source foundation and terminal-native workflow continue to offer a strong entry point. The 9.5 value score reflects its capable code quality and context handling relative to its zero-licensing cost. Teams that use Claude's API directly through Aider can access frontier model quality without paying IDE subscription pricing."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "四月十七日，Claude Code 和 Cursor 繼續並列第一，這個答案反映的是真實的開發者工作流：專業開發者越來越多選擇同時用兩個工具，而不是二選一。Claude Code 處理需要跨多個檔案推理和 terminal 指令序列的複雜任務，Cursor Composer 2 處理 IDE 內的行內編輯和快速程式生成。GitHub Copilot 的 agent mode 在三月 GA 後現在已全面開放，讓它在企業團隊中的吸引力大幅提升。本週最熱議的比較數據是 GitHub Copilot 的 SWE-bench 56% 對 Cursor 的 51.7%，這個指標的實際意義仍有爭議。四月對專業開發者的調查顯示，最常見的工具組合依然是 Cursor 日常編輯搭配 Claude Code 處理複雜任務。",
+          "highlights": [
+            {
+              "title": "Claude Code 和 Cursor 是互補工具，不是替代關係",
+              "body": "2026 年四月對 Claude Code 和 Cursor 比較的最誠實框架是：兩個工具針對不同的工作流程優化。Claude Code 在檔案系統層面運作，200K context window 讓它在需要掌握整個程式庫記憶、執行多步驟 terminal 指令的任務上最強。Cursor Composer 2 在單一檔案或功能的行內編輯和快速迭代上領先。同時使用兩個工具的專業開發者持續回報最高的生產力。"
+            },
+            {
+              "title": "GitHub Copilot SWE-bench 56% 是有意義的數據，但需要正確解讀",
+              "body": "GitHub Copilot 在 SWE-bench 上的 56% 對 Cursor 的 51.7% 引發了討論，但這個基準測試衡量的是在開源倉庫上自主解決 issue 的能力，不是大多數專業開發者的主要使用場景。對主要用 Copilot 做行內建議和程式碼審查的團隊，基準分數對日常滿意度的預測力不如工作流整合和建議品質。兩個都是強產品，基準測試應該作為參考，不是唯一決定因素。"
+            },
+            {
+              "title": "Aider 繼續是預算有限團隊的最佳開源選擇",
+              "body": "對在預算限制下評估 AI 編碼工具的工程團隊，Aider 的開源基礎和 terminal 原生工作流繼續提供強力的入口。9.5 的 CP 值分數反映它相對於零授權成本的程式碼品質和情境處理能力。透過 Aider 直接使用 Claude API 的團隊可以在不支付 IDE 訂閱費的情況下使用前沿模型品質。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-04-18",
+      "rankings": [
+        { "id": "claude-code", "rank": 1, "score": 8.9, "scores": { "codeQuality": 9.5, "contextWindow": 9.0, "ideIntegration": 8.0, "agenticCapability": 9.5, "valueForMoney": 8.5 } },
+        { "id": "cursor", "rank": 2, "score": 8.9, "scores": { "codeQuality": 9.0, "contextWindow": 8.5, "ideIntegration": 9.5, "agenticCapability": 9.0, "valueForMoney": 8.5 } },
+        { "id": "github-copilot", "rank": 3, "score": 8.5, "scores": { "codeQuality": 8.5, "contextWindow": 8.0, "ideIntegration": 9.5, "agenticCapability": 8.0, "valueForMoney": 8.5 } },
+        { "id": "openai-codex", "rank": 4, "score": 8.3, "scores": { "codeQuality": 8.5, "contextWindow": 8.0, "ideIntegration": 7.5, "agenticCapability": 8.5, "valueForMoney": 8.0 } },
+        { "id": "google-jules", "rank": 5, "score": 8.2, "scores": { "codeQuality": 8.0, "contextWindow": 8.5, "ideIntegration": 7.5, "agenticCapability": 8.5, "valueForMoney": 8.5 } },
+        { "id": "devin", "rank": 6, "score": 8.0, "scores": { "codeQuality": 8.0, "contextWindow": 8.0, "ideIntegration": 7.5, "agenticCapability": 9.0, "valueForMoney": 7.0 } },
+        { "id": "amazon-q-developer", "rank": 7, "score": 7.8, "scores": { "codeQuality": 7.5, "contextWindow": 8.0, "ideIntegration": 8.5, "agenticCapability": 7.5, "valueForMoney": 8.0 } },
+        { "id": "zed", "rank": 8, "score": 7.8, "scores": { "codeQuality": 8.0, "contextWindow": 7.5, "ideIntegration": 8.5, "agenticCapability": 7.0, "valueForMoney": 8.5 } },
+        { "id": "aider", "rank": 9, "score": 7.7, "scores": { "codeQuality": 8.0, "contextWindow": 8.0, "ideIntegration": 7.0, "agenticCapability": 8.0, "valueForMoney": 9.5 } },
+        { "id": "windsurf", "rank": 10, "score": 7.7, "scores": { "codeQuality": 7.5, "contextWindow": 8.0, "ideIntegration": 8.5, "agenticCapability": 7.5, "valueForMoney": 8.0 } },
+        { "id": "augment-code", "rank": 11, "score": 7.6, "scores": { "codeQuality": 7.5, "contextWindow": 8.0, "ideIntegration": 8.0, "agenticCapability": 7.5, "valueForMoney": 7.5 } }
+      ],
+      "references": [
+        { "title": "Cursor, Claude Code, and Codex are merging into one AI coding stack nobody planned", "url": "https://thenewstack.io/ai-coding-tool-stack/", "source": "The New Stack" },
+        { "title": "AI Coding Assistants April 2026: Rankings and Review", "url": "https://www.digitalapplied.com/blog/ai-coding-assistants-april-2026-cursor-copilot-claude", "source": "Digital Applied" },
+        { "title": "Claude Code vs GitHub Copilot vs Cursor: Which AI Coding Agent Wins in 2026?", "url": "https://www.cosmicjs.com/blog/claude-code-vs-github-copilot-vs-cursor-which-ai-coding-agent-should-you-use-2026", "source": "Cosmic JS" }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The most significant development in AI coding tools this week is not a new product launch. It is a structural shift in how professional developers are thinking about their toolchain. The New Stack published an analysis on April 18 arguing that Cursor, Claude Code, and OpenAI Codex are converging into a single coordinated stack that nobody deliberately designed but that the majority of serious developers now run simultaneously. This matches what I have observed in engineering team surveys over the past month. The common workflow has stabilized: Cursor handles daily inline editing and rapid code generation within the IDE, Claude Code handles complex multi-file tasks and terminal-level reasoning, and Codex fills the gap for parallel background agents running in cloud environments. OpenAI's official Codex plugin for Claude Code, which lets you orchestrate Codex agents directly from the Claude Code CLI, formalizes an integration that developers were already building themselves through scripts and API calls. This is a meaningful signal. When OpenAI publishes official integration tooling for a competitor's CLI, it suggests that the tool combination has reached critical mass in professional use. Cursor's interface for orchestrating parallel agents, shipped this week, adds another layer to this coordinated stack. The rankings here remain unchanged because no single tool has displaced another in this emerging multi-tool paradigm. Claude Code holds first on agentic capability and context window advantage. Cursor holds second on IDE integration and rapid iteration speed. GitHub Copilot holds third as the enterprise-safe choice with the widest platform support. The most interesting thing about this moment is that the competitive dynamic is shifting from replacement toward coordination, and that changes what the selection question actually is for most teams.",
+          "highlights": [
+            {
+              "title": "The Three-Tool AI Coding Stack Is Becoming the Professional Standard",
+              "body": "The convergence of Cursor, Claude Code, and OpenAI Codex into a single coordinated workflow is not accidental. Each tool fills a distinct role that the others do not fully cover. Cursor owns the IDE layer with inline editing and fast autocomplete. Claude Code owns the filesystem and terminal layer with large-context agentic tasks. Codex owns the cloud parallel agent layer for running multiple background tasks simultaneously. OpenAI's official Codex plugin for Claude Code formalizes this coordination. For engineering teams evaluating AI coding tools, the question is no longer which single tool to use, but how to assemble the stack that maps correctly to your team's workflow distribution."
+            },
+            {
+              "title": "Cursor's Parallel Agent Orchestration Is a Genuine Capability Leap",
+              "body": "Cursor's newly shipped interface for orchestrating parallel agents represents a substantive capability expansion that raises the ceiling on what a Cursor-centered workflow can accomplish. Previously, running multiple AI agents concurrently required either Devin-style autonomous tools or manual coordination across multiple Claude Code sessions. Cursor's orchestration interface brings this capability directly into the IDE with a UI that is accessible to developers who are not comfortable in pure CLI environments. This does not change today's rankings, but it strengthens the case for Cursor's long-term second-place position and narrows the agentic capability gap with Claude Code."
+            },
+            {
+              "title": "OpenAI Codex Plugin for Claude Code Signals Market Maturity",
+              "body": "When a major AI company publishes official integration tooling for a direct competitor's product, it reflects a judgment that the combined user base is large enough to justify the investment. OpenAI's Codex plugin for Claude Code does exactly this. It enables Claude Code users to spawn and orchestrate Codex agents directly from the CLI, creating a workflow where Anthropic's reasoning and task-planning capabilities drive OpenAI's parallel execution capabilities. This kind of cross-company integration is a sign that the AI coding assistant market has moved past the winner-take-all phase into a more durable ecosystem structure."
+            },
+            {
+              "title": "GitHub Copilot Remains the Lowest-Friction Enterprise Entry Point",
+              "body": "For engineering teams whose primary concern is enterprise IT approval, security review, and rollout simplicity, GitHub Copilot maintains a structural advantage that pure capability metrics do not fully capture. The Copilot enterprise license includes audit logging, IP indemnification, and GitHub Actions integration that compliance-sensitive organizations require before approving any AI tool. At $39 per seat per month for enterprise, it is also priced competitively against the combined cost of multiple-tool stacks. For individual contributors, the multi-tool stack wins on capability. For enterprise procurement, Copilot's integration with existing Microsoft and GitHub contracts makes the evaluation simpler."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "四月十八日 AI 編碼工具最重要的發展不是新產品上市，而是一個工作流結構的轉變正在被正式命名和描述。The New Stack 今天發表分析指出，Cursor、Claude Code 和 OpenAI Codex 正在融合成一個沒有人刻意設計、但多數認真的開發者現在已經同時在跑的工具組合。這跟我過去一個月在工程師調查中觀察到的是一致的：Cursor 負責 IDE 裡的行內編輯和快速程式生成，Claude Code 負責跨多個檔案的複雜任務和 terminal 層面的推理，Codex 負責在雲端並行跑多個背景 agent。OpenAI 本週正式發布了可以在 Claude Code CLI 裡直接呼叫 Codex agent 的官方插件，把這個開發者已經自己用腳本搭起來的整合正式化了。當一家大型 AI 公司為競爭對手的 CLI 發布官方整合工具，代表這個工具組合在專業使用中已經達到臨界規模。Cursor 本週發布的並行 agent 協調介面，又為這個協調工具組加了新的一層。排名維持不變，因為這個新興多工具範式裡沒有任何一個工具取代了另一個。Claude Code 以 agentic 能力和 context window 優勢守第一，Cursor 以 IDE 整合和快速迭代守第二，GitHub Copilot 以最廣企業平台支援守第三。",
+          "highlights": [
+            {
+              "title": "三工具 AI 編碼組合正在成為專業開發者的標準配置",
+              "body": "Cursor、Claude Code 和 OpenAI Codex 融合成單一協調工作流不是偶然。每個工具填補了其他工具無法完全覆蓋的角色：Cursor 負責 IDE 層的行內編輯和快速自動完成，Claude Code 負責檔案系統和 terminal 層的大情境 agentic 任務，Codex 負責雲端並行 agent 層同時跑多個背景任務。OpenAI 的官方 Codex Claude Code 插件把這個協調正式化了。對評估 AI 編碼工具的工程師團隊，問題已經不是要選哪一個，而是如何組裝出和自己團隊工作流分配對應的工具組合。"
+            },
+            {
+              "title": "Cursor 並行 Agent 協調介面是實質的能力提升",
+              "body": "Cursor 本週發布的並行 agent 協調介面，把過去需要 Devin 類自主工具或手動跨多個 Claude Code session 才能做到的事，直接搬進了 IDE 的 UI 介面。對不習慣純 CLI 環境的開發者，這個可及性的提升是真實的。這不影響今天的排名，但讓 Cursor 長期守住第二的論點更強，也縮小了和 Claude Code 在 agentic 能力上的差距。"
+            },
+            {
+              "title": "OpenAI 為 Claude Code 發布官方插件是市場成熟度的訊號",
+              "body": "大型 AI 公司為競爭對手的產品發布官方整合工具，代表它判斷這個組合的用戶群已經大到值得投入資源。OpenAI 的 Codex Claude Code 插件讓 Claude Code 用戶直接從 CLI 呼叫和協調 Codex agent，讓 Anthropic 的推理和任務規劃能力驅動 OpenAI 的並行執行能力。這種跨公司整合是 AI 編碼助理市場已經從贏者全拿階段進入更持久生態系結構的跡象。"
+            },
+            {
+              "title": "GitHub Copilot 繼續是企業採購阻力最小的入口",
+              "body": "對 IT 審批、資安審查和部署簡便性是第一優先考量的工程師團隊，GitHub Copilot 有一個純能力指標無法完全捕捉的結構優勢：企業授權包含稽核日誌、IP 補償和 GitHub Actions 整合，這是合規敏感組織在批准任何 AI 工具前必須確認的。個人用戶和小團隊，多工具組合在能力上更勝一籌。企業採購場景，Copilot 和現有 Microsoft 及 GitHub 合約的整合讓評估流程簡單很多。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

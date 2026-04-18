@@ -3129,6 +3129,75 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-04-18",
+      "rankings": [
+        { "id": "mullvad", "rank": 1, "score": 9.2, "scores": { "privacy": 9.8, "speed": 8.5, "network": 8.0, "usability": 8.5, "price": 9.5 } },
+        { "id": "protonvpn", "rank": 2, "score": 9.1, "scores": { "privacy": 9.5, "speed": 8.5, "network": 9.5, "usability": 9.0, "price": 8.5 } },
+        { "id": "nordvpn", "rank": 3, "score": 8.7, "scores": { "privacy": 8.0, "speed": 9.0, "network": 9.5, "usability": 9.0, "price": 8.0 } },
+        { "id": "ivpn", "rank": 4, "score": 8.6, "scores": { "privacy": 9.5, "speed": 8.0, "network": 7.5, "usability": 8.0, "price": 9.0 } },
+        { "id": "expressvpn", "rank": 5, "score": 8.5, "scores": { "privacy": 7.5, "speed": 9.5, "network": 9.5, "usability": 9.5, "price": 7.0 } },
+        { "id": "surfshark", "rank": 6, "score": 8.2, "scores": { "privacy": 7.5, "speed": 8.5, "network": 9.0, "usability": 8.5, "price": 8.5 } },
+        { "id": "windscribe", "rank": 7, "score": 8.0, "scores": { "privacy": 8.0, "speed": 8.0, "network": 8.0, "usability": 8.0, "price": 9.0 } }
+      ],
+      "references": [
+        {
+          "title": "Best VPN Services of 2026",
+          "url": "https://www.security.org/vpn/best/",
+          "source": "Security.org"
+        },
+        {
+          "title": "Best VPN for Privacy & Security in 2026",
+          "url": "https://www.privacytools.io/privacy-vpn",
+          "source": "PrivacyTools.io"
+        },
+        {
+          "title": "Best VPNs for Privacy and Identity Protection in 2026",
+          "url": "https://factually.co/product-reviews/electronics-tech/best-vpns-for-privacy-and-identity-protection-2026-be16b9",
+          "source": "Factually"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Mullvad holds first place, and the news this week reinforces why. NordVPN passed its sixth independent no-logs audit, this time conducted by Deloitte in early 2026. That is a meaningful milestone and I want to acknowledge it clearly: six audits from reputable firms is a serious commitment to transparency that most commercial VPNs have not matched. But the audit confirms no-logs compliance, not the structural anonymity that Mullvad has built from the ground up. NordVPN does not allow anonymous account creation. Mullvad does not require any personal information whatsoever, and its privacy score of 9.8 reflects that architectural difference rather than a judgment about trustworthiness. NordVPN's new NordWhisper obfuscation protocol is a genuine technical development worth noting. Obfuscated traffic is harder to identify and block in networks that perform deep packet inspection, which matters for users in restrictive countries or on corporate networks that attempt to block VPN connections. Expanding to 79 virtual server locations alongside this release gives NordVPN more geographic flexibility than most competitors can match. Surfshark's January 2026 audit by SecuRing adds to its legitimacy, and I continue to rate it as the best value option for users who want unlimited simultaneous device connections without paying premium pricing. The broader industry trend toward RAM-only server infrastructure is worth watching. RAM-only servers cannot retain data across reboots, which makes no-logs claims structurally verifiable rather than policy-dependent. Mullvad and ProtonVPN have operated RAM-only infrastructure for some time. NordVPN has expanded RAM-only server coverage. As this becomes the industry standard rather than a differentiator, privacy scores across the board will need to reflect whether a provider's no-logs claim is architecturally enforced or simply promised.",
+          "highlights": [
+            {
+              "title": "NordVPN's Sixth Audit Is Real Progress, but Does Not Close the Mullvad Privacy Gap",
+              "body": "Six independent no-logs audits by firms including Deloitte is a serious transparency record that earns NordVPN genuine credibility. The distinction that keeps Mullvad ahead is structural: Mullvad requires no account, no email, and no personal information to use the service. NordVPN requires account creation. That difference in data exposure at signup is not erased by audit count alone."
+            },
+            {
+              "title": "NordWhisper Obfuscation Makes NordVPN More Useful in Restrictive Environments",
+              "body": "Obfuscation protocols disguise VPN traffic as ordinary HTTPS, making it harder for network-level filtering to detect and block. NordWhisper is NordVPN's answer to the obfuscation capabilities that have long been a strength of providers like Mullvad and ProtonVPN. For users accessing the internet from countries with active VPN blocking, or corporate networks that restrict VPN usage, this is a meaningful capability improvement."
+            },
+            {
+              "title": "RAM-Only Infrastructure Is Becoming the Privacy Baseline",
+              "body": "The shift toward RAM-only server infrastructure across the VPN industry means no-logs claims are increasingly architecturally enforced rather than purely policy-based. Servers that cannot write to disk cannot retain logs across reboots regardless of what any policy says. Mullvad and ProtonVPN established this standard early. As NordVPN and Surfshark expand RAM-only server coverage, the structural privacy floor for the category is rising."
+            },
+            {
+              "title": "Surfshark Remains the Best Value for Multi-Device Households",
+              "body": "Unlimited simultaneous device connections at Surfshark's pricing makes it the correct choice for households with many devices or users who want to share a single subscription. The January 2026 SecuRing audit adds legitimate credibility to its no-logs claims. The 7.5 privacy score reflects that Surfshark requires account creation and has fewer structural anonymity protections than Mullvad or ProtonVPN, but the value proposition for everyday use is genuine."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Mullvad 繼續排第一，本週的新聞再次說明理由。NordVPN 通過了由 Deloitte 執行的第六次獨立無日誌審計，這個記錄在商業 VPN 市場裡是認真的透明度承諾，值得肯定。但審計確認的是無日誌合規，不是 Mullvad 從架構層面建立的匿名性。Mullvad 不需要任何個人資料就能使用服務，NordVPN 需要建立帳戶。9.8 的隱私分數反映的是這個架構差異，不是對 NordVPN 可信度的否定。NordVPN 新推出的 NordWhisper 混淆協定是真實的技術進步，讓 VPN 流量在深度封包檢測的網路環境下更難被識別和封鎖，對在限制性網路環境使用的用戶是有意義的改善。同步擴展到 79 個虛擬伺服器位置進一步增加了地理靈活性。Surfshark 在一月通過 SecuRing 審計，無限裝置連線加上合理定價，依然是多裝置家庭的最佳 CP 值選擇。整個行業向純記憶體伺服器基礎設施轉移的趨勢很重要，這讓無日誌聲明從政策承諾變成架構上的強制執行，是真正提升隱私保障基準的進步。",
+          "highlights": [
+            {
+              "title": "NordVPN 第六次審計是真實進步，但沒有縮小與 Mullvad 的隱私架構差距",
+              "body": "包括 Deloitte 在內的六次獨立無日誌審計，是商業 VPN 市場裡值得認真對待的透明度記錄。但讓 Mullvad 保持領先的是架構設計：Mullvad 不需要帳戶、不需要 email、不需要任何個人資訊就能使用。NordVPN 需要建立帳戶。這個註冊時的資料暴露差異，不是審計次數可以消除的。"
+            },
+            {
+              "title": "NordWhisper 混淆協定讓 NordVPN 在限制性網路環境更實用",
+              "body": "混淆協定把 VPN 流量偽裝成普通 HTTPS，讓深度封包檢測更難識別和封鎖 VPN 連線。這個功能對在有 VPN 封鎖的國家或限制 VPN 使用的企業網路裡工作的用戶來說是真實有用的改善。擴展到 79 個虛擬伺服器位置讓地理靈活性進一步提升。"
+            },
+            {
+              "title": "純記憶體伺服器正在成為隱私基準",
+              "body": "行業向純記憶體伺服器轉移的趨勢讓無日誌聲明從政策承諾變成架構強制執行。伺服器無法在重開機後保留資料，讓無日誌主張在結構上可以被驗證。Mullvad 和 ProtonVPN 早就這樣做了，NordVPN 也在擴展覆蓋範圍。這個趨勢代表整個類別的隱私基準正在提升。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
