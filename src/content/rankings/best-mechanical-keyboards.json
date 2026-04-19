@@ -3386,18 +3386,150 @@
     {
       "date": "2026-04-18",
       "rankings": [
-        { "id": "wooting-60he", "rank": 1, "score": 9.3, "scores": { "switches": 9.8, "build": 8.5, "features": 9.5, "latency": 9.8, "value": 8.5 } },
-        { "id": "steelseries-apex-pro-tkl-w", "rank": 2, "score": 9.1, "scores": { "switches": 9.5, "build": 9.0, "features": 9.5, "latency": 9.5, "value": 8.0 } },
-        { "id": "wooting-80he", "rank": 3, "score": 9.0, "scores": { "switches": 9.8, "build": 8.5, "features": 9.5, "latency": 9.8, "value": 8.0 } },
-        { "id": "keychron-q1-pro", "rank": 4, "score": 8.9, "scores": { "switches": 9.0, "build": 9.5, "features": 9.0, "latency": 9.0, "value": 9.0 } },
-        { "id": "logitech-g915-tkl", "rank": 5, "score": 8.8, "scores": { "switches": 8.5, "build": 9.0, "features": 9.0, "latency": 9.0, "value": 8.5 } },
-        { "id": "ducky-one3", "rank": 6, "score": 8.6, "scores": { "switches": 8.5, "build": 9.0, "features": 8.5, "latency": 8.5, "value": 9.0 } },
-        { "id": "corsair-k100-air", "rank": 7, "score": 8.5, "scores": { "switches": 8.5, "build": 9.0, "features": 8.5, "latency": 8.5, "value": 8.0 } },
-        { "id": "razer-blackwidow-v4-pro", "rank": 8, "score": 8.3, "scores": { "switches": 8.5, "build": 8.5, "features": 9.0, "latency": 8.5, "value": 8.0 } },
-        { "id": "keychron-k8-pro", "rank": 9, "score": 8.2, "scores": { "switches": 8.0, "build": 8.5, "features": 8.5, "latency": 8.0, "value": 9.5 } },
-        { "id": "nuphy-air75-v2", "rank": 10, "score": 8.0, "scores": { "switches": 8.0, "build": 8.0, "features": 8.0, "latency": 8.0, "value": 9.0 } },
-        { "id": "mountain-everest-max", "rank": 11, "score": 7.9, "scores": { "switches": 8.0, "build": 8.5, "features": 9.0, "latency": 8.0, "value": 7.5 } },
-        { "id": "rog-strix-scope2-rx", "rank": 12, "score": 7.7, "scores": { "switches": 7.5, "build": 8.5, "features": 8.0, "latency": 8.0, "value": 8.0 } }
+        {
+          "id": "wooting-60he",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "switches": 9.8,
+            "build": 8.5,
+            "features": 9.5,
+            "latency": 9.8,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "steelseries-apex-pro-tkl-w",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "switches": 9.5,
+            "build": 9.0,
+            "features": 9.5,
+            "latency": 9.5,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "wooting-80he",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "switches": 9.8,
+            "build": 8.5,
+            "features": 9.5,
+            "latency": 9.8,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "keychron-q1-pro",
+          "rank": 4,
+          "score": 8.9,
+          "scores": {
+            "switches": 9.0,
+            "build": 9.5,
+            "features": 9.0,
+            "latency": 9.0,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "logitech-g915-tkl",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "switches": 8.5,
+            "build": 9.0,
+            "features": 9.0,
+            "latency": 9.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "ducky-one3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "switches": 8.5,
+            "build": 9.0,
+            "features": 8.5,
+            "latency": 8.5,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "corsair-k100-air",
+          "rank": 7,
+          "score": 8.5,
+          "scores": {
+            "switches": 8.5,
+            "build": 9.0,
+            "features": 8.5,
+            "latency": 8.5,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "razer-blackwidow-v4-pro",
+          "rank": 8,
+          "score": 8.3,
+          "scores": {
+            "switches": 8.5,
+            "build": 8.5,
+            "features": 9.0,
+            "latency": 8.5,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "keychron-k8-pro",
+          "rank": 9,
+          "score": 8.2,
+          "scores": {
+            "switches": 8.0,
+            "build": 8.5,
+            "features": 8.5,
+            "latency": 8.0,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "nuphy-air75-v2",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "switches": 8.0,
+            "build": 8.0,
+            "features": 8.0,
+            "latency": 8.0,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "mountain-everest-max",
+          "rank": 11,
+          "score": 7.9,
+          "scores": {
+            "switches": 8.0,
+            "build": 8.5,
+            "features": 9.0,
+            "latency": 8.0,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "rog-strix-scope2-rx",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "switches": 7.5,
+            "build": 8.5,
+            "features": 8.0,
+            "latency": 8.0,
+            "value": 8.0
+          }
+        }
       ],
       "references": [
         {
@@ -3452,6 +3584,198 @@
             {
               "title": "ASUS ROG Strix Scope II 96 Wireless 被一些評測者稱為最佳，但這裡排第 12",
               "body": "部分 2026 評測者把 Scope II 96 Wireless 排在最前面，理由是無線效能和緊湊配列。無線實作確實很好，96% 格局的設計也很有想法。它在這裡排第 12 是因為開關延遲表現和沒有 Hall Effect 技術在可測量的電競指標上沒法跟名單前段比。對優先考慮無線和配列設計而不是最高競技精度的買家，它是真正值得推薦的選擇，只是不是頂端位置。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-04-19",
+      "rankings": [
+        {
+          "id": "wooting-60he",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "switches": 9.8,
+            "build": 8.5,
+            "features": 9.5,
+            "latency": 9.8,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "steelseries-apex-pro-tkl-w",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "switches": 9.5,
+            "build": 9.0,
+            "features": 9.5,
+            "latency": 9.5,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "wooting-80he",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "switches": 9.8,
+            "build": 8.5,
+            "features": 9.5,
+            "latency": 9.8,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "keychron-q1-pro",
+          "rank": 4,
+          "score": 8.9,
+          "scores": {
+            "switches": 9.0,
+            "build": 9.5,
+            "features": 9.0,
+            "latency": 9.0,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "logitech-g915-tkl",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "switches": 8.5,
+            "build": 9.0,
+            "features": 9.0,
+            "latency": 9.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "ducky-one3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "switches": 8.5,
+            "build": 9.0,
+            "features": 8.5,
+            "latency": 8.5,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "corsair-k100-air",
+          "rank": 7,
+          "score": 8.5,
+          "scores": {
+            "switches": 8.5,
+            "build": 9.0,
+            "features": 8.5,
+            "latency": 8.5,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "razer-blackwidow-v4-pro",
+          "rank": 8,
+          "score": 8.3,
+          "scores": {
+            "switches": 8.5,
+            "build": 8.5,
+            "features": 9.0,
+            "latency": 8.5,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "keychron-k8-pro",
+          "rank": 9,
+          "score": 8.2,
+          "scores": {
+            "switches": 8.0,
+            "build": 8.5,
+            "features": 8.5,
+            "latency": 8.0,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "nuphy-air75-v2",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "switches": 8.0,
+            "build": 8.0,
+            "features": 8.0,
+            "latency": 8.0,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "mountain-everest-max",
+          "rank": 11,
+          "score": 7.9,
+          "scores": {
+            "switches": 8.0,
+            "build": 8.5,
+            "features": 9.0,
+            "latency": 8.0,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "rog-strix-scope2-rx",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "switches": 7.5,
+            "build": 8.5,
+            "features": 8.0,
+            "latency": 8.0,
+            "value": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best mechanical keyboards 2026: top gaming and typing picks",
+          "url": "https://www.tomsguide.com/best-picks/best-mechanical-keyboards",
+          "source": "Tom's Guide"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Mechanical keyboard rankings hold steady this week. The Wooting 60HE holds #1 with analog Hall effect switches that no optical or mechanical competitor replicates at this price point. Rapid Trigger — where the switch reactivates the moment it moves up even a fraction of a millimeter — is a genuine competitive gaming advantage for FPS players. Switch and latency scores both at 9.8 are the highest in this ranking. SteelSeries Apex Pro TKL Wireless at #2 brings adjustable actuation across every key with wireless convenience. Wooting 80HE at #3 offers the same switch technology in a full-size layout for users who need a numpad. Keychron Q1 Pro at #4 leads on build quality at 9.5 — CNC aluminum chassis with south-facing RGB is the best physical construction in this ranking for typing-focused use.",
+          "highlights": [
+            {
+              "title": "Wooting 60HE's Rapid Trigger is the competitive gaming standard",
+              "body": "Analog Hall effect switches with Rapid Trigger activation let each keystroke reset the moment the key begins moving upward, regardless of physical actuation point. This eliminates the mechanical deadzone that standard switches have, producing faster re-actuation in competitive FPS games. No other keyboard in this ranking replicates this specific advantage."
+            },
+            {
+              "title": "Keychron Q1 Pro at #4 is the typing-focused pick over gaming",
+              "body": "CNC aluminum chassis at 9.5 build quality produces a solid, satisfying typing feel that plastic-body keyboards cannot match. South-facing RGB avoids LED shining through switch stems. For writers and programmers who prioritize typing feedback over gaming performance, the Q1 Pro is the right answer."
+            },
+            {
+              "title": "NuPhy Air75 V2 at #10 is the best thin-and-light mechanical keyboard",
+              "body": "Low-profile Gateron switches in an ultra-slim aluminum chassis create a mechanical keyboard for laptop users who want the key feel without the height. The 9.0 value score reflects competitive pricing for the build materials. For desk setups where height clearance is a concern, the Air75 V2 solves that problem without compromising on key feel."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "機械鍵盤市場這週沒有新動作，排名維持穩定。Wooting 60HE 以類比霍爾感應軸和 Rapid Trigger 功能守住第 1，這個技術讓按鍵一開始往上移動就立刻重置觸發，消除傳統機械軸的物理死區，對 FPS 電競玩家是實質的競技優勢。軸體和延遲分數都是 9.8，是這個排名最高的。SteelSeries Apex Pro TKL Wireless 第 2 名以全鍵可調觸發鍵程加上無線便利性守住位置。Keychron Q1 Pro 第 4 名以鋁合金 CNC 機身的 9.5 建造質感在打字場景上無可取代，是這個排名裡打字體驗最好的選擇。",
+          "highlights": [
+            {
+              "title": "Wooting 60HE 的 Rapid Trigger 是目前電競鍵盤的技術標竿",
+              "body": "類比霍爾感應軸搭配 Rapid Trigger，讓按鍵在任何位置開始往上移動就立刻重置觸發，消除了傳統機械軸的物理死區。FPS 遊戲裡的重複按鍵速度因此更快，這個優勢在其他排名的鍵盤裡找不到對等的技術。"
+            },
+            {
+              "title": "Keychron Q1 Pro 第 4 名是打字場景的首選",
+              "body": "CNC 鋁合金機身的建造質感分數 9.5 是整個排名最高，紮實的重量和精密的金屬手感是塑膠機身鍵盤無法複製的。朝下 RGB 燈位設計讓燈光不會透過軸體直射眼睛。對以打字而非遊戲為主的用戶，Q1 Pro 是最值得的選擇。"
+            },
+            {
+              "title": "NuPhy Air75 V2 第 10 名是最好的低矮機械鍵盤",
+              "body": "低矮 Gateron 軸搭超薄鋁合金機身，在保留機械鍵盤手感的前提下把厚度降到最低。對習慣筆電鍵盤高度、或桌面空間受限需要低矮鍵盤的用戶，Air75 V2 是目前最好的解答。"
             }
           ]
         }

@@ -3649,18 +3649,150 @@
     {
       "date": "2026-04-18",
       "rankings": [
-        { "id": "gpx2-superstrike", "rank": 1, "score": 9.3, "scores": { "sensor": 9.5, "latency": 9.8, "weight": 9.5, "build": 9.5, "value": 8.2 } },
-        { "id": "gpx2-dex", "rank": 2, "score": 9.2, "scores": { "sensor": 9.5, "latency": 9.8, "weight": 9.0, "build": 9.5, "value": 8.5 } },
-        { "id": "viper-v4-pro", "rank": 3, "score": 9.2, "scores": { "sensor": 9.5, "latency": 9.5, "weight": 9.5, "build": 9.5, "value": 8.0 } },
-        { "id": "da-v4-pro", "rank": 4, "score": 9.1, "scores": { "sensor": 9.5, "latency": 9.5, "weight": 9.0, "build": 9.5, "value": 8.0 } },
-        { "id": "da-v3-hyper", "rank": 5, "score": 9.0, "scores": { "sensor": 9.5, "latency": 9.5, "weight": 9.5, "build": 9.0, "value": 8.5 } },
-        { "id": "op1we", "rank": 6, "score": 9.0, "scores": { "sensor": 9.0, "latency": 9.5, "weight": 9.5, "build": 9.0, "value": 9.0 } },
-        { "id": "viper-v3-hyper", "rank": 7, "score": 8.9, "scores": { "sensor": 9.5, "latency": 9.5, "weight": 9.0, "build": 9.0, "value": 8.5 } },
-        { "id": "fnatic-bolt", "rank": 8, "score": 8.7, "scores": { "sensor": 9.0, "latency": 9.0, "weight": 9.5, "build": 9.0, "value": 8.5 } },
-        { "id": "ninjutso-sora-v2", "rank": 9, "score": 8.5, "scores": { "sensor": 9.0, "latency": 9.0, "weight": 9.5, "build": 8.5, "value": 9.0 } },
-        { "id": "g502x-plus", "rank": 10, "score": 8.4, "scores": { "sensor": 9.0, "latency": 8.5, "weight": 7.0, "build": 9.5, "value": 8.5 } },
-        { "id": "pulsefire-haste2-w", "rank": 11, "score": 8.3, "scores": { "sensor": 8.5, "latency": 8.5, "weight": 9.5, "build": 8.0, "value": 9.0 } },
-        { "id": "prime-wireless", "rank": 12, "score": 8.1, "scores": { "sensor": 8.5, "latency": 8.5, "weight": 8.5, "build": 8.5, "value": 9.0 } }
+        {
+          "id": "gpx2-superstrike",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "sensor": 9.5,
+            "latency": 9.8,
+            "weight": 9.5,
+            "build": 9.5,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "gpx2-dex",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "sensor": 9.5,
+            "latency": 9.8,
+            "weight": 9.0,
+            "build": 9.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "viper-v4-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "sensor": 9.5,
+            "latency": 9.5,
+            "weight": 9.5,
+            "build": 9.5,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "da-v4-pro",
+          "rank": 4,
+          "score": 9.1,
+          "scores": {
+            "sensor": 9.5,
+            "latency": 9.5,
+            "weight": 9.0,
+            "build": 9.5,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "da-v3-hyper",
+          "rank": 5,
+          "score": 9.0,
+          "scores": {
+            "sensor": 9.5,
+            "latency": 9.5,
+            "weight": 9.5,
+            "build": 9.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "op1we",
+          "rank": 6,
+          "score": 9.0,
+          "scores": {
+            "sensor": 9.0,
+            "latency": 9.5,
+            "weight": 9.5,
+            "build": 9.0,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "viper-v3-hyper",
+          "rank": 7,
+          "score": 8.9,
+          "scores": {
+            "sensor": 9.5,
+            "latency": 9.5,
+            "weight": 9.0,
+            "build": 9.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "fnatic-bolt",
+          "rank": 8,
+          "score": 8.7,
+          "scores": {
+            "sensor": 9.0,
+            "latency": 9.0,
+            "weight": 9.5,
+            "build": 9.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "ninjutso-sora-v2",
+          "rank": 9,
+          "score": 8.5,
+          "scores": {
+            "sensor": 9.0,
+            "latency": 9.0,
+            "weight": 9.5,
+            "build": 8.5,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "g502x-plus",
+          "rank": 10,
+          "score": 8.4,
+          "scores": {
+            "sensor": 9.0,
+            "latency": 8.5,
+            "weight": 7.0,
+            "build": 9.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "pulsefire-haste2-w",
+          "rank": 11,
+          "score": 8.3,
+          "scores": {
+            "sensor": 8.5,
+            "latency": 8.5,
+            "weight": 9.5,
+            "build": 8.0,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "prime-wireless",
+          "rank": 12,
+          "score": 8.1,
+          "scores": {
+            "sensor": 8.5,
+            "latency": 8.5,
+            "weight": 8.5,
+            "build": 8.5,
+            "value": 9.0
+          }
+        }
       ],
       "references": [
         {
@@ -3715,6 +3847,198 @@
             {
               "title": "DeathAdder V4 Pro 是右手握型玩家的首選",
               "body": "DeathAdder 的形狀經過幾十年的優化，右手曲線在長時間遊戲中降低疲勞的效果是對稱型設計做不到的。V4 Pro 搭配 HERO 30K 感應器和最新開關世代，精度完全不輸排名更前面的滑鼠。對習慣掌握或爪握的大手型玩家，第四名可能是最正確的第一推薦。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-04-19",
+      "rankings": [
+        {
+          "id": "gpx2-superstrike",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "sensor": 9.5,
+            "latency": 9.8,
+            "weight": 9.5,
+            "build": 9.5,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "gpx2-dex",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "sensor": 9.5,
+            "latency": 9.8,
+            "weight": 9.0,
+            "build": 9.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "viper-v4-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "sensor": 9.5,
+            "latency": 9.5,
+            "weight": 9.5,
+            "build": 9.5,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "da-v4-pro",
+          "rank": 4,
+          "score": 9.1,
+          "scores": {
+            "sensor": 9.5,
+            "latency": 9.5,
+            "weight": 9.0,
+            "build": 9.5,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "da-v3-hyper",
+          "rank": 5,
+          "score": 9.0,
+          "scores": {
+            "sensor": 9.5,
+            "latency": 9.5,
+            "weight": 9.5,
+            "build": 9.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "op1we",
+          "rank": 6,
+          "score": 9.0,
+          "scores": {
+            "sensor": 9.0,
+            "latency": 9.5,
+            "weight": 9.5,
+            "build": 9.0,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "viper-v3-hyper",
+          "rank": 7,
+          "score": 8.9,
+          "scores": {
+            "sensor": 9.5,
+            "latency": 9.5,
+            "weight": 9.0,
+            "build": 9.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "fnatic-bolt",
+          "rank": 8,
+          "score": 8.7,
+          "scores": {
+            "sensor": 9.0,
+            "latency": 9.0,
+            "weight": 9.5,
+            "build": 9.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "ninjutso-sora-v2",
+          "rank": 9,
+          "score": 8.5,
+          "scores": {
+            "sensor": 9.0,
+            "latency": 9.0,
+            "weight": 9.5,
+            "build": 8.5,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "g502x-plus",
+          "rank": 10,
+          "score": 8.4,
+          "scores": {
+            "sensor": 9.0,
+            "latency": 8.5,
+            "weight": 7.0,
+            "build": 9.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "pulsefire-haste2-w",
+          "rank": 11,
+          "score": 8.3,
+          "scores": {
+            "sensor": 8.5,
+            "latency": 8.5,
+            "weight": 9.5,
+            "build": 8.0,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "prime-wireless",
+          "rank": 12,
+          "score": 8.1,
+          "scores": {
+            "sensor": 8.5,
+            "latency": 8.5,
+            "weight": 8.5,
+            "build": 8.5,
+            "value": 9.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best gaming mice 2026: top wireless and wired picks tested",
+          "url": "https://www.tomsguide.com/best-picks/best-gaming-mouse",
+          "source": "Tom's Guide"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Gaming mouse rankings hold steady. The Logitech G Pro X2 SUPERSTRIKE holds #1 on the combination of HERO 25K sensor, LIGHTSPEED wireless at sub-1ms latency, and a 60g weight that delivers top-tier specs in a form factor suited for claw and fingertip grips. Latency at 9.8 is the highest in this ranking. The G Pro X2 DEX at #2 offers the same core performance with a different shape — ergonomic right-handed design with a thumb rest, better for palm grip users. Razer Viper V4 Pro at #3 brings the Focus Pro 35K sensor in an ambidextrous shape with excellent wireless at 9.5 latency. The top three are genuinely close — the deciding factor is grip style and hand size, not performance. Endgame Gear OP1we at #6 is the value pick with 9.0 value score for performance that matches the premium tier.",
+          "highlights": [
+            {
+              "title": "G Pro X2 SUPERSTRIKE leads on latency and weight combination",
+              "body": "Sub-1ms LIGHTSPEED wireless at 9.8 latency score combined with a 60g weight is the most demanding competitive gaming specification. The HERO 25K sensor has zero hardware spin-out issues in testing. For players who use claw or fingertip grip on medium or large hands, this is the performance benchmark."
+            },
+            {
+              "title": "Razer Viper V4 Pro at #3 is the ambidextrous performance pick",
+              "body": "Focus Pro 35K sensor with 9.5 latency in a shape that works for both left and right-handed players. The V4 Pro is the right choice for left-handed players or those who regularly switch grip styles. HyperSpeed wireless competes directly with LIGHTSPEED at this latency level."
+            },
+            {
+              "title": "Endgame Gear OP1we at #6 is the value performance pick",
+              "body": "9.0 value score with sensor and latency performance that competes with mice costing 50% more. The OP1we punches above its price class consistently in sensor accuracy and wireless performance. For competitive gaming on a budget, nothing else delivers this ratio."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "電競滑鼠市場這週沒有新品，排名維持穩定。Logitech G Pro X2 SUPERSTRIKE 以 HERO 25K 感光元件、LIGHTSPEED 無線低於 1ms 延遲、60g 機身守住第 1，延遲分數 9.8 是整個排名最高。G Pro X2 DEX 第 2 名跟 SUPERSTRIKE 核心規格相同，差別在外型，DEX 有拇指托和符合人體工學的右手設計，手掌握法的玩家更合適。Razer Viper V4 Pro 第 3 名以 Focus Pro 35K 感光元件搭無線，雙手適用外形是左手玩家的最好選擇。前三名在效能上的差距很小，選擇哪一款主要取決於握法和手型而非規格。Endgame Gear OP1we 第 6 名的性價比分數 9.0 是整個排名最高，以中階價格實現旗艦效能。",
+          "highlights": [
+            {
+              "title": "G Pro X2 SUPERSTRIKE 以延遲和重量組合奪冠",
+              "body": "LIGHTSPEED 無線延遲低於 1ms，延遲分數 9.8 是整個排名最高，60g 機身讓長時間遊戲不容易疲憊。HERO 25K 感光元件在測試中沒有硬體漂移問題。爪握或指尖握法、手型中大的玩家，這是目前效能天花板。"
+            },
+            {
+              "title": "Razer Viper V4 Pro 第 3 名是雙手適用的效能選擇",
+              "body": "Focus Pro 35K 感光元件搭 HyperSpeed 無線，延遲分數 9.5，對稱外形左右手都能用。左撇子玩家或不固定握法的用戶，V4 Pro 是這個排名裡最適合的選擇。"
+            },
+            {
+              "title": "Endgame Gear OP1we 第 6 名是電競性價比最強的選擇",
+              "body": "價值分數 9.0 是整個排名最高，感光元件精度和無線延遲表現跟旗艦款相近，但售價低了約 50%。預算有限又想要競技級別規格的玩家，OP1we 是目前最直接的答案。"
             }
           ]
         }

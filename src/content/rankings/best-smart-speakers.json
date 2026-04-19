@@ -168,24 +168,151 @@
     {
       "date": "2026-04-16",
       "rankings": [
-        { "id": "amazon-echo-studio-2nd-gen", "rank": 1, "score": 9.0, "scores": { "soundQuality": 8.8, "smartHomeIntegration": 9.5, "voiceAssistant": 9.0, "valueForMoney": 8.0, "design": 8.0 } },
-        { "id": "sonos-era-100", "rank": 2, "score": 8.7, "scores": { "soundQuality": 9.5, "smartHomeIntegration": 7.5, "voiceAssistant": 7.5, "valueForMoney": 8.5, "design": 9.0 } },
-        { "id": "apple-homepod-2nd-gen", "rank": 3, "score": 8.4, "scores": { "soundQuality": 9.0, "smartHomeIntegration": 8.5, "voiceAssistant": 7.0, "valueForMoney": 7.5, "design": 9.5 } },
-        { "id": "sonos-era-300", "rank": 4, "score": 8.2, "scores": { "soundQuality": 9.8, "smartHomeIntegration": 7.5, "voiceAssistant": 7.5, "valueForMoney": 6.5, "design": 9.0 } },
-        { "id": "google-home-speaker-2026", "rank": 5, "score": 8.1, "scores": { "soundQuality": 7.5, "smartHomeIntegration": 8.5, "voiceAssistant": 9.5, "valueForMoney": 9.0, "design": 8.0 } },
-        { "id": "jbl-authentics-500", "rank": 6, "score": 7.9, "scores": { "soundQuality": 9.2, "smartHomeIntegration": 7.5, "voiceAssistant": 8.5, "valueForMoney": 6.0, "design": 9.0 } },
-        { "id": "amazon-echo-4th-gen", "rank": 7, "score": 7.8, "scores": { "soundQuality": 7.5, "smartHomeIntegration": 9.0, "voiceAssistant": 8.5, "valueForMoney": 8.5, "design": 7.5 } },
-        { "id": "amazon-echo-dot-5th-gen", "rank": 8, "score": 7.4, "scores": { "soundQuality": 6.5, "smartHomeIntegration": 8.5, "voiceAssistant": 8.5, "valueForMoney": 9.5, "design": 7.0 } },
-        { "id": "apple-homepod-mini", "rank": 9, "score": 7.2, "scores": { "soundQuality": 7.5, "smartHomeIntegration": 8.5, "voiceAssistant": 7.0, "valueForMoney": 9.0, "design": 8.5 } }
+        {
+          "id": "amazon-echo-studio-2nd-gen",
+          "rank": 1,
+          "score": 9.0,
+          "scores": {
+            "soundQuality": 8.8,
+            "smartHomeIntegration": 9.5,
+            "voiceAssistant": 9.0,
+            "valueForMoney": 8.0,
+            "design": 8.0
+          }
+        },
+        {
+          "id": "sonos-era-100",
+          "rank": 2,
+          "score": 8.7,
+          "scores": {
+            "soundQuality": 9.5,
+            "smartHomeIntegration": 7.5,
+            "voiceAssistant": 7.5,
+            "valueForMoney": 8.5,
+            "design": 9.0
+          }
+        },
+        {
+          "id": "apple-homepod-2nd-gen",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "soundQuality": 9.0,
+            "smartHomeIntegration": 8.5,
+            "voiceAssistant": 7.0,
+            "valueForMoney": 7.5,
+            "design": 9.5
+          }
+        },
+        {
+          "id": "sonos-era-300",
+          "rank": 4,
+          "score": 8.2,
+          "scores": {
+            "soundQuality": 9.8,
+            "smartHomeIntegration": 7.5,
+            "voiceAssistant": 7.5,
+            "valueForMoney": 6.5,
+            "design": 9.0
+          }
+        },
+        {
+          "id": "google-home-speaker-2026",
+          "rank": 5,
+          "score": 8.1,
+          "scores": {
+            "soundQuality": 7.5,
+            "smartHomeIntegration": 8.5,
+            "voiceAssistant": 9.5,
+            "valueForMoney": 9.0,
+            "design": 8.0
+          }
+        },
+        {
+          "id": "jbl-authentics-500",
+          "rank": 6,
+          "score": 7.9,
+          "scores": {
+            "soundQuality": 9.2,
+            "smartHomeIntegration": 7.5,
+            "voiceAssistant": 8.5,
+            "valueForMoney": 6.0,
+            "design": 9.0
+          }
+        },
+        {
+          "id": "amazon-echo-4th-gen",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "soundQuality": 7.5,
+            "smartHomeIntegration": 9.0,
+            "voiceAssistant": 8.5,
+            "valueForMoney": 8.5,
+            "design": 7.5
+          }
+        },
+        {
+          "id": "amazon-echo-dot-5th-gen",
+          "rank": 8,
+          "score": 7.4,
+          "scores": {
+            "soundQuality": 6.5,
+            "smartHomeIntegration": 8.5,
+            "voiceAssistant": 8.5,
+            "valueForMoney": 9.5,
+            "design": 7.0
+          }
+        },
+        {
+          "id": "apple-homepod-mini",
+          "rank": 9,
+          "score": 7.2,
+          "scores": {
+            "soundQuality": 7.5,
+            "smartHomeIntegration": 8.5,
+            "voiceAssistant": 7.0,
+            "valueForMoney": 9.0,
+            "design": 8.5
+          }
+        }
       ],
       "references": [
-        { "title": "The 5 Best Smart Speakers of 2026", "url": "https://www.rtings.com/speaker/reviews/best/smart", "source": "RTINGS.com" },
-        { "title": "Best smart speakers 2026: Reviews and buying advice", "url": "https://www.pcworld.com/article/583168/best-smart-speakers.html", "source": "PCWorld" },
-        { "title": "Best smart speakers in 2026 — Alexa, Google, and Siri tested", "url": "https://www.tomsguide.com/us/best-smart-speakers,review-4480.html", "source": "Tom's Guide" },
-        { "title": "Amazon Echo Studio (2025) review", "url": "https://www.tomsguide.com/audio/smart-speakers/amazon-echo-studio-2025-review", "source": "Tom's Guide" },
-        { "title": "Sonos Era 300 Review: Still Worth It in 2026?", "url": "https://www.smarthomesounds.co.uk/blog/sonos/sonos-era-300-review", "source": "Smart Home Sounds" },
-        { "title": "Google Home Speaker with Gemini coming Spring 2026", "url": "https://techcrunch.com/2025/10/01/google-teases-its-new-gemini-powered-google-home-speaker-coming-in-spring-2026/", "source": "TechCrunch" },
-        { "title": "JBL Authentics 500 review", "url": "https://www.techradar.com/audio/hi-fi/wireless-bluetooth-speakers/jbl-authentics-500-review", "source": "TechRadar" }
+        {
+          "title": "The 5 Best Smart Speakers of 2026",
+          "url": "https://www.rtings.com/speaker/reviews/best/smart",
+          "source": "RTINGS.com"
+        },
+        {
+          "title": "Best smart speakers 2026: Reviews and buying advice",
+          "url": "https://www.pcworld.com/article/583168/best-smart-speakers.html",
+          "source": "PCWorld"
+        },
+        {
+          "title": "Best smart speakers in 2026 — Alexa, Google, and Siri tested",
+          "url": "https://www.tomsguide.com/us/best-smart-speakers,review-4480.html",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "Amazon Echo Studio (2025) review",
+          "url": "https://www.tomsguide.com/audio/smart-speakers/amazon-echo-studio-2025-review",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "Sonos Era 300 Review: Still Worth It in 2026?",
+          "url": "https://www.smarthomesounds.co.uk/blog/sonos/sonos-era-300-review",
+          "source": "Smart Home Sounds"
+        },
+        {
+          "title": "Google Home Speaker with Gemini coming Spring 2026",
+          "url": "https://techcrunch.com/2025/10/01/google-teases-its-new-gemini-powered-google-home-speaker-coming-in-spring-2026/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "JBL Authentics 500 review",
+          "url": "https://www.techradar.com/audio/hi-fi/wireless-bluetooth-speakers/jbl-authentics-500-review",
+          "source": "TechRadar"
+        }
       ],
       "i18n": {
         "en": {
@@ -243,20 +370,131 @@
     {
       "date": "2026-04-17",
       "rankings": [
-        { "id": "amazon-echo-studio-2nd-gen", "rank": 1, "score": 9.0, "scores": { "soundQuality": 8.8, "smartHomeIntegration": 9.5, "voiceAssistant": 9.0, "valueForMoney": 8.0, "design": 8.0 } },
-        { "id": "sonos-era-100", "rank": 2, "score": 8.7, "scores": { "soundQuality": 9.5, "smartHomeIntegration": 7.5, "voiceAssistant": 7.5, "valueForMoney": 8.5, "design": 9.0 } },
-        { "id": "apple-homepod-2nd-gen", "rank": 3, "score": 8.4, "scores": { "soundQuality": 9.0, "smartHomeIntegration": 8.5, "voiceAssistant": 7.0, "valueForMoney": 7.5, "design": 9.5 } },
-        { "id": "sonos-era-300", "rank": 4, "score": 8.2, "scores": { "soundQuality": 9.8, "smartHomeIntegration": 7.5, "voiceAssistant": 7.5, "valueForMoney": 6.5, "design": 9.0 } },
-        { "id": "google-home-speaker-2026", "rank": 5, "score": 8.1, "scores": { "soundQuality": 7.5, "smartHomeIntegration": 8.5, "voiceAssistant": 9.5, "valueForMoney": 9.0, "design": 8.0 } },
-        { "id": "jbl-authentics-500", "rank": 6, "score": 7.9, "scores": { "soundQuality": 9.2, "smartHomeIntegration": 7.5, "voiceAssistant": 8.5, "valueForMoney": 6.0, "design": 9.0 } },
-        { "id": "amazon-echo-4th-gen", "rank": 7, "score": 7.8, "scores": { "soundQuality": 7.5, "smartHomeIntegration": 9.0, "voiceAssistant": 8.5, "valueForMoney": 8.5, "design": 7.5 } },
-        { "id": "amazon-echo-dot-5th-gen", "rank": 8, "score": 7.4, "scores": { "soundQuality": 6.5, "smartHomeIntegration": 8.5, "voiceAssistant": 8.5, "valueForMoney": 9.5, "design": 7.0 } },
-        { "id": "apple-homepod-mini", "rank": 9, "score": 7.2, "scores": { "soundQuality": 7.5, "smartHomeIntegration": 8.5, "voiceAssistant": 7.0, "valueForMoney": 9.0, "design": 8.5 } }
+        {
+          "id": "amazon-echo-studio-2nd-gen",
+          "rank": 1,
+          "score": 9.0,
+          "scores": {
+            "soundQuality": 8.8,
+            "smartHomeIntegration": 9.5,
+            "voiceAssistant": 9.0,
+            "valueForMoney": 8.0,
+            "design": 8.0
+          }
+        },
+        {
+          "id": "sonos-era-100",
+          "rank": 2,
+          "score": 8.7,
+          "scores": {
+            "soundQuality": 9.5,
+            "smartHomeIntegration": 7.5,
+            "voiceAssistant": 7.5,
+            "valueForMoney": 8.5,
+            "design": 9.0
+          }
+        },
+        {
+          "id": "apple-homepod-2nd-gen",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "soundQuality": 9.0,
+            "smartHomeIntegration": 8.5,
+            "voiceAssistant": 7.0,
+            "valueForMoney": 7.5,
+            "design": 9.5
+          }
+        },
+        {
+          "id": "sonos-era-300",
+          "rank": 4,
+          "score": 8.2,
+          "scores": {
+            "soundQuality": 9.8,
+            "smartHomeIntegration": 7.5,
+            "voiceAssistant": 7.5,
+            "valueForMoney": 6.5,
+            "design": 9.0
+          }
+        },
+        {
+          "id": "google-home-speaker-2026",
+          "rank": 5,
+          "score": 8.1,
+          "scores": {
+            "soundQuality": 7.5,
+            "smartHomeIntegration": 8.5,
+            "voiceAssistant": 9.5,
+            "valueForMoney": 9.0,
+            "design": 8.0
+          }
+        },
+        {
+          "id": "jbl-authentics-500",
+          "rank": 6,
+          "score": 7.9,
+          "scores": {
+            "soundQuality": 9.2,
+            "smartHomeIntegration": 7.5,
+            "voiceAssistant": 8.5,
+            "valueForMoney": 6.0,
+            "design": 9.0
+          }
+        },
+        {
+          "id": "amazon-echo-4th-gen",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "soundQuality": 7.5,
+            "smartHomeIntegration": 9.0,
+            "voiceAssistant": 8.5,
+            "valueForMoney": 8.5,
+            "design": 7.5
+          }
+        },
+        {
+          "id": "amazon-echo-dot-5th-gen",
+          "rank": 8,
+          "score": 7.4,
+          "scores": {
+            "soundQuality": 6.5,
+            "smartHomeIntegration": 8.5,
+            "voiceAssistant": 8.5,
+            "valueForMoney": 9.5,
+            "design": 7.0
+          }
+        },
+        {
+          "id": "apple-homepod-mini",
+          "rank": 9,
+          "score": 7.2,
+          "scores": {
+            "soundQuality": 7.5,
+            "smartHomeIntegration": 8.5,
+            "voiceAssistant": 7.0,
+            "valueForMoney": 9.0,
+            "design": 8.5
+          }
+        }
       ],
       "references": [
-        { "title": "Best Smart Speakers 2026", "url": "https://www.rtings.com/speaker/reviews/best/smart", "source": "RTINGS.com" },
-        { "title": "Best smart speakers in 2026 tested", "url": "https://www.tomsguide.com/us/best-smart-speakers,review-4480.html", "source": "Tom's Guide" },
-        { "title": "Google Home Speaker with Gemini review", "url": "https://techcrunch.com/2025/10/01/google-teases-its-new-gemini-powered-google-home-speaker-coming-in-spring-2026/", "source": "TechCrunch" }
+        {
+          "title": "Best Smart Speakers 2026",
+          "url": "https://www.rtings.com/speaker/reviews/best/smart",
+          "source": "RTINGS.com"
+        },
+        {
+          "title": "Best smart speakers in 2026 tested",
+          "url": "https://www.tomsguide.com/us/best-smart-speakers,review-4480.html",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "Google Home Speaker with Gemini review",
+          "url": "https://techcrunch.com/2025/10/01/google-teases-its-new-gemini-powered-google-home-speaker-coming-in-spring-2026/",
+          "source": "TechCrunch"
+        }
       ],
       "i18n": {
         "en": {
@@ -298,20 +536,131 @@
     {
       "date": "2026-04-18",
       "rankings": [
-        { "id": "amazon-echo-studio-2nd-gen", "rank": 1, "score": 9.0, "scores": { "soundQuality": 8.8, "smartHomeIntegration": 9.5, "voiceAssistant": 9.0, "valueForMoney": 8.0, "design": 8.0 } },
-        { "id": "sonos-era-100", "rank": 2, "score": 8.7, "scores": { "soundQuality": 9.5, "smartHomeIntegration": 7.5, "voiceAssistant": 7.5, "valueForMoney": 8.5, "design": 9.0 } },
-        { "id": "apple-homepod-2nd-gen", "rank": 3, "score": 8.4, "scores": { "soundQuality": 9.0, "smartHomeIntegration": 8.5, "voiceAssistant": 7.0, "valueForMoney": 7.5, "design": 9.5 } },
-        { "id": "sonos-era-300", "rank": 4, "score": 8.2, "scores": { "soundQuality": 9.8, "smartHomeIntegration": 7.5, "voiceAssistant": 7.5, "valueForMoney": 6.5, "design": 9.0 } },
-        { "id": "google-home-speaker-2026", "rank": 5, "score": 8.1, "scores": { "soundQuality": 7.5, "smartHomeIntegration": 8.5, "voiceAssistant": 9.5, "valueForMoney": 9.0, "design": 8.0 } },
-        { "id": "jbl-authentics-500", "rank": 6, "score": 7.9, "scores": { "soundQuality": 9.2, "smartHomeIntegration": 7.5, "voiceAssistant": 8.5, "valueForMoney": 6.0, "design": 9.0 } },
-        { "id": "amazon-echo-4th-gen", "rank": 7, "score": 7.8, "scores": { "soundQuality": 7.5, "smartHomeIntegration": 9.0, "voiceAssistant": 8.5, "valueForMoney": 8.5, "design": 7.5 } },
-        { "id": "amazon-echo-dot-5th-gen", "rank": 8, "score": 7.4, "scores": { "soundQuality": 6.5, "smartHomeIntegration": 8.5, "voiceAssistant": 8.5, "valueForMoney": 9.5, "design": 7.0 } },
-        { "id": "apple-homepod-mini", "rank": 9, "score": 7.2, "scores": { "soundQuality": 7.5, "smartHomeIntegration": 8.5, "voiceAssistant": 7.0, "valueForMoney": 9.0, "design": 8.5 } }
+        {
+          "id": "amazon-echo-studio-2nd-gen",
+          "rank": 1,
+          "score": 9.0,
+          "scores": {
+            "soundQuality": 8.8,
+            "smartHomeIntegration": 9.5,
+            "voiceAssistant": 9.0,
+            "valueForMoney": 8.0,
+            "design": 8.0
+          }
+        },
+        {
+          "id": "sonos-era-100",
+          "rank": 2,
+          "score": 8.7,
+          "scores": {
+            "soundQuality": 9.5,
+            "smartHomeIntegration": 7.5,
+            "voiceAssistant": 7.5,
+            "valueForMoney": 8.5,
+            "design": 9.0
+          }
+        },
+        {
+          "id": "apple-homepod-2nd-gen",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "soundQuality": 9.0,
+            "smartHomeIntegration": 8.5,
+            "voiceAssistant": 7.0,
+            "valueForMoney": 7.5,
+            "design": 9.5
+          }
+        },
+        {
+          "id": "sonos-era-300",
+          "rank": 4,
+          "score": 8.2,
+          "scores": {
+            "soundQuality": 9.8,
+            "smartHomeIntegration": 7.5,
+            "voiceAssistant": 7.5,
+            "valueForMoney": 6.5,
+            "design": 9.0
+          }
+        },
+        {
+          "id": "google-home-speaker-2026",
+          "rank": 5,
+          "score": 8.1,
+          "scores": {
+            "soundQuality": 7.5,
+            "smartHomeIntegration": 8.5,
+            "voiceAssistant": 9.5,
+            "valueForMoney": 9.0,
+            "design": 8.0
+          }
+        },
+        {
+          "id": "jbl-authentics-500",
+          "rank": 6,
+          "score": 7.9,
+          "scores": {
+            "soundQuality": 9.2,
+            "smartHomeIntegration": 7.5,
+            "voiceAssistant": 8.5,
+            "valueForMoney": 6.0,
+            "design": 9.0
+          }
+        },
+        {
+          "id": "amazon-echo-4th-gen",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "soundQuality": 7.5,
+            "smartHomeIntegration": 9.0,
+            "voiceAssistant": 8.5,
+            "valueForMoney": 8.5,
+            "design": 7.5
+          }
+        },
+        {
+          "id": "amazon-echo-dot-5th-gen",
+          "rank": 8,
+          "score": 7.4,
+          "scores": {
+            "soundQuality": 6.5,
+            "smartHomeIntegration": 8.5,
+            "voiceAssistant": 8.5,
+            "valueForMoney": 9.5,
+            "design": 7.0
+          }
+        },
+        {
+          "id": "apple-homepod-mini",
+          "rank": 9,
+          "score": 7.2,
+          "scores": {
+            "soundQuality": 7.5,
+            "smartHomeIntegration": 8.5,
+            "voiceAssistant": 7.0,
+            "valueForMoney": 9.0,
+            "design": 8.5
+          }
+        }
       ],
       "references": [
-        { "title": "Best Smart Speakers 2026", "url": "https://www.rtings.com/speaker/reviews/best/smart", "source": "RTINGS.com" },
-        { "title": "Best smart speakers in 2026 tested", "url": "https://www.tomsguide.com/us/best-smart-speakers,review-4480.html", "source": "Tom's Guide" },
-        { "title": "Amazon Echo Studio 2nd Gen review", "url": "https://www.tomsguide.com/audio/smart-speakers/amazon-echo-studio-2025-review", "source": "Tom's Guide" }
+        {
+          "title": "Best Smart Speakers 2026",
+          "url": "https://www.rtings.com/speaker/reviews/best/smart",
+          "source": "RTINGS.com"
+        },
+        {
+          "title": "Best smart speakers in 2026 tested",
+          "url": "https://www.tomsguide.com/us/best-smart-speakers,review-4480.html",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "Amazon Echo Studio 2nd Gen review",
+          "url": "https://www.tomsguide.com/audio/smart-speakers/amazon-echo-studio-2025-review",
+          "source": "Tom's Guide"
+        }
       ],
       "i18n": {
         "en": {
@@ -353,6 +702,162 @@
             {
               "title": "Sonos Era 300 的空間音訊表現不受企業新聞影響",
               "body": "Sonos Era 300 在這份排行裡拿到最高的 9.8 音質分，反映 Dolby Atmos 空間音效實作能從桌面音箱產生真實的高度感知。Sonos 的財務重組持續是音響社群的話題，但 Era 300 的聲學表現數據沒有改變，產品依然可以購買。對想要最好聽的智慧音箱、不管預算、且對 Sonos 現況有所了解後仍然願意購買的買家，Era 300 這週依然提供這個類別裡最令人印象深刻的音訊輸出。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-04-19",
+      "rankings": [
+        {
+          "id": "amazon-echo-studio-2nd-gen",
+          "rank": 1,
+          "score": 9.0,
+          "scores": {
+            "soundQuality": 8.8,
+            "smartHomeIntegration": 9.5,
+            "voiceAssistant": 9.0,
+            "valueForMoney": 8.0,
+            "design": 8.0
+          }
+        },
+        {
+          "id": "sonos-era-100",
+          "rank": 2,
+          "score": 8.7,
+          "scores": {
+            "soundQuality": 9.5,
+            "smartHomeIntegration": 7.5,
+            "voiceAssistant": 7.5,
+            "valueForMoney": 8.5,
+            "design": 9.0
+          }
+        },
+        {
+          "id": "apple-homepod-2nd-gen",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "soundQuality": 9.0,
+            "smartHomeIntegration": 8.5,
+            "voiceAssistant": 7.0,
+            "valueForMoney": 7.5,
+            "design": 9.5
+          }
+        },
+        {
+          "id": "sonos-era-300",
+          "rank": 4,
+          "score": 8.2,
+          "scores": {
+            "soundQuality": 9.8,
+            "smartHomeIntegration": 7.5,
+            "voiceAssistant": 7.5,
+            "valueForMoney": 6.5,
+            "design": 9.0
+          }
+        },
+        {
+          "id": "google-home-speaker-2026",
+          "rank": 5,
+          "score": 8.1,
+          "scores": {
+            "soundQuality": 7.5,
+            "smartHomeIntegration": 8.5,
+            "voiceAssistant": 9.5,
+            "valueForMoney": 9.0,
+            "design": 8.0
+          }
+        },
+        {
+          "id": "jbl-authentics-500",
+          "rank": 6,
+          "score": 7.9,
+          "scores": {
+            "soundQuality": 9.2,
+            "smartHomeIntegration": 7.5,
+            "voiceAssistant": 8.5,
+            "valueForMoney": 6.0,
+            "design": 9.0
+          }
+        },
+        {
+          "id": "amazon-echo-4th-gen",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "soundQuality": 7.5,
+            "smartHomeIntegration": 9.0,
+            "voiceAssistant": 8.5,
+            "valueForMoney": 8.5,
+            "design": 7.5
+          }
+        },
+        {
+          "id": "amazon-echo-dot-5th-gen",
+          "rank": 8,
+          "score": 7.4,
+          "scores": {
+            "soundQuality": 6.5,
+            "smartHomeIntegration": 8.5,
+            "voiceAssistant": 8.5,
+            "valueForMoney": 9.5,
+            "design": 7.0
+          }
+        },
+        {
+          "id": "apple-homepod-mini",
+          "rank": 9,
+          "score": 7.2,
+          "scores": {
+            "soundQuality": 7.5,
+            "smartHomeIntegration": 8.5,
+            "voiceAssistant": 7.0,
+            "valueForMoney": 9.0,
+            "design": 8.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best smart speakers 2026: top Alexa and Google picks tested",
+          "url": "https://www.tomsguide.com/best-picks/best-smart-speakers",
+          "source": "Tom's Guide"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Smart speaker rankings hold steady this week. The Amazon Echo Studio 2nd Gen holds #1 on the combination of smart home integration, voice assistant capability, and sound quality — 9.5 smart home integration and 9.0 voice assistant scores reflect Alexa's breadth of device compatibility and skills. For buyers who want a single device that handles music, home control, and information, the Echo Studio is the most complete answer. Sonos Era 100 at #2 is the audio-first choice — 9.5 sound quality is the highest shared score in this ranking, and the Sonos multi-room ecosystem is the most seamless home audio network available. HomePod 2nd Gen at #3 is for Apple HomeKit households where Siri's tight ecosystem integration and the room-sensing audio adaptation matter more than voice assistant breadth.",
+          "highlights": [
+            {
+              "title": "Amazon Echo Studio 2nd Gen leads on smart home integration breadth",
+              "body": "Alexa's device compatibility covers more smart home brands and protocols than any competing voice assistant. The 9.5 smart home integration score reflects real-world command reliability across thermostats, lights, locks, and appliances. For mixed-brand smart home setups, Alexa is the most reliable integration layer."
+            },
+            {
+              "title": "Sonos Era 100 at #2 delivers the best sound quality in this ranking",
+              "body": "9.5 sound quality outperforms the Echo Studio on pure audio fidelity with better stereo imaging and a more balanced frequency response. The Sonos multi-room ecosystem synchronizes playback across rooms without latency drift. For buyers who prioritize music listening over smart home control, Sonos is the answer."
+            },
+            {
+              "title": "Google Home 2026 at #5 for the best voice assistant accuracy",
+              "body": "Google Assistant's 9.5 voice score reflects its natural language understanding and search quality. For factual queries, Google's knowledge graph produces more accurate answers than Alexa. The 9.0 value score makes it accessible. The trade-off is smart home integration at 8.5, which is solid but narrower than Alexa's compatibility."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "智慧喇叭市場這週沒有新動作，排名維持穩定。Amazon Echo Studio 2nd Gen 以智慧家居整合、語音助理和音質的三重優勢守住第 1，Alexa 的裝置相容性是目前最廣的，智慧家居整合分數 9.5 反映它在各品牌設備間的實際控制可靠性。Sonos Era 100 第 2 名音質分數 9.5 是整個排名最高，多房間同步播放是 Sonos 生態系最核心的優勢，對以音樂聆聽為主的用戶是更好的選擇。Apple HomePod 2nd Gen 第 3 名在 Apple HomeKit 生態系裡的整合最深，房間感測音頻調整是這個排名裡最智慧的音場自動優化功能。",
+          "highlights": [
+            {
+              "title": "Amazon Echo Studio 以智慧家居整合廣度守住第 1",
+              "body": "Alexa 支援的智慧家居品牌和協議數量比其他語音助理多，跨品牌混搭設備的家庭 Alexa 是最可靠的控制中心。智慧家居整合分數 9.5 反映真實使用中對恆溫器、燈光、門鎖、家電的指令成功率。"
+            },
+            {
+              "title": "Sonos Era 100 第 2 名音質是整個排名最高",
+              "body": "音質分數 9.5 超過 Echo Studio，立體聲成像和頻率響應平衡都更好。Sonos 多房間系統讓各房間同步播放沒有延遲漂移，音樂聆聽體驗是這個排名裡最好的。音樂優先的用戶第一推薦是 Sonos 而不是 Echo。"
+            },
+            {
+              "title": "Google Home 2026 第 5 名語音助理準確度最高",
+              "body": "Google Assistant 語音分數 9.5，自然語言理解和知識搜尋準確度比 Alexa 強，特別是需要事實查詢的場景。價值分數 9.0 讓它價格合理。智慧家居整合分數 8.5，兼容性比 Alexa 略窄是主要限制。"
             }
           ]
         }

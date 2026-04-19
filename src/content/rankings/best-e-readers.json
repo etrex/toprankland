@@ -1630,16 +1630,136 @@
     {
       "date": "2026-04-18",
       "rankings": [
-        { "id": "kindle-paperwhite-2025", "rank": 1, "score": 9.2, "scores": { "readingExp": 9.5, "display": 9.2, "portability": 9.0, "battery": 9.5, "ecosystem": 9.5, "value": 8.5 } },
-        { "id": "kobo-libra-colour", "rank": 2, "score": 8.7, "scores": { "readingExp": 9.0, "display": 8.8, "portability": 8.5, "battery": 9.0, "ecosystem": 8.0, "value": 9.5 } },
-        { "id": "kindle-colorsoft", "rank": 3, "score": 8.4, "scores": { "readingExp": 8.5, "display": 9.0, "portability": 8.5, "battery": 8.5, "ecosystem": 9.5, "value": 7.5 } },
-        { "id": "kobo-clara-colour", "rank": 4, "score": 8.1, "scores": { "readingExp": 8.5, "display": 8.5, "portability": 9.0, "battery": 8.5, "ecosystem": 7.5, "value": 9.0 } },
-        { "id": "boox-palma-2", "rank": 5, "score": 7.9, "scores": { "readingExp": 8.0, "display": 8.0, "portability": 9.5, "battery": 7.5, "ecosystem": 7.0, "value": 8.0 } },
-        { "id": "kobo-clara-bw", "rank": 6, "score": 7.7, "scores": { "readingExp": 8.5, "display": 8.0, "portability": 9.0, "battery": 9.0, "ecosystem": 7.5, "value": 9.5 } },
-        { "id": "boox-page", "rank": 7, "score": 7.5, "scores": { "readingExp": 7.5, "display": 7.5, "portability": 9.5, "battery": 8.0, "ecosystem": 7.0, "value": 8.5 } },
-        { "id": "kindle-scribe-2025", "rank": 8, "score": 7.5, "scores": { "readingExp": 8.0, "display": 8.5, "portability": 6.5, "battery": 8.0, "ecosystem": 9.0, "value": 7.0 } },
-        { "id": "remarkable-2", "rank": 9, "score": 7.0, "scores": { "readingExp": 7.0, "display": 8.0, "portability": 7.0, "battery": 8.5, "ecosystem": 6.0, "value": 6.5 } },
-        { "id": "boox-poke5", "rank": 10, "score": 7.9, "scores": { "readingExp": 7.0, "display": 7.5, "portability": 9.5, "battery": 7.5, "ecosystem": 7.0, "value": 9.0 } }
+        {
+          "id": "kindle-paperwhite-2025",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "readingExp": 9.5,
+            "display": 9.2,
+            "portability": 9.0,
+            "battery": 9.5,
+            "ecosystem": 9.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "kobo-libra-colour",
+          "rank": 2,
+          "score": 8.7,
+          "scores": {
+            "readingExp": 9.0,
+            "display": 8.8,
+            "portability": 8.5,
+            "battery": 9.0,
+            "ecosystem": 8.0,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "kindle-colorsoft",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "readingExp": 8.5,
+            "display": 9.0,
+            "portability": 8.5,
+            "battery": 8.5,
+            "ecosystem": 9.5,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "kobo-clara-colour",
+          "rank": 4,
+          "score": 8.1,
+          "scores": {
+            "readingExp": 8.5,
+            "display": 8.5,
+            "portability": 9.0,
+            "battery": 8.5,
+            "ecosystem": 7.5,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "boox-palma-2",
+          "rank": 5,
+          "score": 7.9,
+          "scores": {
+            "readingExp": 8.0,
+            "display": 8.0,
+            "portability": 9.5,
+            "battery": 7.5,
+            "ecosystem": 7.0,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "kobo-clara-bw",
+          "rank": 6,
+          "score": 7.7,
+          "scores": {
+            "readingExp": 8.5,
+            "display": 8.0,
+            "portability": 9.0,
+            "battery": 9.0,
+            "ecosystem": 7.5,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "boox-page",
+          "rank": 7,
+          "score": 7.5,
+          "scores": {
+            "readingExp": 7.5,
+            "display": 7.5,
+            "portability": 9.5,
+            "battery": 8.0,
+            "ecosystem": 7.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "kindle-scribe-2025",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "readingExp": 8.0,
+            "display": 8.5,
+            "portability": 6.5,
+            "battery": 8.0,
+            "ecosystem": 9.0,
+            "value": 7.0
+          }
+        },
+        {
+          "id": "remarkable-2",
+          "rank": 9,
+          "score": 7.0,
+          "scores": {
+            "readingExp": 7.0,
+            "display": 8.0,
+            "portability": 7.0,
+            "battery": 8.5,
+            "ecosystem": 6.0,
+            "value": 6.5
+          }
+        },
+        {
+          "id": "boox-poke5",
+          "rank": 10,
+          "score": 7.9,
+          "scores": {
+            "readingExp": 7.0,
+            "display": 7.5,
+            "portability": 9.5,
+            "battery": 7.5,
+            "ecosystem": 7.0,
+            "value": 9.0
+          }
+        }
       ],
       "references": [
         {
@@ -1694,6 +1814,184 @@
             {
               "title": "想買 Kobo 的話，等 48 到 72 小時再決定",
               "body": "春季驚喜發表今天展開，產品細節應該在 24 小時內公開。如果新款 Libra 2 Colour 在彩色螢幕品質、電池或做工上有升級，今天買舊款就是花同樣的錢買上一代。等待的風險很低，Kobo 改款通常不大幅漲價，而且一般都是即時開放購買或幾週內開始出貨。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-04-19",
+      "rankings": [
+        {
+          "id": "kindle-paperwhite-2025",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "readingExp": 9.5,
+            "display": 9.2,
+            "portability": 9.0,
+            "battery": 9.5,
+            "ecosystem": 9.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "kobo-libra-colour",
+          "rank": 2,
+          "score": 8.7,
+          "scores": {
+            "readingExp": 9.0,
+            "display": 8.8,
+            "portability": 8.5,
+            "battery": 9.0,
+            "ecosystem": 8.0,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "kindle-colorsoft",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "readingExp": 8.5,
+            "display": 9.0,
+            "portability": 8.5,
+            "battery": 8.5,
+            "ecosystem": 9.5,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "kobo-clara-colour",
+          "rank": 4,
+          "score": 8.1,
+          "scores": {
+            "readingExp": 8.5,
+            "display": 8.5,
+            "portability": 9.0,
+            "battery": 8.5,
+            "ecosystem": 7.5,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "boox-palma-2",
+          "rank": 5,
+          "score": 7.9,
+          "scores": {
+            "readingExp": 8.0,
+            "display": 8.0,
+            "portability": 9.5,
+            "battery": 7.5,
+            "ecosystem": 7.0,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "kobo-clara-bw",
+          "rank": 6,
+          "score": 7.7,
+          "scores": {
+            "readingExp": 8.5,
+            "display": 8.0,
+            "portability": 9.0,
+            "battery": 9.0,
+            "ecosystem": 7.5,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "boox-page",
+          "rank": 7,
+          "score": 7.5,
+          "scores": {
+            "readingExp": 7.5,
+            "display": 7.5,
+            "portability": 9.5,
+            "battery": 8.0,
+            "ecosystem": 7.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "kindle-scribe-2025",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "readingExp": 8.0,
+            "display": 8.5,
+            "portability": 6.5,
+            "battery": 8.0,
+            "ecosystem": 9.0,
+            "value": 7.0
+          }
+        },
+        {
+          "id": "remarkable-2",
+          "rank": 9,
+          "score": 7.0,
+          "scores": {
+            "readingExp": 7.0,
+            "display": 8.0,
+            "portability": 7.0,
+            "battery": 8.5,
+            "ecosystem": 6.0,
+            "value": 6.5
+          }
+        },
+        {
+          "id": "boox-poke5",
+          "rank": 10,
+          "score": 7.9,
+          "scores": {
+            "readingExp": 7.0,
+            "display": 7.5,
+            "portability": 9.5,
+            "battery": 7.5,
+            "ecosystem": 7.0,
+            "value": 9.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best e-readers 2026: top Kindle and Kobo picks",
+          "url": "https://www.tomsguide.com/best-picks/best-ereader",
+          "source": "Tom's Guide"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "E-reader rankings are stable this week. The Kindle Paperwhite 2025 holds #1 on reading experience, battery life, and ecosystem depth — Kindle's library access and X-Ray feature remain unmatched. Battery at 9.5 translates to weeks of reading per charge, which is meaningful for travel. The Kobo Libra Colour at #2 is the best choice for buyers who want color display without paying Kindle Colorsoft pricing. The physical page-turn buttons are a usability advantage for one-handed reading that the Kindles lack. Kindle Colorsoft at #3 delivers better color rendering than the Kobo Colour but at a higher price that isn't always justified by the improvement. Boox Palma 2 at #5 is the phone-sized reading device for people who want pocket portability — 9.5 portability score reflects its genuinely pocketable size.",
+          "highlights": [
+            {
+              "title": "Kindle Paperwhite 2025 holds #1 on battery and ecosystem",
+              "body": "Weeks of battery per charge is the practical advantage that most e-reader comparisons underemphasize. The Kindle ecosystem's library depth, Goodreads integration, and X-Ray reading assistance are features that Kobo's platform approaches but doesn't fully replicate. For dedicated readers who want the best reading experience, the Paperwhite 2025 is the answer."
+            },
+            {
+              "title": "Kobo Libra Colour at #2 for color reading with physical buttons",
+              "body": "Color E Ink display renders comic book panels and illustrated children's books meaningfully better than black-and-white. Physical page-turn buttons on both sides enable comfortable one-handed reading on public transit or in bed. At a lower price than the Kindle Colorsoft, this represents the better value for color e-reading."
+            },
+            {
+              "title": "Boox Palma 2 at #5 is the only truly pocketable e-reader",
+              "body": "Phone-sized form factor at 9.5 portability score means it fits in a jeans pocket without a bag. Android OS enables side-loading reading apps beyond the Boox store. The trade-off is shorter battery life at 7.5 and a less curated reading ecosystem than Kindle or Kobo."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "電子書閱讀器市場這週沒有新動作，排名穩定。Kindle Paperwhite 2025 以閱讀體驗、電池續航和生態系深度守住第 1，電池可以撐好幾週不需充電，Kindle 書庫、X-Ray 閱讀輔助功能是競品目前追不上的。Kobo Libra Colour 第 2 名是想要彩色顯示又不想付 Kindle Colorsoft 售價的最好選擇，實體翻頁按鍵對單手持機閱讀很友善，Kindle 系列目前都沒有這個設計。Boox Palma 2 第 5 名是唯一真正可以塞進褲子口袋的電子書閱讀器，Android 系統讓它可以安裝第三方閱讀 App，適合跨平台書庫的用戶。",
+          "highlights": [
+            {
+              "title": "Kindle Paperwhite 2025 以電池續航和生態系守住第 1",
+              "body": "幾週不充電的電池壽命在旅行或閱讀密集時期是實質的優勢，不需要為了充電中斷閱讀節奏。Kindle 書庫的深度和 X-Ray 功能是其他平台努力追趕的標竿。"
+            },
+            {
+              "title": "Kobo Libra Colour 是彩色閱讀加實體按鍵的最佳組合",
+              "body": "彩色 E Ink 讓漫畫和插圖童書的顯示效果比黑白顯示器好很多，實體翻頁鍵讓單手在捷運或床上閱讀更舒適。售價比 Kindle Colorsoft 低，是彩色電子書閱讀器中最值得買的選擇。"
+            },
+            {
+              "title": "Boox Palma 2 是唯一真正可以放進口袋的電子書閱讀器",
+              "body": "手機尺寸的機身讓它可以塞進牛仔褲口袋，攜帶性分數 9.5。Android 系統支援第三方閱讀 App，適合同時使用 Kindle、Kobo、PocketBook 等多個平台書庫的讀者。"
             }
           ]
         }

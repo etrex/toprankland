@@ -2956,17 +2956,138 @@
     {
       "date": "2026-04-18",
       "rankings": [
-        { "id": "sony-wh-1000xm6", "rank": 1, "score": 9.0, "scores": { "soundQuality": 9.5, "noiseCancellation": 9.5, "comfort": 8.5, "batteryLife": 9.0, "value": 8.5 } },
-        { "id": "bose-quietcomfort-ultra", "rank": 2, "score": 8.9, "scores": { "soundQuality": 9.0, "noiseCancellation": 9.5, "comfort": 9.5, "batteryLife": 8.5, "value": 8.0 } },
-        { "id": "sennheiser-momentum-4", "rank": 3, "score": 8.8, "scores": { "soundQuality": 9.5, "noiseCancellation": 8.5, "comfort": 9.0, "batteryLife": 9.5, "value": 8.5 } },
-        { "id": "apple-airpods-max", "rank": 4, "score": 8.6, "scores": { "soundQuality": 9.5, "noiseCancellation": 9.0, "comfort": 8.5, "batteryLife": 7.5, "value": 7.5 } },
-        { "id": "soundcore-space-2", "rank": 5, "score": 8.5, "scores": { "soundQuality": 8.5, "noiseCancellation": 8.5, "comfort": 8.5, "batteryLife": 9.0, "value": 9.5 } },
-        { "id": "soundcore-space-q45", "rank": 6, "score": 8.4, "scores": { "soundQuality": 8.0, "noiseCancellation": 8.5, "comfort": 8.5, "batteryLife": 9.5, "value": 9.5 } },
-        { "id": "sony-wh-ch720n", "rank": 7, "score": 8.3, "scores": { "soundQuality": 8.0, "noiseCancellation": 8.0, "comfort": 8.5, "batteryLife": 9.0, "value": 9.5 } },
-        { "id": "bowers-wilkins-px8", "rank": 8, "score": 8.2, "scores": { "soundQuality": 9.5, "noiseCancellation": 8.0, "comfort": 9.0, "batteryLife": 7.5, "value": 7.0 } },
-        { "id": "bose-quietcomfort-45", "rank": 9, "score": 8.0, "scores": { "soundQuality": 8.5, "noiseCancellation": 8.5, "comfort": 9.0, "batteryLife": 8.5, "value": 8.5 } },
-        { "id": "jabra-evolve2-85", "rank": 10, "score": 7.9, "scores": { "soundQuality": 8.0, "noiseCancellation": 8.5, "comfort": 8.5, "batteryLife": 8.5, "value": 8.0 } },
-        { "id": "microsoft-surface-headphones-2-plus", "rank": 11, "score": 7.7, "scores": { "soundQuality": 7.5, "noiseCancellation": 8.0, "comfort": 8.5, "batteryLife": 8.0, "value": 8.5 } }
+        {
+          "id": "sony-wh-1000xm6",
+          "rank": 1,
+          "score": 9.0,
+          "scores": {
+            "soundQuality": 9.5,
+            "noiseCancellation": 9.5,
+            "comfort": 8.5,
+            "batteryLife": 9.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "bose-quietcomfort-ultra",
+          "rank": 2,
+          "score": 8.9,
+          "scores": {
+            "soundQuality": 9.0,
+            "noiseCancellation": 9.5,
+            "comfort": 9.5,
+            "batteryLife": 8.5,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "sennheiser-momentum-4",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "soundQuality": 9.5,
+            "noiseCancellation": 8.5,
+            "comfort": 9.0,
+            "batteryLife": 9.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "apple-airpods-max",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "soundQuality": 9.5,
+            "noiseCancellation": 9.0,
+            "comfort": 8.5,
+            "batteryLife": 7.5,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "soundcore-space-2",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "soundQuality": 8.5,
+            "noiseCancellation": 8.5,
+            "comfort": 8.5,
+            "batteryLife": 9.0,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "soundcore-space-q45",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "soundQuality": 8.0,
+            "noiseCancellation": 8.5,
+            "comfort": 8.5,
+            "batteryLife": 9.5,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "sony-wh-ch720n",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "soundQuality": 8.0,
+            "noiseCancellation": 8.0,
+            "comfort": 8.5,
+            "batteryLife": 9.0,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "bowers-wilkins-px8",
+          "rank": 8,
+          "score": 8.2,
+          "scores": {
+            "soundQuality": 9.5,
+            "noiseCancellation": 8.0,
+            "comfort": 9.0,
+            "batteryLife": 7.5,
+            "value": 7.0
+          }
+        },
+        {
+          "id": "bose-quietcomfort-45",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "soundQuality": 8.5,
+            "noiseCancellation": 8.5,
+            "comfort": 9.0,
+            "batteryLife": 8.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "jabra-evolve2-85",
+          "rank": 10,
+          "score": 7.9,
+          "scores": {
+            "soundQuality": 8.0,
+            "noiseCancellation": 8.5,
+            "comfort": 8.5,
+            "batteryLife": 8.5,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "microsoft-surface-headphones-2-plus",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "soundQuality": 7.5,
+            "noiseCancellation": 8.0,
+            "comfort": 8.5,
+            "batteryLife": 8.0,
+            "value": 8.5
+          }
+        }
       ],
       "references": [
         {
@@ -3025,6 +3146,196 @@
             {
               "title": "Sennheiser Momentum 4 一週充一次電和每天充電是不同的產品類別",
               "body": "大多數降噪耳機用戶每一到兩天充電。Momentum 4 用戶一週充一次，這不是小小的方便差異，它讓電量追蹤從日常考量中消失。常跨時區旅行的人、不想管理充電排程的人、或有過帶著電量 12% 的耳機上飛機的人，60 小時電池是結構性優勢。音色調音是副因，但也很重要：Momentum 4 關掉 ANC 聽音樂的準確性是這份清單最高的。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-04-19",
+      "rankings": [
+        {
+          "id": "sony-wh-1000xm6",
+          "rank": 1,
+          "score": 9.0,
+          "scores": {
+            "soundQuality": 9.5,
+            "noiseCancellation": 9.5,
+            "comfort": 8.5,
+            "batteryLife": 9.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "bose-quietcomfort-ultra",
+          "rank": 2,
+          "score": 8.9,
+          "scores": {
+            "soundQuality": 9.0,
+            "noiseCancellation": 9.5,
+            "comfort": 9.5,
+            "batteryLife": 8.5,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "sennheiser-momentum-4",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "soundQuality": 9.5,
+            "noiseCancellation": 8.5,
+            "comfort": 9.0,
+            "batteryLife": 9.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "apple-airpods-max",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "soundQuality": 9.5,
+            "noiseCancellation": 9.0,
+            "comfort": 8.5,
+            "batteryLife": 7.5,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "soundcore-space-2",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "soundQuality": 8.5,
+            "noiseCancellation": 8.5,
+            "comfort": 8.5,
+            "batteryLife": 9.0,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "soundcore-space-q45",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "soundQuality": 8.0,
+            "noiseCancellation": 8.5,
+            "comfort": 8.5,
+            "batteryLife": 9.5,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "sony-wh-ch720n",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "soundQuality": 8.0,
+            "noiseCancellation": 8.0,
+            "comfort": 8.5,
+            "batteryLife": 9.0,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "bowers-wilkins-px8",
+          "rank": 8,
+          "score": 8.2,
+          "scores": {
+            "soundQuality": 9.5,
+            "noiseCancellation": 8.0,
+            "comfort": 9.0,
+            "batteryLife": 7.5,
+            "value": 7.0
+          }
+        },
+        {
+          "id": "bose-quietcomfort-45",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "soundQuality": 8.5,
+            "noiseCancellation": 8.5,
+            "comfort": 9.0,
+            "batteryLife": 8.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "jabra-evolve2-85",
+          "rank": 10,
+          "score": 7.9,
+          "scores": {
+            "soundQuality": 8.0,
+            "noiseCancellation": 8.5,
+            "comfort": 8.5,
+            "batteryLife": 8.5,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "microsoft-surface-headphones-2-plus",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "soundQuality": 7.5,
+            "noiseCancellation": 8.0,
+            "comfort": 8.5,
+            "batteryLife": 8.0,
+            "value": 8.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Sony's WH-1000XM6 Just Got a Sandstone Makeover – Plus Two More Headphones Leaked for Spring",
+          "url": "https://www.gsmgotech.com/2026/04/sonys-wh-1000xm6-just-got-sandstone.html",
+          "source": "GSMGoTech"
+        },
+        {
+          "title": "Sony's Next Flagship Headphones Outprice the XM6 and AirPods Max and Even Insiders Are Stumped",
+          "url": "https://www.headphonesty.com/2026/04/sony-leaked-collexion-headphones-airpods-max-bargain/",
+          "source": "Headphonesty"
+        },
+        {
+          "title": "I tested the new Sony WH-1000XM6 wireless headphones and they're better than Bose",
+          "url": "https://www.whathifi.com/headphones/sony-wh-1000xm6",
+          "source": "What Hi-Fi"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Sony is expanding the WH-1000XM6 lineup with a Sandstone color arriving May 19, and a premium tier called The ColleXion is reportedly priced at €629, placing it above both the XM6 and AirPods Max. That's notable positioning — Sony is clearly confident enough in the XM6's reception to build upward rather than discount. Current XM6 pricing has dropped 15% at Sony.com, Walmart, and Amazon, starting at $388. That's a meaningful value improvement for the #1 headphone in this category. The core ranking holds. Sony XM6 leads on ANC and sound quality with the QN3e processor's 10-band EQ and exceptional call handling. Bose QCU holds #2 on comfort — that PlaneRest design is the best for long-haul travel. Sennheiser Momentum 4 at #3 retains the best battery life (60 hours) and warmest sound signature in the top three.",
+          "highlights": [
+            {
+              "title": "Sony WH-1000XM6 now 15% off as Sony prepares to extend the lineup upward",
+              "body": "With The ColleXion teased at €629 and a Sandstone color dropping May 19, Sony is positioning the XM6 as the mid-tier of a three-level range. The current sale pricing at $388 makes the XM6 a stronger value buy than it was at launch. The 10-band EQ and QN3e processor remain the best ANC implementation in this price range."
+            },
+            {
+              "title": "Bose QuietComfort Ultra at #2 is the travel headphone pick",
+              "body": "Comfort holds the QCU at #2. The PlaneRest fit and Immersive Audio mode combine to make long-haul flights genuinely more bearable. ANC matches the XM6 in effectiveness, but Sony's sound tuning and call quality give the edge at the top."
+            },
+            {
+              "title": "Sennheiser Momentum 4 at #3 is the audiophile's choice in this ranking",
+              "body": "A 9.5 sound quality score reflects the warmest, most musically satisfying tuning in the top three. The 60-hour battery life is also the best here. If you prioritize sound character over maximum ANC effectiveness, the Momentum 4 is the pick."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Sony WH-1000XM6 這週有兩個新消息：砂石色新配色預計 5 月 19 日推出，售價和現有版本相同；另外有消息指出 Sony 正在準備名為 The ColleXion 的高端款式，定價約 €629（折合台幣約 NT$22,000），比 XM6 和 AirPods Max 都貴。從這個定價策略來看，Sony 對 XM6 的市場接受度相當有信心，選擇向上擴展而不是向下打折。目前 XM6 在部分通路有最高 15% 的折扣，美國售價降到 388 美元，對第 1 名的耳機來說這個售價更有吸引力。排名維持不變。Sony XM6 靠 QN3e 處理器的 10 段 EQ 和優異的通話質量守住第 1。Bose QCU 以舒適度守住第 2，長途飛行首選。Sennheiser Momentum 4 以 60 小時續航和最溫暖的音色調音維持第 3。",
+          "highlights": [
+            {
+              "title": "Sony WH-1000XM6 折扣 15%，同時準備向上延伸產品線",
+              "body": "The ColleXion 定位在 XM6 之上，砂石色新配色 5 月 19 日推出，XM6 本身現在有折扣促銷。這個策略顯示 XM6 被定位為中階旗艦，往上還有更高端的選擇。目前打折的 XM6 性價比比剛上市時更好，10 段 EQ 和頂尖主動降噪仍是這個價格帶最強的組合。"
+            },
+            {
+              "title": "Bose QuietComfort Ultra 第 2 名是長途旅行的最佳選擇",
+              "body": "PlaneRest 設計長戴不壓耳，加上 Immersive Audio 空間音效模式，長途飛行的使用體驗是這個排名裡最好的。降噪效能跟 XM6 旗鼓相當，音色調音偏好是選 Sony 還是 Bose 的主要判斷點。"
+            },
+            {
+              "title": "Sennheiser Momentum 4 第 3 名是音樂愛好者的首選",
+              "body": "音質分數 9.5，溫暖有層次的調音在這個排名裡最有音樂感。60 小時續航是整個排名最長。如果你比降噪效能更在意聽音樂時的愉悅感，Momentum 4 是最值得考慮的選項。"
             }
           ]
         }

@@ -2618,17 +2618,138 @@
     {
       "date": "2026-04-18",
       "rankings": [
-        { "id": "macbook-air-13-m5", "rank": 1, "score": 9.2, "scores": { "performance": 9.5, "display": 9.0, "battery": 9.5, "portability": 9.5, "value": 8.5 } },
-        { "id": "macbook-pro-14-m4-pro", "rank": 2, "score": 9.0, "scores": { "performance": 9.8, "display": 9.5, "battery": 9.0, "portability": 8.5, "value": 8.0 } },
-        { "id": "asus-zenbook-a16", "rank": 3, "score": 8.9, "scores": { "performance": 9.0, "display": 9.0, "battery": 9.0, "portability": 9.0, "value": 9.0 } },
-        { "id": "dell-xps-14-2026", "rank": 4, "score": 8.7, "scores": { "performance": 8.5, "display": 9.5, "battery": 9.5, "portability": 8.5, "value": 8.0 } },
-        { "id": "asus-zenbook-s14-oled", "rank": 5, "score": 8.5, "scores": { "performance": 8.5, "display": 9.5, "battery": 8.5, "portability": 9.0, "value": 8.5 } },
-        { "id": "lenovo-yoga-9i-2in1-aura", "rank": 6, "score": 8.3, "scores": { "performance": 8.0, "display": 9.0, "battery": 8.0, "portability": 8.5, "value": 8.5 } },
-        { "id": "razer-blade-16", "rank": 7, "score": 8.2, "scores": { "performance": 9.5, "display": 9.5, "battery": 7.0, "portability": 7.0, "value": 7.5 } },
-        { "id": "microsoft-surface-pro-11", "rank": 8, "score": 8.0, "scores": { "performance": 8.0, "display": 9.0, "battery": 8.5, "portability": 9.5, "value": 7.5 } },
-        { "id": "hp-spectre-x360-14", "rank": 9, "score": 7.9, "scores": { "performance": 7.5, "display": 9.0, "battery": 8.0, "portability": 8.5, "value": 8.5 } },
-        { "id": "acer-swift-go-16", "rank": 10, "score": 7.7, "scores": { "performance": 7.5, "display": 8.5, "battery": 8.0, "portability": 8.0, "value": 9.5 } },
-        { "id": "acer-aspire-go-15", "rank": 11, "score": 7.0, "scores": { "performance": 7.0, "display": 7.0, "battery": 8.0, "portability": 8.5, "value": 9.5 } }
+        {
+          "id": "macbook-air-13-m5",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "performance": 9.5,
+            "display": 9.0,
+            "battery": 9.5,
+            "portability": 9.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "macbook-pro-14-m4-pro",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "performance": 9.8,
+            "display": 9.5,
+            "battery": 9.0,
+            "portability": 8.5,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "asus-zenbook-a16",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "performance": 9.0,
+            "display": 9.0,
+            "battery": 9.0,
+            "portability": 9.0,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "dell-xps-14-2026",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "performance": 8.5,
+            "display": 9.5,
+            "battery": 9.5,
+            "portability": 8.5,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "asus-zenbook-s14-oled",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "performance": 8.5,
+            "display": 9.5,
+            "battery": 8.5,
+            "portability": 9.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "lenovo-yoga-9i-2in1-aura",
+          "rank": 6,
+          "score": 8.3,
+          "scores": {
+            "performance": 8.0,
+            "display": 9.0,
+            "battery": 8.0,
+            "portability": 8.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "razer-blade-16",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "performance": 9.5,
+            "display": 9.5,
+            "battery": 7.0,
+            "portability": 7.0,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "microsoft-surface-pro-11",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "performance": 8.0,
+            "display": 9.0,
+            "battery": 8.5,
+            "portability": 9.5,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "hp-spectre-x360-14",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "performance": 7.5,
+            "display": 9.0,
+            "battery": 8.0,
+            "portability": 8.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "acer-swift-go-16",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "performance": 7.5,
+            "display": 8.5,
+            "battery": 8.0,
+            "portability": 8.0,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "acer-aspire-go-15",
+          "rank": 11,
+          "score": 7.0,
+          "scores": {
+            "performance": 7.0,
+            "display": 7.0,
+            "battery": 8.0,
+            "portability": 8.5,
+            "value": 9.5
+          }
+        }
       ],
       "references": [
         {
@@ -2683,6 +2804,196 @@
             {
               "title": "MacBook Neo $599 傳聞若成真將重塑預算筆電市場",
               "body": "傳聞 Apple 準備推出售價 $599 搭載 Apple Silicon 的 MacBook Neo，瞄準 Chromebook 和預算 Windows 市場。如果成真，這會是 Apple 多年來在筆電類別最具破壞性的定價動作，目前在這份名單第 11 名的預算 Windows 機型會面臨直接挑戰。排名在確認硬體和定價後立刻更新，目前現有的預算推薦維持不變。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-04-19",
+      "rankings": [
+        {
+          "id": "macbook-air-13-m5",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "performance": 9.5,
+            "display": 9.0,
+            "battery": 9.5,
+            "portability": 9.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "macbook-pro-14-m4-pro",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "performance": 9.8,
+            "display": 9.5,
+            "battery": 9.0,
+            "portability": 8.5,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "asus-zenbook-a16",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "performance": 9.0,
+            "display": 9.0,
+            "battery": 9.0,
+            "portability": 9.0,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "dell-xps-14-2026",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "performance": 8.5,
+            "display": 9.5,
+            "battery": 9.5,
+            "portability": 8.5,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "asus-zenbook-s14-oled",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "performance": 8.5,
+            "display": 9.5,
+            "battery": 8.5,
+            "portability": 9.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "lenovo-yoga-9i-2in1-aura",
+          "rank": 6,
+          "score": 8.3,
+          "scores": {
+            "performance": 8.0,
+            "display": 9.0,
+            "battery": 8.0,
+            "portability": 8.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "razer-blade-16",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "performance": 9.5,
+            "display": 9.5,
+            "battery": 7.0,
+            "portability": 7.0,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "microsoft-surface-pro-11",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "performance": 8.0,
+            "display": 9.0,
+            "battery": 8.5,
+            "portability": 9.5,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "hp-spectre-x360-14",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "performance": 7.5,
+            "display": 9.0,
+            "battery": 8.0,
+            "portability": 8.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "acer-swift-go-16",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "performance": 7.5,
+            "display": 8.5,
+            "battery": 8.0,
+            "portability": 8.0,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "acer-aspire-go-15",
+          "rank": 11,
+          "score": 7.0,
+          "scores": {
+            "performance": 7.0,
+            "display": 7.0,
+            "battery": 8.0,
+            "portability": 8.5,
+            "value": 9.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "MacBook Air M5 review: Almost perfect",
+          "url": "https://www.tomsguide.com/computing/macbooks/macbook-air-m5-review",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "Apple introduces the new MacBook Air with M5",
+          "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
+          "source": "Apple Newsroom"
+        },
+        {
+          "title": "M5 MacBook Air (2026) Review: No Longer The Budget MacBook",
+          "url": "https://www.bgr.com/2131659/macbook-air-m5-review/",
+          "source": "BGR"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The MacBook Air M5 review cycle is complete, and the verdict is consistent: best laptop for most people, with a $100 price increase that raises the entry point without changing the recommendation. The M5 chip delivers 28% faster unified memory bandwidth at 153GB/s versus M4, and Apple doubles base storage to 512GB. Tom's Guide calls it 'almost perfect.' BGR notes it's 'no longer the budget MacBook' — Apple's new MacBook Neo now handles that role. That repositioning is worth noting: the MacBook Air M5 is now squarely a premium mainstream laptop, and it competes against ASUS Zenbook A16 and Dell XPS 14 on performance, not price. The Zenbook A16 at #3 remains the strongest Windows alternative, pairing competitive CPU performance with a display and battery that match the MacBook Air tier. Rankings hold steady across the board today.",
+          "highlights": [
+            {
+              "title": "MacBook Air M5 is still the best laptop for most people despite the price hike",
+              "body": "The M5 chip brings 28% faster memory bandwidth, 512GB base storage, and the same fan-less design. At the new price point it costs more than it used to, but the performance-to-battery ratio remains unmatched in this form factor. If you don't need a dedicated GPU, this is the straightforward recommendation."
+            },
+            {
+              "title": "ASUS Zenbook A16 is the strongest Windows laptop in this tier",
+              "body": "The Zenbook A16 scores 9.0 across performance, display, battery, and portability simultaneously — that balance is unusual for a Windows laptop. It's the right answer for users who need Windows compatibility without making meaningful compromises on thin-and-light priorities."
+            },
+            {
+              "title": "MacBook Pro 14 M4 Pro at #2 is for users who actually need the power",
+              "body": "The M4 Pro chip scores 9.8 on performance, and that lead is real for video editing, ML training, and compilation workloads. Battery life at 9.0 is solid for a pro-class machine. The price premium over the Air is justified only if you regularly hit the Air's limits."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "MacBook Air M5 的評測結果這週全部出齊了，結論一致：對多數人來說仍是最好買的筆電，但漲了大約 NT$3,000 的售價讓入門門檻提高了。M5 晶片的記憶體頻寬比 M4 快 28%，達到 153GB/s，基礎儲存空間從 256GB 翻倍到 512GB，這兩個升級都是有感的。Tom's Guide 的評語是「接近完美」。BGR 則注意到它「不再是平價 MacBook」，因為 Apple 新推出的 MacBook Neo 接手了那個定位。這個市場重新排列值得記住，MacBook Air M5 現在是旗艦主流筆電，跟 ASUS Zenbook A16 和 Dell XPS 14 在效能上競爭，不是在價格上競爭。Zenbook A16 在第 3 名依然是 Windows 最佳選擇，整體分數平衡是 Windows 筆電裡少見的。",
+          "highlights": [
+            {
+              "title": "MacBook Air M5 漲價仍是多數人的最佳選擇",
+              "body": "M5 晶片記憶體頻寬提升 28%，基礎容量升至 512GB，無風扇設計維持。新台幣售價約從 NT$36,900 起跳，貴了一些，但在這個機身厚度和重量下能跑出這種效能，Windows 陣營目前沒有真正對等的競爭對手。"
+            },
+            {
+              "title": "ASUS Zenbook A16 是 Windows 陣營最均衡的選擇",
+              "body": "效能、螢幕、續航、攜帶性四項分數都拿到 9.0，這種全面的平衡在 Windows 筆電裡很難得。需要 Windows 環境又不想在輕薄上妥協的用戶，Zenbook A16 是第一推薦。"
+            },
+            {
+              "title": "MacBook Pro 14 M4 Pro 適合真正有專業需求的用戶",
+              "body": "M4 Pro 的效能分數 9.8，這個差距在影片剪輯、機器學習、大型編譯任務上是真實可感受的。售價比 Air 貴一大截，值不值得加錢，取決於你有多常遇到 Air 效能上限。"
             }
           ]
         }

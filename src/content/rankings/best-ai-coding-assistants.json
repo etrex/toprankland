@@ -2977,22 +2977,155 @@
     {
       "date": "2026-04-17",
       "rankings": [
-        { "id": "claude-code", "rank": 1, "score": 8.9, "scores": { "codeQuality": 9.5, "contextWindow": 9.0, "ideIntegration": 8.0, "agenticCapability": 9.5, "valueForMoney": 8.5 } },
-        { "id": "cursor", "rank": 2, "score": 8.9, "scores": { "codeQuality": 9.0, "contextWindow": 8.5, "ideIntegration": 9.5, "agenticCapability": 9.0, "valueForMoney": 8.5 } },
-        { "id": "github-copilot", "rank": 3, "score": 8.5, "scores": { "codeQuality": 8.5, "contextWindow": 8.0, "ideIntegration": 9.5, "agenticCapability": 8.0, "valueForMoney": 8.5 } },
-        { "id": "openai-codex", "rank": 4, "score": 8.3, "scores": { "codeQuality": 8.5, "contextWindow": 8.0, "ideIntegration": 7.5, "agenticCapability": 8.5, "valueForMoney": 8.0 } },
-        { "id": "google-jules", "rank": 5, "score": 8.2, "scores": { "codeQuality": 8.0, "contextWindow": 8.5, "ideIntegration": 7.5, "agenticCapability": 8.5, "valueForMoney": 8.5 } },
-        { "id": "devin", "rank": 6, "score": 8.0, "scores": { "codeQuality": 8.0, "contextWindow": 8.0, "ideIntegration": 7.5, "agenticCapability": 9.0, "valueForMoney": 7.0 } },
-        { "id": "amazon-q-developer", "rank": 7, "score": 7.8, "scores": { "codeQuality": 7.5, "contextWindow": 8.0, "ideIntegration": 8.5, "agenticCapability": 7.5, "valueForMoney": 8.0 } },
-        { "id": "zed", "rank": 8, "score": 7.8, "scores": { "codeQuality": 8.0, "contextWindow": 7.5, "ideIntegration": 8.5, "agenticCapability": 7.0, "valueForMoney": 8.5 } },
-        { "id": "aider", "rank": 9, "score": 7.7, "scores": { "codeQuality": 8.0, "contextWindow": 8.0, "ideIntegration": 7.0, "agenticCapability": 8.0, "valueForMoney": 9.5 } },
-        { "id": "windsurf", "rank": 10, "score": 7.7, "scores": { "codeQuality": 7.5, "contextWindow": 8.0, "ideIntegration": 8.5, "agenticCapability": 7.5, "valueForMoney": 8.0 } },
-        { "id": "augment-code", "rank": 11, "score": 7.6, "scores": { "codeQuality": 7.5, "contextWindow": 8.0, "ideIntegration": 8.0, "agenticCapability": 7.5, "valueForMoney": 7.5 } }
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 8.9,
+          "scores": {
+            "codeQuality": 9.5,
+            "contextWindow": 9.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 8.9,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 3,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
       ],
       "references": [
-        { "title": "Cursor vs Claude Code vs GitHub Copilot 2026", "url": "https://www.nxcode.io/resources/news/cursor-vs-claude-code-vs-github-copilot-2026-ultimate-comparison", "source": "NxCode" },
-        { "title": "GitHub Copilot vs Cursor 2026: 56% vs 51.7% SWE-bench", "url": "https://tech-insider.org/github-copilot-vs-cursor-2026-2/", "source": "Tech Insider" },
-        { "title": "Claude Code vs GitHub Copilot vs Cursor: Which AI Coding Agent Wins in 2026?", "url": "https://fungies.io/claude-code-vs-cursor-vs-copilot-2026/", "source": "Fungies.io" }
+        {
+          "title": "Cursor vs Claude Code vs GitHub Copilot 2026",
+          "url": "https://www.nxcode.io/resources/news/cursor-vs-claude-code-vs-github-copilot-2026-ultimate-comparison",
+          "source": "NxCode"
+        },
+        {
+          "title": "GitHub Copilot vs Cursor 2026: 56% vs 51.7% SWE-bench",
+          "url": "https://tech-insider.org/github-copilot-vs-cursor-2026-2/",
+          "source": "Tech Insider"
+        },
+        {
+          "title": "Claude Code vs GitHub Copilot vs Cursor: Which AI Coding Agent Wins in 2026?",
+          "url": "https://fungies.io/claude-code-vs-cursor-vs-copilot-2026/",
+          "source": "Fungies.io"
+        }
       ],
       "i18n": {
         "en": {
@@ -3034,22 +3167,155 @@
     {
       "date": "2026-04-18",
       "rankings": [
-        { "id": "claude-code", "rank": 1, "score": 8.9, "scores": { "codeQuality": 9.5, "contextWindow": 9.0, "ideIntegration": 8.0, "agenticCapability": 9.5, "valueForMoney": 8.5 } },
-        { "id": "cursor", "rank": 2, "score": 8.9, "scores": { "codeQuality": 9.0, "contextWindow": 8.5, "ideIntegration": 9.5, "agenticCapability": 9.0, "valueForMoney": 8.5 } },
-        { "id": "github-copilot", "rank": 3, "score": 8.5, "scores": { "codeQuality": 8.5, "contextWindow": 8.0, "ideIntegration": 9.5, "agenticCapability": 8.0, "valueForMoney": 8.5 } },
-        { "id": "openai-codex", "rank": 4, "score": 8.3, "scores": { "codeQuality": 8.5, "contextWindow": 8.0, "ideIntegration": 7.5, "agenticCapability": 8.5, "valueForMoney": 8.0 } },
-        { "id": "google-jules", "rank": 5, "score": 8.2, "scores": { "codeQuality": 8.0, "contextWindow": 8.5, "ideIntegration": 7.5, "agenticCapability": 8.5, "valueForMoney": 8.5 } },
-        { "id": "devin", "rank": 6, "score": 8.0, "scores": { "codeQuality": 8.0, "contextWindow": 8.0, "ideIntegration": 7.5, "agenticCapability": 9.0, "valueForMoney": 7.0 } },
-        { "id": "amazon-q-developer", "rank": 7, "score": 7.8, "scores": { "codeQuality": 7.5, "contextWindow": 8.0, "ideIntegration": 8.5, "agenticCapability": 7.5, "valueForMoney": 8.0 } },
-        { "id": "zed", "rank": 8, "score": 7.8, "scores": { "codeQuality": 8.0, "contextWindow": 7.5, "ideIntegration": 8.5, "agenticCapability": 7.0, "valueForMoney": 8.5 } },
-        { "id": "aider", "rank": 9, "score": 7.7, "scores": { "codeQuality": 8.0, "contextWindow": 8.0, "ideIntegration": 7.0, "agenticCapability": 8.0, "valueForMoney": 9.5 } },
-        { "id": "windsurf", "rank": 10, "score": 7.7, "scores": { "codeQuality": 7.5, "contextWindow": 8.0, "ideIntegration": 8.5, "agenticCapability": 7.5, "valueForMoney": 8.0 } },
-        { "id": "augment-code", "rank": 11, "score": 7.6, "scores": { "codeQuality": 7.5, "contextWindow": 8.0, "ideIntegration": 8.0, "agenticCapability": 7.5, "valueForMoney": 7.5 } }
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 8.9,
+          "scores": {
+            "codeQuality": 9.5,
+            "contextWindow": 9.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 8.9,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 3,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
       ],
       "references": [
-        { "title": "Cursor, Claude Code, and Codex are merging into one AI coding stack nobody planned", "url": "https://thenewstack.io/ai-coding-tool-stack/", "source": "The New Stack" },
-        { "title": "AI Coding Assistants April 2026: Rankings and Review", "url": "https://www.digitalapplied.com/blog/ai-coding-assistants-april-2026-cursor-copilot-claude", "source": "Digital Applied" },
-        { "title": "Claude Code vs GitHub Copilot vs Cursor: Which AI Coding Agent Wins in 2026?", "url": "https://www.cosmicjs.com/blog/claude-code-vs-github-copilot-vs-cursor-which-ai-coding-agent-should-you-use-2026", "source": "Cosmic JS" }
+        {
+          "title": "Cursor, Claude Code, and Codex are merging into one AI coding stack nobody planned",
+          "url": "https://thenewstack.io/ai-coding-tool-stack/",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AI Coding Assistants April 2026: Rankings and Review",
+          "url": "https://www.digitalapplied.com/blog/ai-coding-assistants-april-2026-cursor-copilot-claude",
+          "source": "Digital Applied"
+        },
+        {
+          "title": "Claude Code vs GitHub Copilot vs Cursor: Which AI Coding Agent Wins in 2026?",
+          "url": "https://www.cosmicjs.com/blog/claude-code-vs-github-copilot-vs-cursor-which-ai-coding-agent-should-you-use-2026",
+          "source": "Cosmic JS"
+        }
       ],
       "i18n": {
         "en": {
@@ -3091,6 +3357,196 @@
             {
               "title": "GitHub Copilot 繼續是企業採購阻力最小的入口",
               "body": "對 IT 審批、資安審查和部署簡便性是第一優先考量的工程師團隊，GitHub Copilot 有一個純能力指標無法完全捕捉的結構優勢：企業授權包含稽核日誌、IP 補償和 GitHub Actions 整合，這是合規敏感組織在批准任何 AI 工具前必須確認的。個人用戶和小團隊，多工具組合在能力上更勝一籌。企業採購場景，Copilot 和現有 Microsoft 及 GitHub 合約的整合讓評估流程簡單很多。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-04-19",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9.5,
+            "contextWindow": 9.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 8.9,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 3,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "OpenAI ratchets up Codex's agentic capabilities to rival Claude Code",
+          "url": "https://siliconangle.com/2026/04/16/openai-ratchets-codexs-agentic-capabilities-rival-claude-code/",
+          "source": "SiliconAngle"
+        },
+        {
+          "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+          "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Cursor, Claude Code, and Codex are merging into one AI coding stack nobody planned",
+          "url": "https://thenewstack.io/ai-coding-tool-stack/",
+          "source": "The New Stack"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "OpenAI's April 16 Codex update is the biggest move in AI coding tools this week. Background computer use, 90-plus new plugins, and multi-agent support land Codex closer to Claude Code's territory than any previous version. I'm bumping Codex's agentic score up and tightening the gap at the top of this ranking. That said, Claude Code still leads. A survey of 906 engineers in February put it at 46% most-loved, and SemiAnalysis estimates it accounts for roughly 4% of all public GitHub commits. That's not a metric any other tool is close to matching. Cursor v3's new Agents Window is a genuine usability improvement for teams juggling multiple parallel tasks, and it keeps Cursor firmly at #2. GitHub Copilot holds #3 on sheer install base and IDE coverage. The real question now is whether Codex's desktop automation closes the gap fast enough to challenge Claude Code before the next Claude model drops.",
+          "highlights": [
+            {
+              "title": "Codex desktop control closes the gap but doesn't change the top",
+              "body": "OpenAI's April 16 update gives Codex background computer use on Mac, letting it operate apps in a sandboxed virtual workspace while you keep working. Combined with 90-plus plugins and multi-agent scheduling, Codex is now a much more capable agentic tool. Its score moves to 8.5, matching GitHub Copilot. Claude Code's lead in real-world adoption data keeps it at #1."
+            },
+            {
+              "title": "Claude Code's commit share is the only metric that matters right now",
+              "body": "Market surveys are noisy, but 4% of all public GitHub commits attributed to Claude Code is a concrete number with no ambiguity. That reflects developer trust accumulated over months, not a product announcement. Even with Codex's update, you cannot replicate that adoption overnight."
+            },
+            {
+              "title": "Cursor v3 brings multi-agent workflows to the mainstream IDE",
+              "body": "The Agents Window in Cursor v3 replaces the old Composer pane with a dedicated interface for managing multiple AI agents simultaneously. For teams that run parallel workstreams — one agent writing tests while another refactors — this is a meaningful workflow improvement. Cursor stays at #2."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "OpenAI 在 4 月 16 日推出 Codex 重大更新，讓 Codex 可以在背景操控 Mac 桌面、同時跑多個 AI 代理程式，外加 90 多個新外掛程式，這是今週 AI 編碼工具市場最大的動作。我把 Codex 的 agenticCapability 分數往上調了，排名維持第 4，但跟前三名的距離明顯縮小。話雖如此，Claude Code 第一的位置目前沒有威脅。906 位工程師的調查中有 46% 選它為最愛的工具，SemiAnalysis 估計它佔全球 GitHub 公開 commit 的 4%，這個數字其他工具目前都還追不上。Cursor v3 的 Agents Window 讓多個 AI 代理同時作業的體驗變得更流暢，繼續穩住第 2 名。GitHub Copilot 靠 IDE 整合廣度守住第 3。接下來最值得觀察的，是 Codex 的桌面自動化能不能在下一代 Claude 模型出來之前，縮短跟 Claude Code 的差距。",
+          "highlights": [
+            {
+              "title": "Codex 電腦控制功能是本週最大新聞，但不足以撼動排名",
+              "body": "Codex 現在可以在虛擬工作區背景操控 Mac，同時跑多個代理、自動排程任務。這次更新讓它的 agenticCapability 分數從 8.5 調到 9.0，整體分數從 8.3 升到 8.5。Claude Code 在真實開發者採用數據上的領先，目前不是一次功能更新可以快速追上的。"
+            },
+            {
+              "title": "Claude Code 的 GitHub commit 佔比才是真正的市場指標",
+              "body": "產品調查數字會受到樣本偏差影響，但 4% 的 GitHub 公開 commit 份額是客觀數字。這代表工程師實際在用它產出程式碼，而不只是嘗試或評測。這個數字在 AI 編碼工具裡目前是最高的。"
+            },
+            {
+              "title": "Cursor v3 的 Agents Window 讓多工作業體驗提升",
+              "body": "Cursor v3 把舊的 Composer 介面換成全新的 Agents Window，專為同時管理多個 AI 代理設計。對需要讓一個代理寫測試、另一個重構程式碼的開發團隊來說，這是實質的工作流程改善，不只是介面更新。"
             }
           ]
         }
