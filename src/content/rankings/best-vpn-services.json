@@ -3407,6 +3407,143 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-04-20",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.5,
+            "network": 9.5,
+            "usability": 9.0,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 9.0,
+            "network": 9.5,
+            "usability": 9.0,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.5,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Top 10 Best VPNs in the World (April 2026 Rankings)",
+          "url": "https://www.top10vpn.com/best-vpn/",
+          "source": "Top10VPN"
+        },
+        {
+          "title": "The best VPN in 2026",
+          "url": "https://www.tomsguide.com/best-picks/best-vpn",
+          "source": "Tom's Guide"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Mullvad at #1 and ProtonVPN at #2 are the only VPNs I recommend to people whose threat model involves actual surveillance. The reason is structural: both enforce no-logs policies verified by independent audits, both accept cash or anonymous payment, and neither has a parent company with a track record of compromising user data. ProtonVPN expanded its server network to 145 countries this month — the widest global coverage of any recommended VPN. NordVPN passed its sixth independent no-logs audit by Deloitte and rolled out a rebuilt dashboard and 211 US server locations including one in every state. These are positive developments that justify its #3 position. Surfshark launched a proprietary Dausos protocol with post-quantum encryption — a forward-looking move that is more meaningful than it sounds given the timeline for quantum computing threats. ExpressVPN added a password manager, email protection, and real-time personal data protection in February 2026. Rankings are stable. The core hierarchy — Mullvad, ProtonVPN, NordVPN — reflects verified privacy practices, not marketing claims.",
+          "highlights": [
+            {
+              "title": "Mullvad's no-logs architecture is the hardest to compromise",
+              "body": "Cash payments accepted, no account email required, RAM-only servers in multiple locations. This is not a privacy claim — it is an architectural fact. Mullvad makes surveillance harder by design, not by policy."
+            },
+            {
+              "title": "ProtonVPN at 145 countries now has the widest coverage of any recommended VPN",
+              "body": "145-country server network expanded in April 2026. Combined with Proton's Swiss jurisdiction, open-source client code, and verified no-logs audits, this makes ProtonVPN the best all-around recommendation for most privacy-conscious users who want global reach."
+            },
+            {
+              "title": "NordVPN's sixth Deloitte audit and 211 US servers are credibility signals",
+              "body": "Six consecutive no-logs audits by Deloitte is meaningful. NordVPN's issue is not trust — it is that Mullvad and Proton offer structurally stronger privacy by accepting less identifying information at signup. For users who want a polished consumer product, NordVPN at #3 is the correct recommendation."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Mullvad 排第一、ProtonVPN 排第二，這兩個是我對真正有隱私需求的人唯一推薦的 VPN 選項，原因在結構層面：兩者都有獨立審計驗證的零日誌政策，都接受現金或匿名付款，背後也沒有有污點歷史的母公司。ProtonVPN 這個月把伺服器網絡擴展到 145 個國家，是所有推薦 VPN 裡全球覆蓋最廣的。NordVPN 通過了 Deloitte 的第六次零日誌獨立稽核，而且重新設計了儀表板，美國伺服器擴充到 211 個，五十州每州都有，這些都是支持它排第三的正面訊號。Surfshark 推出了自有的 Dausos 協議，有後量子加密，這個動作比表面看起來更有意義。排名維持穩定，Mullvad、ProtonVPN、NordVPN 的順序反映的是經過驗證的隱私實作，不是行銷說法。",
+          "highlights": [
+            {
+              "title": "Mullvad 的無日誌架構是最難被入侵的",
+              "body": "接受現金付款、不需要帳號 email、多個地點使用純記憶體伺服器，這不是隱私聲明，而是架構事實。Mullvad 用設計讓監控變得更難，不是靠政策承諾。"
+            },
+            {
+              "title": "ProtonVPN 擴展到 145 個國家，覆蓋最廣",
+              "body": "2026 年四月伺服器網絡達到 145 個國家。結合瑞士司法管轄、開源客戶端程式碼、已驗證的零日誌稽核，對需要全球覆蓋的隱私意識用戶來說，ProtonVPN 是最全面的推薦選擇。"
+            },
+            {
+              "title": "NordVPN 六次 Deloitte 稽核和 211 個美國伺服器是可信度指標",
+              "body": "六次連續零日誌稽核是有意義的。NordVPN 的問題不在可信度，而在 Mullvad 和 Proton 在註冊時收集的身份資訊更少，架構上隱私保護更強。對想要打磨精良消費產品的用戶，第三名是正確推薦。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

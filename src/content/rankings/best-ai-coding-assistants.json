@@ -3551,6 +3551,191 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-04-20",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9.5,
+            "contextWindow": 9.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 8.9,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 3,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Which AI Coding Tools Do Developers Actually Use at Work?",
+          "url": "https://blog.jetbrains.com/research/2026/04/which-ai-coding-tools-do-developers-actually-use-at-work/",
+          "source": "JetBrains Research"
+        },
+        {
+          "title": "8 Best AI Coding Assistants [Updated April 2026]",
+          "url": "https://www.augmentcode.com/tools/8-top-ai-coding-assistants-and-their-best-use-cases",
+          "source": "Augment Code"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code is the most interesting story in AI coding right now. JetBrains' April survey shows 57% developer awareness — up from 31% a year ago — and 18% actively using it at work, a 1.5x jump from September 2025. That growth rate separates it from every other tool on this list. My #1 ranking stands. Cursor holds #2 on the strength of its third-generation model built on Kimi K2.5, which brings frontier-level reasoning to an IDE that already set the standard for agentic code editing. The $0.50/M input token pricing makes it genuinely affordable at scale. GitHub Copilot sits at #3 not because it is losing ground technically — 76% developer awareness and 29% adoption prove it is the safe enterprise choice — but because its differentiation has narrowed. When Copilot launched, the gap between it and everything else was a chasm. Today Cursor and Claude Code have closed that gap on quality, and neither requires a corporate procurement cycle to try. Pricing debates are heating up across the board. Usage-based billing and tighter rate limits are now as hotly discussed as raw capability. This pressure will likely accelerate consolidation in the second half of 2026.",
+          "highlights": [
+            {
+              "title": "Claude Code's adoption curve is the sharpest in the market",
+              "body": "18% of developers now use Claude Code at work — 1.5x the September 2025 figure. For a terminal-first tool without a bundled IDE, that adoption speed reflects genuine capability gains, not just marketing momentum."
+            },
+            {
+              "title": "Cursor Composer 2 resets the price-to-performance ceiling",
+              "body": "Kimi K2.5 at $0.50/M input tokens delivers reasoning competitive with GPT-4-class models at a fraction of the cost. For developers who work agentic tasks through Composer, the economics now favor Cursor over Copilot subscriptions."
+            },
+            {
+              "title": "GitHub Copilot's moat is enterprise inertia, not technical lead",
+              "body": "76% awareness and 29% work adoption make Copilot the industry standard by volume. But the technical gap versus Cursor and Claude Code has closed to near-zero in my testing. Enterprises will keep renewing — individual developers will increasingly not."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 現在是這個市場最值得關注的工具。JetBrains 四月份的調查顯示，57% 的開發者已經聽過 Claude Code，比一年前的 31% 幾乎翻倍，而且 18% 的人在工作上實際使用，從 2025 年九月的數字成長了 1.5 倍。這種成長速度，在這份名單裡沒有任何一個工具能夠匹敵，所以它繼續坐穩第一名。Cursor 排第二的理由很紮實，第三代模型用了 Kimi K2.5，input token 只要 $0.50/M，算力成本大幅降低，在 agentic 程式碼編輯這條路上它已經把標準拉得很高。GitHub Copilot 排第三，76% 的知名度和 29% 的職場使用率確實讓它是最安全的企業選擇，但跟 Cursor 和 Claude Code 的技術差距已經縮小到幾乎沒有，現在把它排前面更多是靠的是企業採購流程的慣性，而不是真正的產品優勢。定價問題今年越來越熱，按用量計費和更嚴格的使用上限被討論的激烈程度不輸功能比較，這個壓力很可能讓 2026 下半年出現整合潮。",
+          "highlights": [
+            {
+              "title": "Claude Code 的成長曲線是市場上最陡的",
+              "body": "18% 的開發者在工作上用 Claude Code，是 2025 年九月的 1.5 倍。一個以終端機為主、沒有內建 IDE 的工具能有這種採用速度，背後靠的是真正有感的能力提升，不是行銷噱頭。"
+            },
+            {
+              "title": "Cursor Composer 2 重新定義了性價比天花板",
+              "body": "Kimi K2.5 模型 input token 只要 $0.50/M，推理能力卻能對標 GPT-4 等級，對於大量跑 agentic 任務的開發者來說，現在選 Cursor 在費用上比 Copilot 訂閱划算多了。"
+            },
+            {
+              "title": "GitHub Copilot 的護城河是企業惰性，不是技術領先",
+              "body": "76% 知名度、29% 職場使用率讓 Copilot 在數量上仍是業界標準。但跟 Cursor 和 Claude Code 的技術差距在我的測試裡已經縮到接近零，個人開發者越來越不會優先選它。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
