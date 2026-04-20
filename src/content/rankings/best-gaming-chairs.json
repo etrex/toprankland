@@ -162,29 +162,180 @@
           "priceRange": "約 NT$6,500"
         }
       }
+    },
+    {
+      "id": "dxracer-martian-pro",
+      "name": "Martian Pro",
+      "brand": "DXRacer",
+      "url": "https://www.dxracer.com/products/gaming-chairs/martian",
+      "i18n": {
+        "en": {
+          "description": "The first gaming chair with fully electric adjustments, seat heating and cooling, an 8-point back massage system, and smart airbag lumbar — a unique category of luxury performance chair at $899.",
+          "priceRange": "$899"
+        },
+        "zh-tw": {
+          "description": "全電動靠背、扶手調整加上椅座加熱制冷和 8 點按摩系統，在電競椅市場確實是第一個把這些功能整合在同一張椅子裡的設計，9,000 元以下找不到第二張能做到這些的椅子。",
+          "priceRange": "約 NT$29,000"
+        }
+      }
     }
   ],
   "history": [
     {
       "date": "2026-04-20",
       "rankings": [
-        { "id": "secretlab-titan-evo", "rank": 1, "score": 9.2, "scores": { "comfort": 9.0, "ergonomics": 9.0, "build": 9.5, "value": 8.5, "features": 9.0 } },
-        { "id": "herman-miller-vantum", "rank": 2, "score": 8.8, "scores": { "comfort": 9.0, "ergonomics": 9.5, "build": 9.5, "value": 7.0, "features": 8.5 } },
-        { "id": "libernovo-omni", "rank": 3, "score": 8.6, "scores": { "comfort": 9.0, "ergonomics": 9.0, "build": 8.5, "value": 7.0, "features": 9.5 } },
-        { "id": "razer-iskur-v2", "rank": 4, "score": 8.4, "scores": { "comfort": 8.5, "ergonomics": 8.5, "build": 8.5, "value": 7.5, "features": 8.5 } },
-        { "id": "noblechairs-epic", "rank": 5, "score": 8.2, "scores": { "comfort": 8.5, "ergonomics": 8.0, "build": 9.0, "value": 8.5, "features": 7.5 } },
-        { "id": "fractal-design-refine", "rank": 6, "score": 8.0, "scores": { "comfort": 8.5, "ergonomics": 8.5, "build": 8.0, "value": 7.5, "features": 7.5 } },
-        { "id": "thunderx3-solo-360", "rank": 7, "score": 7.9, "scores": { "comfort": 7.5, "ergonomics": 8.5, "build": 7.5, "value": 9.0, "features": 8.0 } },
-        { "id": "razer-iskur-v2-x", "rank": 8, "score": 7.6, "scores": { "comfort": 7.5, "ergonomics": 8.0, "build": 7.5, "value": 8.5, "features": 7.0 } },
-        { "id": "corsair-tc100-relaxed", "rank": 9, "score": 7.4, "scores": { "comfort": 7.5, "ergonomics": 7.0, "build": 7.0, "value": 9.5, "features": 6.5 } }
+        {
+          "id": "secretlab-titan-evo",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "comfort": 9.0,
+            "ergonomics": 9.0,
+            "build": 9.5,
+            "value": 8.5,
+            "features": 9.0
+          }
+        },
+        {
+          "id": "herman-miller-vantum",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "comfort": 9.0,
+            "ergonomics": 9.5,
+            "build": 9.5,
+            "value": 7.0,
+            "features": 8.5
+          }
+        },
+        {
+          "id": "libernovo-omni",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "comfort": 9.0,
+            "ergonomics": 9.0,
+            "build": 8.5,
+            "value": 7.0,
+            "features": 9.5
+          }
+        },
+        {
+          "id": "razer-iskur-v2",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "comfort": 8.5,
+            "ergonomics": 8.5,
+            "build": 8.5,
+            "value": 7.5,
+            "features": 8.5
+          }
+        },
+        {
+          "id": "dxracer-martian-pro",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "comfort": 9.0,
+            "ergonomics": 7.5,
+            "build": 8.5,
+            "value": 7.0,
+            "features": 9.5
+          }
+        },
+        {
+          "id": "noblechairs-epic",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "comfort": 8.5,
+            "ergonomics": 8.0,
+            "build": 9.0,
+            "value": 8.5,
+            "features": 7.5
+          }
+        },
+        {
+          "id": "fractal-design-refine",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "comfort": 8.5,
+            "ergonomics": 8.5,
+            "build": 8.0,
+            "value": 7.5,
+            "features": 7.5
+          }
+        },
+        {
+          "id": "thunderx3-solo-360",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "comfort": 7.5,
+            "ergonomics": 8.5,
+            "build": 7.5,
+            "value": 9.0,
+            "features": 8.0
+          }
+        },
+        {
+          "id": "razer-iskur-v2-x",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "comfort": 7.5,
+            "ergonomics": 8.0,
+            "build": 7.5,
+            "value": 8.5,
+            "features": 7.0
+          }
+        },
+        {
+          "id": "corsair-tc100-relaxed",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "comfort": 7.5,
+            "ergonomics": 7.0,
+            "build": 7.0,
+            "value": 9.5,
+            "features": 6.5
+          }
+        }
       ],
       "references": [
-        { "title": "Best Gaming Chairs 2026", "url": "https://www.pcgamer.com/best-gaming-chairs/", "source": "PC Gamer" },
-        { "title": "Best Gaming Chair in 2026", "url": "https://www.tomshardware.com/best-picks/best-gaming-chairs", "source": "Tom's Hardware" },
-        { "title": "Best gaming chairs of 2026", "url": "https://www.tomsguide.com/best-picks/best-gaming-chairs", "source": "Tom's Guide" },
-        { "title": "ThunderX3 Solo 360 Review", "url": "https://www.pcgamer.com/hardware/gaming-chairs/thunderx3-solo-360-review/", "source": "PC Gamer" },
-        { "title": "Razer Iskur V2 Named Official Gaming Chair of VALORANT Esports EMEA 2026 & 2027", "url": "https://www.razer.com/blog/razer-iskur-v2-named-official-gaming-chair-of-valorant-esports-emea-2026-2027/", "source": "Razer" },
-        { "title": "LiberNovo Omni Review", "url": "https://www.tomshardware.com/peripherals/gaming-chairs/libernovo-omni-review", "source": "Tom's Hardware" }
+        {
+          "title": "Best Gaming Chairs 2026",
+          "url": "https://www.pcgamer.com/best-gaming-chairs/",
+          "source": "PC Gamer"
+        },
+        {
+          "title": "Best Gaming Chair in 2026",
+          "url": "https://www.tomshardware.com/best-picks/best-gaming-chairs",
+          "source": "Tom's Hardware"
+        },
+        {
+          "title": "Best gaming chairs of 2026",
+          "url": "https://www.tomsguide.com/best-picks/best-gaming-chairs",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "ThunderX3 Solo 360 Review",
+          "url": "https://www.pcgamer.com/hardware/gaming-chairs/thunderx3-solo-360-review/",
+          "source": "PC Gamer"
+        },
+        {
+          "title": "Razer Iskur V2 Named Official Gaming Chair of VALORANT Esports EMEA 2026 & 2027",
+          "url": "https://www.razer.com/blog/razer-iskur-v2-named-official-gaming-chair-of-valorant-esports-emea-2026-2027/",
+          "source": "Razer"
+        },
+        {
+          "title": "LiberNovo Omni Review",
+          "url": "https://www.tomshardware.com/peripherals/gaming-chairs/libernovo-omni-review",
+          "source": "Tom's Hardware"
+        }
       ],
       "i18n": {
         "en": {
