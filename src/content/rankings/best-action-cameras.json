@@ -147,6 +147,22 @@
           "priceRange": "約 NT$4,500"
         }
       }
+    },
+    {
+      "id": "gopro-mission-1-pro",
+      "name": "Mission 1 Pro",
+      "brand": "GoPro",
+      "url": "https://gopro.com/en/us/shop/cameras/buy/mission-1-pro/CHDHW-011-master.html",
+      "i18n": {
+        "en": {
+          "description": "GoPro's first 1-inch sensor action camera shoots 8K60 and 4K240 with the GP3 processor, making it the highest-resolution and lowest-light capable camera on this list at $699.",
+          "priceRange": "$699"
+        },
+        "zh-tw": {
+          "description": "GoPro 首款 1 吋感光元件運動相機，8K60 和 4K240 的規格由 GP3 處理器驅動，低光表現和動態範圍是傳統運動相機做不到的等級，但 $699 的售價也反映了這個跳躍。",
+          "priceRange": "約 NT$22,000"
+        }
+      }
     }
   ],
   "history": [
@@ -208,7 +224,7 @@
         {
           "id": "dji-osmo-action-5-pro",
           "rank": 5,
-          "score": 8.7,
+          "score": 8.3,
           "scores": {
             "videoQuality": 8.5,
             "stabilization": 8.5,
@@ -401,7 +417,7 @@
         {
           "id": "dji-osmo-action-5-pro",
           "rank": 5,
-          "score": 8.7,
+          "score": 8.3,
           "scores": {
             "videoQuality": 8.5,
             "stabilization": 8.5,
@@ -571,7 +587,7 @@
         {
           "id": "dji-osmo-action-5-pro",
           "rank": 5,
-          "score": 8.7,
+          "score": 8.3,
           "scores": {
             "videoQuality": 8.5,
             "stabilization": 8.5,
@@ -733,7 +749,7 @@
         {
           "id": "dji-osmo-action-5-pro",
           "rank": 5,
-          "score": 8.7,
+          "score": 8.3,
           "scores": {
             "videoQuality": 8.5,
             "stabilization": 8.5,
@@ -895,7 +911,7 @@
         {
           "id": "dji-osmo-action-5-pro",
           "rank": 5,
-          "score": 8.7,
+          "score": 8.3,
           "scores": {
             "videoQuality": 8.5,
             "stabilization": 8.5,
@@ -1065,7 +1081,7 @@
         {
           "id": "dji-osmo-action-5-pro",
           "rank": 5,
-          "score": 8.7,
+          "score": 8.3,
           "scores": {
             "videoQuality": 8.5,
             "stabilization": 8.5,
@@ -1217,7 +1233,7 @@
         {
           "id": "dji-osmo-action-5-pro",
           "rank": 5,
-          "score": 8.7,
+          "score": 8.3,
           "scores": {
             "videoQuality": 8.5,
             "stabilization": 8.5,
@@ -1346,8 +1362,21 @@
           }
         },
         {
-          "id": "gopro-hero13-black",
+          "id": "gopro-mission-1-pro",
           "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "videoQuality": 9.5,
+            "stabilization": 8.5,
+            "lowLight": 9.5,
+            "battery": 7.5,
+            "durability": 7.5,
+            "value": 7.0
+          }
+        },
+        {
+          "id": "gopro-hero13-black",
+          "rank": 4,
           "score": 8.6,
           "scores": {
             "videoQuality": 9.0,
@@ -1360,7 +1389,7 @@
         },
         {
           "id": "insta360-x5",
-          "rank": 4,
+          "rank": 5,
           "score": 8.6,
           "scores": {
             "videoQuality": 9.0,
@@ -1373,20 +1402,20 @@
         },
         {
           "id": "dji-osmo-action-5-pro",
-          "rank": 5,
-          "score": 8.7,
+          "rank": 6,
+          "score": 8.3,
           "scores": {
-            "videoQuality": 8.5,
-            "stabilization": 8.5,
-            "lowLight": 8.5,
-            "battery": 9.5,
-            "durability": 9.0,
-            "value": 8.5
+            "videoQuality": 8.1,
+            "stabilization": 8.1,
+            "lowLight": 8.1,
+            "battery": 9.1,
+            "durability": 8.6,
+            "value": 8.1
           }
         },
         {
           "id": "gopro-max2",
-          "rank": 6,
+          "rank": 7,
           "score": 8.2,
           "scores": {
             "videoQuality": 8.5,
@@ -1399,7 +1428,7 @@
         },
         {
           "id": "gopro-hero-2024",
-          "rank": 7,
+          "rank": 8,
           "score": 7.5,
           "scores": {
             "videoQuality": 7.0,
@@ -1412,7 +1441,7 @@
         },
         {
           "id": "akaso-brave-7-le",
-          "rank": 8,
+          "rank": 9,
           "score": 7.0,
           "scores": {
             "videoQuality": 6.5,
@@ -1443,36 +1472,44 @@
       ],
       "i18n": {
         "en": {
-          "commentary": "The DJI Osmo Action 6 earns rank 1 in April 2026, and the reasoning is straightforward: a true 1-inch sensor in an action camera form factor is a generational leap. The OA6 shoots 8K30, handles low light better than any competitor, and pairs it with DJI's best-in-class stabilization. For anyone shooting in variable conditions — trail runs at dawn, mountain biking in shade — this is the camera that delivers consistent keepers.\n\nInsta360 Ace Pro 2 sits at rank 2, co-engineered with Leica optics, and its low-light performance is arguably better than the OA6 in absolute terms. The reason it trails by one slot is the DJI Action 5 Pro's superior battery endurance, which the Ace Pro 2 doesn't match in extended shooting sessions.\n\nGoPro HERO13 Black holds rank 3 on the strength of HyperSmooth 7.0 stabilization, which remains the best high-frequency vibration handling in the category. It's the right choice for motorsports and cycling where the stabilization algorithm matters more than low-light capability.\n\nThe Insta360 X5 at rank 4 is worth flagging for its recent update: April 2026 brought a review link addition and the X5's 8K 360° dual-sensor system remains unmatched in the 360-degree segment. If you shoot VR content or rely on reframing in post, the X5 is the correct tool.",
+          "commentary": "The DJI Osmo Action 6 earns rank 1 in April 2026, and the reasoning is straightforward: a true 1-inch sensor in an action camera form factor is a generational leap. The OA6 shoots 8K30, handles low light at levels that expose the sensor size gap clearly, and the variable aperture from f/2.0 to f/4.0 gives it genuine adaptability across shooting conditions. No traditional action camera before 2025 offered this combination.\n\nInsta360 Ace Pro 2 ranks second with a strong case built on the Leica-engineered optics and 8K AI Master Frame mode. The flip screen remains the most practical feature for solo creators who also appear in their footage — a design advantage DJI has not matched.\n\nGoPro's Mission 1 Pro enters this ranking at rank 3, representing GoPro's most significant camera release in years. The 50MP 1-inch sensor with 8K60 and 4K240 capability and the new GP3 processor directly addresses where the Hero line has lagged: low-light performance and dynamic range. At $699, it positions above traditional action cameras, but the specs justify the tier. The camera ships May 28, 2026, and its interchangeable lens system opens professional filmmaking use cases that the fixed-lens action category cannot serve.\n\nGoPro Hero13 Black holds rank 4 as the practical, battle-tested choice at $400. The modular lens system, 10-meter waterproofing, and Max Lens Mod Ultra remain the strongest all-around action camera value for buyers who don't need cinema-grade specs. The Insta360 X5 at rank 5 is the 360 category leader, and its 1/1.28-inch sensor finally gives 360-degree footage the low-light capability to justify the format for travel and adventure shooting.",
           "highlights": [
             {
-              "title": "DJI Osmo Action 6's 1-Inch Sensor Changes the Category",
-              "body": "A 1-inch sensor in an action camera is not a incremental upgrade — it's a fundamentally different imaging capability. The OA6 resolves more detail in shadows and high-contrast scenes than any competitor in this list, and it does it while matching the durability and waterproofing that action camera buyers expect."
+              "title": "DJI Osmo Action 6 Variable Aperture Is the Feature That Changes What Action Cameras Can Shoot",
+              "body": "Variable aperture in an action camera is not a minor spec upgrade — it means the OA6 adjusts depth of field and light intake in ways that fixed-aperture cameras cannot. At f/2.0 in low light and f/4.0 in bright conditions, the camera makes exposure decisions dynamically. Combined with a 1-inch sensor, this gives the OA6 versatility in mixed-light environments that defines its rank 1 position."
             },
             {
-              "title": "Insta360 Ace Pro 2 Wins on Low-Light Absolute Performance",
-              "body": "The Leica co-engineering on the Ace Pro 2 produces the most technically accurate low-light footage in the category. Landscape and travel shooters who frequently shoot around sunrise and sunset will find this camera produces the cleanest results at those critical hours."
+              "title": "GoPro Mission 1 Pro Enters the List as the Highest-Resolution Option in the Category",
+              "body": "The 50MP 1-inch sensor with 8K60 and 4K240 video capability, powered by the GP3 processor, marks GoPro's return to camera engineering ambition. The Mission 1 Pro's interchangeable lens system and cinema-grade output separate it from traditional action cameras and open it to filmmakers who previously had no reason to consider GoPro. At $699, it is premium pricing, but it earns the rank with genuine technical differentiation."
             },
             {
-              "title": "Insta360 X5 Dominates 360-Degree Capture",
-              "body": "The X5's dual 1/1.28-inch sensors shooting 8K 360° place it in a category of its own for immersive content. For creators who reframe in post rather than setting a fixed shot, the X5 delivers flexibility that traditional action cameras fundamentally cannot match."
+              "title": "Insta360 Ace Pro 2 Flip Screen Wins for Solo Creator Use Cases",
+              "body": "The articulating flip screen is a practical advantage that spec sheets understate. Solo creators who appear in their own footage need to compose and confirm the shot without a second person. The Ace Pro 2's Leica optics and 8K AI Master Frame mode deliver cinematic quality for this exact use case, and the flip screen is the hardware decision that makes it actionable. This is why the Ace Pro 2 holds rank 2 despite the DJI OA6's sensor size advantage."
+            },
+            {
+              "title": "Insta360 X5 Justifies 360-Degree Shooting for the First Time in Low Light",
+              "body": "Previous Insta360 360-degree cameras had small sensors that degraded visibly in mixed or low light. The X5's 1/1.28-inch sensor removes that compromise. For travel and adventure documentation where lighting is uncontrolled, the ability to capture the full environment and reframe in post is now paired with image quality that stands on its own. The X5 ranks 5th on this list, but it is first in its specific category without qualification."
             }
           ]
         },
         "zh-tw": {
-          "commentary": "2026 年四月，DJI Osmo Action 6 在運動相機這個類別裡的地位很穩。原因簡單：把一吋感光元件裝進這個尺寸的機身是一代的突破。OA6 支援 8K30 錄影，低光環境表現遠勝同類競品，同時配上 DJI 一貫優秀的防震系統。對需要在不同光線條件下拍攝的人來說，清晨跑山、樹蔭下騎車，OA6 都能穩定給出好素材。\n\nInsta360 Ace Pro 2 第二名，Leica 聯合調校的光學系統讓它的低光絕對表現可能比 OA6 更好。它落後一個名次的原因是電池續航，在長時間拍攝的場景下它比不過 DJI Action 5 Pro。\n\nGoPro HERO13 Black 第三名靠的是 HyperSmooth 7.0，高頻震動消除能力目前還是這個類別最強的。騎摩托車、競速自行車這類需要處理高頻振動的場景，選 GoPro 是對的。\n\nInsta360 X5 值得特別提一下，四月更新評測連結後，它的 8K 360° 雙感光元件系統在全景相機這個細分市場仍然是無對手的狀態。如果你在拍 VR 內容或需要後製重新構圖，X5 是正確的工具。",
+          "commentary": "DJI Osmo Action 6 在 2026 年四月繼續排第一，理由很充分。1 吋感光元件加上 f/2.0 到 f/4.0 的可變光圈，讓它在各種光線條件下的適應能力是固定光圈的傳統運動相機無法比的，8K30 的解析度加上低光表現確立了這個品類的旗艦位置。\n\nInsta360 Ace Pro 2 第二名，Leica 調教的光學鏡頭和 8K AI Master Frame 模式在畫質上很有說服力，翻轉螢幕對單人拍攝的實用性讓它在自拍場景有明確優勢。\n\nGoPro Mission 1 Pro 全新進榜排在第三，這是 GoPro 多年來最重要的一款相機。50MP 1 吋感光元件、8K60、4K240，GP3 處理器，可換鏡頭系統，直接切入影視製作等級的市場。NT$22,000 的售價比傳統運動相機高一截，但規格確實跨越了一個等級。預計 5 月 28 日開始出貨。\n\nGoPro Hero13 Black 第四，是這份名單裡最成熟、測試最完整的選擇，NT$13,500 的價位加上模組化鏡頭系統、10 米防水和 Max Lens Mod Ultra，是預算有限但不想妥協核心功能的最佳選項。Insta360 X5 第五，1/1.28 吋感光元件讓 360 相機在低光環境下終於有了說服力，全景記錄後製重新取景的創作方式也因此更值得考慮。",
           "highlights": [
             {
-              "title": "DJI Osmo Action 6 一吋感光元件是這個類別的代差升級",
-              "body": "一吋感光元件在運動相機裡不是量變，是質變。OA6 在陰影和高對比場景的細節解析力遠超這份榜單裡的任何競品，同時保持了運動相機該有的耐用性和防水規格。"
+              "title": "DJI Osmo Action 6 的可變光圈是這個品類真正的架構性升級",
+              "body": "可變光圈讓 OA6 在低光用 f/2.0 進光、強光用 f/4.0 控制景深，是固定光圈相機靠軟體處理做不到的硬體優勢。加上 1 吋感光元件的物理面積，複雜光線環境下的適應能力是確立第一名排名的核心理由。"
             },
             {
-              "title": "Insta360 Ace Pro 2 在低光絕對表現上勝出",
-              "body": "Leica 聯合調校的結果是 Ace Pro 2 在低光環境下拍出的畫面最準確、最乾淨。喜歡在日出日落黃金時段拍攝的旅拍創作者，這台的出片率會讓你滿意。"
+              "title": "GoPro Mission 1 Pro 進榜是因為它把運動相機的天花板拉到了新高度",
+              "body": "50MP 1 吋感光元件搭配 8K60 和 4K240，GP3 處理器的低光性能和動態範圍，可換鏡頭系統打開了影視創作的應用場景。NT$22,000 在運動相機是高價位，但如果你需要電影等級的輸出品質，這款是 GoPro 近年最值得認真看待的相機。"
             },
             {
-              "title": "Insta360 X5 在全景拍攝上無對手",
-              "body": "X5 的雙 1/1.28 吋感光元件加 8K 360° 讓它在沉浸式內容創作領域自成一格。需要後製重新構圖而非固定鏡頭的創作者，全景相機帶來的靈活度是傳統運動相機做不到的。"
+              "title": "Insta360 Ace Pro 2 翻轉螢幕對單人拍攝者來說是實際的決定性功能",
+              "body": "翻轉螢幕讓自拍構圖確認不需要第二個人。Ace Pro 2 的 Leica 光學加上 8K AI Master Frame 的畫質水準，對主要用途是單人 Vlog 或旅遊記錄的用戶來說，這個功能組合在榜單第二名的位置非常合理。"
+            },
+            {
+              "title": "Insta360 X5 讓 360 相機的低光表現終於可以說服人",
+              "body": "前一代 360 相機的小感光元件在光線不足的室內或黃昏場景下畫質明顯劣化。X5 的 1/1.28 吋感光元件消除了這個限制，全景捕捉加後製重新取景的創作方式，在光線不可控的旅遊和戶外場景下終於有了在畫質上說服人的選項。"
             }
           ]
         }
