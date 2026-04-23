@@ -3736,6 +3736,196 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-04-23",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9.5,
+            "contextWindow": 9.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 8.9,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 3,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Cursor vs Claude Code vs GitHub Copilot 2026: The Ultimate Comparison",
+          "url": "https://www.nxcode.io/resources/news/cursor-vs-claude-code-vs-github-copilot-2026-ultimate-comparison",
+          "source": "NxCode"
+        },
+        {
+          "title": "Exclusive: Microsoft To Shift GitHub Copilot Users To Token-Based Billing",
+          "url": "https://www.wheresyoured.at/news-microsoft-to-shift-github-copilot-users-to-token-based-billing-reduce-rate-limits-2/",
+          "source": "Where's Your Ed At"
+        },
+        {
+          "title": "Claude 4 vs. GitHub Copilot: Which AI Coding Assistant Reigns Supreme for 2026?",
+          "url": "https://learn.ryzlabs.com/ai-coding-assistants/claude-4-vs-github-copilot-which-ai-coding-assistant-reigns-supreme-for-2026",
+          "source": "Ryz Labs"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code holds rank 1 in April 2026, and the recent market context reinforces why. Microsoft's move to shift GitHub Copilot subscribers to token-based billing with tighter rate limits is a meaningful value proposition change for Copilot's user base. Teams that depended on predictable flat-rate pricing now face usage variability. Claude Code's subscription model remains stable and its agentic capability — running complex multi-step tasks from a terminal without IDE babysitting — is the defining advantage for the kind of serious engineering work where AI assistance actually pays off.\n\nCursor holds rank 2 on the strength of its Composer 2 model, which launched in March 2026 with a 39% improvement on CursorBench. The speed advantage Cursor delivers over Copilot is real — 30% faster per task in controlled comparisons — and for teams where developer velocity is the constraint, that gap compounds over thousands of daily interactions.\n\nGitHub Copilot's shift to token-based billing is the biggest news of April for this category. It remains rank 3 because the IDE integration quality and 4.7 million paid subscriber base still represent genuine network effects and toolchain coverage. But the pricing change introduces uncertainty that competing tools are already exploiting.\n\nThe most common professional workflow in 2026 is Cursor for daily editing plus Claude Code for complex agentic tasks. Single-tool thinking is giving way to workflow-specific tool selection.",
+          "highlights": [
+            {
+              "title": "Claude Code's Terminal-Native Agentic Workflow Leads the Category",
+              "body": "The defining feature of Claude Code in 2026 is not a specific benchmark — it's the architecture. Running complex, multi-step engineering tasks directly from the terminal without returning to an IDE means Claude Code handles the kind of deep, sustained work that chat-based assistants time out on. Context window at 200K tokens and tool use capability compound this advantage."
+            },
+            {
+              "title": "Cursor Composer 2 Is a Genuine Leap in Speed",
+              "body": "Cursor's Composer 2 model scores 61.3 on CursorBench, up from 44.2 for its predecessor — a 39% improvement in a single release. The practical implication is a 30% speed-per-task advantage over Copilot in comparative testing. For teams with high task volume, this is a compounding productivity gain."
+            },
+            {
+              "title": "GitHub Copilot's Token-Based Billing Is a Risk to Its Value Proposition",
+              "body": "Microsoft shifting Copilot Pro users to token-based billing with tightened rate limits removes the predictability that made flat-rate AI coding assistance compelling. Teams that integrated Copilot deeply into their workflows now face variable monthly costs. Cursor and Claude Code are the primary beneficiaries of this uncertainty."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "2026 年四月，Claude Code 穩坐第一名，而且最近的市場動態只會讓這個判斷更站得住腳。Microsoft 宣布把 GitHub Copilot 用戶轉移到按 token 計費的方案，同時收緊速率限制，這個變化對 Copilot 的用戶群來說是很實質的定價衝擊。原本習慣固定月費的工程師和團隊，現在要面對使用量不確定的月費帳單。Claude Code 的訂閱模式維持穩定，加上它在終端機裡直接執行複雜多步驟任務的 agentic 能力，讓它在需要深度工程工作的場景裡有明顯的實用優勢。\n\nCursor 第二名靠的是 2026 年三月發布的 Composer 2 模型，在 CursorBench 上比上一代提升了 39%。與 Copilot 相比，Cursor 的速度優勢很實在，受控測試中每個任務快 30%。對開發速度是瓶頸的團隊來說，這個差距在大量日常任務中會持續放大。\n\nGitHub Copilot 轉向 token 計費是四月最大的行業新聞。它維持第三名是因為 IDE 整合品質和 470 萬付費訂閱用戶帶來的生態網路效應依然存在。但定價變化引入的不確定性，競爭對手已經在利用了。\n\n2026 年最常見的專業工作流程是 Cursor 負責日常編輯，Claude Code 處理複雜的 agentic 任務。單一工具思維正在被場景化工具選擇所取代。",
+          "highlights": [
+            {
+              "title": "Claude Code 的終端機原生 Agentic 架構是它勝出的核心",
+              "body": "Claude Code 在 2026 年的決定性優勢不是某個跑分數字，而是架構設計。直接在終端機執行複雜多步驟工程任務，不需要在 IDE 裡來回確認，讓 Claude Code 能處理那種需要持續深入工作的任務，而這正是聊天型 AI 工具會超時或失去上下文的場景。200K token 的上下文視窗更放大了這個優勢。"
+            },
+            {
+              "title": "Cursor Composer 2 在速度上有真實的代差提升",
+              "body": "Cursor Composer 2 在 CursorBench 得到 61.3 分，比前一代的 44.2 提升了 39%。實際影響是每個任務比 Copilot 快 30%，在高任務量的開發環境裡，這是持續累積的生產力優勢。"
+            },
+            {
+              "title": "GitHub Copilot 改 Token 計費對它的價值主張是實質衝擊",
+              "body": "Microsoft 把 Copilot Pro 用戶轉向 token 計費並收緊速率限制，讓固定月費方案帶來的可預測性消失了。深度整合 Copilot 的工程團隊現在面對月費不確定的壓力，這是 Cursor 和 Claude Code 可以直接受益的市場機會。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
