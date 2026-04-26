@@ -4116,6 +4116,191 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-04-26",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.5,
+            "contextWindow": 9.5,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 8.9,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 3,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Coding Assistants April 2026: Rankings and Review",
+          "url": "https://www.digitalapplied.com/blog/ai-coding-assistants-april-2026-cursor-copilot-claude",
+          "source": "Digital Applied"
+        },
+        {
+          "title": "Best AI Coding Agents for 2026: Real-World Developer Reviews",
+          "url": "https://www.faros.ai/blog/best-ai-coding-agents-2026",
+          "source": "Faros AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code moves up slightly in my contextWindow score this week following Anthropic's release of Claude Opus 4.7 on April 16, which introduces a 1 million token context window and high-resolution vision at 2,576px. For large codebase work — multi-repo refactors, reading entire test suites, reasoning about complex dependency graphs — this is a material capability jump. Claude Code already led on agentic capability; the expanded context makes it more decisive at the top. Cursor's Composer 2, released March 19, built on Kimi K2.5 with custom reinforcement learning, narrows the code quality gap slightly but doesn't unseat Claude Code for complex multi-file tasks. The most common production stack I'm seeing in April 2026 is Cursor for daily editing plus Claude Code for architectural work. GitHub Copilot holds third by sheer reach: agent mode is now generally available across VS Code and JetBrains, and at $10/month Pro it's the entry point for developers who haven't yet committed to a specialized tool. The JetBrains January 2026 survey of 10,000 developers found 90% now use at least one AI coding tool — this market has hit mainstream adoption.",
+          "highlights": [
+            {
+              "title": "Claude Opus 4.7's 1M context makes large codebase work qualitatively different",
+              "body": "With 1 million tokens of context, Claude Code can ingest an entire mid-sized repository in a single pass and reason about cross-file dependencies without losing track. The April 16 release also adds 2,576px vision, enabling it to read and understand screenshots, diagrams, and UI mockups alongside code. For architecture-level tasks this is the most capable tool available."
+            },
+            {
+              "title": "Cursor Composer 2 is the most significant Cursor release to date",
+              "body": "Built on Kimi K2.5 with proprietary reinforcement learning fine-tuning, Cursor's third-generation model delivers frontier-level code completion at $0.50 per million input tokens. The March 19 release narrows the quality gap with Claude Code on single-file and small-project tasks. For developers who live inside an IDE and want the fastest inline completion, Cursor is still the right tool."
+            },
+            {
+              "title": "90% of professional developers now use at least one AI coding tool",
+              "body": "JetBrains' January 2026 survey of over 10,000 professional developers confirms that AI coding tools have crossed into mainstream adoption. The implication for tool choice is that the question is no longer 'should I use AI assistance' but 'which combination produces the best workflow for my specific task types.' Cursor plus Claude Code is the leading production answer right now."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 這週在 contextWindow 分數上往上調了一點，原因是 Anthropic 在 4 月 16 日發布了 Claude Opus 4.7，帶來 100 萬 token 的 context window 和 2576px 高解析度視覺能力。對於大型程式碼庫的工作，跨 repo 重構、讀取完整測試套件、分析複雜的相依性圖，這是實質性的能力躍升。Cursor 在 3 月 19 日發布的 Composer 2 建立在 Kimi K2.5 之上，搭配自訂強化學習，讓程式碼品質的差距稍微縮小，但在複雜多檔案任務上還是追不上 Claude Code。四月份我觀察到的最常見生產環境組合是：Cursor 負責日常編輯，Claude Code 負責架構級別的工作。GitHub Copilot 排第三主要靠覆蓋面，Agent 模式現在在 VS Code 和 JetBrains 都全面開放，每月 $10 的 Pro 方案是沒有預算壓力的入門選擇。JetBrains 一月份調查超過一萬名開發者，九成現在至少使用一種 AI 輔助工具，這個市場已經到了主流採用的階段。",
+          "highlights": [
+            {
+              "title": "Claude Opus 4.7 的百萬 token context，讓大型程式碼庫工作有了質的改變",
+              "body": "一百萬 token 的 context 讓 Claude Code 可以在一次對話裡讀入一個中型 repo 的全部內容，理解跨檔案的相依關係而不會遺漏。4 月 16 日的更新也加入 2576px 解析度視覺能力，可以直接理解截圖、架構圖和 UI 稿件。在架構層級的任務上，這是目前市場最強的工具。"
+            },
+            {
+              "title": "Cursor Composer 2 是 Cursor 史上最重要的一次更新",
+              "body": "建立在 Kimi K2.5 加上自訂強化學習的 Cursor 第三代模型，在單一檔案和小型專案上的程式碼品質已經接近頂尖水準，每百萬 input token 只要 $0.50。對於主要在 IDE 裡工作、追求最快速 inline 補全的開發者，Cursor 還是最適合的工具。"
+            },
+            {
+              "title": "九成專業開發者現在至少用一種 AI 輔助工具",
+              "body": "JetBrains 一月份調查超過一萬名開發者，確認 AI 編程工具已經進入主流採用。現在的問題不再是要不要用 AI，而是哪種組合最適合你的工作類型。目前在台灣開發社群最常見的生產環境組合是 Cursor 負責日常、Claude Code 處理複雜任務。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

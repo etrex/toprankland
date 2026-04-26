@@ -3828,6 +3828,143 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-04-26",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.5,
+            "network": 9.5,
+            "usability": 9.0,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 9.0,
+            "network": 9.5,
+            "usability": 9.0,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.5,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "NordVPN vs Mullvad: 12 Tests, 1 Clear Winner in 2026",
+          "url": "https://cyberinsider.com/vpn/comparison/nordvpn-vs-mullvad/",
+          "source": "Cyber Insider"
+        },
+        {
+          "title": "The 3 Best VPNs For Privacy of 2026",
+          "url": "https://www.rtings.com/vpn/reviews/best/privacy",
+          "source": "RTINGS"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Mullvad holds the top position, and the reasoning is consistent: it is the only commercial VPN that requires no account creation, no email address, and no personal information of any kind. You generate a random account number and pay in cash or cryptocurrency. This isn't a product feature — it's a structural privacy guarantee that no other VPN in this list can claim. ProtonVPN at #2 combines strong privacy credentials — based in Switzerland under favorable jurisdiction with a verified no-logs audit — with the largest server network of any privacy-focused provider. For users who want both privacy and streaming library access across multiple regions, ProtonVPN is the better total package than Mullvad. NordVPN at #3 earns its position through speed: independent testing shows 700+ Mbps via NordLynx, and its post-quantum encryption implementation is ahead of most competitors. April 2026 comparative reviews from Cyber Insider confirm NordVPN is faster than Mullvad but trails on privacy practices. For roughly 70% of buyers asking 'which VPN should I get,' NordVPN is the answer; for the remaining 30% who prioritize maximum anonymity, Mullvad is correct.",
+          "highlights": [
+            {
+              "title": "Mullvad's no-account model is a structural privacy guarantee",
+              "body": "Every other VPN creates an account that links your subscription, login behavior, and potentially your identity to a service record. Mullvad generates a random 16-digit account number with no associated email or personal data. This means there is no account to subpoena, breach, or misuse — the privacy guarantee is structural, not dependent on trusting the company's no-logs claim."
+            },
+            {
+              "title": "NordVPN's 700+ Mbps via NordLynx is the speed benchmark",
+              "body": "Independent speed tests across multiple geographies show NordVPN achieving 700+ Mbps download speeds using the NordLynx WireGuard implementation. Mullvad averages 350+ Mbps in the same tests. The speed difference matters for 4K streaming, large file transfers, and users on high-bandwidth connections where VPN overhead becomes the bottleneck."
+            },
+            {
+              "title": "ProtonVPN is the right choice for streaming plus privacy",
+              "body": "ProtonVPN's server network spans more countries than Mullvad, with dedicated streaming-optimized servers for Netflix, Disney+, and other platforms across dozens of regions. Swiss jurisdiction provides strong legal protection. For travelers who want both access to their home streaming library and genuine privacy protection, ProtonVPN is the best single tool."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Mullvad 繼續排第一，理由一直都很清楚：它是唯一一個不需要創建帳號、不需要電子郵件、不需要任何個人資訊的商業 VPN。你生成一個隨機帳號編號，用現金或加密貨幣付款，整個過程沒有任何可以追蹤到你的資料點。這不是功能特色，這是結構性的隱私保證，這份名單裡沒有其他 VPN 能做到這一點。ProtonVPN 排第二，瑞士司法管轄加上通過獨立稽核的零日誌政策，加上最大的隱私導向伺服器網路，對於同時需要隱私保護和跨區串流的用戶，ProtonVPN 的整體套餐比 Mullvad 更完整。NordVPN 排第三靠速度，NordLynx 協議的實測下載速度超過 700Mbps，後量子加密的實作也比大多數競爭對手更先進。Cyber Insider 四月份的比較測試確認 NordVPN 速度快於 Mullvad，但隱私實踐上稍遜一籌。",
+          "highlights": [
+            {
+              "title": "Mullvad 不需帳號的模式，是結構性的隱私保證",
+              "body": "其他所有 VPN 都會創建帳號，把你的訂閱記錄、登入行為可能連結到你的身份。Mullvad 只生成一個 16 位數的隨機帳號，沒有任何關聯的個人資料。這代表根本沒有帳號可以被傳票要求調查、被入侵或被濫用，隱私保護是設計上就做到的，不需要靠信任公司的聲明。"
+            },
+            {
+              "title": "NordVPN 的 700Mbps 速度是這個類別的標竿",
+              "body": "多地點獨立速度測試顯示 NordVPN 透過 NordLynx 協議可以達到 700Mbps 以上的下載速度，Mullvad 在同樣測試下平均 350Mbps 左右。這個速度差距對於 4K 串流、大型檔案傳輸，或是使用高頻寬網路的用戶來說，VPN 的傳輸效率確實會成為瓶頸。"
+            },
+            {
+              "title": "需要串流加上隱私保護，ProtonVPN 才是最完整的選擇",
+              "body": "ProtonVPN 的伺服器覆蓋國家比 Mullvad 多，有針對 Netflix、Disney+ 等平台在多個地區優化的串流專用伺服器。瑞士司法管轄提供強力的法律保護。對於需要同時存取家鄉串流媒體庫和真正隱私保護的旅行者，ProtonVPN 是最好的單一工具。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
