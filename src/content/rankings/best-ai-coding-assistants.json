@@ -4301,6 +4301,191 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-04-27",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "codeQuality": 9.6,
+            "contextWindow": 9.5,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 8.9,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Introducing Claude Opus 4.7",
+          "url": "https://www.anthropic.com/news/claude-opus-4-7",
+          "source": "Anthropic"
+        },
+        {
+          "title": "GitHub Copilot Pricing 2026: Pro Tier Paused — What You Need to Know",
+          "url": "https://techsifted.com/posts/github-copilot-pricing-april-2026/",
+          "source": "TechSifted"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code's lead widens this week. The Opus 4.7 model now has time to demonstrate sustained agentic execution improvements in production — early reports converge on the same observation: tasks that previously required close supervision now run end-to-end with confidence. The new xhigh effort level and task budgets give finer control over the reasoning-latency tradeoff, which matters for production workflows. I'm raising Claude Code's code quality score to 9.6 to reflect this. GitHub Copilot's positioning shifted in a different direction this week — Microsoft paused new Pro signups and removed Opus models from Pro entirely, restricting Claude Opus 4.7 to Pro+ ($39/month) only. The effective price floor for Copilot users who want flagship Claude access has roughly quadrupled, which forces more developers to evaluate whether Cursor or direct Claude Code subscription is a better deal. I'm dropping Copilot's value score from 8.5 to 8.0 to reflect this. Cursor at #2 stays the right pick for IDE-centric daily editing. The market is consolidating around a clear two-tier structure: Cursor for daily flow, Claude Code for serious agentic work.",
+          "highlights": [
+            {
+              "title": "Claude Opus 4.7 production reports confirm agentic execution leap",
+              "body": "Two weeks after the April 16 Opus 4.7 release, production reports converge on the same observation: tasks that previously required active supervision can now be handed off to Claude Code with confidence. The xhigh effort level and task budget controls give predictable cost-quality tradeoffs that matter for team workflows. Code quality score moves to 9.6 to reflect sustained real-world performance."
+            },
+            {
+              "title": "GitHub Copilot Pro lockout pushes flagship users to alternatives",
+              "body": "Microsoft's April 20 decision to pause Pro signups and restrict Claude Opus 4.7 to Pro+ ($39/month) effectively quadruples the price floor for Copilot users who want flagship Claude access. Many will reconsider whether Cursor or direct Claude Code subscription delivers better value, and Copilot's value score drops to 8.0 in response."
+            },
+            {
+              "title": "Two-tier production stack is converging across teams",
+              "body": "The dominant production pattern in late April 2026 is Cursor for daily IDE editing plus Claude Code for architecture and complex multi-file work. This split lets developers stay in their IDE for fast inline completion while reaching for Claude Code's superior agentic execution when the task warrants it. Single-tool workflows are losing ground."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 這週領先擴大。Opus 4.7 模型上市兩週後，已經有足夠時間展示生產環境的持續 agentic 執行改善，早期報告匯聚到同一個觀察：原本需要密切監督的任務現在可以放手讓它端到端跑完。新的 xhigh 努力等級跟 task budgets 控制讓推理跟延遲的權衡更精細，這對生產工作流很重要。我把 Claude Code 的程式碼品質評分上調到 9.6。GitHub Copilot 這週走在不同的方向，Microsoft 4 月 20 日暫停 Pro 新註冊，並把 Opus 模型從 Pro 移除，把 Claude Opus 4.7 限制在 Pro+ ($39/月) 才能用。對想用旗艦 Claude 的 Copilot 用戶來說，價格門檻直接漲了快四倍，這會迫使更多開發者重新評估 Cursor 或直接訂閱 Claude Code 是不是更划算。我把 Copilot 的性價比從 8.5 降到 8.0。Cursor 維持第二是 IDE 為主日常編輯的正確選擇。市場正在向明確的兩層結構整合：Cursor 負責日常流程，Claude Code 處理嚴肅的 agentic 工作。",
+          "highlights": [
+            {
+              "title": "Claude Opus 4.7 生產報告確認 agentic 執行的躍進",
+              "body": "Opus 4.7 4 月 16 日發布後兩週，生產報告匯聚到同一個觀察：原本需要主動監督的任務現在可以放心交給 Claude Code 端到端執行。xhigh 努力等級跟 task budget 控制讓成本品質的權衡可預測，這對團隊工作流很重要。程式碼品質評分提升到 9.6 反映持續的真實表現。"
+            },
+            {
+              "title": "GitHub Copilot Pro 鎖定政策把旗艦用戶推向替代方案",
+              "body": "Microsoft 4 月 20 日的決策暫停 Pro 註冊，把 Claude Opus 4.7 限制在 Pro+ ($39/月) 才能用，對想用旗艦 Claude 的 Copilot 用戶來說，價格門檻有效翻了快四倍。很多人會重新考慮 Cursor 或直接訂閱 Claude Code 是不是更划算，Copilot 的性價比評分因此降到 8.0。"
+            },
+            {
+              "title": "兩層生產堆疊在團隊間逐漸收斂",
+              "body": "2026 年 4 月底主流生產模式是：Cursor 負責日常 IDE 編輯，Claude Code 處理架構跟複雜多檔案工作。這個分工讓開發者在 IDE 裡享受快速 inline 補全，遇到任務需要時拿出 Claude Code 的優越 agentic 執行能力。單一工具工作流正在失去地位。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
