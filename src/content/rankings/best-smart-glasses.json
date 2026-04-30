@@ -1,0 +1,409 @@
+{
+  "slug": "best-smart-glasses",
+  "category": "Wearables",
+  "scoreFactors": {
+    "features": "AI & Core Features",
+    "design": "Design & Comfort",
+    "battery": "Battery Life",
+    "ecosystem": "Software Ecosystem",
+    "value": "Value"
+  },
+  "i18n": {
+    "en": {
+      "title": "Best Smart Glasses 2026",
+      "description": "Ray-Ban Meta Gen 2, Oakley Meta, the new Ray-Ban Display, and the best AR specs from XREAL and Viture, ranked by what they actually do on your face every day."
+    },
+    "zh-tw": {
+      "title": "最佳智慧眼鏡 2026",
+      "description": "Ray-Ban Meta Gen 2、Oakley Meta、新上市的 Ray-Ban Display，加上 XREAL 與 Viture 的 AR 眼鏡，這份排行用實際每天戴出門會怎樣的角度幫你排好。"
+    }
+  },
+  "competitors": [
+    {
+      "id": "ray-ban-meta-gen-2",
+      "name": "Ray-Ban Meta (Gen 2)",
+      "brand": "Meta x Ray-Ban",
+      "url": "https://www.meta.com/ai-glasses/ray-ban-meta/",
+      "i18n": {
+        "en": {
+          "description": "The second-generation Wayfarer, Headliner, and Skyler frames with a 3K Ultra HD camera, ~8-hour battery, and Meta AI starting at $379.",
+          "priceRange": "$379"
+        },
+        "zh-tw": {
+          "description": "第二代 Wayfarer、Headliner、Skyler 三款框型，3K Ultra HD 相機、約 8 小時電池、Meta AI 內建，起價 379 美元。",
+          "priceRange": "約 NT$12,000"
+        }
+      }
+    },
+    {
+      "id": "meta-ray-ban-display",
+      "name": "Meta Ray-Ban Display",
+      "brand": "Meta x Ray-Ban",
+      "url": "https://www.meta.com/ai-glasses/meta-ray-ban-display/",
+      "i18n": {
+        "en": {
+          "description": "Meta's first mainstream HUD glasses with a 600x600 in-lens display at up to 5,000 nits, bundled with the Meta Neural Band wristband for $799.",
+          "priceRange": "$799"
+        },
+        "zh-tw": {
+          "description": "Meta 第一款主流 HUD 智慧眼鏡，鏡片內 600x600 顯示器最高 5,000 nits 亮度，盒裝包含 Meta Neural Band 神經手環，售價 799 美元。",
+          "priceRange": "約 NT$25,500"
+        }
+      }
+    },
+    {
+      "id": "oakley-meta-hstn",
+      "name": "Oakley Meta HSTN",
+      "brand": "Meta x Oakley",
+      "url": "https://www.meta.com/ai-glasses/oakley-meta-hstn/",
+      "i18n": {
+        "en": {
+          "description": "Oakley's everyday performance frame with the same Meta AI stack as the Ray-Ban, IPX4 sweat resistance, Prizm lens options, and a $399 starting price.",
+          "priceRange": "$399"
+        },
+        "zh-tw": {
+          "description": "Oakley 日常運動款，Meta AI 平台跟 Ray-Ban 同一套，IPX4 防汗、可選配 Prizm 鏡片，起價 399 美元。",
+          "priceRange": "約 NT$12,800"
+        }
+      }
+    },
+    {
+      "id": "oakley-meta-vanguard",
+      "name": "Oakley Meta Vanguard",
+      "brand": "Meta x Oakley",
+      "url": "https://www.meta.com/ai-glasses/oakley-meta-vanguard/",
+      "i18n": {
+        "en": {
+          "description": "A Sphaera-shaped athletic shield with a centered 3K camera, 9-hour battery, Garmin and Strava integration, and a flat $499 price for cyclists and runners.",
+          "priceRange": "$499"
+        },
+        "zh-tw": {
+          "description": "Sphaera 包覆式運動鏡型，中置 3K 相機、9 小時電池、整合 Garmin 與 Strava，售價 499 美元，是給單車和跑者用的。",
+          "priceRange": "約 NT$15,900"
+        }
+      }
+    },
+    {
+      "id": "xreal-one-pro",
+      "name": "XREAL One Pro",
+      "brand": "XREAL",
+      "url": "https://us.shop.xreal.com/products/xreal-one-pro",
+      "i18n": {
+        "en": {
+          "description": "57-degree FoV dual 1080p Sony micro-OLED, 120Hz, 3DoF tracking, and the X1 spatial chip in an 87g frame, now permanently $599.",
+          "priceRange": "$599"
+        },
+        "zh-tw": {
+          "description": "57 度視野角、雙眼 1080p Sony micro-OLED、120Hz、3DoF 追蹤，搭配 X1 空間晶片，整支 87 克，永久降到 599 美元。",
+          "priceRange": "約 NT$19,200"
+        }
+      }
+    },
+    {
+      "id": "xreal-one",
+      "name": "XREAL One",
+      "brand": "XREAL",
+      "url": "https://us.shop.xreal.com/products/xreal-one",
+      "i18n": {
+        "en": {
+          "description": "The mainstream sibling of One Pro with a 50-degree FoV, 120Hz dual 1080p micro-OLED, and the same X1 chip at $449 for plug-and-play virtual screens.",
+          "priceRange": "$449"
+        },
+        "zh-tw": {
+          "description": "One Pro 的標準版，50 度視野、120Hz 雙眼 1080p micro-OLED，一樣搭 X1 晶片，449 美元就能 USB-C 一線接出虛擬螢幕。",
+          "priceRange": "約 NT$14,400"
+        }
+      }
+    },
+    {
+      "id": "viture-pro-xr",
+      "name": "Viture Pro XR",
+      "brand": "Viture",
+      "url": "https://www.viture.com/pro",
+      "i18n": {
+        "en": {
+          "description": "77g micro-OLED AR glasses with 4,000-nit dual 1080p displays, real-time 2D-to-3D conversion, and SpaceWalker software for Mac, Windows, and consoles.",
+          "priceRange": "$459"
+        },
+        "zh-tw": {
+          "description": "77 克 micro-OLED AR 眼鏡，雙眼 1080p 4,000 nits、即時 2D 轉 3D、SpaceWalker 軟體支援 Mac、Windows 和遊戲主機。",
+          "priceRange": "約 NT$14,700"
+        }
+      }
+    },
+    {
+      "id": "even-realities-g1",
+      "name": "Even Realities G1",
+      "brand": "Even Realities",
+      "url": "https://www.evenrealities.com/g1",
+      "i18n": {
+        "en": {
+          "description": "A 44g titanium prescription-first frame with a green micro-LED waveguide for notifications, navigation, and translation captions, starting at $599.",
+          "priceRange": "$599"
+        },
+        "zh-tw": {
+          "description": "44 克鈦合金處方眼鏡為主的設計，綠色 micro-LED 波導投影通知、導航、翻譯字幕，起價 599 美元。",
+          "priceRange": "約 NT$19,200"
+        }
+      }
+    },
+    {
+      "id": "solos-airgo-v-krypton",
+      "name": "Solos AirGo V Krypton 1",
+      "brand": "Solos",
+      "url": "https://solosglasses.com/products/krypton-1-smartglasses-solos-airgo%E2%84%A2-v",
+      "i18n": {
+        "en": {
+          "description": "AI camera smart glasses with swappable front modules, ChatGPT-4o and Gemini support, open-ear audio, and a $299 entry point.",
+          "priceRange": "$299"
+        },
+        "zh-tw": {
+          "description": "AI 相機智慧眼鏡，前蓋模組可更換，支援 ChatGPT-4o 和 Gemini、開放式音訊，299 美元就能入手。",
+          "priceRange": "約 NT$9,600"
+        }
+      }
+    },
+    {
+      "id": "rayneo-x3-pro",
+      "name": "RayNeo X3 Pro",
+      "brand": "RayNeo (TCL)",
+      "url": "https://www.rayneo.com/products/rayneo-x3-pro",
+      "i18n": {
+        "en": {
+          "description": "True binocular AR glasses with full-color micro-LED waveguides, on-board Snapdragon AR1, and a CES 2026 Innovation Award, priced from $1,099.",
+          "priceRange": "$1,099"
+        },
+        "zh-tw": {
+          "description": "雙眼真 AR 眼鏡，全彩 micro-LED 波導、機身內建 Snapdragon AR1、拿下 CES 2026 創新獎，起價 1,099 美元。",
+          "priceRange": "約 NT$35,200"
+        }
+      }
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-04-30",
+      "rankings": [
+        {
+          "id": "ray-ban-meta-gen-2",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "features": 9.0,
+            "design": 9.5,
+            "battery": 9.0,
+            "ecosystem": 9.5,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "oakley-meta-hstn",
+          "rank": 2,
+          "score": 8.9,
+          "scores": {
+            "features": 9.0,
+            "design": 8.5,
+            "battery": 9.0,
+            "ecosystem": 9.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "meta-ray-ban-display",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "features": 9.5,
+            "design": 8.0,
+            "battery": 7.5,
+            "ecosystem": 9.0,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "xreal-one-pro",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "features": 9.0,
+            "design": 8.0,
+            "battery": 8.0,
+            "ecosystem": 8.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "oakley-meta-vanguard",
+          "rank": 5,
+          "score": 8.4,
+          "scores": {
+            "features": 8.5,
+            "design": 8.0,
+            "battery": 9.5,
+            "ecosystem": 9.0,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "xreal-one",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "features": 8.5,
+            "design": 8.0,
+            "battery": 8.0,
+            "ecosystem": 8.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "viture-pro-xr",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "features": 8.5,
+            "design": 8.0,
+            "battery": 8.0,
+            "ecosystem": 8.0,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "even-realities-g1",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "features": 7.0,
+            "design": 9.5,
+            "battery": 8.0,
+            "ecosystem": 7.0,
+            "value": 7.0
+          }
+        },
+        {
+          "id": "solos-airgo-v-krypton",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "features": 7.5,
+            "design": 7.0,
+            "battery": 7.5,
+            "ecosystem": 7.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "rayneo-x3-pro",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "features": 9.0,
+            "design": 7.0,
+            "battery": 6.5,
+            "ecosystem": 6.5,
+            "value": 6.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "I've reviewed all of Meta's smart glasses, and this is the pair I'd actually buy",
+          "url": "https://www.tomsguide.com/computing/smart-glasses/ive-reviewed-all-of-metas-smart-glasses-and-this-is-the-pair-id-actually-buy",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "Best smart glasses and AR specs: We test Ray-Ban Meta, Oakley, and more",
+          "url": "https://www.wareable.com/ar/the-best-smartglasses-google-glass-and-the-rest",
+          "source": "Wareable"
+        },
+        {
+          "title": "Best Smart Glasses 2026: AI Camera Glasses, AR Displays, and Minimalist HUDs",
+          "url": "https://wearablebeat.com/articles/best-smart-glasses-2026/",
+          "source": "WearableBeat"
+        },
+        {
+          "title": "Ray-Ban Meta (Gen 2) vs. Oakley Meta Vanguard: Chic meets sporty",
+          "url": "https://www.androidcentral.com/apps-software/meta/ray-ban-meta-gen-2-vs-oakley-meta-vanguard",
+          "source": "Android Central"
+        },
+        {
+          "title": "Xreal One Pro AR glasses review: The next generation is pricey, but worth it",
+          "url": "https://www.tomsguide.com/computing/vr-ar/smart-glasses/xreal-one-pro-ar-glasses-review",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "Xreal Slashes One Pro AR Glasses to $599 Permanently",
+          "url": "https://www.techbuzz.ai/articles/xreal-slashes-one-pro-ar-glasses-to-599-permanently",
+          "source": "TechBuzz"
+        },
+        {
+          "title": "Even Realities G1 smart glasses review: The everyday (pricey) AI glasses you'll want to wear",
+          "url": "https://www.tomsguide.com/computing/smart-glasses/even-realities-g1-smart-glasses-review",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "CES 2026: Meta Ray-Ban Display Teleprompter, Neural Handwriting, Industry & Research Collaborations, & More",
+          "url": "https://www.meta.com/blog/ces-2026-meta-ray-ban-display-teleprompter-emg-handwriting-garmin-unified-cabin-university-of-utah-tetraski/",
+          "source": "Meta"
+        },
+        {
+          "title": "Solos AirGo V2: cutting-edge smart glasses with AI launch at CES 2026 for $299",
+          "url": "https://www.androidcentral.com/wearables/solos-airgo-v2-smart-glasses-are-here-with-camera-enabled-ai-for-usd299-at-ces-2026",
+          "source": "Android Central"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "2026 is the year smart glasses split into two clearly different products and stopped pretending to be one category. AI camera glasses (Ray-Ban Meta, Oakley Meta, Solos) live on your face all day, listen, see, and answer. AR display glasses (XREAL, Viture, RayNeo) plug into a phone or laptop and float a virtual monitor in front of you. The Meta Ray-Ban Display is the first product trying to bridge both worlds with an actual in-lens HUD. I ranked these the way a real buyer would shop them, by which one earns its place on your face, not by spec sheets.\n\nRay-Ban Meta Gen 2 takes first because it is the only smart glasses product in 2026 that I would tell a friend to buy without a list of caveats. The Wayfarer, Headliner, and Skyler frames look like Ray-Bans, full stop. The 3K Ultra HD camera is a real generational jump from the 1080p first generation, the battery hits roughly 8 hours of mixed use, and Meta AI on the glasses is genuinely useful for translation, identifying landmarks, and answering quick questions while your phone stays in your pocket. At $379 it is the cheapest premium option in the list and the easiest one to actually wear in public.\n\nOakley Meta HSTN is second and the right answer for anyone whose life involves sweat. Same Meta AI stack as the Ray-Ban, same camera quality, but with IPX4 protection, Prizm lens options, and a frame geometry that stays put when you run. At $399 it is barely a premium over the Ray-Ban for what amounts to a sport-optimized version of the same product, and Oakley's lens catalog is in another league for outdoor use.\n\nMeta Ray-Ban Display lands at three because it is the most futuristic product in the list and also the one with the biggest asterisks. The 600x600 in-lens display at up to 5,000 nits is genuinely visible in direct sunlight, and the bundled Meta Neural Band wristband reading EMG signals from your wrist is the most natural input method any consumer wearable has shipped. But it is $799, US-only as of April 2026, and battery life takes a hit from driving the display. Buy it if you want to be the first person at your office wearing a HUD. Wait for Gen 2 if you want a daily driver.\n\nXREAL One Pro is fourth and the smartest AR display purchase in 2026. The 57-degree FoV is the widest in any consumer AR glasses, the dual Sony 1080p micro-OLED at 120Hz looks identical to a high-end OLED monitor floating in front of you, and the X1 spatial chip locks the virtual screen in place when you turn your head. The permanent price drop to $599 made this the obvious recommendation for anyone who wants a portable second display for laptop work or Steam Deck gaming.\n\nOakley Meta Vanguard at five is the niche pick for athletes who already wear a Sphaera shape and want the AI features without changing their cycling kit. The 9-hour battery and Garmin or Strava integration are excellent, but the centered 3K camera is more limited than the dual-camera Ray-Ban setup, and the wraparound shape is too aggressive for daily city wear.\n\nXREAL One at six is the value version of the One Pro. Same X1 chip, same 120Hz dual 1080p panels, same spatial tracking, just a narrower 50-degree FoV. At $449 it is the gateway product into AR displays for anyone who finds $599 too steep.\n\nViture Pro XR at seven punches above its weight on software. The SpaceWalker app handles spatial computing on Mac and Windows better than XREAL Beam in some workflows, the real-time 2D-to-3D conversion is genuinely fun for movies, and the 4,000-nit panels look great. It loses to XREAL only on field of view and head-tracking polish.\n\nEven Realities G1 at eight is the only product in this list that solves the social problem of smart glasses by looking like prescription titanium frames you would buy from your optometrist. The green micro-LED waveguide is intentionally minimal, displaying notifications, turn-by-turn navigation, and translation captions only. If you want a discreet daily wearable that happens to do AR, this is it. Just know the AI features are basic compared to Meta.\n\nSolos AirGo V Krypton 1 at nine is the budget AI camera glasses pick. ChatGPT-4o and Gemini support, swappable front plates, $299 entry, but the camera quality and Meta AI ecosystem cannot match Ray-Ban. Worth it if your budget caps at $300 and you specifically want the OpenAI or Google AI stack.\n\nRayNeo X3 Pro at ten is a fascinating product that is not for most people. True binocular full-color AR with on-board Snapdragon AR1 means you can use it without a tethered phone, and CES 2026 gave it a deserved Innovation Award. But $1,099 is enthusiast pricing, the battery life is the worst in the list, and the consumer software ecosystem is years behind XREAL. Watch this space, do not buy it yet.",
+          "highlights": [
+            {
+              "title": "Ray-Ban Meta Gen 2 is the smart glasses you can actually recommend to your parents",
+              "body": "Every other product on this list comes with a tutorial. Ray-Ban Meta Gen 2 comes with a Wayfarer frame your dad already owns. The 3K camera is twice the resolution of Gen 1 with cleaner low-light capture, the battery survives a full sightseeing day, and Meta AI handles translation and visual lookups well enough to replace pulling out your phone in restaurants and airports. At $379 it costs less than a flagship phone case for what is the most polished consumer wearable since AirPods."
+            },
+            {
+              "title": "Oakley Meta HSTN is the version Meta should have launched first for the active market",
+              "body": "Ray-Ban Meta Gen 2 is great for street wear. It is also embarrassing on a bike ride. Oakley Meta HSTN takes the same AI platform and wraps it in a frame engineered for sport. IPX4 sweat resistance, Prizm lenses that handle bright sun better than any tinted Ray-Ban, and a temple geometry that does not slide off during a run. The $20 premium over the base Ray-Ban is the right tax for any buyer who exercises in their glasses, and Strava and Garmin integration on the Vanguard variant proves Meta is serious about athletes."
+            },
+            {
+              "title": "The Meta Ray-Ban Display is a $799 thrill ride for early adopters and nobody else",
+              "body": "I love this product and I am telling most people to wait. The in-lens HUD at 5,000 nits is the first heads-up display I can read outdoors, the Neural Band reading wrist EMG signals is genuinely the most natural input I have used on a wearable, and the teleprompter and turn-by-turn nav use cases work today. But the international rollout is paused, battery life takes a real hit, and at $799 you are buying first-generation hardware with the trade-offs that always come with that. The right purchase for builders, content creators, and people who buy the first iPhone every year. The wrong purchase if you want a daily driver in 2026."
+            },
+            {
+              "title": "XREAL One Pro at $599 is the only AR display I tell laptop users to actually buy",
+              "body": "AR display glasses have been a niche category for three years. XREAL One Pro is the first one that crosses into mainstream value. 57-degree field of view means the virtual monitor finally fills your visual field. The X1 chip locking the screen in place when you turn your head fixes the only real complaint anyone had about earlier XREAL models. And the permanent price drop to $599 puts it below a 27-inch QHD desk monitor for what is effectively a portable Pro Display XDR you carry in a glasses case. Anyone working from coffee shops or commuting with a Steam Deck should treat this as the default."
+            },
+            {
+              "title": "Smart glasses split into two product categories in 2026 and that is good for buyers",
+              "body": "AI camera glasses and AR display glasses solve different problems. The Ray-Ban Meta family lives on your face and listens. The XREAL and Viture family plugs into your laptop or handheld and gives you a screen. Meta Ray-Ban Display is trying to be both. Buyers who pick a category first and then a product within that category will be much happier than buyers who try to find one pair that does everything. The good news is that 2026 is the first year both categories have a clear winner, and you do not have to settle in either one."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "2026 年是智慧眼鏡正式分成兩種完全不同產品的一年，終於不用再裝成同一個品類。AI 相機眼鏡（Ray-Ban Meta、Oakley Meta、Solos）整天戴在臉上，會聽、會看、會回答你。AR 顯示眼鏡（XREAL、Viture、RayNeo）接上手機或筆電，在你眼前浮一塊虛擬螢幕。Meta Ray-Ban Display 是第一款想用真正的鏡片內 HUD 把兩邊接起來的產品。這份排行我是用一般人實際買回家會怎麼戴的角度來排，不是看規格表。\n\nRay-Ban Meta Gen 2 排第一，因為它是 2026 年智慧眼鏡裡唯一一款，我推薦給朋友不用先列一堆但書的產品。Wayfarer、Headliner、Skyler 三款框型就是 Ray-Ban，沒有違和感。3K Ultra HD 相機比第一代 1080p 是真正的世代差距，混合使用大概撐 8 小時，眼鏡上的 Meta AI 用來翻譯、辨識景點、回答簡單問題真的有用，手機可以放口袋裡。台幣一萬二上下是這份清單裡最便宜的高階選項，也是最容易戴出門不尷尬的一款。\n\nOakley Meta HSTN 排第二，是有運動需求的人該選的版本。Meta AI 平台跟相機畫質都跟 Ray-Ban 一樣，但多了 IPX4 防汗、Prizm 鏡片可選、鏡腳幾何在跑步時不會滑下來。比 Ray-Ban 只貴 20 美元，等於用很合理的差價換到運動最佳化的同一款產品，Oakley 的鏡片型錄在戶外場景比 Ray-Ban 強一個檔次。\n\nMeta Ray-Ban Display 排第三，是這份清單裡最有未來感的產品，但也是但書最多的一款。鏡片內 600x600 顯示器最高 5,000 nits，太陽底下真的看得到，盒裝附的 Meta Neural Band 神經手環讀手腕 EMG 訊號，是目前消費級穿戴裝置最自然的輸入方式。但售價台幣兩萬五，2026 年 4 月還是只有美國買得到，加上要驅動顯示器電池會掉一截。如果你想當辦公室第一個戴 HUD 的人，這台就是答案。如果你想買一支天天戴的智慧眼鏡，等第二代比較實在。\n\nXREAL One Pro 排第四，是 2026 年最聰明的 AR 顯示眼鏡選擇。57 度視野是消費級 AR 眼鏡裡最寬的，雙眼 Sony 1080p micro-OLED 120Hz 看起來就像一台高階 OLED 螢幕浮在眼前，X1 空間晶片在你轉頭時把虛擬螢幕鎖在原位。永久降價到 599 美元之後，誰想要一台帶著走的副螢幕配筆電工作或接 Steam Deck，這台就是預設答案。\n\nOakley Meta Vanguard 排第五，是給已經習慣 Sphaera 包覆型運動鏡型的運動員，想要 AI 功能但又不想換裝備時的選擇。9 小時電池跟整合 Garmin、Strava 都很棒，但中置單顆 3K 相機比 Ray-Ban 雙鏡頭限制多，包覆造型也太強烈，平日進城戴會太挑場合。\n\nXREAL One 排第六，是 One Pro 的標準版。一樣 X1 晶片、一樣 120Hz 雙眼 1080p 面板、一樣空間追蹤，只差視野角縮到 50 度。售價 449 美元，是覺得 599 太貴又想試 AR 顯示的人最好的入門選項。\n\nViture Pro XR 排第七，軟體做得超出價位該有的水準。SpaceWalker app 在 Mac 和 Windows 上某些工作流程處理空間運算比 XREAL Beam 順，即時 2D 轉 3D 看電影確實好玩，4,000 nits 面板亮度也漂亮。輸給 XREAL 的地方只在視野角跟頭部追蹤的細膩度。\n\nEven Realities G1 排第八，是這份清單裡唯一一款解決智慧眼鏡社交尷尬的產品，外觀就是一支你會在配鏡店買的鈦合金處方眼鏡。綠色 micro-LED 波導故意做得很簡約，只投影通知、轉彎導航和翻譯字幕。想要一支低調日戴又剛好有 AR 的眼鏡，就是它了。要知道它的 AI 功能比 Meta 陽春很多，這點要先有心理準備。\n\nSolos AirGo V Krypton 1 排第九，是預算型的 AI 相機眼鏡。支援 ChatGPT-4o 跟 Gemini、前蓋模組可換、起價 299 美元，但相機畫質跟 Meta AI 生態系比不上 Ray-Ban。預算卡在 1 萬塊以內、又特別想用 OpenAI 或 Google AI 的人值得考慮。\n\nRayNeo X3 Pro 排第十，是這份清單裡最有意思但不是給大多數人買的產品。雙眼真彩色 AR，機身內建 Snapdragon AR1，可以脫離手機獨立運作，CES 2026 拿了創新獎名副其實。但 1,099 美元是發燒友定價，電池續航是這份清單最差的一款，消費端軟體生態系比 XREAL 落後好幾年。值得追蹤，但現在還不是出手的時機。",
+          "highlights": [
+            {
+              "title": "Ray-Ban Meta Gen 2 是這份清單裡你可以推薦給爸媽的智慧眼鏡",
+              "body": "其他每一款產品都附帶一張使用教學。Ray-Ban Meta Gen 2 附帶一支你爸已經有的 Wayfarer。3K 相機畫素是 Gen 1 兩倍、低光雜訊明顯改善，電池撐得過一整天觀光行程，Meta AI 翻譯和視覺辨識在餐廳和機場真的可以取代你掏手機。一萬二台幣的入手價比一支旗艦手機殼還便宜，是 AirPods 之後最完成度高的消費級穿戴。"
+            },
+            {
+              "title": "Oakley Meta HSTN 是 Meta 應該優先發給運動族群的版本",
+              "body": "Ray-Ban Meta Gen 2 街拍很好看，騎腳踏車戴出門有點丟臉。Oakley Meta HSTN 把同一套 AI 平台塞進專為運動設計的鏡框。IPX4 防汗、Prizm 鏡片在強光下比任何 Ray-Ban 染色片都強，鏡腳幾何跑步時不會滑下來。比基本款 Ray-Ban 多 20 美元，對任何戴眼鏡運動的人來說是合理的稅金，Vanguard 版本還整合 Strava 跟 Garmin，證明 Meta 對運動族群是認真的。"
+            },
+            {
+              "title": "Meta Ray-Ban Display 是給早期採用者玩的兩萬五大冒險，其他人先別跳",
+              "body": "我超喜歡這款產品，但我會跟大多數人說再等等。鏡片內 5,000 nits HUD 是我第一次能在戶外看清楚的抬頭顯示器，Neural Band 讀手腕 EMG 訊號真的是我用過最自然的穿戴輸入法，提詞器跟轉彎導航在當下就能用。但國際版發售暫停、電池續航明顯被砍、台幣兩萬五是一代產品該有的代價。適合喜歡買新東西的開發者、內容創作者、每年都搶第一支 iPhone 的人。想找一支 2026 年天天戴的眼鏡，這台不對。"
+            },
+            {
+              "title": "XREAL One Pro 599 美元，是我會推薦筆電族真的下手買的 AR 顯示眼鏡",
+              "body": "AR 顯示眼鏡這個品類玩了三年才終於出現主流 CP 值產品。XREAL One Pro 就是。57 度視野讓虛擬螢幕真的填滿視野範圍，X1 晶片轉頭螢幕鎖位置這件事，把以前 XREAL 唯一的痛點解決了。永久降到 599 美元，比一台 27 吋 QHD 桌機螢幕還便宜，等於你用一個眼鏡盒帶著一台 Pro Display XDR 出門。常常在咖啡廳工作或通勤帶 Steam Deck 的人，就直接買它。"
+            },
+            {
+              "title": "智慧眼鏡在 2026 年正式分成兩個品類，這對買家是好事",
+              "body": "AI 相機眼鏡跟 AR 顯示眼鏡解決的是兩個不同的問題。Ray-Ban Meta 那一派整天戴在臉上、會聽你講話。XREAL 跟 Viture 那一派接上筆電或掌機、給你一個螢幕。Meta Ray-Ban Display 想兩邊兼顧。先決定你要哪一種、再從那一類挑產品的人，買回家會比想找一支什麼都會的眼鏡的人開心很多。好消息是 2026 年是這兩種品類第一次都有明確贏家的一年，你不用在哪一邊將就。"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
