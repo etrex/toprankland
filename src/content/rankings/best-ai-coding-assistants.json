@@ -4486,6 +4486,207 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-02",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "codeQuality": 9.6,
+            "contextWindow": 9.5,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 8.9,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Introducing Claude Opus 4.7",
+          "url": "https://www.anthropic.com/news/claude-opus-4-7",
+          "source": "Anthropic"
+        },
+        {
+          "title": "GitHub Copilot Pricing 2026: Pro Tier Paused — What You Need to Know",
+          "url": "https://techsifted.com/posts/github-copilot-pricing-april-2026/",
+          "source": "TechSifted"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "May 2026 is the moment Claude Code stops being a contender and becomes the default. Anthropic shipped the 1M-context window for Opus 4.7 in late April, which means the entire codebase of most production apps fits in a single conversation, and the agentic loop is now the most reliable I have used for multi-file refactors. Cursor at #2 still owns the editor experience and the inline diff is the smoothest of any tool, but the model layer underneath is borrowed and Cursor's pricing has crept up to where it competes with Claude Code on cost. Codex at #4 jumped two spots after the GPT-5.1 update because the multi-file planning is now coherent across an entire feature. GitHub Copilot is at #3 by inertia, not merit — Microsoft's enterprise distribution keeps it locked in, but the actual code it writes lags Claude and Cursor by a generation. Jules at #5 is the wild card; Google's iteration pace on it has been the fastest of any vendor and the free tier is the most generous in the category. Below the top five, Devin is the agentic dream that still needs supervision, Amazon Q is the AWS lock-in play, and Aider is the OSS power user choice. Pick Claude Code if you write production code daily, Cursor if you live in the editor, and Copilot if your company makes the choice for you.",
+          "highlights": [
+            {
+              "title": "Claude Code with the 1M-context Opus 4.7 is the first AI coding tool I trust on real refactors",
+              "body": "The 1M-context window means a 200-file codebase fits in one conversation without retrieval games. Opus 4.7's agentic loop completes multi-file changes with the right tests and the right docstrings on the first try most of the time. At $20 a month for the Pro plan it is the single best productivity dollar I spend in 2026."
+            },
+            {
+              "title": "Cursor still wins on editor UX and that is its only moat now",
+              "body": "The inline diff, the tab completion, and the file-tree-aware context are still the smoothest in the category. But the model layer underneath is whatever Anthropic and OpenAI ship, and Cursor's $20-per-month pricing now ties Claude Code. If you live in the editor, Cursor. If you live in the terminal, Claude Code."
+            },
+            {
+              "title": "Copilot is at #3 because of Microsoft's distribution, not because the code is good",
+              "body": "GitHub Copilot still has the broadest enterprise rollout, the deepest IDE integration, and the lowest friction sale to a CIO. But the actual code suggestions are a generation behind Claude and Cursor, and the agentic mode is half-baked. Pick it if your employer picks it for you."
+            },
+            {
+              "title": "OpenAI Codex jumped to #4 after the GPT-5.1 multi-file planning update",
+              "body": "Codex used to lose context across a feature touching three files. The GPT-5.1 update fixed that and the result is now coherent across a real codebase. Still trails Claude Code on tool use and on the agentic feedback loop, but it has closed the gap fast."
+            },
+            {
+              "title": "Jules is the most generous free tier in the category and the dark horse",
+              "body": "Google Jules has shipped more improvements in Q1 2026 than any other tool, and the free tier still includes Gemini 3.0 Pro for unlimited prompts. If your team has a budget of zero and you want to evaluate AI coding without a credit card, this is the place to start."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "2026 年 5 月就是 Claude Code 從挑戰者變成預設選擇的轉捩點。Anthropic 在 4 月底為 Opus 4.7 推出 1M context window，等於大部分 production 應用的整個 codebase 都能塞進一次對話，跨檔案 refactor 的 agentic loop 已經是我用過最穩定的版本。Cursor 排第二，編輯器體驗還是最好的，inline diff 平順度業界第一，但底層模型是借來的，定價也悄悄漲到跟 Claude Code 打平的位置。Codex 排第四，GPT-5.1 更新後跨檔案規劃終於能跟上整個 feature 的脈絡，所以一次跳兩個名次。GitHub Copilot 排第三是靠慣性而不是實力，微軟的企業通路把它鎖在那邊，但實際寫出來的 code 比 Claude 跟 Cursor 落後一個世代。Jules 排第五是黑馬，Google 的迭代速度是所有家裡最快的，免費額度也最大方。前五名以下，Devin 是還需要督導的 agentic 美夢，Amazon Q 是 AWS 綁定遊戲，Aider 是 OSS 重度玩家的選擇。每天寫 production code 就選 Claude Code，整天泡在編輯器就選 Cursor，公司幫你決定的就是 Copilot。",
+          "highlights": [
+            {
+              "title": "Claude Code 配 1M context Opus 4.7，是我第一次敢交給 AI 做真正 refactor 的工具",
+              "body": "1M context window 等於 200 個檔案的 codebase 一次塞進對話，不用玩檢索遊戲。Opus 4.7 的 agentic loop 跨檔案改動大部分時候第一次就把測試跟註解都寫對。Pro 方案月費 600 元台幣左右，是我 2026 年花得最值得的生產力支出。"
+            },
+            {
+              "title": "Cursor 還是贏在編輯器體驗，但這已經是它唯一的護城河",
+              "body": "inline diff、tab 補完、整個檔案樹的 context 感知還是業界最順。但底層模型跟著 Anthropic 跟 OpenAI 走，月費 600 元台幣現在跟 Claude Code 打平。整天泡在編輯器就選 Cursor，整天泡在終端機就選 Claude Code。"
+            },
+            {
+              "title": "Copilot 排第三是因為微軟的通路，不是因為它寫的 code 好",
+              "body": "GitHub Copilot 企業推廣最廣、IDE 整合最深、賣給 CIO 阻力最低。但實際的程式碼建議比 Claude 跟 Cursor 落後一個世代，agentic 模式也只做了一半。公司幫你決定就用它，自己選不會選這個。"
+            },
+            {
+              "title": "OpenAI Codex 在 GPT-5.1 更新後跨檔案規劃終於跟上，所以跳到第四",
+              "body": "Codex 之前一個 feature 改三個檔案就會失憶。GPT-5.1 更新後跨整個 codebase 的脈絡掌握度終於追上，但 tool use 跟 agentic feedback loop 還是落後 Claude Code，差距明顯縮小。"
+            },
+            {
+              "title": "Jules 是這個品類最大方的免費方案，也是最值得觀察的黑馬",
+              "body": "Google Jules 在 2026 年 Q1 推進的功能比其他家都多，免費方案還包含 Gemini 3.0 Pro 無限次提示。團隊預算為零想試 AI 寫 code 又不想刷信用卡，從這裡開始。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

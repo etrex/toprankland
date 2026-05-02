@@ -3965,6 +3965,159 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-02",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.5,
+            "network": 9.5,
+            "usability": 9.0,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 9.0,
+            "network": 9.5,
+            "usability": 9.0,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.5,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "NordVPN vs Mullvad: 12 Tests, 1 Clear Winner in 2026",
+          "url": "https://cyberinsider.com/vpn/comparison/nordvpn-vs-mullvad/",
+          "source": "Cyber Insider"
+        },
+        {
+          "title": "The 3 Best VPNs For Privacy of 2026",
+          "url": "https://www.rtings.com/vpn/reviews/best/privacy",
+          "source": "RTINGS"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "VPN service rankings hold steady in May 2026 because the privacy tier and the streaming tier have separated cleanly. Mullvad holds first because it is still the only major VPN that does not require an account or email — you pay €5/month with cash, crypto, or card to a one-time-generated account number. The privacy story is unmatched and the technical implementation is rock-solid. Proton VPN at #2 is the smart-money privacy pick — Swiss-based, audited, and the free tier is genuinely usable. NordVPN at #3 is the streaming pick where Netflix and BBC iPlayer geo-unblocking is the priority. iVPN at #4 is the privacy pick that competes with Mullvad. ExpressVPN at #5 is the polished-app choice. Surfshark at #6 is the unlimited-devices pick. Windscribe at #7 is the freemium pick. Pick Mullvad for privacy. Pick Proton if you want the email and cloud bundled. Pick NordVPN if streaming is the priority. Pick Surfshark if you have ten devices to cover. Skip every free VPN — you are the product.",
+          "highlights": [
+            {
+              "title": "Mullvad holds first because the no-account model is the privacy benchmark",
+              "body": "No email required. Pay with cash mailed in an envelope, crypto, or card. The account number is generated once and that is your identity. Audited code, WireGuard implementation, and Swedish jurisdiction. At €5/month it is priced like the budget VPNs and offers privacy nobody else matches."
+            },
+            {
+              "title": "Proton VPN is the smart-money privacy pick with a usable free tier",
+              "body": "Swiss-based, audited, and the free tier actually works (slower speeds but no ads, no logging, no time limit). The paid tier at $4.99/month bundles Proton Mail, Drive, and Calendar. Buy this if you want the privacy plus the productivity bundle."
+            },
+            {
+              "title": "NordVPN is the streaming pick where geo-unblocking matters",
+              "body": "Netflix US, UK, Japan, BBC iPlayer, Hulu — NordVPN's specialty servers consistently unblock these where Mullvad and Proton fail or take longer. At $3.69/month on a 2-year plan it is priced like the budget VPNs. Buy this if streaming is the use case."
+            },
+            {
+              "title": "Surfshark is the right pick for households with many devices",
+              "body": "Unlimited simultaneous connections at $2.49/month on a 2-year plan. The privacy story is solid (audited, no logging) and the streaming unblocking works for most major services. Buy this if you have a family with 5+ devices each."
+            },
+            {
+              "title": "Skip every free VPN that is not Proton VPN's free tier",
+              "body": "Free VPNs that are not part of a credible paid offering monetize by selling user traffic data. The free VPN is the product extracting value from you. Use Proton VPN's free tier if you want a real free VPN, or pay $3-5/month for one of the audited paid services."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "5 月 VPN 服務排行很穩，隱私等級跟串流等級已經乾淨分流。Mullvad 守住第一，是唯一主流 VPN 不要求帳號或電郵，你付 5 歐元月費可以用現金、加密貨幣、信用卡付給一次性產生的帳號編號。隱私故事無對手，技術實作很穩。Proton VPN 排第二是聰明錢隱私選擇，瑞士基地、有稽核、免費版真的能用。NordVPN 排第三是 Netflix 跟 BBC iPlayer 解鎖優先的串流選擇。iVPN 排第四是跟 Mullvad 競爭的隱私選擇。ExpressVPN 排第五是精緻 App 選擇。Surfshark 排第六是無限裝置選擇。Windscribe 排第七是免費增值選擇。隱私選 Mullvad。要 Proton 信箱跟雲端綁一起就選 Proton。串流優先選 NordVPN。家裡十台裝置選 Surfshark。所有免費 VPN 全部跳過，你才是產品。",
+          "highlights": [
+            {
+              "title": "Mullvad 守住第一是因為免帳號模式是隱私標竿",
+              "body": "不需要電郵。可以信封寄現金、用加密貨幣、信用卡付。帳號編號一次產生那就是你的身份。代碼有稽核、WireGuard 實作、瑞典管轄。月費 175 元台幣定價跟預算 VPN 一樣，提供別人做不到的隱私。"
+            },
+            {
+              "title": "Proton VPN 是聰明錢隱私選擇配能用的免費版",
+              "body": "瑞士基地、有稽核、免費版真的能用 (速度較慢但無廣告、無記錄、無時間限制)。付費版每月 175 元台幣綁 Proton Mail、Drive、Calendar。要隱私加生產力套件就買它。"
+            },
+            {
+              "title": "NordVPN 是地區解鎖優先的串流選擇",
+              "body": "美國、英國、日本 Netflix、BBC iPlayer、Hulu，NordVPN 專用伺服器穩定解鎖這些，Mullvad 跟 Proton 失敗或要更久。兩年方案每月 130 元台幣定價跟預算 VPN 一樣。串流是主要使用情境就買它。"
+            },
+            {
+              "title": "Surfshark 是家裡很多裝置的正解",
+              "body": "兩年方案每月 90 元台幣不限同時連線數。隱私故事穩固 (有稽核、無記錄)，串流解鎖對大部分主流服務有效。家裡 5 個人每人 5 台裝置就買它。"
+            },
+            {
+              "title": "除了 Proton VPN 免費版以外的所有免費 VPN 全部跳過",
+              "body": "不是付費方案一部分的免費 VPN 靠賣用戶流量數據賺錢。免費 VPN 就是從你身上抽價值的產品。要真免費 VPN 就用 Proton VPN 免費版，否則花 90 到 175 元台幣月費買一個有稽核的付費服務。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

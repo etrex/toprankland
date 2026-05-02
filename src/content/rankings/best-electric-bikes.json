@@ -169,21 +169,145 @@
     {
       "date": "2026-04-26",
       "rankings": [
-        { "id": "aventon-level-3", "rank": 1, "score": 9.0, "scores": { "range": 8.5, "power": 8.5, "comfort": 9.0, "value": 8.5, "smartFeatures": 9.5, "practicality": 9.0 } },
-        { "id": "lectric-xp4-750", "rank": 2, "score": 8.8, "scores": { "range": 9.0, "power": 9.0, "comfort": 7.5, "value": 9.5, "smartFeatures": 7.0, "practicality": 9.0 } },
-        { "id": "velotric-discover-3", "rank": 3, "score": 8.6, "scores": { "range": 8.5, "power": 8.5, "comfort": 9.0, "value": 8.0, "smartFeatures": 8.5, "practicality": 8.5 } },
-        { "id": "segway-myon", "rank": 4, "score": 8.4, "scores": { "range": 8.5, "power": 8.5, "comfort": 8.5, "value": 7.5, "smartFeatures": 9.5, "practicality": 8.0 } },
-        { "id": "aventon-aventure-3", "rank": 5, "score": 8.2, "scores": { "range": 8.0, "power": 8.5, "comfort": 9.0, "value": 8.5, "smartFeatures": 8.5, "practicality": 7.5 } },
-        { "id": "trek-verve-plus-4s", "rank": 6, "score": 7.8, "scores": { "range": 8.0, "power": 7.5, "comfort": 9.0, "value": 6.0, "smartFeatures": 7.5, "practicality": 9.0 } },
-        { "id": "tenways-cgo800s", "rank": 7, "score": 7.4, "scores": { "range": 7.0, "power": 6.5, "comfort": 8.0, "value": 6.5, "smartFeatures": 7.0, "practicality": 8.5 } },
-        { "id": "lectric-xp-lite-2", "rank": 8, "score": 7.3, "scores": { "range": 7.5, "power": 7.0, "comfort": 7.0, "value": 9.5, "smartFeatures": 6.0, "practicality": 8.0 } },
-        { "id": "canyon-citylite-on", "rank": 9, "score": 8.1, "scores": { "range": 8.0, "power": 8.0, "comfort": 9.0, "value": 7.5, "smartFeatures": 7.5, "practicality": 9.0 } }
+        {
+          "id": "aventon-level-3",
+          "rank": 1,
+          "score": 9.0,
+          "scores": {
+            "range": 8.5,
+            "power": 8.5,
+            "comfort": 9.0,
+            "value": 8.5,
+            "smartFeatures": 9.5,
+            "practicality": 9.0
+          }
+        },
+        {
+          "id": "lectric-xp4-750",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "range": 9.0,
+            "power": 9.0,
+            "comfort": 7.5,
+            "value": 9.5,
+            "smartFeatures": 7.0,
+            "practicality": 9.0
+          }
+        },
+        {
+          "id": "velotric-discover-3",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "range": 8.5,
+            "power": 8.5,
+            "comfort": 9.0,
+            "value": 8.0,
+            "smartFeatures": 8.5,
+            "practicality": 8.5
+          }
+        },
+        {
+          "id": "segway-myon",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "range": 8.5,
+            "power": 8.5,
+            "comfort": 8.5,
+            "value": 7.5,
+            "smartFeatures": 9.5,
+            "practicality": 8.0
+          }
+        },
+        {
+          "id": "aventon-aventure-3",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "range": 8.0,
+            "power": 8.5,
+            "comfort": 9.0,
+            "value": 8.5,
+            "smartFeatures": 8.5,
+            "practicality": 7.5
+          }
+        },
+        {
+          "id": "trek-verve-plus-4s",
+          "rank": 6,
+          "score": 7.8,
+          "scores": {
+            "range": 8.0,
+            "power": 7.5,
+            "comfort": 9.0,
+            "value": 6.0,
+            "smartFeatures": 7.5,
+            "practicality": 9.0
+          }
+        },
+        {
+          "id": "tenways-cgo800s",
+          "rank": 7,
+          "score": 7.4,
+          "scores": {
+            "range": 7.0,
+            "power": 6.5,
+            "comfort": 8.0,
+            "value": 6.5,
+            "smartFeatures": 7.0,
+            "practicality": 8.5
+          }
+        },
+        {
+          "id": "lectric-xp-lite-2",
+          "rank": 8,
+          "score": 7.3,
+          "scores": {
+            "range": 7.5,
+            "power": 7.0,
+            "comfort": 7.0,
+            "value": 9.5,
+            "smartFeatures": 6.0,
+            "practicality": 8.0
+          }
+        },
+        {
+          "id": "canyon-citylite-on",
+          "rank": 9,
+          "score": 8.1,
+          "scores": {
+            "range": 8.0,
+            "power": 8.0,
+            "comfort": 9.0,
+            "value": 7.5,
+            "smartFeatures": 7.5,
+            "practicality": 9.0
+          }
+        }
       ],
       "references": [
-        { "title": "Best Electric Bikes of 2026", "url": "https://www.outdoorgearlab.com/topics/biking/best-electric-bike", "source": "Outdoor Gear Lab" },
-        { "title": "Best Electric Bikes 2026", "url": "https://electricbikereport.com/best-electric-bikes/", "source": "Electric Bike Report" },
-        { "title": "The best electric bikes we recommend for 2026", "url": "https://www.cyclingelectric.com/buyers-guides/editors-choice-awards-the-best-electric-bikes-to-buy-in-2026", "source": "Cycling Electric" },
-        { "title": "Top 10 Commuter Ebikes of 2026", "url": "https://ebikeescape.com/best-commuter-ebike/", "source": "Ebike Escape" }
+        {
+          "title": "Best Electric Bikes of 2026",
+          "url": "https://www.outdoorgearlab.com/topics/biking/best-electric-bike",
+          "source": "Outdoor Gear Lab"
+        },
+        {
+          "title": "Best Electric Bikes 2026",
+          "url": "https://electricbikereport.com/best-electric-bikes/",
+          "source": "Electric Bike Report"
+        },
+        {
+          "title": "The best electric bikes we recommend for 2026",
+          "url": "https://www.cyclingelectric.com/buyers-guides/editors-choice-awards-the-best-electric-bikes-to-buy-in-2026",
+          "source": "Cycling Electric"
+        },
+        {
+          "title": "Top 10 Commuter Ebikes of 2026",
+          "url": "https://ebikeescape.com/best-commuter-ebike/",
+          "source": "Ebike Escape"
+        }
       ],
       "i18n": {
         "en": {
@@ -241,19 +365,135 @@
     {
       "date": "2026-04-27",
       "rankings": [
-        { "id": "aventon-level-3", "rank": 1, "score": 9.0, "scores": { "range": 8.5, "power": 8.5, "comfort": 9.0, "value": 8.5, "smartFeatures": 9.5, "practicality": 9.0 } },
-        { "id": "lectric-xp4-750", "rank": 2, "score": 8.8, "scores": { "range": 9.0, "power": 9.0, "comfort": 7.5, "value": 9.5, "smartFeatures": 7.0, "practicality": 9.0 } },
-        { "id": "velotric-discover-3", "rank": 3, "score": 8.6, "scores": { "range": 8.5, "power": 8.5, "comfort": 9.0, "value": 8.0, "smartFeatures": 8.5, "practicality": 8.5 } },
-        { "id": "segway-myon", "rank": 4, "score": 8.4, "scores": { "range": 8.5, "power": 8.5, "comfort": 8.5, "value": 7.5, "smartFeatures": 9.5, "practicality": 8.0 } },
-        { "id": "aventon-aventure-3", "rank": 5, "score": 8.2, "scores": { "range": 8.0, "power": 8.5, "comfort": 9.0, "value": 8.5, "smartFeatures": 8.5, "practicality": 7.5 } },
-        { "id": "trek-verve-plus-4s", "rank": 6, "score": 7.8, "scores": { "range": 8.0, "power": 7.5, "comfort": 9.0, "value": 6.0, "smartFeatures": 7.5, "practicality": 9.0 } },
-        { "id": "tenways-cgo800s", "rank": 7, "score": 7.4, "scores": { "range": 7.0, "power": 6.5, "comfort": 8.0, "value": 6.5, "smartFeatures": 7.0, "practicality": 8.5 } },
-        { "id": "lectric-xp-lite-2", "rank": 8, "score": 7.3, "scores": { "range": 7.5, "power": 7.0, "comfort": 7.0, "value": 9.5, "smartFeatures": 6.0, "practicality": 8.0 } },
-        { "id": "canyon-citylite-on", "rank": 9, "score": 8.1, "scores": { "range": 8.0, "power": 8.0, "comfort": 9.0, "value": 7.5, "smartFeatures": 7.5, "practicality": 9.0 } }
+        {
+          "id": "aventon-level-3",
+          "rank": 1,
+          "score": 9.0,
+          "scores": {
+            "range": 8.5,
+            "power": 8.5,
+            "comfort": 9.0,
+            "value": 8.5,
+            "smartFeatures": 9.5,
+            "practicality": 9.0
+          }
+        },
+        {
+          "id": "lectric-xp4-750",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "range": 9.0,
+            "power": 9.0,
+            "comfort": 7.5,
+            "value": 9.5,
+            "smartFeatures": 7.0,
+            "practicality": 9.0
+          }
+        },
+        {
+          "id": "velotric-discover-3",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "range": 8.5,
+            "power": 8.5,
+            "comfort": 9.0,
+            "value": 8.0,
+            "smartFeatures": 8.5,
+            "practicality": 8.5
+          }
+        },
+        {
+          "id": "segway-myon",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "range": 8.5,
+            "power": 8.5,
+            "comfort": 8.5,
+            "value": 7.5,
+            "smartFeatures": 9.5,
+            "practicality": 8.0
+          }
+        },
+        {
+          "id": "aventon-aventure-3",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "range": 8.0,
+            "power": 8.5,
+            "comfort": 9.0,
+            "value": 8.5,
+            "smartFeatures": 8.5,
+            "practicality": 7.5
+          }
+        },
+        {
+          "id": "trek-verve-plus-4s",
+          "rank": 6,
+          "score": 7.8,
+          "scores": {
+            "range": 8.0,
+            "power": 7.5,
+            "comfort": 9.0,
+            "value": 6.0,
+            "smartFeatures": 7.5,
+            "practicality": 9.0
+          }
+        },
+        {
+          "id": "tenways-cgo800s",
+          "rank": 7,
+          "score": 7.4,
+          "scores": {
+            "range": 7.0,
+            "power": 6.5,
+            "comfort": 8.0,
+            "value": 6.5,
+            "smartFeatures": 7.0,
+            "practicality": 8.5
+          }
+        },
+        {
+          "id": "lectric-xp-lite-2",
+          "rank": 8,
+          "score": 7.3,
+          "scores": {
+            "range": 7.5,
+            "power": 7.0,
+            "comfort": 7.0,
+            "value": 9.5,
+            "smartFeatures": 6.0,
+            "practicality": 8.0
+          }
+        },
+        {
+          "id": "canyon-citylite-on",
+          "rank": 9,
+          "score": 8.1,
+          "scores": {
+            "range": 8.0,
+            "power": 8.0,
+            "comfort": 9.0,
+            "value": 7.5,
+            "smartFeatures": 7.5,
+            "practicality": 9.0
+          }
+        }
       ],
       "references": [
-        { "title": "Here are the best electric bikes you can buy at every price level in April 2026", "url": "https://electrek.co/2026/04/05/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/", "source": "Electrek" },
-        { "title": "Best Electric Bikes 2026", "url": "https://electricbikereport.com/best-electric-bikes/", "source": "Electric Bike Report" }
+        {
+          "title": "Here are the best electric bikes you can buy at every price level in April 2026",
+          "url": "https://electrek.co/2026/04/05/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/",
+          "source": "Electrek"
+        },
+        {
+          "title": "Best Electric Bikes 2026",
+          "url": "https://electricbikereport.com/best-electric-bikes/",
+          "source": "Electric Bike Report"
+        }
       ],
       "i18n": {
         "en": {
@@ -287,6 +527,192 @@
             {
               "title": "Segway Myon 的後視雷達是裝在腳踏車上的汽車安全科技",
               "body": "後視雷達加車把盲點指示燈是真正的汽車工程應用在消費級腳踏車上。加上消除鋼索維護的電子換檔，Myon 是一台從都市通勤需求設計的車，安全規格在這個品類領先一截。只能透過實體車店購買是唯一的實際限制。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-05-02",
+      "rankings": [
+        {
+          "id": "aventon-level-3",
+          "rank": 1,
+          "score": 9.0,
+          "scores": {
+            "range": 8.5,
+            "power": 8.5,
+            "comfort": 9.0,
+            "value": 8.5,
+            "smartFeatures": 9.5,
+            "practicality": 9.0
+          }
+        },
+        {
+          "id": "lectric-xp4-750",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "range": 9.0,
+            "power": 9.0,
+            "comfort": 7.5,
+            "value": 9.5,
+            "smartFeatures": 7.0,
+            "practicality": 9.0
+          }
+        },
+        {
+          "id": "velotric-discover-3",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "range": 8.5,
+            "power": 8.5,
+            "comfort": 9.0,
+            "value": 8.0,
+            "smartFeatures": 8.5,
+            "practicality": 8.5
+          }
+        },
+        {
+          "id": "segway-myon",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "range": 8.5,
+            "power": 8.5,
+            "comfort": 8.5,
+            "value": 7.5,
+            "smartFeatures": 9.5,
+            "practicality": 8.0
+          }
+        },
+        {
+          "id": "aventon-aventure-3",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "range": 8.0,
+            "power": 8.5,
+            "comfort": 9.0,
+            "value": 8.5,
+            "smartFeatures": 8.5,
+            "practicality": 7.5
+          }
+        },
+        {
+          "id": "trek-verve-plus-4s",
+          "rank": 6,
+          "score": 7.8,
+          "scores": {
+            "range": 8.0,
+            "power": 7.5,
+            "comfort": 9.0,
+            "value": 6.0,
+            "smartFeatures": 7.5,
+            "practicality": 9.0
+          }
+        },
+        {
+          "id": "tenways-cgo800s",
+          "rank": 7,
+          "score": 7.4,
+          "scores": {
+            "range": 7.0,
+            "power": 6.5,
+            "comfort": 8.0,
+            "value": 6.5,
+            "smartFeatures": 7.0,
+            "practicality": 8.5
+          }
+        },
+        {
+          "id": "lectric-xp-lite-2",
+          "rank": 8,
+          "score": 7.3,
+          "scores": {
+            "range": 7.5,
+            "power": 7.0,
+            "comfort": 7.0,
+            "value": 9.5,
+            "smartFeatures": 6.0,
+            "practicality": 8.0
+          }
+        },
+        {
+          "id": "canyon-citylite-on",
+          "rank": 9,
+          "score": 8.1,
+          "scores": {
+            "range": 8.0,
+            "power": 8.0,
+            "comfort": 9.0,
+            "value": 7.5,
+            "smartFeatures": 7.5,
+            "practicality": 9.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Here are the best electric bikes you can buy at every price level in April 2026",
+          "url": "https://electrek.co/2026/04/05/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/",
+          "source": "Electrek"
+        },
+        {
+          "title": "Best Electric Bikes 2026",
+          "url": "https://electricbikereport.com/best-electric-bikes/",
+          "source": "Electric Bike Report"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "May is when e-bike sales spike for commuter and weekend riders both, and the Aventon Level 3 holds first because the new torque sensor finally feels like a proper pedal-assist instead of a moped pretending to be a bike. 750W rear hub, 60-mile range, integrated lights and turn signals, and a $1,999 price that still beats specialty brands by 30%. Lectric XP4 750 at #2 is the fold-up commuter king — the new chassis finally feels rigid, and at $1,299 it is the bike I tell apartment-dwellers to buy. Velotric Discover 3 at #3 is the comfort-oriented neighborhood cruiser. Segway Myon at #4 is interesting because Segway finally got the firmware right and the regenerative braking actually adds 5-7% range. Aventon Aventure 3 at #5 is the fat-tire adventure pick. Trek Verve+ 4S at #6 is the LBS-supported choice for buyers who want a real shop relationship. Tenways CGO800S at #7 is the urban belt-drive style play. Lectric XP Lite 2 at #8 is the budget commuter under $1,000. Canyon Citylite :ON at #9 is the Euro-style ride that imports cleanly. Skip everything that does not have a torque sensor.",
+          "highlights": [
+            {
+              "title": "Aventon Level 3 holds first because the torque sensor changed how the bike rides",
+              "body": "Cadence sensors lurch. Torque sensors flow. The Level 3 finally feels like a bike that responds to how hard you pedal, not how fast. 750W rear hub, 60-mile range, integrated lights and turn signals. At $1,999 it undercuts the specialty brands by 30% and has the better tech."
+            },
+            {
+              "title": "Lectric XP4 750 is the apartment-dweller's e-bike",
+              "body": "Folds in under 30 seconds, fits in a coat closet, 50-mile range, and the new chassis finally feels rigid at speed. At $1,299 it is the cheapest serious e-bike I will recommend, and the only fold-up I have actually enjoyed riding."
+            },
+            {
+              "title": "Velotric Discover 3 is the neighborhood comfort cruiser",
+              "body": "Step-through frame, suspension fork, and the sit-up-straight geometry that makes a 10-mile bike path ride feel like nothing. At $1,799 it is for riders who want comfort over speed and have flat city paths to ride. Skip it for hilly commutes."
+            },
+            {
+              "title": "Segway Myon's firmware update made the regen braking actually useful",
+              "body": "Earlier Segway e-bikes had regen on the spec sheet that did not actually return measurable range. The Myon's firmware update in Q1 2026 fixed it, and the regen now adds 5-7% real-world range on hilly commutes. At $1,499 it is a smart commuter that finally lives up to the brochure."
+            },
+            {
+              "title": "Skip every e-bike without a torque sensor",
+              "body": "Cadence-only sensors are why people who try e-bikes once say they feel weird. Torque sensors solve the on-off lurch. The Aventon Level 3, Trek Verve+ 4S, and Tenways CGO800S have proper torque sensors. The under-$1,000 Amazon brands almost universally do not."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "5 月是電動腳踏車通勤跟週末騎乘銷量同時爆發的月份，Aventon Level 3 守住第一，新的扭力感測器讓它終於像一台真正的助力腳踏車而不是偽裝成自行車的小機車。750W 後輪轂、續航 96 公里、整合車燈跟方向燈，台灣售價約新台幣 6.5 萬元還是比專業品牌便宜三成。Lectric XP4 750 排第二是折疊通勤王，新車架終於夠硬，台灣售價約新台幣 4.2 萬元，是我會推薦給租公寓族的車。Velotric Discover 3 排第三是社區舒適巡遊型。Segway Myon 排第四，Segway 終於把韌體修對，再生煞車真的能多 5 到 7% 續航。Aventon Aventure 3 排第五是胖胎冒險選擇。Trek Verve+ 4S 排第六，想要實體店關係就選它。Tenways CGO800S 排第七是都會皮帶傳動風格選擇。Lectric XP Lite 2 排第八是台灣 3 萬元級通勤預算選擇。Canyon Citylite :ON 排第九是歐式進口騎乘感。沒有扭力感測器的全部跳過。",
+          "highlights": [
+            {
+              "title": "Aventon Level 3 守住第一是因為扭力感測器改變了騎乘感",
+              "body": "踏頻感測器一頓一頓的，扭力感測器才是流暢的。Level 3 終於是一台會回應你「踩多用力」而不是「踩多快」的車。750W 後輪轂、續航 96 公里、整合車燈方向燈。台灣 6.5 萬元，比專業品牌便宜三成還有更好的科技。"
+            },
+            {
+              "title": "Lectric XP4 750 是租公寓族的電動車",
+              "body": "30 秒內折疊完成、塞得進外套櫃、80 公里續航、新車架在高速下終於夠硬。台灣 4.2 萬元是我會推薦的最便宜真材實料電動車，也是唯一一台我騎過會開心的折疊機型。"
+            },
+            {
+              "title": "Velotric Discover 3 是社區舒適巡遊選擇",
+              "body": "穿越式車架、避震前叉、坐姿設計讓 16 公里平地車道騎起來毫無壓力。台灣 5.8 萬元給那些追求舒適勝過速度、有平坦市區車道可騎的人。山路通勤就跳過。"
+            },
+            {
+              "title": "Segway Myon 韌體更新讓再生煞車真的有用",
+              "body": "早期 Segway 電動車規格表寫了再生煞車但實際上量不到續航增加。Myon 在 2026 年 Q1 韌體更新後終於修對，山路通勤實測能多 5 到 7% 續航。台灣 4.8 萬元，是終於對得起規格表的聰明通勤車。"
+            },
+            {
+              "title": "沒有扭力感測器的電動腳踏車全部跳過",
+              "body": "只有踏頻感測器是為什麼很多人試一次電動車就說「感覺怪怪的」的原因。扭力感測器解決那種開關式的頓挫感。Aventon Level 3、Trek Verve+ 4S、Tenways CGO800S 都有真扭力感測器。3 萬元以下的 Amazon 雜牌幾乎都沒有。"
             }
           ]
         }
