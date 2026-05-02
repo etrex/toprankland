@@ -146,6 +146,22 @@
           "priceRange": "NT$2,490"
         }
       }
+    },
+    {
+      "id": "aqara-g400-wired",
+      "name": "Doorbell Camera G400 (Wired)",
+      "brand": "Aqara",
+      "url": "https://us.aqara.com/products/doorbell-camera-g400-wired",
+      "i18n": {
+        "en": {
+          "description": "PoE or hardwired 2K head-to-toe doorbell with HomeKit Secure Video, Apple Home support, and on-device AI for faces, packages, animals, and vehicles — the wired sibling to the G410 that swaps the integrated hub for rock-solid power and connectivity.",
+          "priceRange": "$159.99"
+        },
+        "zh-tw": {
+          "description": "PoE 或低壓接線供電的 2K 全身視角門鈴，支援 HomeKit Secure Video、直接接 Apple Home，本地 AI 辨識人臉、包裹、動物、車輛通通到位。這就是 G410 的接線版兄弟，把 Zigbee 中樞拿掉換來電力跟網路最穩的組態，Apple 家庭用戶看到這台會直接買單。",
+          "priceRange": "約 NT$5,200"
+        }
+      }
     }
   ],
   "history": [
@@ -441,6 +457,18 @@
             "smartHome": 7.0,
             "detection": 7.0,
             "install": 9.0
+          }
+        },
+        {
+          "id": "aqara-g400-wired",
+          "rank": 9,
+          "score": 8.5,
+          "scores": {
+            "video": 8.5,
+            "value": 8.5,
+            "smartHome": 9.2,
+            "detection": 8.8,
+            "install": 7.5
           }
         }
       ],
