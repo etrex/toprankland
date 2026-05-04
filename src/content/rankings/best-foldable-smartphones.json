@@ -184,45 +184,411 @@
     {
       "date": "2026-05-02",
       "rankings": [
-        { "id": "galaxy-z-fold-7", "rank": 1, "score": 9.4, "scores": { "display": 9.5, "camera": 9.6, "battery": 8.8, "durability": 9.4, "value": 8.7 } },
-        { "id": "pixel-10-pro-fold", "rank": 2, "score": 9.2, "scores": { "display": 9.2, "camera": 9.4, "battery": 9.5, "durability": 9.7, "value": 9.0 } },
-        { "id": "oppo-find-n5", "rank": 3, "score": 9.0, "scores": { "display": 9.4, "camera": 9.0, "battery": 9.3, "durability": 8.9, "value": 8.4 } },
-        { "id": "honor-magic-v3", "rank": 4, "score": 8.8, "scores": { "display": 9.0, "camera": 8.6, "battery": 8.9, "durability": 8.7, "value": 9.0 } },
-        { "id": "vivo-x-fold-5", "rank": 5, "score": 8.7, "scores": { "display": 9.1, "camera": 9.0, "battery": 9.6, "durability": 8.6, "value": 8.0 } },
-        { "id": "galaxy-z-flip-7", "rank": 6, "score": 8.6, "scores": { "display": 8.7, "camera": 8.0, "battery": 7.9, "durability": 8.5, "value": 9.1 } },
-        { "id": "motorola-razr-ultra-2026", "rank": 7, "score": 8.4, "scores": { "display": 8.8, "camera": 8.2, "battery": 8.6, "durability": 8.4, "value": 8.0 } },
-        { "id": "galaxy-z-flip-7-fe", "rank": 8, "score": 7.9, "scores": { "display": 8.0, "camera": 7.5, "battery": 7.7, "durability": 8.0, "value": 8.5 } },
-        { "id": "motorola-razr-plus-2026", "rank": 9, "score": 7.7, "scores": { "display": 8.2, "camera": 7.8, "battery": 8.0, "durability": 8.0, "value": 7.0 } },
-        { "id": "huawei-mate-xt-ultimate", "rank": 10, "score": 7.5, "scores": { "display": 9.6, "camera": 8.4, "battery": 8.4, "durability": 7.5, "value": 5.5 } }
+        {
+          "id": "galaxy-z-fold-7",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "display": 9.5,
+            "camera": 9.6,
+            "battery": 8.8,
+            "durability": 9.4,
+            "value": 8.7
+          }
+        },
+        {
+          "id": "pixel-10-pro-fold",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "display": 9.2,
+            "camera": 9.4,
+            "battery": 9.5,
+            "durability": 9.7,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "oppo-find-n5",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "display": 9.4,
+            "camera": 9.0,
+            "battery": 9.3,
+            "durability": 8.9,
+            "value": 8.4
+          }
+        },
+        {
+          "id": "honor-magic-v3",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "display": 9.0,
+            "camera": 8.6,
+            "battery": 8.9,
+            "durability": 8.7,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "vivo-x-fold-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "display": 9.1,
+            "camera": 9.0,
+            "battery": 9.6,
+            "durability": 8.6,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "galaxy-z-flip-7",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "display": 8.7,
+            "camera": 8.0,
+            "battery": 7.9,
+            "durability": 8.5,
+            "value": 9.1
+          }
+        },
+        {
+          "id": "motorola-razr-ultra-2026",
+          "rank": 7,
+          "score": 8.4,
+          "scores": {
+            "display": 8.8,
+            "camera": 8.2,
+            "battery": 8.6,
+            "durability": 8.4,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "galaxy-z-flip-7-fe",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "display": 8.0,
+            "camera": 7.5,
+            "battery": 7.7,
+            "durability": 8.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "motorola-razr-plus-2026",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "display": 8.2,
+            "camera": 7.8,
+            "battery": 8.0,
+            "durability": 8.0,
+            "value": 7.0
+          }
+        },
+        {
+          "id": "huawei-mate-xt-ultimate",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "display": 9.6,
+            "camera": 8.4,
+            "battery": 8.4,
+            "durability": 7.5,
+            "value": 5.5
+          }
+        }
       ],
       "references": [
-        { "title": "Samsung Galaxy Z Fold 7 Full Specifications", "url": "https://www.phonearena.com/phones/Samsung-Galaxy-Z-Fold-7_id12645", "source": "PhoneArena" },
-        { "title": "Google Pixel 10 Pro Fold unveiled — release date, IP68 rating, price and full specs", "url": "https://www.tomsguide.com/phones/google-pixel-phones/google-pixel-10-pro-fold-unveiled-release-date-ip68-rating-price-and-full-specs", "source": "Tom's Guide" },
-        { "title": "OPPO Launches Find N5: The World's Thinnest Book-Style Foldable", "url": "https://www.oppo.com/en/newsroom/press/find-n5-global-launch/", "source": "OPPO Newsroom" },
-        { "title": "Vivo X Fold 5 review: Destroying Samsung where it counts", "url": "https://www.androidcentral.com/phones/vivo/vivo-x-fold-5-review", "source": "Android Central" },
-        { "title": "Motorola Razr (2026) is a game of 'what's new' and price", "url": "https://9to5google.com/2026/04/29/motorola-razr-2026-specs-price-release-date/", "source": "9to5Google" },
-        { "title": "Honor Magic V3 review: The new foldable phone design benchmark", "url": "https://www.tomsguide.com/phones/android-phones/honor-magic-v3-review", "source": "Tom's Guide" },
-        { "title": "Huawei Mate XT Ultimate Design official: Tri-fold opens into a 10.2″ 3K OLED screen", "url": "https://www.fonearena.com/blog/434727/huawei-mate-xt-price-specifications.html", "source": "FoneArena" }
+        {
+          "title": "Samsung Galaxy Z Fold 7 Full Specifications",
+          "url": "https://www.phonearena.com/phones/Samsung-Galaxy-Z-Fold-7_id12645",
+          "source": "PhoneArena"
+        },
+        {
+          "title": "Google Pixel 10 Pro Fold unveiled — release date, IP68 rating, price and full specs",
+          "url": "https://www.tomsguide.com/phones/google-pixel-phones/google-pixel-10-pro-fold-unveiled-release-date-ip68-rating-price-and-full-specs",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "OPPO Launches Find N5: The World's Thinnest Book-Style Foldable",
+          "url": "https://www.oppo.com/en/newsroom/press/find-n5-global-launch/",
+          "source": "OPPO Newsroom"
+        },
+        {
+          "title": "Vivo X Fold 5 review: Destroying Samsung where it counts",
+          "url": "https://www.androidcentral.com/phones/vivo/vivo-x-fold-5-review",
+          "source": "Android Central"
+        },
+        {
+          "title": "Motorola Razr (2026) is a game of 'what's new' and price",
+          "url": "https://9to5google.com/2026/04/29/motorola-razr-2026-specs-price-release-date/",
+          "source": "9to5Google"
+        },
+        {
+          "title": "Honor Magic V3 review: The new foldable phone design benchmark",
+          "url": "https://www.tomsguide.com/phones/android-phones/honor-magic-v3-review",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "Huawei Mate XT Ultimate Design official: Tri-fold opens into a 10.2″ 3K OLED screen",
+          "url": "https://www.fonearena.com/blog/434727/huawei-mate-xt-price-specifications.html",
+          "source": "FoneArena"
+        }
       ],
       "i18n": {
         "en": {
           "commentary": "I have carried every one of these phones for at least a week, and 2026 is the year the book-style foldable finally became a phone I would tell anyone to buy. The Galaxy Z Fold 7 wins because Samsung shipped the engineering breakthrough everyone else was promising: 8.9mm closed, 4.2mm open, 215g, and a 200MP camera that actually competes with the Galaxy S25 Ultra. The Pixel 10 Pro Fold lands at #2 for one reason — IP68. Google solved waterproofing on a folding hinge and the rest of us now have to catch up. Oppo Find N5 takes #3 on raw hardware: a 5,600mAh battery in a body thinner than the Fold 7, with a real periscope camera. Honor and vivo deserve their spots, but distribution holds them back from the podium. The clamshells are a different story. The Galaxy Z Flip 7 at $1,099 is the right phone for the segment, with a usable 4.1-inch cover screen that finally makes you stop opening the phone. The Razr Ultra 2026 charges $1,499 for a Snapdragon 8 Elite chip Motorola already shipped last year, and the Razr+ 2026 raises the price $100 for the same Snapdragon 8s Gen 3 from 2024. That is why both Motorolas land below the Z Flip 7 FE at $899. The Mate XT Ultimate sits last because $2,800 buys you a tri-fold spectacle running a Kirin 9010 from 2024, and the novelty does not survive a week of daily use.",
           "highlights": [
-            { "title": "The Galaxy Z Fold 7 is the first foldable I would recommend without an asterisk", "body": "8.9mm closed, 4.2mm open, 215g. The 200MP main sensor is the same one Samsung put in the S25 Ultra. Snapdragon 8 Elite. Seven years of OS and security updates. The Fold 7 is the first time the engineering trade-offs of buying a foldable feel like net positives, and at $1,999 it earns the price tag." },
-            { "title": "Pixel 10 Pro Fold's IP68 rating is the most important spec on this entire list", "body": "Google's gearless hinge is the real story. Every other foldable here lives or dies based on how careful you are around water. The Pixel 10 Pro Fold lets you stop thinking about it, and the 5,015mAh battery and 30-hour stamina mean you also stop thinking about charging. At $1,799 it undercuts the Fold 7 by $200 and trades the 200MP camera for the best computational photography in the category." },
-            { "title": "Oppo Find N5 is the hardware king and a reminder that the West is one generation behind", "body": "Oppo built a foldable that is thinner closed than most non-folding phones, with a 5,600mAh battery, an 80W charger in the box, and a Hasselblad periscope camera. If Oppo sold the Find N5 in the US, it would be ranked second. Limited distribution is the only reason it sits at #3." },
-            { "title": "The Galaxy Z Flip 7 is the only clamshell worth the money in 2026", "body": "Samsung bumped the cover screen to 4.1 inches and the main display to 6.9 inches and held the price at $1,099. That is the right pricing for a clamshell. The Razr Ultra 2026 at $1,499 reuses last year's Snapdragon 8 Elite, the Razr+ 2026 at $1,099 reuses the Snapdragon 8s Gen 3 from 2024, and the math no longer works for either." },
-            { "title": "The Huawei Mate XT Ultimate is a $2,800 demo, not a phone to live with", "body": "The tri-fold opening into a 10.2-inch OLED is genuinely impressive for thirty seconds. Then you remember it runs the Kirin 9010 from 2024, weighs more than a small tablet, and costs more than a Z Fold 7 plus an iPad mini together. Buy it if you collect prototypes. Buy something else if you need a daily phone." }
+            {
+              "title": "The Galaxy Z Fold 7 is the first foldable I would recommend without an asterisk",
+              "body": "8.9mm closed, 4.2mm open, 215g. The 200MP main sensor is the same one Samsung put in the S25 Ultra. Snapdragon 8 Elite. Seven years of OS and security updates. The Fold 7 is the first time the engineering trade-offs of buying a foldable feel like net positives, and at $1,999 it earns the price tag."
+            },
+            {
+              "title": "Pixel 10 Pro Fold's IP68 rating is the most important spec on this entire list",
+              "body": "Google's gearless hinge is the real story. Every other foldable here lives or dies based on how careful you are around water. The Pixel 10 Pro Fold lets you stop thinking about it, and the 5,015mAh battery and 30-hour stamina mean you also stop thinking about charging. At $1,799 it undercuts the Fold 7 by $200 and trades the 200MP camera for the best computational photography in the category."
+            },
+            {
+              "title": "Oppo Find N5 is the hardware king and a reminder that the West is one generation behind",
+              "body": "Oppo built a foldable that is thinner closed than most non-folding phones, with a 5,600mAh battery, an 80W charger in the box, and a Hasselblad periscope camera. If Oppo sold the Find N5 in the US, it would be ranked second. Limited distribution is the only reason it sits at #3."
+            },
+            {
+              "title": "The Galaxy Z Flip 7 is the only clamshell worth the money in 2026",
+              "body": "Samsung bumped the cover screen to 4.1 inches and the main display to 6.9 inches and held the price at $1,099. That is the right pricing for a clamshell. The Razr Ultra 2026 at $1,499 reuses last year's Snapdragon 8 Elite, the Razr+ 2026 at $1,099 reuses the Snapdragon 8s Gen 3 from 2024, and the math no longer works for either."
+            },
+            {
+              "title": "The Huawei Mate XT Ultimate is a $2,800 demo, not a phone to live with",
+              "body": "The tri-fold opening into a 10.2-inch OLED is genuinely impressive for thirty seconds. Then you remember it runs the Kirin 9010 from 2024, weighs more than a small tablet, and costs more than a Z Fold 7 plus an iPad mini together. Buy it if you collect prototypes. Buy something else if you need a daily phone."
+            }
           ]
         },
         "zh-tw": {
           "commentary": "這份排行裡的每一支機我都至少當主力機用一週以上，2026 年終於是書本式摺疊機可以推薦給普通人的一年。Galaxy Z Fold 7 拿下第一名，因為三星把所有人都在喊的工程突破真的做出來了：闔起 8.9mm、攤開 4.2mm、215 公克，還塞了一顆能跟 S25 Ultra 拼的 200MP 主鏡頭。Pixel 10 Pro Fold 排第二，原因很單純，IP68 防水。Google 把摺疊鉸鍊的防水問題解開，其他家現在要追了。Oppo Find N5 拿第三靠的是純硬體實力，比 Fold 7 還薄的機身塞進 5,600mAh 電池，還配真正的潛望式相機。Honor 和 vivo 該有的位置都有，可惜通路限制讓它們上不了前三。翻蓋機這邊狀況完全不同。Galaxy Z Flip 7 賣 1,099 美元，4.1 吋外螢幕大到很多事都不用打開手機就能做完，定價也誠意十足。Razr Ultra 2026 賣 1,499 美元，用的是 Motorola 自己去年就出過的 Snapdragon 8 Elite，Razr+ 2026 漲 100 美元卻沿用 2024 年的 Snapdragon 8s Gen 3，這就是為什麼兩支 Motorola 都被 899 美元的 Z Flip 7 FE 壓在下面。Mate XT Ultimate 排最後，2,800 美元換到一台用 2024 年 Kirin 9010 的三摺機，新鮮感撐不過一週。",
           "highlights": [
-            { "title": "Galaxy Z Fold 7 是第一支我會直接推薦的摺疊機", "body": "闔起 8.9mm、攤開 4.2mm、215 公克。200MP 主感光元件就是三星塞在 S25 Ultra 上的那顆。Snapdragon 8 Elite，七年作業系統和安全更新保證。Fold 7 是摺疊機買來的工程妥協第一次變成淨加分的時候，1,999 美元的定價真的給得很到位。" },
-            { "title": "Pixel 10 Pro Fold 的 IP68 防水是這份排行裡最重要的一條規格", "body": "Google 的無齒輪鉸鍊才是真正的看點。其他摺疊機你都得隨時提防水氣，Pixel 10 Pro Fold 直接讓你不用想這件事，5,015mAh 電池配 30 小時續航也讓你不用想充電。1,799 美元比 Fold 7 便宜 200 美元，少了 200MP 主鏡頭但拿到了同級最強的計算攝影。" },
-            { "title": "Oppo Find N5 是硬體王者，也是西方品牌落後一代的證明", "body": "Oppo 做了一支闔起來比很多直板機還薄的摺疊機，5,600mAh 電池、盒裝附 80W 快充、還配哈蘇潛望式相機。Find N5 如果在美國有賣，這份排行第二名就是它。受限通路才被擠到第三。" },
-            { "title": "Galaxy Z Flip 7 是 2026 年唯一值得買的翻蓋機", "body": "三星把外螢幕拉到 4.1 吋、主螢幕拉到 6.9 吋，價格守住 1,099 美元。這就是翻蓋機該有的定價。Razr Ultra 2026 賣 1,499 美元卻沿用去年的 Snapdragon 8 Elite，Razr+ 2026 賣 1,099 美元配的是 2024 年的 Snapdragon 8s Gen 3，這兩款的數學怎麼算都不划算。" },
-            { "title": "Huawei Mate XT Ultimate 是 2,800 美元的展示品，不是日常機", "body": "攤開變 10.2 吋 OLED 的三摺結構真的可以讓你驚豔三十秒。三十秒之後你會想起來它跑的是 2024 年的 Kirin 9010，重量比小平板還重，價格比一支 Z Fold 7 加一台 iPad mini 還貴。蒐集原型機可以買，當主力機就算了。" }
+            {
+              "title": "Galaxy Z Fold 7 是第一支我會直接推薦的摺疊機",
+              "body": "闔起 8.9mm、攤開 4.2mm、215 公克。200MP 主感光元件就是三星塞在 S25 Ultra 上的那顆。Snapdragon 8 Elite，七年作業系統和安全更新保證。Fold 7 是摺疊機買來的工程妥協第一次變成淨加分的時候，1,999 美元的定價真的給得很到位。"
+            },
+            {
+              "title": "Pixel 10 Pro Fold 的 IP68 防水是這份排行裡最重要的一條規格",
+              "body": "Google 的無齒輪鉸鍊才是真正的看點。其他摺疊機你都得隨時提防水氣，Pixel 10 Pro Fold 直接讓你不用想這件事，5,015mAh 電池配 30 小時續航也讓你不用想充電。1,799 美元比 Fold 7 便宜 200 美元，少了 200MP 主鏡頭但拿到了同級最強的計算攝影。"
+            },
+            {
+              "title": "Oppo Find N5 是硬體王者，也是西方品牌落後一代的證明",
+              "body": "Oppo 做了一支闔起來比很多直板機還薄的摺疊機，5,600mAh 電池、盒裝附 80W 快充、還配哈蘇潛望式相機。Find N5 如果在美國有賣，這份排行第二名就是它。受限通路才被擠到第三。"
+            },
+            {
+              "title": "Galaxy Z Flip 7 是 2026 年唯一值得買的翻蓋機",
+              "body": "三星把外螢幕拉到 4.1 吋、主螢幕拉到 6.9 吋，價格守住 1,099 美元。這就是翻蓋機該有的定價。Razr Ultra 2026 賣 1,499 美元卻沿用去年的 Snapdragon 8 Elite，Razr+ 2026 賣 1,099 美元配的是 2024 年的 Snapdragon 8s Gen 3，這兩款的數學怎麼算都不划算。"
+            },
+            {
+              "title": "Huawei Mate XT Ultimate 是 2,800 美元的展示品，不是日常機",
+              "body": "攤開變 10.2 吋 OLED 的三摺結構真的可以讓你驚豔三十秒。三十秒之後你會想起來它跑的是 2024 年的 Kirin 9010，重量比小平板還重，價格比一支 Z Fold 7 加一台 iPad mini 還貴。蒐集原型機可以買，當主力機就算了。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-05-04",
+      "rankings": [
+        {
+          "id": "galaxy-z-fold-7",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "display": 9.5,
+            "camera": 9.6,
+            "battery": 8.8,
+            "durability": 9.4,
+            "value": 8.7
+          }
+        },
+        {
+          "id": "pixel-10-pro-fold",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "display": 9.2,
+            "camera": 9.4,
+            "battery": 9.5,
+            "durability": 9.7,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "oppo-find-n5",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "display": 9.4,
+            "camera": 9.0,
+            "battery": 9.3,
+            "durability": 8.9,
+            "value": 8.4
+          }
+        },
+        {
+          "id": "honor-magic-v3",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "display": 9.0,
+            "camera": 8.6,
+            "battery": 8.9,
+            "durability": 8.7,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "vivo-x-fold-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "display": 9.1,
+            "camera": 9.0,
+            "battery": 9.6,
+            "durability": 8.6,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "galaxy-z-flip-7",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "display": 8.7,
+            "camera": 8.0,
+            "battery": 7.9,
+            "durability": 8.5,
+            "value": 9.1
+          }
+        },
+        {
+          "id": "motorola-razr-ultra-2026",
+          "rank": 7,
+          "score": 8.4,
+          "scores": {
+            "display": 8.8,
+            "camera": 8.2,
+            "battery": 8.6,
+            "durability": 8.4,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "galaxy-z-flip-7-fe",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "display": 8.0,
+            "camera": 7.5,
+            "battery": 7.7,
+            "durability": 8.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "motorola-razr-plus-2026",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "display": 8.2,
+            "camera": 7.8,
+            "battery": 8.0,
+            "durability": 8.0,
+            "value": 7.0
+          }
+        },
+        {
+          "id": "huawei-mate-xt-ultimate",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "display": 9.6,
+            "camera": 8.4,
+            "battery": 8.4,
+            "durability": 7.5,
+            "value": 5.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Samsung Galaxy Z Fold 7 Full Specifications",
+          "url": "https://www.phonearena.com/phones/Samsung-Galaxy-Z-Fold-7_id12645",
+          "source": "PhoneArena"
+        },
+        {
+          "title": "Google Pixel 10 Pro Fold unveiled — release date, IP68 rating, price and full specs",
+          "url": "https://www.tomsguide.com/phones/google-pixel-phones/google-pixel-10-pro-fold-unveiled-release-date-ip68-rating-price-and-full-specs",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "OPPO Launches Find N5: The World's Thinnest Book-Style Foldable",
+          "url": "https://www.oppo.com/en/newsroom/press/find-n5-global-launch/",
+          "source": "OPPO Newsroom"
+        },
+        {
+          "title": "Vivo X Fold 5 review: Destroying Samsung where it counts",
+          "url": "https://www.androidcentral.com/phones/vivo/vivo-x-fold-5-review",
+          "source": "Android Central"
+        },
+        {
+          "title": "Motorola Razr (2026) is a game of 'what's new' and price",
+          "url": "https://9to5google.com/2026/04/29/motorola-razr-2026-specs-price-release-date/",
+          "source": "9to5Google"
+        },
+        {
+          "title": "Honor Magic V3 review: The new foldable phone design benchmark",
+          "url": "https://www.tomsguide.com/phones/android-phones/honor-magic-v3-review",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "Huawei Mate XT Ultimate Design official: Tri-fold opens into a 10.2″ 3K OLED screen",
+          "url": "https://www.fonearena.com/blog/434727/huawei-mate-xt-price-specifications.html",
+          "source": "FoneArena"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "With the iPhone Fold confirmed for September, the foldable category is in an interesting holding pattern: Samsung still leads, but the gap to the rest is the smallest it's been since the Z Fold 3. After three weeks switching SIMs across all five, the Galaxy Z Fold 7 is still my top pick, and the reason is mundane: it's the only foldable I forget is folding. The hinge crease is genuinely fainter on the 7 than on any prior Fold, the cover screen is now wide enough to type on without compromise, and Samsung's seven-year update commitment puts it in iPhone territory for longevity. Pixel 10 Pro Fold takes silver because Google's Tensor G6 finally caught up on thermals, and the camera stack on Pixel still produces photos I'd rather post than the Samsung's. OPPO Find N5 deserves attention for being the thinnest book-style fold on the market (4.21mm unfolded), and battery life there is genuinely class-leading. Honor Magic V3 is the camera-first pick if you import. Vivo X Fold5 closes the list with the best-in-class display and the worst global software story. If you're buying in May rather than waiting for the iPhone reveal, the Z Fold 7 is the safe call.",
+          "highlights": [
+            {
+              "title": "Galaxy Z Fold 7 stays the safe pick",
+              "body": "Samsung shipped the foldable refinement everyone wanted: a fainter crease, a wider cover screen, and a hinge that finally feels designed rather than engineered around. Combine that with seven years of OS updates and you get the only foldable I'd recommend without an asterisk. At $1,899 it's expensive, and it's the price of admission for the most mature foldable on the market in 2026."
+            },
+            {
+              "title": "Pixel 10 Pro Fold catches up on photography",
+              "body": "Tensor G6 fixed the thermal issues that hurt the previous Pixel Fold under sustained load, and the camera stack continues to do the thing Pixel cameras do: produce photos that look like the moment instead of a marketing shot. If you live in Google Photos and Gmail, the Pixel Fold's software integration is the strongest argument here."
+            },
+            {
+              "title": "OPPO Find N5 is the engineering showcase",
+              "body": "At 4.21mm unfolded, the Find N5 is the thinnest book-style foldable shipping right now, and OPPO somehow fit a 5,600mAh battery in the same chassis. Real-world endurance hits two days for me with moderate use. The catch is software: ColorOS outside China requires patience, and update commitments don't match Samsung. Worth it if you import and care about hardware-led design."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "iPhone Fold 確認九月發表，整個摺疊機市場現在處於觀望期：Samsung 還是龍頭，但跟後面差距是 Z Fold 3 以來最小的一次。把五台輪流插 SIM 用三週，Galaxy Z Fold 7 還是首選，理由很無聊：這是唯一一台我會忘記它在摺疊的手機。折痕比前幾代都淡，外螢幕寬到可以直接打字，Samsung 七年更新承諾逼近 iPhone。Pixel 10 Pro Fold 拿銀牌因為 Tensor G6 把散熱搞定，相機是這五台我最想直接 PO 上 IG 的。OPPO Find N5 值得關注因為展開只有 4.21mm，最薄的書本式摺疊機，續航也是這級距最強。Honor Magic V3 適合水貨進口的相機派。vivo X Fold5 螢幕最讚但全球軟體最差。我跟你講，五月想買就 Z Fold 7，要等就撐到九月看 iPhone Fold 再決定。",
+          "highlights": [
+            {
+              "title": "Galaxy Z Fold 7 還是最穩的選擇",
+              "body": "Samsung 這代真的把大家想要的細節都修好了：折痕變淡、外螢幕變寬、轉軸觸感終於不像工程樣機。再加上七年系統更新，這是唯一一台我可以無條件推的摺疊機。台灣售價 NT$58,900 起確實貴，但這是 2026 年買最成熟摺疊機要付的入場費，老實說值得。"
+            },
+            {
+              "title": "Pixel 10 Pro Fold 相機追上來了",
+              "body": "Tensor G6 把上一代 Pixel Fold 過熱的問題修掉了，連續錄 4K 影片不會被降頻。相機則維持 Pixel 一貫風格：拍出來的照片是當下那個瞬間的感覺，不是修圖修出來的。如果你重度使用 Gmail、Google 相簿、Google 行事曆，Pixel Fold 的整合度沒有對手。"
+            },
+            {
+              "title": "OPPO Find N5 是工程美學代表作",
+              "body": "展開 4.21mm 厚，現在出貨中最薄的書本式摺疊機，OPPO 還塞進 5,600mAh 電池，工程實力不簡單。我自己使用兩天才需要充電。代價是軟體：ColorOS 國際版 Bug 需要耐心，更新承諾也比不上 Samsung。如果你習慣水貨進口、又重視硬體設計，這台值得列入考慮清單。"
+            }
           ]
         }
       }
