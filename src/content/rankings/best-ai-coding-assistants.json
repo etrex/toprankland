@@ -4872,6 +4872,191 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-05",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "codeQuality": 9.6,
+            "contextWindow": 9.5,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 8.9,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Introducing Claude Opus 4.7",
+          "url": "https://www.anthropic.com/news/claude-opus-4-7",
+          "source": "Anthropic"
+        },
+        {
+          "title": "GitHub Copilot Pricing 2026: Pro Tier Paused — What You Need to Know",
+          "url": "https://techsifted.com/posts/github-copilot-pricing-april-2026/",
+          "source": "TechSifted"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The agentic-coding war reached a new equilibrium this week and Claude Code stays at first by a wider margin than at any point this year. The Opus 4.7 release in late April pushed Claude Code's SWE-bench Verified score up another two points and the 1M context option made the multi-file refactoring story usable on real production codebases without splitting prompts. Cursor remains second because the editor experience is still the best for engineers who want fine-grained control over what the agent touches, but the gap on autonomous task completion has widened. GitHub Copilot stays third on the strength of enterprise distribution and the new Workspace mode, but the Claude integration that Microsoft shipped to enterprise customers in March effectively concedes that Anthropic has the better model. Windsurf at fourth is the dark-horse pick, the Cascade flow planner is genuinely smart and the Codeium pricing remains the best value in the category. Devin keeps fifth because Cognition's pricing changes finally made it competitive, and the autonomous PR workflow has improved enough that I trust it on greenfield TypeScript work. The pattern I keep coming back to is that the model matters more than the editor, and the model gap is currently Claude's to lose.",
+          "highlights": [
+            {
+              "title": "Claude Code with Opus 4.7 is the productivity uplift everyone else is benchmarking against",
+              "body": "The April Opus 4.7 release pushed SWE-bench Verified past the rest of the field by a margin that finally feels decisive, and the 1M context window made repo-wide refactors viable in a single session. Plan Mode keeps me out of trouble on the edits I don't fully understand yet, and the hooks system is the right escape hatch when I need deterministic gates."
+            },
+            {
+              "title": "Cursor still wins for engineers who want a tight feedback loop",
+              "body": "If you want to read every diff before it lands, Cursor's editor surface is still the best in the category and the Composer multi-file flow has matured enough to handle most refactors. The Cmd+K inline edits remain the fastest way to do small surgical changes, and Cursor Tab autocomplete is the only AI completion that has saved me real time over plain Copilot."
+            },
+            {
+              "title": "Windsurf is the value pick that punches above its weight",
+              "body": "Codeium's pricing is the most reasonable in the category and Cascade's flow planner makes Windsurf genuinely useful for multi-step tasks despite running on a smaller team's budget. For solo developers and small startups who can't justify $200 per seat per month, this is the assistant I'd ship with."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "代理式編碼這週進入新一輪平衡狀態，Claude Code 第一名的領先幅度比今年任何時候都更明顯。四月底 Opus 4.7 發表把 Claude Code 的 SWE-bench Verified 分數又往上推兩分，1M context 選項讓跨檔案重構在真實生產 codebase 上面終於不用拆 prompt 也跑得動。第二名 Cursor 在編輯器體驗依然是想要細掌控代理動什麼的工程師首選，但自主完成任務的差距拉開了。GitHub Copilot 第三靠企業通路跟新的 Workspace 模式撐住，但三月微軟對企業客戶開放的 Claude 整合等於承認 Anthropic 模型比較強。第四名 Windsurf 是黑馬，Cascade 工作流程規劃是真的聰明，Codeium 訂閱費也還是這個品類性價比最高的。Devin 第五，Cognition 改完訂閱方案以後總算有競爭力，自動 PR 流程改到我會在新 TypeScript 專案放手讓它做。這個品類的脈絡我反覆驗證過，模型比編輯器重要，而模型差距目前是 Claude 自己的優勢。",
+          "highlights": [
+            {
+              "title": "Claude Code 配 Opus 4.7 是其他工具都在追的標竿",
+              "body": "四月 Opus 4.7 把 SWE-bench Verified 分數推開到一個讓人覺得勝負已分的距離，1M context 讓整個 repo 的重構可以在單一 session 完成。Plan Mode 讓我在不完全理解的地方不會亂改，hooks 系統則是需要強制檢查時的正確逃生口。"
+            },
+            {
+              "title": "Cursor 還是最適合想看每一行 diff 的工程師",
+              "body": "想在每段程式碼落地前都檢查 diff，Cursor 的編輯器整合依然是這個品類最好的，Composer 跨檔流程已經成熟到能處理大多數重構。Cmd+K 行內編輯依然是做小型手術式修改最快的方式，Cursor Tab 補全也是唯一一個比 Copilot 真的能省時間的 AI 補全。"
+            },
+            {
+              "title": "Windsurf 是性價比之選，能跟巨頭打",
+              "body": "Codeium 的訂閱定價是這個品類最合理的，Cascade 流程規劃讓 Windsurf 在多步驟任務上面真的能用，而且這還是一個比競爭對手小得多的團隊做出來的。給獨立開發者跟新創團隊，每席每月撐不起 $200 美金的人，這就是我會推的助手。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
