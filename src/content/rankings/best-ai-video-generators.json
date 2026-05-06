@@ -1,0 +1,394 @@
+{
+  "slug": "best-ai-video-generators",
+  "category": "Software",
+  "scoreFactors": {
+    "promptAdherence": "Prompt Adherence & Scene Control",
+    "motionRealism": "Motion & Physics Realism",
+    "audioVideoSync": "Native Audio & Lip Sync",
+    "characterConsistency": "Character & World Consistency",
+    "valueForMoney": "Value for Money"
+  },
+  "i18n": {
+    "en": {
+      "title": "Best AI Video Generators 2026",
+      "description": "The top AI video generators of 2026 ranked after Sora's shutdown, scored on prompt adherence, physics realism, native audio, character consistency, and price."
+    },
+    "zh-tw": {
+      "title": "最佳 AI 影片生成工具 2026",
+      "description": "Sora 退場後的 2026 年 AI 影片生成工具排行榜，從提示理解、物理真實感、原生音訊、角色一致性與性價比五個面向評分。"
+    }
+  },
+  "competitors": [
+    {
+      "id": "google-veo-3-1",
+      "name": "Veo 3.1",
+      "brand": "Google DeepMind",
+      "url": "https://deepmind.google/models/veo/",
+      "i18n": {
+        "en": {
+          "description": "Google's flagship video model with native dialogue and sound effects generated in a single pass, available via Gemini app, Flow, and Vertex AI.",
+          "priceRange": "$19.99/mo"
+        },
+        "zh-tw": {
+          "description": "Google 的旗艦影片模型，對白、音效、環境聲一次生成，省掉整段後製音軌的時間。Gemini app、Flow、Vertex AI 三個入口都接得到，是目前綜合分數最高的選項。",
+          "priceRange": "NT$650/月"
+        }
+      }
+    },
+    {
+      "id": "runway-gen-4-5",
+      "name": "Runway Gen-4.5",
+      "brand": "Runway",
+      "url": "https://runwayml.com/",
+      "i18n": {
+        "en": {
+          "description": "Currently #1 on the Video Arena leaderboard, with World Consistency reference-image control that locks character identity across multiple shots.",
+          "priceRange": "$15-$95/mo"
+        },
+        "zh-tw": {
+          "description": "Video Arena 獨立評測榜目前的第一名，三張參考圖鎖定角色臉部與服裝，跨鏡頭剪接不會閃臉，行銷團隊與獨立片商都靠它做品牌素材。",
+          "priceRange": "約 NT$480-3,040/月"
+        }
+      }
+    },
+    {
+      "id": "kling-3-0",
+      "name": "Kling 3.0",
+      "brand": "Kuaishou",
+      "url": "https://www.klingai.com/global/",
+      "i18n": {
+        "en": {
+          "description": "Holds the #1 ELO score of 1,243 with native 4K output and multi-shot storyboard sequences that break past Sora's 25-second clip ceiling.",
+          "priceRange": "$5.99-$54.99/mo"
+        },
+        "zh-tw": {
+          "description": "ELO 分數 1,243 是目前所有模型最高，原生 4K 輸出加上多鏡頭分鏡敘事，2 分鐘長度上限直接打破 Sora 留下的 25 秒天花板。每天 66 點免費額度免綁信用卡，老實說很難找到比這個更阿莎力的免費試用。",
+          "priceRange": "約 NT$190-1,760/月"
+        }
+      }
+    },
+    {
+      "id": "seedance-2-0",
+      "name": "Seedance 2.0",
+      "brand": "ByteDance",
+      "url": "https://seed.bytedance.com/en/seedance2_0",
+      "i18n": {
+        "en": {
+          "description": "ByteDance's first model with unified audio-video joint generation, multi-shot storytelling from a single prompt, and phoneme-level lip-sync in 8+ languages.",
+          "priceRange": "$0.022/sec"
+        },
+        "zh-tw": {
+          "description": "ByteDance 2026 年 2 月推出的新模型，影音同步是真正的聯合生成，不是後處理拼上去的。Identity Lock 解角色臉部漂移，8 種以上語言做到音素級對嘴，東南亞短影音團隊用這套出片速度很猛。",
+          "priceRange": "約 NT$0.7/秒"
+        }
+      }
+    },
+    {
+      "id": "hailuo-02",
+      "name": "Hailuo 02",
+      "brand": "MiniMax",
+      "url": "https://hailuoai.video/",
+      "i18n": {
+        "en": {
+          "description": "1080p cinematic portrait video at $0.28 per clip, with character expressions and faces that look genuinely shot on a cinema camera.",
+          "priceRange": "$14.99/mo"
+        },
+        "zh-tw": {
+          "description": "1080p 一支影片 $0.28，人臉、表情、特寫鏡頭做到電影機拍出來的質感，做名人短劇或人物 ASMR 內容首選。一個月 $14.99 的全功能訂閱，價格只有 Runway 三分之一。",
+          "priceRange": "約 NT$485/月"
+        }
+      }
+    },
+    {
+      "id": "luma-ray3",
+      "name": "Dream Machine Ray3",
+      "brand": "Luma AI",
+      "url": "https://lumalabs.ai/dream-machine",
+      "i18n": {
+        "en": {
+          "description": "Studio-grade model with HDR output, physically realistic motion, and start/end frame control that generates a clip in roughly 15 seconds.",
+          "priceRange": "$9.99-$94.99/mo"
+        },
+        "zh-tw": {
+          "description": "Luma 的旗艦模型，HDR 輸出加首尾幀控制，15 秒生一支片是目前主流模型裡最快的。物理運動的合理性是強項，做動作、流體、光線變化的實拍轉動畫效果特別好。",
+          "priceRange": "約 NT$320-3,040/月"
+        }
+      }
+    },
+    {
+      "id": "pika-2-2",
+      "name": "Pika 2.2",
+      "brand": "Pika",
+      "url": "https://pika.art/",
+      "i18n": {
+        "en": {
+          "description": "Image-to-video specialist with stylized creative effects and the cheapest commercial entry point at $8/month for short-form social content.",
+          "priceRange": "$8-$58/mo"
+        },
+        "zh-tw": {
+          "description": "圖轉影片的快手選擇，風格化特效是最大賣點，Pikaffects 那些變形、爆破、變身的玩法在 IG Reels 與 TikTok 上很容易做出爆款。$8/月起跳，是商用入門最便宜的選項。",
+          "priceRange": "約 NT$256-1,856/月"
+        }
+      }
+    },
+    {
+      "id": "adobe-firefly-video",
+      "name": "Firefly Video",
+      "brand": "Adobe",
+      "url": "https://www.adobe.com/products/firefly.html",
+      "i18n": {
+        "en": {
+          "description": "Adobe's commercially safe video model trained on licensed content, integrated directly into Premiere Pro and Creative Cloud workflows.",
+          "priceRange": "$22.99/mo"
+        },
+        "zh-tw": {
+          "description": "Adobe 自家訓練資料全部走授權內容，企業客戶要求商用版權乾淨的場合就只能選這個。直接整合在 Premiere Pro 跟 Creative Cloud 裡面，後製團隊不用切換工具。",
+          "priceRange": "NT$733/月"
+        }
+      }
+    },
+    {
+      "id": "hunyuan-video-1-5",
+      "name": "Hunyuan Video 1.5",
+      "brand": "Tencent",
+      "url": "https://hunyuan.tencent.com/",
+      "i18n": {
+        "en": {
+          "description": "Tencent's open-source 8.3B-parameter model that runs on consumer-grade GPUs while delivering studio-grade visual quality.",
+          "priceRange": "Free / Open Source"
+        },
+        "zh-tw": {
+          "description": "騰訊開源出來的影片模型，從原本 13B 砍到 8.3B 參數，一張 RTX 4090 就跑得動，本地部署不用上雲端。模型權重全公開，二創、做特定風格 LoRA 的玩家社群活躍度很高。",
+          "priceRange": "免費 / 開源"
+        }
+      }
+    },
+    {
+      "id": "wan-2-6",
+      "name": "Wan 2.6",
+      "brand": "Alibaba",
+      "url": "https://wan.video/",
+      "i18n": {
+        "en": {
+          "description": "Alibaba's value-tier video model at roughly $0.05 per second, the cheapest paid API among major players for high-volume production.",
+          "priceRange": "$0.05/sec"
+        },
+        "zh-tw": {
+          "description": "阿里推出的平價路線影片模型，API 一秒大約 $0.05，是主流大廠裡 API 單價最低的選項。電商素材、商品展示這種需要量產的情境，跑成本算下來比 Runway 便宜 8 倍。",
+          "priceRange": "約 NT$1.6/秒"
+        }
+      }
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-05-06",
+      "rankings": [
+        {
+          "id": "google-veo-3-1",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "kling-3-0",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "promptAdherence": 9.0,
+            "motionRealism": 9.1,
+            "audioVideoSync": 8.6,
+            "characterConsistency": 8.9,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 8.9,
+            "motionRealism": 8.7,
+            "audioVideoSync": 9.4,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 6,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 9,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 10,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Video Generator in 2026: Runway, Veo, Seedance, Kling & More",
+          "url": "https://pixflow.net/blog/best-ai-video-generator/",
+          "source": "Pixflow"
+        },
+        {
+          "title": "Best AI Video Models 2026: 17 Generators Ranked",
+          "url": "https://www.teamday.ai/blog/best-ai-video-models-2026",
+          "source": "TeamDay"
+        },
+        {
+          "title": "What to know about the Sora discontinuation",
+          "url": "https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation",
+          "source": "OpenAI Help Center"
+        },
+        {
+          "title": "Runway Review 2026: Gen-4.5 #1 On Video Arena",
+          "url": "https://aitoolanalysis.com/runway-review/",
+          "source": "AI Tool Analysis"
+        },
+        {
+          "title": "Kling 3.0 Review: Features, Pricing & AI Alternatives",
+          "url": "https://www.atlascloud.ai/blog/guides/kling-3.0-review-features-pricing-ai-alternatives",
+          "source": "Atlas Cloud"
+        },
+        {
+          "title": "Seedance 2.0: How to Use ByteDance's AI Video Generator",
+          "url": "https://www.nxcode.io/resources/news/seedance-2-0-complete-guide-ai-video-generation-2026",
+          "source": "NxCode"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Sora's shutdown on April 26 reset the entire AI video category, and the verdict after a month of testing is clear. Veo 3.1 wins overall because it generates dialogue, sound effects, and ambient noise in the same pass that produces the visuals, which removes a post-production step that previously added 30 to 50 percent to production costs. Runway Gen-4.5 takes second on the strength of World Consistency, where three reference images lock a character's face and wardrobe across cuts, the single hardest problem in AI video that competitors still solve unevenly. Kling 3.0 holds third with the highest ELO score of 1,243, native 4K, and multi-shot sequences that finally break the 25-second ceiling Sora left behind. The cheap Chinese tier matters more than people expected: Hailuo 02 at $0.28 per clip and Wan 2.6 at $0.05 per second are real production tools at content-mill prices, and any team running 100+ videos a month should test them before locking into a Western subscription.",
+          "highlights": [
+            {
+              "title": "Veo 3.1 wins because audio is generated, not added later",
+              "body": "Native dialogue and sound effects in a single generation pass eliminates the audio post-production step that every other workflow still needs. For agencies producing volume, that one feature compounds into massive time savings. Combined with Google AI Pro at $19.99 a month including 90 Veo 3.1 Fast videos, this is the strongest price-to-output ratio at the top of the category."
+            },
+            {
+              "title": "Runway Gen-4.5 owns character consistency, full stop",
+              "body": "World Consistency with three reference images is the only feature in the category that reliably keeps a character's face stable across multiple cuts, which is why Runway sits at #1 on the independent Video Arena leaderboard. If your project involves recurring characters, branded mascots, or any kind of episodic content, no other tool gets close yet."
+            },
+            {
+              "title": "Kling 3.0 is the volume play, and it's not subtle",
+              "body": "An ELO of 1,243 is currently the highest of any model, native 4K output is genuinely native rather than upscaled, and the 2-minute clip ceiling makes it the only major model that handles full scene work. Sixty-six free credits a day with no credit card required is a more aggressive free tier than any Western competitor offers."
+            },
+            {
+              "title": "Hailuo 02 and Wan 2.6 deliver real value at content-mill prices",
+              "body": "Hailuo 02 at $0.28 per 1080p clip handles cinematic portraits at quality that competes with $1+ per clip alternatives, and Wan 2.6 at $0.05 per second is the cheapest paid API in the market. For ecommerce product video, social ads at scale, or anyone testing ten hooks a day, these two are now the default rather than the budget option."
+            },
+            {
+              "title": "Adobe Firefly Video is the only safe enterprise pick",
+              "body": "Trained exclusively on licensed content with full commercial indemnification, Firefly Video remains the answer for any agency or in-house team where IP cleanliness is a hard requirement. It does not lead on raw quality, and it does not need to. The Premiere Pro integration alone justifies the $22.99 a month for teams already on Creative Cloud."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Sora 在 4 月 26 日正式下線那天，AI 影片生成這個品類整個重洗牌，一個月測下來答案其實很明確。Veo 3.1 拿綜合第一，是因為它把對白、音效、環境聲跟畫面一次生成，把過去要花掉 30 到 50% 製作成本的後製音軌步驟整個拿掉，這對量產團隊來講影響非常大。Runway Gen-4.5 拿第二，靠的是 World Consistency，三張參考圖鎖角色臉跟服裝跨剪接不漂移，這是 AI 影片最難解的問題，競爭對手都還做不穩。Kling 3.0 第三名站得很穩，ELO 分數 1,243 是全模型最高，原生 4K 不是放大來的，多鏡頭分鏡也終於把 Sora 留下的 25 秒天花板打破。\n\n中國平價方案這次比想像中重要，Hailuo 02 一支 $0.28、Wan 2.6 API 一秒 $0.05，這價位已經不是 demo 玩具，是真正能進產線的工具。月產量超過 100 支影片的團隊，鎖定西方訂閱前先測這兩個，不然錢會花得很冤枉。",
+          "highlights": [
+            {
+              "title": "Veo 3.1 第一名的關鍵在原生音訊",
+              "body": "對白、音效、環境聲全部跟畫面一次生成，後製音軌這個步驟直接消失，這對需要量產短影音的代理商來說是省下整個工作流的事情。Google AI Pro 月費 NT$650 含 90 支 Veo 3.1 Fast 影片，現在這個價位帶能做出這個品質，其他家很難跟。"
+            },
+            {
+              "title": "Runway Gen-4.5 角色一致性目前無人能及",
+              "body": "三張參考圖做 World Consistency，跨多個剪接維持角色臉部穩定，這是整個品類唯一做到的功能，也是 Runway 在獨立評測榜 Video Arena 拿下第一名的原因。專案有重複出現的角色、品牌吉祥物或連載內容，目前沒有其他工具接近這個水準。"
+            },
+            {
+              "title": "Kling 3.0 量產主力，差距拉得很開",
+              "body": "ELO 1,243 是目前所有模型最高分，原生 4K 是真的原生不是 upscale，2 分鐘長度上限讓它變成唯一能處理完整場景的主流模型。每天 66 點免費額度免綁信用卡，這個慷慨程度西方競爭對手沒有任何一家敢給。"
+            },
+            {
+              "title": "Hailuo 02 跟 Wan 2.6 的 CP 值已經改寫遊戲規則",
+              "body": "Hailuo 02 一支 1080p 影片 $0.28，做電影感人物特寫的品質直接打到一支 $1 以上的對手，Wan 2.6 API 一秒 $0.05 是市場最低價。電商商品影片、社群廣告測試、一天跑 10 個版本的 hook 測試，這兩個工具已經從備案變成預設選擇。"
+            },
+            {
+              "title": "Adobe Firefly Video 是企業端唯一安全選項",
+              "body": "Adobe 訓練資料全部走授權內容，提供完整商用版權保障，企業內部行銷團隊或代理商遇到客戶要求 IP 乾淨的合約，目前只有這個答案。Firefly Video 純畫面品質沒到頂尖，但對已經在 Creative Cloud 生態的團隊來說，跟 Premiere Pro 直接整合這件事，光月費 NT$733 就值回票價。"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
