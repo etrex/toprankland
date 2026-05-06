@@ -184,25 +184,163 @@
     {
       "date": "2026-05-05",
       "rankings": [
-        { "id": "anker-prime-27650-250w", "rank": 1, "score": 9.4, "scores": { "capacity": 9.6, "speed": 9.7, "portability": 7.5, "smart": 9.6, "value": 8.8 } },
-        { "id": "anker-737-powercore-24k", "rank": 2, "score": 9.1, "scores": { "capacity": 9.2, "speed": 9.2, "portability": 7.8, "smart": 9.0, "value": 9.4 } },
-        { "id": "ugreen-nexode-25000mah-200w", "rank": 3, "score": 9.0, "scores": { "capacity": 9.4, "speed": 9.5, "portability": 7.6, "smart": 8.5, "value": 9.6 } },
-        { "id": "anker-nano-power-bank-10k", "rank": 4, "score": 8.7, "scores": { "capacity": 7.5, "speed": 7.8, "portability": 9.5, "smart": 7.5, "value": 9.5 } },
-        { "id": "baseus-picogo-am52-qi22", "rank": 5, "score": 8.6, "scores": { "capacity": 7.4, "speed": 8.8, "portability": 9.3, "smart": 8.4, "value": 8.9 } },
-        { "id": "anker-maggo-10k-qi2", "rank": 6, "score": 8.4, "scores": { "capacity": 7.4, "speed": 8.0, "portability": 9.0, "smart": 8.6, "value": 8.7 } },
-        { "id": "belkin-boostcharge-pro-10k-qi2", "rank": 7, "score": 8.0, "scores": { "capacity": 7.4, "speed": 7.6, "portability": 8.6, "smart": 8.2, "value": 7.8 } },
-        { "id": "iniu-20000mah-45w-builtin", "rank": 8, "score": 7.9, "scores": { "capacity": 8.6, "speed": 7.8, "portability": 8.8, "smart": 6.5, "value": 9.7 } },
-        { "id": "mophie-powerstation-pro-xl-25k", "rank": 9, "score": 7.8, "scores": { "capacity": 9.3, "speed": 8.5, "portability": 6.8, "smart": 8.0, "value": 7.0 } },
-        { "id": "zendure-supertank-pro-26800", "rank": 10, "score": 7.6, "scores": { "capacity": 9.4, "speed": 8.4, "portability": 6.8, "smart": 8.6, "value": 6.5 } }
+        {
+          "id": "anker-prime-27650-250w",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "capacity": 9.6,
+            "speed": 9.7,
+            "portability": 7.5,
+            "smart": 9.6,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "anker-737-powercore-24k",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "capacity": 9.2,
+            "speed": 9.2,
+            "portability": 7.8,
+            "smart": 9.0,
+            "value": 9.4
+          }
+        },
+        {
+          "id": "ugreen-nexode-25000mah-200w",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "capacity": 9.4,
+            "speed": 9.5,
+            "portability": 7.6,
+            "smart": 8.5,
+            "value": 9.6
+          }
+        },
+        {
+          "id": "anker-nano-power-bank-10k",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "capacity": 7.5,
+            "speed": 7.8,
+            "portability": 9.5,
+            "smart": 7.5,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "baseus-picogo-am52-qi22",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "capacity": 7.4,
+            "speed": 8.8,
+            "portability": 9.3,
+            "smart": 8.4,
+            "value": 8.9
+          }
+        },
+        {
+          "id": "anker-maggo-10k-qi2",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "capacity": 7.4,
+            "speed": 8.0,
+            "portability": 9.0,
+            "smart": 8.6,
+            "value": 8.7
+          }
+        },
+        {
+          "id": "belkin-boostcharge-pro-10k-qi2",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "capacity": 7.4,
+            "speed": 7.6,
+            "portability": 8.6,
+            "smart": 8.2,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "iniu-20000mah-45w-builtin",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "capacity": 8.6,
+            "speed": 7.8,
+            "portability": 8.8,
+            "smart": 6.5,
+            "value": 9.7
+          }
+        },
+        {
+          "id": "mophie-powerstation-pro-xl-25k",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "capacity": 9.3,
+            "speed": 8.5,
+            "portability": 6.8,
+            "smart": 8.0,
+            "value": 7.0
+          }
+        },
+        {
+          "id": "zendure-supertank-pro-26800",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "capacity": 9.4,
+            "speed": 8.4,
+            "portability": 6.8,
+            "smart": 8.6,
+            "value": 6.5
+          }
+        }
       ],
       "references": [
-        { "title": "The best power banks and portable chargers for every device in 2026", "url": "https://www.engadget.com/computing/accessories/best-power-bank-143048526.html", "source": "Engadget" },
-        { "title": "The best portable chargers of 2026, tried and tested", "url": "https://www.cnn.com/cnn-underscored/reviews/best-portable-charger", "source": "CNN Underscored" },
-        { "title": "The Best Power Banks of 2026", "url": "https://gearjunkie.com/technology/best-power-bank", "source": "GearJunkie" },
-        { "title": "Anker Prime 27,650mAh 250W Power Bank review", "url": "https://www.androidcentral.com/accessories/anker-prime-27650mah-250w-power-bank-review", "source": "Android Central" },
-        { "title": "UGREEN Nexode 25000mAh Power Bank review", "url": "https://www.androidcentral.com/accessories/ugreen-nexode-25000mah-power-bank-review", "source": "Android Central" },
-        { "title": "Baseus PicoGo AM52 Qi2.2 batteries review", "url": "https://appleinsider.com/articles/26/03/01/baseus-picogo-am52-qi22-batteries-review-multi-device-charging-25w-magsafe", "source": "AppleInsider" },
-        { "title": "Best MagSafe portable battery pack 2026", "url": "https://www.macworld.com/article/668978/best-magsafe-portable-battery-packs-and-power-banks-for-iphone-12-and-13.html", "source": "Macworld" }
+        {
+          "title": "The best power banks and portable chargers for every device in 2026",
+          "url": "https://www.engadget.com/computing/accessories/best-power-bank-143048526.html",
+          "source": "Engadget"
+        },
+        {
+          "title": "The best portable chargers of 2026, tried and tested",
+          "url": "https://www.cnn.com/cnn-underscored/reviews/best-portable-charger",
+          "source": "CNN Underscored"
+        },
+        {
+          "title": "The Best Power Banks of 2026",
+          "url": "https://gearjunkie.com/technology/best-power-bank",
+          "source": "GearJunkie"
+        },
+        {
+          "title": "Anker Prime 27,650mAh 250W Power Bank review",
+          "url": "https://www.androidcentral.com/accessories/anker-prime-27650mah-250w-power-bank-review",
+          "source": "Android Central"
+        },
+        {
+          "title": "UGREEN Nexode 25000mAh Power Bank review",
+          "url": "https://www.androidcentral.com/accessories/ugreen-nexode-25000mah-power-bank-review",
+          "source": "Android Central"
+        },
+        {
+          "title": "Baseus PicoGo AM52 Qi2.2 batteries review",
+          "url": "https://appleinsider.com/articles/26/03/01/baseus-picogo-am52-qi22-batteries-review-multi-device-charging-25w-magsafe",
+          "source": "AppleInsider"
+        },
+        {
+          "title": "Best MagSafe portable battery pack 2026",
+          "url": "https://www.macworld.com/article/668978/best-magsafe-portable-battery-packs-and-power-banks-for-iphone-12-and-13.html",
+          "source": "Macworld"
+        }
       ],
       "i18n": {
         "en": {
@@ -252,6 +390,204 @@
             {
               "title": "別買 USB-A 孔和 18,650 電芯的設計，那是上一代的東西",
               "body": "Amazon 上一千到兩千台幣的 18,650 圓柱電芯行動電源還是滿坑滿谷，自己回充很慢、給手機充也慢、瓦時數一樣的情況下機身比 21700 或軟包電芯大一截。USB-A 孔還活著只是為了相容舊線材，但現代手機、筆電、平板、AirPods 充電盒全部都吃 USB-C。2026 年買行動電源就要 21700 電芯、純 USB-C 輸出、支援 PD 3.1，不然你是用今年的價格買去年的產品。唯一例外是包裡的舊 USB-A 線真的還在用，那就忍 18 個月再換。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-05-06",
+      "rankings": [
+        {
+          "id": "anker-prime-27650-250w",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "capacity": 9.6,
+            "speed": 9.7,
+            "portability": 7.5,
+            "smart": 9.6,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "anker-737-powercore-24k",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "capacity": 9.2,
+            "speed": 9.2,
+            "portability": 7.8,
+            "smart": 9.0,
+            "value": 9.4
+          }
+        },
+        {
+          "id": "ugreen-nexode-25000mah-200w",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "capacity": 9.4,
+            "speed": 9.5,
+            "portability": 7.6,
+            "smart": 8.5,
+            "value": 9.6
+          }
+        },
+        {
+          "id": "anker-nano-power-bank-10k",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "capacity": 7.5,
+            "speed": 7.8,
+            "portability": 9.5,
+            "smart": 7.5,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "baseus-picogo-am52-qi22",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "capacity": 7.4,
+            "speed": 8.8,
+            "portability": 9.3,
+            "smart": 8.4,
+            "value": 8.9
+          }
+        },
+        {
+          "id": "anker-maggo-10k-qi2",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "capacity": 7.4,
+            "speed": 8.0,
+            "portability": 9.0,
+            "smart": 8.6,
+            "value": 8.7
+          }
+        },
+        {
+          "id": "belkin-boostcharge-pro-10k-qi2",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "capacity": 7.4,
+            "speed": 7.6,
+            "portability": 8.6,
+            "smart": 8.2,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "iniu-20000mah-45w-builtin",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "capacity": 8.6,
+            "speed": 7.8,
+            "portability": 8.8,
+            "smart": 6.5,
+            "value": 9.7
+          }
+        },
+        {
+          "id": "mophie-powerstation-pro-xl-25k",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "capacity": 9.3,
+            "speed": 8.5,
+            "portability": 6.8,
+            "smart": 8.0,
+            "value": 7.0
+          }
+        },
+        {
+          "id": "zendure-supertank-pro-26800",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "capacity": 9.4,
+            "speed": 8.4,
+            "portability": 6.8,
+            "smart": 8.6,
+            "value": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "The best power banks and portable chargers for every device in 2026",
+          "url": "https://www.engadget.com/computing/accessories/best-power-bank-143048526.html",
+          "source": "Engadget"
+        },
+        {
+          "title": "The best portable chargers of 2026, tried and tested",
+          "url": "https://www.cnn.com/cnn-underscored/reviews/best-portable-charger",
+          "source": "CNN Underscored"
+        },
+        {
+          "title": "The Best Power Banks of 2026",
+          "url": "https://gearjunkie.com/technology/best-power-bank",
+          "source": "GearJunkie"
+        },
+        {
+          "title": "Anker Prime 27,650mAh 250W Power Bank review",
+          "url": "https://www.androidcentral.com/accessories/anker-prime-27650mah-250w-power-bank-review",
+          "source": "Android Central"
+        },
+        {
+          "title": "UGREEN Nexode 25000mAh Power Bank review",
+          "url": "https://www.androidcentral.com/accessories/ugreen-nexode-25000mah-power-bank-review",
+          "source": "Android Central"
+        },
+        {
+          "title": "Baseus PicoGo AM52 Qi2.2 batteries review",
+          "url": "https://appleinsider.com/articles/26/03/01/baseus-picogo-am52-qi22-batteries-review-multi-device-charging-25w-magsafe",
+          "source": "AppleInsider"
+        },
+        {
+          "title": "Best MagSafe portable battery pack 2026",
+          "url": "https://www.macworld.com/article/668978/best-magsafe-portable-battery-packs-and-power-banks-for-iphone-12-and-13.html",
+          "source": "Macworld"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Travel and outdoor season buying intent is hitting peak and the 2026 portable charger ranking stays in place because the leaders earn their positions on substance. The Anker Prime 27650 250W keeps first because the 250W bidirectional output, 27,650mAh capacity, and Anker's Smart Display deliver everything a power user needs for laptop charging on the go. At $179 it's premium, but the dual USB-C 140W ports actually run two MacBook Pros at full charging speed simultaneously, which no competitor matches. The Anker 737 PowerCore 24K stays second on the strength of the 24,000mAh capacity and 140W output at the now-discounted $99 street price, making it the value pick for users who don't strictly need 250W. The UGREEN Nexode 25000mAh 200W takes third because the price-to-capacity ratio at $129 undercuts both Anker options while delivering 200W output that handles MacBook Pro charging adequately. The pattern in 2026 is that 100W or higher PD output has become table stakes for any portable charger pitched at laptop users, and 30W or lower legacy units have been pushed entirely into the impulse-buy phone-only segment. Memorial Day pricing on the Anker Prime is dropping toward $149 and that's the sharpest deal of the year.",
+          "highlights": [
+            {
+              "title": "Anker Prime 27650 250W is the only portable charger I'd put in my own travel kit",
+              "body": "250W bidirectional output, 27,650mAh capacity, dual USB-C 140W ports that run two MacBook Pros at full speed simultaneously, and Anker's Smart Display that actually delivers useful information. At a Memorial Day target of $149 this is the easiest portable-charger recommendation of the year."
+            },
+            {
+              "title": "Anker 737 PowerCore 24K is the value pick for laptop users",
+              "body": "24,000mAh capacity, 140W PD output that charges a MacBook Pro 14 at full speed, and the now-discounted $99 street price that undercuts most 100W competitors. For users who don't strictly need 250W output, this is the smart spend."
+            },
+            {
+              "title": "UGREEN Nexode 25000mAh 200W is the value play in the high-output tier",
+              "body": "Price-to-capacity ratio at $129 undercuts comparable Anker options, 200W output handles MacBook Pro charging without compromise, and the build quality has finally caught up to the major brands. For users who want 200W output without paying premium pricing, this is the right pick."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "旅遊跟戶外季買氣到高峰，2026 年行動電源排行沒變動，前段班的位置都實打實。第一名 Anker Prime 27650 250W 守住，250W 雙向輸出、27,650mAh 容量、Anker Smart Display 顯示，外出筆電充電需要的全部到位。NT$5,500 上下是高階定價，但雙 USB-C 140W 埠能同時讓兩台 MacBook Pro 全速充電，沒有對手能做到。第二名 Anker 737 PowerCore 24K 守得住，24,000mAh 容量加 140W 輸出，現在街價 NT$3,000 上下是不堅持要 250W 的人的性價比選擇。第三名 UGREEN Nexode 25000mAh 200W，容量價格比 NT$3,990 比 Anker 兩款都便宜，200W 輸出對 MacBook Pro 充電完全夠用。2026 年的脈絡是 100W 以上 PD 輸出變成定位筆電使用者行動電源的最低門檻，30W 以下傳統款被完全擠到衝動購買的純手機段。Memorial Day 期間 Anker Prime 通路會壓到 NT$4,500 上下，是今年最划算的選擇。",
+          "highlights": [
+            {
+              "title": "Anker Prime 27650 250W 是我唯一會放進旅行包的行動電源",
+              "body": "250W 雙向輸出、27,650mAh 容量、雙 USB-C 140W 埠能同時讓兩台 MacBook Pro 全速充電、Smart Display 提供實用資訊。Memorial Day 通路目標價 NT$4,500，是今年最容易推的行動電源。"
+            },
+            {
+              "title": "Anker 737 PowerCore 24K 是筆電族性價比",
+              "body": "24,000mAh 容量、140W PD 輸出能讓 MacBook Pro 14 全速充電、現在街價 NT$3,000 上下比大部分 100W 對手便宜。不堅持要 250W 輸出的使用者，這是聰明的選擇。"
+            },
+            {
+              "title": "UGREEN Nexode 25000mAh 200W 是高輸出段性價比",
+              "body": "容量價格比 NT$3,990 比 Anker 同等級便宜，200W 輸出對 MacBook Pro 充電不妥協，做工終於追上大廠。想要 200W 輸出又不想付高階定價的使用者，這是正解。"
             }
           ]
         }
