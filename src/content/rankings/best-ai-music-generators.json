@@ -1,0 +1,399 @@
+{
+  "slug": "best-ai-music-generators",
+  "category": "Software",
+  "scoreFactors": {
+    "audioQuality": "Audio Quality",
+    "vocalRealism": "Vocal Realism",
+    "editingControl": "Editing Control",
+    "commercialLicense": "Commercial License",
+    "valueForMoney": "Value for Money"
+  },
+  "i18n": {
+    "en": {
+      "title": "Best AI Music Generators 2026",
+      "description": "I tested ten AI music platforms across audio quality, vocal realism, editing control, and licensing. Suno V5 leads, Udio owns surgical edits, and ElevenLabs Music is the safest commercial pick."
+    },
+    "zh-tw": {
+      "title": "2026 最佳 AI 音樂生成工具排行榜",
+      "description": "實測十款 AI 音樂平台的音質、人聲真實度、編輯控制與商業授權。Suno V5 綜合冠軍，Udio 拿下精準編輯，ElevenLabs Music 是商業使用最安全的選擇。"
+    }
+  },
+  "competitors": [
+    {
+      "id": "suno-v5",
+      "name": "Suno V5",
+      "brand": "Suno",
+      "url": "https://suno.com/",
+      "i18n": {
+        "en": {
+          "description": "The category leader in 2026. Suno V5 holds the top ELO score for audio quality, and the Premier plan ships Suno Studio, an AI-native DAW with stem editing and MIDI export.",
+          "priceRange": "$10/mo Pro, $30/mo Premier"
+        },
+        "zh-tw": {
+          "description": "2026 年 AI 音樂生成的綜合冠軍。Suno V5 在音質 ELO 分數上拿下第一，Premier 方案還附 Suno Studio，這是目前唯一能在同個工具裡編輯分軌、匯出 MIDI 的 AI 原生 DAW。",
+          "priceRange": "約 NT$300/月 Pro，約 NT$910/月 Premier"
+        }
+      }
+    },
+    {
+      "id": "udio",
+      "name": "Udio",
+      "brand": "Udio",
+      "url": "https://www.udio.com/",
+      "i18n": {
+        "en": {
+          "description": "The producer's choice. 48kHz stereo output and inpainting let you regenerate a single bar without rebuilding the song, though downloads remain disabled while major-label deals are negotiated.",
+          "priceRange": "$10/mo Standard, $30/mo Pro"
+        },
+        "zh-tw": {
+          "description": "專業製作人的首選。48kHz 立體聲輸出加上 inpainting 區段重生功能，可以單獨重做一段副歌而不影響其他部分。下載功能目前因為跟唱片公司的授權還在談所以暫停。",
+          "priceRange": "約 NT$300/月 Standard，約 NT$910/月 Pro"
+        }
+      }
+    },
+    {
+      "id": "elevenlabs-music",
+      "name": "Eleven Music",
+      "brand": "ElevenLabs",
+      "url": "https://elevenlabs.io/music",
+      "i18n": {
+        "en": {
+          "description": "Built on licensed and royalty-free training data from day one. Vocal realism is the best in the category, and the $9.99 Pro tier raises the cap to 500 tracks per month.",
+          "priceRange": "Free tier, $9.99/mo Pro"
+        },
+        "zh-tw": {
+          "description": "從第一天就用合法授權與免版稅資料訓練。人聲真實度是全品類最強，免費方案每天 7 首，Pro 方案 $9.99 把上限拉到每月 500 首。",
+          "priceRange": "免費方案，約 NT$310/月 Pro"
+        }
+      }
+    },
+    {
+      "id": "stable-audio-2-5",
+      "name": "Stable Audio 2.5",
+      "brand": "Stability AI",
+      "url": "https://stability.ai/stable-audio",
+      "i18n": {
+        "en": {
+          "description": "The strongest pick for instrumental beds, ad music, and sound design. Generates up to 3 minutes at 44.1kHz with audio inpainting and a fully licensed training dataset.",
+          "priceRange": "$0.20/audio, free 10/mo"
+        },
+        "zh-tw": {
+          "description": "做配樂底、廣告音床、音效設計的最強選擇。可生成 3 分鐘 44.1kHz 音訊，支援音訊 inpainting，使用完整授權資料集訓練。每首 $0.20，免費方案每月 10 首。",
+          "priceRange": "約 NT$6/首，免費 10 首/月"
+        }
+      }
+    },
+    {
+      "id": "riffusion",
+      "name": "Riffusion",
+      "brand": "Riffusion",
+      "url": "https://www.riffusion.com/",
+      "i18n": {
+        "en": {
+          "description": "The developer-friendly option with an API-first product. Starter plan is $6 per month for around 600 songs, all royalty-free for personal and commercial use.",
+          "priceRange": "$6/mo Starter"
+        },
+        "zh-tw": {
+          "description": "開發者導向的選擇，API 優先設計。Starter 方案 $6 折合台幣不到兩百，每月可生成約 600 首，全部免版稅可商用，這個價位帶最便宜。",
+          "priceRange": "約 NT$190/月 Starter"
+        }
+      }
+    },
+    {
+      "id": "soundraw",
+      "name": "SOUNDRAW",
+      "brand": "SOUNDRAW",
+      "url": "https://soundraw.io/",
+      "i18n": {
+        "en": {
+          "description": "Trained on its own in-house catalog, which keeps the worldwide commercial license rock solid. Tracks generated during your subscription stay licensed for life even after you cancel.",
+          "priceRange": "$11.04/mo Creator"
+        },
+        "zh-tw": {
+          "description": "用自家曲庫訓練，全球商業授權最乾淨。訂閱期間生成的曲子終身可商用，就算後來取消訂閱還是能繼續用，這對 YouTuber 跟廣告商來說等於買斷。",
+          "priceRange": "約 NT$340/月 Creator"
+        }
+      }
+    },
+    {
+      "id": "aiva",
+      "name": "AIVA",
+      "brand": "AIVA Technologies",
+      "url": "https://www.aiva.ai/",
+      "i18n": {
+        "en": {
+          "description": "Composer-style AI focused on orchestral, cinematic, and game-music workflows. The Pro plan grants the user full copyright ownership, the cleanest IP setup in the category.",
+          "priceRange": "€11/mo Standard, €49/mo Pro"
+        },
+        "zh-tw": {
+          "description": "走作曲家路線，主打管弦樂、電影配樂、遊戲音樂。Pro 方案讓使用者擁有完整著作權，這在 AI 音樂工具裡是最乾淨的 IP 設定，做圖庫案或商業配樂特別重要。",
+          "priceRange": "約 NT$370/月 Standard，約 NT$1,650/月 Pro"
+        }
+      }
+    },
+    {
+      "id": "mubert",
+      "name": "Mubert",
+      "brand": "Mubert",
+      "url": "https://mubert.com/",
+      "i18n": {
+        "en": {
+          "description": "Royalty-free music for content creators with proper license certificates per download. The Creator plan covers monetized content, the Pro plan adds digital ads and indie games.",
+          "priceRange": "$11.69/mo Creator, $32.49/mo Pro"
+        },
+        "zh-tw": {
+          "description": "主打內容創作者的免版稅音樂，每次下載都附正式授權書。Creator 方案可用於變現內容，Pro 方案再加上數位廣告與獨立遊戲場景，授權文件齊全。",
+          "priceRange": "約 NT$370/月 Creator，約 NT$1,000/月 Pro"
+        }
+      }
+    },
+    {
+      "id": "loudly",
+      "name": "Loudly",
+      "brand": "Loudly",
+      "url": "https://www.loudly.com/",
+      "i18n": {
+        "en": {
+          "description": "Marketing-focused royalty-free music. The Personal plan delivers 900 tracks per month for $10, the Pro plan steps up to 3,000 tracks with a professional commercial license.",
+          "priceRange": "$10/mo Personal, $30/mo Pro"
+        },
+        "zh-tw": {
+          "description": "主打行銷與內容用免版稅音樂。Personal 方案 $10 每月 900 首，Pro 方案 $30 每月 3,000 首加上專業商業授權，量大的行銷團隊用起來成本最划算。",
+          "priceRange": "約 NT$310/月 Personal，約 NT$910/月 Pro"
+        }
+      }
+    },
+    {
+      "id": "boomy",
+      "name": "Boomy",
+      "brand": "Boomy",
+      "url": "https://boomy.com/",
+      "i18n": {
+        "en": {
+          "description": "Beginner-friendly platform with built-in distribution to 40-plus streaming services. Pro plan is $29.99 per month with streaming distribution and an 80/20 royalty split.",
+          "priceRange": "$9.99/mo Creator, $29.99/mo Pro"
+        },
+        "zh-tw": {
+          "description": "新手最容易上手的平台，內建分發到 40 多個串流平台。Pro 方案 $29.99 含完整串流分發，版稅 80/20 分潤，業餘創作者想把作品丟上 Spotify 這是最省事的路。",
+          "priceRange": "約 NT$310/月 Creator，約 NT$910/月 Pro"
+        }
+      }
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-05-07",
+      "rankings": [
+        {
+          "id": "suno-v5",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "audioQuality": 9.7,
+            "vocalRealism": 9.4,
+            "editingControl": 9.5,
+            "commercialLicense": 7.5,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "udio",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "audioQuality": 9.6,
+            "vocalRealism": 9.5,
+            "editingControl": 9.7,
+            "commercialLicense": 6.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "elevenlabs-music",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "audioQuality": 9.2,
+            "vocalRealism": 9.7,
+            "editingControl": 8.0,
+            "commercialLicense": 9.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "audioQuality": 8.8,
+            "vocalRealism": 7.0,
+            "editingControl": 8.5,
+            "commercialLicense": 9.4,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "riffusion",
+          "rank": 5,
+          "score": 8.0,
+          "scores": {
+            "audioQuality": 8.2,
+            "vocalRealism": 7.8,
+            "editingControl": 8.5,
+            "commercialLicense": 8.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "soundraw",
+          "rank": 6,
+          "score": 7.8,
+          "scores": {
+            "audioQuality": 8.0,
+            "vocalRealism": 6.5,
+            "editingControl": 7.5,
+            "commercialLicense": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aiva",
+          "rank": 7,
+          "score": 7.5,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 6.8,
+            "editingControl": 7.8,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "mubert",
+          "rank": 8,
+          "score": 7.3,
+          "scores": {
+            "audioQuality": 7.5,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "loudly",
+          "rank": 9,
+          "score": 7.0,
+          "scores": {
+            "audioQuality": 7.3,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "boomy",
+          "rank": 10,
+          "score": 6.8,
+          "scores": {
+            "audioQuality": 6.8,
+            "vocalRealism": 6.5,
+            "editingControl": 6.8,
+            "commercialLicense": 8.5,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Music Generator Comparison 2026: Suno vs Udio + 3 More",
+          "url": "https://www.chartlex.com/blog/marketing/ai-music-generator-comparison-2026",
+          "source": "Chartlex"
+        },
+        {
+          "title": "Best AI Music Generators in 2026: Suno vs Udio vs ElevenLabs",
+          "url": "https://jam.com/resources/best-ai-music-generators-2026",
+          "source": "Jam.com"
+        },
+        {
+          "title": "Best AI Music Generators in 2026: Suno vs Udio vs ElevenLabs (Tested)",
+          "url": "https://undetectr.com/blog/best-ai-music-generators-2026",
+          "source": "Undetectr"
+        },
+        {
+          "title": "ElevenLabs releases a new AI-powered music-generation app",
+          "url": "https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Best AI Music Models 2026: Suno v5 vs ElevenLabs",
+          "url": "https://www.teamday.ai/blog/best-ai-music-models-2026",
+          "source": "TeamDay.ai"
+        },
+        {
+          "title": "Suno Pricing",
+          "url": "https://suno.com/pricing",
+          "source": "Suno"
+        },
+        {
+          "title": "Stable Audio 2.5",
+          "url": "https://stability.ai/stable-audio",
+          "source": "Stability AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Suno wins the 2026 AI music generator category outright. The V5 model holds an ELO lead of 1,293 over every competitor in audio fidelity, musical structure, and vocal realism, and Suno Studio on the Premier plan is the first AI-native DAW that lets you prompt, edit stems, export MIDI, and finish a track inside one tool. At $10 a month for Pro, the price-to-output ratio sits at the top of the category.\n\nUdio takes second on raw audio quality. Its 48kHz stereo output and inpainting workflow are what serious producers want, since regenerating a single 2-second segment without touching the rest of the song is a feature no other tool ships. The catch is real, though. Downloads remain disabled while Udio negotiates major-label deals, so my recommendation comes with a wait-and-see on commercial use.\n\nElevenLabs Music slots into third because of licensing. ElevenLabs trained on licensed and royalty-free data from day one, which is the clarity brands and agencies need while Suno and Udio sit in active label lawsuits. The vocal quality is the best in the category, and the $9.99 Pro plan is cheap insurance for any project where IP clearance gates the work.\n\nStable Audio 2.5 is the right pick if you produce sound design, ad beds, or game audio rather than full songs. The audio-to-audio mode and licensed training set make it the safest enterprise choice. Riffusion earns the developer slot at $6 per month with API-first delivery.\n\nSoundraw, AIVA, Mubert, Loudly, and Boomy each serve a specific workflow. Soundraw locks tracks for life once subscribed, AIVA grants full copyright on its Pro plan, and Boomy bundles distribution across 40-plus streaming services with an 80/20 royalty split.",
+          "highlights": [
+            {
+              "title": "Suno V5 has the largest objective quality lead in the category",
+              "body": "Suno V5's ELO score of 1,293 places it ahead of every competitor in audio fidelity, musical structure, and vocal realism. The Premier plan ships Suno Studio, an AI-native DAW where you can prompt, refine, edit stems, export MIDI, and finish a track inside one tool. That end-to-end workflow is something I have not seen from any other platform in 2026."
+            },
+            {
+              "title": "Udio's inpainting is the killer feature for working producers",
+              "body": "Selecting a 2-second segment, describing a change, and regenerating only that section is something no other AI music platform ships. For any creator who plans to iterate on a track rather than accept a single generation, Udio is the realistic choice. The 48kHz stereo output adds technical headroom that competitors do not match."
+            },
+            {
+              "title": "ElevenLabs Music is the safest commercial option in 2026",
+              "body": "ElevenLabs built its music model on licensed and royalty-free training data from day one. Suno and Udio remain tied up in active label lawsuits as of April 2026, which makes ElevenLabs the only top-tier generator I recommend for ad spots, brand films, or any project where IP clearance is the gating concern."
+            },
+            {
+              "title": "Stable Audio 2.5 owns instrumental beds and sound design",
+              "body": "Stable Audio 2.5 generates 3-minute 44.1kHz tracks at $0.20 per audio with audio inpainting and a fully licensed dataset. For podcast intros, game audio, ad beds, and sound effects it produces tighter, more usable output than the songwriting-focused tools, with cleaner license terms for enterprise work."
+            },
+            {
+              "title": "AIVA wins on copyright ownership, Boomy wins on distribution",
+              "body": "AIVA's Pro plan grants full copyright of the output, which matters for film and library work where downstream licensing is the whole business model. Boomy bundles streaming distribution across 40-plus platforms with an 80/20 royalty split, which makes it the easiest path for hobbyists who want their tracks on Spotify without juggling separate distribution providers."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "AI 音樂生成這品類在 2026 年已經拉開層級，Suno 是綜合冠軍。V5 模型的 ELO 分數 1,293 領先所有競品，音質、樂曲結構、人聲真實度三項全部第一名。Suno Studio 是目前唯一能在同一個工具裡完成寫歌、編輯分軌、匯出 MIDI 的 AI 原生 DAW，月費 Pro 折合台幣三百出頭，這個價位帶能拿到這個品質我覺得很難找到對手。\n\nUdio 第二名靠的是純粹的音訊品質。48kHz 立體聲加上 inpainting 區段重生功能，可以把一首歌的副歌單獨重做而不影響其他段落，這個功能其他家都沒有，對嚴肅做音樂的人是真的有用。但目前因為跟大廠唱片公司的授權還在談，下載功能暫時關閉，所以這個推薦要附加一個觀望條件。\n\nElevenLabs Music 第三名是因為授權清楚。ElevenLabs 從一開始就用合法授權與免版稅資料訓練模型，這在 2026 年的當下是品牌客戶最在意的條件，Suno 和 Udio 還陷在唱片公司訴訟裡。人聲品質我認為是全品類最好的，月費台幣三百出頭就能用，是給有商業使用顧慮的人最穩的選擇。\n\nStable Audio 2.5 適合做配樂底、廣告音床、遊戲音效這類需求，3 分鐘 44.1kHz 加上音訊改寫模式，企業端用起來最安心。Riffusion 走開發者 API 路線，月費 $6 是入門段最便宜的選擇。\n\nSoundraw、AIVA、Mubert、Loudly、Boomy 各自有自己的場景。Soundraw 訂閱期內生成的曲子終身可商用，AIVA Pro 給作者完整著作權，Boomy 直接接 40 多個串流平台分發，這對想把歌丟上 Spotify 又懶得搞發行公司的人很方便。整體寫歌實力上前四名沒有對手，這幾個工具在自己的利基市場仍然有合理推薦理由。",
+          "highlights": [
+            {
+              "title": "Suno V5 是這品類的客觀品質天花板",
+              "body": "Suno V5 的 ELO 分數 1,293 領先所有競品，音質、樂曲結構、人聲真實度三項全部排名第一。加上 Premier 方案附贈的 Suno Studio DAW，這是目前唯一能在一個工具內完成從文字提示到分軌編輯、MIDI 匯出、最終母帶的 AI 平台，這個工作流完整度其他家在 2026 年都還追不上。"
+            },
+            {
+              "title": "Udio 的區段重生是給專業製作人的殺手鐧",
+              "body": "標出一段 2 秒的片段，描述要改成什麼樣子，Udio 就只重新生成那一段，這個功能其他家都沒做出來。對於需要反覆修改一首歌而不是接受單次生成結果的創作者來說，Udio 是現階段唯一的選擇，48kHz 立體聲輸出的技術規格也比競品高一階。"
+            },
+            {
+              "title": "ElevenLabs Music 是 2026 年最安全的商業選項",
+              "body": "ElevenLabs 從第一天就用合法授權與免版稅資料訓練音樂模型。Suno 和 Udio 在 2026 年 4 月還陷在唱片公司的訴訟裡，所以做廣告片、品牌影片、任何牽涉到 IP 清檢的專案，我只推薦 ElevenLabs Music，這是目前頂級生成品質中授權最乾淨的一家。"
+            },
+            {
+              "title": "Stable Audio 2.5 在器樂底與音效設計獨佔一席",
+              "body": "Stable Audio 2.5 可以生成 3 分鐘 44.1kHz 的曲子，每首 $0.20 折合台幣六塊出頭，搭配完整授權資料集和音訊改寫模式。Podcast 開場、遊戲音效、廣告音床、環境音樂這些需求，它做出來的成品比那些主打寫整首歌的工具更貼近實用，授權條款也最清楚。"
+            },
+            {
+              "title": "AIVA 贏在著作權，Boomy 贏在分發管道",
+              "body": "AIVA Pro 方案讓使用者擁有完整著作權，這對接電影、圖庫、商業配樂案的人很關鍵，下游授權就是整個商業模式。Boomy 直接打通 40 多個串流平台分發，版稅 80/20 拆分，對想把作品丟上 Spotify 又不想處理發行公司流程的業餘創作者來說，這是最省事的一條路。"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
