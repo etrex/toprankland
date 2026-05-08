@@ -5242,6 +5242,191 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-08",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "codeQuality": 9.6,
+            "contextWindow": 9.5,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 8.9,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Introducing Claude Opus 4.7",
+          "url": "https://www.anthropic.com/news/claude-opus-4-7",
+          "source": "Anthropic"
+        },
+        {
+          "title": "GitHub Copilot Pricing 2026: Pro Tier Paused — What You Need to Know",
+          "url": "https://techsifted.com/posts/github-copilot-pricing-april-2026/",
+          "source": "TechSifted"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code stays first because Anthropic shipped Opus 4.7 with the 1M-token context window across all subscription tiers this week and that is the single most consequential change in the AI coding category in the past six months. Cursor's reaction was quiet because there is nothing they can ship that matches it. Their differentiation is now down to multi-file IDE UX and Composer mode, which are real but no longer enough to overcome Anthropic's model lead. GitHub Copilot at three benefits from raw distribution and the GitHub-native PR review flows, but the gap to Cursor on actual code quality has widened, not narrowed. Cognition's Devin holds eighth on the basis of long-running async agent capability that no one else has productized at the same level, which is a category niche the leaders have not bothered to invade. Windsurf at four is the most stable mid-tier choice for teams that cannot run Claude Code in their compliance environment. The 5/8 read: this is now Claude Code's category to lose.",
+          "highlights": [
+            {
+              "title": "Opus 4.7 with 1M context across all tiers is the move that locked first place",
+              "body": "Putting the 1M context window on the cheapest plans removes the last reason power users stayed on Cursor. The 1M model handles repo-wide refactors that Sonnet 4.5 would lose track of, and the cost per refactor on the new pricing is below what Cursor charges for Composer mode runs."
+            },
+            {
+              "title": "Cursor's silence this week is the tell",
+              "body": "Cursor has not announced a model upgrade or pricing response, which means they have nothing in the pipeline that competes with the new Claude Code tier. Their IDE-native UX and Composer mode are real strengths but no longer big enough to overcome the gap on raw model capability. Buying Cursor today only makes sense if you specifically need the IDE-embedded experience."
+            },
+            {
+              "title": "Devin at eight is genuinely the only async agent worth paying for",
+              "body": "Cognition's long-running async agent niche is the one corner of this market the leaders have ignored. For teams that genuinely need overnight 'fix this whole epic' workflows, Devin is the only product that ships meaningful results. The flat $500 monthly tier prices it where serious teams will pay."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 第一名守得超穩，Anthropic 這週把 Opus 4.7 加上 1M token 上下文窗口下放到所有訂閱方案，這是過去六個月 AI 寫程式工具品類影響最大的一次更新。Cursor 這週沒有任何回應，這個沉默本身就是答案，他們沒東西可以對標。\n\n台灣開發者用 Claude Code 的人這幾天討論串都在講同一件事：1M context 把整個 monorepo 一次餵進去做大規模 refactor，這是 Cursor Composer 模式做不到的尺度。\n\n第二名 Cursor 還是有 IDE 原生 UX 跟 Composer 模式的差異化，但這兩個在面對模型能力差距的時候不夠看了。我建議現在還在猶豫的話就直接上 Claude Code，除非你真的非要 IDE 整合不可。\n\n第三名 GitHub Copilot 靠 GitHub 原生的 PR review 流程在企業端站得住，但在實際寫程式品質上跟 Cursor 的差距其實是拉大不是縮小。\n\n第四名 Windsurf 是現在最穩的中段班選擇，特別是公司合規環境不能用 Claude Code 的團隊。第八名 Cognition Devin 在「長時間異步 agent 跑 epic」這個 niche 還是唯一的選擇，月費 $500 這個定位精準到位。這個品類現在是 Claude Code 自己的失分賽，等別家追上來。",
+          "highlights": [
+            {
+              "title": "Opus 4.7 加 1M context 全方案下放，這就是鎖死第一的關鍵動作",
+              "body": "把 1M 上下文窗口放到最便宜的方案，剩下還死忠 Cursor 的人就沒理由不過來了。1M 模型處理整個 repo 級別的重構，Sonnet 4.5 跑到一半就會迷失，新的計價方案下每次重構成本還比 Cursor Composer 跑一次便宜。"
+            },
+            {
+              "title": "Cursor 這週的沉默就是答案",
+              "body": "Cursor 沒有發任何模型升級或定價回應，這代表他們手上沒有可以對標 Claude Code 新方案的產品在排程裡。IDE 原生 UX 跟 Composer 模式還是真的優勢，但模型能力的差距已經大到這兩點補不回來。會選 Cursor 的人剩下「我就是要 IDE 內嵌」這個剛需。"
+            },
+            {
+              "title": "Devin 第八名在異步 agent 這個 niche 真的是唯一值得付費的選項",
+              "body": "Cognition 鎖定「長時間異步 agent 跑整個 epic」這個角落，是大廠根本懶得進去的市場。團隊真的需要「半夜跑一個整個 epic 的修改」的工作流，Devin 是目前唯一能交出有意義成果的產品。月費 $500 這個價碼正好抓在認真團隊願意付的甜蜜點。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

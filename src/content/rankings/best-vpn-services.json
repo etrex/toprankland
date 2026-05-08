@@ -4392,6 +4392,143 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-08",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.5,
+            "network": 9.5,
+            "usability": 9.0,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 9.0,
+            "network": 9.5,
+            "usability": 9.0,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.5,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "NordVPN vs Mullvad: 12 Tests, 1 Clear Winner in 2026",
+          "url": "https://cyberinsider.com/vpn/comparison/nordvpn-vs-mullvad/",
+          "source": "Cyber Insider"
+        },
+        {
+          "title": "The 3 Best VPNs For Privacy of 2026",
+          "url": "https://www.rtings.com/vpn/reviews/best/privacy",
+          "source": "RTINGS"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Mullvad VPN keeps first because the no-account-required model with anonymous payment, the flat €5/month pricing without misleading multi-year discounts, and the genuinely independent third-party audits are still the combination that closes the case for any privacy-first buyer. ProtonVPN at second remains the right answer for buyers who want a more conventional account-based VPN with the ProtonMail and ProtonDrive ecosystem integration, and ProtonVPN's May 6 update added the new Stealth protocol that finally bypasses China and Iran censorship reliably. NordVPN at third is the right answer for buyers who specifically need streaming geo-unlock breadth, and NordVPN unblocks more streaming services in more regions than any competitor. ExpressVPN at fourth is the casual-user pick. Surfshark at five is the value tier pick. The 5/8 read is that the VPN market is stable, Mullvad's pricing model continues to win on the math, and ProtonVPN's Stealth protocol fix is genuinely the most consequential category update of the week.",
+          "highlights": [
+            {
+              "title": "Mullvad's flat €5/month pricing wins on math against multi-year competitors",
+              "body": "Most VPN competitors require 2-year or 3-year commitments to hit advertised pricing, which compounds risk if the company changes ownership or policy. Mullvad's flat €5/month with no commitment beats the math on every realistic usage horizon for buyers who actually plan to use the VPN long-term."
+            },
+            {
+              "title": "ProtonVPN May 6 Stealth protocol finally bypasses China and Iran censorship",
+              "body": "The May 6 update added the new Stealth protocol that survives deep-packet inspection in heavily censored networks. For travelers and journalists who actually need a VPN that works in China, Iran, and Russia, ProtonVPN is now the unambiguous pick."
+            },
+            {
+              "title": "NordVPN is still the only VPN for streaming geo-unlock breadth",
+              "body": "NordVPN unblocks more streaming services in more regions than any competitor, and for buyers whose primary use case is watching shows that are licensed differently in different markets, NordVPN is the unambiguous pick despite the marketing-heavy pricing model."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Mullvad VPN 第一名守住，免帳號模式加匿名付款、€5/月平價沒有誤導性多年折扣、真正獨立的第三方稽核，這個組合對隱私優先買家還是首選。\n\n台灣用戶用 VPN 多半是要看 Netflix 跨區或回避公司網路限制，Mullvad 在「就是要用就付月費」的情境下 €5/月（約 NT$170）真的好懂，不用簽兩年三年合約。\n\n第二名 ProtonVPN 還是想要 Proton 帳號生態（ProtonMail、ProtonDrive）的人首選，5/6 更新加上 Stealth 協定終於穩定繞過中國跟伊朗審查。\n\n第三名 NordVPN 是需要 Netflix 跨區解鎖廣度的人首選，解鎖串流服務的數量跟地區範圍沒有對手。\n\n第四名 ExpressVPN 是輕度用戶選擇。\n\n第五名 Surfshark 是性價比段選擇。\n\n整個 5/8 排行不變動，VPN 市場穩定，Mullvad 的定價模式在數學上持續贏，ProtonVPN 的 Stealth 協定修補是這週品類最重要的更新。",
+          "highlights": [
+            {
+              "title": "Mullvad €5/月平價在數學上贏多年合約對手",
+              "body": "大多數 VPN 對手要 2 年或 3 年合約才能達到行銷定價，公司易主或政策變更時風險就累積起來。Mullvad €5/月（約 NT$170）不簽約模式，對真的長期會用 VPN 的買家在所有實際使用週期上算下來都贏。"
+            },
+            {
+              "title": "ProtonVPN 5/6 Stealth 協定終於繞過中國伊朗審查",
+              "body": "5/6 更新加上 Stealth 協定能在深度封包檢測的高審查網路存活。常出差到中國、伊朗、俄羅斯，又真的需要 VPN 能用的買家（記者、特派員），ProtonVPN 現在是首選毫無懸念。"
+            },
+            {
+              "title": "NordVPN 還是 Netflix 跨區解鎖廣度唯一選擇",
+              "body": "NordVPN 解鎖串流服務的數量跟地區範圍沒有對手。主要用途是看不同市場授權不同的影集的買家，NordVPN 是首選毫無懸念，雖然定價模式比較行銷導向。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

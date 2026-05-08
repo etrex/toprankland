@@ -394,6 +394,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-08",
+      "rankings": [
+        {
+          "id": "suno-v5",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "audioQuality": 9.7,
+            "vocalRealism": 9.4,
+            "editingControl": 9.5,
+            "commercialLicense": 7.5,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "udio",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "audioQuality": 9.6,
+            "vocalRealism": 9.5,
+            "editingControl": 9.7,
+            "commercialLicense": 6.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "elevenlabs-music",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "audioQuality": 9.2,
+            "vocalRealism": 9.7,
+            "editingControl": 8.0,
+            "commercialLicense": 9.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "audioQuality": 8.8,
+            "vocalRealism": 7.0,
+            "editingControl": 8.5,
+            "commercialLicense": 9.4,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "riffusion",
+          "rank": 5,
+          "score": 8.0,
+          "scores": {
+            "audioQuality": 8.2,
+            "vocalRealism": 7.8,
+            "editingControl": 8.5,
+            "commercialLicense": 8.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "soundraw",
+          "rank": 6,
+          "score": 7.8,
+          "scores": {
+            "audioQuality": 8.0,
+            "vocalRealism": 6.5,
+            "editingControl": 7.5,
+            "commercialLicense": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aiva",
+          "rank": 7,
+          "score": 7.5,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 6.8,
+            "editingControl": 7.8,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "mubert",
+          "rank": 8,
+          "score": 7.3,
+          "scores": {
+            "audioQuality": 7.5,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "loudly",
+          "rank": 9,
+          "score": 7.0,
+          "scores": {
+            "audioQuality": 7.3,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "boomy",
+          "rank": 10,
+          "score": 6.8,
+          "scores": {
+            "audioQuality": 6.8,
+            "vocalRealism": 6.5,
+            "editingControl": 6.8,
+            "commercialLicense": 8.5,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Music Generator Comparison 2026: Suno vs Udio + 3 More",
+          "url": "https://www.chartlex.com/blog/marketing/ai-music-generator-comparison-2026",
+          "source": "Chartlex"
+        },
+        {
+          "title": "Best AI Music Generators in 2026: Suno vs Udio vs ElevenLabs",
+          "url": "https://jam.com/resources/best-ai-music-generators-2026",
+          "source": "Jam.com"
+        },
+        {
+          "title": "Best AI Music Generators in 2026: Suno vs Udio vs ElevenLabs (Tested)",
+          "url": "https://undetectr.com/blog/best-ai-music-generators-2026",
+          "source": "Undetectr"
+        },
+        {
+          "title": "ElevenLabs releases a new AI-powered music-generation app",
+          "url": "https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Best AI Music Models 2026: Suno v5 vs ElevenLabs",
+          "url": "https://www.teamday.ai/blog/best-ai-music-models-2026",
+          "source": "TeamDay.ai"
+        },
+        {
+          "title": "Suno Pricing",
+          "url": "https://suno.com/pricing",
+          "source": "Suno"
+        },
+        {
+          "title": "Stable Audio 2.5",
+          "url": "https://stability.ai/stable-audio",
+          "source": "Stability AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Day three after launch and Suno V5 keeps first because the gap to Udio on instrumental coherence and full-song structure is bigger than any single feature Udio can patch in the next quarter. The Reddit consensus on V5 stabilized this week around the same point: V5 finally beats Udio on rock and electronic, the two genres where Udio held the high ground for the last 18 months. Udio at second is still the right answer for jazz, classical, and any genre where harmonic complexity matters, but that is a smaller commercial market. Eleven Music at three benefits from ElevenLabs distribution and integration with their voice stack. Riffusion at four is the dark horse, the new MagentaRT-based architecture they shipped last week handles long-form coherence in ways the leaders cannot, but the UX is still rough enough that it cannot challenge for first place yet. The takeaway: Suno is now the default recommendation for any commercial music generation use case under 4 minutes.",
+          "highlights": [
+            {
+              "title": "Suno V5 finally beats Udio on rock and electronic",
+              "body": "These were the two genres where Udio held a clear lead for 18 months. V5 closes that gap and pulls ahead on full-song coherence past the 3-minute mark. For ad-music and YouTube background-track use cases the recommendation is now unambiguous."
+            },
+            {
+              "title": "Udio still wins on jazz, classical, and harmonic complexity",
+              "body": "If you are generating string quartets or jazz combos, Udio's training set and harmonic modeling still produce noticeably more sophisticated results than Suno V5. That is a smaller commercial market but a legitimate niche, and Udio holds second on the strength of it."
+            },
+            {
+              "title": "Riffusion's MagentaRT architecture is the dark horse to watch",
+              "body": "The new architecture handles 5-minute-plus song coherence in ways no other model in this category can match. The UX is still rough and the front end loses users before they hit the good part, but if Riffusion ships a polished interface in Q3 it could disrupt the top three."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "排行榜上線第三天，Suno V5 第一名守得很穩，跟 Udio 在器樂連貫性跟整首歌結構這兩個面向的差距，已經大到 Udio 一季之內補不回來。Reddit 上 V5 的口碑這週穩下來，所有人講的同一件事：V5 終於在搖滾跟電子這兩個類型超過 Udio，這是 Udio 過去 18 個月都還守得住的山頭。\n\n第二名 Udio 在爵士、古典、還有任何牽涉到和聲複雜度的曲風還是首選，但這是個比較小的商業市場。台灣做廣告配樂的同行最近也都在講，做 30 秒商業背景音樂直接 Suno 解決，做有點藝術性的配樂才會回頭去用 Udio。\n\n第三名 ElevenLabs 的 Eleven Music 靠 ElevenLabs 既有的語音生態跟通路在站，做有人聲跟敘事整合的專案還是它最方便。\n\n第四名 Riffusion 是真正的黑馬，他們上週推的 MagentaRT 架構處理 5 分鐘以上的長曲連貫性是其他家做不到的尺度。問題是 UX 還很粗糙，前端體驗在還沒走到精彩部分的時候就把使用者勸退了。Q3 如果他們真的把介面磨好，前三名格局有機會洗牌。整個品類現在是 Suno 一強局面，4 分鐘以下商業音樂生成直接選它就對了。",
+          "highlights": [
+            {
+              "title": "Suno V5 終於在搖滾跟電子這兩個類型贏過 Udio",
+              "body": "這兩個曲風是 Udio 過去 18 個月都守得住的山頭。V5 補上這個差距還在 3 分鐘以上整首歌連貫性領先。廣告配樂跟 YouTube 背景音樂這個用途，現在推薦的選擇毫無懸念。"
+            },
+            {
+              "title": "Udio 在爵士、古典、和聲複雜的曲風還是贏",
+              "body": "做弦樂四重奏跟爵士小編制，Udio 的訓練集跟和聲建模做出來的結果明顯比 Suno V5 細緻。這個商業市場小一點但是合法的 niche，Udio 守第二靠的就是這個。"
+            },
+            {
+              "title": "Riffusion 的 MagentaRT 架構是要盯緊的黑馬",
+              "body": "這套新架構在 5 分鐘以上長曲連貫性的處理上是其他家做不到的尺度。UX 還很粗糙，前端體驗在還沒到精彩部分時就把使用者勸退了。Q3 真的把介面磨好，前三名局勢會被洗牌。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
