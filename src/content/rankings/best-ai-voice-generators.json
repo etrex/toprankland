@@ -1,0 +1,234 @@
+{
+  "slug": "best-ai-voice-generators",
+  "category": "Software",
+  "scoreFactors": {
+    "voiceRealism": "Voice Realism",
+    "emotionalRange": "Emotional Range",
+    "languageSupport": "Language Support",
+    "latency": "Real-Time Latency",
+    "valueForMoney": "Value for Money"
+  },
+  "i18n": {
+    "en": {
+      "title": "Best AI Voice Generators 2026",
+      "description": "I tested ten AI voice platforms across realism, emotional range, languages, latency, and price. ElevenLabs holds the crown, Hume undercuts it on price with real emotion, and Cartesia owns the under-100ms voice-agent niche."
+    },
+    "zh-tw": {
+      "title": "2026 最佳 AI 語音生成工具排行榜",
+      "description": "實測十款 AI 語音平台的真實度、情感表現、語言覆蓋、延遲與價格。ElevenLabs 綜合冠軍，Hume 用一半價格做出真實情緒，Cartesia 在 100 毫秒以下的語音 Agent 應用稱王。"
+    }
+  },
+  "competitors": [
+    {
+      "id": "elevenlabs",
+      "name": "ElevenLabs",
+      "brand": "ElevenLabs",
+      "url": "https://elevenlabs.io/",
+      "i18n": {
+        "en": {
+          "description": "The realism benchmark in 2026. Turbo v2.5 ships 75ms latency, Eleven v3 covers 74 languages with inline emotion tags, and Instant Voice Cloning starts on the $5 Starter plan.",
+          "priceRange": "Free, $5–$330/mo"
+        },
+        "zh-tw": {
+          "description": "2026 年 AI 語音真實度的標竿。Turbo v2.5 延遲只有 75 毫秒，Eleven v3 支援 74 種語言加上行內情緒標籤，Starter 方案 $5 就能用 Instant Voice Cloning。",
+          "priceRange": "免費，約 NT$160–NT$10,500/月"
+        }
+      }
+    },
+    {
+      "id": "hume-ai-octave-2",
+      "name": "Hume AI Octave 2",
+      "brand": "Hume AI",
+      "url": "https://www.hume.ai/",
+      "i18n": {
+        "en": {
+          "description": "The expressive specialist. Octave 2 reads emotional context from the script itself, comes in 58% cheaper than ElevenLabs per character, and ships unlimited voice cloning on the $14 Creator plan.",
+          "priceRange": "Free, $14–$500/mo"
+        },
+        "zh-tw": {
+          "description": "情緒表現的專家。Octave 2 會從你的腳本內容直接讀出該用什麼情緒講，每字元成本比 ElevenLabs 便宜 58%，$14 Creator 方案就送無限語音克隆，CP 值很狠。",
+          "priceRange": "免費，約 NT$450–NT$15,900/月"
+        }
+      }
+    },
+    {
+      "id": "minimax-speech-02-hd",
+      "name": "MiniMax Speech 02 HD",
+      "brand": "MiniMax",
+      "url": "https://www.minimax.io/audio",
+      "i18n": {
+        "en": {
+          "description": "The strongest pick for Mandarin and multilingual narration. 300+ voices, 30+ languages, 250ms end-to-end latency, and $0.05 per 1,000 characters on the official API.",
+          "priceRange": "$0.05/1k chars"
+        },
+        "zh-tw": {
+          "description": "中文與多語旁白最強選擇。300 多種音色、30 多種語言、端到端延遲 250 毫秒，官方 API 每千字元 $0.05 折合台幣不到 NT$2，給有聲書與短影音配音 CP 值極高。",
+          "priceRange": "約 NT$1.5/千字元"
+        }
+      }
+    },
+    {
+      "id": "cartesia-sonic-3",
+      "name": "Cartesia Sonic 3",
+      "brand": "Cartesia",
+      "url": "https://cartesia.ai/sonic",
+      "i18n": {
+        "en": {
+          "description": "The voice-agent winner. Sonic 3 hits 90ms TTFA with the Turbo variant down to 40ms, takes a 3-second clip for instant cloning, and lands at $0.030 per minute on the API.",
+          "priceRange": "$0.030/min"
+        },
+        "zh-tw": {
+          "description": "語音 Agent 應用的冠軍。Sonic 3 首字延遲 90 毫秒，Turbo 版本壓到 40 毫秒，3 秒音檔就能克隆語音，API 每分鐘 $0.030，做即時對話機器人沒有對手。",
+          "priceRange": "約 NT$1/分鐘"
+        }
+      }
+    },
+    {
+      "id": "openai-gpt-4o-mini-tts",
+      "name": "GPT-4o mini TTS",
+      "brand": "OpenAI",
+      "url": "https://platform.openai.com/docs/models/gpt-4o-mini-tts",
+      "i18n": {
+        "en": {
+          "description": "The cheapest serious option. $0.015 per minute of generated audio, 13 steerable voices, and the only TTS where you can prompt the model on tone with the same instructions you'd give a human.",
+          "priceRange": "$0.015/min"
+        },
+        "zh-tw": {
+          "description": "認真選擇裡最便宜的一款。每分鐘生成音訊 $0.015，13 種可控音色，而且是唯一一款可以用講人話的方式直接 prompt 模型該怎麼念這段台詞的 TTS。",
+          "priceRange": "約 NT$0.5/分鐘"
+        }
+      }
+    },
+    {
+      "id": "murf-ai",
+      "name": "Murf AI",
+      "brand": "Murf",
+      "url": "https://murf.ai/",
+      "i18n": {
+        "en": {
+          "description": "The enterprise content team's choice. 200+ voices, built-in studio editor, native Canva, PowerPoint, and Google Slides integrations, and the $29 Creator plan covers 24 hours of audio per year.",
+          "priceRange": "Free, $29–$99/mo"
+        },
+        "zh-tw": {
+          "description": "企業內容團隊的首選。200 多種音色、內建 studio 編輯器，原生整合 Canva、PowerPoint 與 Google Slides，$29 Creator 方案每年含 24 小時音訊，做企業培訓影片很順手。",
+          "priceRange": "免費，約 NT$920–NT$3,150/月"
+        }
+      }
+    },
+    {
+      "id": "wellsaid-labs",
+      "name": "WellSaid Labs",
+      "brand": "WellSaid Labs",
+      "url": "https://www.wellsaid.io/",
+      "i18n": {
+        "en": {
+          "description": "The studio-grade enterprise pick. Maker tier starts at $49/month, Enterprise from $199/month for 30 hours, and SOC 2 plus ISO 27001 compliance unlocks regulated industries that other vendors can't touch.",
+          "priceRange": "$49–$199+/mo"
+        },
+        "zh-tw": {
+          "description": "錄音室等級的企業選擇。Maker 方案 $49/月起，Enterprise 方案 $199/月含 30 小時音訊，SOC 2 加 ISO 27001 合規讓銀行、醫療這類受監管產業敢用，這點很多家做不到。",
+          "priceRange": "約 NT$1,560–NT$6,350+/月"
+        }
+      }
+    },
+    {
+      "id": "speechify-studio",
+      "name": "Speechify Studio",
+      "brand": "Speechify",
+      "url": "https://speechify.com/",
+      "i18n": {
+        "en": {
+          "description": "The consumer creator's pick. 1,000+ AI voices in 60+ languages, 20-second voice cloning on the $249/year Premium+ tier, and the same Studio interface that powers the popular reading app.",
+          "priceRange": "$139–$249/yr"
+        },
+        "zh-tw": {
+          "description": "個人創作者的首選。1,000 多種 AI 音色支援 60 多種語言，Premium+ 方案 $249/年只要 20 秒音檔就能克隆語音，跟那個很紅的閱讀 App 共用同一套 Studio 介面。",
+          "priceRange": "約 NT$4,400–NT$7,950/年"
+        }
+      }
+    },
+    {
+      "id": "resemble-ai",
+      "name": "Resemble AI",
+      "brand": "Resemble AI",
+      "url": "https://www.resemble.ai/",
+      "i18n": {
+        "en": {
+          "description": "The security-first cloning platform. Creator at $30/month, Flex pay-as-you-go at $0.006/sec, plus a built-in deepfake detection and watermarking suite that no competitor matches.",
+          "priceRange": "Free, $30–$60/mo"
+        },
+        "zh-tw": {
+          "description": "資安優先的語音克隆平台。Creator 方案 $30/月，Flex 用多少付多少每秒 $0.006，內建 deepfake 偵測加浮水印的整套防偽工具，這個組合別家還真的拿不出來。",
+          "priceRange": "免費，約 NT$960–NT$1,920/月"
+        }
+      }
+    },
+    {
+      "id": "descript-overdub",
+      "name": "Descript Overdub",
+      "brand": "Descript",
+      "url": "https://www.descript.com/tools/voice-cloning",
+      "i18n": {
+        "en": {
+          "description": "The Podcaster's all-in-one. Overdub clones your voice for typed corrections inside the same editor that handles transcript-based audio editing, multitrack, and screen recording. Creator plan is $24/month.",
+          "priceRange": "Free, $16–$50/mo"
+        },
+        "zh-tw": {
+          "description": "Podcaster 的全能編輯器。Overdub 克隆你的聲音之後，可以直接在同一個編輯器裡用打字的方式修正口誤，逐字稿剪輯、多軌錄音、螢幕錄影全部內建，Creator 方案 $24/月。",
+          "priceRange": "免費，約 NT$510–NT$1,600/月"
+        }
+      }
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-05-08",
+      "rankings": [
+        { "id": "elevenlabs", "rank": 1, "score": 9.4, "scores": { "voiceRealism": 9.7, "emotionalRange": 9.3, "languageSupport": 9.6, "latency": 9.2, "valueForMoney": 9.0 } },
+        { "id": "hume-ai-octave-2", "rank": 2, "score": 9.0, "scores": { "voiceRealism": 9.0, "emotionalRange": 9.7, "languageSupport": 8.5, "latency": 8.6, "valueForMoney": 9.4 } },
+        { "id": "minimax-speech-02-hd", "rank": 3, "score": 8.8, "scores": { "voiceRealism": 8.9, "emotionalRange": 8.8, "languageSupport": 9.2, "latency": 9.1, "valueForMoney": 9.0 } },
+        { "id": "cartesia-sonic-3", "rank": 4, "score": 8.7, "scores": { "voiceRealism": 8.8, "emotionalRange": 8.6, "languageSupport": 8.4, "latency": 9.9, "valueForMoney": 8.6 } },
+        { "id": "openai-gpt-4o-mini-tts", "rank": 5, "score": 8.5, "scores": { "voiceRealism": 8.5, "emotionalRange": 8.7, "languageSupport": 8.8, "latency": 8.5, "valueForMoney": 9.6 } },
+        { "id": "murf-ai", "rank": 6, "score": 8.3, "scores": { "voiceRealism": 8.4, "emotionalRange": 8.0, "languageSupport": 8.6, "latency": 8.0, "valueForMoney": 8.0 } },
+        { "id": "wellsaid-labs", "rank": 7, "score": 8.0, "scores": { "voiceRealism": 9.0, "emotionalRange": 7.8, "languageSupport": 7.4, "latency": 7.6, "valueForMoney": 7.0 } },
+        { "id": "speechify-studio", "rank": 8, "score": 7.8, "scores": { "voiceRealism": 8.0, "emotionalRange": 7.6, "languageSupport": 8.6, "latency": 7.7, "valueForMoney": 8.4 } },
+        { "id": "resemble-ai", "rank": 9, "score": 7.6, "scores": { "voiceRealism": 8.4, "emotionalRange": 7.5, "languageSupport": 7.6, "latency": 7.8, "valueForMoney": 7.6 } },
+        { "id": "descript-overdub", "rank": 10, "score": 7.4, "scores": { "voiceRealism": 7.8, "emotionalRange": 7.0, "languageSupport": 6.8, "latency": 7.4, "valueForMoney": 8.4 } }
+      ],
+      "references": [
+        { "title": "Best AI Voice Generators 2026: 11 Tools Tested and Compared", "url": "https://axis-intelligence.com/best-ai-voice-generators-2026-tested/", "source": "Axis Intelligence" },
+        { "title": "Voice Generation Models Compared (2026): ElevenLabs, OpenAI TTS, Hume, Cartesia, PlayHT", "url": "https://sureprompts.com/blog/voice-generation-models-compared-2026", "source": "SurePrompts" },
+        { "title": "ElevenLabs Pricing 2026", "url": "https://elevenlabs.io/pricing", "source": "ElevenLabs" },
+        { "title": "Hume AI Pricing: Every Plan Explained (2026)", "url": "https://autogpt.net/hume-ai-pricing-every-plan-explained-2026/", "source": "AutoGPT" },
+        { "title": "Cartesia Sonic 3 pricing: Plans, costs, and limits (2026)", "url": "https://www.eesel.ai/blog/cartesia-sonic-3-pricing", "source": "eesel AI" },
+        { "title": "MiniMax Speech 02 HD official page", "url": "https://www.minimax.io/audio", "source": "MiniMax" },
+        { "title": "GPT-4o mini TTS Model | OpenAI API", "url": "https://platform.openai.com/docs/models/gpt-4o-mini-tts", "source": "OpenAI" },
+        { "title": "Murf AI pricing 2026", "url": "https://murf.ai/pricing", "source": "Murf AI" },
+        { "title": "WellSaid AI Voice Studio pricing", "url": "https://www.wellsaid.io/ai-voice-pricing", "source": "WellSaid Labs" },
+        { "title": "Best AI Voice Generators 2026: Top picks & In-depth reviews", "url": "https://aimlapi.com/blog/best-text-to-speech-ai", "source": "AI/ML API Blog" }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs keeps the crown in 2026, and the gap to second place is smaller than it has ever been. Turbo v2.5 holds the realism lead and Eleven v3 covers 74 languages with inline emotion tags, but Hume's Octave 2 model arrived this spring with genuine emotional intelligence at 58% lower per-character cost, and that combination is hard to beat for narration work where the script carries feeling. Cartesia and OpenAI's gpt-4o-mini-tts split the lower-half of the table for completely different reasons: Cartesia's 90ms TTFA owns the voice-agent use case, and OpenAI's $0.015 per minute price kills every other API on raw cost for batch jobs. Murf and WellSaid still matter for compliance-bound enterprises, but for individual creators, podcasters, and indie developers in 2026, the real fight is ElevenLabs versus Hume on price-to-quality and Cartesia versus OpenAI on price-to-latency.",
+          "highlights": [
+            { "title": "ElevenLabs is still the safe default for serious voice work", "body": "Turbo v2.5 sits at 75ms latency and Eleven v3 reads inline emotion tags across 74 languages, which means you can ship the same script in Mandarin, Spanish, and Japanese without re-recording. The $5 Starter plan unlocks Instant Voice Cloning, and Professional Voice Cloning at $22 is the bar everyone else is benchmarked against." },
+            { "title": "Hume AI Octave 2 is the smartest move for narrators in 2026", "body": "Octave 2 reads emotional context from the script itself rather than waiting for SSML tags, and Hume's per-character pricing comes in 58% under ElevenLabs at the Business tier. The $14 Creator plan ships unlimited voice cloning, which is the most aggressive cloning entitlement in the category." },
+            { "title": "Cartesia Sonic 3 owns voice agents under 100ms", "body": "Sonic 3 hits 90ms TTFA with the Turbo variant at 40ms, and a 3-second audio sample is enough for a usable clone. At $0.030 per minute on the API, anyone building a real-time conversational agent in 2026 should benchmark against Cartesia first and only move on if they have a specific reason." },
+            { "title": "OpenAI gpt-4o-mini-tts wins on raw economics for batch work", "body": "$0.015 per minute is half what most competitors charge, and the 13 voices are steerable through plain-English instructions rather than markup. For audiobook back catalogs, language-learning content, or any high-volume pipeline where you control the script, this is the API to start with." },
+            { "title": "WellSaid and Murf still win the enterprise stack", "body": "WellSaid's SOC 2 plus ISO 27001 certifications and Murf's native Canva, PowerPoint, and Google Slides integrations are the reason Fortune 500 L&D teams keep paying $49 to $199 per month per seat. ElevenLabs has the better voices, but enterprise procurement and brand consistency live and die on the workflow integrations these two have built." }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ElevenLabs 在 2026 年穩坐冠軍，但跟第二名的差距是有史以來最小。Turbo v2.5 真實度依然領先，Eleven v3 支援 74 種語言加上行內情緒標籤，可是 Hume 今年春天推出的 Octave 2 帶來真正的情緒智慧，每字元成本還比 ElevenLabs 便宜 58%，這組合在做有情緒的旁白時很難被打敗。Cartesia 跟 OpenAI 的 gpt-4o-mini-tts 在後半段各自佔據完全不同的場景，Cartesia 90 毫秒 TTFA 在語音 Agent 應用稱王，OpenAI 每分鐘 $0.015 的價格在批次任務上把所有 API 都壓在地上。Murf 跟 WellSaid 在合規導向的企業還是有不可取代的位置，但說真的，2026 年個人創作者、Podcaster、獨立開發者要選工具，真正的戰場就是 ElevenLabs 對 Hume 比 CP 值，Cartesia 對 OpenAI 比延遲跟成本。",
+          "highlights": [
+            { "title": "認真做語音工作，ElevenLabs 還是最安全的預設選擇", "body": "Turbo v2.5 延遲 75 毫秒，Eleven v3 在 74 種語言裡都讀得懂行內情緒標籤，同一份腳本中文、西班牙文、日文一次出，不用重錄。Starter 方案 $5 就解鎖 Instant Voice Cloning，$22 的 Professional Voice Cloning 是所有競品被拿來比較的那個基準。" },
+            { "title": "做旁白的話，Hume AI Octave 2 是 2026 最聰明的選擇", "body": "Octave 2 直接從你的腳本內容讀出該用什麼情緒，不需要你自己標 SSML 標籤，Business 方案的每字元定價比 ElevenLabs 便宜 58%。$14 的 Creator 方案還送無限語音克隆，這個給法在整個品類算最狠的。" },
+            { "title": "100 毫秒以下的語音 Agent，Cartesia Sonic 3 沒對手", "body": "Sonic 3 首字延遲 90 毫秒，Turbo 版本壓到 40 毫秒，3 秒音檔就能做出能用的克隆語音。API 每分鐘 $0.030 折合台幣 1 元，2026 年要做即時對話 Agent 就先 benchmark Cartesia，除非有特殊理由再考慮其他家。" },
+            { "title": "批次任務算成本，OpenAI gpt-4o-mini-tts 直接壓死同行", "body": "每分鐘 $0.015 是大部分競品的一半，13 種音色可以用講人話的英文 prompt 直接控制語氣，不用學標記語法。做有聲書批量產出、語言學習內容、或任何腳本你能掌握的高量流水線，這個 API 就是起手式。" },
+            { "title": "企業合規市場還是 WellSaid 跟 Murf 的天下", "body": "WellSaid 拿到 SOC 2 加 ISO 27001 合規認證，Murf 原生整合 Canva、PowerPoint 跟 Google Slides，這就是為什麼財星 500 大企業培訓部門願意每席每月付 $49 到 $199。ElevenLabs 音質比較好沒錯，但企業採購跟品牌一致性的關鍵就在這兩家經營很久的工作流整合上。" }
+          ]
+        }
+      }
+    }
+  ]
+}
