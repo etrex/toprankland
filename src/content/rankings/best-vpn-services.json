@@ -4529,6 +4529,164 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-09",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.5,
+            "network": 9.5,
+            "usability": 9.0,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 9.1,
+            "network": 9.6,
+            "usability": 9.0,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "NordVPN vs ExpressVPN: Which is Better for 2026? (10 Tests)",
+          "url": "https://thebestvpn.com/expressvpn-vs-nordvpn-compared/",
+          "source": "TheBestVPN"
+        },
+        {
+          "title": "ExpressVPN vs NordVPN: 12 Tests, 1 Clear Winner in 2026",
+          "url": "https://cyberinsider.com/vpn/comparison/expressvpn-vs-nordvpn/",
+          "source": "CyberInsider"
+        },
+        {
+          "title": "NordVPN vs ExpressVPN: Which One Is Better for 2026?",
+          "url": "https://cybernews.com/best-vpn/nordvpn-vs-expressvpn/",
+          "source": "Cybernews"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The top of this list is unchanged because nothing has dethroned the privacy purists. Mullvad keeps first because the no-account model and flat 5 EUR per month still represent the cleanest privacy promise in the category, and CyberInsider's recent re-tests confirm there's no other VPN that asks you for less personal data. Proton VPN holds second by a fingernail; the Swiss jurisdiction, audited no-logs claim, and 9.5 network score keep it the most well-rounded pick if you want one VPN to do everything (streaming, torrenting, country-hopping, secure email pairing). The week's bigger story is the consolidating consensus that NordVPN now beats ExpressVPN on speed. The fresh round of head-to-head tests have NordVPN clearing 950 Mbps with NordLynx and retaining 90% of the original line speed against ExpressVPN's 898 Mbps and 84%, plus NordVPN's 9,000+ servers across 181 locations now meaningfully outscale ExpressVPN's 105-country footprint. I'm bumping NordVPN's speed score by a tenth and giving it a small overall lift to 8.8, while ExpressVPN's speed score moves down a tenth in mirror. ExpressVPN's still the easiest VPN to recommend to a non-technical relative, and the 9.5 usability score reflects that, but the price-per-month gap is now too wide to ignore. IVPN holds at fourth as the secondary privacy purist option. Surfshark and Windscribe stay where they were, both serving valid budget niches.",
+          "highlights": [
+            {
+              "title": "Mullvad still owns privacy-first",
+              "body": "The flat 5 EUR per month, no-account model, and the no-personal-data approach keep it untouchable for users who treat anonymity as the only feature that matters."
+            },
+            {
+              "title": "Proton VPN is the best all-rounder",
+              "body": "Swiss jurisdiction, audited no-logs, 9.5 network reach, and a clean usability score make it the right one-VPN-fits-all pick. The Proton Mail integration is a nice bonus for the privacy-conscious."
+            },
+            {
+              "title": "NordVPN takes the speed crown",
+              "body": "950+ Mbps on NordLynx and 90% line-speed retention beat ExpressVPN's numbers in this week's head-to-heads. With 9,000+ servers in 181 locations, the network advantage is now structural."
+            },
+            {
+              "title": "ExpressVPN is the easy-mode pick",
+              "body": "The 9.5 usability score is real and matters when you're recommending a VPN to family. But the price gap against NordVPN at similar feature parity is hard to defend."
+            },
+            {
+              "title": "IVPN remains the privacy backup",
+              "body": "If Mullvad ever goes offline or you want a second privacy-first provider, IVPN's audited no-logs and minimal data collection still earn the slot at fourth."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "榜首沒換因為沒人撼動得了隱私純粹派。Mullvad 第一，無帳號制度跟每月 5 歐元的死板價格還是這個品類最乾淨的隱私承諾，CyberInsider 新測試也再次證實沒有 VPN 比它要的個資更少。Proton VPN 第二，瑞士司法管轄、no-logs 政策有第三方稽核、9.5 網路覆蓋分數，要一個 VPN 包辦所有事 (追劇、BT、跳國家、配信箱) 它最全能。這週比較有梗的是 NordVPN 速度終於正式贏過 ExpressVPN，新一輪實測 NordLynx 跑超過 950 Mbps、保留 90% 原始速度，對上 ExpressVPN 的 898 Mbps 跟 84%，加上 9000 多台伺服器、181 個據點對 ExpressVPN 的 105 國，網路規模差距已經拉開。我把 NordVPN 速度分數加 0.1、總分微調到 8.8，ExpressVPN 速度反向掉 0.1。坦白說，ExpressVPN 對非技術用戶推薦還是最順，9.5 易用分對得上事實，但跟 NordVPN 同等級功能的價差現在真的太大了。IVPN 第四繼續當隱私純粹派備胎。Surfshark 跟 Windscribe 位置不變，預算用戶各取所需。",
+          "highlights": [
+            {
+              "title": "Mullvad 隱私純粹派還是穩",
+              "body": "5 歐元月費、無帳號、不收個資，把匿名當唯一指標的人這個無解。"
+            },
+            {
+              "title": "Proton VPN 全能選手",
+              "body": "瑞士司法、稽核過的 no-logs、9.5 網路覆蓋、易用分也漂亮。要一個 VPN 包辦所有事這個最對。Proton Mail 整合對重視隱私的人是加分。"
+            },
+            {
+              "title": "NordVPN 拿下速度王",
+              "body": "950 Mbps、保留率 90% 直接贏 ExpressVPN。9000 多台伺服器在 181 國，網路規模優勢已經結構化。"
+            },
+            {
+              "title": "ExpressVPN 推薦給長輩首選",
+              "body": "9.5 易用分是真的，要推薦給家人用這個最順。但跟 NordVPN 同功能差這麼多錢，真的不太好辯護。"
+            },
+            {
+              "title": "IVPN 隱私備胎位",
+              "body": "Mullvad 萬一掛了或想要第二家隱私首選，IVPN 稽核過的 no-logs 跟極簡資料收集還是穩穩排第四。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

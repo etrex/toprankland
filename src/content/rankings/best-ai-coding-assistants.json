@@ -5427,6 +5427,212 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-09",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "codeQuality": 9.6,
+            "contextWindow": 9.5,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Cursor vs Claude Code vs GitHub Copilot 2026: The Ultimate Comparison",
+          "url": "https://www.nxcode.io/resources/news/cursor-vs-claude-code-vs-github-copilot-2026-ultimate-comparison",
+          "source": "NxCode"
+        },
+        {
+          "title": "Claude Code vs Cursor vs Copilot: The 2026 Developer Comparison",
+          "url": "https://www.sitepoint.com/claude-code-vs-cursor-vs-copilot-the-2026-developer-comparison/",
+          "source": "SitePoint"
+        },
+        {
+          "title": "Coding Agents Comparison: Cursor, Claude Code, GitHub Copilot, and more",
+          "url": "https://artificialanalysis.ai/agents/coding",
+          "source": "Artificial Analysis"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The picture this week solidifies what most working developers already know. Claude Code keeps the top slot because it owns the autonomous-engineering ceiling, with Anthropic's harness handling 1M-token context and SWE-bench scores nobody else has matched in production. Cursor edges higher this week as I bump its score to 9.0; the latest comparisons consistently call out Cursor as the best daily driver inside an editor, and Anysphere's reported $2B ARR confirms the market has decided. The combination most professionals adopt is exactly that pairing, Cursor for keystroke-level work in the IDE plus Claude Code in the terminal for anything multi-file or genuinely agentic. GitHub Copilot holds third by virtue of distribution, with roughly 42% market share, the cheapest entry point at $10, and the only meaningful free tier in the category. Codex stays compelling for OpenAI loyalists who already pay for ChatGPT Plus, since the agent reuses that subscription. Google Jules continues to grow as a free agent for routine GitHub work, while Devin's price drop to $20 has finally made it usable for solo devs. Lower in the table, Aider remains the best value if you live in the terminal and bring your own API key, and Zed's speed makes it the right pick when you want a native editor instead of an Electron build. Windsurf needs to ship something post-acquisition that sets it apart from Cursor, because the $15 price alone is no longer enough.",
+          "highlights": [
+            {
+              "title": "Claude Code still owns the agentic ceiling",
+              "body": "The 1M-token context plus SWE-bench leadership remain the key reasons multi-file refactors and full-codebase audits land here. Pricing at $17 also stays competitive against the $20 tier."
+            },
+            {
+              "title": "Cursor moves up to 9.0",
+              "body": "Recent head-to-head reviews keep crowning Cursor as the best in-editor experience, and the reported $2B ARR is hard to argue with. Composer plus deep indexing is genuinely the best daily driver for most professional workflows."
+            },
+            {
+              "title": "Copilot is the value floor",
+              "body": "$10/month, 42% market share, and a free tier with 2,000 completions a month make Copilot the obvious starting point for anyone exploring AI coding before committing."
+            },
+            {
+              "title": "The stacked workflow is the actual answer",
+              "body": "Most senior devs I respect run two tools: Cursor or Copilot in their IDE, Claude Code in their terminal. Picking one is a budget decision, not a quality decision."
+            },
+            {
+              "title": "Windsurf needs a post-acquisition story",
+              "body": "Cognition AI bought Windsurf in December, and five months later the differentiation against Cursor is still mostly price. The Devin integration angle has to materialize soon to justify the slot."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這禮拜的排名結構大致穩定，但有一個小調整值得講。Claude Code 維持第一沒懸念，1M token 上下文加上 SWE-bench 在實戰場景的領先，目前真的還沒有對手。坦白說，跨 15 個檔案 debug 跟整個 repo 重構這類任務，丟給 Claude Code 跑就對了。Cursor 這次我把分數從 8.9 拉到 9.0，最近一輪比較文章幾乎一面倒講 Cursor 是 IDE 內最好用的日常工具，Anysphere 年收入 20 億美元的數字也算市場給的答案。多數資深工程師現在的標配就是這個組合，Cursor 在編輯器寫扣，Claude Code 在終端機跑代理任務。GitHub Copilot 第三名靠的是通路優勢，市佔約 42%，月費 NT$320 是入門最便宜的選項，免費版每月 2000 次補全也是這個品類唯一像樣的免費額度。Codex 給已經付 ChatGPT Plus 的人很順，訂閱一份兩個都能用。Google Jules 走免費代理路線，處理日常 GitHub 雜務 CP 值很高。Devin 月費砍到 $20 之後，個人開發者終於用得起。下半段 Aider 對長住終端機的人還是 CP 王，Zed 速度快適合想要原生編輯器的人。講真的，Windsurf 被 Cognition 收購到現在快五個月，跟 Cursor 的差異還是只剩價格，Devin 的整合到底什麼時候要落地，再不出來位置真的會被擠掉。",
+          "highlights": [
+            {
+              "title": "Claude Code 代理能力沒人追得上",
+              "body": "1M token 配上 SWE-bench 商業工具最高分，跨檔案重構跟全專案稽核這類任務目前就是它的天下，月費 NT$544 在這個能力區間還算合理。"
+            },
+            {
+              "title": "Cursor 加分到 9.0",
+              "body": "最近幾篇對比文都把 Cursor 列為 IDE 內最佳體驗，年收入 20 億美元算市場已經投票了。Composer 加深度索引組合起來，日常寫扣真的最順。"
+            },
+            {
+              "title": "Copilot 是入門 CP 王",
+              "body": "月費 NT$320、市佔 42%、免費版 2000 次補全，剛開始想用 AI 寫扣的人從這裡入門最不痛。"
+            },
+            {
+              "title": "雙工具堆疊才是正解",
+              "body": "我認識的資深工程師多半都這樣搭，IDE 用 Cursor 或 Copilot，終端用 Claude Code。要選哪一個其實是預算問題，不是好壞問題。"
+            },
+            {
+              "title": "Windsurf 要拿出新東西",
+              "body": "被 Cognition 收購到現在跟 Cursor 的差異還是只剩價格便宜一點。Devin 的整合方向再不落地，這個位置遲早保不住。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

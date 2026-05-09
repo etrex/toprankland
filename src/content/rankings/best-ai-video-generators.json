@@ -582,6 +582,200 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-09",
+      "rankings": [
+        {
+          "id": "google-veo-3-1",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "kling-3-0",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "promptAdherence": 9.0,
+            "motionRealism": 9.1,
+            "audioVideoSync": 8.6,
+            "characterConsistency": 8.9,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 8.9,
+            "motionRealism": 8.7,
+            "audioVideoSync": 9.4,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 6,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 9,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 10,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Video Generator in 2026: Runway, Veo, Seedance, Kling & More",
+          "url": "https://pixflow.net/blog/best-ai-video-generator/",
+          "source": "Pixflow"
+        },
+        {
+          "title": "Sora Is Gone: Here Are 6 AI Video Tools Filling the Void in 2026",
+          "url": "https://www.eweek.com/news/sora-alternatives-ai-video-tools-2026/",
+          "source": "eWeek"
+        },
+        {
+          "title": "AI Video Generation 2026: Sora 2 vs Veo 3.1 vs Kling 3.0 Compared",
+          "url": "https://lushbinary.com/blog/ai-video-generation-sora-veo-kling-seedance-comparison/",
+          "source": "Lushbinary"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Sora's web and app shutdown on April 26 is now two weeks behind us, and the production traffic has redistributed exactly as expected. Veo 3.1 stays at the top of the chart and the Veo 3.1 Lite launch on April 1 (under 50% of the Veo 3.1 Fast price) gives Google a real value proposition at the mid-tier; I'm bumping Veo's value-for-money score by a tenth on that news. Native synchronized audio in a single pass plus true 4K at 60fps is still the cleanest end-to-end pipeline for filmmakers and motion designers, and the prompt adherence advantage shows up the moment you have a complex scene description. Runway Gen-4.5 keeps second place because nobody else matches its character consistency at 9.7, and the marketing-friendly toolset around motion brush, reference images, and the built-in editor makes it the obvious pick for brand work. Kling 3.0 holds third with the best price-performance trade-off in the top tier; if your output is destined for short-form social, you don't need Veo's full audio stack. Seedance 2.0 in fourth is genuinely impressive for product visualization with its 9.4 audio sync. Hailuo 02 is still the best free-tier playground. Luma Ray3 retains its top motion-realism score (8.9) for cinematic camera work. Pika 2.2 and Firefly hold their middle positions. Hunyuan 1.5 and Wan 2.6 are the open-weight CP picks for users who want to self-host or pay token rates a fraction of the closed models. The leaderboard is settled until the next major model lands.",
+          "highlights": [
+            {
+              "title": "Veo 3.1 Lite finally fixes the price problem",
+              "body": "Under 50% of Veo 3.1 Fast pricing as of April 1 makes Google's stack accessible at the mid-tier, where Kling and Seedance had been winning on cost alone. Value-for-money goes up to 9.4."
+            },
+            {
+              "title": "Runway is the brand-work answer",
+              "body": "Character consistency at 9.7 plus motion brush, reference images, and the built-in editor make it the safest bet for marketing teams that need on-model output across an entire campaign."
+            },
+            {
+              "title": "Kling 3.0 is the short-form sweet spot",
+              "body": "Best price-performance in the top tier and prompt adherence at 9.0. If your delivery target is TikTok or Reels you don't need Veo's full audio pipeline anyway."
+            },
+            {
+              "title": "Seedance 2.0 for product visualization",
+              "body": "9.4 audio sync and 9.0 character consistency at value-tier pricing make it the right pick for e-commerce demos, explainer videos, and any spot where you need a talking product on a budget."
+            },
+            {
+              "title": "Sora's exit changed nothing structural",
+              "body": "The shutdown happened, traffic moved to Veo, Runway, and Kling, and the leaderboard barely flinched. OpenAI's absence from this category is now a feature of the market, not breaking news."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Sora 4 月 26 日網頁版跟 App 正式停用，現在已經過了兩週，市場流量轉移得跟預期完全一樣。Veo 3.1 維持第一，4 月 1 日 Veo 3.1 Lite 上線，價格不到 Veo 3.1 Fast 的一半，中階市場終於有對得起價格的選項，所以我把 Veo 的 CP 值微調 0.1 上去。一次生成同步音軌、4K 60fps 真實輸出，這個端到端流程在做電影級或動畫設計的人眼裡還是最完整的，prompt 跟得最緊這點在複雜場景特別明顯。Runway Gen-4.5 守住第二，角色一致性 9.7 全場最高，motion brush、參考圖、內建編輯器這套對於做品牌行銷的人來說無可取代，整支廣告片角色不跑形這件事它做得最穩。Kling 3.0 第三，頂級組裡 CP 最高，做短影音根本不用 Veo 的整套音頻管線，這個選擇很合理。Seedance 2.0 排第四，9.4 音畫同步在電商商品演示這類場景表現超出預期。Hailuo 02 免費額度還是最佳遊樂場。Luma Ray3 在電影感運鏡項目保住 8.9 動態真實度第一。Pika 2.2 跟 Firefly 中段位置不變。Hunyuan 1.5 跟 Wan 2.6 是開源權重派的 CP 王，自架或便宜 API 用戶會喜歡。整體看，下一個大模型沒出來之前榜單會這樣穩著走。",
+          "highlights": [
+            {
+              "title": "Veo 3.1 Lite 補上價格缺口",
+              "body": "4 月 1 日上線、價格不到 Veo 3.1 Fast 的一半，中階用戶終於不用被 Kling 跟 Seedance 用價格輾過，CP 值拉到 9.4。"
+            },
+            {
+              "title": "Runway 是品牌片首選",
+              "body": "角色一致性 9.7、motion brush、參考圖、內建編輯器，整套用下來廣告角色不跑形這點最穩，行銷團隊跑整支 campaign 用這個最安心。"
+            },
+            {
+              "title": "Kling 3.0 短影音甜蜜點",
+              "body": "頂級組裡 CP 最高，prompt adherence 9.0。要做 TikTok 跟 Reels 根本用不到 Veo 整套音頻管線，這個選擇就是對的。"
+            },
+            {
+              "title": "Seedance 2.0 商品演示專用",
+              "body": "9.4 音畫同步、9.0 角色一致性，加上中階價格，電商產品介紹、教學影片這類需要會說話的商品時超適合。"
+            },
+            {
+              "title": "Sora 退場結構沒變",
+              "body": "停用了流量就分給 Veo、Runway、Kling，榜單幾乎沒抖動。OpenAI 缺席這個品類已經是市場常態，不是新聞了。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

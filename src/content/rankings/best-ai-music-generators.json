@@ -592,6 +592,200 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-09",
+      "rankings": [
+        {
+          "id": "suno-v5",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "audioQuality": 9.7,
+            "vocalRealism": 9.4,
+            "editingControl": 9.5,
+            "commercialLicense": 7.5,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "elevenlabs-music",
+          "rank": 2,
+          "score": 8.9,
+          "scores": {
+            "audioQuality": 9.2,
+            "vocalRealism": 9.7,
+            "editingControl": 8.0,
+            "commercialLicense": 9.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "udio",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "audioQuality": 9.6,
+            "vocalRealism": 9.5,
+            "editingControl": 9.7,
+            "commercialLicense": 6.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "audioQuality": 8.8,
+            "vocalRealism": 7.0,
+            "editingControl": 8.5,
+            "commercialLicense": 9.4,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "riffusion",
+          "rank": 5,
+          "score": 8.0,
+          "scores": {
+            "audioQuality": 8.2,
+            "vocalRealism": 7.8,
+            "editingControl": 8.5,
+            "commercialLicense": 8.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "soundraw",
+          "rank": 6,
+          "score": 7.8,
+          "scores": {
+            "audioQuality": 8.0,
+            "vocalRealism": 6.5,
+            "editingControl": 7.5,
+            "commercialLicense": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aiva",
+          "rank": 7,
+          "score": 7.5,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 6.8,
+            "editingControl": 7.8,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "mubert",
+          "rank": 8,
+          "score": 7.3,
+          "scores": {
+            "audioQuality": 7.5,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "loudly",
+          "rank": 9,
+          "score": 7.0,
+          "scores": {
+            "audioQuality": 7.3,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "boomy",
+          "rank": 10,
+          "score": 6.8,
+          "scores": {
+            "audioQuality": 6.8,
+            "vocalRealism": 6.5,
+            "editingControl": 6.8,
+            "commercialLicense": 8.5,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Music Generators in 2026: Suno vs Udio vs AIVA Compared",
+          "url": "https://superprompt.com/blog/best-ai-music-generators",
+          "source": "Superprompt"
+        },
+        {
+          "title": "What Do the Suno and Udio Licensing Deals Mean for the Future of AI Music?",
+          "url": "https://www.billboard.com/pro/what-suno-udio-licensing-deals-mean-future-ai-music/",
+          "source": "Billboard"
+        },
+        {
+          "title": "Suno Review: v5.5 Turned Me Into a Pop Star With My Voice",
+          "url": "https://www.unite.ai/suno-review/",
+          "source": "Unite.AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The big story this week is Udio sliding past ElevenLabs Music into third place after the UMG settlement turned the platform into a walled garden. Songs you generate on Udio now stay on Udio, with no export, no sharing outside the platform, and a pivot toward fan engagement around licensed catalog. The audio still sounds great and the stem separation is genuinely useful, but for anyone trying to ship music elsewhere the value proposition collapsed overnight. I'm dropping Udio's commercial license and value-for-money scores accordingly. Suno keeps a comfortable lead. The v5.5 update from late March remains the most expressive vocal model on the market, with Voices for personal voice cloning, Custom Models for fine-tuning on your own catalog, and the My Taste personalization layer. With $300M ARR and 2 million paid subscribers, Suno is operating at a different scale than everyone else. ElevenLabs Music quietly takes second this week. The vocal realism score (9.7) is genuinely class-leading, the licensing terms are the cleanest in the industry, and the recent v3 platform expansion makes the export workflow trivial for production use. Stable Audio 2.5 holds fourth as the safest pick for studios that need watertight commercial rights and don't care about lyrics. Riffusion through Boomy stay where they were; none of them shipped meaningful updates this cycle. The interesting move to watch is whether Suno can negotiate a Warner deal that doesn't lock users in the way Udio's UMG deal did.",
+          "highlights": [
+            {
+              "title": "Udio drops to third after the lockdown",
+              "body": "The UMG settlement turned Udio into a walled garden where generated songs cannot leave the platform. The audio fidelity is still elite, but the export restriction makes it hard to recommend for anyone shipping music commercially."
+            },
+            {
+              "title": "Suno v5.5 is the daily driver",
+              "body": "Voices, Custom Models, and My Taste together create a workflow nothing else matches. $300M ARR and 2M paid subs say the rest. If you only pay for one tool this is it."
+            },
+            {
+              "title": "ElevenLabs Music is the production-safe pick",
+              "body": "Vocal realism at 9.7, the cleanest commercial license terms in the category, and a v3 platform that integrates with the rest of the ElevenLabs voice stack. Best fit for podcasters and content studios."
+            },
+            {
+              "title": "Stable Audio 2.5 for instrumentals you can ship",
+              "body": "The watertight licensing and 8.8 audio quality make it the right call for ad agencies and game studios that need royalty-free music with zero label-risk exposure."
+            },
+            {
+              "title": "The licensing era starts now",
+              "body": "With Warner-Suno and UMG-Udio both inked, the legal cloud has lifted. The next 12 months are about which platform structures its label deals so creators can still take their work elsewhere."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週最大的變動是 Udio 從第二名掉到第三，原因是 UMG 和解之後，Udio 整個變成封閉花園，生成的歌只能留在平台內，匯出、分享、對外發布全部關掉，整個服務轉向以授權曲庫為主的粉絲互動工具。坦白說音質還是很好，stem 分離也好用，但對於要把成品拿去其他地方上架的創作者來說，這個改變幾乎是判死刑。所以我把 Udio 的商業授權跟 CP 值都往下調。Suno 第一還是穩穩的。3 月底的 v5.5 是目前市面上人聲最自然的模型，Voices 可以複製自己的聲音，Custom Models 可以拿自己的歌訓練，外加 My Taste 學你的喜好。年收 3 億美元、200 萬付費用戶，這個量體跟其他家根本不在同一個級距。ElevenLabs Music 這週低調升上第二。人聲擬真 9.7 是全品類最高，授權條款業界最乾淨，v3 平台跟自家語音生態整合好用，做 podcast 跟內容工作室特別合用。Stable Audio 2.5 守住第四，純樂器、商用零風險，廣告公司跟遊戲工作室還是會優先考慮。Riffusion 到 Boomy 沒大動作，位置不變。接下來重點看 Suno 跟 Warner 的合約怎麼簽，會不會也變成 Udio 那種把使用者鎖死的模式，這個值得追蹤。",
+          "highlights": [
+            {
+              "title": "Udio 被鎖在花園裡，掉到第三",
+              "body": "UMG 和解後生成的歌出不去平台，這個改變對需要對外上架的創作者打擊很大。音質還是頂級的，但匯出限制讓商用價值大降。"
+            },
+            {
+              "title": "Suno v5.5 還是日常首選",
+              "body": "Voices、Custom Models、My Taste 三個一起來，工作流真的沒對手。年收 3 億美元、200 萬付費，要選一個就選它。"
+            },
+            {
+              "title": "ElevenLabs Music 適合做正規製作",
+              "body": "人聲擬真 9.7 是全場最高，授權條款最乾淨，v3 平台跟自家語音生態整合得很順。做 podcast 跟內容工作室用這個最安全。"
+            },
+            {
+              "title": "Stable Audio 2.5 純樂器商用首選",
+              "body": "授權滴水不漏，音質 8.8，廣告公司跟遊戲開發商需要零風險背景音樂的話，這個就對了。"
+            },
+            {
+              "title": "授權時代正式開始",
+              "body": "Warner-Suno 跟 UMG-Udio 都簽完了，法律陰影散了。接下來看誰的授權結構不會把創作者綁死，這才是關鍵。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

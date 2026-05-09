@@ -184,48 +184,422 @@
     {
       "date": "2026-05-08",
       "rankings": [
-        { "id": "elevenlabs", "rank": 1, "score": 9.4, "scores": { "voiceRealism": 9.7, "emotionalRange": 9.3, "languageSupport": 9.6, "latency": 9.2, "valueForMoney": 9.0 } },
-        { "id": "hume-ai-octave-2", "rank": 2, "score": 9.0, "scores": { "voiceRealism": 9.0, "emotionalRange": 9.7, "languageSupport": 8.5, "latency": 8.6, "valueForMoney": 9.4 } },
-        { "id": "minimax-speech-02-hd", "rank": 3, "score": 8.8, "scores": { "voiceRealism": 8.9, "emotionalRange": 8.8, "languageSupport": 9.2, "latency": 9.1, "valueForMoney": 9.0 } },
-        { "id": "cartesia-sonic-3", "rank": 4, "score": 8.7, "scores": { "voiceRealism": 8.8, "emotionalRange": 8.6, "languageSupport": 8.4, "latency": 9.9, "valueForMoney": 8.6 } },
-        { "id": "openai-gpt-4o-mini-tts", "rank": 5, "score": 8.5, "scores": { "voiceRealism": 8.5, "emotionalRange": 8.7, "languageSupport": 8.8, "latency": 8.5, "valueForMoney": 9.6 } },
-        { "id": "murf-ai", "rank": 6, "score": 8.3, "scores": { "voiceRealism": 8.4, "emotionalRange": 8.0, "languageSupport": 8.6, "latency": 8.0, "valueForMoney": 8.0 } },
-        { "id": "wellsaid-labs", "rank": 7, "score": 8.0, "scores": { "voiceRealism": 9.0, "emotionalRange": 7.8, "languageSupport": 7.4, "latency": 7.6, "valueForMoney": 7.0 } },
-        { "id": "speechify-studio", "rank": 8, "score": 7.8, "scores": { "voiceRealism": 8.0, "emotionalRange": 7.6, "languageSupport": 8.6, "latency": 7.7, "valueForMoney": 8.4 } },
-        { "id": "resemble-ai", "rank": 9, "score": 7.6, "scores": { "voiceRealism": 8.4, "emotionalRange": 7.5, "languageSupport": 7.6, "latency": 7.8, "valueForMoney": 7.6 } },
-        { "id": "descript-overdub", "rank": 10, "score": 7.4, "scores": { "voiceRealism": 7.8, "emotionalRange": 7.0, "languageSupport": 6.8, "latency": 7.4, "valueForMoney": 8.4 } }
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.3,
+            "languageSupport": 9.6,
+            "latency": 9.2,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.6,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.8,
+            "emotionalRange": 8.6,
+            "languageSupport": 8.4,
+            "latency": 9.9,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 6,
+          "score": 8.3,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 8.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "voiceRealism": 8.0,
+            "emotionalRange": 7.6,
+            "languageSupport": 8.6,
+            "latency": 7.7,
+            "valueForMoney": 8.4
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
       ],
       "references": [
-        { "title": "Best AI Voice Generators 2026: 11 Tools Tested and Compared", "url": "https://axis-intelligence.com/best-ai-voice-generators-2026-tested/", "source": "Axis Intelligence" },
-        { "title": "Voice Generation Models Compared (2026): ElevenLabs, OpenAI TTS, Hume, Cartesia, PlayHT", "url": "https://sureprompts.com/blog/voice-generation-models-compared-2026", "source": "SurePrompts" },
-        { "title": "ElevenLabs Pricing 2026", "url": "https://elevenlabs.io/pricing", "source": "ElevenLabs" },
-        { "title": "Hume AI Pricing: Every Plan Explained (2026)", "url": "https://autogpt.net/hume-ai-pricing-every-plan-explained-2026/", "source": "AutoGPT" },
-        { "title": "Cartesia Sonic 3 pricing: Plans, costs, and limits (2026)", "url": "https://www.eesel.ai/blog/cartesia-sonic-3-pricing", "source": "eesel AI" },
-        { "title": "MiniMax Speech 02 HD official page", "url": "https://www.minimax.io/audio", "source": "MiniMax" },
-        { "title": "GPT-4o mini TTS Model | OpenAI API", "url": "https://platform.openai.com/docs/models/gpt-4o-mini-tts", "source": "OpenAI" },
-        { "title": "Murf AI pricing 2026", "url": "https://murf.ai/pricing", "source": "Murf AI" },
-        { "title": "WellSaid AI Voice Studio pricing", "url": "https://www.wellsaid.io/ai-voice-pricing", "source": "WellSaid Labs" },
-        { "title": "Best AI Voice Generators 2026: Top picks & In-depth reviews", "url": "https://aimlapi.com/blog/best-text-to-speech-ai", "source": "AI/ML API Blog" }
+        {
+          "title": "Best AI Voice Generators 2026: 11 Tools Tested and Compared",
+          "url": "https://axis-intelligence.com/best-ai-voice-generators-2026-tested/",
+          "source": "Axis Intelligence"
+        },
+        {
+          "title": "Voice Generation Models Compared (2026): ElevenLabs, OpenAI TTS, Hume, Cartesia, PlayHT",
+          "url": "https://sureprompts.com/blog/voice-generation-models-compared-2026",
+          "source": "SurePrompts"
+        },
+        {
+          "title": "ElevenLabs Pricing 2026",
+          "url": "https://elevenlabs.io/pricing",
+          "source": "ElevenLabs"
+        },
+        {
+          "title": "Hume AI Pricing: Every Plan Explained (2026)",
+          "url": "https://autogpt.net/hume-ai-pricing-every-plan-explained-2026/",
+          "source": "AutoGPT"
+        },
+        {
+          "title": "Cartesia Sonic 3 pricing: Plans, costs, and limits (2026)",
+          "url": "https://www.eesel.ai/blog/cartesia-sonic-3-pricing",
+          "source": "eesel AI"
+        },
+        {
+          "title": "MiniMax Speech 02 HD official page",
+          "url": "https://www.minimax.io/audio",
+          "source": "MiniMax"
+        },
+        {
+          "title": "GPT-4o mini TTS Model | OpenAI API",
+          "url": "https://platform.openai.com/docs/models/gpt-4o-mini-tts",
+          "source": "OpenAI"
+        },
+        {
+          "title": "Murf AI pricing 2026",
+          "url": "https://murf.ai/pricing",
+          "source": "Murf AI"
+        },
+        {
+          "title": "WellSaid AI Voice Studio pricing",
+          "url": "https://www.wellsaid.io/ai-voice-pricing",
+          "source": "WellSaid Labs"
+        },
+        {
+          "title": "Best AI Voice Generators 2026: Top picks & In-depth reviews",
+          "url": "https://aimlapi.com/blog/best-text-to-speech-ai",
+          "source": "AI/ML API Blog"
+        }
       ],
       "i18n": {
         "en": {
           "commentary": "ElevenLabs keeps the crown in 2026, and the gap to second place is smaller than it has ever been. Turbo v2.5 holds the realism lead and Eleven v3 covers 74 languages with inline emotion tags, but Hume's Octave 2 model arrived this spring with genuine emotional intelligence at 58% lower per-character cost, and that combination is hard to beat for narration work where the script carries feeling. Cartesia and OpenAI's gpt-4o-mini-tts split the lower-half of the table for completely different reasons: Cartesia's 90ms TTFA owns the voice-agent use case, and OpenAI's $0.015 per minute price kills every other API on raw cost for batch jobs. Murf and WellSaid still matter for compliance-bound enterprises, but for individual creators, podcasters, and indie developers in 2026, the real fight is ElevenLabs versus Hume on price-to-quality and Cartesia versus OpenAI on price-to-latency.",
           "highlights": [
-            { "title": "ElevenLabs is still the safe default for serious voice work", "body": "Turbo v2.5 sits at 75ms latency and Eleven v3 reads inline emotion tags across 74 languages, which means you can ship the same script in Mandarin, Spanish, and Japanese without re-recording. The $5 Starter plan unlocks Instant Voice Cloning, and Professional Voice Cloning at $22 is the bar everyone else is benchmarked against." },
-            { "title": "Hume AI Octave 2 is the smartest move for narrators in 2026", "body": "Octave 2 reads emotional context from the script itself rather than waiting for SSML tags, and Hume's per-character pricing comes in 58% under ElevenLabs at the Business tier. The $14 Creator plan ships unlimited voice cloning, which is the most aggressive cloning entitlement in the category." },
-            { "title": "Cartesia Sonic 3 owns voice agents under 100ms", "body": "Sonic 3 hits 90ms TTFA with the Turbo variant at 40ms, and a 3-second audio sample is enough for a usable clone. At $0.030 per minute on the API, anyone building a real-time conversational agent in 2026 should benchmark against Cartesia first and only move on if they have a specific reason." },
-            { "title": "OpenAI gpt-4o-mini-tts wins on raw economics for batch work", "body": "$0.015 per minute is half what most competitors charge, and the 13 voices are steerable through plain-English instructions rather than markup. For audiobook back catalogs, language-learning content, or any high-volume pipeline where you control the script, this is the API to start with." },
-            { "title": "WellSaid and Murf still win the enterprise stack", "body": "WellSaid's SOC 2 plus ISO 27001 certifications and Murf's native Canva, PowerPoint, and Google Slides integrations are the reason Fortune 500 L&D teams keep paying $49 to $199 per month per seat. ElevenLabs has the better voices, but enterprise procurement and brand consistency live and die on the workflow integrations these two have built." }
+            {
+              "title": "ElevenLabs is still the safe default for serious voice work",
+              "body": "Turbo v2.5 sits at 75ms latency and Eleven v3 reads inline emotion tags across 74 languages, which means you can ship the same script in Mandarin, Spanish, and Japanese without re-recording. The $5 Starter plan unlocks Instant Voice Cloning, and Professional Voice Cloning at $22 is the bar everyone else is benchmarked against."
+            },
+            {
+              "title": "Hume AI Octave 2 is the smartest move for narrators in 2026",
+              "body": "Octave 2 reads emotional context from the script itself rather than waiting for SSML tags, and Hume's per-character pricing comes in 58% under ElevenLabs at the Business tier. The $14 Creator plan ships unlimited voice cloning, which is the most aggressive cloning entitlement in the category."
+            },
+            {
+              "title": "Cartesia Sonic 3 owns voice agents under 100ms",
+              "body": "Sonic 3 hits 90ms TTFA with the Turbo variant at 40ms, and a 3-second audio sample is enough for a usable clone. At $0.030 per minute on the API, anyone building a real-time conversational agent in 2026 should benchmark against Cartesia first and only move on if they have a specific reason."
+            },
+            {
+              "title": "OpenAI gpt-4o-mini-tts wins on raw economics for batch work",
+              "body": "$0.015 per minute is half what most competitors charge, and the 13 voices are steerable through plain-English instructions rather than markup. For audiobook back catalogs, language-learning content, or any high-volume pipeline where you control the script, this is the API to start with."
+            },
+            {
+              "title": "WellSaid and Murf still win the enterprise stack",
+              "body": "WellSaid's SOC 2 plus ISO 27001 certifications and Murf's native Canva, PowerPoint, and Google Slides integrations are the reason Fortune 500 L&D teams keep paying $49 to $199 per month per seat. ElevenLabs has the better voices, but enterprise procurement and brand consistency live and die on the workflow integrations these two have built."
+            }
           ]
         },
         "zh-tw": {
           "commentary": "ElevenLabs 在 2026 年穩坐冠軍，但跟第二名的差距是有史以來最小。Turbo v2.5 真實度依然領先，Eleven v3 支援 74 種語言加上行內情緒標籤，可是 Hume 今年春天推出的 Octave 2 帶來真正的情緒智慧，每字元成本還比 ElevenLabs 便宜 58%，這組合在做有情緒的旁白時很難被打敗。Cartesia 跟 OpenAI 的 gpt-4o-mini-tts 在後半段各自佔據完全不同的場景，Cartesia 90 毫秒 TTFA 在語音 Agent 應用稱王，OpenAI 每分鐘 $0.015 的價格在批次任務上把所有 API 都壓在地上。Murf 跟 WellSaid 在合規導向的企業還是有不可取代的位置，但說真的，2026 年個人創作者、Podcaster、獨立開發者要選工具，真正的戰場就是 ElevenLabs 對 Hume 比 CP 值，Cartesia 對 OpenAI 比延遲跟成本。",
           "highlights": [
-            { "title": "認真做語音工作，ElevenLabs 還是最安全的預設選擇", "body": "Turbo v2.5 延遲 75 毫秒，Eleven v3 在 74 種語言裡都讀得懂行內情緒標籤，同一份腳本中文、西班牙文、日文一次出，不用重錄。Starter 方案 $5 就解鎖 Instant Voice Cloning，$22 的 Professional Voice Cloning 是所有競品被拿來比較的那個基準。" },
-            { "title": "做旁白的話，Hume AI Octave 2 是 2026 最聰明的選擇", "body": "Octave 2 直接從你的腳本內容讀出該用什麼情緒，不需要你自己標 SSML 標籤，Business 方案的每字元定價比 ElevenLabs 便宜 58%。$14 的 Creator 方案還送無限語音克隆，這個給法在整個品類算最狠的。" },
-            { "title": "100 毫秒以下的語音 Agent，Cartesia Sonic 3 沒對手", "body": "Sonic 3 首字延遲 90 毫秒，Turbo 版本壓到 40 毫秒，3 秒音檔就能做出能用的克隆語音。API 每分鐘 $0.030 折合台幣 1 元，2026 年要做即時對話 Agent 就先 benchmark Cartesia，除非有特殊理由再考慮其他家。" },
-            { "title": "批次任務算成本，OpenAI gpt-4o-mini-tts 直接壓死同行", "body": "每分鐘 $0.015 是大部分競品的一半，13 種音色可以用講人話的英文 prompt 直接控制語氣，不用學標記語法。做有聲書批量產出、語言學習內容、或任何腳本你能掌握的高量流水線，這個 API 就是起手式。" },
-            { "title": "企業合規市場還是 WellSaid 跟 Murf 的天下", "body": "WellSaid 拿到 SOC 2 加 ISO 27001 合規認證，Murf 原生整合 Canva、PowerPoint 跟 Google Slides，這就是為什麼財星 500 大企業培訓部門願意每席每月付 $49 到 $199。ElevenLabs 音質比較好沒錯，但企業採購跟品牌一致性的關鍵就在這兩家經營很久的工作流整合上。" }
+            {
+              "title": "認真做語音工作，ElevenLabs 還是最安全的預設選擇",
+              "body": "Turbo v2.5 延遲 75 毫秒，Eleven v3 在 74 種語言裡都讀得懂行內情緒標籤，同一份腳本中文、西班牙文、日文一次出，不用重錄。Starter 方案 $5 就解鎖 Instant Voice Cloning，$22 的 Professional Voice Cloning 是所有競品被拿來比較的那個基準。"
+            },
+            {
+              "title": "做旁白的話，Hume AI Octave 2 是 2026 最聰明的選擇",
+              "body": "Octave 2 直接從你的腳本內容讀出該用什麼情緒，不需要你自己標 SSML 標籤，Business 方案的每字元定價比 ElevenLabs 便宜 58%。$14 的 Creator 方案還送無限語音克隆，這個給法在整個品類算最狠的。"
+            },
+            {
+              "title": "100 毫秒以下的語音 Agent，Cartesia Sonic 3 沒對手",
+              "body": "Sonic 3 首字延遲 90 毫秒，Turbo 版本壓到 40 毫秒，3 秒音檔就能做出能用的克隆語音。API 每分鐘 $0.030 折合台幣 1 元，2026 年要做即時對話 Agent 就先 benchmark Cartesia，除非有特殊理由再考慮其他家。"
+            },
+            {
+              "title": "批次任務算成本，OpenAI gpt-4o-mini-tts 直接壓死同行",
+              "body": "每分鐘 $0.015 是大部分競品的一半，13 種音色可以用講人話的英文 prompt 直接控制語氣，不用學標記語法。做有聲書批量產出、語言學習內容、或任何腳本你能掌握的高量流水線，這個 API 就是起手式。"
+            },
+            {
+              "title": "企業合規市場還是 WellSaid 跟 Murf 的天下",
+              "body": "WellSaid 拿到 SOC 2 加 ISO 27001 合規認證，Murf 原生整合 Canva、PowerPoint 跟 Google Slides，這就是為什麼財星 500 大企業培訓部門願意每席每月付 $49 到 $199。ElevenLabs 音質比較好沒錯，但企業採購跟品牌一致性的關鍵就在這兩家經營很久的工作流整合上。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-05-09",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.3,
+            "languageSupport": 9.7,
+            "latency": 9.2,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.6,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.8,
+            "emotionalRange": 8.6,
+            "languageSupport": 8.4,
+            "latency": 9.9,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 6,
+          "score": 8.3,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 8.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "voiceRealism": 8.0,
+            "emotionalRange": 7.6,
+            "languageSupport": 8.6,
+            "latency": 7.7,
+            "valueForMoney": 8.4
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Eleven Labs Release Notes - May 2026 Latest Updates",
+          "url": "https://releasebot.io/updates/eleven-labs",
+          "source": "Releasebot"
+        },
+        {
+          "title": "ElevenLabs in 2026: The Complete Guide to v3, Agents, Music and Scribe",
+          "url": "https://medium.com/the-ai-entrepreneurs/elevenlabs-in-2026-the-complete-guide-to-v3-agents-music-and-scribe-7f3c3bdfd201",
+          "source": "The AI Entrepreneurs"
+        },
+        {
+          "title": "Enterprise AI Finds its Voice: ElevenLabs and IBM Bring Premium Voice Capabilities to Agentic AI",
+          "url": "https://newsroom.ibm.com/2026-03-25-enterprise-ai-finds-its-voice-elevenlabs-and-ibm-bring-premium-voice-capabilities-to-agentic-ai",
+          "source": "IBM Newsroom"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs is the only top-tier voice provider shipping at a steady cadence right now and it shows. The May release notes added SAML SSO on iOS and Android for enterprise tenants, multimodal message support inside hooks, audio duration metadata in speech-to-text responses, the no_verbatim transcription flag for cleaned-up output, and Scribe realtime keyterms biasing on WebSocket. Add the IBM agentic AI partnership announced March 25 and the v3 platform that now integrates voice, music, and Scribe under one stack, and the moat keeps widening. I'm bumping language support a tenth on the back of fresh font-rendering coverage for Hebrew, Thai, Armenian, Georgian, Malayalam, Telugu, and Gurmukhi; that detail matters more than it sounds when you're shipping voice into Asia or the Middle East. Hume Octave-2 stays at second because emotional range at 9.7 still leads the category. Minimax 02 HD remains the best multilingual mid-tier pick at $0.10 per 1M characters. Cartesia Sonic-3 is the right call when latency is everything: real-time voice agents, customer support, and live translation are its territory and 9.9 latency reflects that. OpenAI's gpt-4o-mini-tts is the value floor for anyone already paying for the OpenAI API. Murf and WellSaid are the corporate e-learning incumbents. The pattern is clear: ElevenLabs is the safe enterprise pick, Hume is the expressive narration pick, Cartesia is the latency pick, and Minimax is the multilingual budget pick. Resemble and Descript Overdub are useful for editing-first workflows but no longer competitive on raw realism.",
+          "highlights": [
+            {
+              "title": "ElevenLabs widens its lead",
+              "body": "May shipped enterprise SSO on mobile, multimodal hooks, no_verbatim transcription, Scribe keyterms biasing, and seven new script font supports. The pace is the moat now."
+            },
+            {
+              "title": "IBM agentic partnership matters",
+              "body": "The March 25 announcement of premium voice for IBM agentic AI puts ElevenLabs inside the largest enterprise procurement pipeline in the industry. Expect Fortune 500 deployments to follow."
+            },
+            {
+              "title": "Hume Octave-2 owns expressive narration",
+              "body": "9.7 emotional range remains uncontested. For audiobook publishers and game dialogue this is the right choice over a more polished but flatter ElevenLabs voice."
+            },
+            {
+              "title": "Cartesia is for real-time agents",
+              "body": "9.9 latency makes Sonic-3 the only credible pick when the use case is a live voice agent or simultaneous translation. Latency below human reaction time changes what you can build."
+            },
+            {
+              "title": "Multilingual budget tier is settled",
+              "body": "Minimax 02 HD at $0.10 per 1M characters with 9.2 language support is the obvious choice for anyone running multilingual content at scale without enterprise budget."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "現在頂級語音供應商裡只有 ElevenLabs 還在穩定出貨，差距越拉越開。5 月 release notes 一次補上 iOS 跟 Android 的企業 SAML SSO、hooks 多模態訊息、speech-to-text 加上音檔長度欄位、no_verbatim 把贅字濾掉的選項、Scribe realtime WebSocket 加 keyterms 偏好詞。再加上 3 月 25 日 IBM agentic AI 的合作案，跟 v3 平台把語音、音樂、Scribe 整合在一起，護城河越來越深。我把語言支援調高 0.1，原因是這次補了希伯來、泰文、亞美尼亞、喬治亞、馬拉雅拉姆、泰盧固、果魯穆奇文的字型渲染，這個細節對要把語音推到亞洲跟中東市場的人來說很重要。Hume Octave-2 維持第二，情緒表達 9.7 還是冠軍。Minimax 02 HD 保住中階多語首選，每百萬字 $0.10 真的便宜。Cartesia Sonic-3 主打低延遲，9.9 那個分數背後就是即時客服跟現場翻譯這種場景，要的就是這個。OpenAI 的 gpt-4o-mini-tts 給已經付 API 的人當 CP 入門點。Murf 跟 WellSaid 還是企業 e-learning 老牌。整體來看分工很清楚，企業要安全選 ElevenLabs，要情感選 Hume，要低延遲選 Cartesia，要多語預算有限選 Minimax。Resemble 跟 Descript 還是適合編輯流程，純擬真度已經不在第一線了。",
+          "highlights": [
+            {
+              "title": "ElevenLabs 領先還在拉開",
+              "body": "5 月一次補上手機端 SSO、多模態 hooks、no_verbatim 轉錄、Scribe keyterms、七種新字體支援。出貨節奏本身就是護城河。"
+            },
+            {
+              "title": "IBM agentic 合作案有份量",
+              "body": "3 月 25 日宣布的 IBM 企業版語音合作，等於進到全球最大的企業採購管線。後面 Fortune 500 部署案應該會陸續出現。"
+            },
+            {
+              "title": "Hume Octave-2 是情感配音王",
+              "body": "情緒表達 9.7 沒人追得到。做有聲書跟遊戲對白選這個，比 ElevenLabs 那種精緻但偏平的聲音更合適。"
+            },
+            {
+              "title": "Cartesia 即時代理首選",
+              "body": "9.9 延遲讓 Sonic-3 在即時語音客服跟同步翻譯這類場景變成唯一選項。低於人類反應時間之後能做的事完全不一樣。"
+            },
+            {
+              "title": "多語預算組已經有答案",
+              "body": "Minimax 02 HD 每百萬字 $0.10 加上 9.2 語言支援，預算有限要做大量多語內容直接選它。"
+            }
           ]
         }
       }
