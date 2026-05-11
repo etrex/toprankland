@@ -5844,6 +5844,217 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-11",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "codeQuality": 9.6,
+            "contextWindow": 9.6,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 7.9
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Cursor vs Claude Code vs GitHub Copilot 2026: The Ultimate Comparison",
+          "url": "https://www.nxcode.io/resources/news/cursor-vs-claude-code-vs-github-copilot-2026-ultimate-comparison",
+          "source": "NxCode"
+        },
+        {
+          "title": "Claude Code vs Cursor vs Copilot: The 2026 Developer Comparison",
+          "url": "https://www.sitepoint.com/claude-code-vs-cursor-vs-copilot-the-2026-developer-comparison/",
+          "source": "SitePoint"
+        },
+        {
+          "title": "Coding Agents Comparison: Cursor, Claude Code, GitHub Copilot, and more",
+          "url": "https://artificialanalysis.ai/agents/coding",
+          "source": "Artificial Analysis"
+        },
+        {
+          "title": "GitHub Copilot is moving to usage-based billing",
+          "url": "https://github.com/orgs/community/discussions/192948",
+          "source": "GitHub Community"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Coding assistant rankings hold steady on Mother's Day weekend, and the GitHub Copilot June 1 billing transition is still the dominant story shaping purchase decisions. Claude Code with Opus 4.7 keeps the top spot because the SWE-bench Pro 64.3 percent score remains unmatched, the one million token context option means whole-codebase refactors now run in a single session, and the Max tier pricing is fully justified for any senior engineer doing weekly architectural work. Cursor stays at second because Composer 2 plus parallel agents is genuinely the most efficient daily editor on the market, and the Q1 2026 developer survey numbers continue to show resistance from the two-tool stack pattern that everyone I talk to is running. GitHub Copilot at third is defending its position with the largest user base by far, 15 million developers across every major IDE, but the usage-based billing flip in three weeks is what I expect to see eat into market share through summer. OpenAI Codex at fourth is the most interesting watch story because the agentic capability score keeps creeping up week over week. Google Jules at fifth holds steady on long context and CI integration. Devin at sixth is increasingly a specialty tool for autonomous task running rather than a daily driver. The mid-tier from Amazon Q to Augment Code stays stable. The Mother's Day weekend recommendation is unchanged from last week: Claude Code Max plus Cursor is the dominant stack, and add a third tool only when you feel a specific gap.",
+          "highlights": [
+            {
+              "title": "Claude Code Opus 4.7 keeps the crown",
+              "body": "SWE-bench Pro 64.3 percent stays the high water mark, and the one million context option turns whole-codebase work into a single session task."
+            },
+            {
+              "title": "Cursor is the daily editor of record",
+              "body": "Composer 2 and parallel agents make this the most efficient typing surface for senior engineers. The two-tool stack with Claude Code is the dominant pattern."
+            },
+            {
+              "title": "Copilot's June 1 billing change still drives the story",
+              "body": "Three weeks until usage-based billing replaces the request quota. Price-sensitive teams are already lining up alternatives. Capability is fine, the cost uncertainty is the issue."
+            },
+            {
+              "title": "OpenAI Codex is the watch story this month",
+              "body": "Agentic capability score keeps creeping up week over week. Worth a free trial if you have not run it recently."
+            },
+            {
+              "title": "Mid-tier is stable enough to skip until Q3",
+              "body": "Amazon Q, Zed, Aider, Windsurf, Augment Code, all stable. Revisit the slate in late July when summer model releases land."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "母親節週末 AI 寫程式工具排名繼續鎖死，GitHub Copilot 6 月 1 日改用量計費這件事還是主導購買決策的最大新聞。Claude Code 配 Opus 4.7 守第一，SWE-bench Pro 64.3% 還沒有人追上，100 萬 token 上下文讓整個 codebase 的重構可以在一個 session 裡跑完，資深工程師每週都要做架構級工作的話，Max 方案的價錢完全值得。Cursor 第二位置穩，Composer 2 加平行代理是目前市面上最有效率的日常編輯介面，2026 Q1 開發者調查的數字也持續支持雙工具組合的使用模式，我認識的工程師幾乎都是這樣配置。GitHub Copilot 第三靠它最大規模的用戶基礎守住，1500 萬開發者橫跨所有主流 IDE，但 6 月那個用量計費上線後，整個夏天市佔率會被吃掉一塊。OpenAI Codex 第四是這個月最值得觀察的對象，代理能力分數每週都在往上走。Google Jules 第五守長上下文跟 CI 整合的位置。Devin 第六越來越像專門跑自主任務的特殊工具，當日常工具用會浪費。中段從 Amazon Q 到 Augment Code 都很穩。母親節週末建議跟上週一樣：Claude Code Max 加 Cursor 是主流組合，真的感覺到缺口才加第三個工具。坦白說這個品類沒新東西的時候排名動不了，等夏天新模型出來再評估。",
+          "highlights": [
+            {
+              "title": "Claude Code Opus 4.7 王座未動",
+              "body": "SWE-bench Pro 64.3% 還沒人追上，100 萬 token 上下文把整個 codebase 工作壓到一個 session 完成。"
+            },
+            {
+              "title": "Cursor 是日常編輯首選",
+              "body": "Composer 2 加平行代理是資深工程師最有效率的編輯介面，雙工具組合跟 Claude Code 配是主流。"
+            },
+            {
+              "title": "Copilot 6 月計費仍是主線",
+              "body": "三週後用量計費就上線，價格敏感的團隊已經在找替代方案。能力沒問題，價格不確定才是麻煩。"
+            },
+            {
+              "title": "OpenAI Codex 本月觀察重點",
+              "body": "代理能力分數每週都在往上走，最近沒試過的話值得開個免費試用看看。"
+            },
+            {
+              "title": "中段穩定到可以暫不評估",
+              "body": "Amazon Q、Zed、Aider、Windsurf、Augment Code 都穩。七月底夏天新模型出來再回頭看就好。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
