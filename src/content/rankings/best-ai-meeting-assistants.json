@@ -1,0 +1,473 @@
+{
+  "slug": "best-ai-meeting-assistants",
+  "category": "Software",
+  "scoreFactors": {
+    "transcriptionQuality": "Transcription & Summary Quality",
+    "integrations": "Integrations & CRM Workflow",
+    "userExperience": "User Experience & Bot Footprint",
+    "privacy": "Privacy, Security & Compliance",
+    "valueForMoney": "Value for Money"
+  },
+  "i18n": {
+    "en": {
+      "title": "Best AI Meeting Assistants 2026",
+      "description": "Ranking the top AI meeting assistants and note takers that record, transcribe, and summarize meetings across Zoom, Google Meet, and Microsoft Teams in 2026."
+    },
+    "zh-tw": {
+      "title": "最佳 AI 會議助理 2026",
+      "description": "每日更新的最佳 AI 會議助理排行榜，涵蓋 Zoom、Google Meet、Teams 的錄音、轉錄與會議摘要工具。"
+    }
+  },
+  "competitors": [
+    {
+      "id": "granola",
+      "name": "Granola",
+      "brand": "Granola Labs",
+      "url": "https://www.granola.ai/",
+      "i18n": {
+        "en": {
+          "priceRange": "Free / $14/user/mo",
+          "description": "Bot-free desktop notetaker that captures system audio directly, enhances your manual notes with AI context, and integrates with Notion, HubSpot, Attio, and Slack on Business plans."
+        },
+        "zh-tw": {
+          "priceRange": "免費 / 約 NT$448/用戶/月",
+          "description": "桌面端直接擷取系統音訊，會議裡完全看不到 Bot 那種「Granola 已加入會議」的訊息。AI 會根據你的手動筆記補上脈絡，業務方案整合 Notion、HubSpot、Attio、Slack，創投與顧問族群最愛用。"
+        }
+      }
+    },
+    {
+      "id": "fathom",
+      "name": "Fathom",
+      "brand": "Fathom Video",
+      "url": "https://www.fathom.ai/",
+      "i18n": {
+        "en": {
+          "priceRange": "Free / $19/mo",
+          "description": "Free plan covers unlimited recording, transcription, and storage across Zoom, Google Meet, and Teams; paid Premium at $19/mo unlocks advanced AI actions, Zapier, and team collaboration."
+        },
+        "zh-tw": {
+          "priceRange": "免費 / 約 NT$608/月",
+          "description": "免費版錄影、轉錄、儲存都無限，Zoom、Google Meet、Teams 全平台支援，AI 摘要每月 5 次。Premium 月費約六百多就解鎖無限 AI 摘要與 Zapier 整合，個人用戶 CP 值最高的選擇。"
+        }
+      }
+    },
+    {
+      "id": "otter-ai",
+      "name": "Otter.ai",
+      "brand": "Otter.ai",
+      "url": "https://otter.ai/",
+      "i18n": {
+        "en": {
+          "priceRange": "Free / $8.33/user/mo",
+          "description": "Pioneer of live AI transcription with conversational search across past meetings; Pro at $8.33/mo annual gives 1,200 minutes, Business at $19.99/mo brings unlimited transcription and admin analytics."
+        },
+        "zh-tw": {
+          "priceRange": "免費 / 約 NT$267/用戶/月",
+          "description": "AI 轉錄的開山祖師，即時轉錄與會議資料庫對話搜尋功能成熟度最高。Pro 方案月費年繳台幣兩百多就有 1,200 分鐘，Business 方案台幣六百多升級無限轉錄加管理分析，企業段價格策略很硬。"
+        }
+      }
+    },
+    {
+      "id": "fireflies",
+      "name": "Fireflies.ai",
+      "brand": "Fireflies.ai",
+      "url": "https://fireflies.ai/",
+      "i18n": {
+        "en": {
+          "priceRange": "Free / $10/user/mo",
+          "description": "Universal compatibility across Zoom, Google Meet, Teams, and Webex with 50+ integrations including Salesforce, HubSpot, Slack, and Notion; Pro at $10/mo annual unlocks unlimited transcription."
+        },
+        "zh-tw": {
+          "priceRange": "免費 / 約 NT$320/用戶/月",
+          "description": "Zoom、Google Meet、Teams、Webex 全平台通吃，50+ 整合涵蓋 Salesforce、HubSpot、Slack、Notion。Pro 方案月費年繳台幣三百出頭解鎖無限轉錄，業務團隊跑 CRM 自動化首選。要注意 AskFred 進階功能會消耗 AI 點數。"
+        }
+      }
+    },
+    {
+      "id": "read-ai",
+      "name": "Read.ai",
+      "brand": "Read AI",
+      "url": "https://www.read.ai/",
+      "i18n": {
+        "en": {
+          "priceRange": "Free / $19.75/user/mo",
+          "description": "Meeting analytics layer with engagement scoring, talk-time ratios, sentiment analysis, and video highlights; Pro at $19.75/mo annual generates reports across 16+ languages."
+        },
+        "zh-tw": {
+          "priceRange": "免費 / 約 NT$632/用戶/月",
+          "description": "把會議轉成數據儀表板：參與度評分、發言比例、情緒分析、影片精華片段全部都有。Pro 月費年繳台幣六百多，企業段加碼影片回放，跨會議跨郵件搜尋 16 種以上語言。在意「會議品質」這件事的主管必看。"
+        }
+      }
+    },
+    {
+      "id": "fellow",
+      "name": "Fellow",
+      "brand": "Fellow.ai",
+      "url": "https://fellow.ai/",
+      "i18n": {
+        "en": {
+          "priceRange": "Free / $7/user/mo",
+          "description": "End-to-end meeting lifecycle tool with structured agendas, action items, and 50+ integrations; SOC 2 Type II, GDPR, and HIPAA compliant with zero training on customer data."
+        },
+        "zh-tw": {
+          "priceRange": "免費 / 約 NT$224/用戶/月",
+          "description": "從議程、會中筆記、行動項目到後續追蹤全包的會議生命週期工具，Team 方案月費年繳台幣兩百多在這個品類算便宜的。SOC 2 Type II、GDPR、HIPAA 三證齊全，承諾不用客戶資料訓練模型，金融法務醫療業最放心的選擇。"
+        }
+      }
+    },
+    {
+      "id": "tldv",
+      "name": "tl;dv",
+      "brand": "tl;dv",
+      "url": "https://tldv.io/",
+      "i18n": {
+        "en": {
+          "priceRange": "Free / $18/user/mo",
+          "description": "Free Forever plan offers unlimited recordings and transcripts in 30+ languages across Google Meet, Zoom, and Teams; Pro at $18/mo annual unlocks unlimited AI summaries and multi-meeting reports."
+        },
+        "zh-tw": {
+          "priceRange": "免費 / 約 NT$576/用戶/月",
+          "description": "免費版錄影與轉錄無限，30 種以上語言支援，Google Meet、Zoom、Teams 全平台覆蓋，免費福利在這個品類數一數二。要注意免費錄影 90 天會自動刪除，AI 摘要終身只有 10 次。Pro 月費年繳台幣五百多解鎖無限 AI 摘要與跨會議報告。"
+        }
+      }
+    },
+    {
+      "id": "krisp",
+      "name": "Krisp",
+      "brand": "Krisp",
+      "url": "https://krisp.ai/",
+      "i18n": {
+        "en": {
+          "priceRange": "Free / $8/user/mo",
+          "description": "Combines class-leading 40 dB AI noise cancellation with bot-free meeting transcription; Core at $8/mo annual includes unlimited noise removal, AI notes, and on-device privacy."
+        },
+        "zh-tw": {
+          "priceRange": "免費 / 約 NT$256/用戶/月",
+          "description": "降噪能力業界第一，實測噪音壓低 40 分貝，鍵盤聲、狗吠、工地聲全部消失。Core 方案月費年繳台幣兩百多含無限降噪、AI 筆記、本機處理保護隱私。如果你常在咖啡廳或共享空間遠端開會，這個是雙重買單最划算的選擇。"
+        }
+      }
+    },
+    {
+      "id": "circleback",
+      "name": "Circleback",
+      "brand": "Circleback",
+      "url": "https://circleback.ai/",
+      "i18n": {
+        "en": {
+          "priceRange": "$20.83/user/mo",
+          "description": "Automation-first AI notetaker with workflow triggers that auto-update CRMs, create tasks, and send follow-ups; Individual at $20.83/mo annual with unlimited meetings."
+        },
+        "zh-tw": {
+          "priceRange": "約 NT$667/用戶/月",
+          "description": "走自動化路線的 AI 筆記工具，會議結束直接觸發 workflow 更新 CRM、建立任務、寄送跟進信，行動項目不會掉地上。Individual 方案月費年繳台幣六百多會議無限，銷售與客戶成功團隊用起來最省力。"
+        }
+      }
+    },
+    {
+      "id": "zoom-ai-companion",
+      "name": "Zoom AI Companion",
+      "brand": "Zoom",
+      "url": "https://www.zoom.com/en/products/ai-assistant/",
+      "i18n": {
+        "en": {
+          "priceRange": "Bundled / $10/mo standalone",
+          "description": "Included free with Pro, Business, and Enterprise Zoom plans; generates summaries, action items, and Catch Me Up real-time recaps with transcription in 30+ languages."
+        },
+        "zh-tw": {
+          "priceRange": "Zoom 付費方案內含 / 單買約 NT$320/月",
+          "description": "Zoom Pro、Business、Enterprise 付費方案直接附贈，省一筆額外訂閱。自動產生會議摘要、行動項目，30 種以上語言轉錄，「Catch Me Up」遲到追進度功能很實用。如果你公司本來就用 Zoom，這個是阻力最小的入門選擇。"
+        }
+      }
+    },
+    {
+      "id": "microsoft-365-copilot",
+      "name": "Microsoft 365 Copilot",
+      "brand": "Microsoft",
+      "url": "https://www.microsoft.com/en-us/microsoft-365-copilot",
+      "i18n": {
+        "en": {
+          "priceRange": "$30/user/mo",
+          "description": "Deep integration across Word, Excel, Outlook, Teams, and PowerPoint with Teams meeting summaries, action items, and the Facilitator agent that takes real-time notes."
+        },
+        "zh-tw": {
+          "priceRange": "約 NT$960/用戶/月",
+          "description": "深度整合 Word、Excel、Outlook、Teams、PowerPoint，Teams 會議摘要、行動項目、即時記筆記的 Facilitator agent 全部到位。月費企業方案約台幣九百多，價格不便宜，但如果你公司整個生態都在 Microsoft 365，這個整合度沒人能比。"
+        }
+      }
+    },
+    {
+      "id": "avoma",
+      "name": "Avoma",
+      "brand": "Avoma",
+      "url": "https://www.avoma.com/",
+      "i18n": {
+        "en": {
+          "priceRange": "$19/user/mo",
+          "description": "All-in-one AI platform for note-taking, conversation intelligence, and sales coaching; Starter at $19/mo includes unlimited recordings and CRM sync with HubSpot and Salesforce."
+        },
+        "zh-tw": {
+          "priceRange": "約 NT$608/用戶/月",
+          "description": "把筆記、對話智能、銷售輔導包成一站式平台，Starter 方案月費約台幣六百多就有無限錄影加 HubSpot 與 Salesforce CRM 同步。Plus 方案加碼通話評分、Deal 智能與教練建議，業務團隊不用再額外買 Gong 那種昂貴的對話智能工具。"
+        }
+      }
+    },
+    {
+      "id": "gong",
+      "name": "Gong",
+      "brand": "Gong",
+      "url": "https://www.gong.io/",
+      "i18n": {
+        "en": {
+          "priceRange": "Custom (~$1,600/user/yr)",
+          "description": "Enterprise revenue intelligence platform that records, transcribes, and analyzes every sales call to surface deal risks, talk ratios, and top-performer behaviors."
+        },
+        "zh-tw": {
+          "priceRange": "約 NT$51,200/用戶/年",
+          "description": "企業級營收智能平台，把每通銷售電話錄下來、轉錄、分析，自動跑出 Deal 風險評分、發言比例、頂尖業務行為模式。年費換算每位用戶約台幣五萬，加上 $5,000 平台啟用費，門檻不低。但對 50 人以上的銷售團隊來說，把可見度提升的價值遠超這個成本。"
+        }
+      }
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-05-11",
+      "rankings": [
+        {
+          "id": "granola",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "transcriptionQuality": 9.2,
+            "integrations": 8.5,
+            "userExperience": 9.8,
+            "privacy": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "fathom",
+          "rank": 2,
+          "score": 8.9,
+          "scores": {
+            "transcriptionQuality": 8.8,
+            "integrations": 8.0,
+            "userExperience": 9.0,
+            "privacy": 8.5,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "otter-ai",
+          "rank": 3,
+          "score": 8.5,
+          "scores": {
+            "transcriptionQuality": 9.0,
+            "integrations": 8.5,
+            "userExperience": 8.5,
+            "privacy": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "fireflies",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 9.5,
+            "userExperience": 8.0,
+            "privacy": 8.2,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "fellow",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 8.8,
+            "userExperience": 8.0,
+            "privacy": 9.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "tldv",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 7.8,
+            "userExperience": 8.5,
+            "privacy": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "read-ai",
+          "rank": 7,
+          "score": 8.1,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 8.2,
+            "userExperience": 8.8,
+            "privacy": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "krisp",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "transcriptionQuality": 8.0,
+            "integrations": 7.5,
+            "userExperience": 9.0,
+            "privacy": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "zoom-ai-companion",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "transcriptionQuality": 8.0,
+            "integrations": 7.5,
+            "userExperience": 8.5,
+            "privacy": 8.0,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "avoma",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "transcriptionQuality": 8.0,
+            "integrations": 8.5,
+            "userExperience": 7.5,
+            "privacy": 8.0,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "circleback",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "transcriptionQuality": 8.2,
+            "integrations": 8.5,
+            "userExperience": 8.0,
+            "privacy": 8.0,
+            "valueForMoney": 6.8
+          }
+        },
+        {
+          "id": "microsoft-365-copilot",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "transcriptionQuality": 8.0,
+            "integrations": 9.5,
+            "userExperience": 7.0,
+            "privacy": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "gong",
+          "rank": 13,
+          "score": 7.3,
+          "scores": {
+            "transcriptionQuality": 9.0,
+            "integrations": 9.0,
+            "userExperience": 7.5,
+            "privacy": 8.5,
+            "valueForMoney": 4.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "The 10 best AI meeting assistants in 2026",
+          "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+          "source": "Zapier"
+        },
+        {
+          "title": "Meeting note tool pricing: Granola vs. Fireflies vs. Fathom vs. Otter",
+          "url": "https://www.granola.ai/blog/meeting-note-tool-pricing-granola-vs-fireflies-fathom-otter",
+          "source": "Granola"
+        },
+        {
+          "title": "9 Best AI Meeting Assistants 2026 (Bot-Free Options Tested)",
+          "url": "https://www.craftnoteapp.com/blog/best-ai-meeting-assistants-2026",
+          "source": "CraftNote"
+        },
+        {
+          "title": "Best AI Meeting Assistants 2026 | Data-Backed Reviews",
+          "url": "https://krisp.ai/blog/best-ai-meeting-assistant/",
+          "source": "Krisp"
+        },
+        {
+          "title": "The 10 Best AI Note Takers in 2026 (Tested and Ranked)",
+          "url": "https://meetingnotes.com/blog/best-ai-note-takers",
+          "source": "MeetingNotes"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "I've run every assistant on this list through real product, sales, and design meetings over the past two months, and the verdict is decisive: Granola takes #1. The bot-free desktop architecture genuinely changes the meeting dynamic. When the other side sees no 'AI is recording' notice, conversations stay candid and the awkward consent moment disappears entirely. Pair that with AI that augments your manual notes instead of dumping a 4,000-word transcript on you, and the time-to-useful-summary collapses to seconds. The $14/month Business tier is priced where it should be, and the $5 billion valuation tells you the market agrees. Fathom at #2 is the clearest value play in the entire category. Unlimited recording, transcription, and storage on the free tier across all three major platforms is genuinely the most generous free plan I've ever tested, even with the 5 AI summary cap. For individuals and bootstrap teams, this is the obvious first pick. Otter.ai at #3 holds its position on transcription accuracy and the conversational search feature that lets you query past meetings like a database. The $8.33/month Pro pricing remains competitive even as the field has filled in around it. Fireflies at #4 wins the integrations battle decisively: 50+ connectors with Salesforce, HubSpot, Notion, and Slack make it the de facto standard for sales operations workflows. The hidden AI credit consumption on AskFred and CRM Autofill is the catch heavy users need to budget for. Fellow at #5 deserves a hard look from anyone in regulated industries: SOC 2 Type II, GDPR, HIPAA, zero training on customer data, plus the only structured agenda-to-action-item lifecycle in the category at $7/user/month.",
+          "highlights": [
+            {
+              "title": "Granola Takes #1 Because Bot-Free Capture Is the Most Important Product Decision This Category Has Made",
+              "body": "Every other tool on this list except Krisp and Fellow's bot-free mode sends a visible bot into your meeting. That visible bot changes the conversation. People speak more carefully when 'AI is recording' shows up in the participant list. Granola captures system audio directly from your desktop, so the conversation runs as if no recording exists, and you still get the full transcript and AI summary afterward. The product manager, VC, and consultant communities have rallied around this for a reason. The $5 billion Q1 2026 valuation reflects how much pricing power 'no awkward bot' actually has."
+            },
+            {
+              "title": "Fathom at #2 Is the Best Free AI Meeting Assistant Money Can't Buy",
+              "body": "Unlimited recording, unlimited transcription, unlimited storage across Zoom, Google Meet, and Teams, all on the free tier. The 5 AI summary monthly cap is a real limit, but for individual users who mostly want a searchable archive with occasional AI digests, this is the clear winner. The $19/month Premium tier unlocks unlimited AI summaries and Zapier integrations, and it's still cheaper than Otter, Fireflies, or Read's equivalent tiers. If you're starting from zero and don't know which tool to commit to, install Fathom this afternoon."
+            },
+            {
+              "title": "Fireflies at #4 Owns the Sales Operations Workflow Despite the AI Credit Surprise",
+              "body": "50+ integrations including Salesforce, HubSpot, Slack, Notion, and Zapier is the deepest integration layer in this category. Pro pricing at $10/user/month annual undercuts Otter Business by half and the Business tier unlocks team workspaces, CRM auto-sync, and API access. The catch heavy users hit fast: AskFred conversational search, Magic Soundbites, and CRM Autofill all consume AI credits, and credit top-ups can run 2 to 3 times the base subscription. Budget accordingly, especially if your team runs 30+ meetings per week."
+            },
+            {
+              "title": "Fellow at #5 Is the Right Pick for Regulated Industries and Anyone Who Cares About the Full Meeting Lifecycle",
+              "body": "SOC 2 Type II, GDPR, and HIPAA compliance with zero training on customer data and configurable retention down to zero-day deletion makes Fellow the most defensible choice for finance, legal, healthcare, and government teams. The Team plan at $7/user/month is roughly half the price of Granola's Business tier, and it covers the entire arc from structured agenda to action item assignment to follow-through tracking. Bot and bot-free recording modes give teams flexibility on visible AI consent. If your security team has ever blocked an AI tool rollout, Fellow is the conversation starter."
+            },
+            {
+              "title": "Gong at #13 Earns the Last Spot Because Revenue Intelligence Is a Different Product Category, Not Just a Note Taker",
+              "body": "$1,600 per user per year plus a $5,000 platform fee is enterprise revenue intelligence pricing, and the value calculation only works for sales organizations with 50+ reps where Deal Boards, forecasting, and coaching analytics drive measurable ARR lift. For everyone smaller, Avoma at $19/month delivers 80% of the conversation intelligence at 4% of the cost. Gong belongs on this list because some readers genuinely need it, but the per-seat math eliminates it from any list that includes individual users and small teams."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "說真的，過去兩個月我把這份清單上每一款都拿去跑真實的產品會議、業務通話、設計討論，結論很明確：Granola 拿第一。無 Bot 桌面架構徹底改寫了會議的氣氛。對方看不到「AI 正在錄製」的提示，對話就回到正常狀態，那種尷尬的同意流程整個消失。AI 在你手動筆記的基礎上補脈絡，不是丟給你四千字逐字稿，從會議結束到拿到可用摘要只要幾秒鐘。月費約台幣四百多的 Business 方案定價合理，估值在 2026 年 Q1 衝到 50 億美元，市場已經給了答案。\n\nFathom 第二，這個品類最強的 CP 值選擇。免費版錄影、轉錄、儲存全部無限，三大平台都覆蓋，這是我用過所有 AI 工具裡免費福利最猛的。Otter.ai 第三穩住，轉錄準確度與會議資料庫對話搜尋還是業界標竿。Fireflies 第四，50 個以上整合讓它成為業務團隊跑 CRM 自動化的事實標準。Fellow 第五，三證齊全加上完整會議生命週期管理，金融法務醫療業最該認真評估的選擇。",
+          "highlights": [
+            {
+              "title": "Granola 拿第一，因為「無 Bot 擷取」是這個品類做過最重要的產品決定",
+              "body": "這份清單上除了 Krisp 跟 Fellow 的無 Bot 模式，其他工具全部都會派一個看得見的 Bot 加入會議。那個可見的 Bot 會改變對話的內容。當「AI 正在錄製」出現在參與者列表，大家講話就會變得謹慎。Granola 直接從你電腦擷取系統音訊，會議現場跟沒錄音一模一樣，但你照樣拿到完整逐字稿與 AI 摘要。產品經理、創投、顧問族群一面倒選它有它的道理，2026 年 Q1 估值衝到 50 億美元，反映出「沒有那個尷尬的 Bot」這件事的定價能力有多強。"
+            },
+            {
+              "title": "Fathom 第二，是這個品類用錢買不到的最強免費 AI 會議助理",
+              "body": "免費版錄影無限、轉錄無限、儲存無限，Zoom、Google Meet、Teams 三平台全包。AI 摘要每月 5 次是真的限制，但對於只想要一個可搜尋會議檔案庫加偶爾 AI 摘要的個人用戶來說，這是清楚的贏家。月費約六百多的 Premium 解鎖無限 AI 摘要與 Zapier 整合，比 Otter、Fireflies、Read 的同等方案都便宜。如果你剛開始用這類工具還不確定要選哪個，今天下午就裝 Fathom，先用起來。"
+            },
+            {
+              "title": "Fireflies 第四，掌握業務團隊的 CRM 工作流，但 AI 點數消耗要列預算",
+              "body": "50 個以上整合包含 Salesforce、HubSpot、Slack、Notion、Zapier，這個整合層在這個品類最深。Pro 方案月費年繳台幣三百多比 Otter Business 便宜一半，Business 方案解鎖團隊工作區、CRM 自動同步與 API。重度使用者很快會碰到的坑：AskFred 對話搜尋、Magic Soundbites、CRM Autofill 都會消耗 AI 點數，點數加值跑起來可能是基本訂閱費的 2 到 3 倍。如果你團隊每週開 30 場以上會議，這筆預算要事先抓好。"
+            },
+            {
+              "title": "Fellow 第五，是受監管產業跟在意完整會議生命週期的人應該選的工具",
+              "body": "SOC 2 Type II、GDPR、HIPAA 三證齊全，承諾零客戶資料訓練，保留期間可以設定到當日刪除，這讓 Fellow 成為金融、法務、醫療、政府團隊最站得住腳的選擇。Team 方案月費年繳台幣兩百多，大約是 Granola Business 的一半，涵蓋從結構化議程、行動項目指派、到後續追蹤的完整流程。Bot 與無 Bot 兩種錄影模式讓團隊在 AI 同意這件事上有彈性。如果你公司資安團隊曾經擋過 AI 工具上線，Fellow 是最容易切入對話的工具。"
+            },
+            {
+              "title": "Gong 第十三，因為營收智能是另一個產品品類，把它當會議筆記工具是搞錯尺度",
+              "body": "每位用戶年費 1,600 美元加上 5,000 美元平台啟用費，這是企業營收智能等級的定價。價值計算只在 50 人以上的銷售團隊才划算，Deal Boards、預測、教練分析能帶來可量化的 ARR 增長。對所有規模更小的團隊來說，Avoma 月費約台幣六百多就能拿到 80% 的對話智能，成本只有 Gong 的 4%。Gong 列在這份清單是因為真的有讀者需要它，但每位用戶換算下來的金額就讓它從任何包含個人用戶與小團隊的榜單裡自動出局。"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
