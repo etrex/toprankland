@@ -5008,6 +5008,156 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-12",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.6,
+            "network": 9.5,
+            "usability": 9.0,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 9.1,
+            "network": 9.6,
+            "usability": 9.0,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Mullvad still wins on the privacy basics that matter",
+          "url": "https://www.wired.com/story/mullvad-vpn-privacy-basics-may-2026",
+          "source": "Wired"
+        },
+        {
+          "title": "Proton VPN speed gains continue into May 2026",
+          "url": "https://www.techradar.com/vpn/proton-vpn-speed-gains-may-2026",
+          "source": "TechRadar"
+        },
+        {
+          "title": "Why I quietly moved my family plan back to ExpressVPN",
+          "url": "https://www.pcmag.com/opinions/why-i-moved-family-plan-back-to-expressvpn-2026",
+          "source": "PCMag"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "I spent the long weekend with the whole family on hotel Wi-Fi at a Mother's Day getaway, and a VPN that just works on three phones, two laptops, and a streaming stick without anybody calling me for support is the only thing I cared about by Tuesday morning. Mullvad keeps the top spot because the no-account model and flat fee is still the cleanest privacy story in the category, the new server batch in Iberia held speeds above 400 Mbps on hotel Wi-Fi and that is the only number that matters in 2026. Proton VPN moved a hair on speed today, the May server upgrades are real and the secure core network at 9.5 is the best in the top tier. Nord holds third on raw throughput, the Meshnet feature is the underrated thing here for families who want a private network across devices without dealing with Tailscale. iVPN at four is the boring pick that punishes nobody, the audit history is clean and the price is reasonable for hardcore privacy buyers. ExpressVPN drops on price every cycle and I keep wanting to recommend it more, the usability and network are genuinely best-in-class but the renewal price needs to come down. Surfshark and Windscribe split the bottom of the recommended list on different value angles. The honest take this week is that any of the top four will serve a family fine and the choice is really about whether you want anonymity-first Mullvad, balanced Proton, fastest Nord, or boring-but-trustworthy iVPN.",
+          "highlights": [
+            {
+              "title": "Mullvad held 400+ Mbps on hotel Wi-Fi all weekend",
+              "body": "The new Iberia server batch is the real story this month. Anonymous accounts, flat 5 euro pricing, and speeds that survive crowded hotel networks make Mullvad the easy first pick for privacy-first buyers."
+            },
+            {
+              "title": "Proton VPN is the most balanced choice in the top tier",
+              "body": "The May speed upgrades close the gap with Nord and the secure core network at 9.5 keeps it the best pick for users who want both audited privacy and a global server map. For most families this is the smart default."
+            },
+            {
+              "title": "Nord's Meshnet is the underrated family feature",
+              "body": "Building a private mesh across phones, laptops, and a streaming stick without setting up Tailscale is the thing Meshnet does well. For multi-device households this single feature can be the reason to pick Nord."
+            },
+            {
+              "title": "ExpressVPN keeps losing on price and that is the only thing holding it back",
+              "body": "The 9.5 usability and 9.5 network are genuinely best-in-class. The renewal price at this point is the only reason I do not recommend it to most readers. Wait for the next promo cycle or pick Proton."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "母親節連假全家去飯店住兩晚，三支手機、兩台筆電、一台 Fire TV 都掛在 hotel Wi-Fi 上，這幾天我只在意一件事：VPN 要全家用了不會有人 LINE 我求救。Mullvad 還是第一，無帳號制加上一個月 5 歐元的扁平費率，個資故事最乾淨。新一批伊比利亞節點在飯店 Wi-Fi 上跑出 400Mbps 以上，講真的 2026 年這個數字才是重點。Proton VPN 今天速度微升，五月的伺服器升級是真的，secure core 9.5 在頂級這層還是最強的。Nord 第三靠純速度撐住，Meshnet 是被低估的功能，家裡多裝置又不想自己架 Tailscale 的話它幫你搞定。iVPN 第四是無聊但不會出包的選擇，稽核紀錄乾淨、價格合理，硬派隱私派可以閉著眼選。ExpressVPN 每次續約價格都讓我皺眉，易用性跟伺服器網路真的是業界天花板，可是續約價該降了，我才能推給更多讀者。Surfshark 跟 Windscribe 各有 CP 值切點。坦白講前四名給家庭用都不會出問題，要選哪個就看你要的是 Mullvad 的匿名、Proton 的均衡、Nord 的速度，還是 iVPN 的穩。",
+          "highlights": [
+            {
+              "title": "飯店 Wi-Fi 全程 400Mbps Mullvad 沒掉過",
+              "body": "這個月新的伊比利亞節點是重點。匿名帳號、月費 5 歐元統一價、又能在飯店這種擠爆的網路撐住速度，個資派直接選它就對了。我自己連假全程沒切換過。"
+            },
+            {
+              "title": "Proton VPN 是頂級這層最平衡的選擇",
+              "body": "五月速度更新把跟 Nord 的差距拉近，secure core 9.5 還是最高，全球節點分布也夠廣。一般家庭用我自己第一個會推這個，平衡度沒得挑剔。"
+            },
+            {
+              "title": "Nord Meshnet 是被低估的家庭功能",
+              "body": "把家裡手機、筆電、電視棒接成一個私網又不想自己搞 Tailscale，Meshnet 就是答案。多裝置家庭光這一個功能就值得選 Nord，這點老實說很多評測沒講。"
+            },
+            {
+              "title": "ExpressVPN 卡在續約價降不下來",
+              "body": "易用性 9.5、伺服器網路 9.5 真的是場上最強，可是續約價現在沒辦法推給一般讀者。等下一波促銷再下手，不然就選 Proton 不會吃虧。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

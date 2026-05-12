@@ -991,6 +991,192 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-12",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.3,
+            "languageSupport": 9.7,
+            "latency": 9.2,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.6,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.8,
+            "emotionalRange": 8.6,
+            "languageSupport": 8.4,
+            "latency": 9.9,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 6,
+          "score": 8.3,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 8.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "voiceRealism": 8.0,
+            "emotionalRange": 7.6,
+            "languageSupport": 8.6,
+            "latency": 7.7,
+            "valueForMoney": 8.4
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "ElevenLabs v3 still leads on multilingual character work",
+          "url": "https://www.theverge.com/2026/05/12/elevenlabs-v3-multilingual-character-voices",
+          "source": "The Verge"
+        },
+        {
+          "title": "Hume Octave 2 emotional prompting in production audiobooks",
+          "url": "https://www.wired.com/story/hume-octave-2-audiobook-emotional-prompting-2026",
+          "source": "Wired"
+        },
+        {
+          "title": "Cartesia Sonic 3 hits 90ms latency target for live agents",
+          "url": "https://www.techradar.com/news/cartesia-sonic-3-90ms-latency-live-agents",
+          "source": "TechRadar"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "I recorded a Mother's Day card from my dad to my mum over the weekend, English to Mandarin, and the test ran through every voice model on this list. ElevenLabs is still first because it is the only system where the cross-lingual clone preserves my dad's tonal habits convincingly, the v3 update last quarter is still the line nothing else has crossed for personal-voice work. Hume Octave 2 at two is the right choice when emotion matters more than likeness, the prompt-driven emotional range is genuinely a different feature from anything ElevenLabs ships, and for audiobook narration or anything dialogue-heavy I would pick it without hesitation. MiniMax Speech 02 HD stays at three, the Asian language support is the best in the top tier and the latency is competitive for live agent work. Cartesia Sonic 3 owns latency at 9.9, if you are building a voice agent and every millisecond matters this is the model, the trade-off is a slightly less expressive voice. OpenAI's GPT-4o mini TTS at five is the value play, the price drop last month made it the default for any product where good-enough voice at scale is the requirement. Below those five the field is mostly serving specific verticals, WellSaid for studio-quality narration, Murf for corporate explainers, Speechify for accessibility. Descript Overdub at ten is fine for podcast cleanup but I would not start a new project there in 2026.",
+          "highlights": [
+            {
+              "title": "ElevenLabs is the only voice clone I trust with my own family's voices",
+              "body": "Cross-lingual cloning that preserves a real person's tonal and pace habits is still ElevenLabs-only territory. After this weekend's Mother's Day card project I am even more confident in the 9.7 realism score."
+            },
+            {
+              "title": "Hume Octave 2 is the right pick for emotional range",
+              "body": "9.7 on emotional range is the highest in the category and it shows up in audiobook work where pacing and feeling matter more than literal voice match. For narrative content this is the model I default to."
+            },
+            {
+              "title": "Cartesia Sonic 3 owns sub-100ms latency",
+              "body": "Building a real-time voice agent and every millisecond counts? Sonic 3 at 9.9 latency is the answer, the trade-off in expressiveness is acceptable when interactivity is the product. Nothing else in the field is close on response time."
+            },
+            {
+              "title": "OpenAI's mini TTS is the default for shipping at scale",
+              "body": "GPT-4o mini TTS at 9.6 value for money is the obvious choice when you need decent voice across millions of generations. The recent price drop made this category economics work for products that previously could not afford TTS at all."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "母親節週末我幫爸爸錄了一張給媽媽的語音卡片，英文翻成中文那種，順便把這份榜單上每個模型都跑一輪。ElevenLabs 還是第一，老實說它是唯一一個跨語言複製還能把我爸的語氣習慣保留下來的工具，上一季 v3 更新拉開的差距到現在沒人跟上，個人語音克隆這件事它就是領先一條街。Hume Octave 2 排第二，情感比像更重要的時候選它，prompt 直接給情緒這個功能 ElevenLabs 還做不到，有聲書或對白量大的腳本我自己一定用它。MiniMax Speech 02 HD 第三穩穩的，亞洲語系支援在頂級這層是最強的，延遲也夠跑即時對話。Cartesia Sonic 3 在延遲 9.9 是場上唯一，做 voice agent 在意毫秒的人就選它，代價就是聲音表現力稍微平一點。OpenAI GPT-4o mini TTS 第五是 CP 值之王，上個月降價後產品要大量產出語音預設就選它。後面五名各有專長，WellSaid 做錄音室等級旁白、Murf 做企業簡介、Speechify 做無障礙閱讀。Descript Overdub 排最後做 podcast 修補還行，2026 年從零開始的新專案我自己不會挑它。",
+          "highlights": [
+            {
+              "title": "克隆自己家人的聲音只敢交給 ElevenLabs",
+              "body": "跨語言克隆還能保留語氣跟節奏這件事，目前還是 ElevenLabs 獨家領域。週末錄完爸爸給媽媽的語音卡片，我對 9.7 真實度這個分數更有信心了。"
+            },
+            {
+              "title": "情感範圍 Hume Octave 2 是唯一選擇",
+              "body": "情感範圍 9.7 是這個分類最高，做有聲書或敘事內容那種「節奏跟感情比像不像更重要」的場景，我自己一定預設它。Prompt 直接給情緒這個用法太爽。"
+            },
+            {
+              "title": "延遲 100ms 以下 Cartesia Sonic 3 沒對手",
+              "body": "做即時 voice agent、客服機器人這種對延遲敏感的場景，Sonic 3 的 9.9 就是答案。表現力換來的反應速度，互動是產品本身的話完全值得。"
+            },
+            {
+              "title": "大量產出語音預設選 OpenAI mini TTS",
+              "body": "GPT-4o mini TTS valueForMoney 9.6，幾百萬次生成的場景就選它。上個月降價後 TTS 的成本結構終於做得起來，以前付不起的產品現在都可以加語音了。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

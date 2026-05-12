@@ -1184,6 +1184,192 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-12",
+      "rankings": [
+        {
+          "id": "suno-v5",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "audioQuality": 9.7,
+            "vocalRealism": 9.4,
+            "editingControl": 9.5,
+            "commercialLicense": 7.5,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "elevenlabs-music",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "audioQuality": 9.2,
+            "vocalRealism": 9.7,
+            "editingControl": 8.1,
+            "commercialLicense": 9.6,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "udio",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "audioQuality": 9.6,
+            "vocalRealism": 9.5,
+            "editingControl": 9.7,
+            "commercialLicense": 6.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "audioQuality": 8.8,
+            "vocalRealism": 7.0,
+            "editingControl": 8.5,
+            "commercialLicense": 9.4,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "riffusion",
+          "rank": 5,
+          "score": 8.0,
+          "scores": {
+            "audioQuality": 8.2,
+            "vocalRealism": 7.8,
+            "editingControl": 8.5,
+            "commercialLicense": 8.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "soundraw",
+          "rank": 6,
+          "score": 7.8,
+          "scores": {
+            "audioQuality": 8.0,
+            "vocalRealism": 6.5,
+            "editingControl": 7.5,
+            "commercialLicense": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aiva",
+          "rank": 7,
+          "score": 7.5,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 6.8,
+            "editingControl": 7.8,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "mubert",
+          "rank": 8,
+          "score": 7.3,
+          "scores": {
+            "audioQuality": 7.5,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "loudly",
+          "rank": 9,
+          "score": 7.0,
+          "scores": {
+            "audioQuality": 7.3,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "boomy",
+          "rank": 10,
+          "score": 6.8,
+          "scores": {
+            "audioQuality": 6.8,
+            "vocalRealism": 6.5,
+            "editingControl": 6.8,
+            "commercialLicense": 8.5,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Suno v5 stems unlock a whole new workflow",
+          "url": "https://www.theverge.com/2026/05/12/suno-v5-stems-workflow",
+          "source": "The Verge"
+        },
+        {
+          "title": "ElevenLabs Music keeps shipping commercial-safe tracks",
+          "url": "https://www.wired.com/story/elevenlabs-music-commercial-safe-tracks-2026",
+          "source": "Wired"
+        },
+        {
+          "title": "Stable Audio 2.5 vs Udio for indie game scoring",
+          "url": "https://www.soundguys.com/stable-audio-udio-indie-game-scoring-2026/",
+          "source": "SoundGuys"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "I spent the Mother's Day long weekend writing a birthday song for my mum in Suno v5, then producing a polished version of the same idea in Udio and a cleaner stems-based mix in ElevenLabs Music, and the order on this list comes out of that exercise rather than any spec sheet. Suno is still the one I reach for first because the song just sounds right out of the gate, the bridges are coherent, the mix is loud without being smeared, and the vocal pronounces my Cantonese inflection on the chorus correctly which is honestly the test that matters this week. ElevenLabs Music holds two on the strength of its license terms, the commercial-safe story is real and the vocal realism leads the pack, but the editing controls feel a step behind. Udio keeps its third spot because the stems are gorgeous and the editing is the most musician-friendly on the market, the license terms are still the catch that keeps it from passing ElevenLabs for serious work. Stable Audio 2.5 is the right pick for instrumental loops and game audio, the recent update to the long-form generator finally makes it usable for full cues. Below those four the field is mostly serving niche workflows. Riffusion is a fun toy with a real engine under it, Soundraw is what I quietly recommend to clients who need royalty-free production music yesterday. Boomy at the bottom is harmless but I cannot remember the last time I would have chosen it over anything above.",
+          "highlights": [
+            {
+              "title": "Suno v5 nailed the song I wrote for my mum on the first try",
+              "body": "I gave it a verse, a chorus idea, and a vibe reference. The output was a coherent two-minute song with a usable bridge and clean vocals. Nothing else on this list produces that result in one shot."
+            },
+            {
+              "title": "ElevenLabs Music wins on license terms, which is what professionals actually care about",
+              "body": "The commercial-safe training story is the most defensible in the category and the vocal realism leads the pack at 9.7. If you are publishing music for clients, this is the one that does not get you a takedown notice."
+            },
+            {
+              "title": "Udio has the best editing experience in the category",
+              "body": "Stem separation, regenerate-by-region, and the prompt-aware mixer make Udio feel like a real DAW assistant. The license terms remain the reason it sits at three and not at one for paid work."
+            },
+            {
+              "title": "Stable Audio 2.5 is the right tool for game and ambient cues",
+              "body": "The long-form update closed the gap on extended cue generation. For instrumental loops and ambient beds where vocal realism is irrelevant, this is the most efficient money in the category."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "母親節連假我認真用三個工具寫了同一首給媽媽的生日歌，Suno v5、Udio、ElevenLabs Music 各一輪，這個排名就是這樣跑出來的，不是看 spec 表。Suno 還是第一順位，講真的，一次生成就有完整的橋段、混音夠響但不糊掉，連我哼的廣東腔尾音它都唱得出來。這禮拜對我來說這個測試最有意義。ElevenLabs Music 第二是因為授權條款，commercial-safe 那一塊它是業界最硬的，人聲擬真 9.7 也是場上最高，可是編輯控制真的差一截。Udio 第三沒變，stem 拆得漂亮、可以分段重生成，編輯體驗最像給音樂人用的工具。授權條款就是它沒辦法擠掉 ElevenLabs 的原因，接案的人會在意。Stable Audio 2.5 適合做純樂器跟遊戲配樂，最近 long-form 更新後總算可以拿來做完整 cue。後面幾個比較小眾，Riffusion 是有引擎的玩具，Soundraw 我私下會推薦給急著要免版稅 BGM 的客戶。Boomy 在最後面老實說我自己想不起來什麼時候會選它。",
+          "highlights": [
+            {
+              "title": "Suno v5 一次唱對我寫給媽媽的歌",
+              "body": "我給它一段主歌、一個副歌想法、一個 vibe 參考。它生出兩分鐘有結構、橋段順、人聲乾淨的成品。這個分類裡，一次到位的水準就只有它做得到。"
+            },
+            {
+              "title": "授權條款 ElevenLabs Music 是真的硬",
+              "body": "Commercial-safe 訓練資料的故事是場上最站得住腳的，人聲擬真 9.7 也是最高。接案出版音樂的人選它，至少不會收到下架通知。坦白講這比評分本身重要。"
+            },
+            {
+              "title": "編輯體驗 Udio 是這個分類的天花板",
+              "body": "Stem 分軌、區段重生成、跟著 prompt 走的混音器，用起來像有個 DAW 小助手。授權那塊還是它停在第三的原因，要接案的話會卡。"
+            },
+            {
+              "title": "遊戲跟氛圍音樂選 Stable Audio 2.5 就對了",
+              "body": "Long-form 更新後長 cue 的能力總算補上來。需要純樂器 loop 或氛圍底，又不用真實人聲的場合，這個分類裡花錢最有效率的就是它。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

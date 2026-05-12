@@ -6055,6 +6055,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-12",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "codeQuality": 9.6,
+            "contextWindow": 9.6,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.6,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 7.9
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Claude Code 1M context window changes how I plan refactors",
+          "url": "https://www.theverge.com/24168842/claude-code-1m-context-developer-workflow",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI Codex catches up: parity tests on real repos",
+          "url": "https://www.wired.com/story/openai-codex-parity-real-repos-2026/",
+          "source": "Wired"
+        },
+        {
+          "title": "GitHub Copilot vs Cursor in a normal Tuesday workflow",
+          "url": "https://www.techradar.com/computing/artificial-intelligence/github-copilot-cursor-tuesday-workflow",
+          "source": "TechRadar"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Back from the long Mother's Day weekend, I had a clean morning to push three branches through Claude Code and Cursor in parallel, and the gap I noted last week held. Claude Code keeps the crown because the 1M context window is no longer a benchmark stunt, it is the thing that lets me drop an entire monorepo plus migration notes into one session and get a coherent plan back. Cursor is still my daily editor for tight tab-by-tab work, especially when I am exploring an unfamiliar codebase and want inline suggestions that feel like a junior pair, but for the deeper agentic loops Claude wins on reasoning depth. Codex deserves a small bump today, I have been routing more side projects through it and the agentic side has clearly tightened since the spring refresh. Copilot at four is exactly where it should sit, the editor integration is gorgeous and the price is right for teams, the model just is not the smartest one in the room anymore. Below the top four the picture is messy. Jules is doing real work on async tasks, Devin still bills like a senior engineer without the judgment to match, and Aider remains the best value on the list if you do not mind running it from the terminal. The post-holiday read is simple, the tier-one tools are mature enough that picking between them is a workflow choice rather than a capability gap, and that is good news for buyers.",
+          "highlights": [
+            {
+              "title": "Claude Code is the only tool I trust with whole-repo refactors",
+              "body": "The 1M context window combined with the agentic loop means I can hand it a monorepo, a migration spec, and a list of failing tests, and come back to a sensible plan rather than a guess. Nothing else on this list is operating at that level for multi-file work."
+            },
+            {
+              "title": "Cursor is still the best editor experience by a clear margin",
+              "body": "Tab autocomplete quality and the way it threads context across files makes Cursor the tool I open first every morning. For interactive coding that stays in flow, it beats Claude Code as a surface even when the underlying reasoning is similar."
+            },
+            {
+              "title": "Codex earns its bump to third",
+              "body": "I have been running OpenAI Codex on weekend side projects and the spring updates have closed the gap with Copilot on day-to-day completions while pulling ahead on multi-step agentic tasks. At today's pricing it is genuinely competitive."
+            },
+            {
+              "title": "Aider is the smart pick if you live in the terminal",
+              "body": "9.5 on value for money is not a typo. If your workflow is git plus a shell and you want a model-agnostic coding agent that respects diffs, Aider remains the most efficient money you can spend in this category."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "母親節連假結束，今早一回辦公室就拿三條分支同時跑 Claude Code 跟 Cursor，跟上週的觀察一樣，差距沒變。Claude Code 還是第一，老實說，那個 1M context window 已經不只是跑分數字，是真的能讓我把整個 monorepo 加上 migration 筆記一次丟進去，然後拿回一份有條理的計畫。Cursor 我每天還是會開，特別是要在不熟的專案裡找路徑，tab 補全跟流暢度它就是最強。坦白講要做深一點的 agentic 任務，Claude 的推理還是更紮實。Codex 今天升到第三，我自己最近把幾個小專案改用它跑，春季更新之後 agentic 能力真的有上來，不只是趕進度。Copilot 排第四其實合理，IDE 整合做得漂亮、團隊授權便宜，可是模型本身就不是場上最聰明的那個。下面就比較亂，Jules 在非同步任務上做得有模有樣，Devin 收得跟資深工程師一樣貴但判斷力沒到位，Aider 還是 CP 值最高的選擇，習慣 terminal 的工程師閉著眼選它都不會吃虧。連假後我的結論很簡單，前四名的成熟度已經到了選誰都不會吃虧的程度，剩下的是看你的 workflow 偏哪一邊。",
+          "highlights": [
+            {
+              "title": "整個 repo 的 refactor 我只敢交給 Claude Code",
+              "body": "1M context 加上 agentic loop，丟一個 monorepo、一份 migration spec、一串 failing tests 進去，回來會是一份有邏輯的修改計畫。其他工具在多檔案重構上還沒到這個程度，講真的差很多。"
+            },
+            {
+              "title": "編輯器體驗 Cursor 還是第一名",
+              "body": "tab 補全的準度跟跨檔案 context 的處理，讓 Cursor 是我每天上班第一個開的工具。互動式寫扣不出戲，這點它贏 Claude Code，雖然底層模型差不多。"
+            },
+            {
+              "title": "Codex 升到第三我覺得實至名歸",
+              "body": "週末側專案我自己改用 OpenAI Codex 跑，春季更新之後日常補全已經追上 Copilot，多步驟 agentic 任務還超車。以現在的訂閱價格，真的有競爭力。"
+            },
+            {
+              "title": "活在 terminal 的人選 Aider 就對了",
+              "body": "valueForMoney 給到 9.5 不是手滑。git 加 shell 是你的主場，又想要一個能尊重 diff 的 model-agnostic agent，這個分類裡 Aider 是花最少錢辦最多事的選擇。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

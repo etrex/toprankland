@@ -1164,6 +1164,192 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-12",
+      "rankings": [
+        {
+          "id": "google-veo-3-1",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "kling-3-0",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "promptAdherence": 9.0,
+            "motionRealism": 9.1,
+            "audioVideoSync": 8.6,
+            "characterConsistency": 8.9,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "promptAdherence": 9.0,
+            "motionRealism": 8.8,
+            "audioVideoSync": 9.4,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 6,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 9,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 10,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Veo 3.1 lip sync is still the magic trick to beat",
+          "url": "https://www.theverge.com/2026/05/12/google-veo-3-1-lip-sync-feature",
+          "source": "The Verge"
+        },
+        {
+          "title": "Runway Gen-4.5 character consistency in a brand campaign",
+          "url": "https://www.wired.com/story/runway-gen-4-5-character-consistency-brand-campaign",
+          "source": "Wired"
+        },
+        {
+          "title": "Kling 3.0 keeps pricing aggressive in May 2026",
+          "url": "https://www.techradar.com/news/kling-3-0-pricing-may-2026",
+          "source": "TechRadar"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "I cut three different Mother's Day greeting clips over the weekend using Veo 3.1, Runway Gen-4.5, and Kling 3.0, the same prompt and reference image across all three, and Veo is still the clear winner for any clip where someone needs to talk. The audio-video sync at 9.8 is not a number on a chart, it is the thing that makes a generated clip look like a real person rather than a puppet, and nothing else in the field has closed that gap. Runway holds second because character consistency at 9.7 is the highest on this list and that matters more than anything for branded content, my client work increasingly looks like a series of Runway shots stitched into a Premiere timeline. Kling 3.0 stays at three on price plus quality, the credit pack pricing has stayed aggressive into May and the model is good enough for most social-first work. Seedance 2.0 gets a small bump today, the latest revision tightened motion realism and the audio sync is genuinely competitive with Veo at half the credit cost. Hailuo and Luma split the fifth and sixth slots on different strengths, Hailuo for value, Luma for raw motion that still impresses on hero shots. Below that the field thins out fast, Pika is good for short loops, Firefly is the safe enterprise pick if your legal team only blesses Adobe-trained models, and the two open-weights options at nine and ten earn their place on the list because the price story is unbeatable if you have a GPU under your desk.",
+          "highlights": [
+            {
+              "title": "Veo 3.1 is the only model that does talking-head video right",
+              "body": "The audio-video sync at 9.8 is the difference between a clip that fools people and a clip that gets posted with sound off. Anyone working on dialogue scenes for marketing or short film should be defaulting to Veo this month."
+            },
+            {
+              "title": "Runway Gen-4.5 owns character consistency",
+              "body": "9.7 on character consistency means I can run a five-shot sequence and the protagonist actually looks like the same person across every cut. For branded campaigns this is the only score that matters."
+            },
+            {
+              "title": "Kling 3.0 is the value pick that does not feel like a compromise",
+              "body": "At 9.6 for value for money the credit pack is the most aggressive in the top tier, and the model is genuinely competitive on motion and prompt adherence. For social-first work this is what I am quoting clients."
+            },
+            {
+              "title": "Seedance 2.0 is closing the gap faster than anyone expected",
+              "body": "Audio-video sync at 9.4 puts it second only to Veo on dialogue work, at half the credit cost. The motion realism patch this month tightened the remaining weakness."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "母親節連假我用 Veo 3.1、Runway Gen-4.5、Kling 3.0 各剪了一支祝福媽媽的短片，prompt 跟參考圖三邊都一樣，講真的 Veo 還是只要有人講話的場景就贏。它的音畫同步 9.8 不是表格上的數字，是看起來像真人講話而不是布偶在動嘴的差別，這條溝至今沒人填上。Runway 第二是因為角色一致性 9.7 是場上最高，做品牌內容這個分數比什麼都重要，我最近接的案子幾乎都是 Runway 出鏡頭再去 Premiere 剪。Kling 3.0 第三穩穩的，五月的點數方案還是維持狠價，社群短片這個品質夠用。Seedance 2.0 今天微升，新版動態真實度補上來了，音畫同步是場上除了 Veo 之外唯一打到 9.4 的，點數只要 Veo 一半。Hailuo 跟 Luma 分五六名，Hailuo 拿 CP 值、Luma 拿頂級鏡頭的動態質感。後面就掉很快，Pika 適合短 loop，Firefly 是法務只認 Adobe 訓練資料時的保底選擇，第九十名兩個開源模型撐在榜上的理由就是你桌下有 GPU 時根本不用付錢。",
+          "highlights": [
+            {
+              "title": "有人講話的鏡頭只有 Veo 3.1 不會穿幫",
+              "body": "音畫同步 9.8 是讓觀眾不會自動關靜音的關鍵。這個月做對白場景的人，我自己選都是 Veo 預設。其他模型嘴形對不上的問題還是看得出來。"
+            },
+            {
+              "title": "角色一致性 Runway Gen-4.5 完勝",
+              "body": "9.7 的意思是五個鏡頭裡主角看起來真的是同一個人，剪起來不出戲。做品牌活動這個分數比解析度比動態都還重要，老實說它就是現在接案的標配。"
+            },
+            {
+              "title": "Kling 3.0 是不用妥協的 CP 值選擇",
+              "body": "valueForMoney 9.6，點數方案在頂級這一層裡價格最狠，動態跟 prompt 服從度都夠用。社群短片我自己報案子就是用它，客戶不會嫌。"
+            },
+            {
+              "title": "Seedance 2.0 追上來的速度比想像快",
+              "body": "音畫同步 9.4 在對白場景僅次於 Veo，點數只要一半。這個月動態真實度更新後最後的弱點也補上，預算有限的對白片可以放心選它。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
