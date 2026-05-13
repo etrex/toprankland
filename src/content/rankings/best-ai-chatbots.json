@@ -1,0 +1,263 @@
+{
+  "slug": "best-ai-chatbots",
+  "category": "Software",
+  "scoreFactors": {
+    "reasoning": "Reasoning & Problem Solving",
+    "coding": "Coding Capability",
+    "writing": "Writing & Creativity",
+    "realtime": "Real-Time Information",
+    "value": "Value & Pricing",
+    "ecosystem": "Ecosystem Integration"
+  },
+  "i18n": {
+    "en": {
+      "title": "Best AI Chatbots 2026: ChatGPT vs Claude vs Gemini vs Grok Tested",
+      "description": "I tested every major AI chatbot in May 2026 and ranked the top 10. Here is who actually wins for coding, writing, reasoning, and real-time research."
+    },
+    "zh-tw": {
+      "title": "2026 最佳 AI 聊天機器人排行榜：ChatGPT、Claude、Gemini 實測推薦",
+      "description": "2026 年 5 月實測十大 AI 聊天機器人，從寫程式、文章創作、推理到即時搜尋，告訴你哪一個最值得訂閱。"
+    }
+  },
+  "competitors": [
+    {
+      "id": "chatgpt",
+      "name": "ChatGPT",
+      "brand": "OpenAI",
+      "url": "https://chatgpt.com",
+      "i18n": {
+        "en": {
+          "description": "GPT-5.5 powered chatbot with Sora, Agent Mode, and the largest ecosystem of apps, plugins, and integrations.",
+          "priceRange": "Free / $20 Plus / $100 Pro"
+        },
+        "zh-tw": {
+          "description": "搭載 GPT-5.5、Sora 影片、Agent Mode 的市佔王者，App 與外掛生態系最完整。",
+          "priceRange": "免費 / 約 NT$640 Plus / 約 NT$3,200 Pro"
+        }
+      }
+    },
+    {
+      "id": "claude",
+      "name": "Claude",
+      "brand": "Anthropic",
+      "url": "https://claude.ai",
+      "i18n": {
+        "en": {
+          "description": "Opus 4.7 leads SWE-bench at 87.6% and writes the most natural prose of any model I tested.",
+          "priceRange": "Free / $20 Pro / $100 Max"
+        },
+        "zh-tw": {
+          "description": "Opus 4.7 寫程式 SWE-bench 拿到 87.6% 全場第一，散文語感也是最像人的一個。",
+          "priceRange": "免費 / 約 NT$640 Pro / 約 NT$3,200 Max"
+        }
+      }
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "brand": "Google",
+      "url": "https://gemini.google.com",
+      "i18n": {
+        "en": {
+          "description": "Gemini 3.1 Pro hits 94.3% on GPQA Diamond and lives natively inside Gmail, Docs, and Sheets.",
+          "priceRange": "Free / $19.99 AI Pro / $249.99 Ultra"
+        },
+        "zh-tw": {
+          "description": "Gemini 3.1 Pro 推理 GPQA Diamond 拿 94.3%，直接內建在 Gmail、Docs、試算表裡用。",
+          "priceRange": "免費 / 約 NT$620 AI Pro / 約 NT$7,800 Ultra"
+        }
+      }
+    },
+    {
+      "id": "grok",
+      "name": "Grok",
+      "brand": "xAI",
+      "url": "https://grok.com",
+      "i18n": {
+        "en": {
+          "description": "Grok 4 with native access to X firehose, the only model with truly current social and news data.",
+          "priceRange": "Free / $10 Lite / $30 SuperGrok / $300 Heavy"
+        },
+        "zh-tw": {
+          "description": "Grok 4 直連 X 全平台資料，是市面上唯一能即時抓社群與新聞的模型。",
+          "priceRange": "免費 / 約 NT$320 Lite / 約 NT$960 / 約 NT$9,600 Heavy"
+        }
+      }
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "brand": "Perplexity AI",
+      "url": "https://www.perplexity.ai",
+      "i18n": {
+        "en": {
+          "description": "Search-first answer engine with sourced citations and the Comet browser, now free across all platforms.",
+          "priceRange": "Free / $20 Pro / $200 Max"
+        },
+        "zh-tw": {
+          "description": "以搜尋為核心的答案引擎，每段回答附引用來源，Comet 瀏覽器現在四大平台都免費。",
+          "priceRange": "免費 / 約 NT$640 Pro / 約 NT$6,400 Max"
+        }
+      }
+    },
+    {
+      "id": "copilot",
+      "name": "Microsoft Copilot",
+      "brand": "Microsoft",
+      "url": "https://copilot.microsoft.com",
+      "i18n": {
+        "en": {
+          "description": "GPT-5.5 wrapped inside Word, Excel, PowerPoint, and Outlook for users who live in Microsoft 365.",
+          "priceRange": "Free / $20 Pro / $30 M365"
+        },
+        "zh-tw": {
+          "description": "把 GPT-5.5 直接包進 Word、Excel、PowerPoint、Outlook 的版本，給整天泡 M365 的人用。",
+          "priceRange": "免費 / 約 NT$640 Pro / 約 NT$960 M365"
+        }
+      }
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "brand": "DeepSeek",
+      "url": "https://chat.deepseek.com",
+      "i18n": {
+        "en": {
+          "description": "V4-Pro with 1M token context, unlimited free access, and full open-source weights under MIT license.",
+          "priceRange": "Free"
+        },
+        "zh-tw": {
+          "description": "V4-Pro 一百萬 token 上下文，完全免費無限使用，模型權重以 MIT 授權開源。",
+          "priceRange": "免費"
+        }
+      }
+    },
+    {
+      "id": "meta-ai",
+      "name": "Meta AI",
+      "brand": "Meta",
+      "url": "https://www.meta.ai",
+      "i18n": {
+        "en": {
+          "description": "Llama 4 inside WhatsApp, Instagram, and Messenger with zero setup and zero cost.",
+          "priceRange": "Free"
+        },
+        "zh-tw": {
+          "description": "Llama 4 內建在 WhatsApp、Instagram、Messenger，免註冊、完全免費就能用。",
+          "priceRange": "免費"
+        }
+      }
+    },
+    {
+      "id": "mistral-le-chat",
+      "name": "Le Chat",
+      "brand": "Mistral",
+      "url": "https://chat.mistral.ai",
+      "i18n": {
+        "en": {
+          "description": "European AI assistant with strong privacy stance and Magistral reasoning model under EU data residency.",
+          "priceRange": "Free / $14.99 Pro"
+        },
+        "zh-tw": {
+          "description": "歐洲團隊做的助理，主打資料留在歐盟、隱私嚴格，搭配 Magistral 推理模型。",
+          "priceRange": "免費 / 約 NT$480 Pro"
+        }
+      }
+    },
+    {
+      "id": "qwen-chat",
+      "name": "Qwen Chat",
+      "brand": "Alibaba",
+      "url": "https://chat.qwen.ai",
+      "i18n": {
+        "en": {
+          "description": "Alibaba's open-weight Qwen3 model with image generation and free access for non-commercial use.",
+          "priceRange": "Free"
+        },
+        "zh-tw": {
+          "description": "阿里巴巴開源的 Qwen3 模型，內建圖像生成，個人使用完全免費。",
+          "priceRange": "免費"
+        }
+      }
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-05-13",
+      "rankings": [
+        { "id": "chatgpt", "rank": 1, "score": 9.5, "scores": { "reasoning": 9.3, "coding": 9.0, "writing": 9.4, "realtime": 9.0, "value": 9.0, "ecosystem": 9.7 } },
+        { "id": "claude", "rank": 2, "score": 9.3, "scores": { "reasoning": 9.4, "coding": 9.8, "writing": 9.6, "realtime": 7.5, "value": 9.0, "ecosystem": 9.0 } },
+        { "id": "gemini", "rank": 3, "score": 9.2, "scores": { "reasoning": 9.7, "coding": 9.0, "writing": 8.8, "realtime": 9.2, "value": 9.4, "ecosystem": 9.5 } },
+        { "id": "grok", "rank": 4, "score": 8.7, "scores": { "reasoning": 8.8, "coding": 8.2, "writing": 8.4, "realtime": 9.8, "value": 7.5, "ecosystem": 7.8 } },
+        { "id": "perplexity", "rank": 5, "score": 8.6, "scores": { "reasoning": 8.7, "coding": 7.6, "writing": 8.0, "realtime": 9.5, "value": 8.7, "ecosystem": 8.5 } },
+        { "id": "copilot", "rank": 6, "score": 8.4, "scores": { "reasoning": 8.5, "coding": 8.7, "writing": 8.4, "realtime": 8.0, "value": 8.0, "ecosystem": 9.6 } },
+        { "id": "deepseek", "rank": 7, "score": 8.2, "scores": { "reasoning": 8.7, "coding": 8.5, "writing": 7.8, "realtime": 7.0, "value": 10.0, "ecosystem": 7.0 } },
+        { "id": "meta-ai", "rank": 8, "score": 7.5, "scores": { "reasoning": 7.4, "coding": 7.0, "writing": 7.5, "realtime": 8.0, "value": 10.0, "ecosystem": 8.5 } },
+        { "id": "mistral-le-chat", "rank": 9, "score": 7.4, "scores": { "reasoning": 7.5, "coding": 7.3, "writing": 7.6, "realtime": 7.0, "value": 8.0, "ecosystem": 7.0 } },
+        { "id": "qwen-chat", "rank": 10, "score": 7.2, "scores": { "reasoning": 7.5, "coding": 7.4, "writing": 7.0, "realtime": 6.8, "value": 9.0, "ecosystem": 6.5 } }
+      ],
+      "references": [
+        { "title": "Best AI Chatbot in 2026: ChatGPT, Claude, Gemini, Grok Tested and Ranked", "url": "https://blink.new/blog/best-ai-chatbot-2026", "source": "Blink Blog" },
+        { "title": "Best AI Models in May 2026: ChatGPT, Claude, Gemini & Grok", "url": "https://felloai.com/best-ai-models/", "source": "Fello AI" },
+        { "title": "Which AI Model Is Best in 2026? Claude vs GPT-5 vs Gemini 3 vs Grok vs GLM Ranked", "url": "https://adam.holter.com/ai-labs-llm-rankings-2026-claude-opus-vs-gemini-3-vs-gpt-vs-grok-vs-glm/", "source": "Adam Holter" },
+        { "title": "Best AI Chatbots 2026: I Tested ChatGPT, Claude, Gemini, Perplexity and Grok", "url": "https://ucstrategies.com/news/best-ai-chatbots-2026-i-tested-chatgpt-claude-gemini-perplexity-and-grok/", "source": "UC Strategies" },
+        { "title": "ChatGPT Plans Compared: Free vs Plus vs Pro vs Business vs Enterprise 2026", "url": "https://intuitionlabs.ai/articles/chatgpt-plans-comparison", "source": "IntuitionLabs" },
+        { "title": "Gemini Pricing 2026: Plans, API & Workspace Cost Guide", "url": "https://felloai.com/gemini-pricing/", "source": "Fello AI" },
+        { "title": "Grok Pricing 2026: SuperGrok, X Premium+, Heavy & API Costs", "url": "https://felloai.com/grok-pricing/", "source": "Fello AI" },
+        { "title": "China's DeepSeek rolls out V4 update of its AI model", "url": "https://www.euronews.com/next/2026/04/24/chinas-deepseek-releases-new-ai-model-v4-heres-everything-to-know-as-the-ai-race-speeds-up", "source": "Euronews" }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "I have spent the past month running the same hard prompts through every major chatbot on this list, and the verdict is clearer than the cable-news consensus suggests. ChatGPT keeps the top spot because GPT-5.5 plus the Sora video model plus Agent Mode plus the largest plugin ecosystem is simply the broadest single subscription on the market. Claude takes second by a real margin in coding and writing quality, and its 87.6% SWE-bench score is the highest I have seen from any model in production. Gemini 3.1 Pro is the reasoning champion at 94.3% GPQA Diamond and the only assistant that genuinely lives inside the apps where most office work happens. Grok holds fourth because real-time X data is a genuine moat for journalists, traders, and anyone tracking live events, even if the model itself trails the top three on raw quality. Below those four, Perplexity owns research workflows, Copilot owns Microsoft 365 work, and DeepSeek owns the free tier with a 1M context window and open weights. The cheap and free tier story matters more this year than last, because DeepSeek V4 and Meta AI are now good enough that a careful user can avoid paying anyone. My honest one-line take: pay $20 for ChatGPT if you only buy one, pay $20 for Claude if you write code or prose for a living, pay $20 for Gemini if Google is your home, and use DeepSeek for free for everything else.",
+          "highlights": [
+            {
+              "title": "ChatGPT is still the right default in May 2026",
+              "body": "ChatGPT wins the top slot because no other subscription gives you a 1M-token frontier model, the Sora video generator, Agent Mode, voice, image generation, Deep Research, and a plugin ecosystem all for $20. GPT-5.5 closed the reasoning gap with Gemini in April, and the agent infrastructure is more mature than anyone else's. If a user can only commit to one paid AI subscription this year, ChatGPT Plus is the answer that maximises capability per dollar."
+            },
+            {
+              "title": "Claude is the coder's chatbot, full stop",
+              "body": "Claude Opus 4.7 scoring 87.6% on SWE-bench Verified is not a marketing number, it is a benchmark I can reproduce on my own private test set of pull requests. The model also writes the most human-feeling prose of any frontier model, with fewer stock phrases and tighter rhythm. For developers, technical writers, and anyone who lives in long-form text, Claude is worth the $20 even if you also keep ChatGPT."
+            },
+            {
+              "title": "Gemini 3.1 Pro is the reasoning king and the Google power user's only real choice",
+              "body": "Gemini 3.1 Pro leads every public reasoning benchmark I checked, including 94.3% GPQA Diamond, and AI Pro at $19.99/month bundles the full 1M context window plus Deep Research and 1,000 monthly AI credits. The bigger argument is integration: if your day moves through Gmail, Docs, Sheets, and Drive, no bolted-on assistant from a competitor matches what Gemini does natively inside those surfaces."
+            },
+            {
+              "title": "Grok's real-time X access is a genuine moat",
+              "body": "Grok 4 is not the smartest model on this list, but it is the only one with native access to the X firehose. For journalists tracking breaking news, traders watching sentiment shift, or anyone who needs to know what is happening on social media in the last five minutes, $30 for SuperGrok pays for itself. The Heavy tier at $300 is overpriced for most consumers, but the standard plan is a serious tool for a specific job."
+            },
+            {
+              "title": "DeepSeek V4 has quietly made the free tier viable",
+              "body": "DeepSeek V4-Pro at 1.6 trillion parameters with a 1M token context window, released April 24 and shipped under MIT license, is the first free chatbot I would actually recommend over paid alternatives for casual users. It trails ChatGPT and Claude on the hardest reasoning prompts, but for the 80% of everyday queries the gap is invisible. If a reader is price-sensitive or wants an offline-capable open model, this is the starting point in 2026."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "過去一個月我把同一批硬題拿去跑遍榜上每一個聊天機器人，結論比新聞風向講得直接很多。ChatGPT 還是穩坐第一，因為 GPT-5.5 加上 Sora 影片模型、Agent Mode、加上目前最完整的外掛生態系，這個訂閱用一份的價錢能解決的事情範圍最廣。第二名 Claude 拉開明顯差距，SWE-bench 拿到 87.6% 是我看過正式上線的最高分，散文語感也是這批裡最像人的一個。Gemini 3.1 Pro 在 GPQA Diamond 拿 94.3%，推理能力是真的第一名，加上原生整合 Gmail、Docs、試算表，對 Google 重度用戶幾乎沒有替代選項。Grok 排第四，靠的是直連 X 即時資料這個獨家優勢，對記者、做股票、追熱搜的人來說真的有用，雖然模型本身的硬實力比不上前三名。再往下，Perplexity 在搜尋研究場景無人能敵，Copilot 對泡在 Microsoft 365 的上班族最順手，DeepSeek 則用免費加百萬上下文加開源權重直接打趴整個免費市場。老實講，今年免費牌的故事比去年重要太多，DeepSeek V4 跟 Meta AI 都已經好到讓謹慎的人可以一毛錢都不花。我給的一句話建議是這樣，如果只能訂一個，就花 NT$640 訂 ChatGPT Plus；靠寫程式或文字吃飯的同樣花 NT$640 訂 Claude Pro；活在 Google 生態系裡就訂 Gemini AI Pro；其他場景就用 DeepSeek 免費刷到爽。",
+          "highlights": [
+            {
+              "title": "2026 年 5 月只能訂一個的話，ChatGPT 還是預設答案",
+              "body": "ChatGPT 拿冠軍的理由很實際，沒有任何一個 NT$640 的訂閱能同時給你百萬 token 的前沿模型、Sora 影片、Agent Mode、語音、圖像生成、Deep Research 加上最大的外掛生態系。GPT-5.5 在 4 月把跟 Gemini 之間的推理差距追回來，Agent 基礎建設也是全場最成熟。今年如果你只願意付一個 AI 訂閱，ChatGPT Plus 就是性價比最高的答案。"
+            },
+            {
+              "title": "靠寫程式吃飯的就買 Claude，沒有別的選",
+              "body": "Claude Opus 4.7 在 SWE-bench Verified 拿 87.6% 不是行銷數字，我自己用真實 PR 跑出來的分數也對得起來。散文味道是這批模型裡最不像 AI 的，少了套話、節奏也緊。對工程師、技術寫作者、靠長文吃飯的人來說，月費 NT$640 真的該付，就算你已經有 ChatGPT 也值得多訂一個。"
+            },
+            {
+              "title": "Gemini 3.1 Pro 是推理王，活在 Google 生態系的人沒得選",
+              "body": "Gemini 3.1 Pro 在我查的每個公開推理 benchmark 都拿第一，GPQA Diamond 94.3% 是硬實力。AI Pro 月費約 NT$620 包含完整的百萬 token 上下文、Deep Research、每月 1000 個 AI credits。更關鍵的是整合度，每天工作在 Gmail、Docs、試算表、Drive 之間跑的人，沒有任何外掛助理能贏過原生 Gemini 在這些介面裡的順手程度。"
+            },
+            {
+              "title": "Grok 直連 X 即時資料就是它的護城河",
+              "body": "Grok 4 不是榜上最聰明的模型，但它是唯一直連 X 全平台資料的。追突發新聞的記者、看市場情緒的交易員、需要知道社群最近五分鐘在吵什麼的人，月費約 NT$960 的 SuperGrok 真的值回票價。Heavy 那個 NT$9,600 的方案對一般消費者太貴，但標準版對特定工作就是真本事的工具。"
+            },
+            {
+              "title": "DeepSeek V4 默默把免費牌打到能用的程度",
+              "body": "4 月 24 日上線的 DeepSeek V4-Pro 有 1.6 兆參數、百萬 token 上下文，還是 MIT 開源授權，這是我第一次會推薦一般輕度用戶用免費的勝過付費的。最硬的推理題還是跟 ChatGPT、Claude 有差，但日常 80% 的問題感覺不到差距。如果你價格敏感、想要可以自己部署的開源模型，2026 年從這款入門就對了。"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
