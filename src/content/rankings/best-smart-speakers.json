@@ -132,6 +132,22 @@
       }
     },
     {
+      "id": "amazon-echo-dot-max",
+      "name": "Echo Dot Max",
+      "brand": "Amazon",
+      "url": "https://www.amazon.com/Amazon-Echo-Dot-Max-Alexa-Speaker-Graphite-Amazon/dp/B0D6SX8VLQ",
+      "i18n": {
+        "en": {
+          "description": "Built from scratch for Alexa+ with the new AZ3 chip and a two-way speaker system — the first Echo Dot with a real woofer-and-tweeter pairing, and the smartest mic array Amazon ships.",
+          "priceRange": "$100"
+        },
+        "zh-tw": {
+          "description": "為 Alexa+ 全新設計的小喇叭，搭載新的 AZ3 晶片和真正的雙單體（低音 + 高音）結構，是第一台音質拿得出手的 Echo Dot，麥克風陣列辨識率也是目前 Echo 全系列最好的。",
+          "priceRange": "約 NT$3,200"
+        }
+      }
+    },
+    {
       "id": "amazon-echo-dot-5th-gen",
       "name": "Echo Dot (5th Gen)",
       "brand": "Amazon",
@@ -3149,8 +3165,20 @@
           }
         },
         {
-          "id": "amazon-echo-dot-5th-gen",
+          "id": "amazon-echo-dot-max",
           "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "soundQuality": 7.5,
+            "smartHomeIntegration": 9.0,
+            "voiceAssistant": 9.5,
+            "valueForMoney": 8.5,
+            "design": 8.0
+          }
+        },
+        {
+          "id": "amazon-echo-dot-5th-gen",
+          "rank": 9,
           "score": 7.4,
           "scores": {
             "soundQuality": 7.0,
@@ -3162,7 +3190,7 @@
         },
         {
           "id": "apple-homepod-mini",
-          "rank": 9,
+          "rank": 10,
           "score": 7.2,
           "scores": {
             "soundQuality": 7.0,
