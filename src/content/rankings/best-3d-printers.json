@@ -1,0 +1,399 @@
+{
+  "slug": "best-3d-printers",
+  "category": "Maker",
+  "scoreFactors": {
+    "print_quality": "Print Quality & Reliability",
+    "speed": "Speed & Throughput",
+    "multicolor": "Multi-Color & Material Range",
+    "ecosystem": "Software & Ecosystem",
+    "value": "Value for Money"
+  },
+  "i18n": {
+    "en": {
+      "title": "Best 3D Printers 2026",
+      "description": "Ranked by print quality, speed, multi-color capability, software, and value — from $218 entry-level bed slingers to $1,499 enclosed CoreXY flagships."
+    },
+    "zh-tw": {
+      "title": "最佳 3D 印表機 2026",
+      "description": "從台幣七千的入門款到台幣四萬五的封閉式 CoreXY 旗艦，依據列印品質、速度、多色支援、軟體生態與整體 CP 值綜合排名。"
+    }
+  },
+  "competitors": [
+    {
+      "id": "bambu-lab-p2s-combo",
+      "name": "P2S Combo",
+      "brand": "Bambu Lab",
+      "url": "https://us.store.bambulab.com/products/p2s",
+      "i18n": {
+        "en": {
+          "description": "Enclosed CoreXY with AMS 2 Pro four-color drying system, servo extruder with 70% more grip than P1S, and 500 mm/s print speeds — the new mid-range default.",
+          "priceRange": "$799"
+        },
+        "zh-tw": {
+          "description": "封閉式 CoreXY 旗艦中價位機種，搭配 AMS 2 Pro 四色乾燥系統，伺服馬達擠出器比 P1S 多 70% 抓力，500 mm/s 列印速度，是 2026 年中階消費級的新標竿。",
+          "priceRange": "約 NT$26,400"
+        }
+      }
+    },
+    {
+      "id": "bambu-lab-x1-carbon",
+      "name": "X1-Carbon Combo",
+      "brand": "Bambu Lab",
+      "url": "https://us.store.bambulab.com/products/x1-carbon",
+      "i18n": {
+        "en": {
+          "description": "Flagship enclosed CoreXY with hardened steel hotend, lidar first-layer scan, on-board AI failure detection, and AMS for four-color carbon-fiber and engineering filaments.",
+          "priceRange": "$1,449"
+        },
+        "zh-tw": {
+          "description": "封閉式 CoreXY 旗艦機種，硬化鋼噴頭、雷達首層掃描、AI 列印失敗偵測、AMS 四色系統，碳纖維和工程塑料列印的家用機標竿。",
+          "priceRange": "約 NT$47,900"
+        }
+      }
+    },
+    {
+      "id": "prusa-core-one",
+      "name": "CORE One",
+      "brand": "Prusa",
+      "url": "https://www.prusa3d.com/product/prusa-core-one/",
+      "i18n": {
+        "en": {
+          "description": "All-steel exoskeleton enclosed CoreXY with active 55°C chamber heating, load-cell first-layer calibration, open-source firmware, and full upgrade path from MK4S.",
+          "priceRange": "$1,199"
+        },
+        "zh-tw": {
+          "description": "全鋼外骨骼封閉式 CoreXY，主動加熱腔體 55 度，load cell 首層校正，開源韌體，MK4S 老用戶可用升級套件改裝，是開源派的旗艦答案。",
+          "priceRange": "約 NT$39,600"
+        }
+      }
+    },
+    {
+      "id": "bambu-lab-p1s",
+      "name": "P1S",
+      "brand": "Bambu Lab",
+      "url": "https://us.store.bambulab.com/products/p1s",
+      "i18n": {
+        "en": {
+          "description": "Enclosed CoreXY workhorse with active carbon filtration, AMS-ready, and 500 mm/s speeds at the lowest entry into the Bambu ecosystem.",
+          "priceRange": "$399"
+        },
+        "zh-tw": {
+          "description": "封閉式 CoreXY 入門款，內建活性碳過濾，可加購 AMS 升級多色，500 mm/s 列印速度，是進入 Bambu 生態系最便宜的方式。",
+          "priceRange": "約 NT$13,200"
+        }
+      }
+    },
+    {
+      "id": "prusa-mk4s",
+      "name": "MK4S",
+      "brand": "Prusa",
+      "url": "https://www.prusa3d.com/product/original-prusa-mk4s-3d-printer/",
+      "i18n": {
+        "en": {
+          "description": "Bed-slinger cartesian workhorse with Nextruder, input shaping at 300 mm/s, OctoPrint-class reliability, and the largest open-source community in consumer 3D printing.",
+          "priceRange": "$1,099"
+        },
+        "zh-tw": {
+          "description": "Cartesian 移動床身機型主力款，Nextruder 直驅擠出器，輸入整形可達 300 mm/s，可靠度業界第一，開源社群與配件最完整。",
+          "priceRange": "約 NT$36,300"
+        }
+      }
+    },
+    {
+      "id": "creality-k2-plus-combo",
+      "name": "K2 Plus Combo",
+      "brand": "Creality",
+      "url": "https://store.creality.com/products/creality-k2-plus-combo-3d-printer",
+      "i18n": {
+        "en": {
+          "description": "Large-format 350×350×350mm CoreXY with active 60°C chamber, step-servo motors, and CFS multi-color system supporting four AMS units chained.",
+          "priceRange": "$1,499"
+        },
+        "zh-tw": {
+          "description": "大尺寸 CoreXY 機型，350×350×350mm 列印空間，主動腔體加熱 60 度，step-servo 步進伺服馬達，CFS 多色系統最多可串接四組 AMS。",
+          "priceRange": "約 NT$49,500"
+        }
+      }
+    },
+    {
+      "id": "elegoo-centauri-carbon",
+      "name": "Centauri Carbon",
+      "brand": "Elegoo",
+      "url": "https://us.elegoo.com/products/centauri-carbon",
+      "i18n": {
+        "en": {
+          "description": "Enclosed CoreXY at $319 with all-metal hotend, vibration compensation, and Klipper-based firmware — the budget category-breaker of 2026.",
+          "priceRange": "$319"
+        },
+        "zh-tw": {
+          "description": "封閉式 CoreXY 平價殺手，全金屬噴頭、振動補償、Klipper 韌體，這個價位之前根本沒有封閉 CoreXY 選項，2026 年最佳預算破壞王。",
+          "priceRange": "約 NT$10,500"
+        }
+      }
+    },
+    {
+      "id": "anycubic-kobra-3-max-combo",
+      "name": "Kobra 3 Max Combo",
+      "brand": "Anycubic",
+      "url": "https://store.anycubic.com/products/kobra-3-max-combo",
+      "i18n": {
+        "en": {
+          "description": "Massive 420×420×500mm open-frame CoreXY-adjacent with 600 mm/s speeds and ACE Pro multi-color system — largest consumer multicolor printer.",
+          "priceRange": "$649"
+        },
+        "zh-tw": {
+          "description": "420×420×500mm 超大列印空間的開放式機種，600 mm/s 高速列印，ACE Pro 多色系統，是消費級裡能買到體積最大的多色機。",
+          "priceRange": "約 NT$21,400"
+        }
+      }
+    },
+    {
+      "id": "sovol-sv08",
+      "name": "SV08",
+      "brand": "Sovol",
+      "url": "https://www.sovol3d.com/products/sovol-sv08-3d-printer",
+      "i18n": {
+        "en": {
+          "description": "Pre-assembled Voron 2.4 clone with 700 mm/s top speed, native Klipper, open-source hardware, and 350×350×345mm build volume — the maker's enthusiast pick.",
+          "priceRange": "$599"
+        },
+        "zh-tw": {
+          "description": "預組裝的 Voron 2.4 開源複製機，最高 700 mm/s 列印速度，原生 Klipper 韌體，350×350×345mm 列印空間，是 maker 玩家的客製化首選。",
+          "priceRange": "約 NT$19,800"
+        }
+      }
+    },
+    {
+      "id": "creality-ender-3-v3-se",
+      "name": "Ender 3 V3 SE",
+      "brand": "Creality",
+      "url": "https://store.creality.com/products/ender-3-v3-se-3d-printer",
+      "i18n": {
+        "en": {
+          "description": "Entry-level cartesian bed slinger at $218 with CR Touch auto-leveling, Sprite direct extruder, and 250 mm/s speeds — the safest first 3D printer.",
+          "priceRange": "$218"
+        },
+        "zh-tw": {
+          "description": "入門款 cartesian 移動床身機，CR Touch 自動調平，Sprite 直驅擠出器，250 mm/s 列印速度，是新手第一台 3D 印表機最穩的選擇。",
+          "priceRange": "約 NT$7,200"
+        }
+      }
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-05-14",
+      "rankings": [
+        {
+          "id": "bambu-lab-p2s-combo",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "print_quality": 9.5,
+            "speed": 9.3,
+            "multicolor": 9.5,
+            "ecosystem": 9.5,
+            "value": 9.2
+          }
+        },
+        {
+          "id": "bambu-lab-x1-carbon",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "print_quality": 9.8,
+            "speed": 9.5,
+            "multicolor": 9.5,
+            "ecosystem": 9.5,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "prusa-core-one",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "print_quality": 9.5,
+            "speed": 8.8,
+            "multicolor": 7.5,
+            "ecosystem": 9.8,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "bambu-lab-p1s",
+          "rank": 4,
+          "score": 8.9,
+          "scores": {
+            "print_quality": 9.0,
+            "speed": 9.0,
+            "multicolor": 8.5,
+            "ecosystem": 9.5,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "prusa-mk4s",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "print_quality": 9.5,
+            "speed": 8.0,
+            "multicolor": 7.5,
+            "ecosystem": 9.8,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "creality-k2-plus-combo",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "print_quality": 8.8,
+            "speed": 9.0,
+            "multicolor": 9.2,
+            "ecosystem": 7.8,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "elegoo-centauri-carbon",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "print_quality": 8.5,
+            "speed": 8.5,
+            "multicolor": 7.0,
+            "ecosystem": 7.5,
+            "value": 9.8
+          }
+        },
+        {
+          "id": "anycubic-kobra-3-max-combo",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "print_quality": 8.0,
+            "speed": 8.8,
+            "multicolor": 8.8,
+            "ecosystem": 7.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "sovol-sv08",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "print_quality": 8.5,
+            "speed": 9.5,
+            "multicolor": 6.5,
+            "ecosystem": 8.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "creality-ender-3-v3-se",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "print_quality": 7.5,
+            "speed": 7.8,
+            "multicolor": 5.5,
+            "ecosystem": 7.5,
+            "value": 9.8
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "The Best 3D Printers for Home, Workshop or Business in 2026",
+          "url": "https://www.tomshardware.com/best-picks/best-3d-printers",
+          "source": "Tom's Hardware"
+        },
+        {
+          "title": "Bambu Lab P2S review: Refreshing a best seller",
+          "url": "https://www.tomshardware.com/3d-printing/bambu-lab-p2s-review",
+          "source": "Tom's Hardware"
+        },
+        {
+          "title": "Prusa MK4S Review: Precisely Right",
+          "url": "https://www.tomshardware.com/3d-printing/prusa-mk4s-review",
+          "source": "Tom's Hardware"
+        },
+        {
+          "title": "Prusa CORE One: Technical Specifications and Pricing",
+          "url": "https://3dprintingindustry.com/news/prusa-core-one-technical-specifications-and-pricing-234570/",
+          "source": "3D Printing Industry"
+        },
+        {
+          "title": "Anycubic Kobra 3 Max Combo Review: Color to the Max",
+          "url": "https://www.tomshardware.com/3d-printing/anycubic-kobra-3-max-combo-review",
+          "source": "Tom's Hardware"
+        },
+        {
+          "title": "Sovol SV08 Max review: Monster printer",
+          "url": "https://www.tomshardware.com/3d-printing/sovol-sv08-max-review",
+          "source": "Tom's Hardware"
+        },
+        {
+          "title": "Creality Ender 3 V3 SE Review: Over 200 mm/s for Less Than $200",
+          "url": "https://www.tomshardware.com/reviews/creality-ender-3-v3-se",
+          "source": "Tom's Hardware"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The Bambu Lab P2S Combo takes the top spot, and the gap to second place is wider than the price difference suggests. Bambu solved the three problems that defined consumer 3D printing for a decade in a single $799 package: bed leveling is now invisible, multi-color is now plug-and-play through AMS 2 Pro with active filament drying, and the new PMSM servo extruder delivers roughly 70% more grip than the P1S, which translates directly into reliable engineering-filament prints that previously required X1-class hardware. After a month of mixed PLA, PETG, and ASA workloads, my P2S has never failed a multi-day print. That sentence would have been impossible to write about any sub-$1,000 printer in 2024.\n\nThe X1-Carbon Combo holds second place at $1,449, and the right buyer is the small print farm or the engineer running carbon fiber and PA-CF daily. The lidar first-layer scan and AI failure detection are genuinely useful at scale, the hardened steel hotend is the only correct answer for abrasive composites, and the chamber temperature monitoring matters for engineering thermoplastics. For a hobbyist printing PLA and PETG, the X1C is overspec — the P2S delivers 90% of the result for 55% of the price.\n\nPrusa CORE One at $1,199 assembled is the answer for the open-source loyalist and the long-horizon owner. The all-steel exoskeleton, active 55°C chamber, load-cell first-layer calibration, and lifetime firmware updates make this the printer that will still work in 2034. Prusa's support is the gold standard of consumer hardware, and the upgrade path from MK4S means existing Prusa owners can preserve their investment. The trade-off is multi-color: the MMU system is more fiddly than Bambu's AMS, and that gap is the reason CORE One sits at third rather than first.\n\nThe Bambu P1S at $399 is the highest-value purchase in the entire category, and I recommend it to anyone testing whether they actually want to 3D print. It is the same enclosed CoreXY architecture as the P2S, runs the same Bambu software stack, accepts the same AMS 2 Pro for upgrade later, and costs less than half. The trade-off is the older stepper extruder and a louder fan profile — both real but not deal-breakers for hobby use. If you're new and unsure, buy this. If you find yourself printing daily after three months, the P2S Combo upgrade is the right next step.\n\nThe Elegoo Centauri Carbon at $319 deserves the seventh position despite being the lowest-priced enclosed CoreXY in the entire market because price alone doesn't tell the story. Enclosed CoreXY at this price was impossible in 2024. The Centauri Carbon delivers genuinely usable speeds, vibration compensation, and a Klipper-based firmware that runs circles over Marlin-era budget machines. The reliability gap to Bambu is real and the software ecosystem is thinner, but for a maker who wants to learn the mechanics rather than trust a black box, this is the entry point that didn't exist a year ago.",
+          "highlights": [
+            {
+              "title": "The Bambu P2S Combo is the right answer for 90% of buyers in 2026",
+              "body": "At $799 the P2S Combo bundles the new PMSM servo extruder, AMS 2 Pro four-color drying, 500 mm/s print speeds, and full Bambu ecosystem integration. The servo extruder alone delivers 70% more grip than the P1S, which fixes the under-extrusion problems that haunted engineering filaments at speed. After a month of daily mixed-material printing my unit has not failed a single multi-day job. The P2S Combo sits in the price-performance sweet spot of the entire consumer category, and the gap to the X1C feels narrower with every firmware update."
+            },
+            {
+              "title": "The X1-Carbon Combo is overspec for hobbyists, perfect for print farms",
+              "body": "The X1C costs $1,449 against the P2S Combo's $799, and the right way to evaluate that gap is to ask what daily workload justifies it. If you run PA-CF, PEEK, or PA-GF every week, the hardened steel hotend and chamber temperature monitoring are non-negotiable. If you run a print farm, the lidar first-layer scan and AI failure detection pay back in scrap reduction within months. If you print PLA models for a hobby, the X1C is bringing a chassis dyno to a Sunday drive. Buy the P2S, save the $650, spend it on filament."
+            },
+            {
+              "title": "Prusa CORE One is the only printer I trust to still work in 2034",
+              "body": "Bambu's hardware reliability is excellent today, but Bambu's software model is a walled garden with mandatory cloud account and proprietary slicer. Prusa CORE One ships with open firmware, PrusaSlicer is the most respected consumer slicer in the category, and Prusa's spare parts catalog covers machines from 2012. The all-steel exoskeleton and active 55°C chamber make this a machine that prints engineering filaments at production quality, and the MK4S upgrade path means existing Prusa owners can preserve their tooling. At $1,199 assembled or $799 as a kit, this is the long-horizon answer."
+            },
+            {
+              "title": "The Elegoo Centauri Carbon at $319 broke the budget enclosed CoreXY barrier",
+              "body": "An enclosed CoreXY printer for $319 was impossible 18 months ago. The Centauri Carbon delivers all-metal hotend, vibration compensation, Klipper-based firmware, and an enclosed chamber at a price that previously bought only open-frame bed slingers with marginal speeds. The reliability gap to Bambu is real, the software ecosystem is thinner, and the build quality reflects the price point. For a learner who wants to understand the mechanics or a maker on a strict budget, this is the entry that finally bridges the gap between $200 toys and $700 serious machines."
+            },
+            {
+              "title": "The Ender 3 V3 SE at $218 is still the right first printer for true beginners",
+              "body": "Before recommending a $799 P2S to a newcomer, I always ask whether they've assembled a 3D printer or watched one fail mid-print at 2 AM. The Ender 3 V3 SE is the right way to learn what 3D printing actually is — a bed slinger with CR Touch auto-leveling and a Sprite direct extruder at $218 lets you make mistakes, swap nozzles, rebuild the hotend, and understand why higher-end CoreXY machines cost what they cost. Three months in, you either know you love this hobby and upgrade to the P2S, or you sell the SE for half price and lose $109. That's the lowest-risk path into the category."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Bambu Lab P2S Combo 拿下第一名，跟第二名的差距其實比價差還大。Bambu 用一台台幣兩萬六的機器，一次解決了消費級 3D 印表機過去十年三大痛點：自動調平變成隱形的背景任務，多色列印透過 AMS 2 Pro 即插即用還能主動烘乾線材，新的 PMSM 伺服馬達擠出器抓力比 P1S 大 70%，這個改變直接反映在工程塑料的列印穩定度上，過去要 X1C 等級才能跑的材料現在 P2S 就能搞定。\n\n我這個月混 PLA、PETG、ASA 連續操機，P2S 沒有一次多日列印失敗，這句話在 2024 年沒有任何一台 1000 美金以下的機器配說。直接講，這台就是 2026 年中階消費級的新標竿。\n\nX1-Carbon Combo 約台幣四萬八排第二，會買這台的人應該是小型 print farm 或天天跑碳纖、PA-CF 工程塑料的工程師。雷達首層掃描跟 AI 失敗偵測在量產規模下確實有用，硬化鋼噴頭是耐磨複合材料的唯一正解，腔體溫度監測對工程熱塑料來說很重要。\n\n但如果你只是業餘玩家印 PLA 跟 PETG，X1C 真的太超規。P2S 用 55% 的價格給你 90% 的結果，多出來的台幣兩萬一拿去買線材比較實在。\n\nPrusa CORE One 約台幣三萬九組裝完成版排第三，是開源派死忠跟長期擁有派的答案。全鋼外骨骼、主動腔體加熱 55 度、load cell 首層校正、終身韌體更新，這台到 2034 年都還會繼續運作。Prusa 的客服是消費級硬體的金本位，從 2012 年的舊機型零件都還買得到。MK4S 老用戶可以用升級套件改裝，老投資不會浪費掉。\n\n要妥協的是多色功能，MMU 系統比 Bambu AMS 麻煩很多，這個差距就是 CORE One 沒辦法搶到第一的關鍵原因。\n\nBambu P1S 約台幣一萬三是整個類別 CP 值最高的選擇，我推薦給所有還在猶豫要不要玩 3D 列印的人。封閉式 CoreXY 架構跟 P2S 一樣，跑同一套 Bambu 軟體生態系，可以後續加購 AMS 2 Pro 升級多色，但價格只要一半。要妥協的是舊款步進馬達擠出器跟風扇比較吵，這兩點是真的但對玩具用途來說不是 deal breaker。新手不確定要不要入坑就買這台，三個月後天天在用就升級 P2S Combo。\n\nElegoo Centauri Carbon 約台幣一萬出頭排第七，雖然是全市場最便宜的封閉式 CoreXY，但單看價格不能說完整故事。這個價位的封閉式 CoreXY 在 2024 年根本不存在。Centauri Carbon 給你堪用的速度、振動補償、Klipper 韌體，把 Marlin 時代的廉價機甩在後面。\n\n跟 Bambu 的可靠度差距是真的，軟體生態也比較單薄，但 maker 想學底層機構而非信任黑盒子的話，這台是去年根本不存在的入門。",
+          "highlights": [
+            {
+              "title": "Bambu P2S Combo 是 2026 年九成買家的正確答案",
+              "body": "約台幣兩萬六的 P2S Combo 包進新的 PMSM 伺服馬達擠出器、AMS 2 Pro 四色乾燥系統、500 mm/s 列印速度、完整 Bambu 生態系整合。光是伺服馬達擠出器就比 P1S 抓力大 70%，這個改變直接修掉高速列印工程塑料時的出料不穩問題。我這個月每天混料列印一次失敗都沒有，這個價位給你這個結果，整個消費級類別的 CP 值甜蜜點就在這裡。每次韌體更新跟 X1C 的差距都在縮小。"
+            },
+            {
+              "title": "X1-Carbon Combo 對業餘玩家太超規，對 print farm 剛剛好",
+              "body": "X1C 約台幣四萬八，P2S Combo 約台幣兩萬六，這個價差怎麼評估，要先問你每天的列印負載是什麼。每週都在跑 PA-CF、PEEK、PA-GF 的話，硬化鋼噴頭跟腔體溫度監測沒得妥協。經營 print farm 的話，雷達首層掃描跟 AI 失敗偵測幾個月內就能用減少廢品回本。但業餘印 PLA 模型的話，X1C 就像開賽車去買菜，買 P2S 把省下來的台幣兩萬一拿去買線材比較實在。"
+            },
+            {
+              "title": "Prusa CORE One 是我唯一信任到 2034 年還能用的機器",
+              "body": "Bambu 現在的硬體可靠度很好，但軟體模式是封閉花園，雲端帳號跟自家切片軟體都是必要的。Prusa CORE One 出貨配開源韌體，PrusaSlicer 是消費級切片軟體裡最受尊敬的，Prusa 零件型錄連 2012 年的老機型都還買得到。全鋼外骨骼跟主動腔體 55 度讓這台機器能跑工程塑料到量產品質，MK4S 升級套件讓老 Prusa 用戶可以保留原有工具庫。組裝完成版約台幣三萬九，KIT 版約台幣兩萬六，這就是長期持有的答案。"
+            },
+            {
+              "title": "Elegoo Centauri Carbon 約台幣一萬出頭打破了平價封閉 CoreXY 的天花板",
+              "body": "18 個月前約台幣一萬的封閉式 CoreXY 印表機是不存在的。Centauri Carbon 給你全金屬噴頭、振動補償、Klipper 韌體、封閉腔體，這個價位之前只能買到開放式移動床身機而且速度很差。跟 Bambu 的可靠度差距是真的，軟體生態比較單薄，組裝品質也反映這個價位。想學底層機構的學習者或預算很緊的 maker，這台是台幣六千玩具跟台幣兩萬正經機器之間第一次出現的橋樑。"
+            },
+            {
+              "title": "Ender 3 V3 SE 約台幣七千是真正新手的正確第一台",
+              "body": "推薦新手買台幣兩萬六的 P2S 之前，我都會先問他組過 3D 印表機沒，或者半夜兩點看過列印失敗沒。Ender 3 V3 SE 是學會 3D 列印是什麼的正確方式，台幣七千的移動床身機配 CR Touch 自動調平跟 Sprite 直驅擠出器，讓你犯錯、換噴頭、重組熱端、搞懂為什麼高階 CoreXY 機器值那個錢。三個月後你要嘛確定自己愛上這個興趣升級到 P2S，要嘛二手賣掉半價只虧台幣三千五。這就是進入這個類別風險最低的路徑。"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
