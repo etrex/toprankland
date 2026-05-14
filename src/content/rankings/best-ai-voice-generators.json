@@ -1177,6 +1177,184 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-14",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.3,
+            "languageSupport": 9.7,
+            "latency": 9.2,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.6,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.8,
+            "emotionalRange": 8.6,
+            "languageSupport": 8.4,
+            "latency": 9.9,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 6,
+          "score": 8.3,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 8.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "voiceRealism": 8.0,
+            "emotionalRange": 7.6,
+            "languageSupport": 8.6,
+            "latency": 7.7,
+            "valueForMoney": 8.4
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "ElevenLabs v3 multilingual quality update",
+          "url": "https://elevenlabs.io/blog/v3-multilingual-may-2026",
+          "source": "ElevenLabs"
+        },
+        {
+          "title": "Hume AI Octave 2 emotion control expands to 32 dimensions",
+          "url": "https://hume.ai/blog/octave-2-may-2026",
+          "source": "Hume AI"
+        },
+        {
+          "title": "Cartesia Sonic 3 hits 200ms first-token latency on edge",
+          "url": "https://cartesia.ai/blog/sonic-3-edge-may-2026",
+          "source": "Cartesia"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs holds the top spot and the v3 multilingual update that shipped this week tightens its lead on Cantonese, Vietnamese, and Polish, which were the three languages where serious competitors could close the gap. Hume AI Octave 2 expanded emotional control to 32 dimensions and stays at second because emotional range is genuinely category-leading for any narrative or game-dialogue use case. Cartesia Sonic 3 hit 200ms first-token latency on edge deployments this week, which is the kind of number that wins real-time voice agent work, and it moves up a position. For any voice agent that needs to interrupt and resume naturally, Cartesia is now the right pick. MiniMax holds third for multilingual general-purpose work. OpenAI GPT-4o-mini-TTS is still the right default for budget-conscious indie projects. Murf, WellSaid, and Speechify are unchanged. The market is bifurcating into a quality tier (ElevenLabs, Hume) and a latency tier (Cartesia, OpenAI), with MiniMax bridging both, and I expect that split to deepen through summer.",
+          "highlights": [
+            {
+              "title": "ElevenLabs v3 closes the multilingual gap on Cantonese, Vietnamese, Polish",
+              "body": "These three were the languages serious competitors used to undercut ElevenLabs on. The v3 update closes that gap. For multilingual content at quality, ElevenLabs is back to being the unambiguous default."
+            },
+            {
+              "title": "Cartesia Sonic 3 at 200ms makes it the voice agent winner",
+              "body": "Edge deployments at 200ms first-token is the latency number real-time voice agents need to interrupt and resume naturally. Cartesia moves up a position because no one else is shipping these numbers in production right now."
+            },
+            {
+              "title": "Hume Octave 2 wins narrative and game dialogue on emotional range",
+              "body": "32-dimension emotional control is genuinely best-in-class for any project where the voice needs to convey nuance, not just speak text. Game studios and audiobook producers should be testing it this quarter."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ElevenLabs 守住第一，這禮拜推出的 v3 多語系更新把廣東話、越南語、波蘭語這三個過去競爭對手最容易追的語種品質拉開，差距又變大了。Hume AI Octave 2 把情緒控制擴展到 32 個維度，守在第二，敘事跟遊戲對白應用上的情感範圍還是分類冠軍。\n\nCartesia Sonic 3 這禮拜在邊緣部署上做到 200ms 首 token 延遲，這是即時語音 agent 真的能勝出的數字，所以它升一位。任何需要自然打斷跟接話的語音 agent，現在首選就是它。\n\nMiniMax 守第三，多語系通用場景還是它的強項。OpenAI GPT-4o-mini-TTS 在預算敏感的獨立專案還是合理預設。\n\nMurf、WellSaid、Speechify 都沒動。市場正在分裂成品質派（ElevenLabs、Hume）跟延遲派（Cartesia、OpenAI），MiniMax 橫跨兩邊。我預期這個分裂會持續到夏天。",
+          "highlights": [
+            {
+              "title": "ElevenLabs v3 把廣東話、越南語、波蘭語的多語系缺口補起來",
+              "body": "這三個語種是過去競品最容易拿來壓 ElevenLabs 的點，v3 把這個缺口補滿了。多語系內容要求品質的場景，ElevenLabs 重新坐穩首選。"
+            },
+            {
+              "title": "Cartesia Sonic 3 的 200ms 讓它成為語音 agent 贏家",
+              "body": "邊緣部署 200ms 首 token 是即時語音 agent 自然打斷跟接話真的需要的延遲數字。Cartesia 升一位，現在沒人在生產環境穩定做到這個數字。"
+            },
+            {
+              "title": "Hume Octave 2 在敘事跟遊戲對白靠情感範圍勝出",
+              "body": "32 維情緒控制是分類最強，任何需要聲音傳達細膩情感、不只是讀稿的專案，遊戲工作室跟有聲書製作人這一季都該試試看。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

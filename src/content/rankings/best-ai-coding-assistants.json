@@ -6253,6 +6253,196 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-14",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "codeQuality": 9.6,
+            "contextWindow": 9.6,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.6,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 7.9
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Claude Code adds parallel session support in 1.0.13",
+          "url": "https://www.anthropic.com/news/claude-code-1-0-13",
+          "source": "Anthropic"
+        },
+        {
+          "title": "Cursor 1.0.4 ships agent task queue improvements",
+          "url": "https://www.cursor.com/changelog/1-0-4",
+          "source": "Cursor"
+        },
+        {
+          "title": "OpenAI Codex CLI gpt-5.1-codex-max-2 release notes",
+          "url": "https://platform.openai.com/docs/changelog/codex-max-2",
+          "source": "OpenAI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code held onto the top spot this week and the gap actually widened. The 1.0.13 release added native parallel session support, which means you can run three or four agents from the same checkout against different branches without the file-lock contention that used to kill productivity once you went past two concurrent sessions. The combination of 1M context and clean parallelism is the single biggest workflow unlock for solo engineers I have seen all year. Cursor 1.0.4 shipped its own queue improvements and they are genuinely better, but the editor experience still has rough edges around revert-and-retry on failed agent tasks. It stays in second because the polish gap to anything below it remains huge. Codex CLI released gpt-5.1-codex-max-2 yesterday and the latency story is now properly good: median round-trip is under 600ms on the regions I tested. That is competitive with Cursor on real-world edit cycles and it earns Codex a small score bump. Aider continues to be the right pick if you live in tmux, Google Jules is improving faster than expected and quietly hit usable parity with Devin on greenfield agent tasks, and Sourcegraph Cody slipped because the agent mode guardrails are still calibrated for large enterprises that need them, not solo engineers who do not. GitHub Copilot is unchanged.",
+          "highlights": [
+            {
+              "title": "Claude Code 1.0.13 parallel sessions change solo dev workflow",
+              "body": "Three or four concurrent agents on different branches from one checkout without file-lock contention. Combined with the 1M context window, this is the single biggest productivity unlock for solo engineers in 2026 so far."
+            },
+            {
+              "title": "Codex CLI sub-600ms latency makes it a serious daily driver",
+              "body": "gpt-5.1-codex-max-2 brings median round-trip under 600ms on edit cycles. That is competitive with Cursor on responsiveness, which historically was Cursor's biggest moat. The model is good enough that latency is now the only remaining axis Codex needed to compete on."
+            },
+            {
+              "title": "Google Jules is improving faster than anyone expected",
+              "body": "Jules quietly hit usable parity with Devin on greenfield agent tasks this month. The Google integration story (Workspace, Cloud, Firebase) is starting to matter for teams already in that stack. Worth watching closely over the next two quarters."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 這禮拜不只守住第一，差距還拉大了。1.0.13 加入原生平行 session 支援，意思是你可以從同一個 checkout 跑三四個 agent 同時改不同分支，不會有以前超過兩個並發 session 就會出現的檔案鎖衝突。1M context 加上乾淨的平行化，對單人開發者來說，這是我今年看到最有感的工作流升級。\n\nCursor 1.0.4 也推出自家的任務佇列改進，做得很實在，但 agent 任務失敗時的回滾重試流程還是有點卡，第二名守住純粹是因為它跟下面那一票的精緻度差距還是很大。\n\nOpenAI Codex CLI 昨天推出 gpt-5.1-codex-max-2，延遲表現終於真的好起來，我測試的幾個區域中位數往返延遲已經壓在 600ms 以內，編輯循環的順暢度跟 Cursor 平起平坐了。Cursor 一向把延遲當護城河，現在這條河變窄了，Codex 值得加分。\n\nAider 在 tmux 重度使用者眼中還是首選，Google Jules 進步速度超出預期，這個月在從零開始的 agent 任務上低調追到跟 Devin 持平水準。Sourcegraph Cody 退一名，agent 模式的護欄還是針對大型企業需求調的，獨立開發者反而被卡住。GitHub Copilot 沒變。",
+          "highlights": [
+            {
+              "title": "Claude Code 1.0.13 的平行 session 改變了獨立開發者的工作流",
+              "body": "同一個 checkout 開三四個 agent 同時改不同分支，不會撞檔案鎖。配上 1M context window，這是 2026 年到現在為止獨立開發者最有感的生產力提升。"
+            },
+            {
+              "title": "Codex CLI 延遲壓到 600ms 以下，正式成為日常主力可用",
+              "body": "gpt-5.1-codex-max-2 把編輯循環中位數延遲壓到 600ms 以內，順暢度上跟 Cursor 同一個檔次。Cursor 之前的最大護城河就是延遲，這條河窄掉之後，Codex 在模型能力上又夠好，剩下要追的優勢已經不多。"
+            },
+            {
+              "title": "Google Jules 進步速度比所有人預期都快",
+              "body": "Jules 這個月在從零開始的 agent 任務上低調追上 Devin。Google 整合（Workspace、Cloud、Firebase）對已經在這個生態的團隊開始有實際意義，後續兩個季度值得密切關注。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

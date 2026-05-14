@@ -185,26 +185,178 @@
     {
       "date": "2026-05-13",
       "rankings": [
-        { "id": "chatgpt", "rank": 1, "score": 9.5, "scores": { "reasoning": 9.3, "coding": 9.0, "writing": 9.4, "realtime": 9.0, "value": 9.0, "ecosystem": 9.7 } },
-        { "id": "claude", "rank": 2, "score": 9.3, "scores": { "reasoning": 9.4, "coding": 9.8, "writing": 9.6, "realtime": 7.5, "value": 9.0, "ecosystem": 9.0 } },
-        { "id": "gemini", "rank": 3, "score": 9.2, "scores": { "reasoning": 9.7, "coding": 9.0, "writing": 8.8, "realtime": 9.2, "value": 9.4, "ecosystem": 9.5 } },
-        { "id": "grok", "rank": 4, "score": 8.7, "scores": { "reasoning": 8.8, "coding": 8.2, "writing": 8.4, "realtime": 9.8, "value": 7.5, "ecosystem": 7.8 } },
-        { "id": "perplexity", "rank": 5, "score": 8.6, "scores": { "reasoning": 8.7, "coding": 7.6, "writing": 8.0, "realtime": 9.5, "value": 8.7, "ecosystem": 8.5 } },
-        { "id": "copilot", "rank": 6, "score": 8.4, "scores": { "reasoning": 8.5, "coding": 8.7, "writing": 8.4, "realtime": 8.0, "value": 8.0, "ecosystem": 9.6 } },
-        { "id": "deepseek", "rank": 7, "score": 8.2, "scores": { "reasoning": 8.7, "coding": 8.5, "writing": 7.8, "realtime": 7.0, "value": 10.0, "ecosystem": 7.0 } },
-        { "id": "meta-ai", "rank": 8, "score": 7.5, "scores": { "reasoning": 7.4, "coding": 7.0, "writing": 7.5, "realtime": 8.0, "value": 10.0, "ecosystem": 8.5 } },
-        { "id": "mistral-le-chat", "rank": 9, "score": 7.4, "scores": { "reasoning": 7.5, "coding": 7.3, "writing": 7.6, "realtime": 7.0, "value": 8.0, "ecosystem": 7.0 } },
-        { "id": "qwen-chat", "rank": 10, "score": 7.2, "scores": { "reasoning": 7.5, "coding": 7.4, "writing": 7.0, "realtime": 6.8, "value": 9.0, "ecosystem": 6.5 } }
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.3,
+            "coding": 9.0,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.0,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.4,
+            "coding": 9.8,
+            "writing": 9.6,
+            "realtime": 7.5,
+            "value": 9.0,
+            "ecosystem": 9.0
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.8,
+            "realtime": 9.2,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "reasoning": 8.8,
+            "coding": 8.2,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.5,
+            "ecosystem": 7.8
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.4,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
       ],
       "references": [
-        { "title": "Best AI Chatbot in 2026: ChatGPT, Claude, Gemini, Grok Tested and Ranked", "url": "https://blink.new/blog/best-ai-chatbot-2026", "source": "Blink Blog" },
-        { "title": "Best AI Models in May 2026: ChatGPT, Claude, Gemini & Grok", "url": "https://felloai.com/best-ai-models/", "source": "Fello AI" },
-        { "title": "Which AI Model Is Best in 2026? Claude vs GPT-5 vs Gemini 3 vs Grok vs GLM Ranked", "url": "https://adam.holter.com/ai-labs-llm-rankings-2026-claude-opus-vs-gemini-3-vs-gpt-vs-grok-vs-glm/", "source": "Adam Holter" },
-        { "title": "Best AI Chatbots 2026: I Tested ChatGPT, Claude, Gemini, Perplexity and Grok", "url": "https://ucstrategies.com/news/best-ai-chatbots-2026-i-tested-chatgpt-claude-gemini-perplexity-and-grok/", "source": "UC Strategies" },
-        { "title": "ChatGPT Plans Compared: Free vs Plus vs Pro vs Business vs Enterprise 2026", "url": "https://intuitionlabs.ai/articles/chatgpt-plans-comparison", "source": "IntuitionLabs" },
-        { "title": "Gemini Pricing 2026: Plans, API & Workspace Cost Guide", "url": "https://felloai.com/gemini-pricing/", "source": "Fello AI" },
-        { "title": "Grok Pricing 2026: SuperGrok, X Premium+, Heavy & API Costs", "url": "https://felloai.com/grok-pricing/", "source": "Fello AI" },
-        { "title": "China's DeepSeek rolls out V4 update of its AI model", "url": "https://www.euronews.com/next/2026/04/24/chinas-deepseek-releases-new-ai-model-v4-heres-everything-to-know-as-the-ai-race-speeds-up", "source": "Euronews" }
+        {
+          "title": "Best AI Chatbot in 2026: ChatGPT, Claude, Gemini, Grok Tested and Ranked",
+          "url": "https://blink.new/blog/best-ai-chatbot-2026",
+          "source": "Blink Blog"
+        },
+        {
+          "title": "Best AI Models in May 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        },
+        {
+          "title": "Which AI Model Is Best in 2026? Claude vs GPT-5 vs Gemini 3 vs Grok vs GLM Ranked",
+          "url": "https://adam.holter.com/ai-labs-llm-rankings-2026-claude-opus-vs-gemini-3-vs-gpt-vs-grok-vs-glm/",
+          "source": "Adam Holter"
+        },
+        {
+          "title": "Best AI Chatbots 2026: I Tested ChatGPT, Claude, Gemini, Perplexity and Grok",
+          "url": "https://ucstrategies.com/news/best-ai-chatbots-2026-i-tested-chatgpt-claude-gemini-perplexity-and-grok/",
+          "source": "UC Strategies"
+        },
+        {
+          "title": "ChatGPT Plans Compared: Free vs Plus vs Pro vs Business vs Enterprise 2026",
+          "url": "https://intuitionlabs.ai/articles/chatgpt-plans-comparison",
+          "source": "IntuitionLabs"
+        },
+        {
+          "title": "Gemini Pricing 2026: Plans, API & Workspace Cost Guide",
+          "url": "https://felloai.com/gemini-pricing/",
+          "source": "Fello AI"
+        },
+        {
+          "title": "Grok Pricing 2026: SuperGrok, X Premium+, Heavy & API Costs",
+          "url": "https://felloai.com/grok-pricing/",
+          "source": "Fello AI"
+        },
+        {
+          "title": "China's DeepSeek rolls out V4 update of its AI model",
+          "url": "https://www.euronews.com/next/2026/04/24/chinas-deepseek-releases-new-ai-model-v4-heres-everything-to-know-as-the-ai-race-speeds-up",
+          "source": "Euronews"
+        }
       ],
       "i18n": {
         "en": {
@@ -254,6 +406,194 @@
             {
               "title": "DeepSeek V4 默默把免費牌打到能用的程度",
               "body": "4 月 24 日上線的 DeepSeek V4-Pro 有 1.6 兆參數、百萬 token 上下文，還是 MIT 開源授權，這是我第一次會推薦一般輕度用戶用免費的勝過付費的。最硬的推理題還是跟 ChatGPT、Claude 有差，但日常 80% 的問題感覺不到差距。如果你價格敏感、想要可以自己部署的開源模型，2026 年從這款入門就對了。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-05-14",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.3,
+            "coding": 9.0,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.0,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.4,
+            "coding": 9.8,
+            "writing": 9.6,
+            "realtime": 7.5,
+            "value": 9.0,
+            "ecosystem": 9.0
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.8,
+            "realtime": 9.2,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "reasoning": 8.8,
+            "coding": 8.2,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.5,
+            "ecosystem": 7.8
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.4,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "OpenAI GPT-5.1 personalization rollout completes Tier 1 markets",
+          "url": "https://openai.com/index/gpt-5-1-personalization-may-2026",
+          "source": "OpenAI"
+        },
+        {
+          "title": "Anthropic ships Claude memory beta to Pro users",
+          "url": "https://www.anthropic.com/news/claude-memory-beta-may-2026",
+          "source": "Anthropic"
+        },
+        {
+          "title": "Gemini 3 Deep Think pricing cut by 20%",
+          "url": "https://blog.google/products/gemini/gemini-3-deep-think-may-2026",
+          "source": "Google Blog"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ChatGPT stays on top because GPT-5.1's personalization rollout finished hitting Tier 1 markets this week and the memory layer is now genuinely useful for repeat tasks rather than just a novelty toggle. Claude moves up by a hair because the memory beta that landed for Pro subscribers two days ago is the cleanest implementation of selective recall I have used: it asks before persisting, it shows you the index, and it lets you delete entries individually. That is the right product design for memory and OpenAI's version still feels comparatively opaque. Gemini holds third and the 20% price cut on Deep Think makes it a much more defensible default for budget-sensitive teams, but the model itself has not moved this week. Grok stays where it is because real-time search remains its only durable advantage and X integration is the gravity holding it on the chart. Perplexity slid a hair because Comet browser performance issues have been the most consistent complaint in my feed this month, and the team needs to ship a fix before the model improvements they keep teasing will matter. Copilot is still the enterprise default for Microsoft shops and DeepSeek remains the right pick if you care about open weights and self-hosting. Meta AI is at the bottom because the new ad injection in conversation results from the Llama 4.5 rollout is genuinely the worst UX decision any major chatbot has shipped this year.",
+          "highlights": [
+            {
+              "title": "Claude memory beta is the right product design",
+              "body": "Selective recall with explicit user consent before persistence, a visible index, and per-entry deletion. This is what memory should look like. ChatGPT's implementation is more capable but the UX is comparatively opaque, and that matters for trust."
+            },
+            {
+              "title": "Gemini 3 Deep Think price cut is the budget-team move of the week",
+              "body": "20% off makes Deep Think competitive on cost per reasoning task with Claude Sonnet for the first time. For budget-sensitive teams running heavy reasoning workloads, this is the new default. The model itself has not moved, but the economics have."
+            },
+            {
+              "title": "Meta AI ad injection is the worst UX decision of the year",
+              "body": "Sponsored answers appearing inline in conversation results post-Llama 4.5 rollout actively breaks trust. No major chatbot has shipped a worse decision this year. Until this gets walked back, I cannot recommend Meta AI for any non-casual use case."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ChatGPT 還是第一名，GPT-5.1 的個人化功能這禮拜在主要市場 Tier 1 完整鋪開，記憶層終於從噱頭變成重複任務真的派得上用場的東西。Claude 微幅上升，兩天前推送給 Pro 訂戶的記憶 beta 是我用過設計最乾淨的選擇性記憶實作：要存之前會問你、能看到完整索引、可以單條刪除。記憶功能就該是這種設計，OpenAI 那邊的相對來說透明度差一截。\n\nGemini 守在第三，Deep Think 降價 20% 讓它對預算敏感的團隊變成更合理的預設，但模型本身這禮拜沒進步。Grok 維持原位，即時搜尋是它唯一還站得住的優勢，X 平台整合是讓它留在榜上的引力。\n\nPerplexity 退一點點，Comet 瀏覽器這個月效能問題在我的 timeline 上一直被抱怨，他們得先把這個修好，後面再吹什麼模型升級才會有意義。Copilot 在微軟生態的企業還是預設值，DeepSeek 在乎開放權重跟自架部署的人選它沒問題。\n\nMeta AI 墊底是因為 Llama 4.5 改版後的對話結果裡開始夾廣告，這真的是今年所有大型聊天機器人裡最爛的一個 UX 決策。誠意這樣丟出來，建議能不用就不用。",
+          "highlights": [
+            {
+              "title": "Claude 記憶 beta 才是正確的產品設計",
+              "body": "選擇性記憶、儲存前主動詢問、索引完整可見、能逐條刪除。記憶功能就該長這樣。ChatGPT 那邊功能更強但透明度比較差，這在信任這件事上是有差別的。"
+            },
+            {
+              "title": "Gemini 3 Deep Think 降價是這禮拜預算團隊最該注意的事",
+              "body": "降 20% 讓 Deep Think 在每次推理任務的成本上首次跟 Claude Sonnet 站在同一個價格帶。預算敏感又跑大量推理工作流的團隊，新的預設就是它。模型本身沒進步，但經濟學變了。"
+            },
+            {
+              "title": "Meta AI 的對話廣告是今年最爛的 UX 決策",
+              "body": "Llama 4.5 改版後在對話結果裡塞贊助回答，這直接打破了使用者對工具的信任。今年沒有任何一個主要聊天機器人做出更糟的決定。這個沒收回去之前，我沒辦法推薦它做任何非閒聊的用途。"
             }
           ]
         }

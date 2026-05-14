@@ -5158,6 +5158,148 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-14",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.6,
+            "network": 9.5,
+            "usability": 9.0,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 9.1,
+            "network": 9.6,
+            "usability": 9.0,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Mullvad 2026 audit report published",
+          "url": "https://mullvad.net/blog/audit-2026-may-2026",
+          "source": "Mullvad"
+        },
+        {
+          "title": "ProtonVPN expands WireGuard server network",
+          "url": "https://protonvpn.com/blog/wireguard-may-2026",
+          "source": "ProtonVPN"
+        },
+        {
+          "title": "NordVPN Meshnet 2.0 launches",
+          "url": "https://nordvpn.com/blog/meshnet-2-may-2026",
+          "source": "NordVPN"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Mullvad holds first and the 2026 audit report published this week shows clean infrastructure security with no findings of consequence. For privacy-first users this is the kind of substantiation that justifies the position. First place locked in. ProtonVPN expanded WireGuard server network this week, addressing the only durable complaint (server density in secondary regions). Score holds, second place unchanged. NordVPN launched Meshnet 2.0 this week, which adds private peer-to-peer networking capabilities that are genuinely useful for remote teams. Score bump earned, third place unchanged. IVPN, ExpressVPN, Surfshark, and Windscribe are unchanged. VPN market is stable; the privacy tier and consumer tier continue to diverge, with users increasingly choosing based on threat model rather than feature comparison.",
+          "highlights": [
+            {
+              "title": "Mullvad 2026 audit substantiates the privacy-first position",
+              "body": "Clean infrastructure security with no findings of consequence. For privacy-first users this is the kind of substantiation that justifies the top position. First place locked in for users with serious threat models."
+            },
+            {
+              "title": "ProtonVPN WireGuard expansion fixes the only durable complaint",
+              "body": "Expanded server network addresses the only durable complaint, which was server density in secondary regions. With this fixed ProtonVPN is the right pick for users wanting both privacy guarantees and consumer-grade convenience."
+            },
+            {
+              "title": "NordVPN Meshnet 2.0 is the remote-team feature",
+              "body": "Private peer-to-peer networking capabilities are genuinely useful for remote teams that need to access on-prem resources without exposing them publicly. Score bump earned and third place locked in."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Mullvad 守住第一，這禮拜公布的 2026 稽核報告顯示基礎設施安全沒有重大發現。隱私優先的使用者，這種佐證讓位置合理。第一名鎖定。\n\nProtonVPN 這禮拜擴大 WireGuard 伺服器網路，解決唯一持續的抱怨——次要地區伺服器密度。分數守住，第二名不動。\n\nNordVPN 這禮拜推出 Meshnet 2.0，加入私人點對點網路能力，對遠端團隊真的有用。值得加分，第三名不動。\n\nIVPN、ExpressVPN、Surfshark、Windscribe 都沒動。\n\nVPN 市場很穩，隱私段跟消費段繼續分歧，使用者越來越依照威脅模型選擇，而不是依照功能比較。",
+          "highlights": [
+            {
+              "title": "Mullvad 2026 稽核佐證隱私優先位置",
+              "body": "基礎設施安全沒有重大發現。隱私優先使用者，這種佐證讓榜首位置合理。有嚴肅威脅模型的使用者第一名鎖定。"
+            },
+            {
+              "title": "ProtonVPN WireGuard 擴展修好唯一持續的抱怨",
+              "body": "擴大伺服器網路解決唯一持續的抱怨——次要地區伺服器密度。修好之後 ProtonVPN 是要隱私保證兼顧消費級便利性的首選。"
+            },
+            {
+              "title": "NordVPN Meshnet 2.0 是遠端團隊的功能",
+              "body": "私人點對點網路能力對需要存取地端資源又不想公開暴露的遠端團隊真的有用。值得加分，第三名鎖定。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

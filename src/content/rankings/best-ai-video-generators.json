@@ -1350,6 +1350,184 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-14",
+      "rankings": [
+        {
+          "id": "google-veo-3-1",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "kling-3-0",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "promptAdherence": 9.0,
+            "motionRealism": 9.1,
+            "audioVideoSync": 8.6,
+            "characterConsistency": 8.9,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "promptAdherence": 9.0,
+            "motionRealism": 8.8,
+            "audioVideoSync": 9.4,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 6,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 9,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 10,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Google Veo 3.1 adds 30-second clip support",
+          "url": "https://deepmind.google/discover/blog/veo-3-1-may-2026",
+          "source": "Google DeepMind"
+        },
+        {
+          "title": "Runway Gen-4.5 ships keyframe interpolation upgrade",
+          "url": "https://runwayml.com/blog/gen-4-5-may-2026",
+          "source": "Runway"
+        },
+        {
+          "title": "Kling 3.0 cuts API pricing for high-volume users",
+          "url": "https://klingai.com/blog/3-0-pricing-may-2026",
+          "source": "Kling AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Veo 3.1 stays on top and the 30-second clip support that landed this week is the single biggest change in the category since native audio shipped last year. Most AI video work has been bottlenecked by clip length forcing creators into stitching workflows that always introduce visible cuts, and 30 seconds is enough for most commercial spots in one generation. Runway Gen-4.5 shipped a keyframe interpolation upgrade that is genuinely better than what was in the previous build, and it earns a small score bump even though it stays second. Character consistency at 4.5 is still the best in the category for narrative work. Kling 3.0 cut API pricing for high-volume users, which makes it the right default for studios running thousands of generations per week, and it remains the value pick. Seedance 2.0 holds fourth and the audio-video sync is still its strongest argument. Hailuo, Luma, Pika, and Firefly are unchanged. The market is consolidating fast around the top four and I do not expect anyone below that line to break through this quarter.",
+          "highlights": [
+            {
+              "title": "Veo 3.1 30-second clips eliminate the stitching workflow",
+              "body": "Most commercial spots fit in 30 seconds. Generating that in one pass instead of stitching shorter clips removes the visible cuts that have plagued AI video since the beginning. This is the biggest workflow unlock since audio."
+            },
+            {
+              "title": "Runway Gen-4.5 character consistency still wins narrative work",
+              "body": "Keyframe interpolation upgrade improves motion quality but the real story is that character consistency across shots is still best-in-class. For anyone doing narrative or branded content with recurring characters, Runway is the pick."
+            },
+            {
+              "title": "Kling 3.0 API price cut makes it the studio default",
+              "body": "High-volume tier pricing is now the most aggressive in the market. Studios running thousands of generations per week have a clear winner on cost per output. The model quality is also still top-tier on value."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Veo 3.1 守住第一，這禮拜推出的 30 秒片段支援，是這個類別繼去年原生音訊推出之後最大的改變。大部分 AI 影片工作流一直被片段長度卡住，逼創作者用拼接做法，那種剪輯點一向看得出來。30 秒一次生成完，已經足夠涵蓋大部分商業廣告的長度。\n\nRunway Gen-4.5 這禮拜推送的關鍵影格內插升級是真的有進步，雖然榜上還是第二，給它加一點分。4.5 版的角色一致性在敘事型工作上還是全市場最好的。\n\nKling 3.0 對大量使用者的 API 降價，讓它成為一週要跑幾千次生成的工作室首選，C/P 值定位很明確。Seedance 2.0 守第四，音畫同步還是它最強的賣點。\n\nHailuo、Luma、Pika、Firefly 都沒動。市場正在快速向前四名集中，這一季我不認為前四以下會有人能突圍。",
+          "highlights": [
+            {
+              "title": "Veo 3.1 的 30 秒片段消除了拼接工作流",
+              "body": "大部分商業廣告都在 30 秒以內。一次生成完成，省掉拼接短片那種看得出剪輯點的問題，這是 AI 影片自誕生以來除了音訊之外最大的工作流升級。"
+            },
+            {
+              "title": "Runway Gen-4.5 在敘事型工作上靠角色一致性勝出",
+              "body": "關鍵影格內插升級提升了動態品質，但真正的賣點還是跨鏡頭的角色一致性還是全市場最好的。要做敘事或品牌內容、有重複出現角色的需求，Runway 就是首選。"
+            },
+            {
+              "title": "Kling 3.0 API 降價讓它成為工作室預設",
+              "body": "大量使用方案的定價現在是市場最積極的。一週跑幾千次生成的工作室，每次輸出的成本贏家很明確。模型品質本身也還是 C/P 值頂尖。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -1370,6 +1370,184 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-14",
+      "rankings": [
+        {
+          "id": "suno-v5",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "audioQuality": 9.7,
+            "vocalRealism": 9.4,
+            "editingControl": 9.5,
+            "commercialLicense": 7.5,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "elevenlabs-music",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "audioQuality": 9.2,
+            "vocalRealism": 9.7,
+            "editingControl": 8.1,
+            "commercialLicense": 9.6,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "udio",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "audioQuality": 9.6,
+            "vocalRealism": 9.5,
+            "editingControl": 9.7,
+            "commercialLicense": 6.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "audioQuality": 8.8,
+            "vocalRealism": 7.0,
+            "editingControl": 8.5,
+            "commercialLicense": 9.4,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "riffusion",
+          "rank": 5,
+          "score": 8.0,
+          "scores": {
+            "audioQuality": 8.2,
+            "vocalRealism": 7.8,
+            "editingControl": 8.5,
+            "commercialLicense": 8.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "soundraw",
+          "rank": 6,
+          "score": 7.8,
+          "scores": {
+            "audioQuality": 8.0,
+            "vocalRealism": 6.5,
+            "editingControl": 7.5,
+            "commercialLicense": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aiva",
+          "rank": 7,
+          "score": 7.5,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 6.8,
+            "editingControl": 7.8,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "mubert",
+          "rank": 8,
+          "score": 7.3,
+          "scores": {
+            "audioQuality": 7.5,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "loudly",
+          "rank": 9,
+          "score": 7.0,
+          "scores": {
+            "audioQuality": 7.3,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "boomy",
+          "rank": 10,
+          "score": 6.8,
+          "scores": {
+            "audioQuality": 6.8,
+            "vocalRealism": 6.5,
+            "editingControl": 6.8,
+            "commercialLicense": 8.5,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Suno v5.1 brings cleaner stem separation",
+          "url": "https://suno.com/blog/v5-1-may-2026",
+          "source": "Suno"
+        },
+        {
+          "title": "ElevenLabs Music expands commercial licensing tiers",
+          "url": "https://elevenlabs.io/blog/music-commercial-may-2026",
+          "source": "ElevenLabs"
+        },
+        {
+          "title": "Udio Songwriter mode out of beta",
+          "url": "https://www.udio.com/blog/songwriter-ga-may-2026",
+          "source": "Udio"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Suno keeps the top spot and the v5.1 update this week is mostly about cleaner stem separation, which sounds boring until you try to actually license a generated track and need clean instrumental and vocal channels. This is the kind of unglamorous infrastructure work that wins the commercial market. ElevenLabs Music holds second and expanded its commercial licensing tiers, which makes it the safest pick for ads, games, and any commercial use case where Suno's licensing terms still leave creators nervous. The vocal realism gap is closing but ElevenLabs is winning on legal clarity. Udio shipped Songwriter mode out of beta this week, which gives it the cleanest editing controls in the category, but the commercial license uncertainty keeps it at third for any creator who needs predictability. Stable Audio 2.5 is the right pick for game studios because the licensing is the cleanest of anyone, full stop. Riffusion, Soundraw, AIVA, and Mubert are all unchanged on the leaderboard but each occupies a legitimate niche.",
+          "highlights": [
+            {
+              "title": "Suno v5.1 stem separation is the commercial market move",
+              "body": "Clean instrumental and vocal channels turn a generated track into something you can actually license. This is unglamorous infrastructure work and it is exactly what wins the next phase of the AI music market."
+            },
+            {
+              "title": "ElevenLabs Music wins on licensing clarity, full stop",
+              "body": "Expanded commercial tiers give creators legal predictability that Suno still does not match. For ads, games, and commercial work, ElevenLabs is the lower-risk pick even if Suno wins on raw musicality."
+            },
+            {
+              "title": "Udio Songwriter GA is the best editing experience in the category",
+              "body": "Out-of-beta Songwriter mode has the cleanest controls for restructuring AI-generated tracks. Licensing uncertainty is still the only thing keeping it from challenging the top two for commercial use cases."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Suno 守在第一，v5.1 這禮拜的重點是分軌品質變乾淨，聽起來很無聊，但你真的要授權一首生成的歌、需要乾淨的伴奏跟人聲分軌時就會發現這超重要。這種看起來不華麗的基礎建設，才是商業市場真正的勝負手。\n\nElevenLabs Music 守第二，這禮拜擴充了商業授權方案，廣告、遊戲、任何商業用途用它最安全，Suno 的授權條款還是會讓創作者神經緊張。人聲擬真度的差距在縮小，但 ElevenLabs 在法律確定性上勝出。\n\nUdio 這禮拜把 Songwriter 模式正式推出 GA，剪輯控制是這個分類最完整的，但商業授權的不確定性還是壓得它在第三，需要可預測性的創作者用它前要先想清楚。\n\nStable Audio 2.5 是遊戲工作室的首選，授權條款乾淨度全市場最好沒有之一。Riffusion、Soundraw、AIVA、Mubert 榜上沒動，各自還有自己合理的利基市場。",
+          "highlights": [
+            {
+              "title": "Suno v5.1 分軌品質才是商業市場的勝負手",
+              "body": "乾淨的伴奏跟人聲分軌，把一首生成歌曲變成真的能授權的東西。這種看起來不華麗的基礎建設工作，是 AI 音樂市場下一階段勝負的關鍵。"
+            },
+            {
+              "title": "ElevenLabs Music 在授權清晰度上全面勝出",
+              "body": "擴充後的商業方案給創作者 Suno 至今做不到的法律可預測性。廣告、遊戲、商業專案用它就是風險最低的選擇，就算 Suno 在純音樂性上勝出也一樣。"
+            },
+            {
+              "title": "Udio Songwriter 正式版是這個分類最好的剪輯體驗",
+              "body": "GA 後的 Songwriter 模式，重組 AI 生成曲目的控制細緻度是全市場最好的。授權條款的不確定性還是它沒辦法挑戰前兩名商業用途主力的唯一關鍵。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
