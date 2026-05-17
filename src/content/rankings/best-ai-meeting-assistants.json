@@ -904,6 +904,220 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-17",
+      "rankings": [
+        {
+          "id": "granola",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "transcriptionQuality": 9.2,
+            "integrations": 8.5,
+            "userExperience": 9.8,
+            "privacy": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "fathom",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "transcriptionQuality": 8.9,
+            "integrations": 8.0,
+            "userExperience": 9.0,
+            "privacy": 8.5,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "otter-ai",
+          "rank": 3,
+          "score": 8.5,
+          "scores": {
+            "transcriptionQuality": 9.0,
+            "integrations": 8.5,
+            "userExperience": 8.5,
+            "privacy": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "fireflies",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 9.5,
+            "userExperience": 8.0,
+            "privacy": 8.2,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "fellow",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 8.8,
+            "userExperience": 8.0,
+            "privacy": 9.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "tldv",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 7.8,
+            "userExperience": 8.5,
+            "privacy": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "read-ai",
+          "rank": 7,
+          "score": 8.1,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 8.2,
+            "userExperience": 8.8,
+            "privacy": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "krisp",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "transcriptionQuality": 8.0,
+            "integrations": 7.5,
+            "userExperience": 9.0,
+            "privacy": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "zoom-ai-companion",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "transcriptionQuality": 8.0,
+            "integrations": 7.5,
+            "userExperience": 8.5,
+            "privacy": 8.0,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "avoma",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "transcriptionQuality": 8.0,
+            "integrations": 8.5,
+            "userExperience": 7.5,
+            "privacy": 8.0,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "circleback",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "transcriptionQuality": 8.2,
+            "integrations": 8.5,
+            "userExperience": 8.0,
+            "privacy": 8.0,
+            "valueForMoney": 6.8
+          }
+        },
+        {
+          "id": "microsoft-365-copilot",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "transcriptionQuality": 8.0,
+            "integrations": 9.5,
+            "userExperience": 7.0,
+            "privacy": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "gong",
+          "rank": 13,
+          "score": 7.3,
+          "scores": {
+            "transcriptionQuality": 9.0,
+            "integrations": 9.0,
+            "userExperience": 7.5,
+            "privacy": 8.5,
+            "valueForMoney": 4.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Granola raised $125M Series C at $1.5B valuation",
+          "url": "https://www.yipitdata.com/resources/blog/granola-vs-fathom-otter-fireflies-ai-notetaking",
+          "source": "YipitData"
+        },
+        {
+          "title": "Fathom adds a bot-less meeting mode in a bid to take on Granola",
+          "url": "https://techcrunch.com/2026/04/15/fathom-adds-a-bot-less-meeting-mode-in-a-bid-to-take-on-granola/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Best AI Note Takers in 2026 (Tested and Ranked)",
+          "url": "https://meetingnotes.com/blog/best-ai-note-takers",
+          "source": "Meeting Notes"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Granola stays on top and the YipitData mid-market spend study published this week is the strongest external validation of what I have been seeing in my own pipeline: Granola is outpacing Fathom, Otter, and Fireflies on net new spend with near-zero churn. The team plan that launched last week is part of the story, but the bigger story is that bot-less capture is winning hearts at the small-team level where IT is not driving the decision. Fathom held second after launching a bot-less mode in mid-April aimed directly at Granola, and the 2-minute video summary feature continues to be the killer add for sales teams who want to share a single clip with a prospect instead of a full recording. Otter holds third on the strength of the Slack Huddles integration that shipped last week, which is still the cleanest huddle transcription implementation I have tested. Fireflies stays where it was; the analytics depth is genuinely market-leading for sales orgs but the UX gap to Granola keeps growing. Fellow keeps the legal and healthcare niche locked in. Read AI and tl;dv are unchanged. Krisp remains the right call for noise suppression on bad international lines.",
+          "highlights": [
+            {
+              "title": "Granola Series C and YipitData spend numbers confirm market leadership",
+              "body": "$125M Series C at a $1.5B valuation, 3x spend growth and near-zero churn in mid-market. The numbers match what I have been seeing in real procurement conversations. Granola is the default for new buyers under 200 employees and that gap is widening every week."
+            },
+            {
+              "title": "Fathom bot-less mode plus video clips keeps it locked in second",
+              "body": "The April bot-less launch was a direct response to Granola's gravity, and combined with the 2-minute video summary feature it is enough to hold second comfortably. Sales teams still pick Fathom first for the clip-sharing workflow alone."
+            },
+            {
+              "title": "Otter Slack Huddles integration is the best huddle transcription in market",
+              "body": "Most huddle transcription integrations break on audio routing. Otter's just works, including across reconnections. Otter holds third on this alone, and it is a meaningful reason for Slack-first orgs to stick rather than churn to Granola."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Granola 守在第一，YipitData 這禮拜發表的中型市場花費研究是我自己 pipeline 觀察到的趨勢最強外部驗證：Granola 在新增客戶花費上把 Fathom、Otter、Fireflies 甩開，流失率接近零。上禮拜推出的團隊方案是故事的一部分，但更大的故事是無 bot 的捕捉方式在 IT 不主導的小團隊層級贏得人心。\n\nFathom 守第二，四月中推出的無 bot 模式直接對標 Granola，加上兩分鐘影片摘要功能，業務團隊想分享單一片段給潛在客戶而不是整段錄影連結的工作流，還是 Fathom 贏。\n\nOtter 守第三，上禮拜推出的 Slack Huddles 整合是我測過最完整的 huddle 轉錄實作。Fireflies 維持原位，分析深度對業務組織還是市場領先，但跟 Granola 的 UX 差距持續擴大。\n\nFellow 在法務跟醫療利基還是穩穩鎖住。Read AI 跟 tl;dv 都沒動。Krisp 在國際視訊線路品質不好時的降噪還是首選。",
+          "highlights": [
+            {
+              "title": "Granola C 輪募資加上 YipitData 花費數據確認市場領導地位",
+              "body": "1.25 億美元 C 輪在 15 億美元估值、中型市場 3 倍花費成長、流失率接近零。這些數字跟我在實際採購對話中看到的完全吻合。200 人以下的新買家現在預設選 Granola，這個差距每週都在擴大。"
+            },
+            {
+              "title": "Fathom 無 bot 模式加上影片片段功能穩坐第二",
+              "body": "四月那次無 bot 模式發布是對 Granola 引力的直接回應，配上兩分鐘影片摘要功能，足以穩坐第二。業務團隊光是為了片段分享工作流就還是優先選 Fathom。"
+            },
+            {
+              "title": "Otter Slack Huddles 整合是市場最好的 huddle 轉錄實作",
+              "body": "大部分 huddle 轉錄整合都會在音訊路由翻車，Otter 這個就是能正常運作，連斷線重連都正確處理。Otter 守第三就靠這個，對於 Slack 為主的組織來說是留下來不轉到 Granola 的關鍵理由。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

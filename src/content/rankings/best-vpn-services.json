@@ -5300,6 +5300,148 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-17",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.6,
+            "network": 9.5,
+            "usability": 9.0,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 9.1,
+            "network": 9.6,
+            "usability": 9.0,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "NordVPN had a busy start to 2026 — here's a recap of all the releases",
+          "url": "https://www.techradar.com/vpn/vpn-services/nordvpn-had-a-busy-start-to-2026-heres-a-recap-of-all-the-releases-you-may-have-missed",
+          "source": "TechRadar"
+        },
+        {
+          "title": "Mullvad VPN vs ExpressVPN: Which One is Better in 2026?",
+          "url": "https://cybernews.com/best-vpn/mullvad-vs-expressvpn/",
+          "source": "Cybernews"
+        },
+        {
+          "title": "Forget OpenVPN, WireGuard: This is the VPN protocol of the future",
+          "url": "https://www.techradar.com/vpn/vpn-privacy-security/forget-openvpn-wireguard-this-is-the-vpn-protocol-of-the-future",
+          "source": "TechRadar"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Mullvad stays on top and the February security audit by Assured Security Consultants that verified GotaTun is still doing the heavy lifting on credibility. The iOS app security update earlier this year locked down the last meaningful platform gap. For privacy purists who actually read audit reports, nothing else comes close. ProtonVPN holds second and the Proton ecosystem story (Mail, Drive, Pass) keeps strengthening its position with privacy-conscious power users who want one subscription instead of four. IVPN keeps third for the same reason it always has: tiny attack surface, no marketing fluff, and ownership transparency that nobody else matches. NordVPN holds fourth and the busy first half of 2026 (mobile app redesign with the interactive full-screen map, NordWhisper protocol work, and QUIC integration in progress) is keeping it the right mainstream default for non-technical users. ExpressVPN stays fifth on the strength of the audited TrustedServer architecture even though it has been quiet on shipping news. Surfshark, Windscribe, and AirVPN are unchanged. The story this week is that the privacy tier (Mullvad, Proton, IVPN) and the mainstream tier (Nord, Express, Surfshark) are diverging on protocol innovation and obfuscation, and that split is going to last.",
+          "highlights": [
+            {
+              "title": "Mullvad audit credibility plus GotaTun verification keeps it untouchable",
+              "body": "The February Assured Security Consultants audit verified GotaTun and the iOS app security update closed the last meaningful gap. Privacy purists who actually read audit reports have no equivalent option. First place locked in indefinitely."
+            },
+            {
+              "title": "NordVPN protocol roadmap makes it the safest mainstream pick",
+              "body": "Mobile app redesign with interactive full-screen map, NordWhisper protocol expansion, and QUIC integration work in progress are the right roadmap signals for non-technical users who want a credible default. Holds fourth and gaining on the protocol-modernization story."
+            },
+            {
+              "title": "Proton ecosystem keeps ProtonVPN the right privacy-plus-utility pick",
+              "body": "Proton Mail, Drive, Pass, and VPN under one subscription is the cleanest privacy-conscious bundle in the market. For users who want privacy without juggling four vendors ProtonVPN is the right choice, and the bundle keeps strengthening every quarter."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Mullvad 守在第一，二月 Assured Security Consultants 對 GotaTun 的安全稽核還在撐起信譽。今年稍早的 iOS app 安全更新把最後一個有意義的平台缺口補上。會真的去讀稽核報告的隱私純粹派，沒有別的選擇能跟它比。\n\nProtonVPN 守第二，Proton 生態（Mail、Drive、Pass）的故事持續強化它在重度隱私意識使用者中的地位，這群人想要一個訂閱搞定，不想付四份。\n\nIVPN 守第三，理由跟過去一樣：攻擊面極小、沒有行銷話術、所有權透明度全市場無人能比。\n\nNordVPN 守第四，2026 上半年的動作（手機 app 重新設計加上可全螢幕的互動地圖、NordWhisper 協定持續演進、QUIC 整合進行中）讓它持續是非技術使用者的合理主流預設。ExpressVPN 守第五，靠的還是經過稽核的 TrustedServer 架構，雖然推送新聞一向安靜。Surfshark、Windscribe、AirVPN 都沒動。\n\n這禮拜的故事是隱私派（Mullvad、Proton、IVPN）跟主流派（Nord、Express、Surfshark）在協定創新跟混淆技術上正在分裂，這個分裂會持續下去。",
+          "highlights": [
+            {
+              "title": "Mullvad 稽核信譽加上 GotaTun 驗證讓它無懈可擊",
+              "body": "二月 Assured Security Consultants 對 GotaTun 的稽核加上 iOS app 安全更新把最後一個有意義的缺口補上。會真的去讀稽核報告的隱私純粹派沒有對等選擇，第一名長期鎖死。"
+            },
+            {
+              "title": "NordVPN 協定路線圖讓它成為最安全的主流選擇",
+              "body": "手機 app 重新設計加上互動全螢幕地圖、NordWhisper 協定擴張、QUIC 整合進行中，這些都是非技術使用者想要可信主流預設時對的路線圖訊號。守第四，靠的是協定現代化故事。"
+            },
+            {
+              "title": "Proton 生態讓 ProtonVPN 成為隱私加實用的對的選擇",
+              "body": "Proton Mail、Drive、Pass、VPN 一個訂閱搞定，是市場上最乾淨的隱私意識套裝。想要隱私又不想處理四個廠商的使用者，ProtonVPN 就是對的選擇，這個套裝每季都在強化。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

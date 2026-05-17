@@ -6443,6 +6443,196 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-17",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "codeQuality": 9.6,
+            "contextWindow": 9.6,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.6,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 7.9
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Claude Code 2.1.139 ships agent view in Research Preview",
+          "url": "https://code.claude.com/docs/en/changelog",
+          "source": "Anthropic"
+        },
+        {
+          "title": "Anthropic temporarily raises Claude Code weekly limits by 50% through July 13",
+          "url": "https://www.anthropic.com/news",
+          "source": "Anthropic"
+        },
+        {
+          "title": "Live blog: Code w/ Claude 2026",
+          "url": "https://simonwillison.net/2026/May/6/code-w-claude-2026/",
+          "source": "Simon Willison"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code stays on top and the gap is wider than it was a week ago. The 2.1.139 release on May 11 added an agent view in Research Preview that gives you a single CLI list of every running, blocked, or finished Claude Code session, which is the workflow piece that was missing once parallel sessions landed. On top of that Anthropic announced a temporary 50 percent bump on weekly limits running through July 13, stacking on the earlier doubled 5-hour cap. The combination of more headroom, the agent view, and faster /resume on large sessions (Anthropic is quoting up to 67 percent on 40MB+ sessions) is the strongest week for a coding assistant I have logged this year. Cursor 1.0.4 still ships the cleanest editor experience and the agent task queue improvements are real, but the revert-and-retry path on failed agent tasks still has rough edges. Second place is locked in. OpenAI Codex CLI on gpt-5.1-codex-max-2 keeps sub-600ms median round-trip and is now a credible daily driver. Aider, Google Jules, Windsurf, Devin, Zed, Amazon Q, and Sourcegraph Cody are unchanged on the leaderboard. GitHub Copilot stays where it was; the GPT-5.5 backend swap is helping accuracy but not enough to move the rank.",
+          "highlights": [
+            {
+              "title": "Claude Code agent view plus 50% limit bump is the week's biggest win",
+              "body": "Version 2.1.139 added a single CLI view of every running, blocked, or finished session, and the temporary 50 percent weekly limit bump through July 13 finally matches the workload the tool encourages. For solo engineers running multiple parallel agents this is the most productive setup on the market right now."
+            },
+            {
+              "title": "Cursor stays second on editor polish despite Claude Code pulling away",
+              "body": "Cursor 1.0.4's queue improvements help, but Claude Code's combination of agent view, parallelism, and capacity makes the gap visible in daily work. Cursor still wins on integrated editor UX and that is enough to hold second comfortably while the rest of the field is much further back."
+            },
+            {
+              "title": "Codex CLI sub-600ms latency makes it a real daily driver",
+              "body": "gpt-5.1-codex-max-2 keeps median round-trip under 600ms on edit cycles, which closes the historical Cursor moat on responsiveness. Combined with GPT-5.5-class quality this is now a serious option for anyone who lives in a terminal and does not want a vendored editor."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 守住第一，跟一週前比差距還拉大了。5/11 推出的 2.1.139 在 Research Preview 加入 agent view，你可以在一個 CLI 視窗看到所有 Claude Code session（執行中、卡在等使用者輸入、完成）的清單，平行 session 落地之後就一直缺的那塊終於補上了。再加上 Anthropic 宣布到 7/13 為止每週用量上限暫時提高 50%，疊在之前 5 小時上限加倍的方案上。更多餘裕、agent view、加上大型 session /resume 加速（Anthropic 號稱 40MB+ 的 session 最多快 67%），這是我今年記錄到對 coding assistant 來說最強的一個禮拜。\n\nCursor 1.0.4 還是最精緻的編輯器體驗，agent 任務佇列改進是有感的，但失敗任務的回滾重試流程還是有點卡。第二名守得很穩。\n\nOpenAI Codex CLI 跑 gpt-5.1-codex-max-2 還是中位數延遲 600ms 以下，現在是合格的日常主力。Aider、Google Jules、Windsurf、Devin、Zed、Amazon Q、Sourcegraph Cody 榜上都沒動。GitHub Copilot 沒變，後端換成 GPT-5.5 確實有提升準確度，但還不足以改變名次。",
+          "highlights": [
+            {
+              "title": "Claude Code agent view 加上 50% 用量上限是這禮拜最大的勝利",
+              "body": "2.1.139 在一個 CLI 視窗顯示所有 session（執行、等輸入、完成），到 7/13 為止每週上限暫時提高 50%，工具能承受的工作負載終於跟它鼓勵的工作模式對得上。獨立開發者跑多個平行 agent 的場景，這是目前市場上生產力最強的組合。"
+            },
+            {
+              "title": "Cursor 守第二靠的是編輯器精緻度，但 Claude Code 已經拉開",
+              "body": "Cursor 1.0.4 的佇列改進是有效的，但 Claude Code 的 agent view、平行化、用量上限三合一在日常工作中差距已經看得出來。Cursor 整合式編輯器體驗還是贏，這足以讓它穩坐第二，下面那一批還差很遠。"
+            },
+            {
+              "title": "Codex CLI 中位數延遲 600ms 以下，成為合格日常主力",
+              "body": "gpt-5.1-codex-max-2 把編輯循環中位數延遲壓在 600ms 內，把 Cursor 過去在回應速度上的護城河填平了。配上 GPT-5.5 等級的品質，重度使用 terminal 又不想被綁在特定編輯器上的人，現在它是認真的選項。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
