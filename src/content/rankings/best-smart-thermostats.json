@@ -163,6 +163,22 @@
           "priceRange": "約 NT$5,200"
         }
       }
+    },
+    {
+      "id": "eve-thermostat",
+      "name": "Eve Thermostat",
+      "brand": "Eve",
+      "url": "https://www.evehome.com/en-us/eve-thermostat",
+      "i18n": {
+        "en": {
+          "description": "Eve's first North American thermostat launched at CES 2026 runs Matter-over-Thread with zero cloud, no subscription, and no account — all control stays local, which is rare in this category.",
+          "priceRange": "$130"
+        },
+        "zh-tw": {
+          "description": "Eve 在 CES 2026 發表的北美首款恆溫器，直接走 Matter-over-Thread，不上雲、不訂閱、不開帳號，全部本地運算。在這個類別裡這種純本地控制的選項很少，講真的。",
+          "priceRange": "約 NT$4,200"
+        }
+      }
     }
   ],
   "history": [
@@ -3286,8 +3302,21 @@
           }
         },
         {
-          "id": "aqara-thermostat-hub-w200",
+          "id": "eve-thermostat",
           "rank": 4,
+          "score": 8.2,
+          "scores": {
+            "autoScheduling": 7.5,
+            "multiRoomSupport": 6.5,
+            "smartHomeIntegration": 9.5,
+            "energySavings": 8.0,
+            "installation": 8.5,
+            "displayDesign": 8.8
+          }
+        },
+        {
+          "id": "aqara-thermostat-hub-w200",
+          "rank": 5,
           "score": 8.0,
           "scores": {
             "autoScheduling": 7.5,
@@ -3300,7 +3329,7 @@
         },
         {
           "id": "emerson-sensi-touch-2",
-          "rank": 5,
+          "rank": 6,
           "score": 7.8,
           "scores": {
             "autoScheduling": 7.5,
@@ -3313,7 +3342,7 @@
         },
         {
           "id": "ecobee-smart-thermostat-enhanced",
-          "rank": 6,
+          "rank": 7,
           "score": 7.5,
           "scores": {
             "autoScheduling": 8.0,
@@ -3322,6 +3351,45 @@
             "energySavings": 8.0,
             "installation": 8.5,
             "displayDesign": 7.0
+          }
+        },
+        {
+          "id": "google-nest-thermostat-2020",
+          "rank": 8,
+          "score": 7.2,
+          "scores": {
+            "autoScheduling": 7.0,
+            "multiRoomSupport": 5.0,
+            "smartHomeIntegration": 8.5,
+            "energySavings": 7.5,
+            "installation": 8.0,
+            "displayDesign": 7.8
+          }
+        },
+        {
+          "id": "honeywell-t6-pro-smart",
+          "rank": 9,
+          "score": 7.0,
+          "scores": {
+            "autoScheduling": 6.5,
+            "multiRoomSupport": 5.5,
+            "smartHomeIntegration": 7.5,
+            "energySavings": 7.2,
+            "installation": 7.0,
+            "displayDesign": 6.8
+          }
+        },
+        {
+          "id": "amazon-smart-thermostat",
+          "rank": 10,
+          "score": 6.5,
+          "scores": {
+            "autoScheduling": 6.0,
+            "multiRoomSupport": 4.5,
+            "smartHomeIntegration": 8.0,
+            "energySavings": 7.0,
+            "installation": 7.5,
+            "displayDesign": 6.2
           }
         }
       ],
