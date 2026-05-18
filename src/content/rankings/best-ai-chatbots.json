@@ -786,6 +786,194 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-18",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.3,
+            "coding": 9.0,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.0,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.4,
+            "coding": 9.8,
+            "writing": 9.6,
+            "realtime": 7.5,
+            "value": 9.0,
+            "ecosystem": 9.0
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.8,
+            "realtime": 9.2,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "reasoning": 8.8,
+            "coding": 8.2,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.4,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Elon Musk's Grok AI plummets: downloads crash 60% as competition soars",
+          "url": "https://www.jfeed.com/tech/grok-ai-musk-chatbot-decline-users",
+          "source": "JFeed"
+        },
+        {
+          "title": "OpenAI launches ChatGPT for Clinicians with new benchmark",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Best AI Chatbot in 2026: ChatGPT, Claude, Gemini, Grok tested and ranked",
+          "url": "https://blink.new/blog/best-ai-chatbot-2026",
+          "source": "Blink Blog"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Grok drops from fourth to fifth this week and the story is no longer subtle: Grok's monthly downloads collapsed roughly 60 percent from January's 20 million to April's 8.3 million, and Claude plus Gemini have absorbed most of the lost users. Perplexity moves up to fourth on the strength of unchanged growth rather than any new launch, which is what happens when the player above you stops running. ChatGPT keeps the top spot and the launch of ChatGPT for Clinicians on April 22 with a clinician-grade benchmark is the most credible specialized vertical play any frontier lab has made this year. Claude holds second and the SpaceX compute deal Anthropic announced early this month is the kind of infrastructure win that makes the recent capacity tightening look temporary rather than structural. Claude traffic is up 761 percent year over year and Gemini is up 575 percent, which is the real signal in this market: the top three are pulling away and the gap to everyone else is widening. Gemini holds third on raw model quality plus Workspace integration. Copilot, DeepSeek, Meta AI, Mistral Le Chat, and Qwen Chat are unchanged. The simple verdict: pay for ChatGPT first, add Claude if you write code or prose for a living, add Gemini if Google is your operating system, and stop paying for Grok unless real-time X data is genuinely load-bearing to your job.",
+          "highlights": [
+            {
+              "title": "Grok drops to fifth as the user-loss story accelerates",
+              "body": "Grok went from 20 million January downloads to 8.3 million in April, a roughly 60 percent collapse, while Claude and Gemini absorb the migrating users. The X data moat still exists, but the model itself is no longer competitive on raw quality and the SuperGrok pricing has not adjusted to the new reality. Real-time X access remains the only reason to keep paying."
+            },
+            {
+              "title": "Claude plus SpaceX compute deal turns capacity panic into infrastructure win",
+              "body": "Anthropic's early-May agreement for massive compute at one of Musk's main AI data centers is the kind of infrastructure announcement that reframes the recent weekly limit tightening as a bridge rather than a ceiling. With Claude traffic up 761 percent year over year, the demand was always real. The supply side now has a clear path forward."
+            },
+            {
+              "title": "ChatGPT for Clinicians is the right specialized vertical play",
+              "body": "OpenAI shipped a clinician-grade benchmark plus a clinician-tuned product on April 22, which is the most credible move into a regulated vertical any frontier lab has made this year. Healthcare buyers were always going to be skeptical of generic chatbots. Building the benchmark first, then the product, is the right order of operations."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Grok 從第四掉到第五，故事已經不微妙了，1 月的 2000 萬下載到 4 月只剩 830 萬，大約跌了 6 成，Claude 跟 Gemini 接收了大部分流出的用戶。\n\nPerplexity 升到第四，靠的是穩定成長而不是新發布，這就是上面那位停下來的時候會發生的事。ChatGPT 守第一，4 月 22 日上線的 ChatGPT for Clinicians 加上臨床等級 benchmark，是今年所有前沿實驗室在特定垂直領域最可信的一步棋。\n\nClaude 守第二，Anthropic 五月初宣布的 SpaceX 算力合約是那種把最近用量收緊看起來像過渡而不是結構性問題的基礎建設訊號。Claude 流量年增 761%，Gemini 年增 575%，這才是這個市場的真實訊號，前三名在拉開差距，跟後面的距離越來越大。\n\nGemini 守第三，純模型品質加 Workspace 整合。Copilot、DeepSeek、Meta AI、Mistral Le Chat、Qwen Chat 都沒動。\n\n結論很簡單，先訂 ChatGPT，靠寫程式或文字吃飯的人加訂 Claude，活在 Google 生態系的人加訂 Gemini，除非即時 X 資料是工作必需，否則 Grok 該停了。",
+          "highlights": [
+            {
+              "title": "Grok 掉到第五，用戶流失故事加速中",
+              "body": "Grok 從 1 月 2000 萬下載到 4 月 830 萬，大約跌了 6 成，Claude 跟 Gemini 接收了流出用戶。X 即時資料這個護城河還在，但模型本身在純品質上不再有競爭力，SuperGrok 的定價也沒因應新現實調整。要繼續付錢就只剩即時 X 資料這一個理由。"
+            },
+            {
+              "title": "Claude 加上 SpaceX 算力合約把用量恐慌變成基礎建設勝利",
+              "body": "Anthropic 五月初宣布跟 Musk 旗下主要 AI 資料中心簽訂大規模算力合約，這種基礎建設公告把最近每週用量收緊重新定位成過渡橋樑，而不是天花板。Claude 流量年增 761%，需求本來就是真的。現在供給端有了明確路徑。"
+            },
+            {
+              "title": "ChatGPT for Clinicians 是正確的垂直領域打法",
+              "body": "OpenAI 4 月 22 日同時推出臨床等級 benchmark 跟 clinician 調校的產品，這是今年所有前沿實驗室進入監管垂直領域最可信的一步。醫療買家本來就會懷疑通用聊天機器人，先做 benchmark 再做產品，這個順序是對的。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
