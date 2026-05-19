@@ -1706,6 +1706,184 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-19",
+      "rankings": [
+        {
+          "id": "google-veo-3-1",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "kling-3-0",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "promptAdherence": 9.0,
+            "motionRealism": 9.1,
+            "audioVideoSync": 8.6,
+            "characterConsistency": 8.9,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "promptAdherence": 9.0,
+            "motionRealism": 8.8,
+            "audioVideoSync": 9.4,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 6,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 9,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 10,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Video Generator (May 2026) Top Models Ranked by Humans",
+          "url": "https://llm-stats.com/leaderboards/best-ai-for-video-generation",
+          "source": "LLM-Stats"
+        },
+        {
+          "title": "Runway Gen-4.5 documentation",
+          "url": "https://runwayml.com/",
+          "source": "Runway"
+        },
+        {
+          "title": "Kling 3.0 release notes",
+          "url": "https://kling.ai/",
+          "source": "Kling AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Veo 3.1 stays on top going into Tuesday and the May LLM-Stats human leaderboard still puts it in the top three on arena score for text-to-video while leading on prompt adherence and 4K output. The 30-second clip support is starting to reshape ad-agency workflows in a meaningful way, and I am hearing from creative directors that the stitch-heavy production pipeline they spent three years building is being torn up in favor of longer single-pass generations. Runway Gen-4.5 stays second on character consistency, motion brush, and the granular camera control that nothing else in the market matches for narrative work. Anyone doing branded or episodic content with recurring characters still picks Runway first. Kling 3.0 holds third on aggressive pricing plus the multi-shot storyboard with native audio sync. Up to 3-minute clips with lip-sync remains a real differentiator for animated content and the studio pipeline share keeps growing. Seedance 2.0 stays fourth on audio-video sync quality. Hailuo 02, Dream Machine Ray3, Pika 2.2, and Firefly Video are unchanged. The top four are pulling away from the field and nothing in the past 24 hours changes that. Mid-Memorial-Day-week practical read: ad agencies are not signing new annual seats this week regardless of pricing, so this is the right week to run prompt-quality and prompt-cost trials rather than commit to a stack.",
+          "highlights": [
+            {
+              "title": "Veo 3.1 30-second support is tearing up agency pipelines",
+              "body": "Creative directors are telling me their stitch-heavy three-year production pipelines are being rebuilt around longer single-pass generations. Veo 3.1 still leads on prompt adherence, native audio, and 4K. First place lead is structural through summer."
+            },
+            {
+              "title": "Runway Gen-4.5 still owns narrative work on character consistency",
+              "body": "Motion brush, reference-driven character consistency, and granular camera control remain unmatched for branded or episodic content with recurring characters. Anyone doing serial narrative work picks Runway first and that is not changing this quarter."
+            },
+            {
+              "title": "Kling 3.0 studio pipeline share keeps growing",
+              "body": "Aggressive pricing, native audio sync across cuts, and 3-minute clips with built-in lip-sync make Kling the right pick for studios producing high volumes of animated content. Third place locked in and gaining real share among production houses."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Veo 3.1 守第一進入禮拜二，五月 LLM-Stats 人類榜單還是把它放在文字轉影片前三，提示遵循度跟 4K 輸出還是領先。30 秒片段支援正在以有意義的方式重塑廣告代理商工作流，我聽到幾個創意總監講他們花三年蓋的拼接式生產線正在拆掉，改成長一點的單次生成。\n\nRunway Gen-4.5 守第二，角色一致性、Motion Brush、細緻鏡頭控制在敘事型工作上市場無人能比。任何做品牌或集數型內容、有重複出現角色的需求，第一個還是選 Runway。\n\nKling 3.0 守第三，激進的定價加上跨鏡頭原生音訊同步的多鏡頭分鏡。最長 3 分鐘片段加內建嘴型同步對動畫內容還是真實的差異化，工作室生產線的份額持續成長。\n\nSeedance 2.0 守第四，音畫同步品質還是賣點。Hailuo 02、Dream Machine Ray3、Pika 2.2、Firefly Video 都沒動。前四名正在跟其他人拉開，過去 24 小時沒有東西改變這件事。\n\n陣亡將士紀念日週中的務實讀法是，廣告代理商這禮拜不管什麼價格都不會簽新的年約，這禮拜該做的是跑 prompt 品質跟 prompt 成本測試，不要急著把工具鏈鎖死。",
+          "highlights": [
+            {
+              "title": "Veo 3.1 30 秒支援正在拆代理商生產線",
+              "body": "創意總監跟我說他們花三年蓋的拼接式生產線正在改成長一點的單次生成。Veo 3.1 提示遵循度、原生音訊、4K 還是領先。第一名領先到夏天都是結構性的。"
+            },
+            {
+              "title": "Runway Gen-4.5 在敘事工作還是靠角色一致性贏",
+              "body": "Motion Brush、參考圖驅動的角色一致性、細緻鏡頭控制，對於有重複角色的品牌或集數型內容市場上沒人能比。任何做連續性敘事工作的，第一個還是選 Runway，這一季不會變。"
+            },
+            {
+              "title": "Kling 3.0 工作室生產線份額持續成長",
+              "body": "激進的定價、跨鏡頭原生音訊同步、3 分鐘片段加內建嘴型同步，讓 Kling 成為高量產動畫內容工作室的首選。第三名鎖住，在製作公司裡實際拿到的份額還在成長。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

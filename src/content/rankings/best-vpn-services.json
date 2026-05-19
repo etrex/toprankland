@@ -5442,6 +5442,148 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-19",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.6,
+            "network": 9.5,
+            "usability": 9.0,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 9.1,
+            "network": 9.6,
+            "usability": 9.0,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "NordVPN had a busy start to 2026, recap of all the releases",
+          "url": "https://www.techradar.com/vpn/vpn-services/nordvpn-had-a-busy-start-to-2026-heres-a-recap-of-all-the-releases-you-may-have-missed",
+          "source": "TechRadar"
+        },
+        {
+          "title": "Mullvad VPN vs ExpressVPN: Which One is Better in 2026",
+          "url": "https://cybernews.com/best-vpn/mullvad-vs-expressvpn/",
+          "source": "Cybernews"
+        },
+        {
+          "title": "Best VPN services 2026",
+          "url": "https://www.techradar.com/vpn/best-vpn",
+          "source": "TechRadar"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Day two of Memorial Day week is the moment to remember that VPN pricing barely moves on US holiday sales, so the ranking holds on merit, not on discount drama. Mullvad stays first. The flat 5 euro per month price is the same today as it was last May, and the GotaTun audit credibility plus the post-quantum WireGuard work is the package that wins for anyone who actually reads the threat model. ProtonVPN holds second. The bundle math with Mail, Drive, and Pass is the reason power users pick it over single-purpose VPNs, and the Proton Lifetime promo that some affiliates have been pushing this week is a real thing worth checking if you were on the fence. IVPN keeps third because nothing else in the category matches the ownership transparency and the tiny attack surface. NordVPN holds fourth and the mobile app redesign with the interactive full-screen map plus the NordWhisper protocol work plus QUIC integration in progress is the right mainstream-default story. NordVPN does run real Memorial Day promos on the two-year plan, around 65 percent off plus a free month, and that is the genuinely actionable discount story this week if you want a credible default without reading audit PDFs. ExpressVPN stays fifth on the TrustedServer architecture argument even though the shipping cadence has been quiet. Surfshark, Windscribe, and AirVPN are unchanged. The Tuesday observation is that the protocol-modernization split between Mullvad and ProtonVPN on one side and the mainstream trio on the other is widening, not narrowing.",
+          "highlights": [
+            {
+              "title": "Mullvad holds first because flat pricing makes Memorial Day irrelevant",
+              "body": "The 5 euro per month flat rate does not move during US holidays so the ranking holds on merit. GotaTun audit credibility plus the post-quantum WireGuard work is the package that wins for the threat-model reader. First place is locked."
+            },
+            {
+              "title": "NordVPN two-year promo is the actionable mainstream pick this week",
+              "body": "Around 65 percent off plus a free month on the two-year plan is the real Memorial Day move for buyers who want a credible default without reading audit PDFs. NordWhisper plus QUIC integration plus the mobile redesign is the right mainstream roadmap."
+            },
+            {
+              "title": "ProtonVPN bundle math is the right power-user pick",
+              "body": "Mail, Drive, Pass, and VPN under one subscription is the cleanest privacy bundle in the market. The Proton Lifetime promo running through this week is a real discount to check if the bundle math already made sense to you."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "國殤日週第二天，老實說 VPN 服務的價格在美國節慶檔期幾乎不動，所以排行榜守住純粹靠實力，跟折扣劇情無關。\n\nMullvad 守第一。每個月 5 歐元的平價今天跟去年五月一樣，GotaTun 稽核信譽加上後量子 WireGuard 進度，對會認真看威脅模型的人來說就是對的組合。\n\nProtonVPN 守第二。跟 Mail、Drive、Pass 一起算的套裝帳面，是重度使用者選它而非單一用途 VPN 的理由。這禮拜部份聯盟通路推的 Proton Lifetime 促銷是真的有，原本還在猶豫的人值得看看。\n\nIVPN 守第三，所有權透明度跟攻擊面極小這兩點分類裡沒人能比。\n\nNordVPN 守第四，手機 app 重新設計加可全螢幕的互動地圖、NordWhisper 協定持續演進、QUIC 整合進行中，主流預設的故事還是對的。講真的，NordVPN 兩年方案的國殤日促銷大約 65% off 加送一個月，是這禮拜真的能下手的折扣，想要可信主流預設又不想看稽核 PDF 的人就看這個。\n\nExpressVPN 守第五，靠的還是 TrustedServer 架構論述。Surfshark、Windscribe、AirVPN 沒動。週二觀察是 Mullvad 跟 Proton 這邊跟主流三家的協定現代化分裂在拉大，不是收斂。",
+          "highlights": [
+            {
+              "title": "Mullvad 守第一，平價結構讓國殤日跟它無關",
+              "body": "每月 5 歐元平價在美國節慶不動，排行榜守住純粹靠實力。GotaTun 稽核加上後量子 WireGuard 進度，對讀威脅模型的人就是對的組合。第一名鎖死。"
+            },
+            {
+              "title": "NordVPN 兩年方案促銷是這禮拜真的能下手的主流選擇",
+              "body": "兩年方案 65% off 加送一個月，是要可信主流預設又不想看稽核 PDF 的人這禮拜真的能下手的國殤日折扣。NordWhisper 加 QUIC 整合加 app 重設計是對的主流路線圖。"
+            },
+            {
+              "title": "ProtonVPN 套裝帳面是對的重度使用者之選",
+              "body": "Mail、Drive、Pass、VPN 一個訂閱搞定，是市場上最乾淨的隱私套裝。這禮拜的 Proton Lifetime 促銷是真的折扣，原本套裝帳面就算得過去的人值得確認。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

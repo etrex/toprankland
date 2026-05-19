@@ -974,6 +974,194 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-19",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.3,
+            "coding": 9.0,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.0,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.4,
+            "coding": 9.8,
+            "writing": 9.6,
+            "realtime": 7.5,
+            "value": 9.0,
+            "ecosystem": 9.0
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.8,
+            "realtime": 9.2,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "reasoning": 8.8,
+            "coding": 8.2,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.4,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+          "url": "https://openai.com/index/gpt-5-5-instant/",
+          "source": "OpenAI"
+        },
+        {
+          "title": "Anthropic compute and capacity updates",
+          "url": "https://www.anthropic.com/news",
+          "source": "Anthropic"
+        },
+        {
+          "title": "AI chatbot adoption tracker",
+          "url": "https://techcrunch.com/category/artificial-intelligence/",
+          "source": "TechCrunch"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ChatGPT keeps the top spot and the GPT-5.5 Instant default is now into its second full week across every ChatGPT tier. The 52.5 percent reduction in hallucinated claims on high-stakes prompts that OpenAI cited at launch is bearing out in my daily research workflow, and the personalization layer pulling from past chats plus connected Gmail is settling in as the new normal rather than a novelty. The signal from this Tuesday is that nobody in the field has shipped anything that punctures the GPT-5.5 launch window, so the lead is structural for now. Claude holds second and the weekly limit conversation from last week has cooled because the SpaceX compute deal Anthropic announced earlier in May reframed the capacity story as a bridge. Claude Opus 4.7 is still the best writer in the category and Claude Code's agent view continues to be a real productivity unlock for power users. Gemini 3 Deep Think stays third on Workspace integration and the February model strength. Perplexity keeps fourth after its quiet rise last week. Grok stays fifth and the user-loss data we covered last week has not reversed. Copilot, DeepSeek, Meta AI, Mistral Le Chat and Qwen Chat are unchanged. The mid-Memorial-Day-week practical read: pay for ChatGPT first, add Claude if you write code or prose for a living, add Gemini if Google is your operating system, and skip the rest unless a specific moat applies to your work.",
+          "highlights": [
+            {
+              "title": "GPT-5.5 Instant lead is structural going into week two",
+              "body": "OpenAI's hallucination-reduction claim is bearing out in real research use and the personalization layer has settled in as the new default rather than a novelty. Nothing the rest of the field has shipped this Tuesday punctures the launch window. The top spot is locked in for the rest of the month."
+            },
+            {
+              "title": "Claude SpaceX compute story has cooled the capacity panic",
+              "body": "Last week the weekly limit conversation dominated my feed. This week the SpaceX agreement is reframing it as a bridge rather than a ceiling and Opus 4.7 is still the best writer in the category. Second place locked in on quality plus a clearer supply story."
+            },
+            {
+              "title": "Mid-week subscription stack still ranks ChatGPT first, Claude second",
+              "body": "Two weeks into the GPT-5.5 cycle the right working stack for a heavy user is ChatGPT plus Claude, then Gemini if you live in Google. Perplexity stays the cheapest research add-on at fourth. Grok is the only paid spot I am actively recommending people cancel unless real-time X data is load-bearing to their job."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ChatGPT 守第一，GPT-5.5 Instant 變成所有 ChatGPT 等級預設模型已經進入第二個完整禮拜。發布時 OpenAI 講的高風險情境幻覺降 52.5%，我自己跑日常研究工作流確實有感，個人化層串接過去對話加 Gmail 已經從新功能變成日常。\n\n講真的，這個禮拜二的訊號就是，整個分類沒有人推出能戳破 GPT-5.5 發布窗口的東西，領先暫時是結構性的。\n\nClaude 守第二，上禮拜每週用量上限的討論這禮拜降溫了，五月初 Anthropic 宣布的 SpaceX 算力合約把算力故事重新定位成過渡而不是結構問題。Claude Opus 4.7 還是分類裡最會寫東西的模型，Claude Code 的 agent view 對重度使用者還是真實的生產力解鎖。\n\nGemini 3 Deep Think 守第三，靠 Workspace 整合跟二月那次模型升級的底氣。Perplexity 守第四。Grok 守第五，上禮拜的用戶流失資料沒有反轉。Copilot、DeepSeek、Meta AI、Mistral Le Chat、Qwen Chat 都沒動。\n\n陣亡將士紀念日週的週中務實建議：先訂 ChatGPT，靠寫程式或文字吃飯的人加訂 Claude，活在 Google 生態系的人加訂 Gemini，其餘除非有特定護城河跟你的工作對得上，可以先跳過。",
+          "highlights": [
+            {
+              "title": "GPT-5.5 Instant 領先進入第二週還是結構性的",
+              "body": "OpenAI 講的幻覺降低在實際研究使用上有感，個人化層已經從新功能變成日常預設。這禮拜二整個分類沒有人推出能戳破發布窗口的東西。第一名鎖到月底沒問題。"
+            },
+            {
+              "title": "Claude SpaceX 算力故事讓上週的用量恐慌降溫",
+              "body": "上禮拜每週用量上限的討論在我的時間軸聲量最大。這禮拜 SpaceX 合約把這件事重新定位成過渡而不是上限，Opus 4.7 還是分類裡最會寫的模型。第二名靠品質加更清晰的供給故事鎖住。"
+            },
+            {
+              "title": "週中訂閱組合還是 ChatGPT 第一加 Claude 第二",
+              "body": "GPT-5.5 進入第二週，重度使用者該訂的順序是 ChatGPT 加 Claude，活在 Google 才加 Gemini。Perplexity 守第四作為最便宜的研究加購。Grok 是我目前唯一主動建議退訂的付費位，除非即時 X 資料對工作真的不可少。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

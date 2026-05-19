@@ -307,29 +307,9 @@
       ],
       "references": [
         {
-          "title": "The 9 Best AI Image Generation Models in 2026",
-          "url": "https://www.gradually.ai/en/ai-image-models/",
-          "source": "Gradually"
-        },
-        {
-          "title": "AI Image Generation 2026: Midjourney v8 vs GPT Image 2 vs Flux",
-          "url": "https://lushbinary.com/blog/ai-image-generation-comparison-midjourney-gpt-flux/",
-          "source": "Lushbinary"
-        },
-        {
-          "title": "Best AI Image Generators in 2026: Midjourney vs DALL-E 3 vs Stable Diffusion vs Adobe Firefly vs Flux",
-          "url": "https://www.lumichats.com/blog/best-ai-image-generators-2026-midjourney-dalle-stable-diffusion-firefly-comparison",
-          "source": "Lumichats"
-        },
-        {
-          "title": "Midjourney V8 vs FLUX vs Stable Diffusion: Best AI Image Generator in 2026",
-          "url": "https://wavespeed.ai/blog/posts/midjourney-v8-vs-flux-vs-sora-best-ai-image-generator-2026/",
-          "source": "WaveSpeed"
-        },
-        {
-          "title": "Imagen 4 is now available in the Gemini API and Google AI Studio",
-          "url": "https://developers.googleblog.com/en/imagen-4-now-available-in-the-gemini-api-and-google-ai-studio/",
-          "source": "Google Developers Blog"
+          "title": "Midjourney V8 release notes",
+          "url": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans",
+          "source": "Midjourney"
         },
         {
           "title": "FLUX API Pricing",
@@ -337,64 +317,43 @@
           "source": "Black Forest Labs"
         },
         {
-          "title": "Comparing Midjourney Plans",
-          "url": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans",
-          "source": "Midjourney"
-        },
-        {
-          "title": "Ideogram Pricing Guide 2026",
-          "url": "https://fluxnote.io/guides/ideogram-pricing-guide-2026",
-          "source": "FluxNote"
+          "title": "Imagen 4 is now available in the Gemini API",
+          "url": "https://developers.googleblog.com/en/imagen-4-now-available-in-the-gemini-api-and-google-ai-studio/",
+          "source": "Google Developers Blog"
         }
       ],
       "i18n": {
         "en": {
-          "commentary": "Day one of this ranking and I want to be direct about the order. Midjourney V8 takes first because the aesthetic gap to every other model is still the single biggest moat in this category, and V8 Alpha just made it bigger by shipping 2K native output with a 5x speed bump. If you are producing editorial, concept art, or anything that needs a painterly voice, V8 is the answer and nothing else gets close.\n\nFlux 2 Pro at second is the most important model of 2026 for working professionals. Photorealism is genuinely indistinguishable from photography for the first time, the open Dev variant means you can fine-tune your own brand LoRA, and at $0.03 per megapixel via API the unit economics make it the default backbone for e-commerce and stock replacement pipelines.\n\nGPT Image 2 at third wins on prompt accuracy, spatial reasoning, and multilingual text. For app mockups, infographics, and any prompt where the words matter as much as the image, this is the right pick. The price is the trade-off, but $20/month inside ChatGPT Plus is still the best value if you only need a few images a day.\n\nIdeogram V3 at fourth holds a specialist position that no other model can take. 90-95% text accuracy means posters, social graphics, and storefront signage land finished, not as rough drafts that need typography rebuilt in Figma. Imagen 4 at fifth is the unsung winner on cost per image and the Gemini API integration is the cleanest in the industry. The bottom half of this ranking is all specialists: Firefly for commercial safety, SD 3.5 Large for self-hosted control, Recraft for vector output, Krea for aggregation, and Leonardo for game assets. Pick by job, not by general ranking.",
+          "commentary": "Day two of this ranking and the ordering holds. Midjourney V8 keeps the top spot because the aesthetic ceiling on V8 Alpha plus the 2K native output and 5x speed bump remain the single biggest moat in the category. Tuesday signal is that nothing in the past 24 hours has changed the editorial and concept-art conversation, and V8 is the default recommendation for anyone whose deliverable needs a painterly voice. Flux 2 Pro stays second on photorealism that genuinely competes with photography and the $0.03 per megapixel API economics that make it the new backbone for commercial production. The open Dev weights remain the killer feature for any brand that wants its own LoRA. GPT Image 2 holds third on prompt accuracy, multilingual text, and spatial reasoning, with ChatGPT Plus at $20 a month still the best dollar-for-dollar entry point in the category for casual users. Ideogram V3 stays at fourth on 90-95 percent text accuracy, which keeps it the only model that ships finished posters and storefront signage rather than rough drafts. Imagen 4 stays fifth and the Gemini API integration is still the cleanest developer experience among the majors. The bottom half (Firefly, SD 3.5 Large, Recraft, Krea, Leonardo) is locked in specialist roles. Pick by job not by general ranking. Memorial Day week does not change subscription decisions for AI image tools; the calendar moves these tools by model releases, not retail timing.",
           "highlights": [
             {
-              "title": "Midjourney V8 still wins on the only metric that matters for editorial work",
-              "body": "Aesthetic ceiling is the single biggest moat in this category and V8 Alpha widened the gap rather than closing it. The 5x speed bump means iteration cycles that took 30 seconds in V7 now finish in under 15. For concept art, magazine spreads, or anything that needs a painterly point of view, V8 is the default recommendation and nothing else comes close."
+              "title": "Midjourney V8 aesthetic ceiling still the biggest moat in the category",
+              "body": "Day two and nothing has touched the editorial conversation. V8 Alpha's 2K native output plus 5x speed bump means iteration cycles that took 30 seconds in V7 now finish in under 15. For concept art and magazine work, V8 stays the default with nothing close behind."
             },
             {
-              "title": "Flux 2 Pro is the new default backbone for commercial production",
-              "body": "Photorealism is indistinguishable from photography for the first time. The open Dev weights let you train your own brand LoRA, and $0.03 per megapixel via API makes the unit economics work for e-commerce, stock replacement, and any high-volume pipeline. Black Forest Labs shipped the model that finally retires the 'AI-generated' look."
+              "title": "Flux 2 Pro is still the commercial production backbone",
+              "body": "Photorealism indistinguishable from photography, open Dev weights for brand-specific LoRA training, and $0.03 per megapixel API economics. For e-commerce, stock replacement, and any high-volume pipeline, Flux 2 Pro continues to be the right call at second."
             },
             {
-              "title": "GPT Image 2 owns the workflow where the words matter",
-              "body": "Spatial reasoning, multilingual text rendering, and real-world knowledge sit ahead of every other model. App UI mockups, infographics, and educational diagrams come out right the first time. The model is slower and the aesthetic is more neutral than Midjourney, which is the trade-off. For anyone living inside ChatGPT Plus, $20 per month is the best dollar-for-dollar value in the entire category."
-            },
-            {
-              "title": "Ideogram V3 holds a specialist seat nobody else can take",
-              "body": "Text rendering at 90-95% accuracy is the difference between a poster shipped and a poster that gets handed to a designer for typography rebuild. Marketing teams generating social graphics, storefront signage, or any layout where copy lives inside the image should default to Ideogram. The $8 Basic plan covers most use cases and the unlimited Plus tier at $20 is the best deal in the price-conscious tier."
-            },
-            {
-              "title": "Imagen 4 Fast is the cheapest serious model in the market",
-              "body": "$0.02 per image is half the cost of Flux 2 Pro and a third of GPT Image 2 mid-quality. The Gemini API and AI Studio integration is the cleanest developer experience of any major provider. For any batch pipeline, A/B variant generation, or programmatic content production, the math points to Imagen 4 Fast as the default and only escalates to Ultra when 2K output is required."
+              "title": "GPT Image 2 plus ChatGPT Plus is the highest-leverage $20 in AI imaging",
+              "body": "Prompt accuracy, multilingual text, and spatial reasoning lead the field. For anyone already paying for ChatGPT Plus, the $20 monthly bundle remains the best dollar-for-dollar entry point. Holds third comfortably and the value math is the cleanest in the category."
             }
           ]
         },
         "zh-tw": {
-          "commentary": "排行榜上線第一天，名次我直接講清楚。Midjourney V8 拿第一是因為它在藝術風格的差距是整個品類最大的護城河，V8 Alpha 上週還把這個差距拉得更開，2K 原生輸出加 5 倍生成速度。做雜誌封面、概念藝術、任何需要有畫家視角的場景，V8 就是答案，沒有其他選擇靠得近。\n\n第二名 Flux 2 Pro 是 2026 年對工作專業者最重要的模型。寫實度第一次真的做到跟攝影分不出來，開源的 Dev 版讓你可以訓練自己品牌的 LoRA，API 一張 1024 不到 NT$1。電商商品圖跟取代圖庫的整個工作流，這個成本結構讓它直接變成主力骨幹。\n\n第三名 GPT Image 2 贏在 prompt 精準度、空間推理、多語言文字渲染。做 App UI mockup、資訊圖表、任何 prompt 裡文字跟圖一樣重要的場景，選這個。代價是生成速度慢、風格比較中性。話說回來，如果你本來就有 ChatGPT Plus 訂閱，約 NT$620/月內建這個模型就是品類裡 CP 值最高的選擇。\n\n第四名 Ideogram V3 守住一個其他模型搶不走的專家位置。文字準確率 90 到 95% 等於海報跟招牌可以直接交件，不用再丟 Figma 重做字體。\n\n第五名 Imagen 4 是被低估的單張成本贏家，Gemini API 整合在開發者體驗上也是業界最乾淨的。台灣做電商的同行最近開始把後台批次圖換成 Imagen 4 Fast，一張 NT$0.6 的成本要打過去真的很難。\n\n排行榜後半段都是專家位置，Firefly 做客戶案授權最乾淨、SD 3.5 Large 自架最自由、Recraft 出向量、Krea 一站打通、Leonardo 做遊戲素材。選工具看用途，不是看總排名。",
+          "commentary": "排行榜第二天，名次沒動。Midjourney V8 守第一，V8 Alpha 的藝術風格天花板加 2K 原生輸出加 5 倍速度，還是分類裡最大的護城河。\n\n禮拜二的訊號很清楚，過去 24 小時沒有東西改變編輯與概念藝術的對話，V8 還是任何需要畫家視角交付物的預設選擇。\n\nFlux 2 Pro 守第二，寫實度真的跟攝影競爭，API 一張 1024 不到 NT$1 的成本結構讓它變成商業生產的新主力骨幹。開源 Dev 權重對想要訓練自己品牌 LoRA 的廠商還是殺手級功能。\n\nGPT Image 2 守第三，prompt 精準度、多語言文字、空間推理三項領先，ChatGPT Plus 約 NT$620/月對輕度使用者還是分類裡每塊錢能買到最多的入口。\n\nIdeogram V3 守第四，文字準確率 90 到 95% 讓它還是唯一能直接交付海報跟招牌的模型，不用拿到 Figma 重做字體。\n\nImagen 4 守第五，Gemini API 整合在大廠裡還是開發者體驗最乾淨的。\n\n後半段（Firefly、SD 3.5 Large、Recraft、Krea、Leonardo）守住專家位置。老實說選工具看用途，不是看總排名。陣亡將士紀念日週對 AI 圖像工具的訂閱決策影響有限，這個分類的時間軸看的是模型發布不是零售檔期。",
           "highlights": [
             {
-              "title": "Midjourney V8 在雜誌跟概念藝術這個場景守得很穩",
-              "body": "藝術風格的天花板是這個品類最大的護城河，V8 Alpha 是把差距拉開不是縮短。5 倍速度提升等於 V7 跑 30 秒的迭代現在 15 秒內出圖，做概念藝術跟雜誌跨頁，任何需要畫家視角的工作流，V8 就是預設選擇，其他家靠不近。"
+              "title": "Midjourney V8 藝術風格天花板還是最大護城河",
+              "body": "第二天過去 24 小時沒有東西碰到編輯話題。V8 Alpha 的 2K 原生輸出加 5 倍速度提升等於 V7 跑 30 秒的迭代現在 15 秒內出圖。做概念藝術跟雜誌跨頁，V8 還是預設，後面沒有人靠近。"
             },
             {
-              "title": "Flux 2 Pro 是商業生產的新主力骨幹",
-              "body": "寫實度第一次跟攝影分不出來。開源 Dev 權重可以訓練自己品牌的 LoRA，API 一張 1024 約 NT$1，電商、圖庫取代、任何高量級生產線單張成本算得過去。Black Forest Labs 真的把那種「一看就是 AI」的味道從這個品類拿掉了。"
+              "title": "Flux 2 Pro 還是商業生產的主力骨幹",
+              "body": "寫實度跟攝影分不出來、開源 Dev 權重訓練品牌 LoRA、API 一張 1024 約 NT$1 的成本。電商、圖庫取代、任何高量級生產線，Flux 2 Pro 還是第二名正確答案。"
             },
             {
-              "title": "GPT Image 2 在文字重要的工作流是首選",
-              "body": "空間推理、多語言文字渲染、真實世界知識三項都領先其他模型。App UI mockup、資訊圖表、教學示意圖一次到位。慢一點、風格中性是代價。已經有 ChatGPT Plus 的人，這個約 NT$620/月內建的模型就是整個品類單位金額能買到的最好價值。"
-            },
-            {
-              "title": "Ideogram V3 是其他人搶不走的專家位置",
-              "body": "文字準確率 90 到 95% 等於海報可以直接交件，不用拿去 Figma 重做字體。做行銷素材、社群圖卡、招牌排版這類圖裡有文字的工作，預設選 Ideogram。約 NT$250 Basic 已經夠用，約 NT$620 Plus 無限慢速生成在這個價位帶是最划算的方案。"
-            },
-            {
-              "title": "Imagen 4 Fast 是現在最便宜的認真模型",
-              "body": "一張約 NT$0.6 是 Flux 2 Pro 的一半，GPT Image 2 中質的三分之一。Gemini API 跟 AI Studio 整合是業界開發者體驗最乾淨的。批次生產、A/B 變體生成、程式化內容流，數學上預設選 Imagen 4 Fast，2K 輸出有需要再升到 Ultra 就好。"
+              "title": "GPT Image 2 加 ChatGPT Plus 是 AI 影像 NT$620 最高槓桿",
+              "body": "Prompt 精準度、多語言文字、空間推理三項領先。已經在付 ChatGPT Plus 的人，這個約 NT$620/月組合包還是每塊錢能買到最多的入口。穩坐第三，CP 值算法是分類裡最乾淨的。"
             }
           ]
         }
