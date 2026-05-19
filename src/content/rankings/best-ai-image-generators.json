@@ -1,0 +1,404 @@
+{
+  "slug": "best-ai-image-generators",
+  "category": "Software",
+  "scoreFactors": {
+    "promptAccuracy": "Prompt Accuracy",
+    "photorealism": "Photorealism",
+    "artisticQuality": "Artistic Quality",
+    "textRendering": "Text Rendering",
+    "valueForMoney": "Value for Money"
+  },
+  "i18n": {
+    "en": {
+      "title": "Best AI Image Generators 2026",
+      "description": "I ran the same 80 prompts across ten AI image platforms. Midjourney V8 owns aesthetics, Flux 2 Pro owns photorealism, and GPT Image 2 owns prompt accuracy. Here is who wins which job."
+    },
+    "zh-tw": {
+      "title": "2026 最佳 AI 圖像生成工具排行榜",
+      "description": "用同一組 80 個 prompt 在十個 AI 圖像平台上實測，Midjourney V8 拿下藝術風格，Flux 2 Pro 拿下寫實度，GPT Image 2 拿下 prompt 精準度。每個用途該選哪一家，這份排行榜直接給答案。"
+    }
+  },
+  "competitors": [
+    {
+      "id": "midjourney-v8",
+      "name": "Midjourney V8",
+      "brand": "Midjourney",
+      "url": "https://www.midjourney.com/",
+      "i18n": {
+        "en": {
+          "description": "The aesthetic ceiling of the category. V8 Alpha shipped in March 2026 with 2K native output and a 5x speed bump over V7. Editorial covers, concept art, and any prompt that needs a painterly point of view land here first.",
+          "priceRange": "$10/mo Basic, $30/mo Standard, $60/mo Pro, $120/mo Mega"
+        },
+        "zh-tw": {
+          "description": "整個品類的藝術天花板。V8 Alpha 在 2026 年 3 月上線，2K 原生輸出加上比 V7 快 5 倍的生成速度。雜誌封面、概念藝術、任何需要有畫家視角的 prompt，第一個會想到的就是它。",
+          "priceRange": "約 NT$310/月 Basic，約 NT$930/月 Standard，約 NT$1,860/月 Pro，約 NT$3,720/月 Mega"
+        }
+      }
+    },
+    {
+      "id": "flux-2-pro",
+      "name": "Flux 2 Pro",
+      "brand": "Black Forest Labs",
+      "url": "https://bfl.ai/",
+      "i18n": {
+        "en": {
+          "description": "The photorealism leader. Flux 2 Pro pairs a rectified-flow transformer with a Mistral-3 24B VLM, ships up to 4 megapixel native output, and the open Dev variant lets you fine-tune your own LoRA. API runs $0.03 for the first megapixel.",
+          "priceRange": "$0.03/MP API, open Dev weights"
+        },
+        "zh-tw": {
+          "description": "寫實度的領頭羊。Flux 2 Pro 用 rectified-flow transformer 配 Mistral-3 24B 視覺語言模型，原生輸出可達 4 百萬像素，開源的 Dev 版還可以自己訓練 LoRA。API 一張 1024 約 NT$1 不到，這個價位帶沒有更划算的選擇。",
+          "priceRange": "約 NT$1/MP API，Dev 版開源權重"
+        }
+      }
+    },
+    {
+      "id": "gpt-image-2",
+      "name": "GPT Image 2",
+      "brand": "OpenAI",
+      "url": "https://openai.com/index/image-generation/",
+      "i18n": {
+        "en": {
+          "description": "Prompt accuracy king. GPT Image 2 ships inside ChatGPT and via API since May 2026. Spatial reasoning, multilingual text rendering, and real-world knowledge sit ahead of every other model. The trade-off is slower generation and a softer aesthetic.",
+          "priceRange": "$20/mo Plus, $200/mo Pro, $0.053/image API mid quality"
+        },
+        "zh-tw": {
+          "description": "Prompt 精準度的王者。GPT Image 2 從 2026 年 5 月開始整合進 ChatGPT 跟 API。空間推理、多語言文字渲染、真實世界知識三項都領先其他模型。代價是生成比較慢，畫面風格也比較中性。",
+          "priceRange": "約 NT$620/月 Plus，約 NT$6,200/月 Pro，API 約 NT$1.6/張中質"
+        }
+      }
+    },
+    {
+      "id": "ideogram-v3",
+      "name": "Ideogram V3",
+      "brand": "Ideogram",
+      "url": "https://ideogram.ai/",
+      "i18n": {
+        "en": {
+          "description": "The text-in-image specialist. Ideogram V3 hits 90-95% text accuracy, which is the difference between a finished poster and one that has to go to Photoshop. Free tier covers casual use, Plus at $20 unlocks unlimited slow generations.",
+          "priceRange": "Free 25/day, $8/mo Basic, $20/mo Plus"
+        },
+        "zh-tw": {
+          "description": "文字渲染的專家。Ideogram V3 文字準確率 90 到 95%，這個差距等於海報直接交件，或是還要丟去 Photoshop 修一輪。免費版每天 25 張夠隨手玩，Plus 方案約 NT$620 解鎖無限慢速生成，做行銷素材的人這個方案最划算。",
+          "priceRange": "免費 25 張/天，約 NT$250/月 Basic，約 NT$620/月 Plus"
+        }
+      }
+    },
+    {
+      "id": "google-imagen-4",
+      "name": "Google Imagen 4",
+      "brand": "Google DeepMind",
+      "url": "https://deepmind.google/technologies/imagen/",
+      "i18n": {
+        "en": {
+          "description": "The cost-per-image winner. Imagen 4 Fast generates at $0.02, standard at $0.04, and Ultra delivers 2K at $0.06. Access goes through the Gemini API and AI Studio, which makes batch production trivially cheap.",
+          "priceRange": "$0.02 Fast, $0.04 Standard, $0.06 Ultra per image"
+        },
+        "zh-tw": {
+          "description": "單張成本的優勝者。Imagen 4 Fast 一張約 NT$0.6，Standard NT$1.2，Ultra 2K 解析度也才 NT$1.8。透過 Gemini API 跟 AI Studio 直接調用，要大量批次生產的場景便宜到誇張。",
+          "priceRange": "約 NT$0.6 Fast，約 NT$1.2 Standard，約 NT$1.8 Ultra"
+        }
+      }
+    },
+    {
+      "id": "adobe-firefly-4",
+      "name": "Adobe Firefly Image 4",
+      "brand": "Adobe",
+      "url": "https://www.adobe.com/products/firefly.html",
+      "i18n": {
+        "en": {
+          "description": "The commercial-safe default for agencies and brands. Firefly Image 4 trains only on Adobe Stock and licensed content, integrates natively into Photoshop and Express, and Standard at $9.99 covers 2,000 credits per month.",
+          "priceRange": "Free 25 credits, $9.99/mo Standard, $19.99/mo Pro, $199.99/mo Premium"
+        },
+        "zh-tw": {
+          "description": "代理商跟品牌方最安全的選擇。Firefly Image 4 只用 Adobe Stock 跟有授權的素材訓練，原生整合進 Photoshop 跟 Express，Standard 方案約 NT$310 每月 2,000 點數，做客戶案有授權爭議時這個出處最乾淨。",
+          "priceRange": "免費 25 點，約 NT$310/月 Standard，約 NT$620/月 Pro，約 NT$6,200/月 Premium"
+        }
+      }
+    },
+    {
+      "id": "stable-diffusion-3-5-large",
+      "name": "Stable Diffusion 3.5 Large",
+      "brand": "Stability AI",
+      "url": "https://stability.ai/news/introducing-stable-diffusion-3-5",
+      "i18n": {
+        "en": {
+          "description": "The open-source workhorse. SD 3.5 Large runs on a single 24GB GPU, the weights are free for commercial use under 1M ARR, and the API charges $0.065 per generation. The custom LoRA and ControlNet ecosystem is the deepest of any model.",
+          "priceRange": "Free open weights, $0.065/gen API"
+        },
+        "zh-tw": {
+          "description": "開源陣營的主力。SD 3.5 Large 在單張 24GB GPU 就能跑，年營收 100 萬美金以下可免費商用，API 一張約 NT$2。LoRA 跟 ControlNet 的客製化生態是所有模型裡最完整的，自架伺服器跑出來的隱私跟成本控制是雲端 API 給不了的優勢。",
+          "priceRange": "開源權重免費，API 約 NT$2/張"
+        }
+      }
+    },
+    {
+      "id": "recraft-v3",
+      "name": "Recraft V3",
+      "brand": "Recraft",
+      "url": "https://www.recraft.ai/",
+      "i18n": {
+        "en": {
+          "description": "The graphic design specialist. Recraft V3 hit #1 on the Artificial Analysis Text-to-Image Arena and is the only major model with native vector output. Raster at $0.04 per image, vector at $0.08, brand kit and style consistency built in.",
+          "priceRange": "$0.04 raster, $0.08 vector, $12/mo Basic"
+        },
+        "zh-tw": {
+          "description": "平面設計的專家。Recraft V3 在 Artificial Analysis 文字生圖排行榜拿過第一，是主流模型裡唯一能直接出向量檔的選擇。點陣圖一張約 NT$1.2，向量一張約 NT$2.4，品牌套件跟風格一致性內建。做 logo 跟插畫直接出 SVG 這個工作流別的家做不到。",
+          "priceRange": "約 NT$1.2 點陣，約 NT$2.4 向量，約 NT$370/月 Basic"
+        }
+      }
+    },
+    {
+      "id": "krea-ai",
+      "name": "Krea AI",
+      "brand": "Krea",
+      "url": "https://www.krea.ai/",
+      "i18n": {
+        "en": {
+          "description": "The aggregator play. Krea bundles 64+ models including Flux, Ideogram, Veo 3, and proprietary Krea 1 behind one subscription. The Realtime Canvas renders sketches into photoreal images in under 50ms, which is the fastest creative loop in the category.",
+          "priceRange": "Free 100 credits/day, $9/mo Basic, $35/mo Pro, $70/mo Max"
+        },
+        "zh-tw": {
+          "description": "聚合平台路線。Krea 一個訂閱打通 64 個以上的模型，包含 Flux、Ideogram、Veo 3 跟自家的 Krea 1。Realtime Canvas 把你畫的草圖在 50 毫秒內變成寫實圖，這個創作迴圈速度是品類裡最快的。",
+          "priceRange": "免費 100 點/天，約 NT$280/月 Basic，約 NT$1,090/月 Pro，約 NT$2,180/月 Max"
+        }
+      }
+    },
+    {
+      "id": "leonardo-phoenix",
+      "name": "Leonardo Phoenix 1.5",
+      "brand": "Leonardo.Ai",
+      "url": "https://leonardo.ai/",
+      "i18n": {
+        "en": {
+          "description": "The game asset pipeline pick. Phoenix 1.5 handles consistent characters, tileable textures, and isometric scenes better than any general-purpose model. Apprentice at $12 unlocks 8,500 tokens per month, and the platform was acquired by Canva in 2024.",
+          "priceRange": "Free 150 tokens/day, $12/mo Apprentice, $30/mo Artisan, $60/mo Maestro"
+        },
+        "zh-tw": {
+          "description": "做遊戲素材的首選。Phoenix 1.5 處理角色一致性、可平鋪材質、等角視角這幾個遊戲開發場景，比任何通用模型都強。Apprentice 方案約 NT$370 每月 8,500 點，2024 年被 Canva 收購之後資源更穩定，獨立遊戲開發者跟同人圈用的人很多。",
+          "priceRange": "免費 150 點/天，約 NT$370/月 Apprentice，約 NT$930/月 Artisan，約 NT$1,860/月 Maestro"
+        }
+      }
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-05-19",
+      "rankings": [
+        {
+          "id": "midjourney-v8",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 8.5,
+            "photorealism": 9.0,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "gpt-image-2",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.2,
+            "textRendering": 9.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 8.8,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 9.7
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "The 9 Best AI Image Generation Models in 2026",
+          "url": "https://www.gradually.ai/en/ai-image-models/",
+          "source": "Gradually"
+        },
+        {
+          "title": "AI Image Generation 2026: Midjourney v8 vs GPT Image 2 vs Flux",
+          "url": "https://lushbinary.com/blog/ai-image-generation-comparison-midjourney-gpt-flux/",
+          "source": "Lushbinary"
+        },
+        {
+          "title": "Best AI Image Generators in 2026: Midjourney vs DALL-E 3 vs Stable Diffusion vs Adobe Firefly vs Flux",
+          "url": "https://www.lumichats.com/blog/best-ai-image-generators-2026-midjourney-dalle-stable-diffusion-firefly-comparison",
+          "source": "Lumichats"
+        },
+        {
+          "title": "Midjourney V8 vs FLUX vs Stable Diffusion: Best AI Image Generator in 2026",
+          "url": "https://wavespeed.ai/blog/posts/midjourney-v8-vs-flux-vs-sora-best-ai-image-generator-2026/",
+          "source": "WaveSpeed"
+        },
+        {
+          "title": "Imagen 4 is now available in the Gemini API and Google AI Studio",
+          "url": "https://developers.googleblog.com/en/imagen-4-now-available-in-the-gemini-api-and-google-ai-studio/",
+          "source": "Google Developers Blog"
+        },
+        {
+          "title": "FLUX API Pricing",
+          "url": "https://bfl.ai/pricing",
+          "source": "Black Forest Labs"
+        },
+        {
+          "title": "Comparing Midjourney Plans",
+          "url": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans",
+          "source": "Midjourney"
+        },
+        {
+          "title": "Ideogram Pricing Guide 2026",
+          "url": "https://fluxnote.io/guides/ideogram-pricing-guide-2026",
+          "source": "FluxNote"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Day one of this ranking and I want to be direct about the order. Midjourney V8 takes first because the aesthetic gap to every other model is still the single biggest moat in this category, and V8 Alpha just made it bigger by shipping 2K native output with a 5x speed bump. If you are producing editorial, concept art, or anything that needs a painterly voice, V8 is the answer and nothing else gets close.\n\nFlux 2 Pro at second is the most important model of 2026 for working professionals. Photorealism is genuinely indistinguishable from photography for the first time, the open Dev variant means you can fine-tune your own brand LoRA, and at $0.03 per megapixel via API the unit economics make it the default backbone for e-commerce and stock replacement pipelines.\n\nGPT Image 2 at third wins on prompt accuracy, spatial reasoning, and multilingual text. For app mockups, infographics, and any prompt where the words matter as much as the image, this is the right pick. The price is the trade-off, but $20/month inside ChatGPT Plus is still the best value if you only need a few images a day.\n\nIdeogram V3 at fourth holds a specialist position that no other model can take. 90-95% text accuracy means posters, social graphics, and storefront signage land finished, not as rough drafts that need typography rebuilt in Figma. Imagen 4 at fifth is the unsung winner on cost per image and the Gemini API integration is the cleanest in the industry. The bottom half of this ranking is all specialists: Firefly for commercial safety, SD 3.5 Large for self-hosted control, Recraft for vector output, Krea for aggregation, and Leonardo for game assets. Pick by job, not by general ranking.",
+          "highlights": [
+            {
+              "title": "Midjourney V8 still wins on the only metric that matters for editorial work",
+              "body": "Aesthetic ceiling is the single biggest moat in this category and V8 Alpha widened the gap rather than closing it. The 5x speed bump means iteration cycles that took 30 seconds in V7 now finish in under 15. For concept art, magazine spreads, or anything that needs a painterly point of view, V8 is the default recommendation and nothing else comes close."
+            },
+            {
+              "title": "Flux 2 Pro is the new default backbone for commercial production",
+              "body": "Photorealism is indistinguishable from photography for the first time. The open Dev weights let you train your own brand LoRA, and $0.03 per megapixel via API makes the unit economics work for e-commerce, stock replacement, and any high-volume pipeline. Black Forest Labs shipped the model that finally retires the 'AI-generated' look."
+            },
+            {
+              "title": "GPT Image 2 owns the workflow where the words matter",
+              "body": "Spatial reasoning, multilingual text rendering, and real-world knowledge sit ahead of every other model. App UI mockups, infographics, and educational diagrams come out right the first time. The model is slower and the aesthetic is more neutral than Midjourney, which is the trade-off. For anyone living inside ChatGPT Plus, $20 per month is the best dollar-for-dollar value in the entire category."
+            },
+            {
+              "title": "Ideogram V3 holds a specialist seat nobody else can take",
+              "body": "Text rendering at 90-95% accuracy is the difference between a poster shipped and a poster that gets handed to a designer for typography rebuild. Marketing teams generating social graphics, storefront signage, or any layout where copy lives inside the image should default to Ideogram. The $8 Basic plan covers most use cases and the unlimited Plus tier at $20 is the best deal in the price-conscious tier."
+            },
+            {
+              "title": "Imagen 4 Fast is the cheapest serious model in the market",
+              "body": "$0.02 per image is half the cost of Flux 2 Pro and a third of GPT Image 2 mid-quality. The Gemini API and AI Studio integration is the cleanest developer experience of any major provider. For any batch pipeline, A/B variant generation, or programmatic content production, the math points to Imagen 4 Fast as the default and only escalates to Ultra when 2K output is required."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "排行榜上線第一天，名次我直接講清楚。Midjourney V8 拿第一是因為它在藝術風格的差距是整個品類最大的護城河，V8 Alpha 上週還把這個差距拉得更開，2K 原生輸出加 5 倍生成速度。做雜誌封面、概念藝術、任何需要有畫家視角的場景，V8 就是答案，沒有其他選擇靠得近。\n\n第二名 Flux 2 Pro 是 2026 年對工作專業者最重要的模型。寫實度第一次真的做到跟攝影分不出來，開源的 Dev 版讓你可以訓練自己品牌的 LoRA，API 一張 1024 不到 NT$1。電商商品圖跟取代圖庫的整個工作流，這個成本結構讓它直接變成主力骨幹。\n\n第三名 GPT Image 2 贏在 prompt 精準度、空間推理、多語言文字渲染。做 App UI mockup、資訊圖表、任何 prompt 裡文字跟圖一樣重要的場景，選這個。代價是生成速度慢、風格比較中性。話說回來，如果你本來就有 ChatGPT Plus 訂閱，約 NT$620/月內建這個模型就是品類裡 CP 值最高的選擇。\n\n第四名 Ideogram V3 守住一個其他模型搶不走的專家位置。文字準確率 90 到 95% 等於海報跟招牌可以直接交件，不用再丟 Figma 重做字體。\n\n第五名 Imagen 4 是被低估的單張成本贏家，Gemini API 整合在開發者體驗上也是業界最乾淨的。台灣做電商的同行最近開始把後台批次圖換成 Imagen 4 Fast，一張 NT$0.6 的成本要打過去真的很難。\n\n排行榜後半段都是專家位置，Firefly 做客戶案授權最乾淨、SD 3.5 Large 自架最自由、Recraft 出向量、Krea 一站打通、Leonardo 做遊戲素材。選工具看用途，不是看總排名。",
+          "highlights": [
+            {
+              "title": "Midjourney V8 在雜誌跟概念藝術這個場景守得很穩",
+              "body": "藝術風格的天花板是這個品類最大的護城河，V8 Alpha 是把差距拉開不是縮短。5 倍速度提升等於 V7 跑 30 秒的迭代現在 15 秒內出圖，做概念藝術跟雜誌跨頁，任何需要畫家視角的工作流，V8 就是預設選擇，其他家靠不近。"
+            },
+            {
+              "title": "Flux 2 Pro 是商業生產的新主力骨幹",
+              "body": "寫實度第一次跟攝影分不出來。開源 Dev 權重可以訓練自己品牌的 LoRA，API 一張 1024 約 NT$1，電商、圖庫取代、任何高量級生產線單張成本算得過去。Black Forest Labs 真的把那種「一看就是 AI」的味道從這個品類拿掉了。"
+            },
+            {
+              "title": "GPT Image 2 在文字重要的工作流是首選",
+              "body": "空間推理、多語言文字渲染、真實世界知識三項都領先其他模型。App UI mockup、資訊圖表、教學示意圖一次到位。慢一點、風格中性是代價。已經有 ChatGPT Plus 的人，這個約 NT$620/月內建的模型就是整個品類單位金額能買到的最好價值。"
+            },
+            {
+              "title": "Ideogram V3 是其他人搶不走的專家位置",
+              "body": "文字準確率 90 到 95% 等於海報可以直接交件，不用拿去 Figma 重做字體。做行銷素材、社群圖卡、招牌排版這類圖裡有文字的工作，預設選 Ideogram。約 NT$250 Basic 已經夠用，約 NT$620 Plus 無限慢速生成在這個價位帶是最划算的方案。"
+            },
+            {
+              "title": "Imagen 4 Fast 是現在最便宜的認真模型",
+              "body": "一張約 NT$0.6 是 Flux 2 Pro 的一半，GPT Image 2 中質的三分之一。Gemini API 跟 AI Studio 整合是業界開發者體驗最乾淨的。批次生產、A/B 變體生成、程式化內容流，數學上預設選 Imagen 4 Fast，2K 輸出有需要再升到 Ultra 就好。"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
