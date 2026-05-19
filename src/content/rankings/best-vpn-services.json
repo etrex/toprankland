@@ -194,6 +194,22 @@
           "priceRange": "約 NT$160/月"
         }
       }
+    },
+    {
+      "id": "obscuravpn",
+      "name": "Obscura VPN",
+      "brand": "Obscura",
+      "url": "https://obscura.net/",
+      "i18n": {
+        "en": {
+          "description": "Two-party multi-hop VPN that partners with Mullvad for the exit hop, audited in late 2025.",
+          "priceRange": "$8"
+        },
+        "zh-tw": {
+          "description": "雙方獨立的多跳 VPN，出口節點由 Mullvad 託管，2025 年底通過首次獨立稽核。",
+          "priceRange": "約 NT$260"
+        }
+      }
     }
   ],
   "history": [
@@ -5528,6 +5544,18 @@
             "network": 8.0,
             "usability": 8.0,
             "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
           }
         }
       ],
