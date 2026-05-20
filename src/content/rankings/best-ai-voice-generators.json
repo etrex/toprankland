@@ -1711,6 +1711,184 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-20",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.3,
+            "languageSupport": 9.7,
+            "latency": 9.2,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.6,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.8,
+            "emotionalRange": 8.6,
+            "languageSupport": 8.4,
+            "latency": 9.9,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 6,
+          "score": 8.3,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 8.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "voiceRealism": 8.0,
+            "emotionalRange": 7.6,
+            "languageSupport": 8.6,
+            "latency": 7.7,
+            "valueForMoney": 8.4
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "ElevenLabs v3 multilingual",
+          "url": "https://elevenlabs.io/",
+          "source": "ElevenLabs"
+        },
+        {
+          "title": "Cartesia Sonic 3 specs",
+          "url": "https://cartesia.ai/",
+          "source": "Cartesia"
+        },
+        {
+          "title": "Voice Generation Models Compared (2026)",
+          "url": "https://sureprompts.com/blog/voice-generation-models-compared-2026",
+          "source": "SurePrompts"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Day 3 mid-week and the SurePrompts 2026 voice-model comparison that landed this week reads almost identically to the framing I have been pushing since the Cartesia Sonic 3 launch: ElevenLabs leads on overall quality and cloning, Hume leads on emotion, Cartesia leads on latency. Nothing in the past 24 hours moves the leaderboard. ElevenLabs stays on top. v3 multilingual covers 70-plus languages, Flash v2.5 handles up to 40k characters in a single request, and Professional Voice Cloning still ships the closest thing to a virtually indistinguishable custom voice in production. For anything where fidelity matters more than latency, ElevenLabs is the unambiguous default. Hume AI Octave 2 holds second on 32-dimension emotional control. For narrative, audiobook, and game dialogue work where nuance is the deliverable, Hume is the right pick and nothing has moved that conversation in months. Cartesia Sonic 3 stays third. The 40ms time-to-first-audio target plus 90ms model latency keeps it the production winner for real-time conversational agents that need to interrupt and resume naturally. Language coverage at 15 is the only meaningful tradeoff and within that range Cartesia owns responsiveness. MiniMax Speech 02 HD holds fourth on multilingual general-purpose. GPT-4o-mini-TTS stays the right indie budget pick. Murf AI, WellSaid Labs, Speechify Studio unchanged. Wednesday signal: the quality-vs-latency framing is now the consensus and that is the right way to frame purchase decisions through summer.",
+          "highlights": [
+            {
+              "title": "SurePrompts 2026 comparison confirms quality-vs-latency consensus",
+              "body": "ElevenLabs leads on quality and cloning, Hume leads on emotion, Cartesia leads on latency. Three-way split now consensus framing across independent reviewers. Purchase decisions should use this framework through summer."
+            },
+            {
+              "title": "ElevenLabs v3 still owns fidelity, multilingual, and pro cloning",
+              "body": "70-plus languages, 40k-character single-request Flash v2.5, Professional Voice Cloning that delivers a virtually indistinguishable custom voice. For anything where fidelity matters more than latency, ElevenLabs is the unambiguous default. First place locked."
+            },
+            {
+              "title": "Cartesia Sonic 3 still the voice-agent production winner",
+              "body": "40ms time-to-first-audio target with 90ms model latency plus 3-second voice cloning is the production-grade real-time profile. Voice agents that need to interrupt and resume naturally still pick Cartesia. Third place locked on the latency story."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "第三天週中，這週登場的 SurePrompts 2026 語音模型比較報告講的架構，跟我從 Cartesia Sonic 3 推出後一直推的幾乎一樣，ElevenLabs 整體品質跟複製領先，Hume 情緒領先，Cartesia 延遲領先。過去 24 小時沒有東西改變排行榜。\n\nElevenLabs 守第一。v3 多語系涵蓋 70 多種語言，Flash v2.5 單次請求處理最多 4 萬字元，Professional Voice Cloning 還是市面上最接近難以分辨的自訂聲音模型。任何擬真度比延遲更重要的場景，ElevenLabs 還是毫無爭議的預設。\n\nHume AI Octave 2 守第二，32 維情緒控制。敘事、有聲書、遊戲對白這種細膩情感就是交付物的場景，Hume 還是首選，這個對話幾個月來沒有變動。\n\nCartesia Sonic 3 守第三。首音訊 40ms 目標加模型延遲 90ms 還是即時對話 agent 自然打斷跟接話的生產環境贏家。語言涵蓋 15 種是唯一有意義的取捨，在這個範圍內 Cartesia 反應速度贏。\n\nMiniMax Speech 02 HD 守第四多語系通用槽位。GPT-4o-mini-TTS 還是獨立預算首選。Murf AI、WellSaid Labs、Speechify Studio 都沒動。\n\n禮拜三的訊號：品質派跟延遲派的分裂現在是共識，整個夏天買家決策都該用這個架構。",
+          "highlights": [
+            {
+              "title": "SurePrompts 2026 比較報告確認品質跟延遲分裂變共識",
+              "body": "ElevenLabs 品質跟複製領先，Hume 情緒領先，Cartesia 延遲領先。三方分裂現在是獨立評測者的共識架構。整個夏天買家決策都該用這個框架。"
+            },
+            {
+              "title": "ElevenLabs v3 還是擬真度、多語系、專業複製的王者",
+              "body": "70 多種語言、Flash v2.5 單次請求 4 萬字元、Professional Voice Cloning 給出難以分辨的自訂聲音。任何擬真度比延遲更重要的場景，ElevenLabs 還是毫無爭議的預設。第一名鎖死。"
+            },
+            {
+              "title": "Cartesia Sonic 3 還是語音 agent 生產環境贏家",
+              "body": "首音訊 40ms 目標、模型延遲 90ms 加 3 秒聲音複製是生產級即時應用的規格。需要自然打斷跟接話的語音 agent 還是選它。第三名靠延遲故事鎖住。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

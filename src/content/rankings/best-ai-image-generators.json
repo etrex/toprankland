@@ -358,6 +358,184 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-20",
+      "rankings": [
+        {
+          "id": "midjourney-v8",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 8.5,
+            "photorealism": 9.0,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "gpt-image-2",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.2,
+            "textRendering": 9.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 8.8,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 9.7
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Midjourney V8 release notes",
+          "url": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans",
+          "source": "Midjourney"
+        },
+        {
+          "title": "FLUX API Pricing",
+          "url": "https://bfl.ai/pricing",
+          "source": "Black Forest Labs"
+        },
+        {
+          "title": "Imagen 4 is now available in the Gemini API",
+          "url": "https://developers.googleblog.com/en/imagen-4-now-available-in-the-gemini-api-and-google-ai-studio/",
+          "source": "Google Developers Blog"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Day 3 of the ranking and Google I/O came and went on Tuesday without a successor to Imagen 4, which tells me Google is letting the image-gen pipeline ride into summer while pushing video and the Spark agent. The ordering holds. Midjourney V8 keeps the top spot because the V8 Alpha aesthetic ceiling plus 2K native output plus 5x speed bump remains the single biggest moat in the category. Wednesday signal is that no major model has shipped since V8 Alpha and no contender has surfaced that touches the editorial-and-concept-art conversation. V8 stays the default for any deliverable that needs a painterly voice. Flux 2 Pro stays second on photorealism that competes with photography and $0.03 per megapixel API economics that make it the new commercial-production backbone. The open Dev weights remain the killer feature for any brand that wants its own LoRA, and the FLUX.2 Klein ultra-fast variant has been picking up share in high-volume pipelines this month. GPT Image 2 holds third on prompt accuracy, multilingual text, and spatial reasoning, with ChatGPT Plus at $20/month still the best dollar-for-dollar entry point. Ideogram V3 stays fourth on 90-95 percent text accuracy, the only model that ships finished posters and storefront signage. Imagen 4 stays fifth on the cleanest developer experience among majors. Firefly, SD 3.5 Large, Recraft, Krea, Leonardo locked in specialist roles. Wednesday read: pick by job, not by general ranking. Memorial Day week does not move AI image subscriptions, the calendar here is model releases.",
+          "highlights": [
+            {
+              "title": "Google I/O came and went without an Imagen 4 successor",
+              "body": "Tuesday confirmed Google is letting image-gen ride into summer while pushing video and the Spark agent. No new model has shipped since V8 Alpha, no contender has surfaced. Midjourney V8 first place is structural through the rest of the month."
+            },
+            {
+              "title": "Flux 2 Pro plus FLUX.2 Klein is now the commercial production stack",
+              "body": "Photorealism indistinguishable from photography, open Dev weights for brand-specific LoRA training, $0.03 per megapixel API economics. The ultra-fast FLUX.2 Klein variant is picking up share in high-volume pipelines this month. Second place locked and the commercial moat is widening."
+            },
+            {
+              "title": "GPT Image 2 plus ChatGPT Plus stays the highest-leverage $20 in AI imaging",
+              "body": "Prompt accuracy, multilingual text, and spatial reasoning lead the field. For anyone already on ChatGPT Plus, the bundle remains the best dollar-for-dollar entry point. Holds third comfortably."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "排行榜第三天，禮拜二 Google I/O 結束了，沒有 Imagen 4 的繼任者，這告訴我 Google 把圖像生成管線放到夏天，先推影片跟 Spark agent。排名沒動。\n\nMidjourney V8 守第一，V8 Alpha 的藝術風格天花板加 2K 原生輸出加 5 倍速度，還是分類裡最大的護城河。禮拜三的訊號是 V8 Alpha 之後沒有主要模型推出，也沒有挑戰者浮出來碰到編輯與概念藝術的對話。V8 還是任何需要畫家視角交付物的預設選擇。\n\nFlux 2 Pro 守第二，寫實度真的跟攝影競爭，API 一張 1024 約 NT$1 的成本結構讓它變成商業生產的新主力骨幹。開源 Dev 權重對想訓練品牌 LoRA 的廠商還是殺手級功能。FLUX.2 Klein 這個超快版本這個月在高量級生產線拿到更多份額。\n\nGPT Image 2 守第三，prompt 精準度、多語言文字、空間推理三項領先，ChatGPT Plus 約 NT$620/月還是每塊錢能買到最多的入口。\n\nIdeogram V3 守第四，文字準確率 90 到 95% 讓它還是唯一能直接交付海報跟招牌的模型。\n\nImagen 4 守第五，大廠裡開發者體驗最乾淨。\n\n後半段（Firefly、SD 3.5 Large、Recraft、Krea、Leonardo）守住專家位置。老實說選工具看用途，不是看總排名。陣亡將士紀念日週對 AI 圖像訂閱沒影響，這個分類看模型發布不看零售檔期。",
+          "highlights": [
+            {
+              "title": "Google I/O 結束了沒有 Imagen 4 繼任者",
+              "body": "禮拜二確認 Google 把圖像生成放到夏天，先推影片跟 Spark agent。V8 Alpha 之後沒有新模型，也沒有挑戰者。Midjourney V8 第一名到月底都是結構性的。"
+            },
+            {
+              "title": "Flux 2 Pro 加 FLUX.2 Klein 現在是商業生產堆疊",
+              "body": "寫實度跟攝影分不出來、開源 Dev 權重訓練品牌 LoRA、API 約 NT$1 一張的成本。超快的 FLUX.2 Klein 版本這個月在高量級生產線拿到更多份額。第二名鎖住，商業護城河繼續加寬。"
+            },
+            {
+              "title": "GPT Image 2 加 ChatGPT Plus 還是 AI 影像 NT$620 最高槓桿",
+              "body": "Prompt 精準度、多語言文字、空間推理三項領先。已經在付 ChatGPT Plus 的人，這個組合包還是每塊錢能買到最多的入口。穩坐第三。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

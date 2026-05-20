@@ -1884,6 +1884,184 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-20",
+      "rankings": [
+        {
+          "id": "google-veo-3-1",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "kling-3-0",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "promptAdherence": 9.0,
+            "motionRealism": 9.1,
+            "audioVideoSync": 8.6,
+            "characterConsistency": 8.9,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "promptAdherence": 9.0,
+            "motionRealism": 8.8,
+            "audioVideoSync": 9.4,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 6,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 9,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 10,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
+          "url": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Best AI Video Generator (May 2026) Top Models Ranked by Humans",
+          "url": "https://llm-stats.com/leaderboards/best-ai-for-video-generation",
+          "source": "LLM-Stats"
+        },
+        {
+          "title": "Runway Gen-4.5 documentation",
+          "url": "https://runwayml.com/",
+          "source": "Runway"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Day 3 and Google I/O 2026 dropped Gemini Omni on Tuesday, the new audio-plus-image-plus-video generative model that explicitly bundles with the Gemini app and the $100 Ultra plan. This is the first Veo-adjacent shake-up in two months and it changes the conversation around the top of the leaderboard, but not the ranking today. Veo 3.1 keeps the top spot because Omni is staged into the Gemini app rollout rather than shipped as a standalone video model, and Veo 3.1 still leads on prompt adherence, native audio, and 4K with 30-second clip support that is reshaping ad-agency pipelines. The Omni news raises the floor on Google's video story but does not punctuate Veo 3.1's lead this Wednesday. Runway Gen-4.5 stays second on character consistency, motion brush, and granular camera control that nothing else in the market matches for narrative work. Branded and episodic content with recurring characters still picks Runway first and that has not budged. Kling 3.0 holds third on aggressive pricing plus multi-shot storyboard with native audio sync. Up to 3-minute clips with lip-sync remains a real differentiator for animated content and the studio pipeline share keeps growing. Seedance 2.0 stays fourth on audio-video sync quality. Hailuo 02, Dream Machine Ray3, Pika 2.2, Firefly Video unchanged. Wednesday practical read: US ad agencies are not signing new annual seats this week, so this is the right week to run prompt-quality and prompt-cost trials. Wait for Omni general availability before re-evaluating the Veo position.",
+          "highlights": [
+            {
+              "title": "Google I/O dropped Gemini Omni but it is a staged Gemini-app rollout",
+              "body": "Tuesday's Omni announcement bundles audio, image, and video generation into the Gemini app plus $100 Ultra plan. First Veo-adjacent shake-up in two months. Raises the floor on Google's video story but does not punctuate Veo 3.1's lead this Wednesday because Omni is staged not standalone."
+            },
+            {
+              "title": "Veo 3.1 30-second support keeps tearing up agency pipelines",
+              "body": "Prompt adherence, native audio, 4K output, plus 30-second clips that are restructuring ad-agency stitch-heavy production lines. First place lead survives the Omni news because Veo 3.1 is the production-ready model today. Locked in through summer."
+            },
+            {
+              "title": "Runway Gen-4.5 still owns narrative work on character consistency",
+              "body": "Motion brush, reference-driven character consistency, and granular camera control remain unmatched for branded or episodic content with recurring characters. Second place locked in and the Omni news does not touch the narrative-work pitch this quarter."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "第三天，禮拜二 Google I/O 2026 推出 Gemini Omni，這是新的音訊加圖像加影片生成模型，直接綁進 Gemini app 跟 100 美元 Ultra 方案。這是兩個月來第一次 Veo 周邊的震盪，改變排行榜頂端的對話，但今天還沒改變排名。\n\nVeo 3.1 守第一，因為 Omni 是分階段推進 Gemini app，不是獨立影片模型，而 Veo 3.1 在提示遵循度、原生音訊、4K 跟 30 秒片段支援還是領先，正在重塑廣告代理商生產線。Omni 的消息把 Google 影片故事的地板拉高，但禮拜三沒戳到 Veo 3.1 的領先。\n\nRunway Gen-4.5 守第二，角色一致性、Motion Brush、細緻鏡頭控制在敘事型工作上市場無人能比。品牌或集數型內容、有重複出現角色的需求，第一個還是選 Runway，這件事沒變。\n\nKling 3.0 守第三，激進的定價加跨鏡頭原生音訊同步的多鏡頭分鏡。最長 3 分鐘片段加內建嘴型同步對動畫內容還是真實的差異化，工作室生產線份額持續成長。\n\nSeedance 2.0 守第四，音畫同步品質還是賣點。Hailuo 02、Dream Machine Ray3、Pika 2.2、Firefly Video 都沒動。\n\n禮拜三的務實讀法：美國廣告代理商這禮拜不簽新的年約，這禮拜該做 prompt 品質跟 prompt 成本測試。等 Omni 普及之後再重新評估 Veo 的位置。",
+          "highlights": [
+            {
+              "title": "Google I/O 推出 Gemini Omni 但是分階段綁進 Gemini app",
+              "body": "禮拜二 Omni 公告把音訊、圖像、影片生成綁進 Gemini app 加 100 美元 Ultra 方案。兩個月來第一次 Veo 周邊震盪。把 Google 影片故事地板拉高，但禮拜三沒戳到 Veo 3.1 領先，因為 Omni 是分階段推出不是獨立模型。"
+            },
+            {
+              "title": "Veo 3.1 30 秒支援持續拆代理商生產線",
+              "body": "提示遵循度、原生音訊、4K 輸出加 30 秒片段正在重組廣告代理商拼接式生產線。第一名領先撐過 Omni 新聞，因為 Veo 3.1 是今天能直接用於量產的模型。鎖到夏天。"
+            },
+            {
+              "title": "Runway Gen-4.5 在敘事工作還是靠角色一致性贏",
+              "body": "Motion Brush、參考圖驅動角色一致性、細緻鏡頭控制，對有重複角色的品牌或集數型內容市場上沒人能比。第二名鎖住，Omni 新聞這一季碰不到敘事工作這個提案。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

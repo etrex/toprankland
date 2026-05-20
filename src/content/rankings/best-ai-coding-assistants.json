@@ -6823,6 +6823,196 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-20",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "codeQuality": 9.6,
+            "contextWindow": 9.6,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.6,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 7.9
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Claude Code changelog",
+          "url": "https://code.claude.com/docs/en/changelog",
+          "source": "Anthropic"
+        },
+        {
+          "title": "Cursor 3.0 release with Agents Window and Design Mode",
+          "url": "https://www.cursor.com/changelog",
+          "source": "Cursor"
+        },
+        {
+          "title": "Claude Code vs Cursor 2026 comparison",
+          "url": "https://toolradar.com/blog/claude-code-vs-cursor-2026",
+          "source": "Toolradar"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Day 3 mid-week check and Cursor 3.0 has officially landed with the Agents Window and Design Mode, which is the biggest Cursor release since 1.0. Agents Window is Cursor's answer to Claude Code's parallel-agent workflow, and Design Mode bundles a visual frontend editor into the IDE that was previously a separate Anysphere project. This is the first credible challenge to Claude Code's parallel-agent moat in months, but it does not flip the top spot today. Claude Code stays on top. The 2.1.139 agent view is fully bedded in, the temporary 50 percent weekly limit bump runs through July 13, and Opus 4.7 still hits 87.6 percent on SWE-bench. My parallel-session workflow keeps running all day without the cap, and the orchestration depth Claude Code has on git worktrees plus remote phone monitoring is still ahead of Cursor 3.0 on day one. Cursor stays second and the gap closed today rather than widened. Design Mode is the smartest product move Anysphere has made this year because it pulls visual-frontend engineers who never wanted a parallel CLI in the first place. Watch this slot through June. Codex CLI on gpt-5.1-codex-max-2 stays third for terminal natives at sub-600ms median latency. Aider, Google Jules, Windsurf, Devin, Zed, Amazon Q, Sourcegraph Cody and GitHub Copilot are unchanged. Wednesday verdict: Claude Code still wins parallel-agent power users, but if you bounced off the parallel-CLI workflow before, Cursor 3.0 is now worth a fresh trial this week.",
+          "highlights": [
+            {
+              "title": "Cursor 3.0 Agents Window plus Design Mode is the biggest release since 1.0",
+              "body": "First credible challenge to Claude Code's parallel-agent moat in months. Agents Window mirrors the parallel workflow, Design Mode pulls visual-frontend engineers who never wanted a CLI in the first place. Gap to first place closed today. Worth a fresh trial if the parallel-CLI workflow did not click for you before."
+            },
+            {
+              "title": "Claude Code parallel agents plus Opus 4.7 SWE-bench still defend first",
+              "body": "2.1.139 agent view is fully bedded in, 50 percent weekly bump runs through July 13, Opus 4.7 holds 87.6 percent SWE-bench. Git-worktree orchestration plus remote phone monitoring stays ahead of Cursor 3.0 on day one. First place locked but the lead narrowed."
+            },
+            {
+              "title": "Codex CLI sub-600ms latency still owns terminal-native third",
+              "body": "gpt-5.1-codex-max-2 median round-trip stays under 600ms on edit cycles. Cursor 3.0 does not change the terminal-native pitch and Codex CLI remains the right pick for engineers who refuse to touch a vendored editor. Third place locked in."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "第三天週中檢查，Cursor 3.0 正式登陸，帶來 Agents Window 跟 Design Mode，這是 Cursor 自 1.0 以來最大的版本更新。Agents Window 是 Cursor 對 Claude Code 平行 agent 工作流的回應，Design Mode 把視覺化前端編輯器整合進 IDE，過去這是 Anysphere 獨立專案。\n\n這是幾個月來第一次對 Claude Code 平行 agent 護城河的可信挑戰，但今天還沒翻第一名。\n\nClaude Code 守第一。2.1.139 agent view 完全內化，每週用量暫時提高 50% 延長到 7/13，Opus 4.7 在 SWE-bench 還是 87.6%。我自己的平行 session 工作流整天跑都沒撞上限，Claude Code 在 git worktree 加遠端手機監控的編排深度，第一天還是領先 Cursor 3.0。\n\nCursor 守第二，差距今天是縮短不是擴大。Design Mode 是 Anysphere 今年最聰明的產品決策，因為它把那些本來就不想跑平行 CLI 的視覺前端工程師拉進來。六月底前盯緊這個位置。\n\nCodex CLI 跑 gpt-5.1-codex-max-2 守第三，terminal 原生中位數延遲 600ms 以下。Aider、Google Jules、Windsurf、Devin、Zed、Amazon Q、Sourcegraph Cody、GitHub Copilot 都沒動。\n\n禮拜三的結論：Claude Code 還是平行 agent 重度使用者的贏家，但如果你過去試平行 CLI 工作流試不下去，Cursor 3.0 這禮拜值得重新試一次。",
+          "highlights": [
+            {
+              "title": "Cursor 3.0 Agents Window 加 Design Mode 是 1.0 以來最大版本",
+              "body": "幾個月來第一次對 Claude Code 平行 agent 護城河的可信挑戰。Agents Window 鏡射平行工作流，Design Mode 拉進本來就不想跑 CLI 的視覺前端工程師。跟第一名差距今天縮短。過去 CLI 工作流不順的人值得這禮拜重新試一次。"
+            },
+            {
+              "title": "Claude Code 平行 agent 加 Opus 4.7 SWE-bench 還是守住第一",
+              "body": "2.1.139 agent view 完全內化，每週 50% 加成跑到 7/13，Opus 4.7 SWE-bench 還是 87.6%。Git worktree 編排加遠端手機監控，Cursor 3.0 第一天還追不到。第一名鎖住但領先縮小。"
+            },
+            {
+              "title": "Codex CLI 中位數延遲 600ms 以下還是 terminal 原生第三",
+              "body": "gpt-5.1-codex-max-2 編輯循環中位數延遲還是壓在 600ms 內。Cursor 3.0 沒改變 terminal 原生提案，Codex CLI 還是堅持不用綁定編輯器的工程師首選。第三名鎖住。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
