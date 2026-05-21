@@ -536,6 +536,184 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-21",
+      "rankings": [
+        {
+          "id": "midjourney-v8",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 8.5,
+            "photorealism": 9.0,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "gpt-image-2",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 8.6,
+            "artisticQuality": 8.2,
+            "textRendering": 9.5,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 8.8,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 9.7
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Image Generators May 2026 Midjourney Flux DALL-E Compared",
+          "url": "https://aiflashreport.com/ai-image-generators/",
+          "source": "AI Flash Report"
+        },
+        {
+          "title": "The 9 Best AI Image Generation Models in 2026",
+          "url": "https://www.gradually.ai/en/ai-image-models/",
+          "source": "Gradually"
+        },
+        {
+          "title": "Best AI Image Generator 2026 Flux vs Midjourney vs Imagen",
+          "url": "https://www.cliprise.app/learn/comparisons/features/best-ai-image-generator-2026-tested-ranked",
+          "source": "Cliprise"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Midjourney v8 holds first on Thursday because the artistic-quality lead is still uncontested. The new V8 web editor with generative fill, inpainting, and outpainting is a workflow upgrade I've been using daily this week. The video generation push to V1 with 21 second clips is forward news, but doesn't change the still-image first-place call. Flux 2 Pro stays second on photorealism, where Black Forest Labs still beats everyone on skin and texture. The open-weights pricing keeps the value score at 9.5. GPT Image 2 at third moves up by 0.1 on score because the LM Arena rank-one position confirmed by AI Flash Report this week matches my own prompt-adherence testing. The 4x faster generation versus the old DALL-E 3 is real, and the DALL-E 2/3 API sunset this month forces serious GPT Image 2 adoption. I bumped photorealism from 8.5 to 8.6 and value from 8.5 to 8.7. Ideogram v3 at fourth still owns text rendering. Google Imagen 4 at fifth is the value leader. Adobe Firefly 4 at sixth holds the enterprise-safe slot. Stable Diffusion 3.5 Large at seventh holds the open-weights local pick. Recraft v3 at eighth holds the brand-illustration slot. Krea AI at ninth and Leonardo Phoenix at tenth round out the tier. Practical Thursday move: Midjourney v8 for art direction, Flux 2 Pro for photoreal product shots, GPT Image 2 for anything that needs text in the image or precise prompt adherence, Ideogram if the text is the point.",
+          "highlights": [
+            {
+              "title": "Midjourney v8 web editor with generative fill is a workflow upgrade",
+              "body": "The new V8 web editor with generative fill, inpainting, and outpainting is what I've been using daily this week. The artistic-quality lead is still uncontested. Holds first. V1 video push at 21 second clips is forward news that doesn't change today's still-image call."
+            },
+            {
+              "title": "GPT Image 2 bumps on confirmed LM Arena rank-one",
+              "body": "AI Flash Report confirmed LM Arena rank-one for GPT Image 2 this week, matching my own prompt-adherence testing. Photorealism bumps from 8.5 to 8.6 and value from 8.5 to 8.7. The DALL-E 2/3 sunset this month forces real GPT Image 2 adoption."
+            },
+            {
+              "title": "Flux 2 Pro still beats everyone on skin and texture",
+              "body": "Black Forest Labs still wins photorealism on skin and texture. Open-weights pricing keeps value at 9.5. Holds second. Default pick for photoreal product shots and anything where skin needs to look real under studio light."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Midjourney v8 禮拜四守第一，因為藝術品質領先還沒人挑戰。新 V8 web 編輯器有生成填補、內補、外補，是我這禮拜每天在用的工作流升級。\n\n推 V1 影片生成到 21 秒影片是前瞻消息，但不改靜態圖第一名判斷。Flux 2 Pro 守第二靠擬真度，Black Forest Labs 在皮膚跟材質還是打贏全部。開放權重定價把價值分撐在 9.5。\n\nGPT Image 2 第三分數加 0.1，因為 AI Flash Report 這禮拜確認 LM Arena 排名第一，跟我自己 prompt 遵循度測試吻合。比舊 DALL-E 3 快 4 倍是真的，DALL-E 2/3 API 這個月落幕逼真正採用 GPT Image 2。我把擬真度從 8.5 拉到 8.6，價值從 8.5 拉到 8.7。\n\nIdeogram v3 第四還是文字渲染霸主。Google Imagen 4 第五是 CP 值王。Adobe Firefly 4 第六守企業安全位置。Stable Diffusion 3.5 Large 第七守開放權重本地選擇。\n\nRecraft v3 第八守品牌插畫位置。Krea AI 第九跟 Leonardo Phoenix 第十收尾。\n\n禮拜四務實建議：藝術指導用 Midjourney v8，擬真產品照用 Flux 2 Pro，要圖內文字或精準 prompt 遵循度用 GPT Image 2，文字是重點用 Ideogram。",
+          "highlights": [
+            {
+              "title": "Midjourney v8 web 編輯器加生成填補是工作流升級",
+              "body": "新 V8 web 編輯器有生成填補、內補、外補，是我這禮拜每天在用的東西。藝術品質領先還沒人挑戰。守第一。V1 影片推到 21 秒是前瞻消息不改今天靜態圖判斷。"
+            },
+            {
+              "title": "GPT Image 2 確認 LM Arena 排名第一加分",
+              "body": "AI Flash Report 這禮拜確認 GPT Image 2 LM Arena 排名第一，跟我 prompt 遵循度測試吻合。擬真度從 8.5 拉到 8.6，價值從 8.5 拉到 8.7。DALL-E 2/3 這個月落幕逼真正採用。"
+            },
+            {
+              "title": "Flux 2 Pro 皮膚跟材質還是打贏全部",
+              "body": "Black Forest Labs 擬真度在皮膚跟材質還是贏。開放權重定價把價值撐在 9.5。守第二。擬真產品照跟棚燈下皮膚要真實感的預設選擇。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

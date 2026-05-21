@@ -1350,6 +1350,194 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-21",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.3,
+            "coding": 9.0,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.0,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.4,
+            "coding": 9.8,
+            "writing": 9.6,
+            "realtime": 7.5,
+            "value": 9.0,
+            "ecosystem": 9.0
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.9,
+            "realtime": 9.3,
+            "value": 9.5,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "reasoning": 8.8,
+            "coding": 8.2,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.4,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Google updates Gemini app to take on ChatGPT and Claude at IO 2026",
+          "url": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Study Finds ChatGPT Claude Gemini Grok Chatbots Unreliable on Elections News",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-05-20/study-finds-chatgpt-claude-gemini-grok-chatbots-unreliable-on-elections-news",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Claude AI Stats May 2026 Market Share Total Users",
+          "url": "https://fatjoe.com/blog/claude-ai-stats/",
+          "source": "FATJOE"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Thursday is the first full day after Google I/O 2026 wrapped, and Gemini got bumped to a 9.3 tie with Claude on the strength of the Daily Brief, Spark agent, and Omni video model announcements. ChatGPT still holds first because the ecosystem moat from custom GPTs plus the App Store presence plus the new Codex integration is bigger than any single I/O reveal. Claude stays second on the strength of coding and writing, which matched my own testing this week through the Claude iOS app. The FATJOE data showing Claude grew from 2 percent to 10 percent of US mobile chatbot DAU between December and March is the real story behind the second-place ranking. Gemini moves up to tied second by raw feature breadth. The Spark agent that keeps running when you lock your phone is the kind of background work that nobody else does yet. The Bloomberg study published yesterday that all four major chatbots fail on election news doesn't change the ranking but it does change how I'd use them. For news questions I still default to Perplexity at fourth because the citations are checkable. Grok at fifth holds on realtime because the X firehose is unique. Copilot at sixth holds the Microsoft ecosystem slot. DeepSeek at seventh is the cheap heavy-reasoning pick. Meta AI at eighth, Mistral Le Chat at ninth, Qwen Chat at tenth hold their tier. The practical Thursday move: ChatGPT for general use, Claude for code and longform writing, Gemini if you live in Google Workspace and want the new Spark agent, Perplexity for anything that needs sourced citations.",
+          "highlights": [
+            {
+              "title": "Gemini jumps to tied second after I/O 2026 reveal",
+              "body": "Spark agent, Daily Brief, and Omni video model from I/O 2026 push Gemini to a 9.3 tie with Claude. The background-running Spark agent is the kind of work nobody else does yet. Google Workspace users should switch this week."
+            },
+            {
+              "title": "ChatGPT holds first because the ecosystem moat keeps growing",
+              "body": "Custom GPTs plus App Store presence plus Codex integration is a bigger moat than any single I/O announcement. ChatGPT stays first on Thursday. Default pick for general use when you don't need code or sourced citations."
+            },
+            {
+              "title": "Bloomberg study confirms all four major chatbots fail on news",
+              "body": "The Bloomberg study published May 20 shows ChatGPT, Claude, Gemini, and Grok all unreliable on election and news questions. The ranking doesn't change but the use case does. Default to Perplexity for anything that needs sourced citations."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "禮拜四是 Google I/O 2026 結束第一個完整工作日，Gemini 因為 Daily Brief、Spark 代理、Omni 影片模型發表被我拉到 9.3 跟 Claude 並列第二。\n\nChatGPT 還是守第一，因為自訂 GPT 加 App Store 存在感加新 Codex 整合的生態系護城河比任何單一 I/O 揭曉都大。Claude 第二靠寫程式跟寫作這禮拜我用 Claude iOS App 測試吻合。\n\n講真的，FATJOE 數據顯示 Claude 從十二月 2% 漲到三月 10% 美國手機聊天機器人日活，這才是第二名背後的故事。Gemini 升到並列第二靠純功能廣度。鎖屏後還在跑的 Spark 代理是目前沒人做的背景工作。\n\nBloomberg 昨天發的研究說四大主流聊天機器人選舉新聞都不可靠，這沒改排名但改了我會怎麼用它們。新聞題我還是預設用 Perplexity 第四，因為引用可以查證。\n\nGrok 第五守即時消息，因為 X firehose 是獨家。Copilot 第六守微軟生態系。DeepSeek 第七是便宜重推理選擇。Meta AI 第八、Mistral Le Chat 第九、Qwen Chat 第十守原階。\n\n禮拜四務實建議：一般用途 ChatGPT，寫程式跟長文寫作 Claude，住在 Google Workspace 想要新 Spark 代理就 Gemini，要引用來源就 Perplexity。",
+          "highlights": [
+            {
+              "title": "Gemini I/O 2026 揭曉後跳並列第二",
+              "body": "I/O 2026 的 Spark 代理、Daily Brief、Omni 影片模型把 Gemini 推到 9.3 跟 Claude 並列。背景在跑的 Spark 代理是目前沒人做的東西。Google Workspace 使用者這禮拜應該換過去。"
+            },
+            {
+              "title": "ChatGPT 守第一 生態系護城河越來越深",
+              "body": "自訂 GPT 加 App Store 存在感加 Codex 整合的護城河比任何單一 I/O 發表都大。ChatGPT 禮拜四守第一。一般用途不需要程式碼或引用來源就預設這台。"
+            },
+            {
+              "title": "Bloomberg 研究確認四大主流聊天機器人新聞題都不可靠",
+              "body": "Bloomberg 5 月 20 日研究顯示 ChatGPT、Claude、Gemini、Grok 在選舉跟新聞題都不可靠。排名沒變但使用情境變了。要引用來源就預設 Perplexity。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -7013,6 +7013,196 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-21",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "codeQuality": 9.7,
+            "contextWindow": 9.6,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.6,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 7.7
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Coding Tools 2026 Claude Code Cursor Copilot",
+          "url": "https://www.nipralo.com/blogs/best-ai-coding-tools-2026",
+          "source": "Nipralo Technologies"
+        },
+        {
+          "title": "Claude Code vs Cursor vs Copilot The 2026 Developer Comparison",
+          "url": "https://www.sitepoint.com/claude-code-vs-cursor-vs-copilot-the-2026-developer-comparison/",
+          "source": "SitePoint"
+        },
+        {
+          "title": "GitHub Copilots AI Agent Era Platform Risk as Rivals Steal Developer Workflow",
+          "url": "https://windowsforum.com/threads/github-copilots-ai-agent-era-platform-risk-as-rivals-steal-developer-workflow.419086/",
+          "source": "Windows Forum"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code holds first on Thursday and the score bumps to 9.3 because Opus 4.7 keeps proving itself in real codebases this week, and the May 6 doubling of the 5-hour limits plus the removal of peak-hour throttling on Pro and Max from the SpaceX Colossus compute deal is now baking in. I'm pushing the codeQuality score from 9.6 to 9.7 and the value score from 8.5 to 8.6 because the throttle removal materially changes what I can do in a working session. Cursor stays second on the strength of Composer 2.5 from May, the in-house long-horizon model that genuinely matches Opus 4.7 and GPT-5.5 on the benchmarks I trust. OpenAI Codex at third holds on agentic capability. GitHub Copilot drops to fourth with a value score cut from 7.9 to 7.7 because the April pause on new Pro and Pro+ signups plus the June 1 shift to usage-based billing is hitting buyer confidence. SitePoint and Windows Forum both wrote this week that Cursor and Claude Code are eroding Copilot's user base, and Microsoft executives are now publicly sounding the alarm. Google Jules at fifth, Devin at sixth, Amazon Q Developer at seventh, Zed at eighth, Aider at ninth, Windsurf at tenth, Augment Code at eleventh all hold position. The practical Thursday move: Claude Code in terminal for serious refactoring and multi-file work, Cursor in IDE for the deep autocomplete loop, OpenAI Codex for ChatGPT-anchored agentic runs, skip Copilot signup until the new billing model is clearer.",
+          "highlights": [
+            {
+              "title": "Claude Code score jumps to 9.3 as throttle removal beds in",
+              "body": "Opus 4.7 keeps proving itself in real codebases this week. The May 6 doubling of 5-hour limits plus the SpaceX Colossus throttle removal on Pro and Max is now baking in. CodeQuality bumps to 9.7 and value to 8.6 because the practical working session window is bigger."
+            },
+            {
+              "title": "GitHub Copilot value cut as June billing shift hits confidence",
+              "body": "The April pause on Pro and Pro+ signups plus the June 1 shift to usage-based billing is hitting buyer confidence. SitePoint and Windows Forum both wrote this week that Cursor and Claude Code are eroding the user base. Value score drops from 7.9 to 7.7."
+            },
+            {
+              "title": "Cursor Composer 2.5 matches Opus 4.7 on benchmarks I trust",
+              "body": "Cursor stays second on the strength of Composer 2.5 from May. In-house long-horizon model genuinely matches Opus 4.7 and GPT-5.5 on the benchmarks I trust. IDE-native deep autocomplete loop still wins the in-editor slot."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 禮拜四守第一，分數拉到 9.3，因為 Opus 4.7 這禮拜在真實 codebase 持續證明自己，5 月 6 日 5 小時限制翻倍加 SpaceX Colossus 算力交易拿掉 Pro 跟 Max 尖峰節流現在內化中。\n\n我把 codeQuality 從 9.6 推到 9.7，價值從 8.5 推到 8.6，因為節流移除實質改變我一個工作 session 能做什麼。\n\nCursor 第二靠 5 月發的 Composer 2.5，自家長時程模型真的在我信任的 benchmark 上打平 Opus 4.7 跟 GPT-5.5。OpenAI Codex 第三守代理能力。\n\nGitHub Copilot 掉到第四，價值分從 7.9 砍到 7.7，因為四月暫停 Pro 跟 Pro+ 新註冊加 6 月 1 日轉用量計費正在打擊買家信心。\n\n講真的，SitePoint 跟 Windows Forum 這禮拜都寫 Cursor 跟 Claude Code 正在侵蝕 Copilot 用戶數，微軟主管現在公開拉警報。\n\nGoogle Jules 第五、Devin 第六、Amazon Q Developer 第七、Zed 第八、Aider 第九、Windsurf 第十、Augment Code 第十一守位。\n\n禮拜四務實建議：終端機嚴肅重構跟跨檔工作用 Claude Code，IDE 深度補全循環用 Cursor，ChatGPT 綁定代理用 OpenAI Codex，Copilot 註冊等新計費模式清楚再說。",
+          "highlights": [
+            {
+              "title": "Claude Code 分數跳到 9.3 節流移除內化",
+              "body": "Opus 4.7 這禮拜在真實 codebase 持續證明自己。5 月 6 日 5 小時限制翻倍加 SpaceX Colossus Pro 跟 Max 節流移除內化中。codeQuality 推到 9.7 價值推到 8.6 因為實際工作 session 窗口變大。"
+            },
+            {
+              "title": "GitHub Copilot 價值砍 6 月計費轉換打擊信心",
+              "body": "四月 Pro 跟 Pro+ 新註冊暫停加 6 月 1 日轉用量計費正在打擊買家信心。SitePoint 跟 Windows Forum 這禮拜都寫 Cursor 跟 Claude Code 正在侵蝕用戶數。價值分從 7.9 砍到 7.7。"
+            },
+            {
+              "title": "Cursor Composer 2.5 在我信任 benchmark 打平 Opus 4.7",
+              "body": "Cursor 第二靠 5 月 Composer 2.5。自家長時程模型真的在我信任的 benchmark 上打平 Opus 4.7 跟 GPT-5.5。IDE 原生深度補全循環還是贏編輯器內位置。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
