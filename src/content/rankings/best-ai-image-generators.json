@@ -714,6 +714,184 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-22",
+      "rankings": [
+        {
+          "id": "midjourney-v8",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 8.5,
+            "photorealism": 9.0,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "gpt-image-2",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 8.6,
+            "artisticQuality": 8.2,
+            "textRendering": 9.5,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 8.8,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 9.7
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (May 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Best AI Models in May 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        },
+        {
+          "title": "Midjourney V8 vs Flux 2 Pro vs GPT Image 2 comparison",
+          "url": "https://artificialanalysis.ai/text-to-image",
+          "source": "Artificial Analysis"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Friday morning the AI image generator ranking is in the post-Midjourney V8 settling period and the rankings held flat. Midjourney V8 holds first at 9.4 because the new V8 model that shipped April 30 plus the deeper style consistency plus the now-native web app makes this still the right pick for serious creative work, and the $10 per month entry tier is the right value bracket for buyers who actually produce images for client work. Flux 2 Pro at second holds 9.2 with the new control net suite plus the open-weights variant plus the API pricing at $0.045 per image, which is the right pitch for builders who want studio-grade output with API access and the value math against Midjourney is decent for developers who need control over the generation pipeline. GPT Image 2 stays third at 9.1 with the GPT-5.5 integration plus the new text rendering accuracy plus the multi-turn refinement makes this the right pick for buyers locked into ChatGPT Plus who do not want a separate subscription. Recraft V3 holds fourth at 8.8, the vector output mode plus the brand kit features is the right pick for buyers doing logo and brand work who need editable output rather than rasterized JPEG. Ideogram 3.0 stays fifth at 8.6 with the text rendering plus typography focus, the right pick for buyers who do poster and social-media work where text accuracy matters. Verdict for Friday: Midjourney V8 at $10 is the buy for creative work, Flux 2 Pro if you need API access, GPT Image 2 if you already pay for ChatGPT Plus. No big launches this week.",
+          "highlights": [
+            {
+              "title": "Midjourney V8 holds first with style consistency upgrade",
+              "body": "The V8 model shipped April 30 with deeper style consistency plus the now-native web app removing the Discord requirement. For serious creative work the $10 per month entry tier is the right value bracket and the value math against Flux 2 Pro is locked for buyers who actually produce images for client deliverables."
+            },
+            {
+              "title": "Flux 2 Pro at $0.045 per image wins on API economics",
+              "body": "Flux 2 Pro's API pricing at $0.045 per image plus the new control net suite plus the open-weights variant is the right pitch for builders who want studio-grade output with API access. The value math against Midjourney is decent for developers who need control over the generation pipeline rather than the artist UI."
+            },
+            {
+              "title": "GPT Image 2 wins on bundled ChatGPT Plus value",
+              "body": "GPT Image 2 with the GPT-5.5 integration plus the new text rendering accuracy plus the multi-turn refinement is included in ChatGPT Plus at $20 per month with no extra subscription. For buyers already paying for ChatGPT this is the right pick because the marginal cost of image generation is zero."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "禮拜五早上，AI 圖像產生器榜單處在 Midjourney V8 後的沉澱期，名次橫盤。\n\nMidjourney V8 守第一 9.4，因為 4 月 30 日推送的 V8 模型加更深的風格一致性加現在原生網頁應用程式，還是嚴肅創意工作對的選擇，月費 NT$310 入門階層是真的會為客戶案子做圖的買家對的價值區間。\n\nFlux 2 Pro 第二守 9.2 配新控制網套件加開放權重版加 API 定價每張 NT$1.4，是要工作室等級輸出加 API 訪問的開發者對的話術，對 Midjourney 的價值算數對需要控制產生流程的開發者站得住。GPT Image 2 第三守 9.1 配 GPT-5.5 整合加新文字渲染準確度加多輪改良，是被鎖在 ChatGPT Plus 不想另外訂閱的買家對的選擇。\n\n講真的，Recraft V3 第四守 8.8，向量輸出模式加品牌套件功能，是做 logo 跟品牌工作要可編輯輸出而不是點陣 JPEG 的買家對的選擇。Ideogram 3.0 第五守 8.6 配文字渲染加排版聚焦，是做海報跟社群媒體工作在意文字準確度的買家對的選擇。\n\n禮拜五結論：創意工作買 Midjourney V8 NT$310；要 API 訪問就 Flux 2 Pro；已付 ChatGPT Plus 就 GPT Image 2。這禮拜沒大發表。",
+          "highlights": [
+            {
+              "title": "Midjourney V8 守第一配風格一致性升級",
+              "body": "V8 模型 4 月 30 日推送配更深風格一致性加現在原生網頁應用程式拿掉 Discord 要求。嚴肅創意工作月費 NT$310 入門階層是對的價值區間，對 Flux 2 Pro 的價值算數對真的會為客戶交付做圖的買家鎖死。"
+            },
+            {
+              "title": "Flux 2 Pro 每張 NT$1.4 在 API 經濟上贏",
+              "body": "Flux 2 Pro API 定價每張 NT$1.4 加新控制網套件加開放權重版，是要工作室等級輸出加 API 訪問的開發者對的話術。對 Midjourney 的價值算數對需要控制產生流程而不是藝術家 UI 的開發者站得住。"
+            },
+            {
+              "title": "GPT Image 2 贏在 ChatGPT Plus 綑綁價值",
+              "body": "GPT Image 2 配 GPT-5.5 整合加新文字渲染準確度加多輪改良，包進 ChatGPT Plus 月費 NT$620 不必加訂閱。已經付 ChatGPT 的買家這個對的選擇，因為圖像產生的邊際成本是零。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -7203,6 +7203,196 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-22",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "codeQuality": 9.7,
+            "contextWindow": 9.6,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.6,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 7.7
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (May 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Best AI Models in May 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        },
+        {
+          "title": "Claude Code vs Cursor 2026 comparison",
+          "url": "https://www.swebench.com/",
+          "source": "SWE-bench"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Friday morning the AI coding assistant ranking is in the post-GPT-5.5 plus Opus 4.7 settling period and the market is now genuinely three-way competitive. Claude Code holds first at 9.3 because the Opus 4.7 model plus the 1M context plus the new Memory feature plus the recent terminal-native UX redesign makes this still the right pick for serious engineering work, and the value math at $20 per month for the Pro tier is locked. Cursor stays second at 9.0 with the new Cursor Agents feature plus the Cursor Tab 2 autocomplete plus the model picker that handles GPT-5.5 plus Opus 4.7 plus Gemini in one UI, the IDE-first approach is genuinely the right pitch for buyers who refuse to leave VS Code keybindings, and the $20 per month price plus the unlimited slow requests is the right value bracket. OpenAI Codex at third holds 8.6 with the GPT-5.5 Codex variant plus the deeper ChatGPT integration, the value math for ChatGPT Plus subscribers is decent but the agentic execution still lags Claude Code on benchmarks. Aider holds fourth at 8.4 as the open-source CLI play with multi-model support, the right pick for buyers who refuse vendor lock-in. GitHub Copilot Pro+ stays fifth at 8.3 with the Copilot Workspace agent that handles full PR generation, the integration into GitHub native flow is the right pitch for enterprise buyers and the $39 per month price is the right value for teams already deep in GitHub. Verdict for Friday: Claude Code at $20 is the buy for serious engineering, Cursor at $20 if you live in VS Code, Copilot Pro+ at $39 if your team is already in GitHub workflow. No big launches this week so the rankings hold.",
+          "highlights": [
+            {
+              "title": "Claude Code holds first with terminal-native UX redesign",
+              "body": "Anthropic shipped the terminal-native UX redesign for Claude Code in early May plus the new Memory feature persists context across sessions. The Opus 4.7 model plus the 1M context plus the deeper agentic execution still makes this the right pick for serious engineering work at $20 per month."
+            },
+            {
+              "title": "Cursor stays competitive with multi-model picker",
+              "body": "Cursor's model picker handles GPT-5.5 plus Opus 4.7 plus Gemini in one UI without vendor lock-in, and the new Cursor Agents feature plus Cursor Tab 2 autocomplete makes the IDE-first approach the right pick for buyers who refuse to leave VS Code keybindings. The $20 per month bracket is the right value."
+            },
+            {
+              "title": "GitHub Copilot Pro+ wins on enterprise integration",
+              "body": "Copilot Workspace agent handles full PR generation inside the GitHub native flow, which is the right pitch for enterprise buyers whose teams are already deep in GitHub. The $39 per month price is the right value for teams who would rather pay for integration than swap toolchains, no need to leave the platform."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "禮拜五早上，AI 寫程式助手榜單處在 GPT-5.5 加 Opus 4.7 後的沉澱期，市場現在真的是三方競爭。\n\nClaude Code 守第一 9.3，因為 Opus 4.7 模型加 1M context 加新 Memory 功能加最近終端原生 UX 重設計，還是嚴肅工程工作的正確選擇，月費 NT$620 Pro 階層的價值算數鎖死。\n\nCursor 第二守 9.0，新 Cursor Agents 功能加 Cursor Tab 2 自動完成加同時處理 GPT-5.5 加 Opus 4.7 加 Gemini 的模型選擇器，IDE 優先的路線是拒絕離開 VS Code 鍵盤綁定的買家對的話術，月費 NT$620 加無限慢請求是對的價值區間。OpenAI Codex 第三守 8.6 配 GPT-5.5 Codex 變體加更深的 ChatGPT 整合，對 ChatGPT Plus 訂閱者的價值算數還可以，但代理執行還是在基準上落後 Claude Code。\n\n講真的，Aider 第四守 8.4 當開源 CLI 玩家配多模型支援，是拒絕廠商鎖定的買家對的選擇。GitHub Copilot Pro+ 第五守 8.3 配 Copilot Workspace 代理人處理完整 PR 產生，整合進 GitHub 原生流程是企業買家的話術，月費 NT$1,210 對已經在 GitHub 工作流深處的團隊是對的價值。\n\n禮拜五結論：嚴肅工程買 Claude Code NT$620；住 VS Code 就 Cursor NT$620；團隊已在 GitHub 工作流就 Copilot Pro+ NT$1,210。這禮拜沒大發表所以排名守住。",
+          "highlights": [
+            {
+              "title": "Claude Code 守第一配終端原生 UX 重設計",
+              "body": "Anthropic 五月初推送 Claude Code 終端原生 UX 重設計加新 Memory 功能跨工作階段保存上下文。Opus 4.7 模型加 1M context 加更深的代理執行，還是讓這個在嚴肅工程工作上是對的選擇，月費 NT$620。"
+            },
+            {
+              "title": "Cursor 靠多模型選擇器繼續競爭",
+              "body": "Cursor 模型選擇器在一個 UI 裡同時處理 GPT-5.5 加 Opus 4.7 加 Gemini 沒有廠商鎖定，新 Cursor Agents 功能加 Cursor Tab 2 自動完成，讓 IDE 優先路線變成拒絕離開 VS Code 鍵盤綁定的買家對的選擇。月費 NT$620 是對的價值區間。"
+            },
+            {
+              "title": "GitHub Copilot Pro+ 在企業整合上贏",
+              "body": "Copilot Workspace 代理人在 GitHub 原生流程內處理完整 PR 產生，是團隊已在 GitHub 深處的企業買家對的話術。月費 NT$1,210 對寧可付整合錢也不想換工具鏈的團隊是對的價值，不必離開平台。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

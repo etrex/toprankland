@@ -2240,6 +2240,184 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-22",
+      "rankings": [
+        {
+          "id": "google-veo-3-1",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "kling-3-0",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.0,
+            "motionRealism": 9.1,
+            "audioVideoSync": 8.6,
+            "characterConsistency": 8.9,
+            "valueForMoney": 9.7
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "promptAdherence": 9.0,
+            "motionRealism": 8.8,
+            "audioVideoSync": 9.4,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 6,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 9,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 10,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (May 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Best AI Models in May 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        },
+        {
+          "title": "Veo 3.1 vs Runway Gen-4.5 vs Kling 3.0 comparison",
+          "url": "https://artificialanalysis.ai/text-to-video",
+          "source": "Artificial Analysis"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Friday morning the AI video generator ranking is in the post-Veo 3.1 settling period and the rankings held flat with one notable shift on Sora discontinuation. Veo 3.1 holds first at 9.5 because the Google DeepMind model plus the native audio synthesis plus the 1080p at 60fps output plus the Vertex AI plus consumer access through Gemini Ultra makes this still the right pick for serious video work, and the value math at $250 per month for the Ultra tier is the right bracket for production buyers. Runway Gen-4.5 stays second at 9.3 with the new motion brush plus the act-one performance capture plus the multi-shot generation makes this the right pick for filmmakers who need control over framing and composition, and the $35 per month entry tier is the right value for indie creators. Kling 3.0 holds third at 9.2 with the China-first model from Kuaishou, the longer 2-minute clips plus the deeper camera control makes this the right pick for buyers who need extended sequences without cut-and-stitch workflows, and the value math at $8 per month is decisive. Pika 2.5 holds fourth at 8.9 with the new sound effects model plus the lip sync, the right pick for buyers doing short-form social media work. Note: Sora 2 was discontinued April 26 by OpenAI with the API following in September, which is why it has dropped out of consideration entirely. Verdict for Friday: Veo 3.1 at $250 is the buy for production video, Runway Gen-4.5 at $35 if you need filmmaker control, Kling 3.0 at $8 if you need long clips on budget.",
+          "highlights": [
+            {
+              "title": "Veo 3.1 holds first with native audio synthesis",
+              "body": "Google DeepMind's Veo 3.1 plus the native audio synthesis plus the 1080p at 60fps output plus the Vertex AI access plus consumer access through Gemini Ultra makes this still the right pick for serious video work. The $250 per month Ultra tier is the right bracket for production buyers who actually deliver client work."
+            },
+            {
+              "title": "Sora 2 discontinued April 26 — dropped from consideration",
+              "body": "OpenAI killed Sora 2 on April 26 with the API following in September. The model dropped out of consideration entirely because there is no future path for buyers, and the share of the production video market that Sora 2 held has shifted to Veo 3.1 and Runway Gen-4.5."
+            },
+            {
+              "title": "Kling 3.0 at $8 per month wins on long-clip budget",
+              "body": "Kuaishou's Kling 3.0 with the 2-minute clips plus the deeper camera control plus the $8 per month price is the right pick for buyers who need extended sequences without cut-and-stitch workflows. For social-first creators on a budget, the value math against Veo and Runway is decisive."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "禮拜五早上，AI 影片產生器榜單處在 Veo 3.1 後的沉澱期，名次橫盤，Sora 停運是唯一明顯位移。\n\nVeo 3.1 守第一 9.5，因為 Google DeepMind 模型加原生音訊合成加 1080p 60fps 輸出加 Vertex AI 加透過 Gemini Ultra 的消費者訪問，還是嚴肅影片工作對的選擇，Ultra 階層月費 NT$7,750 是製作買家對的區間。\n\nRunway Gen-4.5 第二守 9.3 配新動態筆刷加 act-one 表演捕捉加多鏡頭產生，是要對構圖跟取景有控制的電影製作對的選擇，月費 NT$1,090 入門階層是獨立創作者對的價值。Kling 3.0 第三守 9.2 配快手中國優先模型，更長 2 分鐘片段加更深鏡頭控制，是要延伸序列又不要剪切縫合工作流的買家對的選擇，月費 NT$250 的價值算數很決定性。\n\n講真的，Pika 2.5 第四守 8.9 配新音效模型加對嘴同步，是做短影音社群媒體工作的買家對的選擇。註：Sora 2 4 月 26 日被 OpenAI 停運，API 9 月跟進，所以完全退出考慮。\n\n禮拜五結論：製作影片買 Veo 3.1 NT$7,750；要電影製作控制就 Runway Gen-4.5 NT$1,090；預算內要長片段就 Kling 3.0 NT$250。",
+          "highlights": [
+            {
+              "title": "Veo 3.1 守第一配原生音訊合成",
+              "body": "Google DeepMind 的 Veo 3.1 加原生音訊合成加 1080p 60fps 輸出加 Vertex AI 訪問加透過 Gemini Ultra 的消費者訪問，還是嚴肅影片工作對的選擇。Ultra 階層月費 NT$7,750 是真的會交付客戶工作的製作買家對的區間。"
+            },
+            {
+              "title": "Sora 2 4 月 26 日停運，退出考慮",
+              "body": "OpenAI 4 月 26 日把 Sora 2 停運，API 9 月跟進。模型完全退出考慮，因為買家沒有未來路徑，Sora 2 在製作影片市場的份額已經轉移到 Veo 3.1 跟 Runway Gen-4.5。"
+            },
+            {
+              "title": "Kling 3.0 月費 NT$250 在長片段預算上贏",
+              "body": "快手的 Kling 3.0 配 2 分鐘片段加更深鏡頭控制加月費 NT$250，是要延伸序列又不要剪切縫合工作流的買家對的選擇。對社群優先預算內創作者來說，對 Veo 跟 Runway 的價值算數很決定性。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

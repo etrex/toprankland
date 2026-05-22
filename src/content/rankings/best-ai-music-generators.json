@@ -2260,6 +2260,184 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-22",
+      "rankings": [
+        {
+          "id": "suno-v5",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "audioQuality": 9.7,
+            "vocalRealism": 9.4,
+            "editingControl": 9.5,
+            "commercialLicense": 7.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "elevenlabs-music",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "audioQuality": 9.2,
+            "vocalRealism": 9.7,
+            "editingControl": 8.1,
+            "commercialLicense": 9.6,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "udio",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "audioQuality": 9.6,
+            "vocalRealism": 9.5,
+            "editingControl": 9.7,
+            "commercialLicense": 7.5,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "audioQuality": 8.8,
+            "vocalRealism": 7.0,
+            "editingControl": 8.5,
+            "commercialLicense": 9.4,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "riffusion",
+          "rank": 5,
+          "score": 8.0,
+          "scores": {
+            "audioQuality": 8.2,
+            "vocalRealism": 7.8,
+            "editingControl": 8.5,
+            "commercialLicense": 8.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "soundraw",
+          "rank": 6,
+          "score": 7.8,
+          "scores": {
+            "audioQuality": 8.0,
+            "vocalRealism": 6.5,
+            "editingControl": 7.5,
+            "commercialLicense": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aiva",
+          "rank": 7,
+          "score": 7.5,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 6.8,
+            "editingControl": 7.8,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "mubert",
+          "rank": 8,
+          "score": 7.3,
+          "scores": {
+            "audioQuality": 7.5,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "loudly",
+          "rank": 9,
+          "score": 7.0,
+          "scores": {
+            "audioQuality": 7.3,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "boomy",
+          "rank": 10,
+          "score": 6.8,
+          "scores": {
+            "audioQuality": 6.8,
+            "vocalRealism": 6.5,
+            "editingControl": 6.8,
+            "commercialLicense": 8.5,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (May 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Best AI Models in May 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        },
+        {
+          "title": "Suno V5 vs Eleven Music vs Udio comparison",
+          "url": "https://suno.com/",
+          "source": "Suno"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Friday morning the AI music generator ranking held flat as the category settles around Suno V5 dominance after the spring release. Suno V5 holds first at 9.5 because the new V5 model that shipped April plus the deeper instrument separation plus the lyrics-aware composition plus the now-native stem export makes this still the right pick for serious music creators, and the value math at $10 per month for the Pro tier is the right bracket. Eleven Music stays second at 9.1 with the ElevenLabs music model that ships with the same API plus the better vocal naturalness plus the longer compositions, the right pick for buyers who need both voice and music from one vendor. Udio at third holds 8.7 with the high-fidelity output plus the deeper genre coverage plus the longer 4-minute compositions, the right pick for buyers who need long-form pieces and care about audiophile output quality. Riffusion holds fourth at 8.4 with the open-source community-driven model, the right pick for builders who refuse subscription pricing. Stable Audio 3.0 stays fifth at 8.2 with the Stability AI commercial license plus the API access, the right pick for commercial buyers who need the license cleared for ad and sync work. Verdict for Friday: Suno V5 at $10 for creators, Eleven Music if you already pay for ElevenLabs voice, Udio for long-form audiophile pieces. No big launches this week so the ranking is locked.",
+          "highlights": [
+            {
+              "title": "Suno V5 holds first with stem export plus lyrics-aware composition",
+              "body": "The V5 model that shipped April with the deeper instrument separation plus the lyrics-aware composition plus the now-native stem export makes this still the right pick for serious music creators. The $10 per month Pro tier is the right bracket and the value math against Udio is locked."
+            },
+            {
+              "title": "Eleven Music wins on one-vendor voice plus music play",
+              "body": "ElevenLabs' Eleven Music ships with the same API as their voice product plus the better vocal naturalness plus the longer compositions. For buyers who need both voice and music from one vendor the consolidation play is the right pick and the value math against running two subscriptions is decisive."
+            },
+            {
+              "title": "Udio wins long-form 4-minute audiophile pieces",
+              "body": "Udio's high-fidelity output plus the deeper genre coverage plus the longer 4-minute compositions is the right pick for buyers who need long-form pieces and care about audiophile output quality. The value math for film scoring and longer-form work is where Udio actually beats Suno V5."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "禮拜五早上，AI 音樂產生器榜單橫盤，這品類在春季發表後圍繞 Suno V5 主導地位沉澱。\n\nSuno V5 守第一 9.5，因為 4 月推送的新 V5 模型加更深樂器分離加歌詞感知作曲加現在原生分軌匯出，還是嚴肅音樂創作者對的選擇，Pro 階層月費 NT$310 是對的區間。\n\nEleven Music 第二守 9.1 配 ElevenLabs 音樂模型用同一個 API 加更好人聲自然度加更長作曲，是要從同一個廠商拿到語音跟音樂的買家對的選擇。Udio 第三守 8.7 配高保真輸出加更深類型覆蓋加更長 4 分鐘作曲，是要長形式作品又在意發燒友輸出品質的買家對的選擇。\n\n講真的，Riffusion 第四守 8.4 配開源社群驅動模型，是拒絕訂閱定價的開發者對的選擇。Stable Audio 3.0 第五守 8.2 配 Stability AI 商用授權加 API 訪問，是要授權釐清做廣告跟同步工作的商業買家對的選擇。\n\n禮拜五結論：創作者買 Suno V5 NT$310；已付 ElevenLabs 語音就 Eleven Music；要長形式發燒友作品就 Udio。這禮拜沒大發表所以排名鎖死。",
+          "highlights": [
+            {
+              "title": "Suno V5 守第一配分軌匯出加歌詞感知作曲",
+              "body": "4 月推送的 V5 模型配更深樂器分離加歌詞感知作曲加現在原生分軌匯出，還是嚴肅音樂創作者對的選擇。Pro 階層月費 NT$310 是對的區間，對 Udio 的價值算數鎖死。"
+            },
+            {
+              "title": "Eleven Music 贏在單一廠商語音加音樂玩法",
+              "body": "ElevenLabs 的 Eleven Music 跟他們語音產品用同一個 API 加更好人聲自然度加更長作曲。要從同一個廠商拿到語音跟音樂的買家整合玩法是對的選擇，對跑兩個訂閱的價值算數很決定性。"
+            },
+            {
+              "title": "Udio 贏長形式 4 分鐘發燒友作品",
+              "body": "Udio 高保真輸出加更深類型覆蓋加更長 4 分鐘作曲，是要長形式作品又在意發燒友輸出品質的買家對的選擇。電影配樂跟長形式工作的價值算數，這就是 Udio 真的贏過 Suno V5 的地方。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

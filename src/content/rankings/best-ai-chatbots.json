@@ -1538,6 +1538,194 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-22",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.3,
+            "coding": 9.0,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.0,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.4,
+            "coding": 9.8,
+            "writing": 9.6,
+            "realtime": 7.5,
+            "value": 9.0,
+            "ecosystem": 9.0
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.9,
+            "realtime": 9.3,
+            "value": 9.5,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "reasoning": 8.8,
+            "coding": 8.2,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.4,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (May 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
+          "url": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Best AI Models in May 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Friday morning the AI chatbot ranking did not move because the market is in the post-Google IO 2026 settling period. ChatGPT holds first at 9.5 with GPT-5.5 still leading on SWE-bench plus general reasoning since the April 23 release, the 60 percent hallucination drop versus 5.4 is the right pitch and the inclusion of GPT-5.5 Thinking in the $20 Plus tier is genuinely the right pricing move for everyone who was holding out for affordable thinking. Claude stays tied second at 9.3 with Opus 4.7 still neck and neck with GPT-5.5 on SWE-bench, the 1M context plus the Sonnet 4.6 daily driver speed plus the new Memory feature is the right pitch for coding-heavy workflows and the value math against ChatGPT is largely driven by whether you need 1M context. Gemini at 9.3 holds tied second because the Gemini 3.5 Flash plus Gemini Omni Flash both shipped May 21 to AI Plus, Pro, and Ultra subscribers, the new Daily Brief feature plus the Gemini Spark background agent is the right pitch for buyers locked into Google Workspace and the May 22 morning is when those features are first usable in production. Grok 4 holds fourth at 8.8 with the X integration and the speed advantage staying the differentiator, and the value math at $30 per month is competitive for buyers who already pay for X Premium+. DeepSeek V4 Preview at fifth holds 8.5 as the open-source surprise, the 1M context at near-zero API cost is the right pitch for builders who care about cost over peak capability. Verdict for Friday: ChatGPT plus Claude plus Gemini is the three-way tie at the top, pick by ecosystem, and the new Gemini Spark agent is the headline this week.",
+          "highlights": [
+            {
+              "title": "Gemini 3.5 Flash plus Omni Flash shipped May 21 to all tiers",
+              "body": "Google rolled out Gemini 3.5 Flash and Gemini Omni Flash to AI Plus, Pro, and Ultra subscribers yesterday. The Daily Brief feature plus the Gemini Spark background agent is the right pitch for Workspace buyers and Friday morning is when those features become first usable in real workflows."
+            },
+            {
+              "title": "GPT-5.5 Thinking arrives in $20 Plus tier",
+              "body": "OpenAI moved GPT-5.5 Thinking from the $200 Pro tier into the $20 Plus tier in late April, which is the genuinely right pricing move for everyone who was holding out for affordable thinking access. The 60 percent hallucination drop versus 5.4 is the headline feature and the price gate finally dropped."
+            },
+            {
+              "title": "Claude Opus 4.7 stays competitive on SWE-bench",
+              "body": "Anthropic's Opus 4.7 is still neck and neck with GPT-5.5 on SWE-bench, and the 1M context plus the new Memory feature is the right pitch for coding-heavy workflows. The value math against ChatGPT comes down to whether you actually need 1M context for your typical task, not benchmark scores."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "禮拜五早上，AI 聊天機器人榜單沒動，因為市場處在 Google IO 2026 後的沉澱期。\n\nChatGPT 守第一 9.5，GPT-5.5 從 4 月 23 日發表後在 SWE-bench 加一般推理上還是領跑，比 5.4 砍 60% 幻覺是對的話術，把 GPT-5.5 Thinking 放進 NT$620 月費的 Plus 階層，是對所有等實惠 thinking 等很久的人正確的定價動作。\n\nClaude 並列第二 9.3，Opus 4.7 在 SWE-bench 還是跟 GPT-5.5 肉搏，1M context 加 Sonnet 4.6 日常駕駛速度加新 Memory 功能，是寫程式工作流的話術，對 ChatGPT 的價值算數主要看你需不需要 1M context。Gemini 9.3 並列第二，Gemini 3.5 Flash 加 Gemini Omni Flash 5 月 21 日同時推送給 AI Plus、Pro、Ultra 訂閱者，新 Daily Brief 加 Gemini Spark 背景代理人是被鎖在 Google Workspace 買家的話術，5 月 22 日早上就是這些功能在生產環境第一次能用的時候。\n\n講真的，Grok 4 第四守 8.8，X 整合加速度優勢是差異化的支點，月費 NT$930 對已經付 X Premium+ 的買家來說競爭得起。DeepSeek V4 Preview 第五守 8.5 當開源驚喜，1M context 配近乎零成本的 API，是在意成本勝過峰值能力的開發者對的話術。\n\n禮拜五結論：ChatGPT 加 Claude 加 Gemini 是頂端三方並列，按生態選，Gemini Spark 新代理人是這禮拜頭條。",
+          "highlights": [
+            {
+              "title": "Gemini 3.5 Flash 加 Omni Flash 5 月 21 日推送給所有階層",
+              "body": "Google 昨天把 Gemini 3.5 Flash 跟 Gemini Omni Flash 推給 AI Plus、Pro、Ultra 訂閱者。Daily Brief 加 Gemini Spark 背景代理人是 Workspace 買家的話術，禮拜五早上就是這些功能在真實工作流第一次能用的時候。"
+            },
+            {
+              "title": "GPT-5.5 Thinking 進駐 NT$620 月費 Plus 階層",
+              "body": "OpenAI 4 月底把 GPT-5.5 Thinking 從 NT$6,200 Pro 階層搬到 NT$620 Plus 階層，是對所有等實惠 thinking 訪問等很久的人對的定價動作。比 5.4 砍 60% 幻覺是頭條功能，價格門檻終於倒下。"
+            },
+            {
+              "title": "Claude Opus 4.7 在 SWE-bench 上繼續競爭",
+              "body": "Anthropic 的 Opus 4.7 在 SWE-bench 還是跟 GPT-5.5 肉搏，1M context 加新 Memory 功能是寫程式工作流的話術。對 ChatGPT 的價值算數歸結到你日常任務是否真的需要 1M context，不是基準分數。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
