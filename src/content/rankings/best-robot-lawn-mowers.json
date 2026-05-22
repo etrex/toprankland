@@ -178,6 +178,22 @@
           "priceRange": "約 NT$23,000–NT$33,000"
         }
       }
+    },
+    {
+      "id": "ecovacs-goat-a2000-lidar-pro",
+      "name": "ECOVACS GOAT A2000 LiDAR PRO",
+      "brand": "ECOVACS",
+      "url": "https://www.ecovacs.com/us/shop/goat-robotic-lawn-mower/goat-a2000-lidar-pro",
+      "i18n": {
+        "en": {
+          "description": "The 2026 mid-yard pick. HoloScope 360° Dual-LiDAR maps in 2cm precision even under trees where GPS-only mowers lose signal, and the built-in TruEdge trimmer finally solves the manual string-trimming chore that every other robot mower leaves you with. Best-overall pick in 2026 lab tests for up to half-acre lawns.",
+          "priceRange": "$1,999"
+        },
+        "zh-tw": {
+          "description": "2026 年中型草坪的最佳選擇。HoloScope 360 度雙 LiDAR 在樹蔭底下也能維持 2 公分定位精度，GPS 機種在那種環境根本連訊號都收不到。最關鍵的是內建 TruEdge 修邊裝置，沿著車道、花圃、人行道邊緣都能切乾淨，這個痛點其他品牌都沒解決，2026 年實驗室評測直接拿下半英畝級距的綜合冠軍。",
+          "priceRange": "約 NT$65,000"
+        }
+      }
     }
   ],
   "history": [
@@ -1899,8 +1915,20 @@
           }
         },
         {
-          "id": "navimow-x315",
+          "id": "ecovacs-goat-a2000-lidar-pro",
           "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "coverage": 8.5,
+            "navigation": 9.4,
+            "terrain": 8.5,
+            "automation": 9.3,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "navimow-x315",
+          "rank": 5,
           "score": 8.7,
           "scores": {
             "coverage": 9.0,
@@ -1912,7 +1940,7 @@
         },
         {
           "id": "navimow-i2-lidar",
-          "rank": 5,
+          "rank": 6,
           "score": 8.5,
           "scores": {
             "coverage": 8.0,
@@ -1924,7 +1952,7 @@
         },
         {
           "id": "husqvarna-automower-450x-epos",
-          "rank": 6,
+          "rank": 7,
           "score": 8.4,
           "scores": {
             "coverage": 9.2,
@@ -1936,7 +1964,7 @@
         },
         {
           "id": "worx-landroid-vision-m600",
-          "rank": 7,
+          "rank": 8,
           "score": 8.2,
           "scores": {
             "coverage": 7.5,
@@ -1948,7 +1976,7 @@
         },
         {
           "id": "yarbo-lawn-mower-pro",
-          "rank": 8,
+          "rank": 9,
           "score": 8.0,
           "scores": {
             "coverage": 9.5,
@@ -1960,7 +1988,7 @@
         },
         {
           "id": "ecoflow-blade",
-          "rank": 9,
+          "rank": 10,
           "score": 7.6,
           "scores": {
             "coverage": 7.5,
@@ -1972,7 +2000,7 @@
         },
         {
           "id": "mammotion-yuka-mini-700h",
-          "rank": 10,
+          "rank": 11,
           "score": 7.6,
           "scores": {
             "coverage": 6.5,

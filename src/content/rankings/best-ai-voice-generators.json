@@ -178,6 +178,22 @@
           "priceRange": "免費，約 NT$510–NT$1,600/月"
         }
       }
+    },
+    {
+      "id": "inworld-tts-1-5-max",
+      "name": "Inworld TTS-1.5 Max",
+      "brand": "Inworld AI",
+      "url": "https://inworld.ai/tts",
+      "i18n": {
+        "en": {
+          "description": "Took the Artificial Analysis Speech Arena crown in 2026 at ELO ~1236, beating ElevenLabs and Hume on blind naturalness tests. Sub-250ms P90 time-to-first-audio on Max, instant voice cloning from 5-15 seconds, and a WebSocket streaming API built for real-time voice agents.",
+          "priceRange": "$50/1M chars Max, $25/1M chars Mini"
+        },
+        "zh-tw": {
+          "description": "2026 年衝上 Artificial Analysis Speech Arena 第一名，ELO 約 1236 分，盲測自然度直接壓過 ElevenLabs 和 Hume。Max 版 P90 首音延遲低於 250 毫秒，5 到 15 秒音檔就能複製聲音，WebSocket 串流 API 真的就是為即時語音 agent 而生的，做客服或對話應用首選。",
+          "priceRange": "Max 約 NT$1,600/百萬字元，Mini 約 NT$800/百萬字元"
+        }
+      }
     }
   ],
   "history": [
@@ -2072,8 +2088,20 @@
       "date": "2026-05-22",
       "rankings": [
         {
-          "id": "elevenlabs",
+          "id": "inworld-tts-1-5-max",
           "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.3,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "elevenlabs",
+          "rank": 2,
           "score": 9.4,
           "scores": {
             "voiceRealism": 9.7,
@@ -2085,7 +2113,7 @@
         },
         {
           "id": "hume-ai-octave-2",
-          "rank": 2,
+          "rank": 3,
           "score": 9.0,
           "scores": {
             "voiceRealism": 9.0,
@@ -2097,7 +2125,7 @@
         },
         {
           "id": "minimax-speech-02-hd",
-          "rank": 3,
+          "rank": 4,
           "score": 8.8,
           "scores": {
             "voiceRealism": 8.9,
@@ -2109,7 +2137,7 @@
         },
         {
           "id": "cartesia-sonic-3",
-          "rank": 4,
+          "rank": 5,
           "score": 8.7,
           "scores": {
             "voiceRealism": 8.8,
@@ -2121,7 +2149,7 @@
         },
         {
           "id": "openai-gpt-4o-mini-tts",
-          "rank": 5,
+          "rank": 6,
           "score": 8.5,
           "scores": {
             "voiceRealism": 8.5,
@@ -2133,7 +2161,7 @@
         },
         {
           "id": "murf-ai",
-          "rank": 6,
+          "rank": 7,
           "score": 8.3,
           "scores": {
             "voiceRealism": 8.4,
@@ -2145,7 +2173,7 @@
         },
         {
           "id": "wellsaid-labs",
-          "rank": 7,
+          "rank": 8,
           "score": 8.0,
           "scores": {
             "voiceRealism": 9.0,
@@ -2157,7 +2185,7 @@
         },
         {
           "id": "speechify-studio",
-          "rank": 8,
+          "rank": 9,
           "score": 7.8,
           "scores": {
             "voiceRealism": 8.0,
@@ -2169,7 +2197,7 @@
         },
         {
           "id": "resemble-ai",
-          "rank": 9,
+          "rank": 10,
           "score": 7.6,
           "scores": {
             "voiceRealism": 8.4,
@@ -2181,7 +2209,7 @@
         },
         {
           "id": "descript-overdub",
-          "rank": 10,
+          "rank": 11,
           "score": 7.4,
           "scores": {
             "voiceRealism": 7.8,

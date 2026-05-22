@@ -178,6 +178,22 @@
           "priceRange": "約 NT$310/月 Creator，約 NT$910/月 Pro"
         }
       }
+    },
+    {
+      "id": "lyria-3-pro",
+      "name": "Lyria 3 Pro",
+      "brand": "Google DeepMind",
+      "url": "https://deepmind.google/models/lyria/",
+      "i18n": {
+        "en": {
+          "description": "Google DeepMind's Lyria 3 Pro launched on Vertex AI and the Gemini app in early 2026, generating tracks up to 3 minutes with structure control over intros, verses, choruses, and bridges. SynthID watermarking is baked in, which matters for anyone who needs provenance proof.",
+          "priceRange": "Free in Gemini app, enterprise pricing on Vertex AI"
+        },
+        "zh-tw": {
+          "description": "Google DeepMind 在 2026 年初推出的 Lyria 3 Pro，能生成最長 3 分鐘、帶完整段落結構的曲子，從前奏到副歌到橋段都能控制。所有輸出都有 SynthID 浮水印，需要證明 AI 出處的場景特別實用，老實說，光是綁在 Gemini 生態系裡，分發量就贏過大半競品。",
+          "priceRange": "Gemini app 免費，Vertex AI 企業洽談"
+        }
+      }
     }
   ],
   "history": [
@@ -2301,8 +2317,20 @@
           }
         },
         {
-          "id": "stable-audio-2-5",
+          "id": "lyria-3-pro",
           "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 8.6,
+            "editingControl": 8.4,
+            "commercialLicense": 9.5,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 5,
           "score": 8.4,
           "scores": {
             "audioQuality": 8.8,
@@ -2314,7 +2342,7 @@
         },
         {
           "id": "riffusion",
-          "rank": 5,
+          "rank": 6,
           "score": 8.0,
           "scores": {
             "audioQuality": 8.2,
@@ -2326,7 +2354,7 @@
         },
         {
           "id": "soundraw",
-          "rank": 6,
+          "rank": 7,
           "score": 7.8,
           "scores": {
             "audioQuality": 8.0,
@@ -2338,7 +2366,7 @@
         },
         {
           "id": "aiva",
-          "rank": 7,
+          "rank": 8,
           "score": 7.5,
           "scores": {
             "audioQuality": 7.8,
@@ -2350,7 +2378,7 @@
         },
         {
           "id": "mubert",
-          "rank": 8,
+          "rank": 9,
           "score": 7.3,
           "scores": {
             "audioQuality": 7.5,
@@ -2362,7 +2390,7 @@
         },
         {
           "id": "loudly",
-          "rank": 9,
+          "rank": 10,
           "score": 7.0,
           "scores": {
             "audioQuality": 7.3,
@@ -2374,7 +2402,7 @@
         },
         {
           "id": "boomy",
-          "rank": 10,
+          "rank": 11,
           "score": 6.8,
           "scores": {
             "audioQuality": 6.8,
