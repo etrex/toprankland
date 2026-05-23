@@ -184,27 +184,173 @@
     {
       "date": "2026-05-22",
       "rankings": [
-        { "id": "saatva-classic", "rank": 1, "score": 9.3, "scores": { "pressureRelief": 9.0, "coolingTechnology": 9.2, "edgeSupport": 9.6, "motionIsolation": 7.4, "value": 9.0 } },
-        { "id": "helix-midnight-luxe", "rank": 2, "score": 9.2, "scores": { "pressureRelief": 9.6, "coolingTechnology": 8.8, "edgeSupport": 8.8, "motionIsolation": 9.0, "value": 9.2 } },
-        { "id": "purple-restore-hybrid", "rank": 3, "score": 9.0, "scores": { "pressureRelief": 9.4, "coolingTechnology": 9.6, "edgeSupport": 8.8, "motionIsolation": 8.0, "value": 8.0 } },
-        { "id": "bear-elite-hybrid", "rank": 4, "score": 8.9, "scores": { "pressureRelief": 9.0, "coolingTechnology": 9.4, "edgeSupport": 8.4, "motionIsolation": 8.6, "value": 8.8 } },
-        { "id": "nectar-premier-copper", "rank": 5, "score": 8.6, "scores": { "pressureRelief": 8.8, "coolingTechnology": 8.4, "edgeSupport": 7.6, "motionIsolation": 9.4, "value": 9.4 } },
-        { "id": "tempur-pedic-proadapt", "rank": 6, "score": 8.5, "scores": { "pressureRelief": 9.4, "coolingTechnology": 7.8, "edgeSupport": 8.6, "motionIsolation": 9.8, "value": 6.6 } },
-        { "id": "dreamcloud-premier-hybrid", "rank": 7, "score": 8.4, "scores": { "pressureRelief": 8.4, "coolingTechnology": 8.4, "edgeSupport": 8.4, "motionIsolation": 8.0, "value": 9.2 } },
-        { "id": "avocado-green", "rank": 8, "score": 8.3, "scores": { "pressureRelief": 8.2, "coolingTechnology": 8.6, "edgeSupport": 8.8, "motionIsolation": 7.4, "value": 8.2 } },
-        { "id": "brooklyn-bedding-aurora-luxe", "rank": 9, "score": 8.2, "scores": { "pressureRelief": 8.4, "coolingTechnology": 9.6, "edgeSupport": 8.0, "motionIsolation": 7.8, "value": 8.4 } },
-        { "id": "winkbed-plus", "rank": 10, "score": 8.1, "scores": { "pressureRelief": 8.6, "coolingTechnology": 8.2, "edgeSupport": 9.0, "motionIsolation": 7.6, "value": 8.2 } }
+        {
+          "id": "saatva-classic",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "pressureRelief": 9.0,
+            "coolingTechnology": 9.2,
+            "edgeSupport": 9.6,
+            "motionIsolation": 7.4,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "helix-midnight-luxe",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "pressureRelief": 9.6,
+            "coolingTechnology": 8.8,
+            "edgeSupport": 8.8,
+            "motionIsolation": 9.0,
+            "value": 9.2
+          }
+        },
+        {
+          "id": "purple-restore-hybrid",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "pressureRelief": 9.4,
+            "coolingTechnology": 9.6,
+            "edgeSupport": 8.8,
+            "motionIsolation": 8.0,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "bear-elite-hybrid",
+          "rank": 4,
+          "score": 8.9,
+          "scores": {
+            "pressureRelief": 9.0,
+            "coolingTechnology": 9.4,
+            "edgeSupport": 8.4,
+            "motionIsolation": 8.6,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "nectar-premier-copper",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "pressureRelief": 8.8,
+            "coolingTechnology": 8.4,
+            "edgeSupport": 7.6,
+            "motionIsolation": 9.4,
+            "value": 9.4
+          }
+        },
+        {
+          "id": "tempur-pedic-proadapt",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "pressureRelief": 9.4,
+            "coolingTechnology": 7.8,
+            "edgeSupport": 8.6,
+            "motionIsolation": 9.8,
+            "value": 6.6
+          }
+        },
+        {
+          "id": "dreamcloud-premier-hybrid",
+          "rank": 7,
+          "score": 8.4,
+          "scores": {
+            "pressureRelief": 8.4,
+            "coolingTechnology": 8.4,
+            "edgeSupport": 8.4,
+            "motionIsolation": 8.0,
+            "value": 9.2
+          }
+        },
+        {
+          "id": "avocado-green",
+          "rank": 8,
+          "score": 8.3,
+          "scores": {
+            "pressureRelief": 8.2,
+            "coolingTechnology": 8.6,
+            "edgeSupport": 8.8,
+            "motionIsolation": 7.4,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "brooklyn-bedding-aurora-luxe",
+          "rank": 9,
+          "score": 8.2,
+          "scores": {
+            "pressureRelief": 8.4,
+            "coolingTechnology": 9.6,
+            "edgeSupport": 8.0,
+            "motionIsolation": 7.8,
+            "value": 8.4
+          }
+        },
+        {
+          "id": "winkbed-plus",
+          "rank": 10,
+          "score": 8.1,
+          "scores": {
+            "pressureRelief": 8.6,
+            "coolingTechnology": 8.2,
+            "edgeSupport": 9.0,
+            "motionIsolation": 7.6,
+            "value": 8.2
+          }
+        }
       ],
       "references": [
-        { "title": "Saatva Classic vs Helix Midnight Luxe: Which side sleeper mattress should you buy in today's Memorial Day sales?", "url": "https://www.tomsguide.com/wellness/mattresses/saatva-classic-plush-vs-helix-midnight-luxe-which-side-sleeper-mattress-should-you-buy-in-todays-memorial-day-sales", "source": "Tom's Guide" },
-        { "title": "Saatva vs. Helix Mattress Comparison 2026", "url": "https://www.sleepfoundation.org/mattress-comparisons/saatva-vs-helix", "source": "Sleep Foundation" },
-        { "title": "Helix Midnight Luxe Mattress Review (2026)", "url": "https://www.mattressnerd.com/helix-midnight-luxe-review/", "source": "Mattress Nerd" },
-        { "title": "Brooklyn Bedding Aurora Luxe Mattress Review 2026", "url": "https://www.mattressclarity.com/reviews/brooklyn-bedding-aurora/", "source": "Mattress Clarity" },
-        { "title": "Bear Elite Hybrid Review (2026)", "url": "https://naplab.com/mattress-reviews/bear-elite-hybrid-review/", "source": "NapLab" },
-        { "title": "Tempur-Pedic ProAdapt Review (2026)", "url": "https://yawnder.com/tempur-pedic-proadapt-review/", "source": "Yawnder" },
-        { "title": "DreamCloud Premier Hybrid Review (2026)", "url": "https://www.mattressnerd.com/dreamcloud-premier-mattress-review/", "source": "Mattress Nerd" },
-        { "title": "WinkBed Plus Mattress Review (2026 Update)", "url": "https://www.mattressclarity.com/reviews/winkbeds-plus/", "source": "Mattress Clarity" },
-        { "title": "Avocado Mattress Review 2026", "url": "https://www.usnews.com/360-reviews/sleep/mattress/avocado", "source": "U.S. News & World Report" }
+        {
+          "title": "Saatva Classic vs Helix Midnight Luxe: Which side sleeper mattress should you buy in today's Memorial Day sales?",
+          "url": "https://www.tomsguide.com/wellness/mattresses/saatva-classic-plush-vs-helix-midnight-luxe-which-side-sleeper-mattress-should-you-buy-in-todays-memorial-day-sales",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "Saatva vs. Helix Mattress Comparison 2026",
+          "url": "https://www.sleepfoundation.org/mattress-comparisons/saatva-vs-helix",
+          "source": "Sleep Foundation"
+        },
+        {
+          "title": "Helix Midnight Luxe Mattress Review (2026)",
+          "url": "https://www.mattressnerd.com/helix-midnight-luxe-review/",
+          "source": "Mattress Nerd"
+        },
+        {
+          "title": "Brooklyn Bedding Aurora Luxe Mattress Review 2026",
+          "url": "https://www.mattressclarity.com/reviews/brooklyn-bedding-aurora/",
+          "source": "Mattress Clarity"
+        },
+        {
+          "title": "Bear Elite Hybrid Review (2026)",
+          "url": "https://naplab.com/mattress-reviews/bear-elite-hybrid-review/",
+          "source": "NapLab"
+        },
+        {
+          "title": "Tempur-Pedic ProAdapt Review (2026)",
+          "url": "https://yawnder.com/tempur-pedic-proadapt-review/",
+          "source": "Yawnder"
+        },
+        {
+          "title": "DreamCloud Premier Hybrid Review (2026)",
+          "url": "https://www.mattressnerd.com/dreamcloud-premier-mattress-review/",
+          "source": "Mattress Nerd"
+        },
+        {
+          "title": "WinkBed Plus Mattress Review (2026 Update)",
+          "url": "https://www.mattressclarity.com/reviews/winkbeds-plus/",
+          "source": "Mattress Clarity"
+        },
+        {
+          "title": "Avocado Mattress Review 2026",
+          "url": "https://www.usnews.com/360-reviews/sleep/mattress/avocado",
+          "source": "U.S. News & World Report"
+        }
       ],
       "i18n": {
         "en": {
@@ -254,6 +400,189 @@
             {
               "title": "預算四萬內就買 Nectar Premier Copper",
               "body": "預算上限 NT$40,000 Queen 尺寸的話 Nectar Premier Copper 是答案，差距相當明顯。相變材料表布加上銅纖凝膠記憶棉的組合真的能把熱氣導離身體，便宜的記憶棉床墊只會把熱氣悶在身上。365 天試睡期是這份榜單裡最長的，永久保固（雖然名字聽起來像行銷話術）真的會覆蓋製造瑕疵直到你不再使用這張床。動作隔離是這個價位帶的天花板，記憶棉吸收震動的能力本來就贏過任何獨立筒。邊緣支撐是它的弱點，常常坐在床邊穿襪子的人就不要選。其他情況 Queen 尺寸 NT$34,000 至 NT$49,500 真的是沒有明顯妥協的預算床墊選擇。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-05-23",
+      "rankings": [
+        {
+          "id": "saatva-classic",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "pressureRelief": 9.0,
+            "coolingTechnology": 9.2,
+            "edgeSupport": 9.6,
+            "motionIsolation": 7.4,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "helix-midnight-luxe",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "pressureRelief": 9.6,
+            "coolingTechnology": 8.8,
+            "edgeSupport": 8.8,
+            "motionIsolation": 9.0,
+            "value": 9.2
+          }
+        },
+        {
+          "id": "purple-restore-hybrid",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "pressureRelief": 9.4,
+            "coolingTechnology": 9.6,
+            "edgeSupport": 8.8,
+            "motionIsolation": 8.0,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "bear-elite-hybrid",
+          "rank": 4,
+          "score": 8.9,
+          "scores": {
+            "pressureRelief": 9.0,
+            "coolingTechnology": 9.4,
+            "edgeSupport": 8.4,
+            "motionIsolation": 8.6,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "nectar-premier-copper",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "pressureRelief": 8.8,
+            "coolingTechnology": 8.4,
+            "edgeSupport": 7.6,
+            "motionIsolation": 9.4,
+            "value": 9.4
+          }
+        },
+        {
+          "id": "tempur-pedic-proadapt",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "pressureRelief": 9.4,
+            "coolingTechnology": 7.8,
+            "edgeSupport": 8.6,
+            "motionIsolation": 9.8,
+            "value": 6.6
+          }
+        },
+        {
+          "id": "dreamcloud-premier-hybrid",
+          "rank": 7,
+          "score": 8.4,
+          "scores": {
+            "pressureRelief": 8.4,
+            "coolingTechnology": 8.4,
+            "edgeSupport": 8.4,
+            "motionIsolation": 8.0,
+            "value": 9.2
+          }
+        },
+        {
+          "id": "avocado-green",
+          "rank": 8,
+          "score": 8.3,
+          "scores": {
+            "pressureRelief": 8.2,
+            "coolingTechnology": 8.6,
+            "edgeSupport": 8.8,
+            "motionIsolation": 7.4,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "brooklyn-bedding-aurora-luxe",
+          "rank": 9,
+          "score": 8.2,
+          "scores": {
+            "pressureRelief": 8.4,
+            "coolingTechnology": 9.6,
+            "edgeSupport": 8.0,
+            "motionIsolation": 7.8,
+            "value": 8.4
+          }
+        },
+        {
+          "id": "winkbed-plus",
+          "rank": 10,
+          "score": 8.1,
+          "scores": {
+            "pressureRelief": 8.6,
+            "coolingTechnology": 8.2,
+            "edgeSupport": 9.0,
+            "motionIsolation": 7.6,
+            "value": 8.2
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Early Memorial Day mattress deals: Save up to 66% on Nectar, Helix",
+          "url": "https://www.foxnews.com/deals/best-mattress-deals",
+          "source": "Fox News"
+        },
+        {
+          "title": "The Best Memorial Day Mattress Deals of 2026",
+          "url": "https://www.aarp.org/money/personal-finance/memorial-day-mattress-deals/",
+          "source": "AARP"
+        },
+        {
+          "title": "The Best 2026 Memorial Day Mattress Sales",
+          "url": "https://www.sleepfoundation.org/mattress-sales/memorial-day-mattress-sales",
+          "source": "Sleep Foundation"
+        },
+        {
+          "title": "The Best Memorial Day Mattress Sales of 2026",
+          "url": "https://fortune.com/article/memorial-day-mattress-sales/",
+          "source": "Fortune"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Saturday morning the mattress chart enters peak MD weekend volume because the four-day window is when mattress brands move the most inventory. Nectar held its 50% off floor plus 66% off bundles, Helix held 25% off the entire site, Saatva held up to $625 off, and Leesa held 30% off mattresses. Saatva Classic holds first at $1,395 queen (down $625 at Saatva direct), the dual-coil construction plus the lumbar support plus the white-glove delivery is still the right luxury hybrid pitch. Helix Midnight Luxe stays second at $1,649 queen (down $549 at 25% off site-wide), the zoned lumbar plus the cooling cover is the right side-sleeper hybrid pitch. Nectar Premier Copper at third at $1,099 queen (down $1,098 at 50% off plus 66% bundle), the copper-infused memory foam plus the year trial is the right memory foam pitch. Leesa Sapira Chill at fourth at $1,259 queen (down $539 at 30% off), the cooling hybrid pitch lands. Tuft & Needle Mint at fifth at $895 queen (down $254 at MD), the budget hybrid. Saturday verdict: Saatva Classic for luxury hybrid, Helix Midnight Luxe for side-sleeper hybrid, Nectar Premier Copper for memory foam — the conviction buys of MD weekend in this category.",
+          "highlights": [
+            {
+              "title": "Saatva Classic at $1,395 queen — luxury hybrid buy",
+              "body": "Saatva direct held the $625 off MD floor through Saturday. Dual-coil construction plus the lumbar support plus the white-glove delivery at $1,395 queen is still the right luxury hybrid pitch and this is the deepest cut Saatva has run all year."
+            },
+            {
+              "title": "Helix Midnight Luxe at $1,649 queen — side-sleeper hybrid",
+              "body": "Helix held the 25% off site-wide MD floor through Saturday. Zoned lumbar plus the cooling cover plus the medium-firm feel at $1,649 queen is the right side-sleeper hybrid pitch and the price floor matches the best Helix has run since the last Black Friday."
+            },
+            {
+              "title": "Nectar Premier Copper at $1,099 queen — memory foam buy",
+              "body": "Nectar held the 50% off plus 66% bundle MD floor through Saturday. Copper-infused memory foam plus the year trial plus the lifetime warranty at $1,099 queen is the right memory foam pitch and the bundle math (mattress + foundation + pillows + sheets) is the strongest value in the category."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "禮拜六早上，床墊榜單進入國殤日週末顛峰量，因為四天窗口是床墊品牌出貨最多庫存的時候。Nectar 守住 50% off 加組合 66% off，Helix 全站 25% off，Saatva 砍最多 NT$19,600，Leesa 床墊 30% off。\n\nSaatva Classic 守第一 NT$43,800 queen（Saatva 直營砍 NT$19,600），雙線圈構造加腰部支撐加白手套配送，還是奢華混合話術。\n\nHelix Midnight Luxe 第二 NT$51,800 queen（全站 25% off 砍 NT$17,200），分區腰托加涼感套是側睡者混合話術。\n\n講真的，Nectar Premier Copper 第三 NT$34,500 queen（50% off 加 66% 組合砍 NT$34,500），銅纖維記憶棉加全年試睡是記憶棉話術。Leesa Sapira Chill 第四 NT$39,500 queen（30% off 砍 NT$16,900），涼感混合話術。Tuft & Needle Mint 第五 NT$28,100 queen（國殤日砍 NT$8,000），是預算混合。\n\n禮拜六結論：奢華混合就 Saatva Classic，側睡者混合就 Helix Midnight Luxe，記憶棉就 Nectar Premier Copper——這品類國殤日週末的有底氣買點。",
+          "highlights": [
+            {
+              "title": "Saatva Classic NT$43,800 queen 奢華混合買點",
+              "body": "Saatva 直營把 NT$19,600 國殤日地板價守進禮拜六。雙線圈構造加腰部支撐加白手套配送 NT$43,800 queen，還是奢華混合話術，這是 Saatva 今年最深折扣。"
+            },
+            {
+              "title": "Helix Midnight Luxe NT$51,800 queen 側睡者混合",
+              "body": "Helix 把全站 25% off 國殤日地板價守進禮拜六。分區腰托加涼感套加中等偏硬手感 NT$51,800 queen，是側睡者混合話術，地板價對得起 Helix 上次黑五以來最佳價。"
+            },
+            {
+              "title": "Nectar Premier Copper NT$34,500 queen 記憶棉",
+              "body": "Nectar 把 50% off 加 66% 組合國殤日地板價守進禮拜六。銅纖維記憶棉加全年試睡加終身保固 NT$34,500 queen，是記憶棉話術，組合算數（床墊加床架加枕頭加床單）是這品類最強值。"
             }
           ]
         }

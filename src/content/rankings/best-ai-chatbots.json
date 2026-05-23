@@ -1726,6 +1726,199 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-23",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.3,
+            "coding": 9.0,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.0,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.4,
+            "coding": 9.8,
+            "writing": 9.6,
+            "realtime": 7.5,
+            "value": 9.0,
+            "ecosystem": 9.0
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.9,
+            "realtime": 9.3,
+            "value": 9.5,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "reasoning": 8.8,
+            "coding": 8.2,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.4,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (May 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
+          "url": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google debuts new AI models, personal AI agents to keep pace with OpenAI",
+          "url": "https://www.cnbc.com/2026/05/19/google-ai-ultra-gemini-spark-omni.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "New AI Models May 2026: The Frontier Took a Breath, Architecture Took the Stage",
+          "url": "https://whatllm.org/blog/new-ai-models-may-2026",
+          "source": "WhatLLM"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Saturday morning the chatbot chart is the most contested in tech right now and the I/O 2026 fallout from Monday continues to shape the leaderboard. ChatGPT (GPT-5.5 Instant default) holds first because OpenAI promoted GPT-5.5 Instant to default ChatGPT this week, the reasoning gains plus the deeper agent tool access plus the still-best mobile app polish keeps the conviction at the top. Anthropic Claude (Opus 4.7 1M context) stays second, the 1M-context window plus the still-leading coding accuracy is the right pitch for power users and developers, and Anthropic did not ship past Opus 4.7 in April which means the position holds without new flank. Google Gemini (Gemini 3.5 Flash + Gemini Spark) climbs third because the Spark agent beta plus the Omni world model from I/O on Monday give Google the freshest 2026 narrative even if the daily-use polish lags ChatGPT. xAI Grok 4 fourth, the real-time X integration plus the unfiltered tuning is the right pitch for a specific buyer. Meta AI (Llama 4 Behemoth) fifth, the Ray-Ban Meta + WhatsApp + IG integration is broad but the standalone chat polish is weak. Saturday verdict: ChatGPT for general use, Claude for coding and long-context, Gemini for Google ecosystem + agentic action. The I/O fallout is the actual story, not pricing.",
+          "highlights": [
+            {
+              "title": "ChatGPT GPT-5.5 Instant default — leadership cemented",
+              "body": "OpenAI promoted GPT-5.5 Instant to the default ChatGPT model this week, and the reasoning gains plus the deeper agent tool access plus the still-best mobile app polish keeps the leadership intact. The Gemini Spark launch is the only credible challenge and it remains beta-restricted."
+            },
+            {
+              "title": "Claude Opus 4.7 holds — Anthropic on the back foot",
+              "body": "Anthropic did not ship past Opus 4.7 in April and the I/O fallout did not give them a runway response. The 1M-context window plus the still-leading coding accuracy keeps Claude at second for power users and developers, but the position is now defensive."
+            },
+            {
+              "title": "Gemini Spark — Google's freshest agentic narrative",
+              "body": "Google's Spark agent beta plus the Omni world model from I/O Monday give Google the strongest 2026 agentic narrative even though the daily-use polish still trails ChatGPT. Trusted-tester rollout plus AI Ultra subscribers gates the experience and the next two weeks will validate the pitch."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "禮拜六早上，聊天機器人榜單是現在科技圈最激烈的，禮拜一 I/O 2026 的餘震還在塑造榜單。\n\nChatGPT（GPT-5.5 Instant 預設）守第一，OpenAI 這禮拜把 GPT-5.5 Instant 升級成 ChatGPT 預設，推理能力增強加更深的 agent 工具存取加還是最精緻的手機 App，有底氣坐在第一名。\n\nAnthropic Claude（Opus 4.7 1M 上下文）第二，1M 上下文視窗加還是領先的程式碼準確率，是進階用戶跟開發者的話術，Anthropic 四月沒推 Opus 4.7 之後的新東西，所以位置守住但沒有新進攻。\n\n講真的，Google Gemini（Gemini 3.5 Flash 加 Gemini Spark）爬到第三，Spark agent beta 加 I/O 禮拜一的 Omni 世界模型，給 Google 這個 2026 最新的敘事，即使日常使用精緻度還是落後 ChatGPT。xAI Grok 4 第四，即時 X 整合加無過濾調校是特定買家的話術。Meta AI（Llama 4 Behemoth）第五，Ray-Ban Meta 加 WhatsApp 加 IG 整合廣但獨立聊天精緻度弱。\n\n禮拜六結論：一般用就 ChatGPT，寫程式跟長上下文就 Claude，Google 生態加 agent 行動就 Gemini。I/O 餘震才是真故事，不是定價。",
+          "highlights": [
+            {
+              "title": "ChatGPT GPT-5.5 Instant 預設，領先確立",
+              "body": "OpenAI 這禮拜把 GPT-5.5 Instant 升級成 ChatGPT 預設，推理增強加更深的 agent 工具存取加最精緻的手機 App，撐住領先。Gemini Spark 上市是唯一可信挑戰，但還是 beta 限定。"
+            },
+            {
+              "title": "Claude Opus 4.7 守住，Anthropic 進入守勢",
+              "body": "Anthropic 四月沒推 Opus 4.7 之後的東西，I/O 餘震沒給他們回應的跑道。1M 上下文視窗加領先的程式碼準確率把 Claude 守在第二進階用戶跟開發者的位置，但這個位置現在是守勢。"
+            },
+            {
+              "title": "Gemini Spark Google 最新 agent 敘事",
+              "body": "Google 的 Spark agent beta 加禮拜一 I/O 的 Omni 世界模型，給 Google 2026 最強的 agent 敘事，雖然日常使用精緻度還是落後 ChatGPT。trusted-tester 加 AI Ultra 會員把體驗閘住，接下來兩週驗證話術。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

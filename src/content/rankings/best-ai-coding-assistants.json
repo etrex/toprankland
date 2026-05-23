@@ -7393,6 +7393,196 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-23",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "codeQuality": 9.7,
+            "contextWindow": 9.6,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.6,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 7.7
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (May 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Best AI Models in May 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        },
+        {
+          "title": "Best AI coding assistants 2026: Claude Code, Cursor, Copilot",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Saturday morning the AI coding assistant chart confirms Claude Code holds first because the Opus 4.7 backbone plus the 1M context plus the agent tool integration is still the right pitch for serious software engineering work. The week of I/O 2026 did not produce a credible Anthropic challenger from Google's side. Cursor stays second, the IDE-native integration plus the model-router that ships with Opus 4.7 and GPT-5.5 plus Gemini 3.5 Flash is the right pitch for buyers who want one editor that uses every model. GitHub Copilot at third holds the Microsoft-shop pitch, the VS Code integration plus the Workspace agent plus the underlying GPT-5.5 access is still the broadest deployment. Windsurf (formerly Codeium) at fourth, the Cascade agent plus the lower price floor at $15/mo is the right pitch for the cost-conscious developer. Replit Agent fifth, the cloud-first dev environment plus the agent-driven scaffolding is the right pitch for prototyping. Saturday verdict: Claude Code for serious engineering, Cursor for editor-first model-routing, Copilot for Microsoft shops.",
+          "highlights": [
+            {
+              "title": "Claude Code — Opus 4.7 keeps the engineering crown",
+              "body": "Anthropic's Opus 4.7 backbone plus the 1M context plus the agent tool integration plus the terminal-first workflow is still the right pitch for serious software engineering, and Google's I/O 2026 did not produce a credible challenger to dislodge it."
+            },
+            {
+              "title": "Cursor — model-router editor wins for power users",
+              "body": "Cursor's IDE-native integration plus the model-router that picks between Opus 4.7, GPT-5.5, and Gemini 3.5 Flash is the right pitch for buyers who want one editor that uses every model. The May refresh added Gemini 3.5 Flash to the routing pool."
+            },
+            {
+              "title": "GitHub Copilot — Microsoft shop default",
+              "body": "Copilot's VS Code integration plus the Workspace agent plus the GPT-5.5 access is still the broadest deployment in the category, and at $19/mo for Business it is the right default for any Microsoft-anchored engineering team. The Workspace agent finally caught up to Cursor on March refresh."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "禮拜六早上，AI 程式碼助手榜單確認 Claude Code 守第一，因為 Opus 4.7 後端加 1M 上下文加 agent 工具整合還是嚴肅軟體工程作業的對的話術。I/O 2026 那週 Google 沒有生出可信的 Anthropic 挑戰者。\n\nCursor 第二，IDE 原生整合加 model-router 一次配 Opus 4.7 加 GPT-5.5 加 Gemini 3.5 Flash，是想要一個編輯器用所有模型買家的對的話術。\n\n講真的，GitHub Copilot 第三守住微軟商店話術，VS Code 整合加 Workspace agent 加底層 GPT-5.5 存取還是部署最廣。Windsurf（前 Codeium）第四，Cascade agent 加 NT$470/月更低價是省錢派開發者的話術。Replit Agent 第五，雲端優先開發環境加 agent 驅動鷹架是原型話術。\n\n禮拜六結論：嚴肅工程就 Claude Code，編輯器優先 model-routing 就 Cursor，微軟商店就 Copilot。",
+          "highlights": [
+            {
+              "title": "Claude Code Opus 4.7 守住工程王座",
+              "body": "Anthropic Opus 4.7 後端加 1M 上下文加 agent 工具整合加 terminal 優先工作流，還是嚴肅軟體工程作業的對的話術，Google I/O 2026 沒有生出可信挑戰者把它擠下去。"
+            },
+            {
+              "title": "Cursor model-router 編輯器贏進階用戶",
+              "body": "Cursor IDE 原生整合加 model-router 在 Opus 4.7、GPT-5.5、Gemini 3.5 Flash 之間挑，是想要一個編輯器用所有模型買家的話術。五月更新把 Gemini 3.5 Flash 加進路由池。"
+            },
+            {
+              "title": "GitHub Copilot 微軟商店預設",
+              "body": "Copilot 的 VS Code 整合加 Workspace agent 加 GPT-5.5 存取還是這品類部署最廣，Business 版 NT$600/月對任何微軟錨點工程團隊是對的預設選擇。三月更新後 Workspace agent 終於追上 Cursor。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
