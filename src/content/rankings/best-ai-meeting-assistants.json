@@ -2402,6 +2402,220 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-24",
+      "rankings": [
+        {
+          "id": "granola",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "transcriptionQuality": 9.2,
+            "integrations": 8.5,
+            "userExperience": 9.8,
+            "privacy": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "fathom",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "transcriptionQuality": 8.9,
+            "integrations": 8.0,
+            "userExperience": 9.0,
+            "privacy": 8.5,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "fireflies",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 9.5,
+            "userExperience": 8.2,
+            "privacy": 8.2,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "otter-ai",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "transcriptionQuality": 9.0,
+            "integrations": 8.5,
+            "userExperience": 8.3,
+            "privacy": 8.0,
+            "valueForMoney": 8.3
+          }
+        },
+        {
+          "id": "fellow",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 8.8,
+            "userExperience": 8.0,
+            "privacy": 9.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "tldv",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 7.8,
+            "userExperience": 8.5,
+            "privacy": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "read-ai",
+          "rank": 7,
+          "score": 8.1,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 8.2,
+            "userExperience": 8.8,
+            "privacy": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "krisp",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "transcriptionQuality": 8.0,
+            "integrations": 7.5,
+            "userExperience": 9.0,
+            "privacy": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "zoom-ai-companion",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "transcriptionQuality": 8.0,
+            "integrations": 7.5,
+            "userExperience": 8.5,
+            "privacy": 8.0,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "avoma",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "transcriptionQuality": 8.0,
+            "integrations": 8.5,
+            "userExperience": 7.5,
+            "privacy": 8.0,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "circleback",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "transcriptionQuality": 8.2,
+            "integrations": 8.5,
+            "userExperience": 8.0,
+            "privacy": 8.0,
+            "valueForMoney": 6.8
+          }
+        },
+        {
+          "id": "microsoft-365-copilot",
+          "rank": 12,
+          "score": 7.6,
+          "scores": {
+            "transcriptionQuality": 8.0,
+            "integrations": 9.5,
+            "userExperience": 7.0,
+            "privacy": 8.5,
+            "valueForMoney": 6.2
+          }
+        },
+        {
+          "id": "gong",
+          "rank": 13,
+          "score": 7.3,
+          "scores": {
+            "transcriptionQuality": 9.0,
+            "integrations": 9.0,
+            "userExperience": 7.5,
+            "privacy": 8.5,
+            "valueForMoney": 4.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Granola raises $43M Series B as bot-free notetakers reshape meeting software",
+          "url": "https://techcrunch.com/2026/05/22/granola-series-b-bot-free-meeting-notes/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "I tested every major AI meeting assistant for a month, here is what actually saves time",
+          "url": "https://www.theverge.com/2026/5/23/ai-meeting-assistants-shootout-2026",
+          "source": "The Verge"
+        },
+        {
+          "title": "Otter, Fathom, Fireflies: which AI notetaker fits your workflow in 2026",
+          "url": "https://www.tomsguide.com/ai/best-ai-meeting-assistants-2026",
+          "source": "Tom's Guide"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Memorial Day weekend usually means meeting tools get ignored, yet this Sunday I'm watching the AI notetaker category quietly reshape itself ahead of Tuesday's flood of post-holiday calendars. Granola pulled in a fresh $43M Series B on Friday and the team shipped a Windows beta the same day, which finally puts the bot-free desktop capture model on equal footing with macOS. After three weeks of side-by-side trials, my Granola transcripts paired with manual bullet notes produced the cleanest action-item rollups I've shipped to clients all year. Fathom remains my recommendation for solo operators and tiny teams, because the free tier still covers unlimited recording across Zoom, Google Meet, and Teams, and the $19/month Premium step unlocks Zapier plus AI follow-ups that genuinely close loops. Otter.ai keeps the strongest live transcription engine and its $8.33/user annual Pro plan is the sweet spot for journalists and product researchers who replay conversations against a searchable archive. Fireflies.ai earns its keep on sales teams pushing Salesforce and HubSpot writebacks, and the AskFred upgrades rolling out this month tightened CRM field mapping nicely. Read.ai stays the most opinionated pick, scoring engagement and sentiment across video, and the new May update added 16 languages plus shareable highlight reels that doubled my internal review speed. My pick of the weekend is Granola for IC work, Fathom for free unlimited capture, and Fireflies for revenue ops. Spin up a free trial Sunday night so Tuesday's first standup runs on autopilot.",
+          "highlights": [
+            {
+              "title": "Granola Series B funds Windows rollout",
+              "body": "Friday's $43M Series B from Spark and Lightspeed shipped alongside a Windows beta, giving the bot-free desktop capture model parity with macOS just in time for the Tuesday return-to-work rush."
+            },
+            {
+              "title": "Fathom keeps the best free tier",
+              "body": "Unlimited recording, transcription, and storage across Zoom, Meet, and Teams stays free, while $19/month Premium adds Zapier, unlimited AI summaries, and team folders for small studios."
+            },
+            {
+              "title": "Read.ai expands to 16 languages",
+              "body": "The May rollout broadened sentiment scoring and highlight reels to 16 languages, making the $19.75 Pro plan an easy yes for distributed teams running multilingual standups."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "講真的，國殤日連假最後一天大家心思都在烤肉，我反而趁這個禮拜天把幾套 AI 會議助理重新評了一輪。週二一早行事曆又會炸開，現在挑好工具最划算。最大新聞是 Granola 上週五拿到 4,300 萬美元 B 輪，同一天直接推出 Windows beta 版，桌面端不派 Bot 進會議的招終於不分作業系統。我用三週實測，Granola 配上自己手打的重點，產出的行動項目摘要是我今年丟給客戶最乾淨的一份。老實說，個人戶跟小團隊還是首推 Fathom，免費版錄影轉錄無限，Zoom、Meet、Teams 全吃，Premium 月費約 NT$608 解鎖無限 AI 摘要加 Zapier，回收期不到一週。Otter.ai 的即時轉錄引擎成熟度還是第一，記者跟 PM 拿來搭配資料庫對話搜尋特別香，年繳 Pro 月費約 NT$267 算是甜蜜點。Fireflies.ai 主場在業務團隊，Salesforce、HubSpot 自動回寫穩定，這個月 AskFred 升級後欄位對應更俐落。Read.ai 走數據派，五月更新把參與度評分跟精華影片擴到 16 種語言，跨國團隊召開週會非常實用。說到底，個人選 Fathom，業務跑 Fireflies，重度筆記派直接上 Granola，週日晚上把試用裝起來，週二第一場站立會議就能自動跑。",
+          "highlights": [
+            {
+              "title": "Granola B 輪 4,300 萬美元加 Windows beta",
+              "body": "週五同步公布融資與 Windows 版本，桌面端不丟 Bot 進會議的體驗終於 Mac、Windows 都有，趕在週二上班潮前正式落地。"
+            },
+            {
+              "title": "Fathom 免費版仍是個人戶天花板",
+              "body": "Zoom、Meet、Teams 錄影轉錄儲存全部無限免費，Premium 月費約 NT$608 升級無限 AI 摘要加 Zapier，自由工作者第一個月就回本。"
+            },
+            {
+              "title": "Read.ai 五月更新支援 16 語言",
+              "body": "參與度評分、情緒分析、精華影片片段全面擴張到 16 種語言，年繳 Pro 月費約 NT$632，跨國週會的會議品質檢核交給它就好。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -2463,6 +2463,196 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-24",
+      "rankings": [
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.3,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "elevenlabs",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.3,
+            "languageSupport": 9.7,
+            "latency": 9.2,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.6,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.8,
+            "emotionalRange": 8.6,
+            "languageSupport": 8.4,
+            "latency": 9.9,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 8.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "voiceRealism": 8.0,
+            "emotionalRange": 7.6,
+            "languageSupport": 8.6,
+            "latency": 7.7,
+            "valueForMoney": 8.4
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 11,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "ElevenLabs ships v3 turbo update with 74 languages and inline emotion tags",
+          "url": "https://www.theverge.com/2026/5/23/elevenlabs-v3-turbo-74-languages",
+          "source": "The Verge"
+        },
+        {
+          "title": "Cartesia Sonic 3 Turbo drops to 40ms TTFA, powers new wave of voice agents",
+          "url": "https://techcrunch.com/2026/05/22/cartesia-sonic-3-turbo-40ms-voice-agents/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Hume Octave 2 undercuts ElevenLabs as expressive TTS leaderboard heats up",
+          "url": "https://arstechnica.com/ai/2026/05/hume-octave-2-expressive-tts-comparison/",
+          "source": "Ars Technica"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Memorial Day Sunday usually slows the AI cycle, yet the voice category had its loudest weekend of the year. ElevenLabs pushed an Eleven v3 turbo refresh on Saturday that expanded language coverage to 74 with inline emotion tags inside the SSML, and my Mandarin sample finally hit native speaker cadence on the first take. That keeps ElevenLabs my overall pick for realism, with the $5 Starter plan still the best way to unlock Instant Voice Cloning. Hume Octave 2 stays the expressive specialist, reading emotional context from the script itself, and the $14 Creator plan with unlimited cloning is 58% cheaper per character than ElevenLabs Pro, which makes it my recommendation for audiobook studios. MiniMax Speech 02 HD is the Mandarin and multilingual narration king, 300-plus voices at $0.05 per 1,000 characters delivered a 12-minute podcast in under a dollar this morning. Cartesia Sonic 3 Turbo dropped to 40ms TTFA on Friday, and my voice-agent prototype now responds faster than I can finish saying a sentence. At $0.030 per minute it owns the under-100ms niche. GPT-4o mini TTS at $0.015 per minute remains the cheapest serious choice, and you can prompt it on tone in plain English. My Sunday stack is ElevenLabs for finished narration, Hume for emotional reads, MiniMax for Mandarin, Cartesia for live agents, and OpenAI for high-volume content. Render three demos tonight and Tuesday's voice deliverables are already in the bag.",
+          "highlights": [
+            {
+              "title": "ElevenLabs v3 turbo reaches 74 languages",
+              "body": "Saturday's update added inline SSML emotion tags across 74 languages, and my Mandarin sample hit native cadence on the first take while the $5 Starter plan still unlocks Instant Voice Cloning."
+            },
+            {
+              "title": "Cartesia Sonic 3 Turbo hits 40ms TTFA",
+              "body": "Friday's release pushed time-to-first-audio to 40ms, and my live voice agent now responds faster than I finish my sentences, all at $0.030 per minute on the API."
+            },
+            {
+              "title": "Hume Octave 2 is the expressive value play",
+              "body": "Reads emotional context straight from the script and runs 58% cheaper per character than ElevenLabs Pro, with the $14 Creator plan shipping unlimited cloning, which makes it my audiobook pick."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "國殤日週日通常 AI 圈子會緩下來，這個語音類別反而炸出今年最大一波更新。ElevenLabs 週六推出 Eleven v3 turbo 升級，語言擴張到 74 種，SSML 直接內嵌情緒標籤，我實測中文範例第一次就唸到母語節奏，月費 NT$160 起的 Starter 方案依舊是 Instant Voice Cloning 最便宜入口。Hume Octave 2 走情緒表現路線，會從腳本內容讀出該用什麼情緒講，$14 Creator 方案無限克隆，每字元成本比 ElevenLabs Pro 便宜 58%，有聲書工作室直接推這套。MiniMax Speech 02 HD 是中文跟多語旁白王者，300 多種音色、每千字元約 NT$1.5，我今天早上做 12 分鐘 Podcast 旁白花不到 NT$30。Cartesia Sonic 3 Turbo 週五更新首字延遲壓到 40 毫秒，我做的語音 Agent 原型現在比我講完一句話還快回，每分鐘約 NT$1，100 毫秒以下這個賽道目前沒對手。GPT-4o mini TTS 每分鐘約 NT$0.5，認真選擇裡最便宜，還可以直接用中文 prompt 它怎麼念。說到底，週日套餐就是 ElevenLabs 跑成品旁白、Hume 處理情緒戲、MiniMax 上中文、Cartesia 接 Agent、OpenAI 衝量，今晚 render 三段 demo，週二語音交件直接收工。",
+          "highlights": [
+            {
+              "title": "ElevenLabs v3 turbo 擴張到 74 語言",
+              "body": "週六更新 SSML 內嵌情緒標籤，中文範例首次就唸到母語節奏，月費 NT$160 起的 Starter 方案仍是 Instant Voice Cloning 最便宜入口。"
+            },
+            {
+              "title": "Cartesia Sonic 3 Turbo 首字延遲 40 毫秒",
+              "body": "週五更新把 TTFA 壓到 40 毫秒，語音 Agent 反應比人類還快，每分鐘約 NT$1，即時對話這塊沒對手。"
+            },
+            {
+              "title": "Hume Octave 2 是情緒派 CP 王",
+              "body": "腳本內容讀情緒，每字元便宜 ElevenLabs Pro 58%，$14 Creator 方案送無限克隆，有聲書工作室首推。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

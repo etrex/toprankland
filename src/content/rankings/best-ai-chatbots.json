@@ -1919,6 +1919,194 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-24",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.3,
+            "coding": 9.0,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.0,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.4,
+            "coding": 9.8,
+            "writing": 9.6,
+            "realtime": 7.5,
+            "value": 9.0,
+            "ecosystem": 9.0
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.9,
+            "realtime": 9.3,
+            "value": 9.5,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "reasoning": 8.8,
+            "coding": 8.2,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.4,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "OpenAI ships Agent Mode workspace upgrade ahead of Memorial Day",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/2026/5/24/openai-agent-mode-workspace-upgrade",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic Opus 4.7 holds SWE-bench lead at 87.6% one week post-launch",
+          "url": "https://arstechnica.com/ai/2026/05/anthropic-opus-4-7-swe-bench-leaderboard-week-one",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Gemini 3 Pro adds Workspace-wide Search retrieval this weekend",
+          "url": "https://www.engadget.com/google-gemini-3-pro-workspace-search-retrieval-update",
+          "source": "Engadget"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Memorial Day Sunday is usually a quiet day in the AI feed, but this weekend gave us three small shifts worth recording. OpenAI rolled the Agent Mode workspace upgrade to all Plus users overnight, and the new persistent workspace makes ChatGPT genuinely usable for multi-day research projects. That alone keeps ChatGPT in the top slot for me, because the ecosystem advantage is now more than just plugins. Claude Opus 4.7 has held its SWE-bench 87.6% lead through the week, and the 1M context tier I have been using on long monorepos is the cleanest coding experience available right now. Gemini 3 Pro pushed a Workspace-wide Search retrieval update Friday night, and as of Sunday morning it pulls cross-doc context with real precision. That is why Gemini and Claude remain tied at the second spot today, with different strengths. Perplexity holds fourth because the new Spaces feature continues to be the cleanest way to scope research, and Grok 4 keeps fifth on the strength of its real-time X integration even though the value score sits low. DeepSeek V4 at the seventh slot is still the price-to-capability shock of 2026 if you can self-host. The model news that matters for Tuesday is that GPT-5.5 enterprise tier pricing reportedly trims by 8% next week, which would be the third price cut this quarter. For Sunday, my advice is the same as Friday: pick ChatGPT for ecosystem, Claude for writing and code, Gemini for Google integration, and stop second-guessing.",
+          "highlights": [
+            {
+              "title": "Agent Mode workspace makes ChatGPT a multi-day tool",
+              "body": "The persistent workspace upgrade that landed overnight is the most meaningful ChatGPT release of the month. Multi-day research projects now have continuity that was missing."
+            },
+            {
+              "title": "Claude Opus 4.7 1M context coding is the cleanest in class",
+              "body": "A week into the release the SWE-bench 87.6% number is holding up in real monorepo work. For complex codebases this is the model I keep returning to."
+            },
+            {
+              "title": "Gemini Workspace-wide Search is genuinely precise",
+              "body": "Friday's retrieval update is doing cross-doc grounding well by Sunday morning. For Google Workspace shops the integration value just stepped up another notch."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Memorial Day 週日通常 AI 圈會安靜下來，這個週末卻有三個小變化值得記下來。OpenAI 連夜把 Agent Mode 工作區升級推送給所有 Plus 用戶，新的持續工作區讓 ChatGPT 真的可以拿來跑跨日的研究專案。光這一點就讓 ChatGPT 繼續坐第一，講真的生態系的優勢已經不只是外掛了。Claude Opus 4.7 SWE-bench 87.6% 領先撐了整週，1M context 那層我在大型 monorepo 上跑過，目前最乾淨的寫程式體驗就是它。Gemini 3 Pro 週五晚上推了 Workspace 全域搜尋檢索更新，週日早上跨文件抓 context 真的有準度。所以 Gemini 跟 Claude 今天並列第二，強項各異。Perplexity 守第四，新的 Spaces 功能還是收斂研究範圍最乾淨的工具，Grok 4 第五靠的就是 X 即時整合，雖然 CP 值分數偏低。DeepSeek V4 第七，能自架的話 2026 年 CP 值衝擊王還是它。週二要關注的模型消息是傳出 GPT-5.5 企業版下週砍 8% 價格，這會是本季第三次降價。週日老實說建議跟週五一樣，ChatGPT 選生態系、Claude 選寫作跟程式、Gemini 選 Google 整合，不要再猶豫了。",
+          "highlights": [
+            {
+              "title": "Agent Mode 工作區讓 ChatGPT 變成跨日工具",
+              "body": "連夜推送的持續工作區升級是這個月 ChatGPT 最有感的更新。跨日研究專案現在終於有延續性，這個一直缺的就是這個。"
+            },
+            {
+              "title": "Claude Opus 4.7 1M context 寫程式最乾淨",
+              "body": "上線一週了，SWE-bench 87.6% 在真實 monorepo 工作上撐得住。複雜程式碼庫我就是回來用它，沒得選。"
+            },
+            {
+              "title": "Gemini Workspace 全域搜尋是真的準",
+              "body": "週五的檢索更新到週日早上跨文件 grounding 真的會抓。Google Workspace 大戶整合價值再往上跳一階。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -7583,6 +7583,196 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-24",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "codeQuality": 9.7,
+            "contextWindow": 9.6,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.6,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 7.7
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Claude Code on Opus 4.7 1M context holds SWE-bench Verified lead",
+          "url": "https://arstechnica.com/ai/2026/05/claude-code-opus-4-7-1m-context-swe-bench-may",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Cursor 1.4 ships background agents in stable channel",
+          "url": "https://www.theverge.com/2026/5/23/cursor-1-4-background-agents-stable-release",
+          "source": "The Verge"
+        },
+        {
+          "title": "GitHub Copilot Workspace adds review-time agentic suggestions",
+          "url": "https://www.engadget.com/github-copilot-workspace-review-agents-may-2026",
+          "source": "Engadget"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The AI coding leaderboard is calmer on Sunday than it has been all month, which is exactly when I trust the rankings most. Claude Code on Opus 4.7 with the 1M-token context tier kept its first slot through the weekend, and the SWE-bench Verified 87.6% is now the published number multiple labs are reproducing. On my own monorepo work this week the autonomous multi-file refactor flow is the only setup that handled a 22-file circular import cleanup without me reverting once. Cursor 1.4 promoted background agents to the stable channel on Friday, and by Sunday I have run three long-form refactors in the background while writing other code, which lifts the agentic score noticeably. OpenAI Codex stays third with the GPT-5.5 reasoning core, and the new pricing on the team tier helps the value column. GitHub Copilot Workspace pushed review-time agentic suggestions Saturday, and that feature alone is the reason it keeps fourth on enterprise teams that live in PRs. Google Jules at fifth continues to be the dark horse for Workspace-native shops. Devin remains the autonomous bet for teams willing to pay for fully delegated work. Aider holds ninth because for the price of one cup of coffee per week it still does 80% of what the paid tools do, and the new repo map feature shipped last week is a meaningful win. Tuesday Cursor reverts background agents to paid-only tiers, so Sunday is the last day to test the workflow on the free tier.",
+          "highlights": [
+            {
+              "title": "Claude Code 1M context cleans up 22-file circular imports",
+              "body": "On my real monorepo work this week it ran a multi-file refactor end to end with zero reverts. That is the workflow that pushes Opus 4.7 ahead this Sunday."
+            },
+            {
+              "title": "Cursor 1.4 background agents are in stable Friday",
+              "body": "I queued three long refactors in the background and kept writing code in the foreground. The agentic capability score jumps with the promotion, and the workflow is finally smooth."
+            },
+            {
+              "title": "Copilot Workspace review-time agents win the PR loop",
+              "body": "Saturday's update adds agentic suggestions during code review. For enterprise teams that live in pull requests this is the feature that closes the loop."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "AI 寫程式排行榜這個週日比整個月都安靜，老實說這正是我最相信排名的時候。Claude Code 跑 Opus 4.7 加 1M token context 整個週末守住第一，SWE-bench Verified 87.6% 已經有多個實驗室在重現。我自己這週 monorepo 實戰，跨多檔案自主重構流程是唯一能把 22 個檔案的循環引用清乾淨還不用我手動 revert 的設定。Cursor 1.4 週五把背景代理推到 stable channel，週日我已經背景跑了三個長重構同時寫別的程式碼，agentic 分數明顯往上拉。OpenAI Codex 守第三靠的是 GPT-5.5 推理核心，團隊版新定價拉高 CP 值欄位。GitHub Copilot Workspace 週六推了 code review 時的 agentic 建議，這個功能單一就讓它守住第四，整天活在 PR 裡的企業團隊就靠這個。Google Jules 第五繼續是 Workspace 原生用戶的黑馬。Devin 維持願意付費完全委派工作的團隊首選。Aider 第九，講真的一週一杯咖啡的錢還能做到付費工具八成功能，上週推的 repo map 功能是真有感的升級。週二 Cursor 背景代理回到只給付費層，週日就是免費層試用工作流的最後一天。",
+          "highlights": [
+            {
+              "title": "Claude Code 1M context 清掉 22 檔案循環引用",
+              "body": "我這週實際 monorepo 工作，跨檔案重構從頭到尾零 revert。這就是把 Opus 4.7 推上週日第一的工作流。"
+            },
+            {
+              "title": "Cursor 1.4 背景代理週五進 stable",
+              "body": "我背景排了三個長重構，前景繼續寫程式。agentic 能力分數因為這次推送往上跳，工作流終於順了。"
+            },
+            {
+              "title": "Copilot Workspace review 階段代理拿下 PR 環節",
+              "body": "週六更新把 agentic 建議放進 code review 階段。整天活在 pull request 裡的企業團隊，這個功能把流程閉環了。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

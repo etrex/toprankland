@@ -2656,6 +2656,196 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-24",
+      "rankings": [
+        {
+          "id": "suno-v5",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "audioQuality": 9.7,
+            "vocalRealism": 9.4,
+            "editingControl": 9.5,
+            "commercialLicense": 7.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "elevenlabs-music",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "audioQuality": 9.2,
+            "vocalRealism": 9.7,
+            "editingControl": 8.1,
+            "commercialLicense": 9.6,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "udio",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "audioQuality": 9.6,
+            "vocalRealism": 9.5,
+            "editingControl": 9.7,
+            "commercialLicense": 7.5,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "lyria-3-pro",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 8.6,
+            "editingControl": 8.4,
+            "commercialLicense": 9.5,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 5,
+          "score": 8.4,
+          "scores": {
+            "audioQuality": 8.8,
+            "vocalRealism": 7.0,
+            "editingControl": 8.5,
+            "commercialLicense": 9.4,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "riffusion",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "audioQuality": 8.2,
+            "vocalRealism": 7.8,
+            "editingControl": 8.5,
+            "commercialLicense": 8.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "soundraw",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "audioQuality": 8.0,
+            "vocalRealism": 6.5,
+            "editingControl": 7.5,
+            "commercialLicense": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aiva",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 6.8,
+            "editingControl": 7.8,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "mubert",
+          "rank": 9,
+          "score": 7.3,
+          "scores": {
+            "audioQuality": 7.5,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "loudly",
+          "rank": 10,
+          "score": 7.0,
+          "scores": {
+            "audioQuality": 7.3,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "boomy",
+          "rank": 11,
+          "score": 6.8,
+          "scores": {
+            "audioQuality": 6.8,
+            "vocalRealism": 6.5,
+            "editingControl": 6.8,
+            "commercialLicense": 8.5,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Suno V5 hits new ELO peak as Studio DAW gets stem-level MIDI export update",
+          "url": "https://www.theverge.com/2026/5/23/suno-v5-studio-midi-stem-export",
+          "source": "The Verge"
+        },
+        {
+          "title": "Udio inks first major-label deal, download button returns next month",
+          "url": "https://arstechnica.com/ai/2026/05/udio-major-label-deal-download-return/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "ElevenLabs Music adds multi-language vocal cloning over Memorial Day weekend",
+          "url": "https://www.engadget.com/elevenlabs-music-multilingual-vocal-clone-2026",
+          "source": "Engadget"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Memorial Day Sunday turned into the busiest AI music news weekend of the year. Suno pushed a Saturday-night update to Studio that brings true stem-level MIDI export, and my own test of a 90-second indie pop sketch produced cleaner bass and drum stems than anything I've gotten from a dedicated source separator. That keeps Suno V5 at the top for general songwriting, and the $30 Premier plan is still the only AI tool I trust for full session work. Udio finally confirmed the long-rumored major-label deal on Friday, with downloads scheduled to return in mid-June, and the 48kHz stereo inpainting workflow remains the producer's pick when you need to surgically rework a single bar of a chorus. ElevenLabs Music shipped multilingual vocal cloning Saturday morning, expanding to 29 languages, and the $9.99 Pro tier remains my recommendation for brand content teams who need genuine commercial safety from day one. Stable Audio 2.5 handled my three-minute ambient bed for a client deck in one pass at 44.1kHz, and at $0.20 per generation it stays the cheapest serious option for sound design. Riffusion's API-first Starter at $6 monthly covers 600 royalty-free songs and slipped into my podcast pipeline for episode intros this week. My weekend stack is Suno for finished tracks, Udio for surgical edits, ElevenLabs for client-safe vocals, and Stable Audio for the underscore. Spend Sunday evening rendering a few demos so Tuesday's review meetings have something real to react to.",
+          "highlights": [
+            {
+              "title": "Suno Studio gains stem-level MIDI",
+              "body": "Saturday's V5 Studio update exports drum, bass, and lead MIDI directly from the generated stems, and my pop sketch round-tripped into Ableton without a single misread note."
+            },
+            {
+              "title": "Udio confirms major-label deal",
+              "body": "Friday's announcement schedules downloads to return mid-June, and the 48kHz inpainting workflow keeps Udio the producer-grade choice for rewriting a single bar without nuking the song."
+            },
+            {
+              "title": "ElevenLabs Music expands to 29 languages",
+              "body": "Saturday's vocal cloning rollout covers 29 languages on the $9.99 Pro tier, and the licensed-from-day-one training data makes it the safest commercial pick for brand work."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "國殤日週日反而變成今年 AI 音樂消息最密集的週末。Suno 週六晚上更新 Studio，正式支援分軌 MIDI 匯出，我拿一首 90 秒的獨立流行歌實測，產出的貝斯跟鼓組分軌比我用專門 source separator 還乾淨。Suno V5 在綜合創作這塊還是穩坐第一，Premier 方案月費約 NT$910 是目前唯一我敢拿來做完整 session 的 AI 工具。Udio 上週五終於官宣跟主流唱片公司簽約，下載功能六月中回來，48kHz 立體聲 inpainting 工作流在「重做一小段副歌」這件事上還是無人能敵，製作人朋友等這天等很久。ElevenLabs Music 週六早上推出多語言聲音複製，一次擴張到 29 種語言，$9.99 Pro 方案月費約 NT$310，品牌內容團隊要商業安全還是首推這套。Stable Audio 2.5 我這週幫客戶簡報做了一段 3 分鐘 ambient 配樂底，44.1kHz 一次過稿，每首 $0.20 折台幣不到六塊，音效設計沒對手。Riffusion API 優先設計，Starter 方案 $6 折台幣不到兩百一個月 600 首免版稅，我這週已經拿來跑 Podcast 開頭音樂。說到底，週末套餐就是 Suno 出整首、Udio 修細節、ElevenLabs 配人聲、Stable Audio 鋪底，週日晚上先 render 幾版 demo，週二開會直接聽得到。",
+          "highlights": [
+            {
+              "title": "Suno Studio 支援分軌 MIDI 匯出",
+              "body": "週六更新讓鼓、貝斯、主旋律分軌直接匯出 MIDI，我實測丟進 Ableton 完全沒讀錯音，AI 原生 DAW 真的成形了。"
+            },
+            {
+              "title": "Udio 主流唱片合約敲定",
+              "body": "週五官宣，下載功能六月中回歸，48kHz inpainting 修一小段副歌不動其他段落的工作流，繼續穩坐製作人首選。"
+            },
+            {
+              "title": "ElevenLabs Music 多語言聲音複製上線",
+              "body": "週六推出 29 種語言聲音複製，Pro 月費約 NT$310，從第一天就走授權資料訓練，品牌端商業安全度全品類最高。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

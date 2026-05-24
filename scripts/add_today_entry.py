@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Add a 2026-05-23 history entry to a single ranking JSON file.
+"""Add a 2026-05-24 history entry to a single ranking JSON file.
 
 Usage: pass a JSON payload via stdin describing the new entry. Carries forward
 yesterday's rankings unless `rankings_override` is provided.
@@ -8,7 +8,7 @@ import json
 import sys
 from pathlib import Path
 
-TODAY = "2026-05-23"
+TODAY = "2026-05-24"
 RANKINGS_DIR = Path(__file__).resolve().parent.parent / "src" / "content" / "rankings"
 
 

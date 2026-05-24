@@ -1070,6 +1070,184 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-24",
+      "rankings": [
+        {
+          "id": "midjourney-v8",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 8.5,
+            "photorealism": 9.0,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "gpt-image-2",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 8.6,
+            "artisticQuality": 8.2,
+            "textRendering": 9.5,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 8.8,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 9.7
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Midjourney V8 ships Style Reference 2 over Memorial Day weekend",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/2026/5/24/midjourney-v8-style-reference-2-update",
+          "source": "The Verge"
+        },
+        {
+          "title": "Flux 2 Pro photorealism still topping blind tests in late May",
+          "url": "https://arstechnica.com/ai/2026/05/flux-2-pro-photorealism-blind-test-may-2026",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "GPT Image 2 rolls multi-image canvas to ChatGPT Plus tier",
+          "url": "https://www.engadget.com/gpt-image-2-multi-image-canvas-chatgpt-plus-update",
+          "source": "Engadget"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "AI image generation rarely makes Memorial Day weekend news, but this Sunday brought a real shift. Midjourney dropped Style Reference 2 overnight, and it is the first version where I can lock a brand aesthetic across a 40-image campaign without manual prompt-by-prompt tuning. That keeps Midjourney V8 at the top for editorial and concept work, and the consistency layer is the real product win of the weekend. Flux 2 Pro photorealism continues to lead the blind-test leaderboards I trust, and for product mockups and architectural renders I am still routing every job there first. GPT Image 2 stays third because the multi-image canvas that OpenAI pushed to ChatGPT Plus tier Friday turns it into a genuine layout tool, and prompt accuracy at 9.8 remains the best in class. Ideogram V3 holds fourth on the strength of text rendering, which still beats every other model for poster work and any image with a headline. Imagen 4 keeps fifth because the value per credit at the Google AI Studio tier is hard to argue with, and Firefly 4 stays sixth as the only model I trust for fully commercially-licensed output on client work. Stable Diffusion 3.5 Large at seventh is the self-host pick if you have a 4090 lying around. Tuesday morning brings Midjourney V8.1 alpha to Mega subscribers, so anyone planning campaign work should slot the new Style Reference into the queue this Sunday and benchmark before the upgrade lands.",
+          "highlights": [
+            {
+              "title": "Midjourney Style Reference 2 locks brand aesthetic across 40 images",
+              "body": "The overnight drop is the first version where consistency across a full campaign holds without per-prompt fiddling. Real product win for editorial and brand work this weekend."
+            },
+            {
+              "title": "Flux 2 Pro still owns the photorealism leaderboard",
+              "body": "Blind tests this week put it ahead again for product mockups and architectural renders. For any photo-replacement workflow this is the first stop."
+            },
+            {
+              "title": "GPT Image 2 multi-image canvas turns it into a layout tool",
+              "body": "Friday's Plus-tier rollout extends prompt accuracy into a multi-shot composition workflow. Designers running ChatGPT Plus get a meaningful new lever this Sunday."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "AI 圖像生成在 Memorial Day 連假很少有大新聞，這個週日真的出了一個變化。Midjourney 連夜推 Style Reference 2，這是第一個版本能跨 40 張圖的整套品牌風格鎖住，不用一張一張調 prompt。所以 Midjourney V8 繼續坐第一，雜誌跟概念類就是它，這個一致性層才是這週末真正的產品勝利。Flux 2 Pro 寫實度繼續在我信任的盲測榜上領先，產品 mockup 跟建築 render 我還是第一個丟給它。GPT Image 2 守第三，OpenAI 週五推給 ChatGPT Plus 的多圖畫布讓它變成真正的排版工具，prompt 精準度 9.8 依然是同級最強。Ideogram V3 守第四就靠文字 render，海報跟任何有大標題的圖目前還是它最穩。Imagen 4 守第五，Google AI Studio 一階一 credit 的 CP 值很難挑剔，Firefly 4 守第六，客戶案完全商用授權我目前只信它。Stable Diffusion 3.5 Large 第七是自架首選，家裡有 4090 就上。週二一早 Midjourney V8.1 alpha 開放給 Mega 訂閱戶，講真的有 campaign 在跑的人，週日先把新 Style Reference 排進佇列，升級前先做 benchmark。",
+          "highlights": [
+            {
+              "title": "Midjourney Style Reference 2 鎖住 40 張品牌風格",
+              "body": "連夜推送的版本是第一個能跨整套 campaign 鎖風格不用逐張調 prompt。雜誌跟品牌案這個週末真有感的產品勝利。"
+            },
+            {
+              "title": "Flux 2 Pro 寫實度榜還是它的",
+              "body": "這週盲測再度把它推到產品 mockup 跟建築 render 前面。任何照片替換工作流第一站就是它。"
+            },
+            {
+              "title": "GPT Image 2 多圖畫布變排版工具",
+              "body": "週五推到 Plus 層的多圖畫布把 prompt 精準度延伸到多鏡頭構圖工作流。ChatGPT Plus 設計師週日多一個有感的新槓桿。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
