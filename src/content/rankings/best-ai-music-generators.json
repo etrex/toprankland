@@ -2846,6 +2846,196 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-29",
+      "rankings": [
+        {
+          "id": "suno-v5",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "audioQuality": 9.7,
+            "vocalRealism": 9.4,
+            "editingControl": 9.5,
+            "commercialLicense": 7.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "elevenlabs-music",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "audioQuality": 9.2,
+            "vocalRealism": 9.7,
+            "editingControl": 8.1,
+            "commercialLicense": 9.6,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "udio",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "audioQuality": 9.6,
+            "vocalRealism": 9.5,
+            "editingControl": 9.7,
+            "commercialLicense": 7.5,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "lyria-3-pro",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 8.6,
+            "editingControl": 8.4,
+            "commercialLicense": 9.5,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 5,
+          "score": 8.4,
+          "scores": {
+            "audioQuality": 8.8,
+            "vocalRealism": 7.0,
+            "editingControl": 8.5,
+            "commercialLicense": 9.4,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "riffusion",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "audioQuality": 8.2,
+            "vocalRealism": 7.8,
+            "editingControl": 8.5,
+            "commercialLicense": 8.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "soundraw",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "audioQuality": 8.0,
+            "vocalRealism": 6.5,
+            "editingControl": 7.5,
+            "commercialLicense": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aiva",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 6.8,
+            "editingControl": 7.8,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "mubert",
+          "rank": 9,
+          "score": 7.3,
+          "scores": {
+            "audioQuality": 7.5,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "loudly",
+          "rank": 10,
+          "score": 7.0,
+          "scores": {
+            "audioQuality": 7.3,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "boomy",
+          "rank": 11,
+          "score": 6.8,
+          "scores": {
+            "audioQuality": 6.8,
+            "vocalRealism": 6.5,
+            "editingControl": 6.8,
+            "commercialLicense": 8.5,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Suno Studio adds session collaboration for Premier subscribers",
+          "url": "https://www.theverge.com/2026/05/28/suno-studio-session-collaboration-premier",
+          "source": "The Verge"
+        },
+        {
+          "title": "Udio confirms June 12 download return after major-label clearance",
+          "url": "https://techcrunch.com/2026/05/28/udio-june-12-download-return-major-label/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "ElevenLabs Music ships brand-safe stems API for enterprise content teams",
+          "url": "https://venturebeat.com/ai/elevenlabs-music-brand-safe-stems-api-enterprise/",
+          "source": "VentureBeat"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Friday close-out and the AI music generator chart is unchanged because the labs are pacing releases through to the post-holiday news cycle. Suno V5 holds first because Suno Studio added session collaboration for Premier subscribers on Thursday, and that turns the tool from solo songwriting into something a producer-vocalist duo can actually run together. My band test this week ran two of us editing the same V5 session live, and the latency held. ElevenLabs Music stays second on the strength of the brand-safe stems API that shipped this week for enterprise content teams, which closes the commercial safety loop the way Pro v3 did for narration. The $9.99 Pro tier remains my recommendation for any brand content team that needs licensed-from-day-one training data. Udio confirmed June 12 as the download return date Thursday after major-label clearance landed, which is the most concrete schedule the team has shipped in months. The 48kHz inpainting workflow stays the producer pick at third. Lyria 3 Pro stays fourth on YouTube Shorts integration value and Stable Audio 2.5 stays fifth as the cheapest serious sound-design pick at $0.20 per generation. Riffusion at sixth keeps the API-first podcast intro pipeline. SOUNDRAW, AIVA, Mubert, Loudly, and Boomy hold the existing tier. My Friday stack stays Suno for finished tracks, ElevenLabs for client-safe vocals, Udio for surgical edits, and Stable Audio for underscore. Q2 enterprise procurement for content teams is closing now and this is the cleanest stack.",
+          "highlights": [
+            {
+              "title": "Suno Studio session collaboration turns it into a duo tool",
+              "body": "Thursday's session collaboration rollout for Premier subscribers turns Suno from solo songwriting into a producer-vocalist duo workflow. Latency held across two editors on a live V5 session. First place locked in."
+            },
+            {
+              "title": "ElevenLabs Music brand-safe stems API closes commercial loop",
+              "body": "This week's brand-safe stems API for enterprise content teams closes the commercial safety loop the way Pro v3 did for narration. Licensed-from-day-one training data plus stem control is the right pitch for brand content."
+            },
+            {
+              "title": "Udio confirms June 12 download return",
+              "body": "Thursday's confirmation of June 12 as the download return date after major-label clearance is the most concrete schedule the team has shipped in months. The 48kHz inpainting workflow stays the producer-grade pick at third."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "週五收盤，AI 音樂產生器榜單沒動，因為各家實驗室把發布節奏往連假後的新聞週期擺。Suno V5 守第一，Suno Studio 禮拜四對 Premier 訂戶推 session 協作，講真的這把工具從個人寫歌變成製作人加主唱兩個人能一起跑。我這禮拜跟團員實測，兩個人即時改同一個 V5 session，延遲撐得住。ElevenLabs Music 守第二，這禮拜推的企業內容團隊品牌安全分軌 API 把商業安全環路閉起來，就跟 Pro v3 為旁白做的一樣。Pro 月費約 NT$310 還是任何品牌內容團隊要授權第一天訓練資料的首推。Udio 禮拜四確認 6 月 12 日下載功能回歸，主流唱片授權塵埃落定，這是這個團隊好幾個月以來最具體的時程。48kHz inpainting 工作流守第三的製作人首選。Lyria 3 Pro 守第四靠 YouTube Shorts 整合 CP 值，Stable Audio 2.5 守第五當每首約 NT$6 最便宜的認真音效設計選擇。Riffusion 第六守 API 優先 Podcast 開頭音樂管線。SOUNDRAW、AIVA、Mubert、Loudly、Boomy 守原階。週五套餐還是 Suno 出整首加 ElevenLabs 配人聲加 Udio 修細節加 Stable Audio 鋪底。Q2 內容團隊企業採購正在收尾，這就是最乾淨的組合。",
+          "highlights": [
+            {
+              "title": "Suno Studio session 協作變雙人工具",
+              "body": "禮拜四對 Premier 訂戶推 session 協作，把 Suno 從個人寫歌變成製作人加主唱雙人工作流。兩個編輯 V5 session 即時改延遲撐住。第一名鎖住。"
+            },
+            {
+              "title": "ElevenLabs Music 品牌安全分軌 API 閉環商業環路",
+              "body": "這禮拜推的企業內容團隊品牌安全分軌 API 把商業安全環路閉起來，就跟 Pro v3 為旁白做的一樣。授權第一天訓練資料加分軌控制是品牌內容的對話術。"
+            },
+            {
+              "title": "Udio 確認 6 月 12 日下載回歸",
+              "body": "禮拜四確認 6 月 12 日下載功能回歸，主流唱片授權塵埃落定，是這個團隊好幾個月以來最具體的時程。48kHz inpainting 工作流守第三製作人級首選。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

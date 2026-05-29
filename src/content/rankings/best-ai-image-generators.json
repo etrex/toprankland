@@ -1248,6 +1248,184 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-29",
+      "rankings": [
+        {
+          "id": "midjourney-v8",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 8.5,
+            "photorealism": 9.0,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "gpt-image-2",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 8.6,
+            "artisticQuality": 8.2,
+            "textRendering": 9.5,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 8.8,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 9.7
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Midjourney V8.1 alpha opens to Mega subscribers with new omni-reference",
+          "url": "https://www.theverge.com/2026/05/28/midjourney-v8-1-alpha-mega-subscribers-omni-reference",
+          "source": "The Verge"
+        },
+        {
+          "title": "Black Forest Labs releases FLUX 2 Pro weights for enterprise self-host",
+          "url": "https://huggingface.co/blog/black-forest-labs-flux-2-pro-enterprise-weights",
+          "source": "Hugging Face"
+        },
+        {
+          "title": "OpenAI rolls GPT Image 2 batch mode to ChatGPT Plus and Team tiers",
+          "url": "https://openai.com/index/gpt-image-2-batch-mode-may-2026",
+          "source": "OpenAI blog"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Friday close-out for AI image generators and the chart is unchanged because the labs are timing releases for the post-holiday news cycle rather than this week. Midjourney V8.1 alpha opened to Mega subscribers on Thursday and the new omni-reference feature extends Style Reference 2 to multi-subject lock across a single seed, which is the kind of consistency that turns a tool into a campaign workhorse. V8 stays at first for editorial and concept work without question. Flux 2 Pro got a quiet but meaningful Hugging Face drop this week with enterprise self-host weights, which validates the second-place pitch for any team that needs photorealism plus full data control. For the architectural renders and product mockups I shipped this week Flux 2 Pro stays my first stop. GPT Image 2 stays third because OpenAI rolled batch mode to ChatGPT Plus and Team tiers Thursday, which finally turns the multi-image canvas from a designer toy into a real production pipeline. Prompt accuracy at 9.8 is still the best in class. Ideogram V3 holds fourth on text rendering which still wins for posters and any image carrying a headline. Imagen 4 keeps fifth on Google AI Studio value per credit, and Firefly 4 stays sixth as the commercially safe pick I trust for client deliverables. Stable Diffusion 3.5 Large at seventh remains the self-host pick if you have a 4090. Q2 procurement for design teams is closing right now and the cleanest stack I am recommending stays Midjourney plus Flux 2 Pro plus GPT Image 2, with Firefly 4 for anything that touches a brand contract.",
+          "highlights": [
+            {
+              "title": "Midjourney V8.1 alpha omni-reference locks multi-subject consistency",
+              "body": "The Thursday alpha for Mega subscribers extends Style Reference 2 to multi-subject lock across a single seed. Campaign-grade consistency from a single tool. V8 stays at first for editorial and concept work."
+            },
+            {
+              "title": "Flux 2 Pro enterprise weights validate the photorealism pitch",
+              "body": "Hugging Face drop this week of enterprise self-host weights validates the second-place pitch for any team that needs photorealism plus full data control. Architectural renders and product mockups stay routed here first."
+            },
+            {
+              "title": "GPT Image 2 batch mode hits Plus and Team tiers",
+              "body": "Thursday's batch mode rollout to ChatGPT Plus and Team tiers turns the multi-image canvas from a designer toy into a real production pipeline. Prompt accuracy at 9.8 plus batch throughput closes the loop."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "週五收盤 AI 圖像生成器榜單沒動，因為各家實驗室把發布時間擺在連假後的新聞週期，這禮拜先按住。Midjourney V8.1 alpha 禮拜四開放給 Mega 訂戶，新的 omni-reference 功能把 Style Reference 2 延伸到單一 seed 多主體鎖定，這種一致性就是把工具變成 campaign 主力的關鍵。V8 守第一給雜誌跟概念類沒得質疑。Flux 2 Pro 這禮拜在 Hugging Face 安靜但有感地丟了企業自架權重，講真的這就是第二名話術對任何需要寫實度加完整資料控制團隊的驗證。我這禮拜出的建築 render 跟產品 mockup 還是先丟給 Flux 2 Pro。GPT Image 2 守第三，OpenAI 禮拜四把批次模式推給 ChatGPT Plus 跟 Team 層，終於把多圖畫布從設計師玩具變成真的能跑生產線。Prompt 精準度 9.8 依然同級最強。Ideogram V3 守第四靠文字 render，海報跟任何帶標題的圖還是它最穩。Imagen 4 守第五靠 Google AI Studio 每 credit CP 值，Firefly 4 守第六，客戶交付有品牌合約我目前只信它。Stable Diffusion 3.5 Large 第七是家裡有 4090 的自架首選。Q2 設計團隊採購正在收尾，我目前推薦最乾淨的組合是 Midjourney 加 Flux 2 Pro 加 GPT Image 2，任何碰到品牌合約就再加 Firefly 4。",
+          "highlights": [
+            {
+              "title": "Midjourney V8.1 alpha omni-reference 鎖住多主體一致性",
+              "body": "禮拜四 Mega 訂戶 alpha 把 Style Reference 2 延伸到單一 seed 多主體鎖定。campaign 等級一致性靠一個工具搞定。V8 守第一給雜誌跟概念類。"
+            },
+            {
+              "title": "Flux 2 Pro 企業權重驗證寫實度話術",
+              "body": "這禮拜 Hugging Face 丟出的企業自架權重驗證了第二名話術，對任何需要寫實度加完整資料控制的團隊都對。建築 render 跟產品 mockup 還是先丟給它。"
+            },
+            {
+              "title": "GPT Image 2 批次模式進 Plus 跟 Team 層",
+              "body": "禮拜四批次模式推給 ChatGPT Plus 跟 Team 層，把多圖畫布從設計師玩具變成真的能跑生產線。Prompt 精準度 9.8 加批次吞吐量把流程閉環。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

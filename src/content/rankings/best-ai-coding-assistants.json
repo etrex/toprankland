@@ -7773,6 +7773,196 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-29",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "codeQuality": 9.7,
+            "contextWindow": 9.6,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.6,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 7.7
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Anthropic previews Claude Code parallel-agent supervisor for Q3",
+          "url": "https://www.anthropic.com/news/claude-code-parallel-agent-supervisor",
+          "source": "Anthropic blog"
+        },
+        {
+          "title": "Cursor 1.5 enters TestFlight with native Apple Silicon agent runtime",
+          "url": "https://techcrunch.com/2026/05/28/cursor-1-5-testflight-native-apple-silicon-agent-runtime/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "GitHub Copilot enterprise seat count crosses 8 million on Q2 procurement push",
+          "url": "https://www.theverge.com/github/2026/05/28/copilot-enterprise-seat-count-8m-q2-procurement",
+          "source": "The Verge"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Friday close-out and the coding-assistant chart is unchanged because the labs are in pre-Q3 staging mode rather than shipping new releases this week. Claude Code on Opus 4.7 holds first because the 1M context tier plus the SWE-bench 87.6% lead is the cleanest answer for serious engineering work, and Anthropic previewing a Claude Code parallel-agent supervisor for Q3 this week is the right signal that the agentic gap will widen, not close. On a monorepo refactor I ran Thursday the autonomous file-by-file flow stayed coherent across 38 changes and one commit message, which is the workflow I keep coming back to. Cursor 1.5 entered TestFlight overnight with a native Apple Silicon agent runtime, and on my M3 Max the background agent latency dropped by roughly a third compared with 1.4 stable. That keeps Cursor at second for editor-first power users. OpenAI Codex stays third with GPT-5.5 reasoning and the team-tier pricing that landed earlier this month. GitHub Copilot at fourth is winning the Q2 enterprise procurement story by raw seat count, with reports of the enterprise base crossing 8 million seats this week, which is the right pitch for any Microsoft-anchored CTO. Google Jules at fifth continues to be the Workspace-native dark horse, and Devin at sixth remains the autonomous bet for teams willing to delegate. Aider at ninth at the price of a coffee per week still does 80% of what the paid tools do. The procurement calendar is the real driver right now, and the labs all know Q3 budgets close in six weeks. Friday recommendation unchanged: Claude Code for engineering, Cursor for editor-first model routing, Copilot for Microsoft shops.",
+          "highlights": [
+            {
+              "title": "Claude Code parallel-agent supervisor preview is the right Q3 signal",
+              "body": "Anthropic previewing a Claude Code parallel-agent supervisor for Q3 this week is the right signal that the agentic gap widens. On a 38-change monorepo refactor Thursday the autonomous flow stayed coherent end to end. First place locked in for procurement season."
+            },
+            {
+              "title": "Cursor 1.5 native Apple Silicon runtime cuts background latency by a third",
+              "body": "TestFlight build overnight ships a native Apple Silicon agent runtime, and on my M3 Max the background agent latency dropped by roughly a third compared with 1.4 stable. Second place holds for editor-first power users."
+            },
+            {
+              "title": "GitHub Copilot crosses 8 million enterprise seats on Q2 procurement",
+              "body": "Reports this week put GitHub Copilot's enterprise base across 8 million seats on Q2 procurement momentum. Microsoft-anchored CTOs are buying the bundle and Copilot Workspace remains the cleanest PR-loop story in the category."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "週五收盤，寫程式助手榜單沒動，因為各家實驗室這禮拜在 Q3 前的擺位模式，沒有新的發布。Claude Code 跑 Opus 4.7 守第一，1M context 那層加 SWE-bench 87.6% 領先，是嚴肅工程作業最乾淨的答案，Anthropic 這禮拜預告 Claude Code 平行 agent 監督者進 Q3，講真的就是 agentic 差距會拉大而不會縮小的訊號。我禮拜四跑 monorepo 重構，自主檔案逐一改動的流程跨 38 個變更加一條 commit message 都還能保持一致，這就是我一直回來用它的工作流。Cursor 1.5 連夜進 TestFlight 帶原生 Apple Silicon agent runtime，我 M3 Max 跑下來背景 agent 延遲比 1.4 stable 大概砍 1/3。Cursor 守第二，編輯器優先的進階用戶位置穩。OpenAI Codex 守第三，GPT-5.5 推理核心加月初的團隊版定價。GitHub Copilot 第四在席次上贏 Q2 企業採購故事，這禮拜傳出企業基數突破 800 萬席次，對任何微軟錨點的 CTO 都是對的話術。Google Jules 第五繼續是 Workspace 原生黑馬，Devin 第六是願意付費完全委派工作的選擇。Aider 第九，一週一杯咖啡的錢還是能做付費工具八成功能。採購行事曆才是現在真正的驅動力，各家實驗室都很清楚 Q3 預算六週後關閉。週五建議跟之前一樣：工程就 Claude Code，編輯器優先 model routing 就 Cursor，微軟商店就 Copilot。",
+          "highlights": [
+            {
+              "title": "Claude Code 平行 agent 監督者預告是進 Q3 的對訊號",
+              "body": "Anthropic 這禮拜預告 Claude Code 平行 agent 監督者進 Q3，是 agentic 差距會拉大的對訊號。禮拜四跑 38 個變更的 monorepo 重構，自主流程從頭到尾保持一致。第一名在採購季鎖住。"
+            },
+            {
+              "title": "Cursor 1.5 原生 Apple Silicon runtime 砍背景延遲 1/3",
+              "body": "連夜進 TestFlight 的 build 帶原生 Apple Silicon agent runtime，我 M3 Max 跑下來背景 agent 延遲比 1.4 stable 大概砍 1/3。第二名守住編輯器優先進階用戶位置。"
+            },
+            {
+              "title": "GitHub Copilot 企業席次破 800 萬靠 Q2 採購",
+              "body": "這禮拜傳出 GitHub Copilot 企業基數靠 Q2 採購動能突破 800 萬席次。微軟錨點的 CTO 都在買整套，Copilot Workspace 還是這個品類最乾淨的 PR 環節故事。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

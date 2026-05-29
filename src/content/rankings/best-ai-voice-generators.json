@@ -2653,6 +2653,196 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-29",
+      "rankings": [
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.3,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "elevenlabs",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.3,
+            "languageSupport": 9.7,
+            "latency": 9.2,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.6,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.8,
+            "emotionalRange": 8.6,
+            "languageSupport": 8.4,
+            "latency": 9.9,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 8.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "voiceRealism": 8.0,
+            "emotionalRange": 7.6,
+            "languageSupport": 8.6,
+            "latency": 7.7,
+            "valueForMoney": 8.4
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 11,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "ElevenLabs v3 ships voice library marketplace expansion for creator economy",
+          "url": "https://www.theverge.com/2026/05/28/elevenlabs-v3-voice-library-marketplace-expansion",
+          "source": "The Verge"
+        },
+        {
+          "title": "Cartesia signs Series B-driven enterprise voice-agent deals with three major banks",
+          "url": "https://techcrunch.com/2026/05/28/cartesia-series-b-enterprise-voice-agents-banking/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Inworld TTS 1.5 Max adds whisper and shouting modes for game studios",
+          "url": "https://venturebeat.com/ai/inworld-tts-1-5-max-whisper-shouting-modes-game-studios/",
+          "source": "VentureBeat"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Friday close-out and the AI voice generator chart is unchanged because the category is in Q2 enterprise procurement mode rather than new releases. Inworld TTS 1.5 Max holds first because the whisper and shouting modes that shipped to game studios this week extend the latency lead with genuine expressive range, and at sub-100ms TTFA it remains the live voice agent pick. ElevenLabs ties at second on the v3 turbo 74-language coverage from last weekend plus this week's voice library marketplace expansion for the creator economy, which is the right pitch for voice work that needs to scale a brand across multiple narrators. The $5 Starter plan still unlocks Instant Voice Cloning and the prosody crown is intact. Hume Octave 2 stays third as the expressive specialist, and the $14 Creator plan running 58% cheaper per character than ElevenLabs Pro keeps it the audiobook studio pick. MiniMax Speech 02 HD at fourth holds the Mandarin and multilingual narration crown at $0.05 per 1,000 characters. Cartesia Sonic 3 at fifth signed Series B-driven enterprise voice-agent deals with three major banks this week, which is the validation any voice-agent infrastructure team should care about. The 40ms TTFA from the Sonic 3 Turbo refresh stays the live-agent benchmark. OpenAI GPT-4o mini TTS at sixth at $0.015 per minute remains the cheapest serious choice. Murf AI, WellSaid Labs, Speechify Studio, Resemble AI, and Descript Overdub hold their tier. Q2 voice infrastructure procurement is closing and Cartesia plus Inworld are winning the enterprise voice-agent layer, while ElevenLabs plus Hume are winning the creator economy. Friday stack: Inworld for live agents, ElevenLabs for narration, Hume for emotional reads, Cartesia for enterprise agents, MiniMax for Mandarin.",
+          "highlights": [
+            {
+              "title": "ElevenLabs voice library marketplace expansion is the creator economy play",
+              "body": "This week's voice library marketplace expansion is the right pitch for any voice work that needs to scale a brand across multiple narrators. v3 turbo 74-language coverage plus marketplace stays the prosody crown. Tied second locked in."
+            },
+            {
+              "title": "Cartesia signs three major banks for enterprise voice agents",
+              "body": "Cartesia signing Series B-driven enterprise voice-agent deals with three major banks this week is the validation any voice-agent infrastructure team should care about. 40ms TTFA stays the live-agent benchmark."
+            },
+            {
+              "title": "Inworld TTS 1.5 Max adds whisper and shouting modes for game studios",
+              "body": "This week's whisper and shouting modes for game studios extend the latency lead with genuine expressive range. Sub-100ms TTFA plus expressive modes keeps first place locked in for live voice agents."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "週五收盤，AI 語音產生器榜單沒動，因為這品類處在 Q2 企業採購模式而不是新發布模式。Inworld TTS 1.5 Max 守第一，這禮拜對遊戲工作室推出耳語跟吼叫模式，延伸延遲領先加上真實表現力範圍，TTFA 100 毫秒以下還是即時語音 agent 首選。ElevenLabs 並列第二，上週末 v3 turbo 74 種語言覆蓋加這禮拜推的創作者經濟語音庫市集擴張，對任何要把品牌跨多個旁白擴張的語音工作都是對的話術。月費 NT$160 起的 Starter 方案還是解鎖 Instant Voice Cloning 的入口，韻律王座完整。Hume Octave 2 守第三當情緒專家，$14 Creator 方案每字元便宜 ElevenLabs Pro 58%，繼續是有聲書工作室首選。MiniMax Speech 02 HD 第四守中文跟多語旁白王座，每千字元約 NT$1.5。Cartesia Sonic 3 第五這禮拜簽下 B 輪驅動的三家主要銀行企業語音 agent 合約，這就是任何語音 agent 基礎建設團隊該在意的驗證。Sonic 3 Turbo 更新的 40 毫秒 TTFA 還是即時 agent 標竿。OpenAI GPT-4o mini TTS 第六，每分鐘約 NT$0.5 還是認真選擇裡最便宜。Murf AI、WellSaid Labs、Speechify Studio、Resemble AI、Descript Overdub 守原階。Q2 語音基礎建設採購收尾中，Cartesia 加 Inworld 在贏企業語音 agent 層，ElevenLabs 加 Hume 在贏創作者經濟。週五套餐：即時 agent 用 Inworld，旁白用 ElevenLabs，情緒戲用 Hume，企業 agent 用 Cartesia，中文用 MiniMax。",
+          "highlights": [
+            {
+              "title": "ElevenLabs 語音庫市集擴張是創作者經濟打法",
+              "body": "這禮拜推的語音庫市集擴張對任何要把品牌跨多個旁白擴張的語音工作都是對的話術。v3 turbo 74 種語言覆蓋加市集守住韻律王座。並列第二鎖住。"
+            },
+            {
+              "title": "Cartesia 簽下三家主要銀行企業語音 agent",
+              "body": "Cartesia 這禮拜簽下 B 輪驅動的三家主要銀行企業語音 agent 合約，是任何語音 agent 基礎建設團隊該在意的驗證。40 毫秒 TTFA 還是即時 agent 標竿。"
+            },
+            {
+              "title": "Inworld TTS 1.5 Max 對遊戲工作室推耳語跟吼叫模式",
+              "body": "這禮拜對遊戲工作室推耳語跟吼叫模式，延伸延遲領先加上真實表現力範圍。100 毫秒以下 TTFA 加表現力模式讓第一名鎖住即時語音 agent 位置。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

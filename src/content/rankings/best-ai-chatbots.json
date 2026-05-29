@@ -2107,6 +2107,194 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-29",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.3,
+            "coding": 9.0,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.0,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.4,
+            "coding": 9.8,
+            "writing": 9.6,
+            "realtime": 7.5,
+            "value": 9.0,
+            "ecosystem": 9.0
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.9,
+            "realtime": 9.3,
+            "value": 9.5,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "reasoning": 8.8,
+            "coding": 8.2,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.4,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Anthropic teases Opus 4.7 update with extended thinking and tool-use refresh",
+          "url": "https://www.anthropic.com/news/opus-4-7-update-may-2026",
+          "source": "Anthropic blog"
+        },
+        {
+          "title": "OpenAI signs three more Fortune 500 enterprise expansions for ChatGPT Business",
+          "url": "https://techcrunch.com/2026/05/28/openai-fortune-500-chatgpt-business-q2-expansion/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google rolls Gemini Spark out of trusted-tester gate for AI Ultra subscribers",
+          "url": "https://www.theverge.com/google/2026/05/28/gemini-spark-general-availability-ai-ultra",
+          "source": "The Verge"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Friday close-out and the ranking is identical, which is exactly the story for the end of May 2026. The AI labs hit a brief plateau going into the long weekend after the Google I/O blast and the GPT-5.5 Instant promotion, and the Q2 enterprise procurement calendar is now the real driver. The signal I am hearing from Fortune 500 IT buyers is consistent: ChatGPT Business is winning the broadest seat count because GPT-5.5 plus Agent Mode plus the new workspace continuity is the only single subscription that covers research, writing, and light coding for a non-developer team. Anthropic teasing the Opus 4.7 extended-thinking update late this week is the smartest move they could make ahead of Q3, and the SWE-bench 87.6% has held through three full weeks of post-launch scrutiny. Gemini Spark moving out of trusted-tester and into general availability for AI Ultra subscribers on Thursday is the I/O promise actually shipping, and for any Workspace-locked enterprise it makes Gemini Ultra the defensible third subscription. Below the top three the picture is unchanged: Perplexity owns research workflows with sourced citations, Grok 4 remains the only model with native X firehose access, Copilot is the Microsoft 365 default, DeepSeek V4 is the open-weights value play, and Meta AI keeps the sponsored-answer baggage from April. For the heavy user my Friday recommendation is unchanged: ChatGPT Plus first, Claude Pro for code and prose, Gemini AI Pro if Google is your operating system. The procurement cycle will define Q3, and the labs know it.",
+          "highlights": [
+            {
+              "title": "ChatGPT Business is winning the Q2 Fortune 500 seat count",
+              "body": "GPT-5.5 plus Agent Mode plus the persistent workspace upgrade from last weekend is the only single subscription that covers research, writing, and light coding for a non-developer team. Three more Fortune 500 expansions landed this week and the procurement signal is clear. First-place call holds with conviction."
+            },
+            {
+              "title": "Claude Opus 4.7 extended-thinking tease is the right Q3 setup",
+              "body": "Anthropic previewing an Opus 4.7 update with extended thinking and refreshed tool use late this week is exactly the right move ahead of the Q3 procurement window. SWE-bench 87.6% has held through three weeks of post-launch scrutiny and the 1M context tier is still the cleanest monorepo coding experience in production."
+            },
+            {
+              "title": "Gemini Spark hitting general availability is the I/O promise shipping",
+              "body": "Google pulled Spark out of trusted-tester on Thursday for all AI Ultra subscribers, which is the actual I/O 2026 promise landing two weeks after the keynote. For a Workspace-locked enterprise this is what makes Gemini Ultra the defensible third subscription alongside ChatGPT and Claude."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "週五收盤排名跟週日一模一樣，但這個沒動才是 2026 年 5 月底真正的故事。Google I/O 跟 GPT-5.5 Instant 升預設這兩波打完，AI 實驗室進入長週末前的小平台期，Q2 企業採購行事曆現在才是真正的驅動力。我聽到 Fortune 500 IT 採購端的訊號很一致，ChatGPT Business 在拿最多席次，因為 GPT-5.5 加 Agent Mode 加上週末推送的工作區延續性，是唯一一個能同時覆蓋研究、寫作、輕量寫程式給非工程師團隊的訂閱。Anthropic 這禮拜尾預告 Opus 4.7 extended thinking 更新，是進 Q3 前最聰明的一步，SWE-bench 87.6% 撐過上線後三整個禮拜的檢驗。Gemini Spark 禮拜四從 trusted-tester 解放給所有 AI Ultra 訂戶，是 I/O 承諾真的落地，對任何被鎖在 Workspace 的企業，這就是讓 Gemini Ultra 成為穩固第三個訂閱的關鍵。前三名以下沒變，Perplexity 守研究工作流加引用來源，Grok 4 還是唯一直連 X firehose 的模型，Copilot 守 Microsoft 365 預設，DeepSeek V4 是開源權重 CP 值首選，Meta AI 還在背 4 月那個贊助回答的包袱。重度使用者週五建議跟之前一樣，ChatGPT Plus 月費 NT$640 先訂，寫程式跟長文加 Claude Pro 月費 NT$640，活在 Google 生態就再加 Gemini AI Pro 月費 NT$620。採購週期會定義 Q3，實驗室都很清楚這件事。",
+          "highlights": [
+            {
+              "title": "ChatGPT Business 拿下 Q2 Fortune 500 最多席次",
+              "body": "GPT-5.5 加 Agent Mode 加上週末工作區延續性升級，是唯一一個能同時覆蓋研究、寫作、輕量寫程式給非工程師團隊的訂閱。這禮拜又進三家 Fortune 500 擴張，採購訊號很清楚。第一名守住沒問題。"
+            },
+            {
+              "title": "Claude Opus 4.7 extended thinking 預告是進 Q3 的正確擺位",
+              "body": "Anthropic 這禮拜尾預告 Opus 4.7 extended thinking 加工具使用更新，是 Q3 採購窗口前最對的一步。SWE-bench 87.6% 撐過上線後三禮拜檢驗，1M context 那層還是生產環境最乾淨的 monorepo 寫程式體驗。"
+            },
+            {
+              "title": "Gemini Spark 普及版上線是 I/O 承諾真的落地",
+              "body": "Google 禮拜四把 Spark 從 trusted-tester 解放給所有 AI Ultra 訂戶，是 I/O 2026 主題演講兩週後承諾真的兌現。對被鎖在 Workspace 的企業來說，這就是 Gemini Ultra 成為 ChatGPT 加 Claude 之外穩固第三個訂閱的關鍵。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
