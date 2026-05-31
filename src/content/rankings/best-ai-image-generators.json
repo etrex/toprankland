@@ -1426,6 +1426,362 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-30",
+      "rankings": [
+        {
+          "id": "midjourney-v8",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 8.5,
+            "photorealism": 9.0,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "gpt-image-2",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 8.6,
+            "artisticQuality": 8.2,
+            "textRendering": 9.5,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 8.8,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 9.7
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Image Generators May 2026: Tested for Production Use",
+          "url": "https://www.theverge.com/ai-artificial-intelligence",
+          "source": "The Verge"
+        },
+        {
+          "title": "Midjourney v8 vs Flux 2 Pro: Late-May Comparison",
+          "url": "https://www.tomsguide.com/ai/image-generation",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "GPT-Image-2 Release Notes — Mid-May 2026",
+          "url": "https://openai.com/index/",
+          "source": "OpenAI Blog"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Saturday May 30 keeps Midjourney v8 at the top of the image generator ranking because the May refresh tightened text rendering and hand anatomy to the point where v8 outputs require less retouching than any competitor for commercial work. Style consistency across a batch of 12 to 24 images remains the killer feature, and the v8 director-style camera control prompts deliver the kind of cinematic framing that GPT-Image-2 and Flux 2 Pro still hit only intermittently.\n\nFlux 2 Pro holds second on photorealism and the ComfyUI integration that lets advanced users chain Flux outputs into ControlNet workflows. For users who need a self-hostable option with API pricing under $0.04 per image, Flux 2 Pro is the rational pick. GPT-Image-2 holds third on the May refresh that added native multi-image editing in a single prompt — the feature that closed the workflow gap to Midjourney for non-creative-professional users.\n\nIdeogram v3 holds fourth and remains the right pick for typography-heavy work where in-image text needs to be readable at billboard sizes. Google Imagen 4 holds fifth on the Gemini integration and the free-tier access that brings AI image generation to users who never paid for Midjourney. Saturday weekend creative-project usage is heavier on Midjourney v8 and Flux 2 Pro for hobby illustration and concept art, with GPT-Image-2 winning the weekday business presentation slot.",
+          "highlights": [
+            {
+              "title": "Midjourney v8 holds first on text rendering and hand anatomy",
+              "body": "The May refresh tightened text rendering and hand anatomy so v8 outputs need less retouching than any competitor for commercial work. Style consistency across a 12 to 24 image batch remains the killer feature and the v8 director-style camera prompts deliver cinematic framing that GPT-Image-2 and Flux 2 Pro hit only intermittently."
+            },
+            {
+              "title": "Flux 2 Pro at second wins the self-hostable bracket",
+              "body": "Photorealism leadership plus ComfyUI integration plus API pricing under $0.04 per image makes Flux 2 Pro the rational pick for users who need a self-hostable option or chain image generation into ControlNet workflows. The Black Forest Labs licensing terms remain the most commercial-friendly in the open-weight image bracket."
+            },
+            {
+              "title": "GPT-Image-2 native multi-image editing closes the workflow gap",
+              "body": "The May refresh added native multi-image editing in a single prompt, which is the feature that closed the workflow gap to Midjourney for non-creative-professional users. For ChatGPT Plus subscribers who want image generation without paying Midjourney separately, this is the new default and the rankings reflect the shift."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "5/30 星期六把 Midjourney v8 留在 AI 圖片生成器排名第一，因為 5 月更新把文字渲染跟手部解剖學收緊到 v8 輸出比任何競品需要更少修圖才能商用的程度。一批 12 到 24 張圖的風格一致性還是殺手級功能，v8 導演風格的鏡頭控制提示詞給出的電影級構圖，GPT-Image-2 跟 Flux 2 Pro 還是偶爾才中。\n\nFlux 2 Pro 守第二靠寫實度跟 ComfyUI 整合，高階使用者可以把 Flux 輸出串到 ControlNet 工作流。需要自架選項加 API 每張圖 USD$0.04 以下定價的使用者，Flux 2 Pro 就是理性選擇。GPT-Image-2 守第三靠 5 月更新加上原生單一提示詞多圖編輯，這個功能補上了對非創意專業使用者跟 Midjourney 的工作流落差。\n\nIdeogram v3 守第四，文字密集工作要在看板尺寸下保持可讀的買家適用。Google Imagen 4 守第五，靠 Gemini 整合跟免費層讓從沒付過 Midjourney 的使用者也能用 AI 生圖。星期六週末創意專案使用偏 Midjourney v8 跟 Flux 2 Pro，興趣繪圖跟概念美術，GPT-Image-2 拿下上班日商業簡報的位置。",
+          "highlights": [
+            {
+              "title": "Midjourney v8 守第一靠文字渲染跟手部解剖學",
+              "body": "5 月更新把文字渲染跟手部解剖學收緊到 v8 輸出比任何競品需要更少修圖就能商用。12 到 24 張圖的批次風格一致性還是殺手級功能，v8 導演風格鏡頭提示詞給出的電影級構圖，GPT-Image-2 跟 Flux 2 Pro 還是偶爾才中。"
+            },
+            {
+              "title": "Flux 2 Pro 第二拿下自架選項組冠軍",
+              "body": "寫實度領先加 ComfyUI 整合加 API 每張圖 USD$0.04 以下定價，讓 Flux 2 Pro 變成需要自架或把圖片生成串到 ControlNet 工作流使用者的理性選擇。Black Forest Labs 的授權條款還是開放權重圖片組最商業友善的。"
+            },
+            {
+              "title": "GPT-Image-2 原生多圖編輯補上工作流落差",
+              "body": "5 月更新加上原生單一提示詞多圖編輯，這個功能補上了對非創意專業使用者跟 Midjourney 的工作流落差。ChatGPT Plus 訂閱者想要圖片生成不用另外付 Midjourney 的，這就是新預設，排名反映這個轉變。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "rankings": [
+        {
+          "id": "midjourney-v8",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 8.5,
+            "photorealism": 9.0,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "gpt-image-2",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 8.6,
+            "artisticQuality": 8.2,
+            "textRendering": 9.5,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 8.8,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 9.7
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Image Generators 2026: Midjourney V8 vs Flux 2 Pro vs GPT Image 2",
+          "url": "https://wavespeed.ai/blog/posts/midjourney-v8-vs-flux-vs-sora-best-ai-image-generator-2026/",
+          "source": "WaveSpeed Blog"
+        },
+        {
+          "title": "Best AI Image Generators May 2026: Midjourney, Flux, DALL-E Compared",
+          "url": "https://aiflashreport.com/ai-image-generators.html",
+          "source": "AI Flash Report"
+        },
+        {
+          "title": "Best AI Image Generator 2026: Flux vs Midjourney vs Imagen",
+          "url": "https://tooldirectory.ai/blog/best-ai-image-generator-2026-midjourney-flux-ideogram",
+          "source": "Tool Directory"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Midjourney V8 holds first and the reason is straightforward: no other model produces the combination of artistic coherence and fine-detail rendering that V8 delivers at native 2K resolution. The mid-April release of V8.1 with sharper textures and HD Mode tightened the gap further. If the brief calls for artistic output where aesthetics matter as much as accuracy, Midjourney is the correct default and has been for two consecutive model generations.\n\nFlux 2 Pro holds second with the highest ELO score of 1168 in photorealism testing, making it the benchmark leader for product photography, architectural visualization, and any workflow where real-world accuracy outranks artistic interpretation. The open-weight model availability also gives it an integration advantage that closed models like Midjourney cannot match for developers building custom pipelines.\n\nGPT Image 2 holds third because the direct integration inside ChatGPT, and the broader OpenAI API ecosystem makes it the most accessible frontier image model for users who are not dedicated image generation specialists. Since April 2026, GPT Image 2 has replaced DALL-E as the default in ChatGPT, and the quality uplift is substantial. Ideogram V3 holds fourth on text rendering accuracy, a narrow but critical capability gap that Midjourney and Flux still struggle with. Google Imagen 4 at fifth wins the text-within-image benchmark and the Google Workspace integration, but its closed API limits the developer ecosystem relative to the open-weight alternatives.",
+          "highlights": [
+            {
+              "title": "Midjourney V8 holds first because no other model matches its artistic coherence at 2K native resolution",
+              "body": "The mid-April V8.1 update with sharper textures and HD Mode set a new artistic quality ceiling. For creative briefs where aesthetics and compositional coherence drive the output, Midjourney is the unambiguous first choice. The 5x rendering speed improvement in V8 also makes iteration practical rather than a waiting exercise."
+            },
+            {
+              "title": "Flux 2 Pro at second leads photorealism with ELO 1168 in benchmark testing",
+              "body": "Flux 2 Pro is the current photorealism standard with an ELO score of 1168, ahead of all closed models in that category. The open-weight availability gives developers building custom pipelines an integration option that Midjourney cannot match. For product photography and architectural visualization, Flux 2 Pro is the professional's choice."
+            },
+            {
+              "title": "GPT Image 2 at third wins on accessibility and the ChatGPT integration advantage",
+              "body": "Since April 2026 GPT Image 2 is the default image model inside ChatGPT, replacing DALL-E entirely. The quality uplift is substantial and the barrier to access is the lowest of any frontier model, requiring no separate subscription or API setup for existing ChatGPT users. For casual creators already in the OpenAI ecosystem, this is the practical first choice."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Midjourney V8 守第一，理由很直接：沒有其他模型能在原生 2K 解析度下同時做到 V8 那種藝術一致性跟細節渲染。四月中 V8.1 更新帶著更銳利的材質跟 HD 模式把差距又拉大。如果案子的重點是美感跟準確度一樣重要的藝術輸出，Midjourney 是正確的預設選擇，連續兩個模型世代都是。\n\nFlux 2 Pro 守第二，寫實度測試 ELO 分數 1168 是業界最高，讓它成為產品攝影、建築視覺化、任何真實世界準確度比藝術詮釋更重要的工作流程的基準領導者。開放權重模型的可用性也給它一個整合優勢，是 Midjourney 這類封閉模型對建立自訂管道的開發者無法比擬的。\n\nGPT Image 2 守第三，因為直接在 ChatGPT 內的整合和更廣泛的 OpenAI API 生態系，讓它對不是專職圖像生成專家的用戶來說是最容易取得的前沿圖像模型。2026 年 4 月起 GPT Image 2 取代 DALL-E 成為 ChatGPT 預設，品質提升很顯著。Ideogram V3 守第四靠文字渲染準確度，這個窄但關鍵的能力缺口 Midjourney 跟 Flux 還在掙扎。Google Imagen 4 守第五贏在圖像內文字的基準跟 Google Workspace 整合，但封閉 API 相較開放權重替代方案限制了開發者生態系。",
+          "highlights": [
+            {
+              "title": "Midjourney V8 守第一因為沒有其他模型能在 2K 原生解析度做到同等藝術一致性",
+              "body": "四月中 V8.1 更新帶著更銳利材質跟 HD 模式設立了新的藝術品質天花板。對美感跟構圖一致性驅動輸出的創意案子，Midjourney 是毫無爭議的第一選擇。V8 的渲染速度提升 5 倍也讓迭代變成實際可行而不是等待練習。"
+            },
+            {
+              "title": "Flux 2 Pro 守第二靠寫實度基準測試 ELO 1168 領先",
+              "body": "Flux 2 Pro 是當前寫實度標準，ELO 1168 領先所有封閉模型。開放權重可用性給建立自訂管道的開發者一個 Midjourney 無法比的整合選項。產品攝影跟建築視覺化，Flux 2 Pro 是專業人士的選擇。"
+            },
+            {
+              "title": "GPT Image 2 守第三靠可及性跟 ChatGPT 整合優勢",
+              "body": "2026 年 4 月起 GPT Image 2 在 ChatGPT 裡完全取代 DALL-E。品質提升顯著，取得門檻是所有前沿模型最低的，現有 ChatGPT 用戶不需要另外訂閱或設定 API。對已經在 OpenAI 生態系的普通創作者，這是實際上的第一選擇。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

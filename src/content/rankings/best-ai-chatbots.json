@@ -2295,6 +2295,382 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-30",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.3,
+            "coding": 9.0,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.0,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.4,
+            "coding": 9.8,
+            "writing": 9.6,
+            "realtime": 7.5,
+            "value": 9.0,
+            "ecosystem": 9.0
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.9,
+            "realtime": 9.3,
+            "value": 9.5,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "reasoning": 8.8,
+            "coding": 8.2,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.4,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "ChatGPT vs Claude vs Gemini: Saturday Late-May Benchmarks",
+          "url": "https://www.theverge.com/ai-artificial-intelligence",
+          "source": "The Verge"
+        },
+        {
+          "title": "Best AI Chatbots 2026: Daily Use Comparison",
+          "url": "https://www.zdnet.com/article/best-ai-chatbot/",
+          "source": "ZDNet"
+        },
+        {
+          "title": "Perplexity Comet Update Notes — Late May 2026",
+          "url": "https://www.perplexity.ai/hub/blog",
+          "source": "Perplexity Blog"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Saturday May 30 sits in the calm between frontier model releases and the chatbot ranking reflects the steady-state usage patterns I am tracking. ChatGPT holds first because GPT-5.5 Instant has been the default for 25 days now and the hallucination reduction numbers OpenAI shipped at launch are holding up in my own daily testing. The 52.5% reduction on high-stakes prompts in medicine and law is the kind of measurable improvement that compounds when you use the product for actual decisions rather than benchmark runs.\n\nClaude holds second because Opus 4.7 still owns the agentic and long-context bracket. The xhigh reasoning effort level sitting between high and max gives a control surface that GPT-5.5 lacks, and the 1M context window plus file-system memory continues to be the right pick for anyone doing research synthesis across dozens of sources in a single thread. For deep work I open Claude. For quick factual questions I open ChatGPT. The split is honest and the rankings reflect actual usage.\n\nGemini holds third because the Google search integration plus the Workspace integration plus the free tier with Gemini 2.5 Pro access is the combination most casual users actually default to. Perplexity holds fourth on the Comet browser-agent integration that handles multi-step research tasks better than the chat-only competitors. Grok holds fifth on the X integration and the real-time news edge that the other chatbots cannot match for breaking events. Saturday usage patterns are heavier on Gemini and ChatGPT for the weekend planning and recipe queries, lighter on Claude and Perplexity which lean professional weekday usage.",
+          "highlights": [
+            {
+              "title": "ChatGPT holds first because GPT-5.5 hallucination reductions are holding in daily use",
+              "body": "25 days post-default-rollout and the 52.5% reduction on high-stakes medical, legal, and financial prompts is showing up in my own testing. For users who treat the chatbot as a decision-support tool rather than a benchmark playground, this is the improvement that compounds. The default model rollout to free users on May 5 also widened the user base meaningfully."
+            },
+            {
+              "title": "Claude Opus 4.7 holds second on agentic and long-context dominance",
+              "body": "The xhigh reasoning effort level between high and max gives a control surface GPT-5.5 lacks. The 1M context window with file-system memory is the right pick for research synthesis across dozens of sources in a single thread. For deep professional work the gap to ChatGPT widens, even as casual usage favors the OpenAI defaults."
+            },
+            {
+              "title": "Gemini at third earns the casual-default ranking",
+              "body": "Google search integration plus Workspace plus free Gemini 2.5 Pro access is the combination casual users default to without thinking. For the average Saturday recipe or weekend planning query, Gemini wins by being already-open in the Chrome tab. The ranking reflects observed usage rather than benchmark wins."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "5/30 星期六落在前沿模型發表之間的平靜期，聊天機器人排名反映我追蹤的穩態使用模式。ChatGPT 守第一，因為 GPT-5.5 Instant 當預設模型 25 天了，OpenAI 發表時公布的幻覺降低數字在我自己的日常測試中也站得住腳。醫療跟法律高風險提示降低 52.5% 幻覺，這種可量化的進步在你真的用產品做決策時會複利累積，不只是跑分。\n\nClaude 守第二，因為 Opus 4.7 還是握住代理跟長上下文這個區段。xhigh 推理強度落在 high 跟 max 之間，給了 GPT-5.5 沒有的控制介面，1M 上下文加檔案系統記憶還是適合在單一對話串內做數十份資料的研究合成。深度工作我開 Claude，快速事實查詢我開 ChatGPT，這個分工很誠實，排名反映實際使用。\n\nGemini 守第三，因為 Google 搜尋整合加 Workspace 整合加免費可用 Gemini 2.5 Pro，這組合就是大部分普通使用者預設不思考會選的。Perplexity 守第四，靠 Comet 瀏覽器代理整合處理多步驟研究任務比純聊天競品好。Grok 守第五，X 整合跟即時新聞的優勢其他聊天機器人在突發事件追不上。星期六使用模式 Gemini 跟 ChatGPT 在週末規劃跟食譜查詢更重，Claude 跟 Perplexity 偏專業上班日使用，比較輕。",
+          "highlights": [
+            {
+              "title": "ChatGPT 守第一因為 GPT-5.5 幻覺降低在日常使用站得住腳",
+              "body": "預設模型推出 25 天，醫療法律金融高風險提示降低 52.5% 幻覺在我自己測試中也出現了。把聊天機器人當決策支援工具而不是跑分玩具的使用者，這種進步會複利累積。5/5 推給免費使用者那波也明顯擴大了使用者基礎。"
+            },
+            {
+              "title": "Claude Opus 4.7 守第二在代理跟長上下文的領先地位",
+              "body": "xhigh 推理強度落在 high 跟 max 之間給了 GPT-5.5 沒有的控制介面。1M 上下文加檔案系統記憶適合在單一對話串內做數十份資料的研究合成。深度專業工作這個落差跟 ChatGPT 拉開，雖然休閒使用偏 OpenAI 預設。"
+            },
+            {
+              "title": "Gemini 守第三拿下休閒預設排名",
+              "body": "Google 搜尋整合加 Workspace 加免費 Gemini 2.5 Pro，這組合就是普通使用者不思考會選的。一般星期六食譜或週末規劃查詢，Gemini 因為 Chrome 分頁已經開著而贏。排名反映觀察到的使用而不是跑分勝負。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.3,
+            "coding": 9.0,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.0,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.4,
+            "coding": 9.8,
+            "writing": 9.6,
+            "realtime": 7.5,
+            "value": 9.0,
+            "ecosystem": 9.0
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.9,
+            "realtime": 9.3,
+            "value": 9.5,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "reasoning": 8.8,
+            "coding": 8.2,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.4,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Google I/O 2026: Gemini App Updates, Gemini Spark, and Gemini Omni",
+          "url": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Best AI Models May 2026: GPT-5.5, Claude, Gemini, DeepSeek V4",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "FelloAI"
+        },
+        {
+          "title": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide",
+          "url": "https://intuitionlabs.ai/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison",
+          "source": "IntuitionLabs"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Sunday May 31 closes out a week that saw Claude Opus 4.8 launch on May 28-29 as Anthropic's latest flagship, strengthening its position in agentic and long-context tasks. ChatGPT holds first place because GPT-5.5 Instant, now the default for all users, has demonstrated a measurable 52.5% reduction in hallucinations on high-stakes prompts and has been shipping inside Microsoft Excel and Google Sheets since mid-May. That kind of deep ecosystem embedding cements a platform effect that pure AI chatbots cannot easily replicate.\n\nClaude at second is my honest pick for anyone doing serious analytical work. Opus 4.8 continues the lineage of Anthropic's coding and reasoning leadership, and the 72.7% SWE-bench score is the clearest signal that this model handles real software engineering tasks, not just toy benchmarks. The xhigh reasoning effort level between high and max gives control-freak power users a calibration surface that OpenAI still lacks.\n\nGemini at third earns its spot through Google I/O momentum. The May 19 launch of Gemini 3.5 Flash and Gemini Spark expanded the Gemini app into a full AI hub with a Daily Brief feature, redesigned UI, and Gemini Omni video support. For casual users already living in Google Workspace, Gemini is the obvious default that needs no convincing. Perplexity holds fourth with the Sonar Pro search engine achieving 94.3% citation accuracy, keeping it the go-to for fact-grounded research queries. Grok at fifth stays relevant because real-time X data integration is still unmatched for breaking news and market events, a niche that no other chatbot has filled. The Sunday usage pattern skews toward Gemini and ChatGPT for weekend planning and casual queries, while Claude and Perplexity see lighter professional use.",
+          "highlights": [
+            {
+              "title": "ChatGPT holds first because GPT-5.5 ecosystem embedding is compounding",
+              "body": "GPT-5.5 Instant is now shipping inside Microsoft Excel and Google Sheets, adding a workflow integration layer that pure chatbot competitors cannot match. The 52.5% hallucination reduction on high-stakes medical and legal prompts, now 26 days into the default rollout, continues to hold in my daily testing. The ecosystem effect is the moat."
+            },
+            {
+              "title": "Claude Opus 4.8 at second is the right pick for serious analytical and coding work",
+              "body": "Anthropic shipped Opus 4.8 on May 28-29 with Dynamic Workflows and it continues the 72.7% SWE-bench coding benchmark leadership. The 1M context window with file-system memory and the xhigh reasoning effort level give professionals a precision control surface that ChatGPT still lacks. For research synthesis and software engineering, Claude is the correct choice."
+            },
+            {
+              "title": "Gemini at third rides Google I/O momentum into the weekend",
+              "body": "The May 19 Google I/O debut of Gemini 3.5 Flash, Gemini Spark, and Gemini Omni video transformed the Gemini app from a chatbot into an AI hub with Daily Briefs and a redesigned UI. Qwen 3.7 Max from Alibaba on May 20 showed how quickly the global competitive landscape is moving, but Gemini's Google search integration keeps it ahead for casual users in the English-speaking market."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "5/31 星期日收掉這週，Anthropic 在 5/28-29 正式推出 Claude Opus 4.8，帶著 Dynamic Workflows 上陣，強化代理任務跟長上下文的領先地位。ChatGPT 守第一，因為 GPT-5.5 Instant 現在是所有用戶的預設，五月中旬開始又整合進 Microsoft Excel 跟 Google Sheets，這種生態系深度嵌入給了其他純聊天機器人很難追上的平台效應。高風險提示幻覺降低 52.5% 也在我的日常測試中站住腳了，推出 26 天了依然穩定。\n\nClaude 守第二，這是我對任何認真做分析工作的人的誠實推薦。Opus 4.8 延續 Anthropic 在程式和推理的領先地位，SWE-bench 72.7% 的分數是最清楚的信號，說明這個模型處理的是真實軟體工程任務，不是玩具基準測試。xhigh 推理強度夾在 high 和 max 之間，給控制狂進階使用者一個 OpenAI 目前還沒有的微調介面。\n\nGemini 守第三，靠著 Google I/O 的動能。5/19 推出的 Gemini 3.5 Flash、Gemini Spark 和 Gemini Omni 把 Gemini app 從聊天機器人擴張成完整 AI 樞紐，有 Daily Brief、重設計 UI 和影片支援。阿里巴巴 5/20 推出 Qwen 3.7 Max 說明全球競爭有多快，不過 Gemini 的 Google 搜尋整合讓它在英語市場繼續對普通用戶最有吸引力。Perplexity 守第四，Sonar Pro 引用準確率 94.3% 讓它在需要有依據的研究查詢時是首選。Grok 守第五，即時 X 資料整合在突發新聞跟市場事件上還是沒有對手，這個利基沒有其他聊天機器人能填補。",
+          "highlights": [
+            {
+              "title": "ChatGPT 守第一因為 GPT-5.5 生態系嵌入效應在複利",
+              "body": "GPT-5.5 Instant 現在整合進 Microsoft Excel 跟 Google Sheets，加了一層工作流程整合讓純聊天機器人競品很難跟上。高風險醫療法律提示幻覺降低 52.5%，推出 26 天了依然在我的日常測試中成立。生態系效應就是護城河。"
+            },
+            {
+              "title": "Claude Opus 4.8 守第二，是認真做分析和程式工作的正確選擇",
+              "body": "Anthropic 5/28-29 推出 Opus 4.8 帶著 Dynamic Workflows，延續 SWE-bench 72.7% 的程式基準領先地位。1M 上下文加檔案系統記憶跟 xhigh 推理強度，給專業使用者一個 ChatGPT 目前沒有的精準控制介面。研究合成跟軟體工程，Claude 是正確選擇。"
+            },
+            {
+              "title": "Gemini 守第三靠 Google I/O 動能撐過週末",
+              "body": "5/19 Google I/O 亮相的 Gemini 3.5 Flash、Gemini Spark 和 Gemini Omni 影片讓 Gemini app 從聊天機器人變成有 Daily Brief 和重設計 UI 的 AI 樞紐。阿里巴巴 5/20 推 Qwen 3.7 Max 說明競爭有多激烈，但 Gemini 的 Google 搜尋整合讓它在英語市場繼續對普通用戶最順手。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

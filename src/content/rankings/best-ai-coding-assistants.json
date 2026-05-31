@@ -7963,6 +7963,386 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-30",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "codeQuality": 9.7,
+            "contextWindow": 9.6,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.6,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 7.7
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Coding Assistant Showdown: Claude Code vs Cursor vs Codex",
+          "url": "https://www.swyx.io/",
+          "source": "Latent Space"
+        },
+        {
+          "title": "SWE-bench Pro May 2026 Leaderboard Snapshot",
+          "url": "https://www.swebench.com/",
+          "source": "SWE-bench"
+        },
+        {
+          "title": "Developer Survey: What Coding Tools Pros Use in 2026",
+          "url": "https://survey.stackoverflow.co/",
+          "source": "Stack Overflow"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Saturday May 30 puts Claude Code at the top of the coding assistant ranking and the SWE-bench Pro numbers from the Opus 4.7 release on April 16 explain why. The 64.3% score on SWE-bench Pro is 10.9 points clear of Opus 4.6 and the gap to the second-place coding assistant remains the widest in the category. For engineers shipping real changes to production codebases — not toy demos — Claude Code is the unambiguous default in late May 2026.\n\nCursor holds second because the IDE-native experience with Claude Opus 4.7 as the default model gives professional developers the best of both. The agent mode that runs multi-file refactors in a sandboxed worktree continues to be the most useful new feature shipped in the past quarter. OpenAI Codex holds third because the GPT-5.5 backend pushed the autocomplete accuracy past Copilot for the first time in two years, and the Codex CLI agent shipped in mid-May added the kind of agentic workflow that Cursor and Claude Code already had.\n\nGitHub Copilot holds fourth because the GPT-5 mini default still ships in the free tier and the Visual Studio Code integration is the broadest install base in the industry. The model gap to Claude Code is real, but for individual developers doing autocomplete-driven work without agentic tasks, Copilot is still the easiest sell. Google Jules holds fifth on the Gemini 2.5 Pro integration and the Workspace tie-in for engineering teams already on Google infrastructure. Saturday weekend hobby coding is heavier on Claude Code and Cursor, lighter on Copilot which dominates weekday corporate usage.",
+          "highlights": [
+            {
+              "title": "Claude Code holds first because the SWE-bench Pro lead is real",
+              "body": "Opus 4.7 scored 64.3% on SWE-bench Pro at the April 16 release, 10.9 points clear of Opus 4.6 and the widest gap to second place in the category. For engineers shipping production changes rather than running benchmarks, Claude Code is the unambiguous default in late May 2026."
+            },
+            {
+              "title": "Cursor at second is the IDE-native answer for Claude Opus 4.7",
+              "body": "Default model is Claude Opus 4.7, agent mode runs multi-file refactors in sandboxed worktrees, and the IDE experience matches VS Code for muscle memory. For professional developers who want frontier model intelligence plus IDE ergonomics, this is the rational pick. The free tier limits push committed users to the $20 monthly subscription."
+            },
+            {
+              "title": "OpenAI Codex CLI agent shipped mid-May closes the agentic gap",
+              "body": "The CLI agent rolled out in mid-May 2026 gave Codex the kind of agentic workflow Claude Code and Cursor already had. Combined with GPT-5.5 autocomplete accuracy passing Copilot, this is the first time in two years OpenAI's coding stack has been competitive at the top. Worth a retest for teams that wrote off Codex during the GPT-4 era."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "5/30 星期六把 Claude Code 放在編碼助理排名第一，4/16 Opus 4.7 發表時的 SWE-bench Pro 數字解釋了為什麼。SWE-bench Pro 64.3% 比 Opus 4.6 領先 10.9 分，跟第二名編碼助理的差距還是這個分類最大的。出貨真實程式碼到生產環境的工程師，不是寫玩具範例，2026 年 5 月底 Claude Code 就是不容質疑的預設選擇。\n\nCursor 守第二，IDE 原生體驗加 Claude Opus 4.7 預設模型，給專業開發者兩邊最好的。代理模式可以在沙盒工作樹跑多檔案重構，還是這一季出貨最有用的新功能。OpenAI Codex 守第三，GPT-5.5 後端把自動完成準確度推過 Copilot，兩年來第一次，5 月中出貨的 Codex CLI 代理加入了 Cursor 跟 Claude Code 已經有的代理工作流。\n\nGitHub Copilot 守第四，GPT-5 mini 預設還是在免費層、VS Code 整合是業界最大裝機量。模型差距跟 Claude Code 是真的，但個人開發者做自動完成導向工作不要代理任務的，Copilot 還是最容易賣的。Google Jules 守第五，Gemini 2.5 Pro 整合加 Workspace 連結，已經在 Google 基礎建設上的工程團隊適用。星期六週末興趣寫程式 Claude Code 跟 Cursor 比較重，Copilot 偏上班日企業使用，比較輕。",
+          "highlights": [
+            {
+              "title": "Claude Code 守第一因為 SWE-bench Pro 領先是真的",
+              "body": "Opus 4.7 在 4/16 發表時跑出 SWE-bench Pro 64.3%，比 Opus 4.6 領先 10.9 分，跟第二名的差距是這個分類最大的。出貨生產程式碼而不是跑分的工程師，2026 年 5 月底 Claude Code 就是預設選擇，沒有第二個選項。"
+            },
+            {
+              "title": "Cursor 第二是 Claude Opus 4.7 的 IDE 原生答案",
+              "body": "預設模型就是 Claude Opus 4.7、代理模式可在沙盒工作樹跑多檔案重構、IDE 體驗對齊 VS Code 肌肉記憶。想要前沿模型智慧加 IDE 人體工學的專業開發者，這就是理性選擇。免費層限制會推真正使用的人去訂 USD$20 月費。"
+            },
+            {
+              "title": "OpenAI Codex CLI 代理 5 月中出貨補上代理落差",
+              "body": "5 月中推出的 CLI 代理給 Codex 加上 Claude Code 跟 Cursor 已經有的代理工作流。加上 GPT-5.5 自動完成準確度過 Copilot，這是兩年來 OpenAI 編碼堆疊第一次在頂尖層級有競爭力。GPT-4 時代放棄 Codex 的團隊值得重新測試。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "codeQuality": 9.7,
+            "contextWindow": 9.6,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.6,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 7.7
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Cursor vs Claude Code: The Battle of AI Coding Assistants for 2026",
+          "url": "https://learn.ryzlabs.com/ai-coding-assistants/cursor-vs-claude-code-the-battle-of-ai-coding-assistants-for-2026",
+          "source": "Ryz Labs"
+        },
+        {
+          "title": "Cursor, Claude Code, and Codex are merging into one AI coding stack nobody planned",
+          "url": "https://thenewstack.io/ai-coding-tool-stack/",
+          "source": "The New Stack"
+        },
+        {
+          "title": "AI Coding Assistant Comparison 2026: Cursor, Copilot, Claude Code, and JetBrains AI",
+          "url": "https://earezki.com/ai-news/2026-05-23-the-ai-coding-assistant-landscape-in-2026-cursor-vs-github-copilot-vs-claude-code-vs-jetbrains-ai/",
+          "source": "Dev|Journal"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code holds first as of Sunday May 31, and the case is grounded in hard data: Claude Opus 4.7 and now Opus 4.8 sit at 72.7% on SWE-bench, the industry's most credible real-world coding benchmark. That is not a curated showcase result. It is a score on messy, legacy-code-adjacent software engineering tasks that developers actually encounter. The agentic capability score of 9.5 reflects the terminal-native CLI that ships with project memory, file-system access, and multi-file coordination out of the box.\n\nCursor holds second because the May 18 Composer 2.5 release narrowed the model quality gap and added Bugbot, an in-editor agent that triages and fixes bugs autonomously with a reported 78% self-resolution rate on its own flagged issues. The IDE integration score of 9.5 is the highest in the category and it reflects a product designed around the editor experience, not bolted on top of it. Cursor is the right choice for developers who want the richest visual IDE experience with AI embedded at every layer.\n\nOpenAI Codex sits at third, operating as a cloud-based execution agent rather than an editor plugin. The composability story is real: by May 2026 early adopters are running Codex alongside Claude Code and Cursor in a three-layer orchestration stack, with Codex handling cloud execution while Claude Code manages reasoning and Cursor handles IDE interaction. GitHub Copilot holds fourth on the sheer installed base and enterprise trust, even as the underlying model quality has been surpassed. Google Jules at fifth benefited from the Gemini 3.1 integration and the Google Cloud developer toolchain, but still lacks the raw benchmark numbers to challenge the top three.",
+          "highlights": [
+            {
+              "title": "Claude Code holds first on 72.7% SWE-bench, the most credible coding benchmark available",
+              "body": "Claude Opus 4.8's 72.7% SWE-bench score covers messy, legacy-adjacent software engineering tasks that developers actually encounter, not curated demo scenarios. The terminal-native CLI with project memory, file-system access, and multi-file coordination is the agentic capability score of 9.5 in practice. For developers shipping production code, this is the strongest signal in the market."
+            },
+            {
+              "title": "Cursor at second earns its ranking with Bugbot's 78% autonomous bug resolution",
+              "body": "The May 18 Composer 2.5 release added Bugbot, an in-editor agent that triages and fixes bugs autonomously. Cursor's own data shows 78% self-resolution on Bugbot-flagged issues. The IDE integration score of 9.5 is the highest in the category and reflects a product built around the editor experience, not added on top of it."
+            },
+            {
+              "title": "The three-tool coding stack is real and Codex is holding its layer",
+              "body": "Early adopters are running Codex, Claude Code, and Cursor together in a composable stack: Codex handles cloud execution, Claude Code handles reasoning and planning, Cursor handles IDE interaction. This is not a marketing narrative; it is the actual workflow emerging from the developer community in May 2026. Codex at third reflects its cloud execution role in that stack."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 守第一到 5/31 星期日，理由很硬：Claude Opus 4.7 跟現在的 Opus 4.8 在 SWE-bench 拿下 72.7%，這是業界最可信的真實世界程式基準。不是精心挑選的展示結果，是在開發者實際會遇到的凌亂、接近遺留程式碼的軟體工程任務上拿的分數。代理能力分數 9.5 反映的是終端機原生 CLI 開箱就帶專案記憶、檔案系統存取和多檔案協調。\n\nCursor 守第二，因為 5/18 的 Composer 2.5 版本拉近了模型品質的差距，還加了 Bugbot，一個在編輯器裡自主處理跟修復 bug 的代理，官方回報在自己標記的問題上有 78% 自我解決率。IDE 整合分數 9.5 是這個類別最高的，反映一個圍繞編輯器體驗設計的產品，不是硬貼上去的。Cursor 是想要最豐富視覺 IDE 體驗加上 AI 全層嵌入的開發者的正確選擇。\n\nOpenAI Codex 守第三，以雲端執行代理的角色運作而不是編輯器插件。可組合性的故事是真的：2026 年 5 月早期採用者正在把 Codex 跟 Claude Code 和 Cursor 一起跑在三層編排堆疊裡，Codex 處理雲端執行，Claude Code 管推理，Cursor 管 IDE 互動。GitHub Copilot 守第四靠龐大的已安裝基礎和企業信任，儘管底層模型品質已經被超越。Google Jules 守第五受益於 Gemini 3.1 整合和 Google Cloud 開發者工具鏈，但基準數字還不夠挑戰前三名。",
+          "highlights": [
+            {
+              "title": "Claude Code 守第一靠 SWE-bench 72.7%，業界最可信的程式基準",
+              "body": "Claude Opus 4.8 的 SWE-bench 72.7% 蓋的是開發者實際會遇到的凌亂、接近遺留程式碼的軟體工程任務，不是策展過的展示場景。終端機原生 CLI 帶專案記憶、檔案系統存取和多檔案協調就是代理能力分數 9.5 的實際體現。對在生產環境出貨程式碼的開發者，這是市場上最強的信號。"
+            },
+            {
+              "title": "Cursor 守第二靠 Bugbot 78% 自主 bug 解決率",
+              "body": "5/18 Composer 2.5 版本加了 Bugbot，在編輯器裡自主處理跟修復 bug 的代理。Cursor 自己的數據顯示 Bugbot 標記問題有 78% 自我解決率。IDE 整合分數 9.5 是這個類別最高的，反映圍繞編輯器體驗建立的產品，而不是貼上去的。"
+            },
+            {
+              "title": "三工具程式堆疊是真的，Codex 守住它的那一層",
+              "body": "早期採用者正在把 Codex、Claude Code 和 Cursor 組合成一個可組合堆疊：Codex 處理雲端執行，Claude Code 處理推理規劃，Cursor 處理 IDE 互動。這不是行銷說法，是 2026 年 5 月開發者社群真實出現的工作流程。Codex 守第三反映它在這個堆疊裡的雲端執行角色。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

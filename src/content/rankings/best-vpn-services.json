@@ -6536,6 +6536,160 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-05-31",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.6,
+            "network": 9.5,
+            "usability": 9.0,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 9.1,
+            "network": 9.6,
+            "usability": 9.0,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "NordVPN Review 2026: NordWhisper and Post-Quantum Encryption Tested",
+          "url": "https://www.technerdo.com/blog/nordvpn-review-2026",
+          "source": "Technerdo"
+        },
+        {
+          "title": "Mullvad vs Proton VPN: Which VPN is best in 2026?",
+          "url": "https://cyberinsider.com/vpn/comparison/mullvad-vs-proton-vpn/",
+          "source": "CyberInsider"
+        },
+        {
+          "title": "10 Best VPN Services for Privacy and Security in 2026",
+          "url": "https://www.verold.com/best-vpn-services-privacy-security-2026/",
+          "source": "Verold"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Mullvad holds first and the privacy case is airtight. The May 2026 exit IP fingerprinting disclosure is actually a positive signal: co-founder transparency was immediate, a fix was confirmed in testing, and the community response validated the trust that Mullvad has built. That is the behavior you want from a privacy tool, not silence or spin. At EUR 5 per month flat with no personal account required and account numbers instead of email addresses, the business model itself is the privacy guarantee.\n\nProton VPN holds second and the Swiss jurisdiction plus the open-source client code gives privacy-conscious users a verifiable trust foundation. The March 2026 pricing adjustment settled at $2.99 per month on annual plans, making it more affordable than Mullvad for budget-conscious users who still want a credible privacy story. The server network breadth and Workspace integration with ProtonMail give it a productivity angle that pure VPN tools lack. For users already in the Proton ecosystem, this is the obvious extension.\n\nNordVPN holds third because post-quantum NordLynx is now the default on every supported platform, Linux, Windows, macOS, Android, and iOS, making Nord the first major provider to ship post-quantum as a universal default. That is a concrete technical milestone, not a roadmap promise. The network breadth of 6,000-plus servers across 111 countries gives it the unblocking power that privacy-first tools like Mullvad deliberately sacrifice. IVPN at fourth sits alongside Mullvad as an independently operated no-logs provider for users who want Mullvad-level privacy with a different UX. ExpressVPN at fifth trades some privacy credibility for speed and ease of use, the correct trade-off for users who prioritize streaming access and travel usability.",
+          "highlights": [
+            {
+              "title": "Mullvad holds first because the May 2026 fingerprinting disclosure shows exactly the transparency a privacy tool should have",
+              "body": "When a vulnerability was found, Mullvad's co-founder disclosed it publicly, confirmed a fix in testing, and received positive community response. That behavior pattern is the actual privacy guarantee, more reliable than any marketing claim. The EUR 5 flat monthly rate with no personal information required completes the privacy case."
+            },
+            {
+              "title": "NordVPN at third is the first major VPN to make post-quantum encryption the universal default",
+              "body": "Post-quantum NordLynx is now the default protocol across Linux, Windows, macOS, Android, and iOS, ahead of ExpressVPN and Mullvad. For users whose threat model includes future quantum decryption of today's traffic, Nord is the only major provider that has shipped this protection as the baseline, not an opt-in. The 6,000-plus server network also delivers the unblocking power that privacy-first tools deliberately limit."
+            },
+            {
+              "title": "Proton VPN at second earns its position on verifiable open-source trust and Swiss jurisdiction",
+              "body": "The open-source client code lets security researchers audit the privacy claims directly, a standard that NordVPN and ExpressVPN do not meet. The March 2026 pricing at $2.99 per month on annual plans makes it the most affordable credible privacy VPN in the ranking. For users in the Proton ecosystem, the ProtonMail integration makes it an obvious and natural extension."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Mullvad 守第一，隱私案例無懈可擊。2026 年 5 月的出口 IP 指紋識別揭露其實是正面信號：共同創辦人透明度是即時的，測試中的修復已確認，社群反應驗證了 Mullvad 建立的信任。這正是你想從隱私工具得到的行為，不是沉默或公關說詞。每月定額 NT$165 左右（歐元 5 元）不需要個人帳號，用帳號號碼取代電子郵件地址，商業模式本身就是隱私保證。\n\nProton VPN 守第二，瑞士司法管轄加上開源客戶端程式碼給注重隱私的用戶一個可驗證的信任基礎。2026 年 3 月的定價調整在年繳方案落在每月 NT$90 左右（約 2.99 美元），比 Mullvad 對預算有限但仍想要可信隱私故事的用戶更划算。伺服器網路廣度和跟 ProtonMail 的 Workspace 整合給它純 VPN 工具缺少的生產力角度。已經在 Proton 生態系的用戶，這是明顯的延伸。\n\nNordVPN 守第三，因為後量子 NordLynx 現在是所有支援平台的預設，Linux、Windows、macOS、Android 和 iOS，讓 Nord 成為第一個把後量子作為通用預設出貨的主要服務提供者。這是具體的技術里程碑，不是路線圖承諾。超過 6,000 台伺服器遍佈 111 個國家的網路廣度給它像 Mullvad 這類隱私優先工具刻意犧牲的解鎖能力。IVPN 守第四，和 Mullvad 一樣是獨立運營的零日誌服務商，適合想要 Mullvad 級別隱私但偏好不同 UX 的用戶。ExpressVPN 守第五，用一些隱私信譽換速度和易用性，對優先考慮串流存取和旅行使用性的用戶是正確取捨。",
+          "highlights": [
+            {
+              "title": "Mullvad 守第一因為 2026 年 5 月的指紋識別揭露展示了隱私工具應有的透明度",
+              "body": "發現漏洞時，Mullvad 共同創辦人公開揭露，確認修復在測試中，收到正面的社群反應。這種行為模式才是實際的隱私保證，比任何行銷說詞都可靠。每月定額 NT$165 左右（歐元 5 元）不需要個人資料完成了隱私論述。"
+            },
+            {
+              "title": "NordVPN 守第三，是第一個把後量子加密做成通用預設的主要 VPN",
+              "body": "後量子 NordLynx 現在是 Linux、Windows、macOS、Android 和 iOS 的預設協議，領先 ExpressVPN 和 Mullvad。對威脅模型包含未來量子解密今日流量的用戶，Nord 是唯一把這個保護作為基線而非選擇性功能出貨的主要服務商。超過 6,000 台伺服器的網路也提供了隱私優先工具刻意限制的解鎖能力。"
+            },
+            {
+              "title": "Proton VPN 守第二靠可驗證的開源信任和瑞士司法管轄",
+              "body": "開源客戶端程式碼讓安全研究人員直接稽核隱私聲明，這是 NordVPN 和 ExpressVPN 達不到的標準。2026 年 3 月年繳每月約 NT$90（約 2.99 美元）讓它成為排名中最划算的可信隱私 VPN。已在 Proton 生態系的用戶，ProtonMail 整合讓它成為明顯自然的延伸。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
