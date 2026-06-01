@@ -8343,6 +8343,212 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-01",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "codeQuality": 9.7,
+            "contextWindow": 9.6,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.6,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 7.7
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "GitHub Copilot Under Pressure: Cursor and Claude Code Are Eating Its Lunch (2026)",
+          "url": "https://pasqualepillitteri.it/en/news/3392/github-copilot-cursor-claude-code-ai-coding-showdown-2026",
+          "source": "Pasquale Pillitteri"
+        },
+        {
+          "title": "The AI Coding Assistant Landscape in 2026: Cursor vs GitHub Copilot vs Claude Code vs JetBrains AI",
+          "url": "https://earezki.com/ai-news/2026-05-23-the-ai-coding-assistant-landscape-in-2026-cursor-vs-github-copilot-vs-claude-code-vs-jetbrains-ai/",
+          "source": "Dev Journal"
+        },
+        {
+          "title": "Cursor, Claude Code, and Codex are merging into one AI coding stack nobody planned",
+          "url": "https://thenewstack.io/ai-coding-tool-stack/",
+          "source": "The New Stack"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Today is the day GitHub Copilot's pricing math changes, and it reshapes how I think about this whole field. As of June 1, every Copilot plan moves to usage-based billing. Code completions and Next Edit suggestions stay free, but premium model calls now draw from a credit pool, and GitHub has already paused new Pro and Pro+ sign-ups to manage the transition. For a tool whose entire pitch was a flat, predictable monthly fee, that is a meaningful shift, and it is the reason Copilot holds at fourth rather than climbing. Claude Code stays at number one and I am comfortable defending that. Opus 4.7 pushed SWE-bench Verified to 87.6% and SWE-bench Pro to 64.3%, and in my own multi-file refactors the agent simply finishes the job with fewer corrections. Cursor remains the strongest IDE-native experience at number two, now past a million users and reportedly two billion dollars in annual recurring revenue, with Composer 2 and parallel agents giving it real throughput. The most interesting story this week is convergence: Cursor, Claude Code, and Codex are increasingly being run side by side in one stack, which tells me the smart move is picking a primary and keeping a second in reserve. Adoption data backs the order here. Copilot's share among professional developers slid from 67% to 51%, Cursor debuted at 18% among AI-native IDEs, and Claude Code landed at 10% on its first appearance. If you write code for a living, run Claude Code for agentic work and keep Cursor open for in-editor flow.",
+          "highlights": [
+            {
+              "title": "Copilot's June 1 billing flip",
+              "body": "Every GitHub Copilot plan moves to usage-based billing today. Completions stay free, premium models draw credits, and new Pro and Pro+ sign-ups are paused during the transition."
+            },
+            {
+              "title": "Claude Code holds the top spot",
+              "body": "Opus 4.7 lifted SWE-bench Verified to 87.6% and SWE-bench Pro to 64.3%. In real multi-file refactors the agent finishes with fewer corrections, which keeps it at number one."
+            },
+            {
+              "title": "Cursor's scale is real",
+              "body": "Past one million users and reported two billion dollars ARR, Cursor pairs Composer 2 with parallel agents for genuine throughput, holding second as the best IDE-native option."
+            },
+            {
+              "title": "The stack is converging",
+              "body": "Developers are running Cursor, Claude Code, and Codex together. Pick one primary for agentic work and keep a second in reserve for editor flow."
+            },
+            {
+              "title": "Market share confirms the order",
+              "body": "Copilot's professional-developer share fell from 67% to 51%, Cursor debuted at 18% among AI-native IDEs, and Claude Code reached 10% on its first survey appearance."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "今天是 GitHub Copilot 計價方式正式翻盤的日子，對我來說整個 AI 寫程式工具的排法都得重新想一遍。六月一號起，所有 Copilot 方案改成用量計費，程式碼補全跟 Next Edit 建議還是免費，但呼叫高階模型就要從點數池裡扣，而且 GitHub 已經先暫停 Pro 跟 Pro+ 的新註冊來控管轉換。一個當初主打「每月固定價、好預算」的工具突然這樣搞，老實講衝擊不小，這也是 Copilot 守在第四、爬不上來的原因。Claude Code 繼續坐穩第一，這個我很敢挺。Opus 4.7 把 SWE-bench Verified 衝到 87.6%、SWE-bench Pro 拉到 64.3%，我自己跑跨檔案重構的時候，這個 agent 真的就是少改幾次就收尾，省心。Cursor 穩在第二，IDE 內建體驗還是最順的，使用者破百萬、年經常性收入傳聞兩億美金等級，Composer 2 加上平行 agent 吞吐量很實在。這週最值得聊的是「整合」這件事，現在不少人 Cursor、Claude Code、Codex 三個一起開，講白了就是挑一個當主力，留一個當備援最聰明。採用率數據也撐得起這個排序，Copilot 在專業開發者裡的占比從 67% 掉到 51%，Cursor 首次登場就 18%，Claude Code 第一次進榜也有 10%。靠這個吃飯的，agentic 任務交給 Claude Code，編輯器內順手就留著 Cursor。",
+          "highlights": [
+            {
+              "title": "Copilot 六月一號計價翻盤",
+              "body": "今天起所有 Copilot 方案改用量計費。補全免費、高階模型扣點，轉換期間新 Pro 跟 Pro+ 註冊暫停，這對主打固定價的它衝擊很大。"
+            },
+            {
+              "title": "Claude Code 續坐第一",
+              "body": "Opus 4.7 把 SWE-bench Verified 拉到 87.6%、Pro 到 64.3%。實際跑跨檔案重構少改幾次就收尾，第一名沒懸念。"
+            },
+            {
+              "title": "Cursor 規模是真的",
+              "body": "破百萬使用者、傳聞兩億美金 ARR，Composer 2 配平行 agent 吞吐很實在，IDE 內建體驗最順，穩坐第二。"
+            },
+            {
+              "title": "工具走向整合",
+              "body": "現在很多人 Cursor、Claude Code、Codex 一起開。挑一個當 agentic 主力，留一個當編輯器備援最划算。"
+            },
+            {
+              "title": "市占印證排序",
+              "body": "Copilot 專業開發者占比從 67% 掉到 51%，Cursor 首登 18%，Claude Code 首次進榜 10%。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -3416,6 +3416,212 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-01",
+      "rankings": [
+        {
+          "id": "suno-v5",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "audioQuality": 9.7,
+            "vocalRealism": 9.4,
+            "editingControl": 9.5,
+            "commercialLicense": 7.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "elevenlabs-music",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "audioQuality": 9.2,
+            "vocalRealism": 9.7,
+            "editingControl": 8.1,
+            "commercialLicense": 9.6,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "udio",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "audioQuality": 9.6,
+            "vocalRealism": 9.5,
+            "editingControl": 9.7,
+            "commercialLicense": 7.5,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "lyria-3-pro",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 8.6,
+            "editingControl": 8.4,
+            "commercialLicense": 9.5,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 5,
+          "score": 8.4,
+          "scores": {
+            "audioQuality": 8.8,
+            "vocalRealism": 7.0,
+            "editingControl": 8.5,
+            "commercialLicense": 9.4,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "riffusion",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "audioQuality": 8.2,
+            "vocalRealism": 7.8,
+            "editingControl": 8.5,
+            "commercialLicense": 8.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "soundraw",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "audioQuality": 8.0,
+            "vocalRealism": 6.5,
+            "editingControl": 7.5,
+            "commercialLicense": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aiva",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 6.8,
+            "editingControl": 7.8,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "mubert",
+          "rank": 9,
+          "score": 7.3,
+          "scores": {
+            "audioQuality": 7.5,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "loudly",
+          "rank": 10,
+          "score": 7.0,
+          "scores": {
+            "audioQuality": 7.3,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "boomy",
+          "rank": 11,
+          "score": 6.8,
+          "scores": {
+            "audioQuality": 6.8,
+            "vocalRealism": 6.5,
+            "editingControl": 6.8,
+            "commercialLicense": 8.5,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "ElevenLabs, Stability AI Drop New AI Music Models, Can They Catch Suno?",
+          "url": "https://decrypt.co/369237/elevenlabs-stability-ai-new-music-models-suno",
+          "source": "Decrypt"
+        },
+        {
+          "title": "ElevenLabs Music v2: AI Music Generator Now Switches Genres Mid-Track",
+          "url": "https://memeburn.com/elevenlabs-music-v2-ai-music-generator-now-switches-genres-mid-track/",
+          "source": "Memeburn"
+        },
+        {
+          "title": "Suno vs Udio vs ElevenLabs Music: The 2026 AI Music Generator Showdown",
+          "url": "https://www.aimagicx.com/blog/suno-vs-udio-vs-elevenlabs-music-comparison-2026",
+          "source": "AI Magicx"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Suno stays at the top of my list this week, and the reason is simple. With a $300M ARR and around 2 million paying subscribers, it has the deepest genre coverage and the most mature editing ecosystem of anything I test. I will note the v5.5 update from late March drew real complaints about high frequency hiss and quality drift past the first minute of a track, so I am watching that closely, but for full songs with believable structure it remains my default. ElevenLabs Music keeps climbing because v2 now switches genres mid-track and regenerates a single section without touching the rest, which is exactly the kind of surgical control I want when a chorus lands but the bridge does not. The company also cut API pricing by up to 50 percent and self-serve by up to 40 percent, so the value math improved overnight. That price move alone makes it the smart pick for anyone shipping commercial work, since its licensing story is the cleanest in the field. Udio holds third on pure audio craft. The Universal Music settlement points to a jointly licensed platform arriving this year, which is promising, but downloads stay disabled across every tier right now, and that export gap keeps it out of production pipelines for me. Lyria 3 Pro from Google and Stable Audio 3.0 round out the serious tier, with Stable Audio now offering open weights and tracks that run past six minutes. My advice this week: pick Suno for breadth, ElevenLabs for licensed commercial delivery, and keep Udio on a watch list until exports come back.",
+          "highlights": [
+            {
+              "title": "ElevenLabs Music v2 adds mid-track genre switching",
+              "body": "Version 2 transitions genres within one track and regenerates a chosen section without altering the rest, giving me precise control over a weak bridge or chorus."
+            },
+            {
+              "title": "ElevenLabs cut prices sharply",
+              "body": "API pricing dropped up to 50 percent and self-serve up to 40 percent, which materially improves its value for anyone shipping commercial tracks."
+            },
+            {
+              "title": "Suno still leads on breadth and ecosystem",
+              "body": "With roughly 2 million paid subscribers and $300M ARR, Suno offers the widest genre range and the most mature editing tools I use day to day."
+            },
+            {
+              "title": "Udio export gap persists",
+              "body": "Downloads remain disabled across all tiers following the Universal Music settlement, so I keep it ranked third despite excellent raw audio quality."
+            },
+            {
+              "title": "Stable Audio 3.0 brings open weights",
+              "body": "Stability AI's new four-model family ships open weights and supports tracks past six minutes, a real draw for builders who want local control."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這禮拜我還是把 Suno 放在第一，理由很單純。它的年營收衝到 3 億美金，付費用戶大概 200 萬，曲風覆蓋度跟編輯生態系是我測過最完整的，整首歌的結構聽起來最像真的有人在編曲。老實說三月底那版 v5.5 我有點皺眉，不少人反映高頻會有嘶嘶聲，過了第一分鐘音質會飄掉，這點我會持續盯。但要做完整歌曲，它目前還是我的首選。ElevenLabs Music 這次往上爬，因為 v2 可以在同一首裡面換曲風，還能只重生成某一段而不動到其他部分，這種開刀式的控制超實用，副歌很讚但過門卡卡的時候，動一段就好。而且它這波 API 直接砍價最多 50%，自助訂閱也降最多 40%，CP 值一夜之間翻盤。光是這個降價，加上它授權最乾淨，要接商案出片我會直接推它。Udio 排第三靠的是純音質，環球音樂和解後說今年會推共同授權平台，聽起來不錯，但現在所有方案都還不能下載匯出，這個洞讓我沒辦法把它放進實際工作流。Google 的 Lyria 3 Pro 跟 Stable Audio 3.0 也都站穩前段班，Stable Audio 現在開放權重，曲長還能破六分鐘。這週我的建議很實在：要曲風廣選 Suno，要授權出商案選 ElevenLabs，Udio 先放觀察名單，等它把匯出補回來再說。",
+          "highlights": [
+            {
+              "title": "ElevenLabs Music v2 能在曲中換曲風",
+              "body": "v2 可以在同一首歌裡切換曲風，還能只重生成指定段落而不動其他部分，過門或副歌卡住時動一段就解決。"
+            },
+            {
+              "title": "ElevenLabs 大幅降價",
+              "body": "API 最多砍 50%，自助訂閱最多降 40%，對要出商業作品的人來說 CP 值直接拉高一大截。"
+            },
+            {
+              "title": "Suno 廣度與生態系仍最強",
+              "body": "付費用戶約 200 萬、年營收 3 億美金，曲風最廣、編輯工具最成熟，是我每天在用的主力。"
+            },
+            {
+              "title": "Udio 還是不能匯出",
+              "body": "環球音樂和解後各方案都還不能下載，所以即使原始音質很頂，我這週還是把它排第三。"
+            },
+            {
+              "title": "Stable Audio 3.0 開放權重",
+              "body": "Stability AI 推出四模型家族並開放權重，曲長可破六分鐘，想在本地端自己掌控的人會很心動。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

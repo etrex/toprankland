@@ -2671,6 +2671,202 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-01",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.3,
+            "coding": 9.0,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.0,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.4,
+            "coding": 9.8,
+            "writing": 9.6,
+            "realtime": 7.5,
+            "value": 9.0,
+            "ecosystem": 9.0
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.9,
+            "realtime": 9.3,
+            "value": 9.5,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "reasoning": 8.8,
+            "coding": 8.2,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.4,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
+          "url": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "iOS 27 Will Let You Pick Claude or Gemini Instead of ChatGPT for Apple Intelligence",
+          "url": "https://www.macrumors.com/2026/05/05/ios-27-third-party-chatbots-apple-intelligence/",
+          "source": "MacRumors"
+        },
+        {
+          "title": "AI Updates Today (May 2026) - Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "I am ending May where I started it, with ChatGPT, Claude, and Gemini stacked at the top, but the gap between them is now thin enough that your choice should follow your workflow rather than a benchmark table. ChatGPT keeps the lead because GPT-5.5 Instant is the most reliable default model I run, and the hallucination cuts on high-stakes prompts hold up across a month of real research. The bigger story this week is Gemini. At Google I/O 2026 the Gemini app picked up a Daily Brief, the Gemini Omni video model, and a 24/7 agent called Spark, which is why I nudged its real-time and ecosystem scores up. Google is turning Gemini from a chatbot into a hub, and inside Gmail and Docs that integration is now genuinely hard to beat. Claude holds second on the strength of Opus 4.7 coding and prose plus the new Managed Agents that can take an objective like plan a vacation and actually run the steps on a schedule. The other shift worth flagging is iOS 27, which will let iPhone users pick Claude or Gemini instead of ChatGPT for Apple Intelligence. That choice screen matters, because the default slot on a billion phones was the single biggest distribution advantage OpenAI had, and it is about to become contestable. Perplexity stays fourth for research, Grok fifth on live X data, and DeepSeek remains my free pick. My advice for June is unchanged: buy one of the top three based on where you already work, and let the free tier cover the rest.",
+          "highlights": [
+            {
+              "title": "Gemini at I/O 2026 is the week's real move",
+              "body": "The Gemini app added a Daily Brief, the Omni video model, and a 24/7 Spark agent, which pushes it from chatbot to hub. Combined with native Gmail and Docs reach, this is why I raised its real-time and ecosystem scores. For anyone living in Google Workspace, Gemini is now the assistant that does the most without leaving the apps you already use."
+            },
+            {
+              "title": "iOS 27 opens the Apple Intelligence default to Claude and Gemini",
+              "body": "Apple confirmed iOS 27 will let users pick Claude or Gemini instead of ChatGPT for Apple Intelligence. The default assistant slot on a billion iPhones was OpenAI's biggest distribution edge, and making it user-selectable turns it into a real contest. This is the kind of platform decision that reshapes market share more than any single model launch."
+            },
+            {
+              "title": "Claude Managed Agents now run multi-step jobs on a schedule",
+              "body": "Claude's Managed Agents can take an objective like research a kitchen remodel, break it into steps, run them on a schedule, and deliver results hands-off. Paired with Opus 4.7 leading on coding and prose, this keeps Claude firmly in second for developers and writers who want an assistant that finishes work rather than just answers questions."
+            },
+            {
+              "title": "ChatGPT stays the safe default for one subscription",
+              "body": "GPT-5.5 Instant remains the most dependable everyday model I run, and the lower hallucination rate on medical, legal, and financial prompts holds up after a month of use. If you only pay for one assistant, ChatGPT Plus at around NT$640 still maximizes capability per dollar across reasoning, writing, voice, and agents."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "五月怎麼開始就怎麼結束，ChatGPT、Claude、Gemini 還是疊在最上面，但三者之間的差距已經薄到你該照自己的工作流選，而不是看 benchmark 表格挑。ChatGPT 守第一，因為 GPT-5.5 Instant 是我跑過最穩的預設模型，高風險題目的幻覺下降撐過了一整個月的實測。這禮拜真正的大新聞是 Gemini。Google I/O 2026 上 Gemini App 加了 Daily Brief、Omni 影片模型，還有一個 24 小時待命的 Spark agent，所以我把它的即時資訊跟生態系分數往上調。Google 正在把 Gemini 從聊天機器人變成一個樞紐，在 Gmail 跟 Docs 裡那種整合度，現在真的很難打。Claude 守第二，靠的是 Opus 4.7 的寫程式跟文筆，加上新的 Managed Agents，你丟一個目標像規劃一趟旅行，它真的會照排程把步驟跑完。另一個值得講的轉變是 iOS 27，以後 iPhone 用戶可以在 Apple Intelligence 裡選 Claude 或 Gemini 來取代 ChatGPT。這個選擇畫面很關鍵，畢竟十億支手機上的預設位子，本來是 OpenAI 最大的通路優勢，現在要變成大家都能搶了。Perplexity 守第四做研究，Grok 第五靠即時 X 資料，DeepSeek 還是我的免費首選。六月我的建議沒變，照你已經在用的環境，從前三名挑一個來付費，剩下的場景用免費的補就好。",
+          "highlights": [
+            {
+              "title": "Gemini 在 I/O 2026 是本週真正的大動作",
+              "body": "Gemini App 加了 Daily Brief、Omni 影片模型，還有 24 小時待命的 Spark agent，整個從聊天機器人升級成樞紐。配上原生接 Gmail 跟 Docs 的覆蓋面，這就是我調高它即時跟生態系分數的原因。對活在 Google Workspace 裡的人來說，Gemini 現在是不用離開你慣用 App 就能做最多事的助理。"
+            },
+            {
+              "title": "iOS 27 把 Apple Intelligence 預設開放給 Claude 跟 Gemini",
+              "body": "Apple 確認 iOS 27 會讓用戶用 Claude 或 Gemini 取代 ChatGPT 當 Apple Intelligence 的助理。十億支 iPhone 上那個預設位子本來是 OpenAI 最大的通路優勢，開放讓使用者自己選之後就變成真正的競爭了。這種平台層級的決定，重塑市佔的力道比任何單一模型發表都大。"
+            },
+            {
+              "title": "Claude Managed Agents 現在能照排程跑多步驟任務",
+              "body": "Claude 的 Managed Agents 可以接一個目標像研究廚房翻修，自己拆成步驟、照排程跑、把結果交給你，全程不用你動手。搭配 Opus 4.7 在寫程式跟文筆上的領先，這讓 Claude 對工程師跟寫作者來說穩坐第二，你要的是會把事做完的助理，而不是只會回答問題的那種。"
+            },
+            {
+              "title": "只訂一個的話 ChatGPT 還是安全預設",
+              "body": "GPT-5.5 Instant 還是我跑過最可靠的日常模型，醫療、法律、金融題目的幻覺下降，用一個月之後依然站得住。如果你只付一個助理的錢，月費約 NT$640 的 ChatGPT Plus 在推理、寫作、語音、agent 各方面的性價比還是最高。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

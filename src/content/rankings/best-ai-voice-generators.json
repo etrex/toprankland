@@ -3223,6 +3223,212 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-01",
+      "rankings": [
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.3,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "elevenlabs",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.3,
+            "languageSupport": 9.7,
+            "latency": 9.2,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.6,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.8,
+            "emotionalRange": 8.6,
+            "languageSupport": 8.4,
+            "latency": 9.9,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 8.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "voiceRealism": 8.0,
+            "emotionalRange": 7.6,
+            "languageSupport": 8.6,
+            "latency": 7.7,
+            "valueForMoney": 8.4
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 11,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Realtime TTS-2: A new frontier voice model",
+          "url": "https://inworld.ai/blog/realtime-tts-2",
+          "source": "Inworld AI"
+        },
+        {
+          "title": "ElevenLabs Review 2026: The Most Realistic AI Voice Generator?",
+          "url": "https://ucstrategies.com/news/elevenlabs-review-2026-the-most-realistic-ai-voice-generator/",
+          "source": "UC Strategies"
+        },
+        {
+          "title": "Best Text-to-Speech AI 2026: Top picks & In-depth reviews",
+          "url": "https://aimlapi.com/blog/best-text-to-speech-ai",
+          "source": "AI/ML API"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Inworld and ElevenLabs are sharing the top of my chart again this week, and both earned it for different reasons. Inworld's TTS-1.5 Max still sits at the top of the Artificial Analysis Speech Arena with an ELO around 1236, winning blind tests for naturalness and conversational flow, and its sub-250ms P90 latency on Max is what real-time agents actually need. The bigger story is that Inworld just previewed Realtime TTS-2, a model built specifically for live conversation. It hears the full audio of an exchange, picks up the user's tone and pacing, and takes voice direction in plain English the way you would prompt an LLM, all while holding one voice identity across more than 100 languages. That is a genuine step toward voice agents that feel like people, and it is why Inworld keeps the number one slot. ElevenLabs stays right beside it because nothing beats it for creator tooling and cloning fidelity. Eleven v3 now covers 70-plus languages, adds inline Audio Tags for emotional direction, and cuts errors on complex text by about 68 percent versus v2, which is exactly what audiobook and video producers want. On price, Inworld is the disruptor at roughly 5 dollars per million characters against ElevenLabs at 30 to 60, so budget-driven teams have an easy answer. I am holding the rest of the order steady. Hume's Octave 2 keeps third for its emotional range, MiniMax and Cartesia stay strong for multilingual and ultra-low latency work, and OpenAI's gpt-4o-mini-tts remains the value pick for developers already in that ecosystem. The takeaway this week is that real-time conversational quality has become the battleground, and Inworld is setting the pace.",
+          "highlights": [
+            {
+              "title": "Inworld previews Realtime TTS-2",
+              "body": "The new model listens to full-exchange audio, reads tone and pacing, and takes plain-English voice direction while holding one identity across 100-plus languages."
+            },
+            {
+              "title": "TTS-1.5 Max still leads blind tests",
+              "body": "Inworld holds the top Speech Arena ELO near 1236 with sub-250ms P90 latency, the combination real-time agents actually need."
+            },
+            {
+              "title": "ElevenLabs v3 owns creator work",
+              "body": "Eleven v3 covers 70-plus languages, adds inline Audio Tags for emotion, and cuts complex-text errors by about 68 percent over v2."
+            },
+            {
+              "title": "Price gap is dramatic",
+              "body": "Inworld runs near 5 dollars per million characters against 30 to 60 on ElevenLabs, giving budget-driven teams a clear default."
+            },
+            {
+              "title": "Order below the top stays steady",
+              "body": "Hume Octave 2 keeps its emotional-range edge at third, with MiniMax, Cartesia, and OpenAI holding their specialist roles."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週榜首一樣是 Inworld 跟 ElevenLabs 並列，兩家各有各的本事，都坐得很穩。Inworld 的 TTS-1.5 Max 還是穩居 Artificial Analysis Speech Arena 第一，ELO 大概落在 1236，盲測在自然度跟對話流暢度上都贏，Max 版 P90 延遲壓在 250ms 以內，這正是即時語音代理真正需要的東西。更值得講的是 Inworld 剛預告了 Realtime TTS-2，這款是專門為即時對話設計的。它會聽完整段對話的音訊，抓你的語氣跟節奏，還能像下 prompt 給 LLM 那樣，用白話英文去指揮聲音的演繹，而且同一個聲音身分可以橫跨超過 100 種語言。這已經是朝著「聽起來像真人」的語音代理邁出真正一步，Inworld 守第一我覺得實至名歸。ElevenLabs 緊貼在旁邊，創作者工具跟複製音色的擬真度目前還是無人能敵。Eleven v3 現在支援 70 多種語言，加了 inline Audio Tags 可以做情緒指揮，複雜文字的錯誤率比 v2 降了大約 68%，這正中有聲書跟影片製作者的需求。價格上 Inworld 是攪局者，每百萬字元大概 5 美元，ElevenLabs 要 30 到 60，預算吃緊的團隊答案很明顯。後段我維持不動，Hume Octave 2 靠情緒表現守第三，MiniMax 跟 Cartesia 在多語言跟超低延遲還是很猛，OpenAI 的 gpt-4o-mini-tts 對已經在那生態的開發者來說還是性價比首選。這週的重點很清楚，戰場已經轉到即時對話品質，而 Inworld 正在帶風向。",
+          "highlights": [
+            {
+              "title": "Inworld 預告 Realtime TTS-2",
+              "body": "新模型會聽完整段對話、讀語氣跟節奏，還能用白話英文指揮聲音演繹，同一聲音身分橫跨 100 多種語言。"
+            },
+            {
+              "title": "TTS-1.5 Max 盲測仍領先",
+              "body": "Inworld 在 Speech Arena 拿下約 1236 的最高 ELO，P90 延遲壓在 250ms 以內，這組合正是即時代理要的。"
+            },
+            {
+              "title": "ElevenLabs v3 稱霸創作端",
+              "body": "Eleven v3 支援 70 多種語言，加入 Audio Tags 做情緒指揮，複雜文字錯誤率比 v2 降約 68%。"
+            },
+            {
+              "title": "價差非常明顯",
+              "body": "Inworld 每百萬字元約 5 美元，ElevenLabs 要 30 到 60，預算導向的團隊有了很清楚的預設選擇。"
+            },
+            {
+              "title": "前段以下維持不動",
+              "body": "Hume Octave 2 靠情緒表現守第三，MiniMax、Cartesia、OpenAI 各自守住專長定位。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
