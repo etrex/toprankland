@@ -1960,6 +1960,184 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-02",
+      "rankings": [
+        {
+          "id": "midjourney-v8",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 8.5,
+            "photorealism": 9.0,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "gpt-image-2",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 8.6,
+            "artisticQuality": 8.2,
+            "textRendering": 9.5,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 8.8,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 9.7
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Midjourney May 2026 Update: V8.1, Pricing & Video",
+          "url": "https://pixverse.ai/en/blog/midjourney-ai-image-generator-review",
+          "source": "PixVerse"
+        },
+        {
+          "title": "Midjourney V8 vs FLUX vs Stable Diffusion: Best AI Image Generator in 2026",
+          "url": "https://wavespeed.ai/blog/posts/midjourney-v8-vs-flux-vs-sora-best-ai-image-generator-2026/",
+          "source": "WaveSpeed"
+        },
+        {
+          "title": "Best AI Image Generators 2026: Midjourney, Flux & More",
+          "url": "https://www.miniloop.ai/blog/best-ai-image-generators-2026",
+          "source": "Miniloop"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Midjourney V8 holds rank 1 because nothing else matches its aesthetic ceiling, and the V8.1 update on April 30 widened the lead. V8.1 adds faster generation, HD 2K output, better prompt adherence, and refined Raw mode, and Midjourney now turns a still into a 5-second clip that extends to 21 seconds. Its 9.9 artistic quality score is the highest on this list by a clear margin, and for anyone whose work lives or dies on visual taste, it remains the obvious pick.\n\nThe competitive picture below the top is shifting fast. FLUX.2 from Black Forest Labs got a March speed upgrade that doubled generation speed at no quality cost and pushed open-weights output to 4 megapixels with stronger character and layout consistency. That is exactly why FLUX.2 Pro holds rank 2: it is the best high-fidelity option for teams that want commercial-grade results with open-weights flexibility.\n\nThe biggest structural change is at OpenAI. DALL-E 2 and DALL-E 3 were officially retired on May 12, and GPT Image 2, which launched April 21, is now the only image model in ChatGPT and the API. GPT Image 2 leads on prompt accuracy and complex-instruction following, which is why it sits at rank 3 and is the pick when you need an image to follow detailed directions precisely, including legible text.\n\nMy verdict: Midjourney V8 is the artistry champion, FLUX.2 Pro is the open-weights commercial workhorse, and GPT Image 2 is the prompt-accuracy and text-rendering specialist. The top three each own a clear lane, and the order is stable heading into summer.",
+          "highlights": [
+            {
+              "title": "Midjourney V8.1 Extends the Artistry Lead",
+              "body": "The April 30 V8.1 update adds faster generation, HD 2K output, better prompt adherence, and refined Raw mode, plus image-to-video that extends to 21 seconds. A 9.9 artistic quality score, the highest here by a clear margin, keeps Midjourney the pick for taste-driven visual work."
+            },
+            {
+              "title": "FLUX.2 Pro Wins on Open-Weights High Fidelity",
+              "body": "A March speed upgrade doubled FLUX.2's generation speed at no quality cost and pushed open-weights output to 4 megapixels with stronger character and layout consistency. That makes FLUX.2 Pro the rank-2 choice for teams wanting commercial-grade results with open-weights flexibility."
+            },
+            {
+              "title": "OpenAI Retires DALL-E, GPT Image 2 Takes Over",
+              "body": "DALL-E 2 and DALL-E 3 were retired on May 12, leaving GPT Image 2, launched April 21, as the only image model in ChatGPT and the API. It leads on prompt accuracy and complex instructions, holding rank 3 as the pick when an image must follow detailed directions, text included."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Midjourney V8 守住第一名，因為美學天花板沒有對手追得上，而 4/30 的 V8.1 更新又把領先拉得更開。V8.1 加入更快的生成、HD 2K 輸出、更好的提示詞遵循，以及優化的 Raw 模式，而且 Midjourney 現在能把靜態圖變成 5 秒短片，還能延長到 21 秒。它 9.9 的藝術品質分是全榜最高，而且差距明顯，對任何作品成敗取決於視覺品味的人來說，它仍是理所當然的選擇。\n\n第一名以下的競爭格局變得很快。Black Forest Labs 的 FLUX.2 在三月拿到速度升級，生成速度翻倍卻零畫質損失，開放權重輸出推到 4 百萬像素，角色和版面一致性也更強。這正是 FLUX.2 Pro 守住第二的原因：對想要商業級成果又要開放權重彈性的團隊，它是最好的高保真選擇。\n\n最大的結構性變化在 OpenAI。DALL-E 2 和 DALL-E 3 在 5/12 正式退役，4/21 推出的 GPT Image 2 現在是 ChatGPT 和 API 裡唯一的圖像模型。GPT Image 2 在提示詞準確度和複雜指令遵循上領先，這就是它排第三的原因，當你需要圖像精準照著詳細指示走，包括清晰的文字，它就是首選。\n\n我的判斷：Midjourney V8 是藝術性冠軍，FLUX.2 Pro 是開放權重的商業主力，GPT Image 2 是提示詞準確度和文字渲染的專家。前三名各據一條清楚的賽道，進入夏天順序很穩。",
+          "highlights": [
+            {
+              "title": "Midjourney V8.1 把藝術性領先拉得更開",
+              "body": "4/30 的 V8.1 更新加入更快生成、HD 2K 輸出、更好的提示詞遵循、優化 Raw 模式，還有能延長到 21 秒的圖生影片。9.9 的藝術品質分是全榜最高且差距明顯，讓 Midjourney 穩坐品味導向視覺工作的首選。"
+            },
+            {
+              "title": "FLUX.2 Pro 拿下開放權重高保真",
+              "body": "三月的速度升級讓 FLUX.2 生成速度翻倍卻零畫質損失，開放權重輸出推到 4 百萬像素，角色與版面一致性更強。這讓 FLUX.2 Pro 成為想要商業級成果又要開放權重彈性的團隊的第二名之選。"
+            },
+            {
+              "title": "OpenAI 讓 DALL-E 退役，GPT Image 2 接棒",
+              "body": "DALL-E 2 和 DALL-E 3 在 5/12 退役，留下 4/21 推出的 GPT Image 2 作為 ChatGPT 和 API 裡唯一的圖像模型。它在提示詞準確度和複雜指令上領先，以圖像需精準照詳細指示（含文字）的首選守住第三。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

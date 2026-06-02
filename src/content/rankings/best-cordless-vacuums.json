@@ -168,39 +168,165 @@
     {
       "date": "2026-06-02",
       "rankings": [
-        { "id": "shark-powerdetect", "rank": 1, "score": 9.3, "scores": { "suction": 9.2, "runtime": 8.8, "filtration": 9.0, "handling": 9.5, "value": 9.4 } },
-        { "id": "dyson-gen5detect", "rank": 2, "score": 9.1, "scores": { "suction": 9.8, "runtime": 9.0, "filtration": 9.6, "handling": 8.5, "value": 7.8 } },
-        { "id": "dyson-v15-detect", "rank": 3, "score": 8.9, "scores": { "suction": 9.3, "runtime": 8.8, "filtration": 9.4, "handling": 8.5, "value": 8.3 } },
-        { "id": "tineco-pure-one-a90s", "rank": 4, "score": 8.6, "scores": { "suction": 9.0, "runtime": 9.2, "filtration": 8.6, "handling": 8.8, "value": 8.0 } },
-        { "id": "samsung-bespoke-jet-ai", "rank": 5, "score": 8.5, "scores": { "suction": 9.4, "runtime": 9.0, "filtration": 9.0, "handling": 8.2, "value": 7.5 } },
-        { "id": "dyson-v12-detect-slim", "rank": 6, "score": 8.4, "scores": { "suction": 8.5, "runtime": 8.0, "filtration": 9.2, "handling": 9.4, "value": 8.0 } },
-        { "id": "lg-cordzero-a9", "rank": 7, "score": 8.2, "scores": { "suction": 8.0, "runtime": 9.4, "filtration": 8.5, "handling": 8.5, "value": 7.8 } },
-        { "id": "levoit-lvac-200", "rank": 8, "score": 7.9, "scores": { "suction": 7.5, "runtime": 7.2, "filtration": 8.0, "handling": 9.0, "value": 9.3 } },
-        { "id": "kardv-v06", "rank": 9, "score": 7.4, "scores": { "suction": 7.8, "runtime": 7.0, "filtration": 6.0, "handling": 8.5, "value": 9.5 } }
+        {
+          "id": "shark-powerdetect",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "suction": 9.2,
+            "runtime": 8.8,
+            "filtration": 9.0,
+            "handling": 9.5,
+            "value": 9.4
+          }
+        },
+        {
+          "id": "dyson-gen5detect",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "suction": 9.8,
+            "runtime": 9.0,
+            "filtration": 9.6,
+            "handling": 8.5,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "dyson-v15-detect",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "suction": 9.3,
+            "runtime": 8.8,
+            "filtration": 9.4,
+            "handling": 8.5,
+            "value": 8.3
+          }
+        },
+        {
+          "id": "tineco-pure-one-a90s",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "suction": 9.0,
+            "runtime": 9.2,
+            "filtration": 8.6,
+            "handling": 8.8,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "samsung-bespoke-jet-ai",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "suction": 9.4,
+            "runtime": 9.0,
+            "filtration": 9.0,
+            "handling": 8.2,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "dyson-v12-detect-slim",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "suction": 8.5,
+            "runtime": 8.0,
+            "filtration": 9.2,
+            "handling": 9.4,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "lg-cordzero-a9",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "suction": 8.0,
+            "runtime": 9.4,
+            "filtration": 8.5,
+            "handling": 8.5,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "levoit-lvac-200",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "suction": 7.5,
+            "runtime": 7.2,
+            "filtration": 8.0,
+            "handling": 9.0,
+            "value": 9.3
+          }
+        },
+        {
+          "id": "kardv-v06",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "suction": 7.8,
+            "runtime": 7.0,
+            "filtration": 6.0,
+            "handling": 8.5,
+            "value": 9.5
+          }
+        }
       ],
       "references": [
-        { "title": "Shark PowerDetect Speed review: the cordless vacuum to beat in 2026", "url": "https://www.t3.com/home-living/vacuum-cleaners/shark-powerdetect-speed-review-the-cordless-vacuum-to-beat-in-2026", "source": "T3" },
-        { "title": "Top 10 Best Cordless Vacuums of 2026", "url": "https://vacuumwars.com/vacuum-wars-best-cordless-vacuums/", "source": "Vacuum Wars" },
-        { "title": "KARDV V06 Review: The Bestselling Cordless Vacuum Under $100?", "url": "https://vacuumwars.com/kardv-v06-review/", "source": "Vacuum Wars" },
-        { "title": "Levoit LVAC-200 Review: Tested & Rated", "url": "https://www.techgearlab.com/reviews/floor-cleaning/cordless-stick-vacuum/levoit-lvac-200", "source": "TechGearLab" }
+        {
+          "title": "Shark PowerDetect Cordless vs Dyson Gen5detect: which is better?",
+          "url": "https://www.techradar.com/home/vacuums/dyson-gen5detect-vs-shark-powerdetect-cordless-vacuum",
+          "source": "TechRadar"
+        },
+        {
+          "title": "The 5 Best Cordless Vacuums of 2026",
+          "url": "https://www.rtings.com/vacuum/reviews/best/cordless",
+          "source": "RTINGS"
+        },
+        {
+          "title": "Top 10 Best Cordless Vacuums of 2026",
+          "url": "https://vacuumwars.com/vacuum-wars-best-cordless-vacuums/",
+          "source": "Vacuum Wars"
+        }
       ],
       "i18n": {
         "en": {
-          "commentary": "I have tested enough cordless sticks to say the category finally split into two clear winners this year, and the gap between them is about money, not cleaning. The Shark PowerDetect takes the top spot because it nails the part most buyers actually care about: you push it across any floor, the dirt-detect brain ramps the suction on its own, and when you dock it the base empties the bin so you never touch a dust cloud. At around $500 that is the most cleaning per dollar I can point to in 2026. The Dyson Gen5detect is the stronger raw machine. Its 280AW motor and HEPA system pull embedded grit out of thick carpet that the Shark leaves behind, and the particle counter on the screen is genuinely useful for proving the floor is clean. It costs nearly twice as much, so I rank it second on value alone. Tineco's A90S is the smart-tech pick I would hand to anyone who loves automation, and Samsung's Bespoke Jet AI is the one to buy if a tidy all-in-one base matters more than the last few air watts. The real story this year is the bottom of the table. The Levoit LVAC-200 at $200 and the KARDV V06 under $100 both clean low-pile carpet better than their price suggests, and for an apartment that is all most people need. Buy the Shark if you want the easiest great vacuum, the Dyson Gen5detect if you want the most powerful, and the Levoit if you want to spend the least without regretting it.",
+          "commentary": "The cordless vacuum race in 2026 comes down to a clear question: do you want the best value or the most raw power? The Shark PowerDetect holds our top spot because it answers that question for the most people. It pairs a redesigned DuoClean floorhead with class-leading suction, a flexible MultiFLEX wand, and a self-emptying dock that genuinely cuts down on the chore of maintenance. In direct head-to-head testing, the PowerDetect actually pulled pet hair through high-pile carpet faster than the Dyson Gen5detect, and it does that at a price hundreds of dollars below the flagship. Add the removable battery delivering up to 40 minutes of runtime and you have the vacuum I recommend to most households without hesitation.\n\nThe Dyson Gen5detect at rank 2 remains the performance benchmark, and it earned best-performance and best-battery-life honors in 2025 testing for good reason. Its fifth-generation Hyperdymium motor, onboard particle sensor, and green-laser Fluffy Optic head that reveals hidden dust in real time give it the edge on low-pile carpet and hard floors. If outright cleaning power on hard surfaces is your priority and budget is not the constraint, this is the one.\n\nThe Dyson V15 Detect at rank 3 stays relevant as the more accessible Dyson with the same laser dust-detection party trick. The Tineco Pure One A90S at rank 4 brings smart iLoop sensing at a friendlier price, and the Samsung Bespoke Jet AI at rank 5 rounds out the list with its all-in-one Clean Station and slick design. The takeaway heading into summer is simple: the Shark PowerDetect gives you flagship-tier cleaning where it counts at a mid-tier price, which is why it sits at number one.",
           "highlights": [
-            { "title": "The Shark PowerDetect is the best cordless vacuum for most homes", "body": "It earns the top rank by combining auto-adjusting suction, a dual brushroll that switches cleanly between carpet and hard floor, and an auto-empty dock that removes the single most annoying chore of cordless ownership. At roughly $500 it delivers flagship convenience for mid-tier money, which is exactly why I recommend it ahead of machines that cost far more." },
-            { "title": "Dyson's Gen5detect wins on raw power, and you pay for it", "body": "The 280AW motor and sealed HEPA system pull embedded dirt from deep carpet that lighter machines leave behind, and the on-screen particle count proves the work. At close to $949 it is a deliberate splurge for people who want the strongest clean and the data to back it up, so it lands second purely on value." },
-            { "title": "Spend $200 or less and still get a vacuum worth owning", "body": "The Levoit LVAC-200 cleans low-pile carpet better than its price implies and stays light enough to carry up stairs, while the KARDV V06 posts a 94% deep-carpet score for under $100. For an apartment or a second floor, either one covers the real workload, and the budget tier has never been this good." },
-            { "title": "Pick your runner-up by what you value, not just the score", "body": "The Tineco A90S is the one to buy if you love smart automation and a lit floor head, the LG CordZero A9 wins on runtime with two batteries good for 120 minutes, and the Dyson V12 Detect Slim is the lightweight choice for small spaces and overhead reach. Their scores sit close because each is the best at one specific thing." }
+            {
+              "title": "Shark PowerDetect Beats Flagships on Value",
+              "body": "It pulls pet hair through high-pile carpet faster than the Dyson Gen5detect in head-to-head testing, pairs a DuoClean floorhead with a self-emptying dock, and does it for hundreds less than flagship rivals. For most households, it is the clearest recommendation in the category."
+            },
+            {
+              "title": "Dyson Gen5detect Sets the Power Benchmark",
+              "body": "Its fifth-generation Hyperdymium motor, onboard particle sensor, and green-laser Fluffy Optic head took best-performance and best-battery honors in 2025 testing. For maximum cleaning power on hard floors and low-pile carpet, nothing else matches it."
+            },
+            {
+              "title": "Removable Batteries Define the Top Tier",
+              "body": "Both the PowerDetect with up to 40 minutes of runtime and the Gen5detect offer swappable batteries, the feature that turns a cordless vacuum into a whole-home tool rather than a one-room sprint. It is now the dividing line between flagship and budget models."
+            }
           ]
         },
         "zh-tw": {
-          "commentary": "老實說，今年我實測過這麼多台無線吸塵器後，整個品類其實就分成兩個贏家，而它們之間的差距是錢，不是清潔力。Shark PowerDetect 拿下第一，因為它把多數人真正在意的事做到位：你只要推過地板，它的髒污偵測會自己加大吸力，回充時底座還會自動把集塵杯清空，你完全不用再吸一臉灰。換算下來，約台幣一萬六這個價格，是 2026 年我能找到 CP 值最高的一台。Dyson Gen5detect 純論硬實力更強，280AW 馬達加 HEPA 全機過濾，能把厚地毯深層那些 Shark 吸不乾淨的細砂拉出來，螢幕上的微粒計數也真的好用，能證明地板乾淨。但它價格快兩倍，所以單看性價比我排第二。Tineco A90S 是我會推給自動化愛好者的聰明款，Samsung Bespoke Jet AI 則適合在意收納清爽勝過多那幾 AW 吸力的人。今年真正的看點在榜單後段，台幣六千有找的 Levoit LVAC-200 跟三千有找的 KARDV V06，低毛地毯都掃得比價格該有的水準還好，對租屋小宅來說這樣就夠用了。想要最省力又好用就買 Shark，想要最強就上 Dyson Gen5detect，預算很緊又不想後悔就選 Levoit。",
+          "commentary": "2026 年無線吸塵器的競爭，說穿了就是一個選擇：你要最高性價比，還是最猛的純吸力。Shark PowerDetect 穩坐榜首，因為它替最多人回答了這個問題。它把重新設計的 DuoClean 吸頭、class-leading 吸力、可彎折的 MultiFLEX 軟管，加上一個真的能省下倒垃圾麻煩的自動集塵座結合在一起。在直接對決測試裡，PowerDetect 在長毛地毯上把寵物毛吸起來的速度，其實比 Dyson Gen5detect 還快，而且價格便宜了好幾百美元。再加上可拆換電池、續航最長 40 分鐘，這就是我會毫不猶豫推給大多數家庭的那一台。\n\n第二名的 Dyson Gen5detect 仍然是性能標竿，2025 年測試拿下最佳性能和最佳續航是有道理的。它的第五代 Hyperdymium 馬達、機身內建顆粒感測器，還有那顆綠雷射 Fluffy Optic 吸頭能即時照出隱形灰塵，在短毛地毯和硬地板上佔優勢。如果你最在意硬地板的純清潔力、預算又不是問題，就選這台。\n\n第三名的 Dyson V15 Detect 依然有戲，是價格比較親民、又保留同樣雷射偵塵看家本領的 Dyson。第四名的 Tineco Pure One A90S 用更友善的價格帶來智慧 iLoop 感測，第五名的 Samsung Bespoke Jet AI 靠全合一 Clean Station 和漂亮設計補上榜尾。夏天的結論很簡單：Shark PowerDetect 用中階價格給你旗艦級的清潔力，這就是它排第一的原因。",
           "highlights": [
-            { "title": "Shark PowerDetect 是多數家庭的最佳無線吸塵器", "body": "它拿第一靠的是把三件事一次做好：吸力自動調節、雙滾刷在地毯和硬地板間切換乾淨俐落，加上自動清空底座，直接解決無線吸塵器最煩的倒垃圾環節。約台幣一萬六就有旗艦級的便利，這就是我把它排在更貴機種前面的原因。" },
-            { "title": "Dyson Gen5detect 贏在純吸力，但你得付出代價", "body": "280AW 馬達加密封 HEPA 系統，能把輕量機種留在厚地毯裡的深層髒污拉出來，螢幕的微粒計數還幫你驗收成果。接近台幣三萬三的價格，是給想要最強清潔力又想看數據的人的刻意升級，所以單論性價比它排第二。" },
-            { "title": "花六千甚至三千，照樣買到值得入手的吸塵器", "body": "Levoit LVAC-200 低毛地毯掃得比價格該有的水準好，又輕到能輕鬆提上樓；KARDV V06 在台幣三千以下測出 94% 的地毯深層清潔分數。對租屋族或樓上房間來說，這兩台就能扛起日常清潔，入門價位帶從沒這麼好過。" },
-            { "title": "次名選誰，看你重視什麼，別只看總分", "body": "愛自動化又想要照明吸頭就選 Tineco A90S，重視續航就挑雙電池能跑 120 分鐘的 LG CordZero A9，小坪數和舉高清潔就用最輕的 Dyson V12 Detect Slim。它們分數很接近，是因為每一台都是某個單項的最強。" }
+            {
+              "title": "Shark PowerDetect 性價比擊敗旗艦",
+              "body": "對決測試中，它在長毛地毯吸寵物毛的速度比 Dyson Gen5detect 還快，DuoClean 吸頭搭配自動集塵座，價格卻便宜旗艦好幾百美元。對大多數家庭來說，這是品類裡最明確的推薦。"
+            },
+            {
+              "title": "Dyson Gen5detect 立下吸力標竿",
+              "body": "第五代 Hyperdymium 馬達、機身顆粒感測器、綠雷射 Fluffy Optic 吸頭，2025 年測試拿下最佳性能與最佳續航。硬地板和短毛地毯要最強清潔力，沒有對手。"
+            },
+            {
+              "title": "可拆換電池是頂規分水嶺",
+              "body": "PowerDetect 續航最長 40 分鐘、Gen5detect 同樣支援可換電池，這個功能讓無線吸塵器從只能掃一間房，變成能打掃全家的工具，如今已是旗艦與平價機種的分界線。"
+            }
           ]
         }
       }

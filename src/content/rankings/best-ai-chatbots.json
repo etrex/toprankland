@@ -2867,6 +2867,194 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-02",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.3,
+            "coding": 9.0,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.0,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.4,
+            "coding": 9.8,
+            "writing": 9.6,
+            "realtime": 7.5,
+            "value": 9.0,
+            "ecosystem": 9.0
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.9,
+            "realtime": 9.3,
+            "value": 9.5,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "reasoning": 8.8,
+            "coding": 8.2,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.4,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
+          "url": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "ChatGPT still dominates, but Gemini and Claude are gaining ground",
+          "url": "https://www.techzine.eu/news/applications/141503/chatgpt-still-dominates-but-gemini-and-claude-are-gaining-ground/",
+          "source": "Techzine"
+        },
+        {
+          "title": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide",
+          "url": "https://intuitionlabs.ai/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison",
+          "source": "IntuitionLabs"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ChatGPT holds rank 1 because it remains the default AI for most people and continues to lead on ecosystem reach. Even as challengers close the gap, ChatGPT still dominates everyday usage, and the surrounding platform, custom GPTs, the API, deep app integrations, keeps it stickier than any rival. Its 9.7 ecosystem score is the highest on this list and the single biggest reason it stays on top.\n\nThe interesting story this week is the chase. At Google I/O 2026, Google overhauled the Gemini app with a Daily Brief feature, a redesigned interface, the new Gemini Omni video model, and a personal agent called Gemini Spark. The goal is clear: turn Gemini from a chatbot into an all-purpose AI hub. Usage data shows Gemini and Claude gaining ground, reportedly around 14.4 percent and 8.6 percent of measured AI tool time, so the rank 2 and rank 3 positions for Claude and Gemini are well earned and tightening.\n\nThere is also a platform shift worth flagging. Apple is reportedly redesigning Siri in iOS 27 to work as a full chatbot, letting users pick Gemini, ChatGPT, or Claude as the backend, which ends the OpenAI-exclusive arrangement. With WWDC 2026 running June 8 to 12, that choice could reshape default AI exposure for hundreds of millions of iPhone users.\n\nMy verdict: ChatGPT is still the safe default for breadth and ecosystem, Claude leads for careful reasoning and writing, and Gemini is the fastest-improving all-rounder. The order at the top holds, but the gap is narrower than it has ever been heading into WWDC.",
+          "highlights": [
+            {
+              "title": "ChatGPT Stays No. 1 on Ecosystem and Default Usage",
+              "body": "With a 9.7 ecosystem score, the highest on this list, ChatGPT remains the default AI for most people. Custom GPTs, the API, and deep app integrations keep it stickier than any rival even as Gemini and Claude close the capability gap."
+            },
+            {
+              "title": "Google I/O Supercharges Gemini Into an AI Hub",
+              "body": "At I/O 2026 Google added a Daily Brief, a redesigned interface, the Gemini Omni video model, and a personal agent called Gemini Spark. The push to turn Gemini into an all-purpose hub is paying off, with reported usage around 14.4 percent and rank 3 firmly held."
+            },
+            {
+              "title": "Apple's Siri Overhaul Could Reshuffle Default AI",
+              "body": "Apple is reportedly rebuilding Siri in iOS 27 as a full chatbot that lets users choose Gemini, ChatGPT, or Claude as the backend, ending OpenAI exclusivity. With WWDC 2026 on June 8 to 12, that choice could shift default AI exposure for hundreds of millions of iPhone users."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ChatGPT 守住第一名，因為它仍然是大多數人的預設 AI，生態系觸及範圍也持續領先。就算挑戰者步步進逼，ChatGPT 在日常使用上依然主導，加上周邊的客製 GPT、API、深度 App 整合，黏著度比任何對手都高。9.7 的生態系分數是全榜最高，這就是它穩坐第一最大的單一原因。\n\n這週最有看頭的是後面的追趕戰。在 Google I/O 2026 上，Google 大改 Gemini App，加入 Daily Brief 每日簡報、全新介面、新的 Gemini Omni 影片模型，還有一個叫 Gemini Spark 的個人代理。目標很明確：把 Gemini 從聊天機器人變成全方位 AI 中樞。使用數據顯示 Gemini 和 Claude 都在搶地盤，據報約佔測得 AI 工具時間的 14.4% 和 8.6%，所以 Claude 第二、Gemini 第三的位置很實至名歸，而且差距正在縮小。\n\n還有一個平台層級的變化值得提：據報 Apple 正在把 iOS 27 的 Siri 改造成完整的聊天機器人，讓使用者自選 Gemini、ChatGPT 或 Claude 當後端，等於結束跟 OpenAI 的獨家綁定。WWDC 2026 在 6/8 到 6/12 舉行，這個選擇權可能重新洗牌數億 iPhone 用戶接觸到的預設 AI。\n\n我的判斷：論廣度和生態系，ChatGPT 還是最安全的預設選擇；論嚴謹推理和寫作，Claude 領先；Gemini 則是進步最快的全能型。頂端順序維持，但進入 WWDC 前這個差距比以往任何時候都更小。",
+          "highlights": [
+            {
+              "title": "ChatGPT 靠生態系與預設使用穩坐第一",
+              "body": "9.7 的生態系分數是全榜最高，ChatGPT 仍是大多數人的預設 AI。客製 GPT、API、深度 App 整合讓它的黏著度勝過任何對手，即使 Gemini 和 Claude 正在拉近能力差距。"
+            },
+            {
+              "title": "Google I/O 把 Gemini 升級成 AI 中樞",
+              "body": "在 I/O 2026 上，Google 加入 Daily Brief、全新介面、Gemini Omni 影片模型，以及叫 Gemini Spark 的個人代理。把 Gemini 變成全方位中樞的策略奏效，據報使用率約 14.4%，第三名穩穩守住。"
+            },
+            {
+              "title": "Apple Siri 大改，可能重洗預設 AI 版圖",
+              "body": "據報 Apple 正在把 iOS 27 的 Siri 重建成完整聊天機器人，讓使用者自選 Gemini、ChatGPT 或 Claude 當後端，結束 OpenAI 獨家。WWDC 2026 在 6/8 到 6/12，這個選擇權可能改變數億 iPhone 用戶接觸的預設 AI。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

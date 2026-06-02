@@ -8549,6 +8549,196 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-02",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "codeQuality": 9.7,
+            "contextWindow": 9.6,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.6,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 7.7
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Claude Code vs. Cursor vs. Codex vs. Antigravity — six months in",
+          "url": "https://thenewstack.io/claude-code-vs-cursor-vs-codex-vs-antigravity-2026/",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Cursor, Claude Code, and Codex are merging into one AI coding stack nobody planned",
+          "url": "https://thenewstack.io/ai-coding-tool-stack/",
+          "source": "The New Stack"
+        },
+        {
+          "title": "The AI Coding Assistant Landscape in 2026: Cursor vs GitHub Copilot vs Claude Code vs JetBrains AI",
+          "url": "https://earezki.com/ai-news/2026-05-23-the-ai-coding-assistant-landscape-in-2026-cursor-vs-github-copilot-vs-claude-code-vs-jetbrains-ai/",
+          "source": "Dev|Journal"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code holds rank 1 because it sets the bar for agentic coding that the entire category is now converging on. The New Stack's six-month review concludes that Claude Code, Cursor, Codex, and Antigravity have effectively agreed on what an AI coding agent should be, and Claude Code is the template the others followed. Anthropic recently shipped Opus 4.7 with a notable jump on coding benchmarks, which keeps Claude Code's 9.7 code quality and 9.5 agentic capability scores at the front. For developers who care most about correct, well-structured code from an autonomous agent, this is still the one to beat.\n\nThe Stack Overflow data tells the market story. GitHub Copilot's share among professional developers fell from 67 percent to 51 percent, while Cursor debuted at 18 percent and Claude Code reached 10 percent on its first appearance, from a standing start. That trajectory is why Cursor holds rank 2 and Copilot, despite its install base, sits at rank 4. Cursor's Composer 2 and parallel-agent orchestration keep it the strongest IDE-native experience.\n\nA pricing shift matters this week: GitHub Copilot moved to usage-based AI Credits on June 1, and Microsoft Build 2026 on June 2 to 3 is expected to bring a Copilot agent refresh. Entry tiers for Cursor Pro and Claude Code both sit around $20 with usage-based costs layered on top.\n\nMy verdict holds: Claude Code is the agentic quality leader, Cursor is the best IDE-native workflow, and the tools are increasingly run together rather than chosen exclusively. The smart move in 2026 is a stack, not a single pick, and Claude Code anchors it.",
+          "highlights": [
+            {
+              "title": "Claude Code Leads the Agentic Coding Blueprint",
+              "body": "The New Stack's six-month review concludes the whole category converged on the agentic model Claude Code defined. With Opus 4.7's coding-benchmark jump backing a 9.7 code quality and 9.5 agentic capability score, it remains the autonomous agent to beat for correct, well-structured output."
+            },
+            {
+              "title": "Market Share Data Validates the Rank Order",
+              "body": "Stack Overflow data shows GitHub Copilot's professional-developer share fell from 67 percent to 51 percent, while Cursor debuted at 18 percent and Claude Code hit 10 percent from zero. That trajectory is why Cursor holds rank 2 and Copilot sits at rank 4 despite its install base."
+            },
+            {
+              "title": "Copilot Pricing Shift and Build 2026 This Week",
+              "body": "GitHub Copilot moved to usage-based AI Credits on June 1, and Microsoft Build 2026 on June 2 to 3 is expected to bring a Copilot agent refresh. Cursor Pro and Claude Code entry tiers both sit near $20 with usage-based costs on top, keeping the value comparison close."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 守住第一名，因為它定義了整個品類現在正在收斂的代理式編程標準。The New Stack 的半年回顧結論是，Claude Code、Cursor、Codex、Antigravity 實際上已經對「AI 編程代理該是什麼樣子」達成共識，而 Claude Code 就是其他人跟著走的範本。Anthropic 近期推出 Opus 4.7，在編程基準上有明顯跳升，讓 Claude Code 的 9.7 程式品質和 9.5 代理能力分數穩居前段。對最在意自主代理產出正確、結構良好程式碼的開發者來說，這仍是要被超越的那一個。\n\nStack Overflow 的數據說明了市場局勢。GitHub Copilot 在專業開發者間的佔比從 67% 掉到 51%，而 Cursor 首次登場就拿 18%，Claude Code 從零起步首次出現就達 10%。這個走勢就是 Cursor 守住第二、Copilot 儘管安裝量龐大卻只排第四的原因。Cursor 的 Composer 2 和平行代理編排，讓它維持最強的 IDE 原生體驗。\n\n這週有個定價變化要注意：GitHub Copilot 在 6/1 改成用量計費的 AI Credits，而 6/2 到 6/3 的 Microsoft Build 2026 預期會帶來 Copilot 代理的更新。Cursor Pro 和 Claude Code 的入門方案都落在 20 美元上下，再疊加用量費用。\n\n我的判斷不變：Claude Code 是代理品質的領先者，Cursor 是最好的 IDE 原生工作流，而這些工具越來越多是搭著一起用，而不是二選一。2026 年聰明的做法是組一套工具堆疊，不是單選一個，而 Claude Code 是那個定海神針。",
+          "highlights": [
+            {
+              "title": "Claude Code 領銜代理式編程藍圖",
+              "body": "The New Stack 半年回顧結論是整個品類收斂到 Claude Code 定義的代理模式。Opus 4.7 在編程基準上的跳升撐起 9.7 程式品質和 9.5 代理能力分數，它仍是產出正確、結構良好程式碼最難被超越的自主代理。"
+            },
+            {
+              "title": "市佔數據印證榜單順序",
+              "body": "Stack Overflow 數據顯示 GitHub Copilot 的專業開發者佔比從 67% 掉到 51%，Cursor 首次登場就 18%，Claude Code 從零起步達 10%。這個走勢就是 Cursor 守第二、Copilot 儘管安裝量大卻排第四的原因。"
+            },
+            {
+              "title": "Copilot 改定價，Build 2026 本週登場",
+              "body": "GitHub Copilot 在 6/1 改成用量計費的 AI Credits，6/2 到 6/3 的 Microsoft Build 2026 預期帶來 Copilot 代理更新。Cursor Pro 和 Claude Code 入門方案都在 20 美元上下再加用量費，CP 值比較依然膠著。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

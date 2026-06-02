@@ -3429,6 +3429,196 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-02",
+      "rankings": [
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.3,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "elevenlabs",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.3,
+            "languageSupport": 9.7,
+            "latency": 9.2,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.6,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.8,
+            "emotionalRange": 8.6,
+            "languageSupport": 8.4,
+            "latency": 9.9,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 8.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "voiceRealism": 8.0,
+            "emotionalRange": 7.6,
+            "languageSupport": 8.6,
+            "latency": 7.7,
+            "valueForMoney": 8.4
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 11,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Stan Lee Voice and Likeness Licensed to AI Company ElevenLabs",
+          "url": "https://variety.com/2026/biz/news/stan-lee-elevenlabs-licensed-voice-likeness-1236759225/",
+          "source": "Variety"
+        },
+        {
+          "title": "Bringing voice AI into the classroom with ElevenLabs",
+          "url": "https://elevenlabs.io/blog/bringing-voice-ai-into-the-classroom-with-elevenlabs",
+          "source": "ElevenLabs"
+        },
+        {
+          "title": "ElevenLabs Review 2026: The Most Realistic AI Voice Generator?",
+          "url": "https://ucstrategies.com/news/elevenlabs-review-2026-the-most-realistic-ai-voice-generator/",
+          "source": "UC Strategies"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Inworld TTS 1.5 Max holds rank 1 on the strength of the one metric that matters most for real-time applications: latency, where it scores a category-best 9.8. For voice agents, live assistants, and any product where the user is waiting for a reply, that responsiveness is the whole ballgame, and Inworld delivers it without sacrificing a 9.6 voice-realism score. This is the engine I would build a conversational product on today.\n\nElevenLabs sits at rank 2 in a near-tie, and it had the busiest news week in the category. ElevenLabs licensed the voice and likeness of Stan Lee, adding the late Marvel writer to its Iconic Marketplace of celebrity voices that companies can license for commercial use. It also launched an education program giving professors free Pro-tier access and a voice agent built on Einstein's archives. On the product side, Eleven v3 now supports 70+ languages, up from 28, with inline Audio Tags for emotional direction and a 68% reduction in errors on complex text. That 9.7 language-support score is earned, and the v3 alpha discount running through end of June makes this a smart moment to test it.\n\nHume AI Octave 2 at rank 3 remains the specialist's pick, with a category-leading 9.7 emotional-range score for projects where conveying a specific feeling matters more than raw speed. The choice between these three comes down to use case: pick Inworld for the lowest latency in live agents, ElevenLabs for the widest language coverage and the cleanest licensing path, and Hume when emotional nuance is the deliverable. All three are genuinely excellent in 2026, and the field has never been deeper.",
+          "highlights": [
+            {
+              "title": "Inworld TTS 1.5 Max Wins on Latency",
+              "body": "Inworld holds rank 1 with a category-best 9.8 latency score alongside 9.6 voice realism. For voice agents and live assistants where the user is waiting on a reply, that responsiveness is the deciding factor."
+            },
+            {
+              "title": "ElevenLabs Licenses Stan Lee and Expands to 70+ Languages",
+              "body": "ElevenLabs added Stan Lee's voice to its Iconic Marketplace and launched an education program with free Pro access for professors. Eleven v3 now supports 70+ languages, up from 28, earning its 9.7 language-support score."
+            },
+            {
+              "title": "Hume AI Octave 2 Owns Emotional Range",
+              "body": "Hume holds rank 3 with a category-leading 9.7 emotional-range score. For projects where conveying a specific feeling matters more than raw speed, it is the specialist's pick."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Inworld TTS 1.5 Max 穩坐第一，靠的是即時應用最關鍵的那個指標：延遲，它拿到全榜最高的 9.8 分。對語音代理人、即時助理、或任何使用者在等回覆的產品來說，反應速度就是一切，而 Inworld 在做到這點的同時，語音擬真度還有 9.6 分。要做對話型產品，我現在就會選這顆引擎。\n\nElevenLabs 排第二，分數咬得很緊，而且這禮拜它的新聞最多。ElevenLabs 取得了 Stan Lee 的聲音和肖像授權，把這位已故的漫威編劇加進它的 Iconic Marketplace 名人語音庫，企業可以付費商用。它還推出教育計畫，免費給教授 Pro 等級，並做了一個建立在愛因斯坦檔案上的語音代理人。產品面上，Eleven v3 現在支援超過 70 種語言，從原本的 28 種大幅擴充，還加了行內 Audio Tags 做情緒導引，複雜文字的錯誤率降了 68%。語言支援 9.7 分是實打實的，而且 v3 alpha 折扣優惠到六月底，現在正是測試的好時機。\n\nHume AI Octave 2 排第三，仍然是專業需求的選擇，情緒幅度 9.7 分全榜最高，適合「傳達特定情緒」比「純速度」更重要的專案。這三個怎麼選，看用途：要即時代理人最低延遲選 Inworld，要最廣語言覆蓋和最乾淨授權路徑選 ElevenLabs，要情緒細膩度當交付成果就選 Hume。2026 年這三個都真的很強，這個領域從沒這麼有看頭過。",
+          "highlights": [
+            {
+              "title": "Inworld TTS 1.5 Max 延遲制勝",
+              "body": "Inworld 穩坐第一，延遲 9.8 分全榜最高，語音擬真度也有 9.6 分。語音代理人、即時助理這類使用者在等回覆的產品，反應速度就是決勝關鍵。"
+            },
+            {
+              "title": "ElevenLabs 拿下 Stan Lee 授權並擴充至 70+ 語言",
+              "body": "ElevenLabs 把 Stan Lee 的聲音加進 Iconic Marketplace，並推出教育計畫免費給教授 Pro 權限。Eleven v3 現支援超過 70 種語言（原 28 種），語言支援 9.7 分當之無愧。"
+            },
+            {
+              "title": "Hume AI Octave 2 情緒幅度稱霸",
+              "body": "Hume 排第三，情緒幅度 9.7 分全榜最高。傳達特定情緒比純速度更重要的專案，它是最對味的專業選擇。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
