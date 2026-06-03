@@ -2,6 +2,55 @@
 
 ---
 
+## 2026-06-03 研究報告
+
+### 新主題建議
+
+1. **Best Tablets 2026**
+   - 建議 slug: `best-tablets`
+   - EN title: Best Tablets of 2026: iPad Air (M3) vs iPad Pro (M4) vs Samsung Galaxy Tab S11 vs iPad (11th gen) Compared
+   - ZH-TW title: 2026 最佳平板電腦排行榜：iPad Air、iPad Pro、Galaxy Tab S11、iPad 實測推薦
+   - 目標關鍵字: best tablet 2026, iPad Air M3 review, iPad Pro M4 review, Samsung Galaxy Tab S11 review, best tablet for students 2026, iPad vs Galaxy Tab 2026, best Android tablet 2026, best budget tablet 2026, best tablet for drawing 2026
+   - SEO 潛力：平板電腦是消費電子品類中搜尋量最穩定、購買決策週期最明確（14 至 30 天）、客單價跨度最完整（$200 至 $1,599）的核心單品，這個主題完全填補 toprankland 的明顯缺口。網站已有 best-laptops、best-e-readers、best-foldable-smartphones，唯獨缺平板，這是消費電子三大件中唯一未覆蓋的品類。iPad Air（M3）主導「最佳整體」段（$599 起），以 M3 晶片、Apple Pencil Pro 支援、最完整 App 生態成為 Wirecutter、PCMag、Tom's Guide 2026 年一致首選。iPad Pro（M4）切旗艦段（$999 起）以 Tandem OLED Ultra Retina XDR 顯示、M4 晶片主導創作者與專業族群。Samsung Galaxy Tab S11 切 Android 旗艦段（$799 起）以 AMOLED 螢幕、S Pen、DeX 桌面模式主導 Android 陣營。iPad（第 11 代，A16）切預算旗艦段（$349）主導學生與家庭族群，是搜尋量最高的單一機型。Galaxy Tab S11 FE 與 OnePlus Pad 3 切中階性價比段（$449 至 $549）。「best tablet for students 2026」與「best tablet for drawing 2026」是兩個轉換意圖極強的長尾，學生返校季（7 至 9 月）與假期檔期形成雙搜尋峰值。Apple 與 Samsung 兩大品牌的 affiliate 結構成熟，配件加購（鍵盤保護殼、觸控筆、保護貼）平均加購 $80 至 $200，這是消費電子品類中加購率最高的單品之一。本主題優先級最高，建議立即上線。
+
+2. **Best Electric Toothbrushes 2026**
+   - 建議 slug: `best-electric-toothbrushes`
+   - EN title: Best Electric Toothbrushes of 2026: Oral-B iO Series 10 vs Philips Sonicare 9900 Prestige vs Laifen Wave vs Bitvae R2 Compared
+   - ZH-TW title: 2026 最佳電動牙刷排行榜：Oral-B iO、Philips Sonicare、Laifen、Bitvae 實測推薦
+   - 目標關鍵字: best electric toothbrush 2026, Oral-B iO Series 10 review, Philips Sonicare 9900 review, Laifen Wave review, best electric toothbrush for gums, best budget electric toothbrush 2026, sonic vs oscillating toothbrush, best electric toothbrush dentist recommended
+   - SEO 潛力：電動牙刷是個人護理品類中復購週期穩定、刷頭耗材帶來持續性 affiliate 收入、搜尋量全年無季節性衰退的常青單品，這個主題開啟 toprankland 完全空白的個人護理類目。網站目前 57 個排行榜沒有任何牙齒護理、美容護理主題，這是巨大的品類缺口。Oral-B iO Series 10 切旗艦段（$300）以磁懸浮馬達、AI 刷牙追蹤、壓力感應主導 Live Science、CNN Underscored 2026 年整體最佳推薦。Philips Sonicare 9900 Prestige 切聲波旗艦段（$330）以 SenseIQ 自適應、最強去牙菌斑數據主導牙周護理族群。Laifen Wave 切新銳性價比段（$70 至 $100）以聲波加擺動雙模式、可調震幅主導 2026 年話題度最高的破壞式品牌。Bitvae R2 與 Fairywill 切超預算段（$25 至 $40）主導 Amazon 入門通路，是搜尋量極高的價格敏感族群首選。刷頭耗材每 3 個月更換一次，單支 $8 至 $15，帶來品類中最穩定的持續性 affiliate 復購收入，這是其他一次性購買品類沒有的優勢。「best electric toothbrush dentist recommended」與「best electric toothbrush for gums」是高信任度長尾，購買意圖明確。本主題與後續可擴展的 best-water-flossers、best-hair-dryers 形成個人護理矩陣的起點。
+
+3. **Best Hair Dryers 2026**
+   - 建議 slug: `best-hair-dryers`
+   - EN title: Best Hair Dryers of 2026: Dyson Supersonic Nural vs Shark HyperAIR vs Laifen Swift vs T3 AireLuxe Compared
+   - ZH-TW title: 2026 最佳吹風機排行榜：Dyson、Shark、Laifen、T3 實測推薦
+   - 目標關鍵字: best hair dryer 2026, Dyson Supersonic Nural review, Shark HyperAIR review, Laifen Swift review, best hair dryer for fine hair, best affordable hair dryer 2026, Dyson vs Shark hair dryer, best hair dryer for curly hair
+   - SEO 潛力：吹風機是美容護理品類中客單價高（$50 至 $500）、品牌溢價明確、禮品檔期搜尋紅利強的旗艦單品。Dyson Supersonic Nural 切旗艦段（$429）以智慧溫控、磁吸風嘴、最強品牌號召力主導整體最佳推薦，是搜尋量單一最高的機型，「Dyson hair dryer」全年搜尋量穩居美容電器之首。Shark HyperAIR 切高性價比挑戰段（$200）以 IQ 智慧風控、附捲髮配件、Dyson 一半價格主導性價比族群，2025 年市佔率快速成長。Laifen Swift 切新銳破壞段（$169）以 110,000 轉高速馬達、負離子、輕量化主導 2026 年話題度最高的破壞式品牌。T3 AireLuxe 與 Drybar Buttercup 切沙龍段（$200 至 $250）主導專業造型族群。Revlon One-Step 切吹風梳一體段（$60）以多功能造型主導 Amazon 暢銷榜常青款。母親節、節日禮品季、黑五形成三大搜尋峰值，吹風機是美容類目禮品轉換率最高的單品之一。「Dyson vs Shark hair dryer」是高比較意圖長尾，「best hair dryer for curly hair」與「for fine hair」捕捉精準髮質族群。本主題與 best-electric-toothbrushes 共同建立個人護理與美容類目雙支柱。
+
+4. **Best Mirrorless Cameras 2026**
+   - 建議 slug: `best-mirrorless-cameras`
+   - EN title: Best Mirrorless Cameras of 2026: Sony a7 IV vs Canon EOS R6 Mark II vs Nikon Z6 III vs Fujifilm X-T5 Compared
+   - ZH-TW title: 2026 最佳無反相機排行榜：Sony、Canon、Nikon、Fujifilm 實測推薦
+   - 目標關鍵字: best mirrorless camera 2026, Sony a7 IV review, Canon EOS R6 Mark II review, Nikon Z6 III review, Fujifilm X-T5 review, best mirrorless camera for beginners, best camera for video 2026, best mirrorless camera for content creators
+   - SEO 潛力：無反相機是影像品類中購買決策週期最長（45 至 90 天）、客單價最高（$700 至 $4,000）、配件生態最完整的高 AOV 單品。網站已有 best-action-cameras 與 best-dash-cams，但缺主流相機這個影像核心類目。Sony a7 IV 切全片幅全能段（$2,498）以 33MP、最強對焦、最完整鏡頭群主導 content creator 與混合攝影族群。Canon EOS R6 Mark II 切運動人像段（$2,499）以高速連拍、最佳膚色主導婚禮與人像攝影師。Nikon Z6 III 切影音旗艦段（$2,497）以部分堆疊式感光元件、6K 內錄主導影音創作者。Fujifilm X-T5 切 APS-C 復古段（$1,699）以底片模擬、復古造型主導 vlog 與街拍社群，是 2026 年社群討論度最高的機型。Sony ZV-E10 II 與 Canon EOS R50 切入門 vlog 段（$700 至 $1,000）主導新手與 YouTuber 族群，「best mirrorless camera for beginners」搜尋量極高。鏡頭、記憶卡、腳架、外接麥克風平均加購 $300 至 $1,500，是 affiliate 單筆佣金最高的品類之一。本主題填補影像核心缺口，受眾為內容創作者、攝影愛好者、旅遊攝影族三層客群。
+
+5. **Best Open-Ear Headphones 2026**
+   - 建議 slug: `best-open-ear-headphones`
+   - EN title: Best Open-Ear Headphones of 2026: Shokz OpenFit 2 vs Bose Ultra Open vs Shokz OpenRun Pro 2 vs Huawei FreeArc Compared
+   - ZH-TW title: 2026 最佳開放式耳機排行榜：Shokz、Bose、Huawei 實測推薦
+   - 目標關鍵字: best open-ear headphones 2026, Shokz OpenFit 2 review, Bose Ultra Open Earbuds review, best bone conduction headphones 2026, best open-ear headphones for running, Shokz OpenRun Pro 2 review, best headphones for running 2026
+   - SEO 潛力：開放式與骨傳導耳機是音訊品類中成長最快的細分市場，這個主題與網站既有的 best-wireless-earbuds、best-noise-cancelling-headphones 區隔明確，捕捉「運動、跑步、戶外安全」這個入耳式耳機無法覆蓋的搜尋意圖。Shokz OpenFit 2 切空氣傳導旗艦段（$179）以耳掛式設計、不入耳、最佳跑步穩定度主導整體最佳推薦，Shokz 是開放式音訊品類市佔率第一的品牌。Bose Ultra Open Earbuds 切奢華夾耳段（$299）以 OpenAudio 技術、最佳音質主導高端通勤族群。Shokz OpenRun Pro 2 切骨傳導旗艦段（$179）以骨傳導加低音單元雙技術主導跑者與自行車族群，這是運動耳機搜尋量最高的機型。Huawei FreeArc 與 Soundcore AeroFit 2 切性價比段（$80 至 $130）主導 Amazon 入門族群。Shokz OpenFit Pro 在 CES 2026 獲創新獎肯定，搭載降噪與 Dolby Atmos，50 小時續航，推升品類話題度。「best open-ear headphones for running」與「best headphones for running 2026」是運動族群轉換意圖極強的長尾。本主題與 best-wireless-earbuds 形成音訊雙軸，覆蓋運動族、戶外族、安全意識通勤族三層客群。
+
+### 市場動態
+
+- 機器人吸塵器（對應 best-robot-vacuums）：CES 2026 重要新品密集發布，Roborock Saros 20 以 AI 感知與全自動免手動維護重新定義自主清潔，Ecovacs Deebot X11 OmniCyclone 與 Dreame Aqua10 Ultra Roller 同獲 CES 2026 創新獎榮譽。建議在排行榜中加入這三款 2026 旗艦新品，維持榜單時效性。
+- 機器人泳池清潔機（對應 best-robotic-pool-cleaners）：MAMMOTION SPINO S1 Pro 獲 CES 2026 創新獎，搭載機械手臂輔助充電底座，能自動將清潔機從水中抬升至泳池甲板充電，這是無線泳池清潔機品類的突破設計，建議納入榜單頂端。夏季泳池檔期（6 至 8 月）正是這個主題的搜尋峰值。
+- 4K 電視（對應 best-4k-tvs）：LG 推出品牌首款旗艦 RGB 電視 LG Micro RGB evo，採用 RGB micro-LED 背光與 LG 最小 RGB LED，色彩表現創新高。這款新品改變高端電視競爭格局，建議更新榜單高端段。
+- 電子閱讀器（對應 best-e-readers）：Kindle Colorsoft 彩色顯示版本持續優化，色彩更鮮豔、無眩光螢幕、自動亮度調節，鞏固 Amazon 在彩色電子紙閱讀器的領先地位，建議更新榜單彩色機型段落。
+- 空氣清淨機（對應 best-air-purifiers）：Dreame 旗下 Furcatch FP10 空氣清淨機獲 CES 2026 創新獎榮譽，主打寵物家庭場景，建議納入寵物友善細分推薦。
+
+---
+
 ## 2026-05-30 研究報告
 
 ### 新主題建議
@@ -2444,3 +2493,7 @@ best-password-managers, best-standing-desks, best-wireless-chargers, best-ai-pro
 - **可攜式螢幕受遠距辦公推動結構性走升**：Espresso Display 17 Pro 以 17.3 吋 4K 觸控確立 2026 年最佳整體與創作者首選，觸控版 $499。Asus ZenScreen MQ16AH 以 15.6 吋 OLED、100% DCI-P3 主導 OLED 旗艦段。ViewSonic VG1655 以雙 USB-C、內建電池、60W PD 供電以 $199.99 主導性價比段。Arzopa Z3FC 以 180Hz、QHD 主導筆電玩家段。遠距與混合辦公常態化使一機雙螢幕需求結構性走升，本品類與已上線 best-laptops、best-gaming-monitors 形成「行動生產力矩陣」。
 - **肌酸成為補給品矩陣第二軸，需求突破健身小眾**：肌酸是 toprankland 第二個高頻復購消耗品，與已建議 best-protein-powders 形成「補給品矩陣」核心雙軸，健身族群同時購買兩大消耗品。Transparent Labs Creatine HMB 以 5 克單水化合物加 HMB 確立最佳整體首選，Legion 肌酸軟糖以免沖泡主導便利段，是成長最快的新形態，Thorne Creatine 以 NSF 認證主導運動員段。認知功能、健康老化、女性健身族群帶動「creatine for women」與「creatine for brain」搜尋量在 2026 年 Q1 較 2024 年同期顯著上升，是品類最強需求新動能，肌酸科學背書最完整、客單價低決策快，是聯盟轉化率最高的補給品單品。
 - **防曬乳開創 toprankland 全新美妝高頻復購類目**：防曬乳是高頻復購消耗品，6 月夏季為品類搜尋量爆發起點，執行窗口延續到 9 月。CeraVe SPF 50 礦物防曬以高保濕配方確立最佳整體與乾性肌首選，EltaMD UV Clear 以含菸鹼醯胺、不致痘主導臉部專用段，La Roche-Posay Anthelios 以廣譜防護、80 分鐘抗汗主導敏感肌段，Supergoop Unseen 以無色妝前質地主導都會彩妝族群。皮膚科研究指出每日多次補擦高效防曬可降低皮膚癌風險達 50%，每日防曬已成護膚常識，本品類帶來與科技與居家受眾完全不重疊的全新護膚客群，可延伸建立 best-moisturizers、best-vitamin-c-serums 護膚子矩陣，開創全新美妝類目軸。
+
+### 2026-06-03 執行紀錄
+
+- **已建立 best-tablets 排行榜並部署**：採用 6 月 2 日研究報告第 2 建議題（平板電腦，核心 3C 類目最大缺口）。10 個競品全部 curl 驗證 URL（全數 200）。修正研究報告誤植定價：Galaxy Tab S11 Ultra 實際 Samsung US 售價為 $1,299.99（非 $1,199）。最終陣容與排名：iPad Air M4（9.3，最佳整體，$599）> iPad Pro M5（9.2，創作者旗艦，$999）> Galaxy Tab S11 Ultra（9.0，Android 之王，$1,299.99）> OnePlus Pad 3（8.8，Android 性價比，$699）> iPad mini A17 Pro（8.5，最佳小尺寸，$499）> Galaxy Tab S11（8.4，Android 主流，$799）> iPad A16（8.2，最佳預算 iPad，$349）> OnePlus Pad Go 2（8.0，學生中階，$399）> Xiaomi Pad 8 Pro（7.7，高 CP 入門，約 $531）> Amazon Fire Max 11（7.2，超預算追劇，$279）。調整研究報告候選清單：移除已被 S11 取代的 Galaxy Tab S10 Plus，改納 iPad mini A17 Pro 補上小尺寸區隔，避免三台 Samsung 重疊。台灣定價：Apple 與 Samsung 主流通路用 NT$ 直接標，OnePlus／Xiaomi／Amazon 無台灣官方代理用「約 NT$」。npm run build 通過（119 頁），wrangler OAuth token 已失效改靠 git push 觸發 GitHub 自動部署。剩餘建議題：best-portable-monitors、best-creatine、best-sunscreens。
