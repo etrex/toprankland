@@ -3619,6 +3619,196 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-03",
+      "rankings": [
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.3,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "elevenlabs",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.3,
+            "languageSupport": 9.7,
+            "latency": 9.2,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.6,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.8,
+            "emotionalRange": 8.6,
+            "languageSupport": 8.4,
+            "latency": 9.9,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 8.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "voiceRealism": 8.0,
+            "emotionalRange": 7.6,
+            "languageSupport": 8.6,
+            "latency": 7.7,
+            "valueForMoney": 8.4
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 11,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Voice Generation Models Compared (2026): ElevenLabs, OpenAI TTS, Hume, Cartesia, PlayHT",
+          "url": "https://sureprompts.com/blog/voice-generation-models-compared-2026",
+          "source": "SurePrompts"
+        },
+        {
+          "title": "Best AI Voice Generators in 2026: APIs Ranked by Voice Quality, Latency, and Price",
+          "url": "https://gradium.ai/content/best-ai-voice-generators-2026",
+          "source": "Gradium"
+        },
+        {
+          "title": "12 Best AI Voice Generators in 2026: The Listening Test",
+          "url": "https://www.techlinos.com/post/best-ai-voice-generators/",
+          "source": "Techlinos"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The clearest message in voice this June is that the choice is per-shot, not per-vendor. An audiobook chapter, a realtime support agent, a podcast intro, and a multilingual dub all have different right answers, and the provider that wins one rarely wins the next. That is why my ranking rewards range plus a clear specialty. ElevenLabs stays my top all-rounder pick among the named consumer tools because it is still the leader in ultra-realistic voice and professional cloning, and the v3 model localizes at scale across more than 70 languages with human-like speech, which makes it the default for audiobook narration. Hume's Octave 2 holds its slot as the emotion specialist, a voice LLM that reads script context and steers delivery through plain English instructions, so when a line genuinely needs to feel empathy or concern it is one of the most emotionally intelligent outputs you can get. Cartesia Sonic stays the latency king, targeting time-to-first-byte under 100 milliseconds, fast enough that a turn-taking agent can start replying before the user finishes their own sentence, plus instant cloning. I left every rank and score unchanged this week. The category is converging on specialization rather than a single leader, and nothing this week reordered who owns which shot, so the list stands.",
+          "highlights": [
+            {
+              "title": "Voice choice is per-shot",
+              "body": "An audiobook chapter, a realtime agent, a podcast intro, and a multilingual dub each have a different right answer. My ranking rewards range plus a clear specialty, because the provider that wins one job rarely wins the next."
+            },
+            {
+              "title": "ElevenLabs is the all-rounder default",
+              "body": "Still the leader in ultra-realistic voice and professional cloning, with v3 localizing across more than 70 languages with human-like speech. That breadth makes it the default for audiobook narration and the safest first pick for most projects."
+            },
+            {
+              "title": "Hume and Cartesia own their lanes",
+              "body": "Hume's Octave 2 is the emotion specialist, a voice LLM that steers delivery through plain English so a line can genuinely feel empathy. Cartesia Sonic is the latency king, targeting sub-100ms time-to-first-byte for realtime turn-taking agents."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "六月語音這塊最清楚的訊息就是，選擇是按用途，不是按廠商。有聲書章節、即時客服代理、Podcast 開場、多語配音，各有各的正解，贏了這個的廠商往往贏不了下一個。這就是為什麼我的榜單獎勵廣度加上明確專長。在點名的消費型工具裡，ElevenLabs 還是我的全能首選，因為它仍是極擬真語音跟專業克隆的領頭羊，v3 模型能在 70 多種語言上規模化在地化、講得跟真人一樣，這讓它成為有聲書旁白的預設。Hume 的 Octave 2 守住情感專家的位子，這是個會讀劇本脈絡、用白話英文指令調整演繹的語音 LLM，所以一句話真的需要有同理或關切時，它是你能拿到最有情緒智商的輸出之一。Cartesia Sonic 還是延遲之王，主打首位元組時間壓在 100 毫秒內，快到輪替式代理能在使用者話還沒講完就開始回，還有即時克隆。這週名次跟分數我全沒動。這個類別正往專業化收斂而非單一霸主，這禮拜也沒什麼重排了誰擅長哪一招，所以榜單照舊。",
+          "highlights": [
+            {
+              "title": "語音選擇按用途來",
+              "body": "有聲書章節、即時代理、Podcast 開場、多語配音，各有各的正解。我的榜單獎勵廣度加上明確專長，因為贏了一個活的廠商往往贏不了下一個。"
+            },
+            {
+              "title": "ElevenLabs 是全能預設",
+              "body": "仍是極擬真語音跟專業克隆的領頭羊，v3 能在 70 多種語言上在地化、講得像真人。這種廣度讓它成為有聲書旁白的預設，也是多數專案最安全的第一選擇。"
+            },
+            {
+              "title": "Hume 跟 Cartesia 各守一線",
+              "body": "Hume 的 Octave 2 是情感專家，用白話英文調整演繹，讓一句話真能流露同理。Cartesia Sonic 是延遲之王，主打首位元組壓在 100 毫秒內，給即時輪替代理用。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
