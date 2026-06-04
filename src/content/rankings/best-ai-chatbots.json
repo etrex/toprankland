@@ -3243,6 +3243,197 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-04",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.3,
+            "coding": 9.0,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.0,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.4,
+            "coding": 9.8,
+            "writing": 9.6,
+            "realtime": 7.5,
+            "value": 9.0,
+            "ecosystem": 9.0
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.9,
+            "realtime": 9.3,
+            "value": 9.5,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "reasoning": 8.8,
+            "coding": 8.2,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.4,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Chatbots Comparison: ChatGPT, Claude, Gemini and more",
+          "url": "https://artificialanalysis.ai/agents/chatbots",
+          "source": "Artificial Analysis"
+        },
+        {
+          "title": "AI Model Benchmarks June 2026: GPT-5.5, Claude, Gemini, Grok",
+          "url": "https://lmcouncil.ai/benchmarks",
+          "source": "LM Council"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Heading into June 2026 the consumer chatbot race is the tightest it has ever been, and I am keeping ChatGPT at the top for one practical reason: reach. GPT-5.5, OpenAI's flagship since April, still leads creative writing and powers the app that hundreds of millions of casual users open by default. On the raw Artificial Analysis Intelligence Index, Claude Opus 4.8 actually edges ahead at 61.4 against GPT-5.5's 60.2, which is exactly why Claude sits a close second here. If your day is mostly coding or careful long-form reasoning, Claude is the one I reach for first, and the gap is small enough that picking either feels safe. Gemini holds third on the strength of Gemini 3.1 Pro, which since its February launch has been the best of the big four for data analysis and structured reasoning, and Google's free tier keeps it in front of the average user. Grok stays mid-pack but earns its keep: xAI's 4.3 release at the end of April is the cheapest of the flagship models with genuinely strong tool-use scores, so for high-volume agentic workloads it is the value play. Perplexity remains my pick when the answer needs to be sourced and current, because its search-grounded answers still beat a general chatbot for anything you would otherwise Google. The rest of the board, Copilot, DeepSeek, Meta AI, Mistral and Qwen, are carried forward unchanged because nothing this week reshuffled them. My honest take: stop chasing the single best model. Match the tool to the task and you win on every axis that matters.",
+          "highlights": [
+            {
+              "title": "ChatGPT keeps number one on reach",
+              "body": "GPT-5.5 has led creative writing since its April launch and the app is the default for hundreds of millions of casual users. A consumer ranking should reward the product people actually open, and that is still ChatGPT by a wide margin."
+            },
+            {
+              "title": "Claude is the benchmark leader",
+              "body": "Claude Opus 4.8 tops the Artificial Analysis Intelligence Index at 61.4, just ahead of GPT-5.5 at 60.2. For coding and careful long-form reasoning it is the model I open first, which is why it sits a hair behind the top spot."
+            },
+            {
+              "title": "Gemini owns reasoning and the free tier",
+              "body": "Gemini 3.1 Pro has been the best of the big four for data analysis and structured reasoning since February. Google's generous free access keeps it in front of everyday users who never pay for a chatbot."
+            },
+            {
+              "title": "Grok is the value flagship",
+              "body": "Grok 4.3 from late April is the cheapest of the four flagships and posts strong agentic and tool-use scores. For high-volume automated workloads where token cost dominates, it is the smart pick."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "2026 年 6 月這個時間點，消費級聊天機器人的競爭比以往任何時候都更貼身，但我還是把 ChatGPT 放第一，理由很現實，就是觸及面。GPT-5.5 從 4 月當上 OpenAI 旗艦後，創意寫作依然稱霸，而且它撐起的那個 App 是好幾億輕度使用者打開就用的預設選擇。話說回來，純看 Artificial Analysis 智慧指數，Claude Opus 4.8 其實以 61.4 小贏 GPT-5.5 的 60.2，這也正是 Claude 緊咬第二的原因。如果你一天大部分時間在寫程式或處理需要細心推理的長文，我第一個開的就是 Claude，而且差距小到選哪個都很安全。Gemini 守住第三靠的是 Gemini 3.1 Pro，從 2 月上線以來，它在資料分析跟結構化推理上是四大旗艦裡最強的，加上 Google 免費額度大方，一般人用起來很有感。Grok 留在中段但站得住腳，xAI 4.3 在 4 月底推出，是旗艦群裡最便宜的，工具呼叫分數又紮實，量大的自動化任務拿它來算成本最划算。Perplexity 我自己在需要附來源、要最新資料時還是會選它，搜尋導向的回答對那種你本來要去 Google 的問題特別好用。後面的 Copilot、DeepSeek、Meta AI、Mistral、Qwen 這週沒有大事件，排名照舊。老實講，別再執著找唯一最強的模型了，把工具對準任務，每一項你都會贏。",
+          "highlights": [
+            {
+              "title": "ChatGPT 靠觸及面守住第一",
+              "body": "GPT-5.5 從 4 月上線後創意寫作一直領先，App 又是好幾億輕度使用者的預設選擇。消費級榜單該獎勵的就是大家真的會打開的產品，這點 ChatGPT 還是大幅領先。"
+            },
+            {
+              "title": "Claude 是跑分冠軍",
+              "body": "Claude Opus 4.8 在 Artificial Analysis 智慧指數拿 61.4，小贏 GPT-5.5 的 60.2。寫程式跟細心長文推理我第一個開的就是它，所以它緊咬第一只差一點點。"
+            },
+            {
+              "title": "Gemini 推理跟免費額度都強",
+              "body": "Gemini 3.1 Pro 從 2 月起在四大旗艦裡，資料分析跟結構化推理最強。Google 免費額度又大方，讓它在從不付費的日常使用者面前站得很前面。"
+            },
+            {
+              "title": "Grok 是高性價比旗艦",
+              "body": "4 月底的 Grok 4.3 是四大旗艦裡最便宜的，工具呼叫跟代理任務分數都不錯。量大、成本掛帥的自動化工作流，拿它最聰明。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

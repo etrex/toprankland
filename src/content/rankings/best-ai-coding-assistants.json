@@ -8929,6 +8929,199 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-04",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "codeQuality": 9.7,
+            "contextWindow": 9.6,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.6,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 7.7
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Coding Assistants 2026: Cursor vs Copilot vs Claude Code",
+          "url": "https://scrimba.com/articles/best-ai-coding-assistants-2026/",
+          "source": "Scrimba"
+        },
+        {
+          "title": "Claude Code vs Cursor vs Codex vs Antigravity, six months in",
+          "url": "https://thenewstack.io/claude-code-vs-cursor-vs-codex-vs-antigravity-2026/",
+          "source": "The New Stack"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "June brought real pricing and branding moves in the coding-tool space, and they sharpen rather than upend my ranking. Claude Code stays at number one because it is still the tool most production teams hand goal-level work to: describe an outcome, walk away, come back to a coherent multi-file change. Cursor holds second as the deepest in-editor experience, and its June Teams restructure into Standard seats at 32 dollars per seat annually and Premium at 96 makes the value math clearer for growing teams. Most shops I talk to run both, Cursor for line-level edits and Claude Code for delegation, and the new pricing does not change that pairing. The notable shake-up is at the edges of the board: Windsurf was renamed Devin Desktop on June 2 and now speaks the open Agent Client Protocol, so I am treating it as a continuation of the same product rather than a demotion, and it stays put. GitHub Copilot moved to usage-based AI Credits on June 1, which makes it harder to recommend blindly to casual users but keeps it the most broadly compatible option across editors, so third for OpenAI Codex and fourth for Copilot both hold. Google Jules sits fifth on the strength of Antigravity 2.0's multi-agent relaunch in May with Gemini 3.5 Flash as default. Everything below, Devin, Amazon Q, Zed, Aider, Windsurf and Augment, carries forward. The headline this month is billing, not capability, so I kept rank changes to zero and let the verdicts do the talking.",
+          "highlights": [
+            {
+              "title": "Claude Code owns goal-level delegation",
+              "body": "It remains the tool teams trust to take an outcome description and return a coherent multi-file change. That delegation workflow is what keeps it at number one even as rivals close on raw model quality."
+            },
+            {
+              "title": "Cursor's new pricing clarifies the value",
+              "body": "June's Teams restructure sets Standard seats at 32 dollars annually and Premium at 96 with 5x usage. As the deepest in-editor AI experience, it is still the line-level companion most teams pair with Claude Code."
+            },
+            {
+              "title": "Copilot is now usage-based but still universal",
+              "body": "The June 1 move to AI Credits changes the billing model, yet Copilot stays the most broadly compatible assistant across editors and languages. That reach keeps it solidly in the top four."
+            },
+            {
+              "title": "Windsurf is now Devin Desktop",
+              "body": "The June 2 rename brings open Agent Client Protocol support, so I treat it as the same product evolving rather than a new entrant. Its rank holds because the underlying tool and its strengths are unchanged."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "6 月寫程式工具圈出現了真實的價格跟品牌動作，這些消息讓我的排名更清晰，而不是被翻盤。Claude Code 還是第一，因為它依然是多數正式團隊願意交付「目標級」工作的工具，你描述一個結果，人走開，回來就是一份前後一致的跨檔案修改。Cursor 守第二，編輯器內整合最深，6 月它把 Teams 方案重整成 Standard 每席年繳約台幣一千、Premium 約三千的級距，成長中的團隊算起來更好懂。我聊過的多數團隊兩個一起用，Cursor 做行級編輯、Claude Code 做委派，新價格沒改變這個搭配。比較有看頭的變動在榜單邊緣，Windsurf 在 6 月 2 日改名 Devin Desktop，現在支援開放的 Agent Client Protocol，我把它當同一個產品的延續，排名不動。GitHub Copilot 6 月 1 日改成用量計費的 AI Credits，要無腦推薦給輕度使用者變難了，但它仍是跨編輯器相容性最好的選擇，所以 Codex 第三、Copilot 第四都守住。Google Jules 排第五，靠的是 5 月 Antigravity 2.0 多代理重啟、預設用 Gemini 3.5 Flash。再下面的 Devin、Amazon Q、Zed、Aider、Windsurf、Augment 全部照舊。這個月的重點是計費，不是能力，所以我把排名變動壓到零，讓判斷本身說話。",
+          "highlights": [
+            {
+              "title": "Claude Code 主宰目標級委派",
+              "body": "它依然是團隊敢把「描述一個結果」交出去、然後拿回前後一致跨檔案修改的工具。這套委派工作流，是它在對手追近模型品質之際還能守第一的原因。"
+            },
+            {
+              "title": "Cursor 新價格讓性價比更清楚",
+              "body": "6 月 Teams 重整把 Standard 設在每席年繳約台幣一千、Premium 約三千含五倍用量。身為編輯器內整合最深的體驗，它仍是多數團隊拿來搭配 Claude Code 的行級夥伴。"
+            },
+            {
+              "title": "Copilot 改用量計費但仍最通用",
+              "body": "6 月 1 日改成 AI Credits 改了計費模式，但 Copilot 依然是跨編輯器、跨語言相容性最好的助手。這份廣度讓它穩穩待在前四。"
+            },
+            {
+              "title": "Windsurf 現在叫 Devin Desktop",
+              "body": "6 月 2 日改名同時帶來開放 Agent Client Protocol 支援，我把它當同一產品的演進，不是新面孔。底層工具跟強項沒變，所以排名不動。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -3809,6 +3809,199 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-04",
+      "rankings": [
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.3,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "elevenlabs",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.3,
+            "languageSupport": 9.7,
+            "latency": 9.2,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.6,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.8,
+            "emotionalRange": 8.6,
+            "languageSupport": 8.4,
+            "latency": 9.9,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 8.0,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "voiceRealism": 8.0,
+            "emotionalRange": 7.6,
+            "languageSupport": 8.6,
+            "latency": 7.7,
+            "valueForMoney": 8.4
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 11,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Eleven v3, the most expressive AI voice model",
+          "url": "https://elevenlabs.io/v3",
+          "source": "ElevenLabs"
+        },
+        {
+          "title": "AI Chatbots and Speech Arena rankings",
+          "url": "https://artificialanalysis.ai/agents/chatbots",
+          "source": "Artificial Analysis"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The voice-generation race in June 2026 is genuinely a two-horse photo finish at the top, and I have them tied at 9.4 for a reason. Inworld TTS-1.5 Max sits at number one because it currently tops the Artificial Analysis Speech Arena with an ELO around 1,236, winning blind tests for naturalness, emotional range and conversational flow, which is exactly what you want for real-time agents and interactive characters. ElevenLabs is right beside it and arguably still the more complete product: the Eleven v3 model launched in March handles emotional nuance, pacing and natural speech better than anything I have tested, now spans 70-plus languages, and the Text to Dialogue feature weaves multiple voices into one coherent scene with matched prosody. For voice cloning and creator tooling, ElevenLabs remains the king, so if your work is audiobooks, dubbing or branded voices, I still send you there first. Hume AI Octave 2 holds third for emotion-aware delivery, and Minimax Speech 02 HD and Cartesia Sonic 3 round out a strong upper tier on latency and quality. OpenAI GPT-4o mini TTS, Murf, WellSaid, Speechify, Resemble and Descript Overdub all carry forward unchanged. The honest read this month: Inworld edges the blind-test crown, ElevenLabs owns the ecosystem and cloning, and the right pick depends entirely on whether you are building agents or producing finished audio. No rank changes were warranted, so I held the board.",
+          "highlights": [
+            {
+              "title": "Inworld TTS-1.5 Max takes the blind-test crown",
+              "body": "It currently tops the Artificial Analysis Speech Arena around 1,236 ELO, winning on naturalness, emotional range and conversational flow. For real-time agents and interactive characters, that live-quality edge keeps it at number one."
+            },
+            {
+              "title": "ElevenLabs owns cloning and the ecosystem",
+              "body": "Eleven v3 from March handles emotion and pacing better than anything I have tested, spans 70-plus languages, and Text to Dialogue blends multiple voices seamlessly. For audiobooks, dubbing and branded voices it is still my first call."
+            },
+            {
+              "title": "Hume Octave 2 leads on emotion",
+              "body": "Its emotion-aware delivery makes it the pick when the read has to carry genuine feeling rather than just clarity. That specialization keeps it firmly in the upper tier at number three."
+            },
+            {
+              "title": "The top two split by use case",
+              "body": "Inworld edges live conversational quality, ElevenLabs owns finished-audio production and cloning. Pick by whether you are building an agent or producing a deliverable, and either choice is safe."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "2026 年 6 月的語音生成，頂端真的是兩強衝線、難分軒輊，我把它們並列 9.4 是有道理的。Inworld TTS-1.5 Max 排第一，因為它現在在 Artificial Analysis 語音競技場以約 1,236 ELO 居首，盲測在自然度、情緒幅度、對話流暢度都拿下，這正是即時語音代理跟互動角色要的東西。ElevenLabs 緊貼在旁，平心而論還是更完整的產品，3 月推出的 Eleven v3 在情緒細節、節奏、自然語感上比我測過的任何東西都好，現在涵蓋 70 多種語言，Text to Dialogue 還能把多個聲音編進同一個場景、韻律對得上。論語音克隆跟創作者工具，ElevenLabs 依然是王，所以你的活如果是有聲書、配音、品牌語音，我還是第一個叫你去用它。Hume AI Octave 2 守第三，主打情緒感知的演繹，Minimax Speech 02 HD 跟 Cartesia Sonic 3 在延遲跟品質上撐起強勢的上半段。OpenAI GPT-4o mini TTS、Murf、WellSaid、Speechify、Resemble、Descript Overdub 全部照舊。這個月老實說，Inworld 小贏盲測王冠，ElevenLabs 握有生態跟克隆，怎麼選完全看你是在做代理還是在產出成品音檔。沒有需要動排名的理由，所以我守住整個榜。",
+          "highlights": [
+            {
+              "title": "Inworld TTS-1.5 Max 拿下盲測王冠",
+              "body": "它現在在 Artificial Analysis 語音競技場約 1,236 ELO 居首，自然度、情緒幅度、對話流暢都贏。即時代理跟互動角色要的就是這份現場品質，所以第一是它。"
+            },
+            {
+              "title": "ElevenLabs 握有克隆與生態",
+              "body": "3 月的 Eleven v3 情緒跟節奏比我測過的都好，涵蓋 70 多種語言，Text to Dialogue 能無縫混多個聲音。有聲書、配音、品牌語音，我還是第一個推它。"
+            },
+            {
+              "title": "Hume Octave 2 情緒最強",
+              "body": "情緒感知的演繹讓它在「念稿要帶真情緒而不只是清楚」時成為首選。這份專長讓它穩穩待在上半段、排第三。"
+            },
+            {
+              "title": "前兩名依場景分工",
+              "body": "Inworld 小贏現場對話品質，ElevenLabs 握有成品音檔製作跟克隆。看你是在做代理還是產交付物來選，兩個都安全。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

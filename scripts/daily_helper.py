@@ -4,6 +4,8 @@ from pathlib import Path
 
 ROOT = Path("/Users/etrexkuo/toprankland/src/content/rankings")
 
+DATE = "2026-06-04"
+
 
 def load(name):
     p = ROOT / name
