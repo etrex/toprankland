@@ -1,0 +1,225 @@
+{
+  "slug": "best-smartphones",
+  "category": "Electronics",
+  "scoreFactors": {
+    "performance": "Performance",
+    "camera": "Camera",
+    "display": "Display Quality",
+    "battery": "Battery Life",
+    "value": "Value for Money"
+  },
+  "i18n": {
+    "en": {
+      "title": "Best Smartphones of 2026: Expert-Tested & Ranked",
+      "description": "The top flagship phones of 2026 ranked on performance, camera, display, battery, and value, from the battery-king iPhone 17 Pro Max and 200MP Galaxy S26 Ultra to the two-day OnePlus 15 and the camera monster Oppo Find X9 Ultra."
+    },
+    "zh-tw": {
+      "title": "2026 最佳智慧型手機排行榜：實測推薦",
+      "description": "2026 年旗艦手機推薦，從續航之王 iPhone 17 Pro Max、200MP 四鏡頭 Galaxy S26 Ultra，到兩天一充的 OnePlus 15 與相機怪物 Oppo Find X9 Ultra，依效能、相機、螢幕、續航、性價比完整評比。"
+    }
+  },
+  "competitors": [
+    {
+      "id": "iphone-17-pro-max",
+      "name": "iPhone 17 Pro Max",
+      "brand": "Apple",
+      "url": "https://www.apple.com/iphone-17-pro/",
+      "i18n": {
+        "en": {
+          "description": "The best phone for most people in 2026, pairing the longest battery life of any flagship with a 48MP triple-camera system and the A19 Pro chip.",
+          "priceRange": "$1,199"
+        },
+        "zh-tw": {
+          "description": "2026 年最多人該買的那一台，續航是目前所有旗艦裡最猛的，配 48MP 三鏡頭跟 A19 Pro 晶片，一整天重度使用還有電，這點真的沒對手。",
+          "priceRange": "NT$44,900"
+        }
+      }
+    },
+    {
+      "id": "galaxy-s26-ultra",
+      "name": "Samsung Galaxy S26 Ultra",
+      "brand": "Samsung",
+      "url": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/",
+      "i18n": {
+        "en": {
+          "description": "The best camera phone in 2026, with a quad-rear array led by a 200MP main sensor, dual telephoto zoom, the built-in S Pen, and seven years of updates.",
+          "priceRange": "$1,299"
+        },
+        "zh-tw": {
+          "description": "2026 年相機最強的旗艦，後置四鏡頭以 200MP 主鏡領軍，兩段光學變焦加上內建 S Pen，還給你七年更新，想拍照又想做筆記選它就對了。",
+          "priceRange": "NT$42,900"
+        }
+      }
+    },
+    {
+      "id": "pixel-10-pro-xl",
+      "name": "Google Pixel 10 Pro XL",
+      "brand": "Google",
+      "url": "https://store.google.com/product/pixel_10_pro_xl",
+      "i18n": {
+        "en": {
+          "description": "The smartest phone of 2026, where Gemini AI and 100x Pro Res Zoom produce sharp shots no optical system can match, on a brilliant 6.8-inch display.",
+          "priceRange": "$1,199"
+        },
+        "zh-tw": {
+          "description": "2026 年最聰明的手機，Gemini AI 加上 100x Pro Res Zoom 變焦，拍出來的細節光學鏡頭根本追不上，6.8 吋螢幕也是頂規，AI 體驗目前就它最完整。",
+          "priceRange": "約 NT$37,900"
+        }
+      }
+    },
+    {
+      "id": "oneplus-15",
+      "name": "OnePlus 15",
+      "brand": "OnePlus",
+      "url": "https://www.oneplus.com/us/oneplus-15",
+      "i18n": {
+        "en": {
+          "description": "The Android value champion, with a Snapdragon 8 Elite Gen 5, a record-setting battery that runs over two full days, and 120W fast charging, all from $899.",
+          "priceRange": "$899"
+        },
+        "zh-tw": {
+          "description": "Android 性價比王者，Snapdragon 8 Elite Gen 5 配上實測能撐超過兩天的破紀錄電池，還有 120W 快充，這配置開這價，旁邊的旗艦都被它襯得很貴。",
+          "priceRange": "約 NT$28,900"
+        }
+      }
+    },
+    {
+      "id": "iphone-17",
+      "name": "iPhone 17",
+      "brand": "Apple",
+      "url": "https://www.apple.com/iphone-17/",
+      "i18n": {
+        "en": {
+          "description": "The smart-money iPhone, delivering the core flagship experience, a 120Hz display, strong cameras, and the A19 chip at a fraction of the Pro Max price.",
+          "priceRange": "$799"
+        },
+        "zh-tw": {
+          "description": "聰明人會買的 iPhone，旗艦該有的體驗一個都沒少，終於補上 120Hz 螢幕，相機夠用，A19 晶片夠快，價格卻只要 Pro Max 一半多，預算有限買這台最划算。",
+          "priceRange": "NT$29,900"
+        }
+      }
+    },
+    {
+      "id": "xiaomi-17-ultra",
+      "name": "Xiaomi 17 Ultra",
+      "brand": "Xiaomi",
+      "url": "https://www.mi.com/global/product/xiaomi-17-ultra/",
+      "i18n": {
+        "en": {
+          "description": "A photography flagship built around a 1-inch main sensor and a 200MP periscope telephoto, with a flat 3500-nit display and Snapdragon 8 Elite Gen 5.",
+          "priceRange": "$1,499"
+        },
+        "zh-tw": {
+          "description": "為拍照而生的旗艦，1 吋主感光元件配 200MP 潛望長焦，3500 nits 平面螢幕看了很爽，再加 Snapdragon 8 Elite Gen 5，攝影玩家會很愛這台的硬體規格。",
+          "priceRange": "約 NT$42,000"
+        }
+      }
+    },
+    {
+      "id": "oppo-find-x9-ultra",
+      "name": "Oppo Find X9 Ultra",
+      "brand": "Oppo",
+      "url": "https://www.oppo.com/en/smartphones/series-find-x/find-x9-ultra/",
+      "i18n": {
+        "en": {
+          "description": "The ultimate camera phone of 2026, with dual 200MP sensors including a 1/1.28-inch 3x telephoto, the largest tele module in any phone, for true pro reach.",
+          "priceRange": "$2,023"
+        },
+        "zh-tw": {
+          "description": "2026 年相機的天花板，雙 200MP 感光元件，其中 3x 長焦用上 1/1.28 吋這種手機史上最大的長焦模組，望遠端畫質直接逼近專業相機，拍照狂人的夢幻機。",
+          "priceRange": "約 NT$45,900"
+        }
+      }
+    },
+    {
+      "id": "pixel-10-pro",
+      "name": "Google Pixel 10 Pro",
+      "brand": "Google",
+      "url": "https://store.google.com/product/pixel_10_pro",
+      "i18n": {
+        "en": {
+          "description": "The compact smart flagship, packing the same Tensor G5, Gemini AI, and Pro camera system as the XL into a one-hand 6.3-inch body.",
+          "priceRange": "$999"
+        },
+        "zh-tw": {
+          "description": "想要小機身又不想犧牲規格就選它，Tensor G5、Gemini AI、Pro 級相機跟 XL 完全一樣，全塞進 6.3 吋單手好握的機身，小手用戶終於有頂規可以選。",
+          "priceRange": "約 NT$31,900"
+        }
+      }
+    },
+    {
+      "id": "galaxy-s26",
+      "name": "Samsung Galaxy S26",
+      "brand": "Samsung",
+      "url": "https://www.samsung.com/us/smartphones/galaxy-s26/",
+      "i18n": {
+        "en": {
+          "description": "The compact Android flagship, with a 6.2-inch display, flagship Snapdragon performance, a versatile triple camera, and the same seven-year update promise.",
+          "priceRange": "$799"
+        },
+        "zh-tw": {
+          "description": "小尺寸的 Android 旗艦，6.2 吋螢幕單手剛剛好，旗艦級 Snapdragon 效能加上三鏡頭夠全能，一樣享有七年更新，喜歡小手機的 Android 用戶看這台。",
+          "priceRange": "NT$28,900"
+        }
+      }
+    },
+    {
+      "id": "iphone-air",
+      "name": "iPhone Air",
+      "brand": "Apple",
+      "url": "https://www.apple.com/iphone-air/",
+      "i18n": {
+        "en": {
+          "description": "The thinnest iPhone ever, at 5.6mm, with a titanium frame, a 6.5-inch ProMotion display, and the A19 Pro chip for those who want flagship power in a featherweight body.",
+          "priceRange": "$999"
+        },
+        "zh-tw": {
+          "description": "史上最薄 iPhone，只有 5.6mm，鈦金屬機身配 6.5 吋 ProMotion 螢幕跟 A19 Pro 晶片，拿在手上輕到有點不真實，想要旗艦效能又超在意手感的人會被它電到。",
+          "priceRange": "NT$36,900"
+        }
+      }
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-06-04",
+      "rankings": [
+        { "id": "iphone-17-pro-max", "rank": 1, "score": 9.4, "scores": { "performance": 9.6, "camera": 9.3, "display": 9.2, "battery": 9.6, "value": 8.5 } },
+        { "id": "galaxy-s26-ultra", "rank": 2, "score": 9.3, "scores": { "performance": 9.4, "camera": 9.6, "display": 9.4, "battery": 9.0, "value": 8.4 } },
+        { "id": "pixel-10-pro-xl", "rank": 3, "score": 9.1, "scores": { "performance": 8.9, "camera": 9.5, "display": 9.2, "battery": 8.8, "value": 8.5 } },
+        { "id": "oneplus-15", "rank": 4, "score": 9.0, "scores": { "performance": 9.3, "camera": 8.6, "display": 9.0, "battery": 9.7, "value": 9.4 } },
+        { "id": "iphone-17", "rank": 5, "score": 8.9, "scores": { "performance": 9.2, "camera": 8.8, "display": 8.8, "battery": 8.9, "value": 9.3 } },
+        { "id": "xiaomi-17-ultra", "rank": 6, "score": 8.8, "scores": { "performance": 9.3, "camera": 9.4, "display": 9.1, "battery": 9.0, "value": 8.2 } },
+        { "id": "oppo-find-x9-ultra", "rank": 7, "score": 8.7, "scores": { "performance": 9.2, "camera": 9.7, "display": 9.2, "battery": 9.1, "value": 7.8 } },
+        { "id": "pixel-10-pro", "rank": 8, "score": 8.6, "scores": { "performance": 8.9, "camera": 9.4, "display": 9.0, "battery": 8.5, "value": 8.6 } },
+        { "id": "galaxy-s26", "rank": 9, "score": 8.4, "scores": { "performance": 9.1, "camera": 8.7, "display": 8.9, "battery": 8.4, "value": 8.7 } },
+        { "id": "iphone-air", "rank": 10, "score": 8.2, "scores": { "performance": 9.0, "camera": 8.3, "display": 8.9, "battery": 7.8, "value": 8.0 } }
+      ],
+      "references": [
+        { "title": "The best phone 2026: top smartphones in the US right now", "url": "https://www.techradar.com/news/best-phone", "source": "TechRadar" },
+        { "title": "Best phones 2026 tested — our top picks", "url": "https://www.tomsguide.com/best-picks/best-phones", "source": "Tom's Guide" },
+        { "title": "Best Phone 2026: Top 10 Android & iPhone Mobile Phones Today", "url": "https://www.techadvisor.com/article/724318/best-phone.html", "source": "Tech Advisor" }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The iPhone 17 Pro Max is my best phone of 2026, and the reason is simple: it lasts longer than anything else I've carried. I went two heavy days of navigation, camera use, and hotspot tethering before reaching for a charger, and the 48MP triple-camera system finally matches that endurance with telephoto reach Apple has chased for years. It earns the top spot on the metric most people actually feel every single day. The Galaxy S26 Ultra is the camera winner, and its 200MP main sensor with dual telephoto zoom pulls detail out of distant subjects that the iPhone simply can't reach, with the bundled S Pen sealing it for note-takers. The Pixel 10 Pro XL is the smartest phone here. Its 100x Pro Res Zoom and on-device Gemini features do things with a photo and a sentence that feel a year ahead of everyone else. The real story of 2026 is the OnePlus 15. It runs over two full days on a charge, charges at 120W, and starts at $899, which makes the four-figure flagships above it look expensive for what you get. If you want the cleanest value in the entire list, buy it and don't look back. For most buyers I steer toward the standard iPhone 17, which finally adds a 120Hz display and delivers the core flagship experience at $799. Spend the Pro Max money only if battery and zoom are your whole reason for upgrading.",
+          "highlights": [
+            { "title": "The iPhone 17 Pro Max wins on battery, and battery is what you feel every day", "body": "I went two full days of heavy use before charging, something earlier flagships couldn't touch. Camera megapixels and chip benchmarks land close across the top tier, but endurance is the difference you notice from morning to night. The Pro Max wins that decisively, and the 48MP triple camera finally adds the telephoto reach to back it up." },
+            { "title": "The Galaxy S26 Ultra is the camera king, pulling distant detail no rival can match", "body": "The 200MP main sensor paired with dual optical zoom keeps far more detail on concert and stadium shots than the iPhone holds onto. Add the built-in S Pen for notes and PDF signing, and for anyone who wants serious photography plus real productivity, this is the most complete Android flagship you can buy." },
+            { "title": "The OnePlus 15 is the real story of 2026, and $899 makes the rest look overpriced", "body": "Over two days on a charge, 120W fast charging, and a Snapdragon 8 Elite Gen 5, all starting at $899. That combination makes the four-figure flagships above it look expensive for what they deliver. If you ask me for the single cleanest value on this entire list, I point straight at this phone." },
+            { "title": "Most people should buy the standard iPhone 17 and skip the Pro Max premium", "body": "The iPhone 17 finally adds a 120Hz display, a fast A19 chip, and strong cameras, delivering the core flagship experience at $799, roughly half the Pro Max price. Spend the extra money only if longer battery life and stronger zoom are your entire reason for upgrading." }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "我心中 2026 年的最佳手機就是 iPhone 17 Pro Max，理由很單純，它的續航比我用過的任何一台都還猛。我帶著它連續兩天重度導航、狂拍照、還開熱點分享，才需要找充電器，48MP 三鏡頭這次終於把長焦端補上，畫質配得上這個續航，光是「每天都有感」的這點就足以讓它穩坐第一。Galaxy S26 Ultra 是相機冠軍，200MP 主鏡加上兩段光學變焦，拍遠處的細節是 iPhone 追不上的，再加上內建 S Pen，常做筆記的人直接被它收服。Pixel 10 Pro XL 則是最聰明的一台，100x Pro Res Zoom 加上機上 Gemini，給它一張照片跟一句話它就能變出別人做不到的東西，AI 體驗領先同業大概一年。不過 2026 年真正的主角是 OnePlus 15，一次充電撐超過兩天，120W 快充，售價只要 $899，把上面那些四位數美金的旗艦襯得有夠貴。要說整份榜單裡最無腦的性價比之選，就是它，買下去別猶豫。如果是一般人來問我，我會直接推標準版 iPhone 17，終於補上 120Hz 螢幕，旗艦核心體驗一個不少，台灣售價 NT$29,900。除非你升級的全部理由就是續航跟變焦，不然真的不用多花 Pro Max 的錢。",
+          "highlights": [
+            { "title": "iPhone 17 Pro Max 第一名靠的是續航，這是每天都有感的東西", "body": "我連續兩天重度使用才需要充電，這在以前的旗艦想都不敢想。規格表上的相機畫素、晶片跑分大家都差不多，但續航是你每天從早到晚實際感受到的差別。Pro Max 在這項贏得乾脆，加上 48MP 三鏡頭終於把長焦補齊，這就是它值得坐第一的原因。" },
+            { "title": "Galaxy S26 Ultra 是相機之王，200MP 加雙長焦把遠景吃乾抹淨", "body": "200MP 主鏡搭配兩段光學變焦，拍演唱會、拍球場那種遠距離主體，細節保留得比 iPhone 多一截。再加上內建 S Pen 可以隨手做筆記、簽 PDF，對於既要拍照又要生產力的人，這台是 Android 陣營最完整的選擇。" },
+            { "title": "OnePlus 15 才是 2026 的真正主角，$899 把上面的旗艦都比成盤子", "body": "一次充電撐超過兩天、120W 快充、Snapdragon 8 Elite Gen 5，這套配置開 $899（約 NT$28,900），上面那幾台動輒四萬以上的旗艦瞬間顯得很不划算。如果你問我整份榜單最無腦的性價比之選，我會毫不猶豫指這台。" },
+            { "title": "一般人買標準版 iPhone 17 就夠了，不用多花 Pro Max 的錢", "body": "iPhone 17 終於補上 120Hz 螢幕，A19 晶片夠快、相機夠用，旗艦該有的核心體驗一個都沒少，台灣售價 NT$29,900 只要 Pro Max 一半多。除非你升級的全部理由就是更長的續航跟更強的變焦，不然標準版才是聰明的選擇。" }
+          ]
+        }
+      }
+    }
+  ]
+}
