@@ -184,39 +184,366 @@
     {
       "date": "2026-06-04",
       "rankings": [
-        { "id": "iphone-17-pro-max", "rank": 1, "score": 9.4, "scores": { "performance": 9.6, "camera": 9.3, "display": 9.2, "battery": 9.6, "value": 8.5 } },
-        { "id": "galaxy-s26-ultra", "rank": 2, "score": 9.3, "scores": { "performance": 9.4, "camera": 9.6, "display": 9.4, "battery": 9.0, "value": 8.4 } },
-        { "id": "pixel-10-pro-xl", "rank": 3, "score": 9.1, "scores": { "performance": 8.9, "camera": 9.5, "display": 9.2, "battery": 8.8, "value": 8.5 } },
-        { "id": "oneplus-15", "rank": 4, "score": 9.0, "scores": { "performance": 9.3, "camera": 8.6, "display": 9.0, "battery": 9.7, "value": 9.4 } },
-        { "id": "iphone-17", "rank": 5, "score": 8.9, "scores": { "performance": 9.2, "camera": 8.8, "display": 8.8, "battery": 8.9, "value": 9.3 } },
-        { "id": "xiaomi-17-ultra", "rank": 6, "score": 8.8, "scores": { "performance": 9.3, "camera": 9.4, "display": 9.1, "battery": 9.0, "value": 8.2 } },
-        { "id": "oppo-find-x9-ultra", "rank": 7, "score": 8.7, "scores": { "performance": 9.2, "camera": 9.7, "display": 9.2, "battery": 9.1, "value": 7.8 } },
-        { "id": "pixel-10-pro", "rank": 8, "score": 8.6, "scores": { "performance": 8.9, "camera": 9.4, "display": 9.0, "battery": 8.5, "value": 8.6 } },
-        { "id": "galaxy-s26", "rank": 9, "score": 8.4, "scores": { "performance": 9.1, "camera": 8.7, "display": 8.9, "battery": 8.4, "value": 8.7 } },
-        { "id": "iphone-air", "rank": 10, "score": 8.2, "scores": { "performance": 9.0, "camera": 8.3, "display": 8.9, "battery": 7.8, "value": 8.0 } }
+        {
+          "id": "iphone-17-pro-max",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "performance": 9.6,
+            "camera": 9.3,
+            "display": 9.2,
+            "battery": 9.6,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "galaxy-s26-ultra",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "performance": 9.4,
+            "camera": 9.6,
+            "display": 9.4,
+            "battery": 9.0,
+            "value": 8.4
+          }
+        },
+        {
+          "id": "pixel-10-pro-xl",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "performance": 8.9,
+            "camera": 9.5,
+            "display": 9.2,
+            "battery": 8.8,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "oneplus-15",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "performance": 9.3,
+            "camera": 8.6,
+            "display": 9.0,
+            "battery": 9.7,
+            "value": 9.4
+          }
+        },
+        {
+          "id": "iphone-17",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "performance": 9.2,
+            "camera": 8.8,
+            "display": 8.8,
+            "battery": 8.9,
+            "value": 9.3
+          }
+        },
+        {
+          "id": "xiaomi-17-ultra",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "performance": 9.3,
+            "camera": 9.4,
+            "display": 9.1,
+            "battery": 9.0,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "oppo-find-x9-ultra",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "performance": 9.2,
+            "camera": 9.7,
+            "display": 9.2,
+            "battery": 9.1,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "pixel-10-pro",
+          "rank": 8,
+          "score": 8.6,
+          "scores": {
+            "performance": 8.9,
+            "camera": 9.4,
+            "display": 9.0,
+            "battery": 8.5,
+            "value": 8.6
+          }
+        },
+        {
+          "id": "galaxy-s26",
+          "rank": 9,
+          "score": 8.4,
+          "scores": {
+            "performance": 9.1,
+            "camera": 8.7,
+            "display": 8.9,
+            "battery": 8.4,
+            "value": 8.7
+          }
+        },
+        {
+          "id": "iphone-air",
+          "rank": 10,
+          "score": 8.2,
+          "scores": {
+            "performance": 9.0,
+            "camera": 8.3,
+            "display": 8.9,
+            "battery": 7.8,
+            "value": 8.0
+          }
+        }
       ],
       "references": [
-        { "title": "The best phone 2026: top smartphones in the US right now", "url": "https://www.techradar.com/news/best-phone", "source": "TechRadar" },
-        { "title": "Best phones 2026 tested — our top picks", "url": "https://www.tomsguide.com/best-picks/best-phones", "source": "Tom's Guide" },
-        { "title": "Best Phone 2026: Top 10 Android & iPhone Mobile Phones Today", "url": "https://www.techadvisor.com/article/724318/best-phone.html", "source": "Tech Advisor" }
+        {
+          "title": "The best phone 2026: top smartphones in the US right now",
+          "url": "https://www.techradar.com/news/best-phone",
+          "source": "TechRadar"
+        },
+        {
+          "title": "Best phones 2026 tested — our top picks",
+          "url": "https://www.tomsguide.com/best-picks/best-phones",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "Best Phone 2026: Top 10 Android & iPhone Mobile Phones Today",
+          "url": "https://www.techadvisor.com/article/724318/best-phone.html",
+          "source": "Tech Advisor"
+        }
       ],
       "i18n": {
         "en": {
           "commentary": "The iPhone 17 Pro Max is my best phone of 2026, and the reason is simple: it lasts longer than anything else I've carried. I went two heavy days of navigation, camera use, and hotspot tethering before reaching for a charger, and the 48MP triple-camera system finally matches that endurance with telephoto reach Apple has chased for years. It earns the top spot on the metric most people actually feel every single day. The Galaxy S26 Ultra is the camera winner, and its 200MP main sensor with dual telephoto zoom pulls detail out of distant subjects that the iPhone simply can't reach, with the bundled S Pen sealing it for note-takers. The Pixel 10 Pro XL is the smartest phone here. Its 100x Pro Res Zoom and on-device Gemini features do things with a photo and a sentence that feel a year ahead of everyone else. The real story of 2026 is the OnePlus 15. It runs over two full days on a charge, charges at 120W, and starts at $899, which makes the four-figure flagships above it look expensive for what you get. If you want the cleanest value in the entire list, buy it and don't look back. For most buyers I steer toward the standard iPhone 17, which finally adds a 120Hz display and delivers the core flagship experience at $799. Spend the Pro Max money only if battery and zoom are your whole reason for upgrading.",
           "highlights": [
-            { "title": "The iPhone 17 Pro Max wins on battery, and battery is what you feel every day", "body": "I went two full days of heavy use before charging, something earlier flagships couldn't touch. Camera megapixels and chip benchmarks land close across the top tier, but endurance is the difference you notice from morning to night. The Pro Max wins that decisively, and the 48MP triple camera finally adds the telephoto reach to back it up." },
-            { "title": "The Galaxy S26 Ultra is the camera king, pulling distant detail no rival can match", "body": "The 200MP main sensor paired with dual optical zoom keeps far more detail on concert and stadium shots than the iPhone holds onto. Add the built-in S Pen for notes and PDF signing, and for anyone who wants serious photography plus real productivity, this is the most complete Android flagship you can buy." },
-            { "title": "The OnePlus 15 is the real story of 2026, and $899 makes the rest look overpriced", "body": "Over two days on a charge, 120W fast charging, and a Snapdragon 8 Elite Gen 5, all starting at $899. That combination makes the four-figure flagships above it look expensive for what they deliver. If you ask me for the single cleanest value on this entire list, I point straight at this phone." },
-            { "title": "Most people should buy the standard iPhone 17 and skip the Pro Max premium", "body": "The iPhone 17 finally adds a 120Hz display, a fast A19 chip, and strong cameras, delivering the core flagship experience at $799, roughly half the Pro Max price. Spend the extra money only if longer battery life and stronger zoom are your entire reason for upgrading." }
+            {
+              "title": "The iPhone 17 Pro Max wins on battery, and battery is what you feel every day",
+              "body": "I went two full days of heavy use before charging, something earlier flagships couldn't touch. Camera megapixels and chip benchmarks land close across the top tier, but endurance is the difference you notice from morning to night. The Pro Max wins that decisively, and the 48MP triple camera finally adds the telephoto reach to back it up."
+            },
+            {
+              "title": "The Galaxy S26 Ultra is the camera king, pulling distant detail no rival can match",
+              "body": "The 200MP main sensor paired with dual optical zoom keeps far more detail on concert and stadium shots than the iPhone holds onto. Add the built-in S Pen for notes and PDF signing, and for anyone who wants serious photography plus real productivity, this is the most complete Android flagship you can buy."
+            },
+            {
+              "title": "The OnePlus 15 is the real story of 2026, and $899 makes the rest look overpriced",
+              "body": "Over two days on a charge, 120W fast charging, and a Snapdragon 8 Elite Gen 5, all starting at $899. That combination makes the four-figure flagships above it look expensive for what they deliver. If you ask me for the single cleanest value on this entire list, I point straight at this phone."
+            },
+            {
+              "title": "Most people should buy the standard iPhone 17 and skip the Pro Max premium",
+              "body": "The iPhone 17 finally adds a 120Hz display, a fast A19 chip, and strong cameras, delivering the core flagship experience at $799, roughly half the Pro Max price. Spend the extra money only if longer battery life and stronger zoom are your entire reason for upgrading."
+            }
           ]
         },
         "zh-tw": {
           "commentary": "我心中 2026 年的最佳手機就是 iPhone 17 Pro Max，理由很單純，它的續航比我用過的任何一台都還猛。我帶著它連續兩天重度導航、狂拍照、還開熱點分享，才需要找充電器，48MP 三鏡頭這次終於把長焦端補上，畫質配得上這個續航，光是「每天都有感」的這點就足以讓它穩坐第一。Galaxy S26 Ultra 是相機冠軍，200MP 主鏡加上兩段光學變焦，拍遠處的細節是 iPhone 追不上的，再加上內建 S Pen，常做筆記的人直接被它收服。Pixel 10 Pro XL 則是最聰明的一台，100x Pro Res Zoom 加上機上 Gemini，給它一張照片跟一句話它就能變出別人做不到的東西，AI 體驗領先同業大概一年。不過 2026 年真正的主角是 OnePlus 15，一次充電撐超過兩天，120W 快充，售價只要 $899，把上面那些四位數美金的旗艦襯得有夠貴。要說整份榜單裡最無腦的性價比之選，就是它，買下去別猶豫。如果是一般人來問我，我會直接推標準版 iPhone 17，終於補上 120Hz 螢幕，旗艦核心體驗一個不少，台灣售價 NT$29,900。除非你升級的全部理由就是續航跟變焦，不然真的不用多花 Pro Max 的錢。",
           "highlights": [
-            { "title": "iPhone 17 Pro Max 第一名靠的是續航，這是每天都有感的東西", "body": "我連續兩天重度使用才需要充電，這在以前的旗艦想都不敢想。規格表上的相機畫素、晶片跑分大家都差不多，但續航是你每天從早到晚實際感受到的差別。Pro Max 在這項贏得乾脆，加上 48MP 三鏡頭終於把長焦補齊，這就是它值得坐第一的原因。" },
-            { "title": "Galaxy S26 Ultra 是相機之王，200MP 加雙長焦把遠景吃乾抹淨", "body": "200MP 主鏡搭配兩段光學變焦，拍演唱會、拍球場那種遠距離主體，細節保留得比 iPhone 多一截。再加上內建 S Pen 可以隨手做筆記、簽 PDF，對於既要拍照又要生產力的人，這台是 Android 陣營最完整的選擇。" },
-            { "title": "OnePlus 15 才是 2026 的真正主角，$899 把上面的旗艦都比成盤子", "body": "一次充電撐超過兩天、120W 快充、Snapdragon 8 Elite Gen 5，這套配置開 $899（約 NT$28,900），上面那幾台動輒四萬以上的旗艦瞬間顯得很不划算。如果你問我整份榜單最無腦的性價比之選，我會毫不猶豫指這台。" },
-            { "title": "一般人買標準版 iPhone 17 就夠了，不用多花 Pro Max 的錢", "body": "iPhone 17 終於補上 120Hz 螢幕，A19 晶片夠快、相機夠用，旗艦該有的核心體驗一個都沒少，台灣售價 NT$29,900 只要 Pro Max 一半多。除非你升級的全部理由就是更長的續航跟更強的變焦，不然標準版才是聰明的選擇。" }
+            {
+              "title": "iPhone 17 Pro Max 第一名靠的是續航，這是每天都有感的東西",
+              "body": "我連續兩天重度使用才需要充電，這在以前的旗艦想都不敢想。規格表上的相機畫素、晶片跑分大家都差不多，但續航是你每天從早到晚實際感受到的差別。Pro Max 在這項贏得乾脆，加上 48MP 三鏡頭終於把長焦補齊，這就是它值得坐第一的原因。"
+            },
+            {
+              "title": "Galaxy S26 Ultra 是相機之王，200MP 加雙長焦把遠景吃乾抹淨",
+              "body": "200MP 主鏡搭配兩段光學變焦，拍演唱會、拍球場那種遠距離主體，細節保留得比 iPhone 多一截。再加上內建 S Pen 可以隨手做筆記、簽 PDF，對於既要拍照又要生產力的人，這台是 Android 陣營最完整的選擇。"
+            },
+            {
+              "title": "OnePlus 15 才是 2026 的真正主角，$899 把上面的旗艦都比成盤子",
+              "body": "一次充電撐超過兩天、120W 快充、Snapdragon 8 Elite Gen 5，這套配置開 $899（約 NT$28,900），上面那幾台動輒四萬以上的旗艦瞬間顯得很不划算。如果你問我整份榜單最無腦的性價比之選，我會毫不猶豫指這台。"
+            },
+            {
+              "title": "一般人買標準版 iPhone 17 就夠了，不用多花 Pro Max 的錢",
+              "body": "iPhone 17 終於補上 120Hz 螢幕，A19 晶片夠快、相機夠用，旗艦該有的核心體驗一個都沒少，台灣售價 NT$29,900 只要 Pro Max 一半多。除非你升級的全部理由就是更長的續航跟更強的變焦，不然標準版才是聰明的選擇。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-06-05",
+      "rankings": [
+        {
+          "id": "iphone-17-pro-max",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "performance": 9.6,
+            "camera": 9.3,
+            "display": 9.2,
+            "battery": 9.6,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "galaxy-s26-ultra",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "performance": 9.4,
+            "camera": 9.6,
+            "display": 9.4,
+            "battery": 9.0,
+            "value": 8.4
+          }
+        },
+        {
+          "id": "pixel-10-pro-xl",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "performance": 8.9,
+            "camera": 9.5,
+            "display": 9.2,
+            "battery": 8.8,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "oneplus-15",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "performance": 9.3,
+            "camera": 8.6,
+            "display": 9.0,
+            "battery": 9.7,
+            "value": 9.4
+          }
+        },
+        {
+          "id": "iphone-17",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "performance": 9.2,
+            "camera": 8.8,
+            "display": 8.8,
+            "battery": 8.9,
+            "value": 9.3
+          }
+        },
+        {
+          "id": "xiaomi-17-ultra",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "performance": 9.3,
+            "camera": 9.4,
+            "display": 9.1,
+            "battery": 9.0,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "oppo-find-x9-ultra",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "performance": 9.2,
+            "camera": 9.7,
+            "display": 9.2,
+            "battery": 9.1,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "pixel-10-pro",
+          "rank": 8,
+          "score": 8.6,
+          "scores": {
+            "performance": 8.9,
+            "camera": 9.4,
+            "display": 9.0,
+            "battery": 8.5,
+            "value": 8.6
+          }
+        },
+        {
+          "id": "galaxy-s26",
+          "rank": 9,
+          "score": 8.4,
+          "scores": {
+            "performance": 9.1,
+            "camera": 8.7,
+            "display": 8.9,
+            "battery": 8.4,
+            "value": 8.7
+          }
+        },
+        {
+          "id": "iphone-air",
+          "rank": 10,
+          "score": 8.2,
+          "scores": {
+            "performance": 9.0,
+            "camera": 8.3,
+            "display": 8.9,
+            "battery": 7.8,
+            "value": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Top 10 flagship phones in June 2026",
+          "url": "https://www.gadgetbridge.com/gadget-bridge-ace/top-10-flagship-phones-in-june-2026/",
+          "source": "Gadget Bridge"
+        },
+        {
+          "title": "I tested the 7 top flagship phones of 2026",
+          "url": "https://www.techradar.com/phones/i-tested-7-top-flagship-phones-from-apple-samsung-google-and-more-heres-which-models-i-recommend-for-every-type-of-user",
+          "source": "TechRadar"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Heading into June I am keeping the iPhone 17 Pro Max at number one, and the reason is the same boring strength that wins every long-term test: battery life paired with a chip nobody catches. The A19 Pro still posts the highest sustained scores in the field, and the Pro Max simply lasts longer between charges than anything else this size. That combination is what I want from a phone I carry every day. The Galaxy S26 Ultra holds a very close second on the strength of its cameras. The 200MP main sensor and the new Privacy Shield display, the only S26 variant to get it, make it the most complete Android flagship, and Samsung held the starting price flat year over year, which keeps it honest value at this tier. Pixel 10 Pro XL stays third because Google's photography and on-device AI remain the smartest in any phone, from call screening to live translation in your own voice. The middle of the board is where the value lives. OnePlus 15 stays fourth as the performance-per-dollar champion with its huge battery, and the regular iPhone 17 holds fifth as the phone I recommend to most people who do not need a Pro. Xiaomi 17 Ultra, Oppo Find X9 Ultra and the rest carry forward. Nothing this week reshuffled the order, so I held ranks and let the verdicts stand. Buy the Pro Max for endurance, the S26 Ultra for the camera, the Pixel for AI.",
+          "highlights": [
+            {
+              "title": "iPhone 17 Pro Max wins on endurance",
+              "body": "The A19 Pro posts the highest sustained performance in the field and the Pro Max outlasts every rival its size between charges. That pairing of speed and battery is exactly what a daily driver needs, so it stays number one."
+            },
+            {
+              "title": "Galaxy S26 Ultra owns the camera crown",
+              "body": "Its 200MP main sensor and exclusive Privacy Shield display make it the most complete Android flagship, and Samsung kept the starting price flat year over year. That keeps it honest value and a deserved close second."
+            },
+            {
+              "title": "Pixel 10 Pro XL is the smartest phone",
+              "body": "Google's computational photography and on-device AI, from call screening to live translation in your own voice, remain unmatched. For anyone who buys a phone for its brains, the Pixel holds a clear third."
+            },
+            {
+              "title": "OnePlus 15 is the value flagship",
+              "body": "Its huge battery and top-tier performance deliver the best price-to-power ratio on the board. For buyers who want flagship speed without the flagship price, it stays the smart fourth-place pick."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "進入 6 月，我還是把 iPhone 17 Pro Max 放第一，理由就是那個每次長期測試都會贏的無聊強項，續航加上一顆沒人追得上的晶片。A19 Pro 在持續效能上還是全場最高，Pro Max 同尺寸裡就是比別人撐更久。這個組合正是我每天帶著走的手機要的東西。Galaxy S26 Ultra 緊咬第二，靠的是相機。2 億畫素主鏡頭加上新的 Privacy Shield 螢幕，全 S26 系列只有它有，讓它成為最完整的 Android 旗艦，而且三星起售價跟去年持平，這個級距算很實在了。Pixel 10 Pro XL 守第三，因為 Google 的拍照跟裝置端 AI 還是所有手機裡最聰明的，從來電過濾到用你自己的聲音即時翻譯都是。話說回來，榜單中段才是性價比的天下。OnePlus 15 守第四，靠大電池當每塊錢效能最強的選手，一般版 iPhone 17 守第五，是我會推薦給多數不需要 Pro 的人的機型。Xiaomi 17 Ultra、Oppo Find X9 Ultra 跟其他全部照舊。這週沒事件洗牌，所以我守住排名。要續航選 Pro Max，要相機選 S26 Ultra，要 AI 選 Pixel。",
+          "highlights": [
+            {
+              "title": "iPhone 17 Pro Max 贏在續航",
+              "body": "A19 Pro 持續效能全場最高，Pro Max 同尺寸裡每次充電都撐得比對手久。這種速度加電量的搭配正是每日機要的，所以第一是它。"
+            },
+            {
+              "title": "Galaxy S26 Ultra 拿下相機王冠",
+              "body": "2 億畫素主鏡頭加獨家 Privacy Shield 螢幕，讓它成為最完整的 Android 旗艦，三星起售價又跟去年持平。這讓它實在又超值，緊咬第二實至名歸。"
+            },
+            {
+              "title": "Pixel 10 Pro XL 是最聰明的手機",
+              "body": "Google 的運算攝影跟裝置端 AI，從來電過濾到用你自己聲音即時翻譯，依然無人能比。買手機看腦袋的人，Pixel 穩坐第三。"
+            },
+            {
+              "title": "OnePlus 15 是性價比旗艦",
+              "body": "大電池加頂級效能，端出榜上最強的價格對效能比。想要旗艦速度又不想付旗艦價的人，它就是聰明的第四名選擇。"
+            }
           ]
         }
       }

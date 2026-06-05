@@ -9122,6 +9122,199 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-05",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "codeQuality": 9.7,
+            "contextWindow": 9.6,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.6,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.0,
+            "valueForMoney": 7.7
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "7 Best AI Coding Agents in June 2026 (15+ Reviewed)",
+          "url": "https://usefulai.com/tools/ai-coding",
+          "source": "Useful AI"
+        },
+        {
+          "title": "Best AI Coding Agents for 2026: Real-World Developer Reviews",
+          "url": "https://www.faros.ai/blog/best-ai-coding-agents-2026",
+          "source": "Faros AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code stays at number one, and this week's developer reviews back the call hard. It is the agent teams reach for when the job is complex: a multi-file refactor, a debugging session that needs reading tests and adjusting, a delegated task that recovers from its own mistakes. The adoption curve tells the story too, climbing from 4 percent to 63 percent developer adoption in nine months, which makes it the fastest-growing coding agent of the year. Describe an outcome, walk away, come back to a coherent change. Cursor holds second as the best AI-integrated IDE on the market. If you want AI woven into every keystroke with visual diffs and fast autocomplete, this is the one, and most shops I talk to run both: Cursor for line-level edits, Claude Code for delegation. OpenAI Codex stays third on the strength of GPT-5.5 for long-running agentic work across large codebases, multi-file refactors and validation loops. GitHub Copilot holds fourth and remains the adoption leader and the most broadly compatible option across editors and languages, which is exactly why it stays solidly in the top tier. Google Jules sits fifth on its Antigravity multi-agent relaunch. Devin, Amazon Q, Zed, Aider, Windsurf and Augment all carry forward. The honest read this month is that there is no single best agent in isolation. You pick by where you want leverage, speed inside the editor, control on large codebases, or autonomy up the stack, so I held ranks and let the verdicts do the talking.",
+          "highlights": [
+            {
+              "title": "Claude Code owns complex, goal-level work",
+              "body": "It is the agent teams trust with multi-file refactors and debugging sessions that recover from their own mistakes. Adoption jumped from 4 to 63 percent in nine months, the fastest-growing coding agent of the year, which keeps it at number one."
+            },
+            {
+              "title": "Cursor is the best AI-integrated IDE",
+              "body": "For AI woven into every keystroke with visual diffs and fast autocomplete, nothing else comes close. It is the line-level companion most teams pair with Claude Code, holding a clear second."
+            },
+            {
+              "title": "Copilot stays the most universal pick",
+              "body": "It leads the field in raw adoption and remains the most broadly compatible assistant across editors and languages. That reach keeps it solidly in the top four even as rivals push harder on autonomy."
+            },
+            {
+              "title": "Codex is OpenAI's agentic workhorse",
+              "body": "GPT-5.5 powers long-running agentic work across large codebases, multi-file refactors, tool use and validation loops. That capability holds it firmly at number three this month."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 還是第一，這週的開發者評測把這個判斷撐得很穩。它是團隊碰到複雜活就會找的代理，跨檔案重構、要讀測試再調整的除錯、會從自己錯誤裡爬回來的委派任務，全靠它。採用曲線也說明一切，九個月內開發者採用率從 4 趴衝到 63 趴，是今年成長最快的寫程式代理。你描述一個結果，人走開，回來就是一份前後一致的修改。Cursor 守第二，是市面上 AI 整合最好的 IDE。要 AI 融進每一個按鍵、要視覺化 diff 跟快速補全，就是它，我聊過的多數團隊兩個一起用，Cursor 做行級編輯、Claude Code 做委派。OpenAI Codex 守第三，靠 GPT-5.5 處理大型程式庫的長時間代理工作、跨檔案重構跟驗證迴圈。GitHub Copilot 守第四，依然是採用率龍頭，也是跨編輯器、跨語言相容性最好的選擇，這正是它穩穩待在前段的原因。Google Jules 排第五，靠 Antigravity 多代理重啟。Devin、Amazon Q、Zed、Aider、Windsurf、Augment 全部照舊。這個月老實講，沒有單一最強的代理，你照想要施力的地方選，編輯器內的速度、大型程式庫的掌控、還是更上層的自主性，所以我守住排名，讓判斷本身說話。",
+          "highlights": [
+            {
+              "title": "Claude Code 主宰複雜的目標級工作",
+              "body": "它是團隊敢把跨檔案重構、會自己爬回來的除錯交出去的代理。九個月採用率從 4 趴跳到 63 趴，是今年成長最快的寫程式代理，所以守第一。"
+            },
+            {
+              "title": "Cursor 是最強的 AI 整合 IDE",
+              "body": "要 AI 融進每個按鍵、視覺化 diff 加快速補全，沒人能比。它是多數團隊拿來搭配 Claude Code 的行級夥伴，穩坐第二。"
+            },
+            {
+              "title": "Copilot 仍是最通用的選擇",
+              "body": "它在純採用率上領先全場，也是跨編輯器、跨語言相容性最好的助手。這份廣度讓它穩穩待在前四，即使對手在自主性上加碼。"
+            },
+            {
+              "title": "Codex 是 OpenAI 的代理主力",
+              "body": "GPT-5.5 撐起大型程式庫的長時間代理工作、跨檔案重構、工具呼叫跟驗證迴圈。這份能力讓它這個月穩在第三。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
