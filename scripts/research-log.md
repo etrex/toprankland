@@ -2,6 +2,61 @@
 
 ---
 
+## 2026-06-08 研究報告
+
+### 新主題建議
+
+1. **Best Fitness Trackers 2026**
+   - 建議 slug: `best-fitness-trackers`
+   - EN title: Best Fitness Trackers of 2026: Whoop 5.0 vs Fitbit Air vs Garmin Venu 4 vs Fitbit Charge 6 Compared
+   - ZH-TW title: 2026 最佳健身手環排行榜：Whoop、Fitbit Air、Garmin、Fitbit Charge 實測推薦
+   - 目標關鍵字: best fitness tracker 2026, Fitbit Air review, Whoop 5.0 review, Whoop vs Garmin, Fitbit Charge 6 review, best fitness tracker for running 2026, best budget fitness tracker 2026, best fitness band no subscription, Fitbit Air vs Whoop
+   - SEO 潛力：健身手環是穿戴裝置品類中搜尋量全年穩定、價位帶完整（$99 至 $499）、訂閱與一次性購買兩種商業模式並存的核心單品，這個主題填補 toprankland 穿戴矩陣的明確缺口。網站已有 best-smart-watches 與 best-smart-rings，獨缺專屬健身手環這條軸線，三者組成完整穿戴推薦矩陣，cross-sell 動線清楚。2026 年品類最大變動是 Fitbit Air 在 5 月以 $99 價格切入 Whoop 主導的無螢幕貼身追蹤段，DC Rainmaker 直接定位為「$99 的 Whoop 競爭者」，這款新品把原本月費 $30 起的訂閱模式拉到一次性購買，「Fitbit Air review」與「Fitbit Air vs Whoop」是 2026 年 Q2 搜尋量爆發的兩個長尾。Whoop 5.0 主導恢復與睡眠的訂閱旗艦段，以被動教練定位、最深生理數據主導 biohacker 與耐力運動族群。Garmin 主導一次性購買無訂閱段，Forerunner 165 起價 $250 至 Fenix 8 破千美元，電池續航最長達 20 天，是「best fitness band no subscription」搜尋意圖的首選答案。Fitbit Charge 6 主導大眾全能段，以大螢幕、壓力管理、合理價格被 Stuff 評為多數人最佳選擇。父親節 6 月 21 日為健康意識爸爸首選禮品檔期，Oura Ring 4 與健身手環同列父親節健康穿戴熱門品類，本主題今日上線可捕捉父親節禮品搜尋窗口。affiliate 結構成熟，Whoop 訂閱帶來持續性佣金，Garmin 與 Fitbit 走 Amazon 與品牌通路，價位帶分層完整。本主題優先級最高，建議立即上線。
+
+2. **Best Espresso Machines 2026**
+   - 建議 slug: `best-espresso-machines`
+   - EN title: Best Espresso Machines of 2026: Breville Oracle Jet vs De'Longhi La Specialista Opera vs Breville Bambino vs De'Longhi La Specialista Touch Compared
+   - ZH-TW title: 2026 最佳義式咖啡機排行榜：Breville、De'Longhi 實測推薦
+   - 目標關鍵字: best espresso machine 2026, Breville Oracle Jet review, De'Longhi La Specialista Opera review, Breville vs De'Longhi espresso, best home espresso machine 2026, Breville Bambino review, best budget espresso machine 2026, best espresso machine for beginners
+   - SEO 潛力：義式咖啡機是廚房家電品類中客單價最高（$300 至 $2,500）、品牌雙雄格局明確、購買決策週期長（30 至 60 天）的高 AOV 旗艦單品。網站已有 best-coffee-makers，但義式咖啡機是搜尋意圖、價位、受眾完全不同的獨立品類，滴漏咖啡機主攻 $50 至 $300 大眾段，義式咖啡機主攻 $300 以上玩家與禮品段，兩者並存不互斥。CNN Underscored、Consumer Reports、Tom's Guide 三大媒體在 2026 年同步維護完整評測，品類由 Breville 與 De'Longhi 雙品牌主導，這種雙雄對比結構天然帶來「Breville vs De'Longhi」這個高比較意圖長尾，購買者在兩品牌間決策的搜尋行為穩定且明確。De'Longhi La Specialista Opera 切高性價比半自動段，被評為最佳整體推薦之一。De'Longhi La Specialista Touch 切觸控導引段，以 3.5 吋觸控螢幕引導全流程主導新手族群。Breville 主導易用性、溫控、雙鍋爐高端段，Oracle Jet 為旗艦對比機型。Breville Bambino 切入門段，是預算玩家進場首選。義式咖啡機客單價高，加上磨豆機、壓粉器、奶泡杯、咖啡豆耗材帶來持續性加購與復購收入，父親節為咖啡機年度第二大禮品檔期，本主題在父親節前兩週上線正逢搜尋研究期。建議優先上線。
+
+3. **Best Pizza Ovens 2026**
+   - 建議 slug: `best-pizza-ovens`
+   - EN title: Best Pizza Ovens of 2026: Ooni Koda 16 vs Solo Stove Pi Prime vs Gozney Roccbox vs Ooni Karu 16 Compared
+   - ZH-TW title: 2026 最佳披薩烤爐排行榜：Ooni、Solo Stove、Gozney 實測推薦
+   - 目標關鍵字: best pizza oven 2026, Ooni Koda 16 review, Solo Stove Pi Prime review, Ooni vs Solo Stove, best outdoor pizza oven 2026, best gas pizza oven 2026, Gozney Roccbox review, best pizza oven for beginners
+   - SEO 潛力：披薩烤爐是戶外烹飪品類中夏季搜尋集中、客單價穩定（$200 至 $700）、品牌話題度高的後院旗艦單品。網站已有 best-gas-grills 與 best-outdoor-griddles，披薩烤爐補上後院烹飪三件組的最後一塊，三者組成完整夏季戶外烹飪矩陣，受眾高度重疊，cross-sell 動線天然。Consumer Reports、TechGearLab、The Barbecue Lab、Yahoo 多家媒體在 2026 年同步維護完整評測。Ooni Koda 16 主導整體最佳段，Ooni 開創這個品類，Koda 16 以 16 吋烤盤、雙側火焰、15 分鐘達 900°F、60 秒烤好一片拿坡里披薩主導旗艦推薦。Solo Stove Pi Prime 主導新手友善與高性價比段，以容錯度高、不鏽鋼外觀、全景開口主導入門族群。Gozney Roccbox 切便攜專業段。品類在 2026 年明確倒向瓦斯機型，媒體推薦九成消費者選瓦斯，理由是達溫最快、免顧火，這降低了新手進場門檻，擴大搜尋族群。Memorial Day 至 Labor Day 為披薩烤爐年度單一最大搜尋窗口，父親節 6 月 21 日為烤爐熱門禮品檔期，今日 6 月 8 日上線完整捕捉「父親節加整個夏季」搜尋紅利。加上披薩石、剝皮鏟、紅外線測溫槍、麵團工具帶來穩定加購。建議立即上線。
+
+4. **Best Smart Locks 2026**
+   - 建議 slug: `best-smart-locks`
+   - EN title: Best Smart Locks of 2026: Aqara U400 vs Yale Assure Lock 2 vs Schlage Encode vs August Wi-Fi Smart Lock Compared
+   - ZH-TW title: 2026 最佳智慧門鎖排行榜：Aqara、Yale、Schlage、August 實測推薦
+   - 目標關鍵字: best smart lock 2026, Aqara U400 review, Yale Assure Lock 2 review, Schlage Encode review, best smart lock for Apple Home 2026, best keyless door lock 2026, August smart lock review, best smart lock no subscription
+   - SEO 潛力：智慧門鎖是智慧家庭品類中搜尋量全年穩定、客單價集中（$150 至 $400）、生態系綁定明確的核心單品，這個主題與網站既有的 best-video-doorbells、best-security-cameras、best-smart-thermostats 組成完整智慧家庭安全矩陣，受眾完全重疊，是站內 cross-sell 效率最高的補充品類。Consumer Reports、Security.org、SafeHome 三大媒體在 2026 年同步維護完整實驗室評測。2026 年品類最重要的技術變動是 Aqara Smart Lock U400 成為美國市場首款支援 UWB 超寬頻的智慧鎖，手機放口袋或手錶在手腕即可靠近自動開鎖，並支援 Samsung Wallet 數位家門鑰匙，Terry White 直接定位為「2026 年目前最佳智慧鎖」，「Aqara U400 review」是 2026 年搜尋量快速上升的長尾。August 主導易裝與設計段，以安裝簡單、外型佳、智慧家庭整合無縫主導大眾推薦。Yale Assure Lock 2 主導 Wi-Fi 模組擴充段，整合 Alexa、Google Home、SmartThings。Schlage Encode 主導免 hub 的 Wi-Fi 直連段。智慧鎖搜尋帶強生態系意圖，「best smart lock for Apple Home」與「best smart lock no subscription」是兩個轉換意圖明確的長尾，購買者通常已有特定智慧家庭平台，決策路徑短。本主題填補智慧家庭安全缺口，建議優先上線。
+
+5. **Best Portable Monitors 2026**
+   - 建議 slug: `best-portable-monitors`
+   - EN title: Best Portable Monitors of 2026: ViewSonic TD1656-2K vs ASUS ZenScreen vs ViewSonic VG1656N vs Arzopa A1 Gamut Compared
+   - ZH-TW title: 2026 最佳便攜螢幕排行榜：ViewSonic、ASUS、Arzopa 實測推薦
+   - 目標關鍵字: best portable monitor 2026, ViewSonic TD1656-2K review, ASUS ZenScreen review, best portable monitor for laptop 2026, best portable gaming monitor 2026, best budget portable monitor 2026, portable monitor for MacBook, best 4K portable monitor 2026
+   - SEO 潛力：便攜螢幕是行動運算配件品類中搜尋量穩定成長、客單價集中（$100 至 $400）、遠距工作與差旅族群剛需的補充單品，這個主題與網站既有的 best-laptops、best-tablets、best-standing-desks、best-mesh-wifi-systems 組成完整居家與行動辦公矩陣，受眾為遠距工作者、差旅商務族、雙螢幕生產力族群三層客群。Tom's Hardware、RTINGS、PCWorld 三大媒體在 2026 年同步維護完整評測。ViewSonic TD1656-2K 主導整體最佳段，以 16 吋 IPS、2K（2560 x 1600）解析度、原生 Windows 11 多點觸控、透過 vTouch 延伸 macOS 觸控主導旗艦推薦，在同價位多數對手仍停在 1080p 時形成明確規格優勢。ViewSonic VG1656N 主導高性價比段，$300 以下、16:10、支援無線連接。ASUS ZenScreen 主導平衡便攜段，約 1.5 磅加磁吸折疊保護套。Arzopa A1 Gamut 主導預算段，適合日常生產力與網頁瀏覽。便攜螢幕受眾與筆電、平板購買者高度重疊，是 affiliate 加購率高的配件單品，父親節遠距工作禮品與返校季雙窗口帶來搜尋峰值。本主題填補行動辦公配件缺口，建議上線。
+
+### 市場動態
+
+- **機器人吸塵器（對應 best-robot-vacuums）：Roborock Saros Z70 以 OmniGrip 五軸機械手臂重新定義品類頂端**：Saros Z70 是首款量產搭載可折疊五軸機械手臂的機器人吸塵器，能辨識並抓取地面雜物（毛球、布料、鞋子三類），手臂內建重量感測器，安全門檻 300g，搭配 22,000Pa 吸力、全橡膠雙主刷、7.98 公分超薄機身，獲頒 2025 年中最具創新獎。這款新品把機器人吸塵器從清潔工具推進到家務助手，建議在榜單頂端納入並更新「自動避障與雜物處理」段落，捕捉「robot vacuum with arm」這個新搜尋意圖。
+
+- **AI 影片生成器（對應 best-ai-video-generators）：Sora 2 退場，Veo 3.1 與 Kling 3.0 接管榜首，榜單需立即更新**：OpenAI 於 2026 年 3 月宣布 Sora 網頁與 App 在 4 月 26 日停止服務，Sora API 在 9 月 24 日停止，這個重大變動使 Sora 不再適合長期專案。2026 年新格局是 Veo 3.1 主導全能段，以最佳提示遵循、原生音訊、4K 輸出成為最安全的整體首選；Kling 3.0 主導性價比多鏡頭段，約 $0.10 每秒；Runway Gen-4.5 主導專業創作控制段。建議立即下修 Sora 排名並加註退場時程，將 Veo 3.1 與 Kling 3.0 推上榜單前段，維持榜單時效性與信任度。
+
+- **降噪耳機與無線耳機（對應 best-noise-cancelling-headphones、best-wireless-earbuds）：AirPods Pro 3 與 Sony WF-1000XM6 雙旗艦同台，需更新對比段落**：AirPods Pro 3 搭載 H2 晶片、入耳式心率感測、自適應降噪、ANC 開啟 8 小時續航、IP57 防水防汗，主打 Apple 生態用戶，價格較 Sony 便宜約 $81。Sony WF-1000XM6 以 QN3e 處理器、號稱世界最佳降噪、較前代降噪提升 25%、支援 LDAC 高解析音訊主導 Android 與發燒友族群。Sony WH-1000XM6 over-ear 同步以 QN3 處理器、12 麥克風即時自適應切過耳式旗艦段。建議更新兩份榜單的旗艦對比段落，「AirPods Pro 3 vs Sony WF-1000XM6」是 2026 年音訊品類搜尋量最高的對比長尾。
+
+- **4K 電視（對應 best-4k-tvs）：LG OLED evo W6 以 9mm 超薄無線設計切旗艦段**：LG OLED evo W6 厚度僅 9mm，壁掛時貼平牆面，搭配 Zero Connect Box 無線連接所有輸入埠。這款新品改寫高端壁掛電視美學標準，建議更新榜單高端與設計導向段落。
+
+- **DJI Osmo Pocket 4（對應 best-action-cameras）：1 吋感光元件加 4K 240fps 推升口袋雲台相機規格**：DJI 於 2026 年 4 月推出 Osmo Pocket 4，搭載 1 吋感光元件、4K 240fps，Canon 也以固定鏡頭形式進場這個品類。建議在 best-action-cameras 榜單納入口袋雲台相機段落，捕捉內容創作者與 vlog 族群搜尋。
+
+- **父親節 6 月 21 日進入禮品研究高峰期，健身手環、義式咖啡機、披薩烤爐為三大高購買意圖品類**：今日 6 月 8 日距父親節 13 天，正值平均 14 至 30 天購買決策週期的研究中段。健身手環（Fitbit Air、Oura Ring 4）對應健康意識爸爸，義式咖啡機（Breville、De'Longhi）對應高客單價科技與生活風格爸爸，披薩烤爐（Ooni、Solo Stove）對應後院烹飪爸爸。本日新建議三個排行榜直接對應父親節高購買意圖長尾，並同時承接整個夏季戶外與健康搜尋紅利。
+
+---
+
 ## 2026-06-03 研究報告
 
 ### 新主題建議
