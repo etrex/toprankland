@@ -306,6 +306,22 @@
           "priceRange": "NT$3,990"
         }
       }
+    },
+    {
+      "id": "airpods-pro-3",
+      "name": "AirPods Pro 3",
+      "brand": "Apple",
+      "url": "https://www.apple.com/airpods-pro/",
+      "i18n": {
+        "en": {
+          "description": "The default pick for iPhone owners, with ANC that now matches the Sony flagship, foam-infused silicone tips, and the tightest Apple ecosystem integration on the market.",
+          "priceRange": "$249"
+        },
+        "zh-tw": {
+          "description": "iPhone 用戶的預設答案，這代 ANC 已經追上 Sony 旗艦，泡棉矽膠耳塞配上 Apple 生態系的無縫整合，蘋果用戶閉著眼買就對了。",
+          "priceRange": "NT$7,490"
+        }
+      }
     }
   ],
   "history": [
@@ -9079,8 +9095,20 @@
           }
         },
         {
-          "id": "airpods-pro-2",
+          "id": "airpods-pro-3",
           "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "sound": 9.2,
+            "anc": 9.4,
+            "battery": 8.5,
+            "comfort": 9.2,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "airpods-pro-2",
+          "rank": 3,
           "score": 9.1,
           "scores": {
             "sound": 9,
@@ -9092,7 +9120,7 @@
         },
         {
           "id": "bose-qce2",
-          "rank": 3,
+          "rank": 4,
           "score": 8.9,
           "scores": {
             "sound": 9,
@@ -9104,7 +9132,7 @@
         },
         {
           "id": "samsung-buds4-pro",
-          "rank": 4,
+          "rank": 5,
           "score": 8.8,
           "scores": {
             "sound": 8.8,
@@ -9116,7 +9144,7 @@
         },
         {
           "id": "sony-wf-1000xm5",
-          "rank": 5,
+          "rank": 6,
           "score": 8.6,
           "scores": {
             "sound": 9,
@@ -9128,7 +9156,7 @@
         },
         {
           "id": "samsung-buds3-pro",
-          "rank": 6,
+          "rank": 7,
           "score": 8.6,
           "scores": {
             "sound": 8.5,
@@ -9140,7 +9168,7 @@
         },
         {
           "id": "jabra-elite10",
-          "rank": 7,
+          "rank": 8,
           "score": 8.5,
           "scores": {
             "sound": 8.5,
