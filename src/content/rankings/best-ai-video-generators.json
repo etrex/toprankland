@@ -4595,6 +4595,192 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-10",
+      "rankings": [
+        {
+          "id": "google-veo-3-1",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "kling-3-0",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9,
+            "motionRealism": 9.1,
+            "audioVideoSync": 8.6,
+            "characterConsistency": 8.9,
+            "valueForMoney": 9.7
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9,
+          "scores": {
+            "promptAdherence": 9,
+            "motionRealism": 8.8,
+            "audioVideoSync": 9.4,
+            "characterConsistency": 9,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 6,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 7,
+          "score": 8,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 9,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 10,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Video Generator in 2026: Runway, Veo, Seedance, Kling & More",
+          "url": "https://pixflow.net/blog/best-ai-video-generator/",
+          "source": "Pixflow"
+        },
+        {
+          "title": "Best Text-to-Video AI Generators June 2026: Top 10 Models Ranked",
+          "url": "https://www.buildmvpfast.com/articles/best-llms-2026-guide/video-generation-ai",
+          "source": "BuildMVPFast"
+        },
+        {
+          "title": "Best AI Video Generator (May 2026)",
+          "url": "https://llm-stats.com/leaderboards/best-ai-for-video-generation",
+          "source": "LLM-Stats"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "No movement at the top this week, and that is the right call given what the leaderboards are showing. Google Veo 3.1 stays at number one because it remains the most complete tool in the field. It generates dialogue, sound effects, and ambient audio in the same pass as the video, ships 4K in both landscape and portrait, and leads on prompt adherence. For narrative scenes and establishing shots it is still the strongest all-rounder I reach for.\n\nThe interesting subplot is Kling, which now tops the public text-to-video arena with a score around 2094 as of June. That validates its third-place hold here, because the arena rewards raw motion and physics quality, exactly where Kling 3.0 shines on water, smoke, fabric, and crowd action. It stays at three on my board because the all-around package, audio sync and 4K consistency, still favors Veo and Runway, but anyone whose brief lives or dies on motion should default to Kling.\n\nRunway Gen-4.5 holds second on creative control. Camera moves, motion brush, and reference-driven character consistency are why pros keep it in the pipeline, and the 9.7 character consistency score is the best in the field. Seedance 2.0 stays fourth as the value-forward all-rounder with strong audio-video sync. Hailuo, Luma Ray3, Pika, Adobe Firefly Video, Hunyuan, and Wan fill out the rest unchanged. One note worth flagging for planning. OpenAI discontinued the Sora web and app on April 26, with the API live only through September 24, so I am not adding it to this board.",
+          "highlights": [
+            {
+              "title": "Veo 3.1 stays number one as the most complete tool",
+              "body": "Veo generates dialogue, sound effects, and ambient audio in the same pass as the video, ships 4K in landscape and portrait, and leads on prompt adherence. For narrative work and establishing shots it remains the strongest all-rounder, which is why it holds the top spot unchanged this week."
+            },
+            {
+              "title": "Kling now tops the public arena, validating its podium spot",
+              "body": "As of June, Kling leads the text-to-video arena with a score around 2094. The arena rewards raw motion and physics, and Kling 3.0 handles water, smoke, fabric, and crowds better than anything else. If your brief depends on motion, make Kling your default even though it sits third on overall package here."
+            },
+            {
+              "title": "Runway Gen-4.5 holds second on creative control",
+              "body": "Camera moves, motion brush, and reference-driven character consistency keep Runway in the pro pipeline. Its 9.7 character consistency score is the best in the field, which is exactly what you want when a character has to look the same across a dozen shots."
+            },
+            {
+              "title": "Sora is off the table for new projects",
+              "body": "OpenAI discontinued the Sora web and app on April 26, with the API live only through September 24. I am keeping it off this board because committing a workflow to a product on a sunset timeline is a risk I would not take, and the alternatives above are stronger anyway."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週頂端沒有變動，看排行榜的數字，這也是對的決定。Google Veo 3.1 守第一，因為它仍然是這個領域裡最完整的工具。影片生成的同一趟就把對白、音效、環境音一起做出來，橫式直式都出 4K，提示遵循度領先。做敘事場景跟建立鏡頭，它還是我最先伸手拿的全能選手。\n\n有意思的支線是 Kling，6 月它在公開的文字轉影片競技場登頂，分數大概 2094。這印證了它在這裡守第三的位置，因為競技場獎勵的是純粹的動態跟物理品質，Kling 3.0 在水、煙、布料、人群動作這些地方就是強。它在我的榜上守第三，是因為論整體包裝，音畫同步跟 4K 一致性，還是 Veo 跟 Runway 比較吃香，但只要你的案子成敗全看動態，就直接預設選 Kling。\n\nRunway Gen-4.5 靠創意控制守第二。運鏡、motion brush、參考圖驅動的角色一致性，就是專業人士把它留在流程裡的原因，角色一致性 9.7 全場最高。Seedance 2.0 守第四，是 CP 值取向的全能選手，音畫同步很強。Hailuo、Luma Ray3、Pika、Adobe Firefly Video、Hunyuan、Wan 其餘名次不變。有一點要提醒規劃用，OpenAI 4 月 26 號收掉了 Sora 網頁版跟 app，API 也只開到 9 月 24 號，所以我不把它放進這個榜。",
+          "highlights": [
+            {
+              "title": "Veo 3.1 以最完整工具守第一",
+              "body": "Veo 在生成影片的同一趟就把對白、音效、環境音一起做出來，橫式直式都出 4K，提示遵循度領先。做敘事內容跟建立鏡頭它仍是最強全能選手，所以這週原樣守住榜首。"
+            },
+            {
+              "title": "Kling 登頂公開競技場，印證它的頒獎台位置",
+              "body": "6 月 Kling 以大約 2094 分領先文字轉影片競技場。競技場獎勵的是純動態跟物理，Kling 3.0 在水、煙、布料、人群處理得比誰都好。你的案子成敗看動態的話，就算它在這裡論整體包裝排第三，也該把它設成預設。"
+            },
+            {
+              "title": "Runway Gen-4.5 靠創意控制守第二",
+              "body": "運鏡、motion brush、參考圖驅動的角色一致性讓 Runway 留在專業流程裡。它的角色一致性 9.7 是全場最高，當一個角色要在十幾個鏡頭裡長得一樣，這正是你要的。"
+            },
+            {
+              "title": "新專案別碰 Sora 了",
+              "body": "OpenAI 4 月 26 號收掉 Sora 網頁版跟 app，API 也只撐到 9 月 24 號。我把它排除在這個榜外，因為把工作流綁在一個已經排好落日時程的產品上是我不會冒的險，何況上面那些替代品本來就更強。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

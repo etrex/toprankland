@@ -184,39 +184,366 @@
     {
       "date": "2026-06-09",
       "rankings": [
-        { "id": "cuisinart-perfectemp-cpk17", "rank": 1, "score": 9.3, "scores": { "tempControl": 9.0, "speed": 9.2, "buildQuality": 9.0, "easeOfUse": 9.5, "value": 9.4 } },
-        { "id": "fellow-stagg-ekg", "rank": 2, "score": 9.1, "scores": { "tempControl": 9.8, "speed": 8.8, "buildQuality": 9.6, "easeOfUse": 9.2, "value": 7.6 } },
-        { "id": "cosori-gooseneck-co108", "rank": 3, "score": 8.9, "scores": { "tempControl": 8.8, "speed": 8.8, "buildQuality": 8.6, "easeOfUse": 8.8, "value": 9.5 } },
-        { "id": "oxo-brew-adjustable", "rank": 4, "score": 8.7, "scores": { "tempControl": 9.4, "speed": 9.3, "buildQuality": 8.4, "easeOfUse": 9.0, "value": 8.2 } },
-        { "id": "ninja-precision-kt200", "rank": 5, "score": 8.5, "scores": { "tempControl": 8.4, "speed": 9.4, "buildQuality": 8.0, "easeOfUse": 8.8, "value": 9.0 } },
-        { "id": "breville-iq-bke820", "rank": 6, "score": 8.4, "scores": { "tempControl": 8.6, "speed": 8.6, "buildQuality": 9.0, "easeOfUse": 8.6, "value": 7.4 } },
-        { "id": "secura-swk1701", "rank": 7, "score": 8.2, "scores": { "tempControl": 7.4, "speed": 8.4, "buildQuality": 9.0, "easeOfUse": 8.2, "value": 9.0 } },
-        { "id": "bonavita-variable-1l", "rank": 8, "score": 8.0, "scores": { "tempControl": 8.8, "speed": 8.2, "buildQuality": 8.2, "easeOfUse": 8.0, "value": 7.4 } },
-        { "id": "cosori-smart-gooseneck-cs108", "rank": 9, "score": 7.8, "scores": { "tempControl": 8.6, "speed": 8.4, "buildQuality": 8.0, "easeOfUse": 7.4, "value": 7.6 } },
-        { "id": "hamilton-beach-41020", "rank": 10, "score": 7.6, "scores": { "tempControl": 7.8, "speed": 9.0, "buildQuality": 7.4, "easeOfUse": 8.2, "value": 9.2 } }
+        {
+          "id": "cuisinart-perfectemp-cpk17",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "tempControl": 9.0,
+            "speed": 9.2,
+            "buildQuality": 9.0,
+            "easeOfUse": 9.5,
+            "value": 9.4
+          }
+        },
+        {
+          "id": "fellow-stagg-ekg",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "tempControl": 9.8,
+            "speed": 8.8,
+            "buildQuality": 9.6,
+            "easeOfUse": 9.2,
+            "value": 7.6
+          }
+        },
+        {
+          "id": "cosori-gooseneck-co108",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "tempControl": 8.8,
+            "speed": 8.8,
+            "buildQuality": 8.6,
+            "easeOfUse": 8.8,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "oxo-brew-adjustable",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "tempControl": 9.4,
+            "speed": 9.3,
+            "buildQuality": 8.4,
+            "easeOfUse": 9.0,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "ninja-precision-kt200",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "tempControl": 8.4,
+            "speed": 9.4,
+            "buildQuality": 8.0,
+            "easeOfUse": 8.8,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "breville-iq-bke820",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "tempControl": 8.6,
+            "speed": 8.6,
+            "buildQuality": 9.0,
+            "easeOfUse": 8.6,
+            "value": 7.4
+          }
+        },
+        {
+          "id": "secura-swk1701",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "tempControl": 7.4,
+            "speed": 8.4,
+            "buildQuality": 9.0,
+            "easeOfUse": 8.2,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "bonavita-variable-1l",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "tempControl": 8.8,
+            "speed": 8.2,
+            "buildQuality": 8.2,
+            "easeOfUse": 8.0,
+            "value": 7.4
+          }
+        },
+        {
+          "id": "cosori-smart-gooseneck-cs108",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "tempControl": 8.6,
+            "speed": 8.4,
+            "buildQuality": 8.0,
+            "easeOfUse": 7.4,
+            "value": 7.6
+          }
+        },
+        {
+          "id": "hamilton-beach-41020",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "tempControl": 7.8,
+            "speed": 9.0,
+            "buildQuality": 7.4,
+            "easeOfUse": 8.2,
+            "value": 9.2
+          }
+        }
       ],
       "references": [
-        { "title": "Best electric kettles of 2026, tried and tested", "url": "https://www.cnn.com/cnn-underscored/reviews/the-best-electric-kettles", "source": "CNN Underscored" },
-        { "title": "9 Best Electric Kettles of 2026", "url": "https://www.reviewed.com/small-appliances/best-right-now/the-best-electric-kettles", "source": "Reviewed" },
-        { "title": "The Best Electric Kettles, Lab Tested & Ranked", "url": "https://www.techgearlab.com/topics/kitchen/best-electric-kettle", "source": "TechGearLab" }
+        {
+          "title": "Best electric kettles of 2026, tried and tested",
+          "url": "https://www.cnn.com/cnn-underscored/reviews/the-best-electric-kettles",
+          "source": "CNN Underscored"
+        },
+        {
+          "title": "9 Best Electric Kettles of 2026",
+          "url": "https://www.reviewed.com/small-appliances/best-right-now/the-best-electric-kettles",
+          "source": "Reviewed"
+        },
+        {
+          "title": "The Best Electric Kettles, Lab Tested & Ranked",
+          "url": "https://www.techgearlab.com/topics/kitchen/best-electric-kettle",
+          "source": "TechGearLab"
+        }
       ],
       "i18n": {
         "en": {
           "commentary": "I keep landing on the same conclusion after testing across this category: the most expensive kettle is rarely the smartest buy, and the Cuisinart PerfecTemp proves it. At roughly $99 it gives you six accurate presets, a 30-minute keep-warm, and a fast 1500W element, which is everything a daily tea and coffee household actually uses. That is why it takes number one over kettles that cost half again as much. The Fellow Stagg EKG earns second on the strength of genuine single-degree PID control and a counterweighted gooseneck that pours like nothing else here, and if your mornings revolve around pour-over it is worth every dollar. The real story of 2026 is how far the value picks have closed the gap. The Cosori Original Gooseneck delivers a controlled tapered pour and five presets for around $69, and the Ninja KT200 boils a single cup in about 90 seconds with seven brew presets for under $50. Spend more only when you have a specific reason: the OXO glass dial for one-degree tuning, the Breville IQ for an all-purpose premium build, or the Secura double wall when a cool-touch body and heat retention matter most. The Hamilton Beach 41020 anchors the budget end and still heats fast with six presets, which makes it the easiest kettle here to recommend to someone who just wants accurate hot water without overthinking it.",
           "highlights": [
-            { "title": "The Cuisinart PerfecTemp is the kettle most people should buy", "body": "It hits the exact sweet spot of price and capability. Six presets cover every tea and French press temperature, the keep-warm holds for 30 minutes, and the 1500W element reaches a boil quickly. For around $99 it matches features that premium kettles charge $150 or more for, and that is the whole reason it wins overall." },
-            { "title": "Fellow Stagg EKG is the pour-over precision standard", "body": "Single-degree PID control means the water actually holds the temperature you set, drifting within a degree or two for up to an hour. The counterweighted gooseneck gives you slow, exact pours over the coffee bed, and the built-in stopwatch turns brewing into a repeatable process. For serious pour-over, this is the one to beat." },
-            { "title": "Cosori's gooseneck is the value shock of the category", "body": "At around $69 it brings a tapered precision spout, five brew presets, and a 60-minute keep-warm to a price that undercuts the premium pour-over kettles by more than half. The pour control is genuinely good for the money, which makes it the smartest entry point for anyone curious about pour-over coffee." },
-            { "title": "Match the temperature mechanism to how you brew", "body": "Preset-button kettles like the Ninja and Hamilton Beach are fastest for everyday tea swapping. Dial and PID kettles like the OXO and Stagg give one-degree control for people who chase exact extraction. Pick the interface that fits your routine, because that decides daily satisfaction more than any spec sheet number." }
+            {
+              "title": "The Cuisinart PerfecTemp is the kettle most people should buy",
+              "body": "It hits the exact sweet spot of price and capability. Six presets cover every tea and French press temperature, the keep-warm holds for 30 minutes, and the 1500W element reaches a boil quickly. For around $99 it matches features that premium kettles charge $150 or more for, and that is the whole reason it wins overall."
+            },
+            {
+              "title": "Fellow Stagg EKG is the pour-over precision standard",
+              "body": "Single-degree PID control means the water actually holds the temperature you set, drifting within a degree or two for up to an hour. The counterweighted gooseneck gives you slow, exact pours over the coffee bed, and the built-in stopwatch turns brewing into a repeatable process. For serious pour-over, this is the one to beat."
+            },
+            {
+              "title": "Cosori's gooseneck is the value shock of the category",
+              "body": "At around $69 it brings a tapered precision spout, five brew presets, and a 60-minute keep-warm to a price that undercuts the premium pour-over kettles by more than half. The pour control is genuinely good for the money, which makes it the smartest entry point for anyone curious about pour-over coffee."
+            },
+            {
+              "title": "Match the temperature mechanism to how you brew",
+              "body": "Preset-button kettles like the Ninja and Hamilton Beach are fastest for everyday tea swapping. Dial and PID kettles like the OXO and Stagg give one-degree control for people who chase exact extraction. Pick the interface that fits your routine, because that decides daily satisfaction more than any spec sheet number."
+            }
           ]
         },
         "zh-tw": {
           "commentary": "我在這個品類來回實測之後，結論一直是同一個：最貴的那台很少是最聰明的選擇，Cuisinart PerfecTemp 就是最好的證明。差不多三千出頭的價位，給你六段準確預設、保溫 30 分鐘、1500W 快熱，這些剛好就是一個每天泡茶喝咖啡的家庭真正會用到的功能，所以它壓過貴上一半的對手拿下第一，老實講很合理。第二名 Fellow Stagg EKG 靠的是真正的 1 度 PID 控溫，加上配重鵝頸壺嘴出水穩到沒有對手，如果你的早晨就是繞著手沖轉，這個價錢花得值得。2026 年真正的看點，是平價款把差距拉得有多近。Cosori 原廠鵝頸壺兩千出頭就給你細嘴控水和五段預設，Ninja KT200 不到一千六、單杯水約 90 秒煮沸還附七段預設。要花更多錢，得有明確理由：OXO 玻璃旋鈕要的是 1 度微調，Breville IQ 要的是全能高階用料，Secura 雙層壺要的是外殼不燙手加保溫。墊底的 Hamilton Beach 41020 一千出頭，照樣快熱又有六段預設，是這份榜單裡最容易推薦給「只想要準確熱水、不想想太多」的人那一台。",
           "highlights": [
-            { "title": "Cuisinart PerfecTemp 是大多數人該買的那一台", "body": "它剛好打中價格和能力的甜蜜點。六段預設涵蓋所有茶種和法壓溫度，保溫撐 30 分鐘，1500W 很快煮沸。三千出頭就給到旗艦壺要價四五千的功能，這就是它拿下綜合第一的全部理由。" },
-            { "title": "Fellow Stagg EKG 是手沖溫控的標竿", "body": "1 度 PID 控溫代表水真的會穩在你設定的溫度，一小時內最多飄一兩度。配重鵝頸壺嘴讓你在咖啡粉層上慢慢精準地繞圈，內建計時器把沖煮變成可重複的流程。認真玩手沖，這台就是要被超越的對象。" },
-            { "title": "Cosori 鵝頸壺是這個品類的性價比震撼彈", "body": "兩千出頭就帶來細嘴精準出水、五段沖煮預設、保溫 60 分鐘，價格比高階手沖壺低一半還有找。以這個價位來說控水真的好用，對任何想入坑手沖咖啡的人來說，這是最聰明的起點。" },
-            { "title": "把控溫方式對準你的沖泡習慣", "body": "Ninja、Hamilton Beach 這種按鍵預設壺，日常換著泡各種茶最快上手。OXO、Stagg 這種旋鈕和 PID 壺，給的是追求精準萃取的人要的 1 度控制。選對操作介面，這比規格表上任何數字都更能決定你每天用得爽不爽。" }
+            {
+              "title": "Cuisinart PerfecTemp 是大多數人該買的那一台",
+              "body": "它剛好打中價格和能力的甜蜜點。六段預設涵蓋所有茶種和法壓溫度，保溫撐 30 分鐘，1500W 很快煮沸。三千出頭就給到旗艦壺要價四五千的功能，這就是它拿下綜合第一的全部理由。"
+            },
+            {
+              "title": "Fellow Stagg EKG 是手沖溫控的標竿",
+              "body": "1 度 PID 控溫代表水真的會穩在你設定的溫度，一小時內最多飄一兩度。配重鵝頸壺嘴讓你在咖啡粉層上慢慢精準地繞圈，內建計時器把沖煮變成可重複的流程。認真玩手沖，這台就是要被超越的對象。"
+            },
+            {
+              "title": "Cosori 鵝頸壺是這個品類的性價比震撼彈",
+              "body": "兩千出頭就帶來細嘴精準出水、五段沖煮預設、保溫 60 分鐘，價格比高階手沖壺低一半還有找。以這個價位來說控水真的好用，對任何想入坑手沖咖啡的人來說，這是最聰明的起點。"
+            },
+            {
+              "title": "把控溫方式對準你的沖泡習慣",
+              "body": "Ninja、Hamilton Beach 這種按鍵預設壺，日常換著泡各種茶最快上手。OXO、Stagg 這種旋鈕和 PID 壺，給的是追求精準萃取的人要的 1 度控制。選對操作介面，這比規格表上任何數字都更能決定你每天用得爽不爽。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-06-10",
+      "rankings": [
+        {
+          "id": "cuisinart-perfectemp-cpk17",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "tempControl": 9.0,
+            "speed": 9.2,
+            "buildQuality": 9.0,
+            "easeOfUse": 9.5,
+            "value": 9.4
+          }
+        },
+        {
+          "id": "fellow-stagg-ekg",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "tempControl": 9.8,
+            "speed": 8.8,
+            "buildQuality": 9.6,
+            "easeOfUse": 9.2,
+            "value": 7.6
+          }
+        },
+        {
+          "id": "cosori-gooseneck-co108",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "tempControl": 8.8,
+            "speed": 8.8,
+            "buildQuality": 8.6,
+            "easeOfUse": 8.8,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "oxo-brew-adjustable",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "tempControl": 9.4,
+            "speed": 9.3,
+            "buildQuality": 8.4,
+            "easeOfUse": 9.0,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "ninja-precision-kt200",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "tempControl": 8.4,
+            "speed": 9.4,
+            "buildQuality": 8.0,
+            "easeOfUse": 8.8,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "breville-iq-bke820",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "tempControl": 8.6,
+            "speed": 8.6,
+            "buildQuality": 9.0,
+            "easeOfUse": 8.6,
+            "value": 7.4
+          }
+        },
+        {
+          "id": "secura-swk1701",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "tempControl": 7.4,
+            "speed": 8.4,
+            "buildQuality": 9.0,
+            "easeOfUse": 8.2,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "bonavita-variable-1l",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "tempControl": 8.8,
+            "speed": 8.2,
+            "buildQuality": 8.2,
+            "easeOfUse": 8.0,
+            "value": 7.4
+          }
+        },
+        {
+          "id": "cosori-smart-gooseneck-cs108",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "tempControl": 8.6,
+            "speed": 8.4,
+            "buildQuality": 8.0,
+            "easeOfUse": 7.4,
+            "value": 7.6
+          }
+        },
+        {
+          "id": "hamilton-beach-41020",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "tempControl": 7.8,
+            "speed": 9.0,
+            "buildQuality": 7.4,
+            "easeOfUse": 8.2,
+            "value": 9.2
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "The Best Electric Kettles | Lab Tested & Ranked",
+          "url": "https://www.techgearlab.com/topics/kitchen/best-electric-kettle",
+          "source": "TechGearLab"
+        },
+        {
+          "title": "9 Best Electric Kettles of 2026",
+          "url": "https://www.reviewed.com/small-appliances/best-right-now/the-best-electric-kettles",
+          "source": "Reviewed"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The electric kettle list is unchanged this week, and the latest round of reviews only reinforces my order. The Cuisinart PerfecTemp CPK-17 stays at number one because it keeps doing the thing that actually wins this category: six clearly labeled temperature presets right on the handle, a generous 1.7-liter capacity, and a price that undercuts fancier rivals while matching their features. For most kitchens that is the smart buy, full stop. The Fellow Stagg EKG holds second as the pour-over specialist, and reviewers keep praising its gooseneck spout for the slow, precise stream that gives you real control when brewing coffee. If you take pour-over seriously, that precision is worth the premium. The Cosori Gooseneck CO108 stays third as the value gooseneck that gets you most of the way to the Fellow for less. Below them the OXO Brew, Ninja Precision, and Breville IQ continue to cover the variable-temperature middle ground well. There is no new launch or pricing move this week that justifies a reshuffle. This is a mature category where temperature control, pour quality, and value decide everything, and my current picks still own all three. Scores held flat.",
+          "highlights": [
+            {
+              "title": "Cuisinart PerfecTemp CPK-17 is the smart default",
+              "body": "Six labeled presets on the handle, 1.7 liters, and a price below fancier rivals with the same features. For most kitchens this is the easy, no-regrets pick and it stays at number one."
+            },
+            {
+              "title": "Fellow Stagg EKG owns pour-over",
+              "body": "The gooseneck spout delivers a slow, precise stream that gives real control when brewing coffee. If pour-over is your ritual, the precision is worth the premium."
+            },
+            {
+              "title": "Cosori CO108 is the value gooseneck",
+              "body": "It gets you most of the way to the Fellow's pour control for noticeably less. A smart pick for coffee fans who want the gooseneck shape without the flagship price."
+            },
+            {
+              "title": "The variable-temp middle holds firm",
+              "body": "The OXO Brew, Ninja Precision, and Breville IQ keep covering the precise-temperature crowd well. Reliable picks if you want preset control without committing to a gooseneck."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週電熱水壺清單沒有變動，最新一輪評測也更鞏固我的排序。Cuisinart PerfecTemp CPK-17 守在第一，因為它一直把這個類別真正的勝負手做好：手把上六段清楚標示的溫度預設、寬裕的 1.7 公升容量，加上比更花俏的對手便宜卻又功能不少的價格。對多數廚房，這就是聰明買法，沒別的話好說。Fellow Stagg EKG 守在第二當手沖專門款，評測一直稱讚它的鵝頸壺嘴能倒出又慢又準的水流，沖咖啡時控制感十足。如果你認真玩手沖，這份精準值得多花。Cosori Gooseneck CO108 穩坐第三，是用更少預算就能接近 Fellow 的高 CP 鵝頸壺。再下來 OXO Brew、Ninja Precision 跟 Breville IQ 繼續把可調溫的中段守得很好。這週沒有新機上市、也沒有價格變動，沒理由重排。這是個成熟類別，溫控、出水品質跟 CP 值決定一切，而我目前的選擇這三項都還握在手上。分數維持不動。",
+          "highlights": [
+            {
+              "title": "Cuisinart PerfecTemp CPK-17 是聰明預設",
+              "body": "手把上六段標示清楚的預設、1.7 公升容量，價格還壓在功能相同的花俏對手之下。對多數廚房就是省心不後悔的選擇，穩坐第一。"
+            },
+            {
+              "title": "Fellow Stagg EKG 是手沖王",
+              "body": "鵝頸壺嘴倒出又慢又準的水流，沖咖啡時控制感滿滿。手沖是你的儀式感，這份精準就值得多花。"
+            },
+            {
+              "title": "Cosori CO108 是高 CP 鵝頸壺",
+              "body": "用明顯更少的預算就能接近 Fellow 的出水控制。想要鵝頸造型又不想花旗艦價的咖啡迷，這台很聰明。"
+            },
+            {
+              "title": "可調溫中段穩住",
+              "body": "OXO Brew、Ninja Precision 跟 Breville IQ 繼續把要精準控溫的族群守得很好。想要預設控溫又不想上鵝頸的話，都是可靠選擇。"
+            }
           ]
         }
       }
