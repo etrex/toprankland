@@ -184,39 +184,371 @@
     {
       "date": "2026-06-10",
       "rankings": [
-        { "id": "oral-b-io-series-10", "rank": 1, "score": 9.3, "scores": { "cleaning": 9.6, "features": 9.7, "battery": 7.8, "comfort": 8.6, "value": 7.8 } },
-        { "id": "philips-sonicare-9900-prestige", "rank": 2, "score": 9.2, "scores": { "cleaning": 9.5, "features": 9.5, "battery": 9.4, "comfort": 9.2, "value": 7.6 } },
-        { "id": "philips-sonicare-4100", "rank": 3, "score": 8.9, "scores": { "cleaning": 8.8, "features": 7.6, "battery": 8.2, "comfort": 8.8, "value": 9.6 } },
-        { "id": "oral-b-pro-1000", "rank": 4, "score": 8.7, "scores": { "cleaning": 8.8, "features": 6.8, "battery": 7.4, "comfort": 8.0, "value": 9.5 } },
-        { "id": "laifen-wave-pro", "rank": 5, "score": 8.6, "scores": { "cleaning": 8.8, "features": 8.8, "battery": 9.2, "comfort": 8.8, "value": 8.4 } },
-        { "id": "usmile-y10-pro", "rank": 6, "score": 8.5, "scores": { "cleaning": 8.4, "features": 9.0, "battery": 9.6, "comfort": 8.6, "value": 8.6 } },
-        { "id": "oral-b-io-series-5", "rank": 7, "score": 8.3, "scores": { "cleaning": 9.0, "features": 8.6, "battery": 7.6, "comfort": 8.4, "value": 8.0 } },
-        { "id": "bitvae-r2", "rank": 8, "score": 8.1, "scores": { "cleaning": 8.2, "features": 7.0, "battery": 8.8, "comfort": 7.8, "value": 9.4 } },
-        { "id": "burst-pro-sonic", "rank": 9, "score": 7.9, "scores": { "cleaning": 8.4, "features": 7.4, "battery": 9.0, "comfort": 8.2, "value": 7.6 } },
-        { "id": "quip-ultra", "rank": 10, "score": 7.7, "scores": { "cleaning": 7.8, "features": 8.0, "battery": 8.6, "comfort": 8.0, "value": 7.4 } }
+        {
+          "id": "oral-b-io-series-10",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "cleaning": 9.6,
+            "features": 9.7,
+            "battery": 7.8,
+            "comfort": 8.6,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "philips-sonicare-9900-prestige",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "cleaning": 9.5,
+            "features": 9.5,
+            "battery": 9.4,
+            "comfort": 9.2,
+            "value": 7.6
+          }
+        },
+        {
+          "id": "philips-sonicare-4100",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "cleaning": 8.8,
+            "features": 7.6,
+            "battery": 8.2,
+            "comfort": 8.8,
+            "value": 9.6
+          }
+        },
+        {
+          "id": "oral-b-pro-1000",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "cleaning": 8.8,
+            "features": 6.8,
+            "battery": 7.4,
+            "comfort": 8.0,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "laifen-wave-pro",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "cleaning": 8.8,
+            "features": 8.8,
+            "battery": 9.2,
+            "comfort": 8.8,
+            "value": 8.4
+          }
+        },
+        {
+          "id": "usmile-y10-pro",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "cleaning": 8.4,
+            "features": 9.0,
+            "battery": 9.6,
+            "comfort": 8.6,
+            "value": 8.6
+          }
+        },
+        {
+          "id": "oral-b-io-series-5",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "cleaning": 9.0,
+            "features": 8.6,
+            "battery": 7.6,
+            "comfort": 8.4,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "bitvae-r2",
+          "rank": 8,
+          "score": 8.1,
+          "scores": {
+            "cleaning": 8.2,
+            "features": 7.0,
+            "battery": 8.8,
+            "comfort": 7.8,
+            "value": 9.4
+          }
+        },
+        {
+          "id": "burst-pro-sonic",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "cleaning": 8.4,
+            "features": 7.4,
+            "battery": 9.0,
+            "comfort": 8.2,
+            "value": 7.6
+          }
+        },
+        {
+          "id": "quip-ultra",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "cleaning": 7.8,
+            "features": 8.0,
+            "battery": 8.6,
+            "comfort": 8.0,
+            "value": 7.4
+          }
+        }
       ],
       "references": [
-        { "title": "The best electric toothbrush 2026: 6 top rated brushes", "url": "https://www.techradar.com/health-fitness/oral-health/best-electric-toothbrush", "source": "TechRadar" },
-        { "title": "Sonicare vs Oral-B: 2026 head-to-head", "url": "https://www.electricteeth.com/sonicare-vs-oral-b/", "source": "Electric Teeth" },
-        { "title": "The 9 best electric toothbrushes for 2026, tested and reviewed by dentists", "url": "https://health.yahoo.com/your-body/oral-health/teeth-cavities/article/best-electric-toothbrushes-124004384.html", "source": "Yahoo Health" }
+        {
+          "title": "The best electric toothbrush 2026: 6 top rated brushes",
+          "url": "https://www.techradar.com/health-fitness/oral-health/best-electric-toothbrush",
+          "source": "TechRadar"
+        },
+        {
+          "title": "Sonicare vs Oral-B: 2026 head-to-head",
+          "url": "https://www.electricteeth.com/sonicare-vs-oral-b/",
+          "source": "Electric Teeth"
+        },
+        {
+          "title": "The 9 best electric toothbrushes for 2026, tested and reviewed by dentists",
+          "url": "https://health.yahoo.com/your-body/oral-health/teeth-cavities/article/best-electric-toothbrushes-124004384.html",
+          "source": "Yahoo Health"
+        }
       ],
       "i18n": {
         "en": {
           "commentary": "Here is the honest verdict after living with this category: the brush that cleans your teeth best and the brush you should actually buy are almost never the same one. The Oral-B iO Series 10 wins overall because it pairs the most clinically studied motion in dentistry, oscillating-rotation, with a magnetic drive and real-time AI coaching that genuinely improves how you brush. The Sonicare 9900 Prestige sits right behind it, and for travelers I would flip them, because that USB-C case and a 24-day battery solve real problems the iO does not. But spending $369 to remove plaque is a want, not a need. The Sonicare 4100 takes third at around $40 because it has the two things that actually matter, a pressure sensor and a real timer, and nothing you will resent paying for. That is the brush I hand most people. The Oral-B Pro 1000 makes the same argument with oscillating-rotation cleaning and a price that has held for a decade. The 2026 story is the disruptors closing in: the Laifen Wave Pro fuses oscillation and sonic vibration with a 70-day battery, and the usmile Y10 Pro brings missed-spot AI and a 180-day charge for a fraction of flagship money. Go premium when a specific feature earns it, app coaching, a travel case, the longest battery, and go budget when you just want clean teeth without the lecture. Whatever you pick, the brush head matters more than the handle, so replace it every three months.",
           "highlights": [
-            { "title": "The Oral-B iO Series 10 is the best brush, but not the smart buy", "body": "It earns number one on merit. The magnetic micro-vibration drive plus oscillating-rotation is the most clinically validated cleaning motion in dentistry, and the iOSense app coaches your coverage in real time so you actually reach the spots you skip. At $369 it is a flagship in every sense, which is exactly why most people should read past it to the value picks below." },
-            { "title": "The Sonicare 4100 is the brush I recommend to almost everyone", "body": "For around $40 it gives you a pressure sensor that protects your gums, a 2-minute timer with a 30-second pacer, and 31,000 quiet sonic strokes a minute. Those are the features that change outcomes. Everything above this price adds apps, displays, and tracking that are nice to have and easy to ignore. Spend the savings on replacement heads instead." },
-            { "title": "The disruptors made 2026 the year flagships got nervous", "body": "The Laifen Wave Pro fuses a 60° oscillating sweep with 66,000 sonic vibrations and runs 70 days a charge for $129. The usmile Y10 Pro brings missed-spot AI detection and a 180-day battery for around $90, outlasting every premium brush here. Both deliver the guidance features that used to justify a $300 price, which makes the mid-tier the most interesting place to shop this year." },
-            { "title": "Sonic or oscillating-rotation, the brush head is what really cleans", "body": "Philips runs sonic vibration, Oral-B runs oscillating-rotation, and used correctly both reach the same clean result, so pick the feel you prefer rather than the marketing claim. The variable that actually decides your dental health is replacing the head every three months, which is why a subscription brush like the BURST and a head-stocked budget pick like the Bitvae R2 both make a lot of practical sense." }
+            {
+              "title": "The Oral-B iO Series 10 is the best brush, but not the smart buy",
+              "body": "It earns number one on merit. The magnetic micro-vibration drive plus oscillating-rotation is the most clinically validated cleaning motion in dentistry, and the iOSense app coaches your coverage in real time so you actually reach the spots you skip. At $369 it is a flagship in every sense, which is exactly why most people should read past it to the value picks below."
+            },
+            {
+              "title": "The Sonicare 4100 is the brush I recommend to almost everyone",
+              "body": "For around $40 it gives you a pressure sensor that protects your gums, a 2-minute timer with a 30-second pacer, and 31,000 quiet sonic strokes a minute. Those are the features that change outcomes. Everything above this price adds apps, displays, and tracking that are nice to have and easy to ignore. Spend the savings on replacement heads instead."
+            },
+            {
+              "title": "The disruptors made 2026 the year flagships got nervous",
+              "body": "The Laifen Wave Pro fuses a 60° oscillating sweep with 66,000 sonic vibrations and runs 70 days a charge for $129. The usmile Y10 Pro brings missed-spot AI detection and a 180-day battery for around $90, outlasting every premium brush here. Both deliver the guidance features that used to justify a $300 price, which makes the mid-tier the most interesting place to shop this year."
+            },
+            {
+              "title": "Sonic or oscillating-rotation, the brush head is what really cleans",
+              "body": "Philips runs sonic vibration, Oral-B runs oscillating-rotation, and used correctly both reach the same clean result, so pick the feel you prefer rather than the marketing claim. The variable that actually decides your dental health is replacing the head every three months, which is why a subscription brush like the BURST and a head-stocked budget pick like the Bitvae R2 both make a lot of practical sense."
+            }
           ]
         },
         "zh-tw": {
           "commentary": "跟這個品類相處久了，老實的結論是這樣：清潔效果最好的那支，跟你真正該買的那支，幾乎從來不是同一支。Oral-B iO Series 10 拿下綜合第一，因為它把牙科臨床研究最完整的旋轉震動動作，配上磁力傳動和即時 AI 指導，真的會改善你刷牙的方式。Sonicare 9900 Prestige 緊跟在後，如果你常出差我會把這兩支對調，那個 USB-C 旅行盒加 24 天續航解決的是 iO 解決不了的真實痛點。但是花將近一萬塊去刷牙這件事，是想要，不是需要。Sonicare 4100 拿第三，差不多一千出頭，因為它有真正重要的那兩樣，壓力感應和真正的計時器，沒有任何你事後會後悔花錢的功能。這支就是我會直接遞給大多數人的牙刷。Oral-B Pro 1000 用旋轉震動清潔和十年沒漲的價格，講的是同一套道理。2026 年的看點，是攪局者步步逼近：Laifen Wave Pro 把擺動和聲波震動合在一起、續航 70 天，usmile Y10 Pro 帶來漏刷 AI 和 180 天電池，價格只要旗艦的零頭。要買高階，得有一個具體理由說服你，App 指導、旅行盒、最長續航，要買平價，就單純想要乾淨的牙齒、不想被說教。不管你選哪支，刷頭比刷柄重要，記得每三個月換一次。",
           "highlights": [
-            { "title": "Oral-B iO Series 10 是最好的牙刷，卻不是最聰明的選擇", "body": "它拿第一是實至名歸。磁力微震動傳動加上旋轉震動，是牙科臨床驗證最完整的清潔動作，iOSense App 即時指導你的覆蓋率，讓你真的刷到平常會漏的地方。將近一萬塊，它各方面都是旗艦，而這正是為什麼大多數人應該往下看下面那些性價比款。" },
-            { "title": "Sonicare 4100 是我幾乎會推薦給所有人的那一支", "body": "差不多一千出頭，就給你保護牙齦的壓力感應、2 分鐘計時加 30 秒分區提示、每分鐘 31,000 次安靜的聲波震動。這些才是真正影響結果的功能。比這個價位高的東西，加的是 App、顯示器、追蹤，這些有了不錯、忽略也無妨。省下來的錢拿去買替換刷頭比較實在。" },
-            { "title": "攪局者讓 2026 成了旗艦開始緊張的一年", "body": "Laifen Wave Pro 把 60 度擺動掃動和 66,000 次聲波震動合在一起，一次充電 70 天，售價不到四千。usmile Y10 Pro 帶來漏刷 AI 偵測和 180 天電池，差不多兩千多，續航贏過這裡每一支高階牙刷。兩支都給了過去要價近萬才有的指導功能，這讓中階價位成了今年最值得逛的區間。" },
-            { "title": "聲波還是旋轉震動，真正在清潔的是刷頭", "body": "Philips 走聲波震動，Oral-B 走旋轉震動，只要用對方法，兩者刷出來的乾淨程度差不多，所以挑你喜歡的手感就好，別被行銷話術牽著走。真正決定你牙齒健康的變數，是每三個月換一次刷頭，這也是為什麼像 BURST 這種訂閱牙刷，和像 Bitvae R2 這種附滿刷頭的平價款，實際用起來都很有道理。" }
+            {
+              "title": "Oral-B iO Series 10 是最好的牙刷，卻不是最聰明的選擇",
+              "body": "它拿第一是實至名歸。磁力微震動傳動加上旋轉震動，是牙科臨床驗證最完整的清潔動作，iOSense App 即時指導你的覆蓋率，讓你真的刷到平常會漏的地方。將近一萬塊，它各方面都是旗艦，而這正是為什麼大多數人應該往下看下面那些性價比款。"
+            },
+            {
+              "title": "Sonicare 4100 是我幾乎會推薦給所有人的那一支",
+              "body": "差不多一千出頭，就給你保護牙齦的壓力感應、2 分鐘計時加 30 秒分區提示、每分鐘 31,000 次安靜的聲波震動。這些才是真正影響結果的功能。比這個價位高的東西，加的是 App、顯示器、追蹤，這些有了不錯、忽略也無妨。省下來的錢拿去買替換刷頭比較實在。"
+            },
+            {
+              "title": "攪局者讓 2026 成了旗艦開始緊張的一年",
+              "body": "Laifen Wave Pro 把 60 度擺動掃動和 66,000 次聲波震動合在一起，一次充電 70 天，售價不到四千。usmile Y10 Pro 帶來漏刷 AI 偵測和 180 天電池，差不多兩千多，續航贏過這裡每一支高階牙刷。兩支都給了過去要價近萬才有的指導功能，這讓中階價位成了今年最值得逛的區間。"
+            },
+            {
+              "title": "聲波還是旋轉震動，真正在清潔的是刷頭",
+              "body": "Philips 走聲波震動，Oral-B 走旋轉震動，只要用對方法，兩者刷出來的乾淨程度差不多，所以挑你喜歡的手感就好，別被行銷話術牽著走。真正決定你牙齒健康的變數，是每三個月換一次刷頭，這也是為什麼像 BURST 這種訂閱牙刷，和像 Bitvae R2 這種附滿刷頭的平價款，實際用起來都很有道理。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-06-11",
+      "rankings": [
+        {
+          "id": "oral-b-io-series-10",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "cleaning": 9.6,
+            "features": 9.7,
+            "battery": 7.8,
+            "comfort": 8.6,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "philips-sonicare-9900-prestige",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "cleaning": 9.5,
+            "features": 9.5,
+            "battery": 9.4,
+            "comfort": 9.2,
+            "value": 7.6
+          }
+        },
+        {
+          "id": "philips-sonicare-4100",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "cleaning": 8.8,
+            "features": 7.6,
+            "battery": 8.2,
+            "comfort": 8.8,
+            "value": 9.6
+          }
+        },
+        {
+          "id": "oral-b-pro-1000",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "cleaning": 8.8,
+            "features": 6.8,
+            "battery": 7.4,
+            "comfort": 8.0,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "laifen-wave-pro",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "cleaning": 8.8,
+            "features": 8.8,
+            "battery": 9.2,
+            "comfort": 8.8,
+            "value": 8.4
+          }
+        },
+        {
+          "id": "usmile-y10-pro",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "cleaning": 8.4,
+            "features": 9.0,
+            "battery": 9.6,
+            "comfort": 8.6,
+            "value": 8.6
+          }
+        },
+        {
+          "id": "oral-b-io-series-5",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "cleaning": 9.0,
+            "features": 8.6,
+            "battery": 7.6,
+            "comfort": 8.4,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "bitvae-r2",
+          "rank": 8,
+          "score": 8.1,
+          "scores": {
+            "cleaning": 8.2,
+            "features": 7.0,
+            "battery": 8.8,
+            "comfort": 7.8,
+            "value": 9.4
+          }
+        },
+        {
+          "id": "burst-pro-sonic",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "cleaning": 8.4,
+            "features": 7.4,
+            "battery": 9.0,
+            "comfort": 8.2,
+            "value": 7.6
+          }
+        },
+        {
+          "id": "quip-ultra",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "cleaning": 7.8,
+            "features": 8.0,
+            "battery": 8.6,
+            "comfort": 8.0,
+            "value": 7.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best electric toothbrush 2026 - reviews & recommendations",
+          "url": "https://www.electricteeth.com/best-electric-toothbrush/",
+          "source": "Electric Teeth"
+        },
+        {
+          "title": "7 Best Electric Toothbrushes of 2026, Lab-Tested and Reviewed",
+          "url": "https://www.consumerreports.org/health/toothbrushes/best-electric-toothbrushes-of-the-year-a1997780829/",
+          "source": "Consumer Reports"
+        },
+        {
+          "title": "The best electric toothbrush 2026: 6 top rated brushes",
+          "url": "https://www.techradar.com/health-fitness/oral-health/best-electric-toothbrush",
+          "source": "TechRadar"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The Oral-B iO Series 10 keeps the top spot because nothing else matches its combination of oscillating-rotating cleaning power and the genuinely useful position-tracking display that shows you which sextant you missed. Consumer Reports and Electric Teeth both kept Oral-B at the top of their cleaning-performance ranks this month, and the evidence still favors the oscillating heads slightly over sonic for plaque removal. That said, the Sonicare 9900 Prestige earns its number two on a more complete package. It is quieter, the battery genuinely runs three weeks, and the all-curve pressure sensor is gentler on receding gums. For most people I still point them at the Sonicare 4100 at number three. It does the three things that matter, a real two-minute timer, a 30-second quadrant pacer, and a pressure sensor, for a price that makes the flagships look indulgent. The interesting movement this quarter is at the value end. The Bitvae R2 and usmile Y10 Pro keep closing the gap, offering month-long batteries and travel cases the big two reserve for premium tiers. None of that changes the order, because cleaning consistency is where the budget brushes still trail. Buy the flagship if you want coaching and tracking, buy the 4100 if you just want clean teeth, and do not overthink the rest.",
+          "highlights": [
+            {
+              "title": "iO Series 10 still cleans best",
+              "body": "Oral-B's oscillating-rotating head holds the cleaning crown in this month's Consumer Reports and Electric Teeth rankings, and the position display genuinely changes how thoroughly people brush the back molars."
+            },
+            {
+              "title": "Sonicare 9900 is the quiet premium pick",
+              "body": "If the iO's buzz bothers you, the 9900 Prestige runs noticeably quieter, lasts a full three weeks per charge, and treats sensitive gums more kindly thanks to its all-curve pressure sensor."
+            },
+            {
+              "title": "Sonicare 4100 is the smart-money choice",
+              "body": "A real timer, a quadrant pacer, and a pressure sensor cover what actually improves brushing. At its price it remains the brush I recommend to most households over any flagship."
+            },
+            {
+              "title": "Budget brushes are catching up on battery",
+              "body": "The Bitvae R2 and usmile Y10 Pro now offer month-long batteries and proper travel cases, features the big two once locked behind premium pricing."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Oral-B iO Series 10 這個月還是穩坐第一，講白了，目前沒有第二支電動牙刷能同時給你這種旋轉震動的清潔力，加上那個會告訴你哪一區沒刷到的偵測螢幕，真的有用。這個月 Consumer Reports 跟 Electric Teeth 的清潔力排名一樣把 Oral-B 放在最前面，證據還是顯示旋轉刷頭在去牙菌斑上略勝音波一截。不過 Sonicare 9900 Prestige 拿下第二我完全認同，它整體更全面，運轉更安靜，電池真的撐得到三週，全弧形壓力感應對牙齦萎縮的人更溫柔。老實說，多數人我還是會直接推第三名的 Sonicare 4100。它把真正重要的三件事做好，兩分鐘計時、每三十秒換區提示、壓力感應，價格卻讓那些旗艦看起來像在花冤枉錢。這一季比較有看頭的是平價這端，Bitvae R2 跟 usmile Y10 Pro 一直在追，月等級的電池跟旅行盒這些以前要旗艦才有的東西它們都給了。但排名沒變，因為清潔的穩定度，平價刷還是差一截。想要教練功能跟刷牙追蹤就買旗艦，只想把牙齒刷乾淨就買 4100，剩下的真的別想太多。",
+          "highlights": [
+            {
+              "title": "iO Series 10 清潔力還是最強",
+              "body": "Oral-B 的旋轉震動刷頭在這個月 Consumer Reports 跟 Electric Teeth 的清潔排名都站在最前面，那個位置偵測螢幕真的會改變你刷後排臼齒的徹底程度。"
+            },
+            {
+              "title": "Sonicare 9900 是安靜的高階選擇",
+              "body": "如果 iO 那種嗡嗡聲讓你受不了，9900 Prestige 明顯安靜很多，一次充電撐滿三週，全弧形壓力感應對敏感牙齦也更友善。"
+            },
+            {
+              "title": "Sonicare 4100 是最聰明的花錢方式",
+              "body": "真計時、換區提示、壓力感應，這些才是真正改善刷牙的功能。以它的價格，我給多數家庭的建議還是它，而不是旗艦。"
+            },
+            {
+              "title": "平價刷在電池上追上來了",
+              "body": "Bitvae R2 跟 usmile Y10 Pro 現在都給你月等級電池跟像樣的旅行盒，這些以前是大廠鎖在高價位才有的東西。"
+            }
           ]
         }
       }
