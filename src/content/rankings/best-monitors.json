@@ -185,43 +185,419 @@
     {
       "date": "2026-06-11",
       "rankings": [
-        { "id": "dell-u2724de", "rank": 1, "score": 9.3, "scores": { "imageQuality": 8.8, "productivity": 9.6, "valueForMoney": 8.8, "connectivity": 9.6, "colorAccuracy": 9.0, "designErgonomics": 9.3 } },
-        { "id": "dell-u2725qe", "rank": 2, "score": 9.1, "scores": { "imageQuality": 9.1, "productivity": 9.4, "valueForMoney": 8.4, "connectivity": 9.6, "colorAccuracy": 9.1, "designErgonomics": 9.3 } },
-        { "id": "asus-rog-swift-pg27ucdm", "rank": 3, "score": 9.0, "scores": { "imageQuality": 9.8, "productivity": 7.5, "valueForMoney": 7.8, "connectivity": 8.8, "colorAccuracy": 9.4, "designErgonomics": 9.0 } },
-        { "id": "samsung-odyssey-oled-g8-g81sf", "rank": 4, "score": 8.8, "scores": { "imageQuality": 9.6, "productivity": 7.8, "valueForMoney": 7.6, "connectivity": 8.0, "colorAccuracy": 9.2, "designErgonomics": 9.2 } },
-        { "id": "asus-proart-pa279crv", "rank": 5, "score": 8.7, "scores": { "imageQuality": 8.8, "productivity": 8.6, "valueForMoney": 9.0, "connectivity": 8.8, "colorAccuracy": 9.5, "designErgonomics": 8.5 } },
-        { "id": "gigabyte-m28u", "rank": 6, "score": 8.6, "scores": { "imageQuality": 8.5, "productivity": 8.0, "valueForMoney": 9.5, "connectivity": 8.6, "colorAccuracy": 8.3, "designErgonomics": 7.6 } },
-        { "id": "apple-studio-display-2026", "rank": 7, "score": 8.5, "scores": { "imageQuality": 9.2, "productivity": 7.8, "valueForMoney": 6.8, "connectivity": 8.2, "colorAccuracy": 9.3, "designErgonomics": 9.5 } },
-        { "id": "benq-pd2725u", "rank": 8, "score": 8.4, "scores": { "imageQuality": 8.7, "productivity": 8.8, "valueForMoney": 7.6, "connectivity": 9.0, "colorAccuracy": 9.4, "designErgonomics": 8.8 } },
-        { "id": "lg-ultrafine-5k-27md5kl", "rank": 9, "score": 8.2, "scores": { "imageQuality": 9.0, "productivity": 7.4, "valueForMoney": 7.2, "connectivity": 8.0, "colorAccuracy": 9.2, "designErgonomics": 7.6 } },
-        { "id": "acer-kb272-ebi", "rank": 10, "score": 8.0, "scores": { "imageQuality": 7.0, "productivity": 6.5, "valueForMoney": 9.6, "connectivity": 6.0, "colorAccuracy": 7.5, "designErgonomics": 6.5 } }
+        {
+          "id": "dell-u2724de",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "imageQuality": 8.8,
+            "productivity": 9.6,
+            "valueForMoney": 8.8,
+            "connectivity": 9.6,
+            "colorAccuracy": 9,
+            "designErgonomics": 9.3
+          }
+        },
+        {
+          "id": "dell-u2725qe",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "imageQuality": 9.1,
+            "productivity": 9.4,
+            "valueForMoney": 8.4,
+            "connectivity": 9.6,
+            "colorAccuracy": 9.1,
+            "designErgonomics": 9.3
+          }
+        },
+        {
+          "id": "asus-rog-swift-pg27ucdm",
+          "rank": 3,
+          "score": 9,
+          "scores": {
+            "imageQuality": 9.8,
+            "productivity": 7.5,
+            "valueForMoney": 7.8,
+            "connectivity": 8.8,
+            "colorAccuracy": 9.4,
+            "designErgonomics": 9
+          }
+        },
+        {
+          "id": "samsung-odyssey-oled-g8-g81sf",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "imageQuality": 9.6,
+            "productivity": 7.8,
+            "valueForMoney": 7.6,
+            "connectivity": 8,
+            "colorAccuracy": 9.2,
+            "designErgonomics": 9.2
+          }
+        },
+        {
+          "id": "asus-proart-pa279crv",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "imageQuality": 8.8,
+            "productivity": 8.6,
+            "valueForMoney": 9,
+            "connectivity": 8.8,
+            "colorAccuracy": 9.5,
+            "designErgonomics": 8.5
+          }
+        },
+        {
+          "id": "gigabyte-m28u",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "imageQuality": 8.5,
+            "productivity": 8,
+            "valueForMoney": 9.5,
+            "connectivity": 8.6,
+            "colorAccuracy": 8.3,
+            "designErgonomics": 7.6
+          }
+        },
+        {
+          "id": "apple-studio-display-2026",
+          "rank": 7,
+          "score": 8.5,
+          "scores": {
+            "imageQuality": 9.2,
+            "productivity": 7.8,
+            "valueForMoney": 6.8,
+            "connectivity": 8.2,
+            "colorAccuracy": 9.3,
+            "designErgonomics": 9.5
+          }
+        },
+        {
+          "id": "benq-pd2725u",
+          "rank": 8,
+          "score": 8.4,
+          "scores": {
+            "imageQuality": 8.7,
+            "productivity": 8.8,
+            "valueForMoney": 7.6,
+            "connectivity": 9,
+            "colorAccuracy": 9.4,
+            "designErgonomics": 8.8
+          }
+        },
+        {
+          "id": "lg-ultrafine-5k-27md5kl",
+          "rank": 9,
+          "score": 8.2,
+          "scores": {
+            "imageQuality": 9,
+            "productivity": 7.4,
+            "valueForMoney": 7.2,
+            "connectivity": 8,
+            "colorAccuracy": 9.2,
+            "designErgonomics": 7.6
+          }
+        },
+        {
+          "id": "acer-kb272-ebi",
+          "rank": 10,
+          "score": 8,
+          "scores": {
+            "imageQuality": 7,
+            "productivity": 6.5,
+            "valueForMoney": 9.6,
+            "connectivity": 6,
+            "colorAccuracy": 7.5,
+            "designErgonomics": 6.5
+          }
+        }
       ],
       "references": [
-        { "title": "Dell U2724DE review: A do-it-all display with gobs of ports", "url": "https://www.pcworld.com/article/2164596/dell-u2724de-review.html", "source": "PCWorld" },
-        { "title": "Dell U2725QE Monitor Review", "url": "https://www.rtings.com/monitor/reviews/dell/u2725qe", "source": "RTINGS" },
-        { "title": "Asus ROG Swift PG27UCDM 4K 240Hz QD-OLED gaming monitor review", "url": "https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-swift-pg27ucdm-4k-240-hz-qd-oled-gaming-monitor-review", "source": "Tom's Hardware" },
-        { "title": "Best 4K monitors 2026: HDR, gaming, budget, and best overall", "url": "https://www.pcworld.com/article/813361/best-4k-monitors.html", "source": "PCWorld" },
-        { "title": "The 5 Best Budget And Cheap Gaming Monitors of 2026", "url": "https://www.rtings.com/monitor/reviews/best/budget-gaming", "source": "RTINGS" }
+        {
+          "title": "Dell U2724DE review: A do-it-all display with gobs of ports",
+          "url": "https://www.pcworld.com/article/2164596/dell-u2724de-review.html",
+          "source": "PCWorld"
+        },
+        {
+          "title": "Dell U2725QE Monitor Review",
+          "url": "https://www.rtings.com/monitor/reviews/dell/u2725qe",
+          "source": "RTINGS"
+        },
+        {
+          "title": "Asus ROG Swift PG27UCDM 4K 240Hz QD-OLED gaming monitor review",
+          "url": "https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-swift-pg27ucdm-4k-240-hz-qd-oled-gaming-monitor-review",
+          "source": "Tom's Hardware"
+        },
+        {
+          "title": "Best 4K monitors 2026: HDR, gaming, budget, and best overall",
+          "url": "https://www.pcworld.com/article/813361/best-4k-monitors.html",
+          "source": "PCWorld"
+        },
+        {
+          "title": "The 5 Best Budget And Cheap Gaming Monitors of 2026",
+          "url": "https://www.rtings.com/monitor/reviews/best/budget-gaming",
+          "source": "RTINGS"
+        }
       ],
       "i18n": {
         "en": {
           "commentary": "The Dell UltraSharp U2724DE is the monitor I recommend to almost everyone, and the reason is specific: its IPS Black panel reaches a 2,000:1 contrast ratio while a single Thunderbolt 4 cable runs video, 90W charging, and a full port hub. That turns one screen into your entire docking station, which is exactly what a hybrid desk needs. For people who want every pixel sharp, the U2725QE pushes the same idea to 4K at 120Hz with a world-first 3,000:1 contrast IPS Black panel, and at $700 it is the smartest 4K work display of the year. The ASUS ROG Swift PG27UCDM earns the image-quality crown with its 4K 240Hz QD-OLED panel and DisplayPort 2.1a UHBR20 carrying uncompressed 4K, the screen creators and gamers reach for when only the best will do. Samsung's Odyssey OLED G8 takes the premium entertainment lane with a 32-inch 4K 240Hz QD-OLED and a built-in smart hub. Color professionals get the ASUS ProArt PA279CRV, factory-calibrated to Delta E under 2 with 99% DCI-P3 and 99% Adobe RGB at a price that undercuts every rival. For raw value, the Gigabyte M28U remains the 4K bargain that started it all, a 28-inch 144Hz IPS panel with HDMI 2.1 near $450. Mac owners split between the Apple Studio Display, whose 5K 218 PPI panel and Thunderbolt integration feel native, and the LG UltraFine 5K that pioneered the look. When budget rules, the Acer KB272 delivers a 27-inch 1080p IPS panel at 100Hz for around $130, the cleanest entry point in the category.",
           "highlights": [
-            { "title": "The U2724DE wins because one cable replaces your entire dock", "body": "I keep ranking the U2724DE first because it solves the real problem on a modern desk: cable clutter and a missing dock. Thunderbolt 4 carries the 1440p 120Hz signal, delivers 90W to charge a laptop, and feeds an Ethernet jack plus a row of USB ports, all from one connection. The IPS Black panel backs that convenience with a 2,000:1 contrast ratio, so blacks look genuinely deep for an LCD. For a hybrid worker who docks and undocks daily, nothing else this year is as effortless." },
-            { "title": "OLED owns the high end, and the PG27UCDM proves it", "body": "The image-quality gap between QD-OLED and LCD at the top of the market is now decisive. The PG27UCDM runs a 27-inch 4K panel at 240Hz with per-pixel light control and a 0.03ms response time, and its DisplayPort 2.1a UHBR20 port carries that 4K 240Hz signal completely uncompressed. Add a tandem panel design that improves burn-in longevity and a proximity sensor that blanks the screen when you step away, and you get the display I would put in front of any creator or gamer chasing the best picture." },
-            { "title": "The Gigabyte M28U is still the 4K value benchmark", "body": "Years after launch, the M28U remains the monitor I point budget-minded 4K buyers toward. A 28-inch SS IPS panel at 144Hz with HDMI 2.1, sub-1 Delta E color accuracy, and a built-in KVM near $450 still embarrasses pricier rivals on dollars-per-feature. It gives up true HDR and OLED contrast, and that is the honest trade, but for a sharp, fast 4K panel that handles work and gaming, the value is unmatched." },
-            { "title": "Color work belongs to the ProArt PA279CRV at this price", "body": "The ProArt PA279CRV delivers what photographers and video editors actually need: factory calibration to Delta E under 2, 99% DCI-P3 and 99% Adobe RGB coverage, and a hardware calibration workflow that holds its look across long sessions. USB-C with daisy-chaining keeps a multi-monitor desk tidy. At $469 it undercuts every comparable creator display, which is why I rank it as the color pick over options costing twice as much." },
-            { "title": "1440p at 27 inches is the resolution sweet spot for 2026", "body": "The data keeps pointing to the same conclusion: a 27-inch 1440p panel hits roughly 109 PPI, sharp enough that text and UI look crisp without forcing display scaling, and easy enough to drive that mid-range GPUs hold high frame rates. That is why my top all-rounder is a 1440p panel rather than a 4K one. 4K earns its place for creators and detail-obsessed users, and 1440p remains the resolution most people should buy." }
+            {
+              "title": "The U2724DE wins because one cable replaces your entire dock",
+              "body": "I keep ranking the U2724DE first because it solves the real problem on a modern desk: cable clutter and a missing dock. Thunderbolt 4 carries the 1440p 120Hz signal, delivers 90W to charge a laptop, and feeds an Ethernet jack plus a row of USB ports, all from one connection. The IPS Black panel backs that convenience with a 2,000:1 contrast ratio, so blacks look genuinely deep for an LCD. For a hybrid worker who docks and undocks daily, nothing else this year is as effortless."
+            },
+            {
+              "title": "OLED owns the high end, and the PG27UCDM proves it",
+              "body": "The image-quality gap between QD-OLED and LCD at the top of the market is now decisive. The PG27UCDM runs a 27-inch 4K panel at 240Hz with per-pixel light control and a 0.03ms response time, and its DisplayPort 2.1a UHBR20 port carries that 4K 240Hz signal completely uncompressed. Add a tandem panel design that improves burn-in longevity and a proximity sensor that blanks the screen when you step away, and you get the display I would put in front of any creator or gamer chasing the best picture."
+            },
+            {
+              "title": "The Gigabyte M28U is still the 4K value benchmark",
+              "body": "Years after launch, the M28U remains the monitor I point budget-minded 4K buyers toward. A 28-inch SS IPS panel at 144Hz with HDMI 2.1, sub-1 Delta E color accuracy, and a built-in KVM near $450 still embarrasses pricier rivals on dollars-per-feature. It gives up true HDR and OLED contrast, and that is the honest trade, but for a sharp, fast 4K panel that handles work and gaming, the value is unmatched."
+            },
+            {
+              "title": "Color work belongs to the ProArt PA279CRV at this price",
+              "body": "The ProArt PA279CRV delivers what photographers and video editors actually need: factory calibration to Delta E under 2, 99% DCI-P3 and 99% Adobe RGB coverage, and a hardware calibration workflow that holds its look across long sessions. USB-C with daisy-chaining keeps a multi-monitor desk tidy. At $469 it undercuts every comparable creator display, which is why I rank it as the color pick over options costing twice as much."
+            },
+            {
+              "title": "1440p at 27 inches is the resolution sweet spot for 2026",
+              "body": "The data keeps pointing to the same conclusion: a 27-inch 1440p panel hits roughly 109 PPI, sharp enough that text and UI look crisp without forcing display scaling, and easy enough to drive that mid-range GPUs hold high frame rates. That is why my top all-rounder is a 1440p panel rather than a 4K one. 4K earns its place for creators and detail-obsessed users, and 1440p remains the resolution most people should buy."
+            }
           ]
         },
         "zh-tw": {
           "commentary": "老實說，要我跟身邊的人推薦一台螢幕，我九成會直接講 Dell UltraSharp U2724DE，理由很具體。它的 IPS Black 面板做到 2,000:1 對比，黑得夠深，重點是一條 Thunderbolt 4 線就能同時吃影像、90W 供電還有整排擴充埠，等於把螢幕變成一個完整的擴充底座，這正是現在在家跟公司兩邊跑的混合辦公族最需要的。想要每個像素都更銳利的，U2725QE 把同樣的思路推到 4K 120Hz，還是全球首款 3,000:1 對比的 IPS Black 面板，台幣兩萬出頭，是今年最聰明的 4K 工作螢幕。畫質王座我給 ASUS ROG Swift PG27UCDM，27 吋 4K 240Hz QD-OLED 配上 DP 2.1a UHBR20 的零壓縮輸出，創作者跟玩家想要極致畫面時就是它。三星 Odyssey OLED G8 走高階娛樂路線，32 吋 4K 240Hz QD-OLED 還內建智慧聯網。專業修圖調色的就看 ASUS ProArt PA279CRV，原廠校色 Delta E 小於 2，99% DCI-P3 加 99% Adobe RGB，價格還壓在同級最低。講純性價比，技嘉 M28U 還是那台開創 4K 平價路線的代表作，28 吋 144Hz IPS 配 HDMI 2.1，台幣一萬五出頭就有。用 Mac 的人就在 Apple Studio Display 跟 LG UltraFine 5K 之間挑，前者 5K 218 PPI 配 Thunderbolt 整合最順手。預算有限就 Acer KB272，27 吋 1080p IPS 100Hz，台幣四千有找，入門最乾淨的選擇。",
           "highlights": [
-            { "title": "U2724DE 強在一條線取代你整個擴充底座", "body": "我一直把 U2724DE 排第一，是因為它解掉了現代桌面真正的痛點，線材一團亂加上缺一個 dock。Thunderbolt 4 一條線同時傳 1440p 120Hz 畫面、供 90W 幫筆電充電，還帶一個網路孔跟一排 USB，全部靠這一條搞定。IPS Black 面板做到 2,000:1 對比，以 LCD 來說黑階真的夠深。對每天插拔筆電在家跟公司兩邊跑的人來說，今年沒有比它更省事的選擇。" },
-            { "title": "高階畫質這局 OLED 全拿，PG27UCDM 就是證明", "body": "在市場頂端，QD-OLED 跟 LCD 的畫質差距現在已經拉開了。PG27UCDM 是 27 吋 4K 面板跑 240Hz，每個像素獨立控光，反應時間 0.03ms，而且 DP 2.1a UHBR20 那個埠能把 4K 240Hz 訊號完全零壓縮送出去。再加上 tandem 面板設計拉長了抗烙印壽命，還有人離開就自動黑屏的距離感測器，這就是我會推給任何追求最佳畫面的創作者跟玩家的那一台。" },
-            { "title": "技嘉 M28U 到現在還是 4K 性價比的標竿", "body": "上市這麼多年，要我推薦預算取向的 4K 螢幕，M28U 還是首選。28 吋 SS IPS 面板跑 144Hz 配 HDMI 2.1，色準 Delta E 小於 1，還內建 KVM，台幣一萬五出頭，這個每塊錢買到的規格還是電爆更貴的對手。它在真 HDR 跟 OLED 對比上有取捨，這點我老實講，但要一塊銳利又快的 4K 面板兼顧工作跟遊戲，性價比就是沒人打得贏。" },
-            { "title": "這個價位談調色，ProArt PA279CRV 沒有對手", "body": "ProArt PA279CRV 給的正是攝影師跟剪片的人真正要的東西，原廠校色 Delta E 小於 2，99% DCI-P3 加 99% Adobe RGB 覆蓋，還有硬體校色流程能讓畫面在長時間工作下維持一致。USB-C 串接讓多螢幕桌面保持乾淨。台幣一萬三出頭就壓過所有同級創作者螢幕的價格，這也是為什麼我把它擺在調色首選，連貴一倍的機種都比不過。" },
-            { "title": "27 吋配 1440p 是 2026 年解析度的甜蜜點", "body": "資料一直指向同一個結論，27 吋 1440p 面板大概是 109 PPI，文字跟介面夠銳利，不用開縮放就很清楚，而且中階顯卡就能輕鬆推高幀數。所以我心目中的最佳全能機是 1440p 而不是 4K。4K 在創作者跟對細節龜毛的人身上有它的價值，但 1440p 還是大多數人最該買的解析度。" }
+            {
+              "title": "U2724DE 強在一條線取代你整個擴充底座",
+              "body": "我一直把 U2724DE 排第一，是因為它解掉了現代桌面真正的痛點，線材一團亂加上缺一個 dock。Thunderbolt 4 一條線同時傳 1440p 120Hz 畫面、供 90W 幫筆電充電，還帶一個網路孔跟一排 USB，全部靠這一條搞定。IPS Black 面板做到 2,000:1 對比，以 LCD 來說黑階真的夠深。對每天插拔筆電在家跟公司兩邊跑的人來說，今年沒有比它更省事的選擇。"
+            },
+            {
+              "title": "高階畫質這局 OLED 全拿，PG27UCDM 就是證明",
+              "body": "在市場頂端，QD-OLED 跟 LCD 的畫質差距現在已經拉開了。PG27UCDM 是 27 吋 4K 面板跑 240Hz，每個像素獨立控光，反應時間 0.03ms，而且 DP 2.1a UHBR20 那個埠能把 4K 240Hz 訊號完全零壓縮送出去。再加上 tandem 面板設計拉長了抗烙印壽命，還有人離開就自動黑屏的距離感測器，這就是我會推給任何追求最佳畫面的創作者跟玩家的那一台。"
+            },
+            {
+              "title": "技嘉 M28U 到現在還是 4K 性價比的標竿",
+              "body": "上市這麼多年，要我推薦預算取向的 4K 螢幕，M28U 還是首選。28 吋 SS IPS 面板跑 144Hz 配 HDMI 2.1，色準 Delta E 小於 1，還內建 KVM，台幣一萬五出頭，這個每塊錢買到的規格還是電爆更貴的對手。它在真 HDR 跟 OLED 對比上有取捨，這點我老實講，但要一塊銳利又快的 4K 面板兼顧工作跟遊戲，性價比就是沒人打得贏。"
+            },
+            {
+              "title": "這個價位談調色，ProArt PA279CRV 沒有對手",
+              "body": "ProArt PA279CRV 給的正是攝影師跟剪片的人真正要的東西，原廠校色 Delta E 小於 2，99% DCI-P3 加 99% Adobe RGB 覆蓋，還有硬體校色流程能讓畫面在長時間工作下維持一致。USB-C 串接讓多螢幕桌面保持乾淨。台幣一萬三出頭就壓過所有同級創作者螢幕的價格，這也是為什麼我把它擺在調色首選，連貴一倍的機種都比不過。"
+            },
+            {
+              "title": "27 吋配 1440p 是 2026 年解析度的甜蜜點",
+              "body": "資料一直指向同一個結論，27 吋 1440p 面板大概是 109 PPI，文字跟介面夠銳利，不用開縮放就很清楚，而且中階顯卡就能輕鬆推高幀數。所以我心目中的最佳全能機是 1440p 而不是 4K。4K 在創作者跟對細節龜毛的人身上有它的價值，但 1440p 還是大多數人最該買的解析度。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-06-12",
+      "rankings": [
+        {
+          "id": "dell-u2724de",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "imageQuality": 8.8,
+            "productivity": 9.6,
+            "valueForMoney": 8.8,
+            "connectivity": 9.6,
+            "colorAccuracy": 9,
+            "designErgonomics": 9.3
+          }
+        },
+        {
+          "id": "dell-u2725qe",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "imageQuality": 9.1,
+            "productivity": 9.4,
+            "valueForMoney": 8.4,
+            "connectivity": 9.6,
+            "colorAccuracy": 9.1,
+            "designErgonomics": 9.3
+          }
+        },
+        {
+          "id": "asus-rog-swift-pg27ucdm",
+          "rank": 3,
+          "score": 9,
+          "scores": {
+            "imageQuality": 9.8,
+            "productivity": 7.5,
+            "valueForMoney": 7.8,
+            "connectivity": 8.8,
+            "colorAccuracy": 9.4,
+            "designErgonomics": 9
+          }
+        },
+        {
+          "id": "samsung-odyssey-oled-g8-g81sf",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "imageQuality": 9.6,
+            "productivity": 7.8,
+            "valueForMoney": 7.6,
+            "connectivity": 8,
+            "colorAccuracy": 9.2,
+            "designErgonomics": 9.2
+          }
+        },
+        {
+          "id": "asus-proart-pa279crv",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "imageQuality": 8.8,
+            "productivity": 8.6,
+            "valueForMoney": 9,
+            "connectivity": 8.8,
+            "colorAccuracy": 9.5,
+            "designErgonomics": 8.5
+          }
+        },
+        {
+          "id": "gigabyte-m28u",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "imageQuality": 8.5,
+            "productivity": 8,
+            "valueForMoney": 9.5,
+            "connectivity": 8.6,
+            "colorAccuracy": 8.3,
+            "designErgonomics": 7.6
+          }
+        },
+        {
+          "id": "apple-studio-display-2026",
+          "rank": 7,
+          "score": 8.5,
+          "scores": {
+            "imageQuality": 9.2,
+            "productivity": 7.8,
+            "valueForMoney": 6.8,
+            "connectivity": 8.2,
+            "colorAccuracy": 9.3,
+            "designErgonomics": 9.5
+          }
+        },
+        {
+          "id": "benq-pd2725u",
+          "rank": 8,
+          "score": 8.4,
+          "scores": {
+            "imageQuality": 8.7,
+            "productivity": 8.8,
+            "valueForMoney": 7.6,
+            "connectivity": 9,
+            "colorAccuracy": 9.4,
+            "designErgonomics": 8.8
+          }
+        },
+        {
+          "id": "lg-ultrafine-5k-27md5kl",
+          "rank": 9,
+          "score": 8.2,
+          "scores": {
+            "imageQuality": 9,
+            "productivity": 7.4,
+            "valueForMoney": 7.2,
+            "connectivity": 8,
+            "colorAccuracy": 9.2,
+            "designErgonomics": 7.6
+          }
+        },
+        {
+          "id": "acer-kb272-ebi",
+          "rank": 10,
+          "score": 8,
+          "scores": {
+            "imageQuality": 7,
+            "productivity": 6.5,
+            "valueForMoney": 9.6,
+            "connectivity": 6,
+            "colorAccuracy": 7.5,
+            "designErgonomics": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Dell U2724DE review: A do-it-all display with gobs of ports",
+          "url": "https://www.pcworld.com/article/2164596/dell-u2724de-review.html",
+          "source": "PCWorld"
+        },
+        {
+          "title": "Dell U2725QE Monitor Review",
+          "url": "https://www.rtings.com/monitor/reviews/dell/u2725qe",
+          "source": "RTINGS"
+        },
+        {
+          "title": "Asus ROG Swift PG27UCDM 4K 240Hz QD-OLED gaming monitor review",
+          "url": "https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-swift-pg27ucdm-4k-240-hz-qd-oled-gaming-monitor-review",
+          "source": "Tom's Hardware"
+        },
+        {
+          "title": "Best 4K monitors 2026: HDR, gaming, budget, and best overall",
+          "url": "https://www.pcworld.com/article/813361/best-4k-monitors.html",
+          "source": "PCWorld"
+        },
+        {
+          "title": "The 5 Best Budget And Cheap Gaming Monitors of 2026",
+          "url": "https://www.rtings.com/monitor/reviews/best/budget-gaming",
+          "source": "RTINGS"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The Dell UltraSharp U2724DE is still the monitor I recommend to almost everyone, and nothing this week changed that. Its IPS Black panel reaches a 2,000:1 contrast ratio while a single Thunderbolt 4 cable runs video, 90W charging and a full port hub, which turns one screen into your entire docking station. That is exactly what a hybrid desk needs. The interesting news this month sits one tier up, Dell's CES launches keep maturing into shipping products, including the UltraSharp 32 4K QD-OLED, the world's first DisplayHDR True Black 500 QD-OLED with anti glare low reflectance, factory tuned to Delta E under 1 with Thunderbolt 4 up to 140W, now available globally around 2,600 dollars. It is a stunning creator panel, though at that price it serves a narrower audience than the boards in my top five, so the value order holds. For people who want every pixel sharp, the U2725QE pushes the docking idea to 4K at 120Hz with a world first 3,000:1 contrast IPS Black panel, and at roughly 700 dollars it is the smartest 4K work display of the year. The ASUS ROG Swift PG27UCDM earns the image quality crown with its 4K 240Hz QD-OLED panel and DisplayPort 2.1a UHBR20 carrying uncompressed 4K, the screen creators and gamers reach for when only the best will do. Samsung's Odyssey OLED G8 takes the premium entertainment lane with a 32 inch 4K 240Hz QD-OLED and a built in smart hub. Color pros get the ASUS ProArt PA279CRV, factory calibrated to Delta E under 2 with 99 percent DCI-P3 and 99 percent Adobe RGB at a price that undercuts rivals. For raw value the Gigabyte M28U remains the 4K bargain, a 28 inch 144Hz IPS panel with HDMI 2.1 near 450 dollars. Mac owners split between the Apple Studio Display and the LG UltraFine 5K, and when budget rules the Acer KB272 delivers a 27 inch 1080p IPS panel at 100Hz for around 130 dollars.",
+          "highlights": [
+            {
+              "title": "The Dell U2724DE is the best all rounder for a hybrid desk",
+              "body": "A 2,000:1 contrast IPS Black panel pairs with a single Thunderbolt 4 cable that carries video, 90W charging and a full port hub. That one cable turns the monitor into your whole docking station, which is precisely what a laptop plus desktop setup needs, and it is why this stays my default recommendation."
+            },
+            {
+              "title": "Dell's new 32 inch 4K QD-OLED is gorgeous but a narrower buy",
+              "body": "The UltraSharp 32 4K QD-OLED is the world's first DisplayHDR True Black 500 QD-OLED with anti glare low reflectance, factory tuned to Delta E under 1 with 140W Thunderbolt 4. At around 2,600 dollars it is a dream creator panel, though that price keeps it below the broad value picks in my top five."
+            },
+            {
+              "title": "The U2725QE is the smartest 4K work display of the year",
+              "body": "It brings the same single cable docking idea to 4K at 120Hz with a world first 3,000:1 contrast IPS Black panel. Near 700 dollars for that combination of sharpness, contrast and connectivity makes it the productivity 4K I steer most desk workers toward."
+            },
+            {
+              "title": "The ROG Swift PG27UCDM owns the image quality crown",
+              "body": "Its 4K 240Hz QD-OLED panel and DisplayPort 2.1a UHBR20 carry uncompressed 4K without compression artifacts, the detail and motion clarity creators and gamers chase. When only the best picture will do and budget is secondary, this is the screen."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Dell UltraSharp U2724DE 還是我幾乎會推給每個人的螢幕，這週沒有任何事改變這點。它的 IPS Black 面板做到 2000:1 對比，一條 Thunderbolt 4 線同時走影像、90W 充電跟完整 USB Hub，一台螢幕直接變成你整套擴充座。這正是混合辦公桌需要的。這個月有意思的消息在上一階，Dell 在 CES 發表的東西陸續變成正式出貨產品，包含 UltraSharp 32 4K QD-OLED，全球首款 DisplayHDR True Black 500 的 QD-OLED 還帶抗眩低反射，出廠校到 Delta E 低於 1，Thunderbolt 4 最高 140W，現在全球開賣，約 2600 美金。這是張很驚豔的創作者面板，但這價位服務的客群比我前五名窄，所以 CP 值排序不動。要每個像素都銳利的人，U2725QE 把擴充座概念推到 4K 120Hz，全球首款 3000:1 對比的 IPS Black 面板，約 700 美金，是今年最聰明的 4K 工作螢幕。ASUS ROG Swift PG27UCDM 拿下畫質王冠，4K 240Hz QD-OLED 加 DisplayPort 2.1a UHBR20 傳無壓縮 4K，創作者跟玩家只要最好就會選它。三星 Odyssey OLED G8 走高階娛樂線，32 吋 4K 240Hz QD-OLED 加內建智慧 Hub。色彩專業選 ASUS ProArt PA279CRV，出廠校到 Delta E 低於 2，99 趴 DCI-P3 跟 99 趴 Adobe RGB，價格還壓過對手。純看 CP 值，技嘉 M28U 還是 4K 性價標竿，28 吋 144Hz IPS 加 HDMI 2.1，約 450 美金。Mac 用戶在 Apple Studio Display 跟 LG UltraFine 5K 之間二選一，預算掛帥的話 Acer KB272 給你 27 吋 1080p IPS 100Hz，約 130 美金。",
+          "highlights": [
+            {
+              "title": "Dell U2724DE 是混合辦公桌最強全能機",
+              "body": "2000:1 對比的 IPS Black 面板搭一條 Thunderbolt 4 線，影像、90W 充電、完整 USB Hub 全包。這一條線就把螢幕變成整套擴充座，正是筆電加桌機環境最需要的，這也是它穩坐我預設推薦的原因。"
+            },
+            {
+              "title": "Dell 新的 32 吋 4K QD-OLED 很美，但客群比較窄",
+              "body": "UltraSharp 32 4K QD-OLED 是全球首款帶抗眩低反射的 DisplayHDR True Black 500 QD-OLED，出廠校到 Delta E 低於 1，140W Thunderbolt 4。約 2600 美金是創作者夢幻面板，但這價位讓它排在我前五名那些大眾 CP 值選擇之下。"
+            },
+            {
+              "title": "U2725QE 是今年最聰明的 4K 工作螢幕",
+              "body": "它把一條線擴充座的概念帶到 4K 120Hz，全球首款 3000:1 對比的 IPS Black 面板。約 700 美金就有這種銳利度、對比跟連接性，是我最常推給辦公族的生產力 4K。"
+            },
+            {
+              "title": "ROG Swift PG27UCDM 拿下畫質王冠",
+              "body": "4K 240Hz QD-OLED 面板加 DisplayPort 2.1a UHBR20 傳無壓縮 4K，沒有壓縮雜訊，那種細節跟動態清晰度正是創作者跟玩家在追的。只要最好的畫面、預算其次，就選這張。"
+            }
           ]
         }
       }

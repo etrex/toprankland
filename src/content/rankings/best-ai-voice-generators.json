@@ -4998,6 +4998,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-12",
+      "rankings": [
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.3,
+            "languageSupport": 9,
+            "latency": 9.8,
+            "valueForMoney": 9.1
+          }
+        },
+        {
+          "id": "elevenlabs",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.3,
+            "languageSupport": 9.7,
+            "latency": 9.2,
+            "valueForMoney": 9
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 3,
+          "score": 9,
+          "scores": {
+            "voiceRealism": 9,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.6,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.8,
+            "emotionalRange": 8.6,
+            "languageSupport": 8.4,
+            "latency": 9.9,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8,
+            "languageSupport": 8.6,
+            "latency": 8.1,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 8,
+          "score": 8,
+          "scores": {
+            "voiceRealism": 9,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "voiceRealism": 8,
+            "emotionalRange": 7.6,
+            "languageSupport": 8.6,
+            "latency": 7.7,
+            "valueForMoney": 8.4
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 11,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "21 Best AI Voice Generators in June 2026 (Tested & Compared)",
+          "url": "https://notevibes.com/best-ai-voice-generator",
+          "source": "Notevibes"
+        },
+        {
+          "title": "ElevenLabs Review 2026: Best AI Voice Generator?",
+          "url": "https://cognitivefuture.ai/elevenlabs-review/",
+          "source": "Cognitive Future"
+        },
+        {
+          "title": "Best AI Voice Generators 2026: APIs Ranked by Quality, Latency, and Price",
+          "url": "https://aimlapi.com/blog/best-text-to-speech-ai",
+          "source": "AI/ML API"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Inworld TTS-1.5 Max holds the top spot by the narrowest of margins, and the reason is real-time performance: it sits at the head of the blind listener leaderboards on the Artificial Analysis arena, winning consistently on naturalness, emotional range, and conversational flow, with sub-100ms latency. That is the model I deploy when a live agent has to sound human in real time, and its free voice cloning plus a router across 200+ LLMs make it the most complete single-vendor agent stack. ElevenLabs is tied on overall score and stays at number two because it remains the king of voice cloning and creator tools. For a custom character or a voice matched to a specific creator, nothing else gets as close, and its multilingual long-form consistency across 70+ languages is rock solid for audiobooks, podcasts, and dubbing. The $5 entry point and the v3 realism, which passes blind listening tests against human actors, keep it the default for content work. Hume AI Octave 2 stays third on the strength of the best emotional range in the field, which matters for narrative and character delivery. The market news worth flagging this week: Murf's Falcon model is now running around 55ms latency with 130ms time-to-first-audio, pulling it into real-time contention while keeping its studio strengths, and Google's Gemini 3.1 Flash TTS landed at the top of the Artificial Analysis leaderboard with 200+ audio tags. I am watching both closely, but neither has displaced the established leaders here yet. Choose Inworld for real-time agents, ElevenLabs for cloning and creator work, Hume for emotional delivery, Cartesia when raw latency is everything.",
+          "highlights": [
+            {
+              "title": "Inworld TTS-1.5 Max wins the real-time race",
+              "body": "It tops the blind listener arena on naturalness and conversational flow while holding sub-100ms latency, which is the exact combination a live voice agent needs. Add free voice cloning and a router across 200+ LLMs and it is the most complete single-vendor stack for building a full voice pipeline, not just synthesizing audio."
+            },
+            {
+              "title": "ElevenLabs still owns cloning and creator work",
+              "body": "For a custom character or a voice matched to a specific creator, nothing else gets this close, and v3 realism now passes blind listening tests against human actors. With 70+ languages, rock-solid long-form consistency, and a $5 entry point, it remains the default for audiobooks, podcasts, and dubbing."
+            },
+            {
+              "title": "Hume Octave 2 leads on emotion",
+              "body": "Its 9.7 emotional range is the best in the lineup, and that shows up wherever delivery carries the scene: character voices, narrative beats, and dialogue that needs to land a feeling. When tone matters more than raw speed, it is the pick."
+            },
+            {
+              "title": "The challengers are closing fast",
+              "body": "Murf's Falcon now runs around 55ms latency with 130ms time-to-first-audio, and Google's Gemini 3.1 Flash TTS topped the arena with 200+ audio tags. Neither has displaced the leaders yet, but the real-time bracket is getting crowded enough that I am watching every release."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Inworld TTS-1.5 Max 以極小差距守住第一，靠的就是即時表現。它在 Artificial Analysis 的盲測排行榜上名列前茅，自然度、情感範圍、對話流暢度都很穩，延遲還壓在 100ms 以下。要做真人即時對話的語音代理，我就是用它，加上免費聲音克隆跟能在 200 多個 LLM 間路由的能力，它是目前最完整的單一供應商代理方案。ElevenLabs 總分打平，排第二,因為它在聲音克隆跟創作者工具上還是王者。要做客製角色或對到特定創作者的聲線，沒有別家這麼接近，而且它跨 70 多種語言的長篇一致性很扎實，有聲書、Podcast、配音都靠它。5 美元的入門價加上 v3 那種能騙過人耳盲測的擬真度，內容創作首選還是它。Hume AI Octave 2 排第三，靠的是全場最強的情感範圍，敘事跟角色配音很吃這個。這週值得提的消息，Murf 的 Falcon 模型現在延遲大概 55ms、首音 130ms，正式擠進即時戰場，又保住它的錄音室強項；Google 的 Gemini 3.1 Flash TTS 也帶著 200 多個音訊標籤衝上排行榜頂端。這兩個我都盯著看，但目前都還沒撼動既有的領先者。",
+          "highlights": [
+            {
+              "title": "Inworld TTS-1.5 Max 贏在即時",
+              "body": "它在盲測排行榜上自然度跟對話流暢度都拿下，延遲還壓在 100ms 以下，這正是即時語音代理需要的組合。再加上免費聲音克隆跟跨 200 多個 LLM 的路由，它是目前最完整的單一供應商方案，能搭整條語音流程，不只是合成聲音。"
+            },
+            {
+              "title": "ElevenLabs 還是克隆跟創作者的天下",
+              "body": "要做客製角色或對到特定創作者的聲線，沒有別家這麼接近，v3 的擬真度現在還能騙過人耳盲測。70 多種語言、扎實的長篇一致性、5 美元入門價，有聲書、Podcast、配音的首選還是它。"
+            },
+            {
+              "title": "Hume Octave 2 情感最強",
+              "body": "它的情感範圍 9.7 全場最高，凡是演出帶動整個場面的地方都看得出來，角色配音、敘事節奏、需要傳達情緒的對白都是。當語氣比純速度重要，就選它。"
+            },
+            {
+              "title": "追兵逼近中",
+              "body": "Murf 的 Falcon 現在延遲約 55ms、首音 130ms，Google 的 Gemini 3.1 Flash TTS 帶著 200 多個音訊標籤衝上榜首。目前都還沒擠掉領先者，但即時這一塊已經夠擁擠，每次新版我都會盯著看。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
