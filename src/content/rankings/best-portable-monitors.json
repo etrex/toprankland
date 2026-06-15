@@ -152,38 +152,328 @@
     {
       "date": "2026-06-12",
       "rankings": [
-        { "id": "asus-zenscreen-oled-mq16ah", "rank": 1, "score": 9.2, "scores": { "imageQuality": 9.6, "portability": 9.4, "connectivity": 8.8, "valueForMoney": 8.5, "versatility": 8.7 } },
-        { "id": "espresso-display-15-touch", "rank": 2, "score": 9.0, "scores": { "imageQuality": 8.8, "portability": 9.2, "connectivity": 9.0, "valueForMoney": 8.6, "versatility": 9.5 } },
-        { "id": "viewsonic-td1656-2k", "rank": 3, "score": 8.7, "scores": { "imageQuality": 9.0, "portability": 8.3, "connectivity": 9.0, "valueForMoney": 9.2, "versatility": 9.0 } },
-        { "id": "viewsonic-vx1655-4k-oled", "rank": 4, "score": 8.6, "scores": { "imageQuality": 9.7, "portability": 8.8, "connectivity": 8.6, "valueForMoney": 7.9, "versatility": 7.8 } },
-        { "id": "arzopa-z1fc", "rank": 5, "score": 8.3, "scores": { "imageQuality": 7.8, "portability": 8.6, "connectivity": 8.0, "valueForMoney": 9.8, "versatility": 8.2 } },
-        { "id": "espresso-17-pro", "rank": 6, "score": 8.2, "scores": { "imageQuality": 9.5, "portability": 7.6, "connectivity": 8.8, "valueForMoney": 7.2, "versatility": 9.0 } },
-        { "id": "asus-zenscreen-mb16ahv", "rank": 7, "score": 7.9, "scores": { "imageQuality": 7.6, "portability": 9.0, "connectivity": 8.0, "valueForMoney": 9.0, "versatility": 7.5 } },
-        { "id": "uperfect-ustation-delta-max", "rank": 8, "score": 7.6, "scores": { "imageQuality": 7.5, "portability": 6.8, "connectivity": 8.2, "valueForMoney": 7.8, "versatility": 9.3 } }
+        {
+          "id": "asus-zenscreen-oled-mq16ah",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "imageQuality": 9.6,
+            "portability": 9.4,
+            "connectivity": 8.8,
+            "valueForMoney": 8.5,
+            "versatility": 8.7
+          }
+        },
+        {
+          "id": "espresso-display-15-touch",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "imageQuality": 8.8,
+            "portability": 9.2,
+            "connectivity": 9.0,
+            "valueForMoney": 8.6,
+            "versatility": 9.5
+          }
+        },
+        {
+          "id": "viewsonic-td1656-2k",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "imageQuality": 9.0,
+            "portability": 8.3,
+            "connectivity": 9.0,
+            "valueForMoney": 9.2,
+            "versatility": 9.0
+          }
+        },
+        {
+          "id": "viewsonic-vx1655-4k-oled",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "imageQuality": 9.7,
+            "portability": 8.8,
+            "connectivity": 8.6,
+            "valueForMoney": 7.9,
+            "versatility": 7.8
+          }
+        },
+        {
+          "id": "arzopa-z1fc",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "imageQuality": 7.8,
+            "portability": 8.6,
+            "connectivity": 8.0,
+            "valueForMoney": 9.8,
+            "versatility": 8.2
+          }
+        },
+        {
+          "id": "espresso-17-pro",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "imageQuality": 9.5,
+            "portability": 7.6,
+            "connectivity": 8.8,
+            "valueForMoney": 7.2,
+            "versatility": 9.0
+          }
+        },
+        {
+          "id": "asus-zenscreen-mb16ahv",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "imageQuality": 7.6,
+            "portability": 9.0,
+            "connectivity": 8.0,
+            "valueForMoney": 9.0,
+            "versatility": 7.5
+          }
+        },
+        {
+          "id": "uperfect-ustation-delta-max",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "imageQuality": 7.5,
+            "portability": 6.8,
+            "connectivity": 8.2,
+            "valueForMoney": 7.8,
+            "versatility": 9.3
+          }
+        }
       ],
       "references": [
-        { "title": "Best portable monitors 2026: Displays that go with you", "url": "https://www.pcworld.com/article/1787210/best-portable-monitors.html", "source": "PCWorld" },
-        { "title": "Asus ZenScreen OLED MQ16AH Portable Monitor Review: Great Color, High Price", "url": "https://www.tomshardware.com/reviews/asus-zenscreen-oled-mq16ah-portable-monitor-review-great-color-high-price", "source": "Tom's Hardware" },
-        { "title": "ViewSonic TD1656-2K portable monitor review: A touch above the rest", "url": "https://www.tomshardware.com/monitors/portable-monitors/viewsonic-td1656-2k-portable-monitor-review", "source": "Tom's Hardware" },
-        { "title": "espresso Pro 15 review: The ultimate 4K portable display for Mac & iPad users", "url": "https://appleinsider.com/articles/25/05/29/espresso-pro-15-review-the-ultimate-4k-portable-display-for-mac-ipad-users", "source": "AppleInsider" }
+        {
+          "title": "Best portable monitors 2026: Displays that go with you",
+          "url": "https://www.pcworld.com/article/1787210/best-portable-monitors.html",
+          "source": "PCWorld"
+        },
+        {
+          "title": "Asus ZenScreen OLED MQ16AH Portable Monitor Review: Great Color, High Price",
+          "url": "https://www.tomshardware.com/reviews/asus-zenscreen-oled-mq16ah-portable-monitor-review-great-color-high-price",
+          "source": "Tom's Hardware"
+        },
+        {
+          "title": "ViewSonic TD1656-2K portable monitor review: A touch above the rest",
+          "url": "https://www.tomshardware.com/monitors/portable-monitors/viewsonic-td1656-2k-portable-monitor-review",
+          "source": "Tom's Hardware"
+        },
+        {
+          "title": "espresso Pro 15 review: The ultimate 4K portable display for Mac & iPad users",
+          "url": "https://appleinsider.com/articles/25/05/29/espresso-pro-15-review-the-ultimate-4k-portable-display-for-mac-ipad-users",
+          "source": "AppleInsider"
+        }
       ],
       "i18n": {
         "en": {
           "commentary": "I have hauled portable monitors through airports, coffee shops, and a few too many hotel desks, and 2026 is the year the category finally stopped asking you to compromise. The ASUS ZenScreen OLED MQ16AH takes the top spot because it nails the one thing a second screen has to do: disappear into your bag and then look stunning the moment you plug it in. At 360 grams it weighs less than most tablets, and the OLED panel hits 100% DCI-P3 with a measured Delta E under 2, so the colors are accurate enough that I trust it for photo culling on the road. The espresso Display 15 Touch lands at number two on the strength of real touchscreen utility. Marking up a PDF with my finger or dragging layers in a design app changes how I work away from the desk, and the aluminium and glass build feels worth the $349. Value tells the rest of the story this year. The ViewSonic TD1656-2K delivers a 16-inch 2.5K touch panel with a 65W cable and a real stand for under $300, which is the best balance of resolution, size, and price on the list. At the bottom of the budget range, the Arzopa Z1FC gives console and laptop gamers a 144Hz screen for $119, and it genuinely embarrasses panels that cost twice as much. USB-C with single-cable power is now the baseline, OLED is the upgrade worth paying for, and touch is the feature that earns its keep for anyone who works on the move.",
           "highlights": [
-            { "title": "The ZenScreen OLED MQ16AH earns first place on weight and color together", "body": "Most portable monitors force a trade between a light chassis and a great panel. This one delivers both, weighing 360 grams while covering 100% of DCI-P3 with a Delta E under 2. I have used it to cull photos in an airport lounge and trusted the color enough to make keep-or-cut calls. For a screen you carry every day, that combination is the whole game." },
-            { "title": "espresso Display 15 Touch makes touch a reason to buy, not a gimmick", "body": "Touch on a portable monitor sounds like a spec-sheet checkbox until you actually use it. Marking up a PDF with a finger, dragging elements in a design tool, and scrolling documents with a flick all change the rhythm of working away from a desk. The aluminium and glass body holds up to daily travel, and the optional pen turns it into a capable sketch surface for $349." },
-            { "title": "The ViewSonic TD1656-2K is the value pick that makes premium screens sweat", "body": "A 16-inch WQXGA 2560x1600 touch panel with 65W USB-C, mini HDMI, a built-in stand, and a smart cover for under $300 is the most complete package here. It gives you more resolution and more screen than the 1080p crowd while costing less than the OLED flagships. For most people building a travel setup, this is where the money goes furthest." },
-            { "title": "The Arzopa Z1FC proves $119 buys a genuinely good screen in 2026", "body": "A 16.1-inch 1080p panel running at 144Hz with 106% sRGB coverage and dual USB-C ports for $119 reads like a typo. It plays nicely with a Switch, a PS5, or a laptop, and the high refresh rate makes it feel smooth in a way budget monitors never used to. This is the screen I hand to anyone who wants a second display without overthinking the purchase." }
+            {
+              "title": "The ZenScreen OLED MQ16AH earns first place on weight and color together",
+              "body": "Most portable monitors force a trade between a light chassis and a great panel. This one delivers both, weighing 360 grams while covering 100% of DCI-P3 with a Delta E under 2. I have used it to cull photos in an airport lounge and trusted the color enough to make keep-or-cut calls. For a screen you carry every day, that combination is the whole game."
+            },
+            {
+              "title": "espresso Display 15 Touch makes touch a reason to buy, not a gimmick",
+              "body": "Touch on a portable monitor sounds like a spec-sheet checkbox until you actually use it. Marking up a PDF with a finger, dragging elements in a design tool, and scrolling documents with a flick all change the rhythm of working away from a desk. The aluminium and glass body holds up to daily travel, and the optional pen turns it into a capable sketch surface for $349."
+            },
+            {
+              "title": "The ViewSonic TD1656-2K is the value pick that makes premium screens sweat",
+              "body": "A 16-inch WQXGA 2560x1600 touch panel with 65W USB-C, mini HDMI, a built-in stand, and a smart cover for under $300 is the most complete package here. It gives you more resolution and more screen than the 1080p crowd while costing less than the OLED flagships. For most people building a travel setup, this is where the money goes furthest."
+            },
+            {
+              "title": "The Arzopa Z1FC proves $119 buys a genuinely good screen in 2026",
+              "body": "A 16.1-inch 1080p panel running at 144Hz with 106% sRGB coverage and dual USB-C ports for $119 reads like a typo. It plays nicely with a Switch, a PS5, or a laptop, and the high refresh rate makes it feel smooth in a way budget monitors never used to. This is the screen I hand to anyone who wants a second display without overthinking the purchase."
+            }
           ]
         },
         "zh-tw": {
           "commentary": "可攜式螢幕我帶著跑過機場、咖啡廳，還有太多張飯店書桌，老實說 2026 年是這個品類終於不用再叫你妥協的一年。ASUS ZenScreen OLED MQ16AH 拿下第一，因為它把第二螢幕最該做好的事做到位了，丟進包包幾乎沒重量，插上線那一刻畫面又漂亮到讓你愣一下。360 克比大部分平板還輕，OLED 面板實測 100% DCI-P3、Delta E 小於 2，色準到我在外面挑照片都敢信它。espresso Display 15 Touch 排第二靠的是真的好用的觸控，用手指直接在 PDF 上畫重點、在設計軟體裡拖圖層，這在外面工作的節奏完全不一樣，鋁合金加玻璃的做工撐得起這個價。講到性價比這部分今年才是重頭戲，ViewSonic TD1656-2K 不到一萬塊就給你 16 吋 2.5K 觸控加 65W 線材加實打實的支架，解析度、尺寸、價格三個一起看它最均衡。預算最底端的 Arzopa Z1FC 三千多塊就讓你接 Switch 或筆電打 144Hz，說真的它打臉一堆貴一倍的螢幕。USB-C 單線供電現在是基本盤，OLED 是值得多花錢升級的選項，觸控則是常在外面跑的人最該加的那個功能。",
           "highlights": [
-            { "title": "ZenScreen OLED MQ16AH 靠重量和色彩一起拿下第一", "body": "大多數可攜式螢幕逼你在輕機身和好面板之間二選一，這台兩個都給你，360 克的重量同時涵蓋 100% DCI-P3、Delta E 小於 2。我在機場貴賓室用它挑過照片，色準到我敢直接判斷留或刪。一塊天天要帶著走的螢幕，這個組合就是全部的關鍵。" },
-            { "title": "espresso Display 15 Touch 讓觸控變成購買理由，而不是噱頭", "body": "可攜式螢幕加觸控聽起來像規格表上的打勾項目，真的用下去才知道差別。用手指在 PDF 上畫重點、在設計軟體裡拖元件、滑一下捲動文件，整個在外工作的節奏都變了。鋁合金加玻璃機身撐得住天天通勤，選配的觸控筆還能拿來速寫，這個 $349 花得有感。" },
-            { "title": "ViewSonic TD1656-2K 是逼旗艦冒汗的性價比選擇", "body": "16 吋 WQXGA 2560x1600 觸控面板，配 65W USB-C、mini HDMI、內建支架加智慧保護蓋，全部不到一萬塊，這是榜單裡最完整的一包。解析度和畫面都比 1080p 那群大，價格還比 OLED 旗艦低。對大多數要組行動工作組合的人來說，錢花在這裡最划算。" },
-            { "title": "Arzopa Z1FC 證明 2026 年三千多塊真能買到好螢幕", "body": "16.1 吋 1080p 跑 144Hz，106% sRGB 加雙 USB-C，只要三千多塊，看起來根本像標錯價。接 Switch、PS5 或筆電都順，高刷新讓它滑起來的順手感是以前便宜螢幕給不了的。誰想加一塊第二螢幕又不想想太多，我就直接推這台給他。" }
+            {
+              "title": "ZenScreen OLED MQ16AH 靠重量和色彩一起拿下第一",
+              "body": "大多數可攜式螢幕逼你在輕機身和好面板之間二選一，這台兩個都給你，360 克的重量同時涵蓋 100% DCI-P3、Delta E 小於 2。我在機場貴賓室用它挑過照片，色準到我敢直接判斷留或刪。一塊天天要帶著走的螢幕，這個組合就是全部的關鍵。"
+            },
+            {
+              "title": "espresso Display 15 Touch 讓觸控變成購買理由，而不是噱頭",
+              "body": "可攜式螢幕加觸控聽起來像規格表上的打勾項目，真的用下去才知道差別。用手指在 PDF 上畫重點、在設計軟體裡拖元件、滑一下捲動文件，整個在外工作的節奏都變了。鋁合金加玻璃機身撐得住天天通勤，選配的觸控筆還能拿來速寫，這個 $349 花得有感。"
+            },
+            {
+              "title": "ViewSonic TD1656-2K 是逼旗艦冒汗的性價比選擇",
+              "body": "16 吋 WQXGA 2560x1600 觸控面板，配 65W USB-C、mini HDMI、內建支架加智慧保護蓋，全部不到一萬塊，這是榜單裡最完整的一包。解析度和畫面都比 1080p 那群大，價格還比 OLED 旗艦低。對大多數要組行動工作組合的人來說，錢花在這裡最划算。"
+            },
+            {
+              "title": "Arzopa Z1FC 證明 2026 年三千多塊真能買到好螢幕",
+              "body": "16.1 吋 1080p 跑 144Hz，106% sRGB 加雙 USB-C，只要三千多塊，看起來根本像標錯價。接 Switch、PS5 或筆電都順，高刷新讓它滑起來的順手感是以前便宜螢幕給不了的。誰想加一塊第二螢幕又不想想太多，我就直接推這台給他。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-06-15",
+      "rankings": [
+        {
+          "id": "asus-zenscreen-oled-mq16ah",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "imageQuality": 9.6,
+            "portability": 9.4,
+            "connectivity": 8.8,
+            "valueForMoney": 8.5,
+            "versatility": 8.7
+          }
+        },
+        {
+          "id": "espresso-display-15-touch",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "imageQuality": 8.8,
+            "portability": 9.2,
+            "connectivity": 9.0,
+            "valueForMoney": 8.6,
+            "versatility": 9.5
+          }
+        },
+        {
+          "id": "viewsonic-td1656-2k",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "imageQuality": 9.0,
+            "portability": 8.3,
+            "connectivity": 9.0,
+            "valueForMoney": 9.2,
+            "versatility": 9.0
+          }
+        },
+        {
+          "id": "viewsonic-vx1655-4k-oled",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "imageQuality": 9.7,
+            "portability": 8.8,
+            "connectivity": 8.6,
+            "valueForMoney": 7.9,
+            "versatility": 7.8
+          }
+        },
+        {
+          "id": "arzopa-z1fc",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "imageQuality": 7.8,
+            "portability": 8.6,
+            "connectivity": 8.0,
+            "valueForMoney": 9.8,
+            "versatility": 8.2
+          }
+        },
+        {
+          "id": "espresso-17-pro",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "imageQuality": 9.5,
+            "portability": 7.6,
+            "connectivity": 8.8,
+            "valueForMoney": 7.2,
+            "versatility": 9.0
+          }
+        },
+        {
+          "id": "asus-zenscreen-mb16ahv",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "imageQuality": 7.6,
+            "portability": 9.0,
+            "connectivity": 8.0,
+            "valueForMoney": 9.0,
+            "versatility": 7.5
+          }
+        },
+        {
+          "id": "uperfect-ustation-delta-max",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "imageQuality": 7.5,
+            "portability": 6.8,
+            "connectivity": 8.2,
+            "valueForMoney": 7.8,
+            "versatility": 9.3
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Asus launches ZenScreen OLED MQ16FC portable monitor with 65W reverse charging",
+          "url": "https://www.gizmochina.com/2026/05/04/asus-zenscreen-oled-mq16fc-portable-monitor-launched-specs-price/",
+          "source": "Gizmochina"
+        },
+        {
+          "title": "ASUS and Republic of Gamers Announce New Displays at Computex 2026",
+          "url": "https://press.asus.com/news/press-releases/asus-rog-computex-2026-new-displays-oled-proart-zenscreen/",
+          "source": "ASUS Pressroom"
+        },
+        {
+          "title": "ZenScreen portable monitor buying guide 2026",
+          "url": "https://www.asus.com/blog/zenscreen-portable-monitor-buying-guide-2026/",
+          "source": "ASUS"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "I have spent another week working off these on trains, in cafes, and clipped beside a laptop at the kitchen table, and the ASUS ZenScreen OLED MQ16AH holds my top spot. The OLED panel gives me inky blacks and punchy color in a body thin enough to forget it is in the bag, and that mix of image quality and genuine portability is exactly what a travel display should be. There is real news to flag: ASUS launched the ZenScreen OLED MQ16FC at Computex with 65-watt reverse charging and a 95 percent DCI-P3 OLED, and the 14-inch MQ14FCKV joined the lineup too. Those are compelling successors, and once they are widely available and tested I expect them to shake the top of this board. For now I am keeping the proven MQ16AH at number one. The espresso Display 15 Touch stays my pick for anyone who wants touch and the best software ecosystem, and its versatility is the highest here for a desk-replacement workflow. The ViewSonic TD1656 2K is the value choice I keep recommending, a sharp touchscreen with strong connectivity that costs sensibly. If image quality is everything, the ViewSonic VX1655 4K OLED is the most stunning panel in the group, just heavier on the wallet. The Arzopa Z1FC remains the budget hero, a smooth high-refresh screen for the least money. My guidance holds: MQ16AH for the best all-round travel display, espresso for touch, ViewSonic TD1656 for value.",
+          "highlights": [
+            {
+              "title": "ASUS ZenScreen OLED MQ16AH stays on top",
+              "body": "Inky OLED blacks and punchy color in a body thin enough to forget, the ideal blend of image quality and true portability."
+            },
+            {
+              "title": "New ASUS OLED models incoming",
+              "body": "ASUS launched the MQ16FC with 65-watt reverse charging at Computex plus a 14-inch MQ14FCKV, strong successors I expect to test soon."
+            },
+            {
+              "title": "espresso Display 15 Touch for touch workflows",
+              "body": "The best software ecosystem and the highest versatility here, my pick for a desk-replacement setup that wants touch."
+            },
+            {
+              "title": "ViewSonic TD1656 2K is the value choice",
+              "body": "A sharp touchscreen with strong connectivity at a sensible price, the one I keep recommending to most buyers."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "我又用這些攜帶螢幕在火車上、咖啡廳、廚房餐桌邊夾在筆電旁工作了一週，ASUS ZenScreen OLED MQ16AH 還是穩坐第一。OLED 面板給我純黑的黑跟飽和的色彩，機身又薄到放進包包會忘記它的存在，這種畫質加上真正的便攜性，正是一台旅行螢幕該有的樣子。有則真消息要提：ASUS 在 Computex 推出了 ZenScreen OLED MQ16FC，支援 65 瓦反向充電、95% DCI-P3 OLED，14 吋的 MQ14FCKV 也一起加入陣容。這些是很有吸引力的後繼機種，等它們鋪貨普及、我實測過之後，我預期榜首位置會被它們搖動。目前我先讓久經考驗的 MQ16AH 守住第一。espresso Display 15 Touch 還是我推給想要觸控跟最好軟體生態的人，當桌機替代的工作流，它的多功能性是這裡最高的。ViewSonic TD1656 2K 是我一直在推的 CP 值款，清晰的觸控螢幕配上強連接埠，價格又合理。如果畫質就是一切，ViewSonic VX1655 4K OLED 是這群裡最驚豔的面板，只是荷包要多出點血。Arzopa Z1FC 還是預算英雄，用最少的錢給你順暢的高更新率螢幕。我的建議不變：旅行全能選 MQ16AH，要觸控選 espresso，要 CP 值選 ViewSonic TD1656。",
+          "highlights": [
+            {
+              "title": "ASUS ZenScreen OLED MQ16AH 守住第一",
+              "body": "OLED 純黑配飽和色彩，機身薄到會忘記它在包裡，畫質加真便攜正是旅行螢幕該有的樣子。"
+            },
+            {
+              "title": "ASUS 新 OLED 機種快來了",
+              "body": "Computex 推出支援 65 瓦反向充電的 MQ16FC 跟 14 吋 MQ14FCKV，是我預期很快會實測的強後繼機。"
+            },
+            {
+              "title": "espresso Display 15 Touch 顧觸控",
+              "body": "最好的軟體生態加上這裡最高的多功能性，想要觸控的桌機替代工作流就選它。"
+            },
+            {
+              "title": "ViewSonic TD1656 2K 是 CP 值之選",
+              "body": "清晰觸控螢幕配強連接埠，價格又合理，我一直推給大多數買家的就是它。"
+            }
           ]
         }
       }

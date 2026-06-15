@@ -5161,6 +5161,192 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-15",
+      "rankings": [
+        {
+          "id": "google-veo-3-1",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "kling-3-0",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9,
+            "motionRealism": 9.3,
+            "audioVideoSync": 8.6,
+            "characterConsistency": 8.9,
+            "valueForMoney": 9.7
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9,
+          "scores": {
+            "promptAdherence": 9,
+            "motionRealism": 8.8,
+            "audioVideoSync": 9.4,
+            "characterConsistency": 9,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 6,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 7,
+          "score": 8,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 9,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 10,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI video generator 2026: Veo 3 vs Runway vs Kling",
+          "url": "https://tooldirectory.ai/blog/best-ai-video-generator-2026-veo-runway-kling-pika-luma",
+          "source": "Tool Directory"
+        },
+        {
+          "title": "Best AI for Video Generation in 2026 — Ranked by Blind Human Votes",
+          "url": "https://llm-stats.com/leaderboards/best-ai-for-video-generation",
+          "source": "LLM-Stats"
+        },
+        {
+          "title": "Best Text-to-Video AI Generators June 2026: Top 10 Models Ranked",
+          "url": "https://www.buildmvpfast.com/articles/best-llms-2026-guide/video-generation-ai",
+          "source": "BuildMVPFast"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Veo 3.1 keeps first place, and the reason is the same one that has held all month: it generates dialogue, sound effects, and ambient audio in the same pass that creates the video. That single capability collapses a whole post-production step, and for most people making a finished clip it is the difference between a draft and something you can publish. Its prompt adherence and native audio sync are the best I measure. Runway Gen-4.5 stays at second because nothing beats it for character and world consistency, which is exactly what marketers and branded-content teams need when a face or a product has to look identical across shots. Kling 3.0 holds third, and I nudged its motion realism up a tenth this week after fresh blind-vote leaderboards put its physics handling at the top of the field, particularly on water, smoke, and fabric. If your brief lives or dies on movement, Kling is still my default. Seedance 2.0 remains the well-rounded fourth, with strong native audio and consistency at a friendly price. Hailuo and the open-weight models lower down, Hunyuan and Wan, are where the value sits if you are running your own pipeline and can trade a little polish for near-zero per-clip cost. My broad read this week: the market has stopped being about who can generate any video and become about what you are actually making. Pick Veo for a complete clip, Runway for brand consistency, Kling for motion. I made one small score bump and no rank swaps.",
+          "highlights": [
+            {
+              "title": "Veo's native audio is the deciding feature",
+              "body": "It scores dialogue, effects, and ambience in the same generation pass, which turns a rough draft into a publishable clip and keeps it at number one."
+            },
+            {
+              "title": "Runway owns consistency",
+              "body": "For keeping a face or product identical across every shot, Gen-4.5's reference controls are the best I test, which is why branded work lives here."
+            },
+            {
+              "title": "Kling leads on motion",
+              "body": "Fresh blind-vote leaderboards put its physics at the top for water, smoke, and fabric, so I raised its motion score a tenth and keep it third."
+            },
+            {
+              "title": "Open weights are the value play",
+              "body": "Hunyuan 1.5 and Wan 2.6 trade a little polish for near-zero per-clip cost, which makes them the smart pick if you run your own generation pipeline."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Veo 3.1 繼續坐第一，理由跟整個月一樣硬：它能在生成影片的同一次運算裡，把對白、音效、環境音一起做出來。光這一招就把整個後製步驟直接省掉，對大多數想交出成品的人來說，這就是草稿跟可以直接發布之間的差別。它的提詞遵循度跟原生音畫同步是我量到最好的。Runway Gen-4.5 守住第二，因為角色跟場景一致性沒人比得過，這正是行銷跟品牌內容團隊最需要的，一張臉或一個產品要在每個鏡頭看起來一模一樣，找它就對了。Kling 3.0 維持第三，這週我把它的動態擬真往上加了零點一，因為最新的盲測投票榜把它的物理表現排到全場最前面，水流、煙霧、布料尤其強。如果你的腳本成敗全看畫面動態，Kling 還是我的預設首選。Seedance 2.0 維持全能的第四，原生音效跟一致性都不錯，價格也親民。再往下的 Hailuo，還有開源權重的 Hunyuan 跟 Wan，是自架流程、願意拿一點精緻度換接近零單片成本的人最划算的地方。這週我的整體判斷是：市場已經不再比誰能生成影片，而是看你到底要做什麼。要完整成品選 Veo，要品牌一致選 Runway，要動態選 Kling。這週我只小幅調了一個分數，排名沒有對調。",
+          "highlights": [
+            {
+              "title": "Veo 的原生音效是決勝點",
+              "body": "它在同一次生成裡就把對白、音效、環境音配好，把粗稿變成能直接發布的成品，這讓它穩坐第一。"
+            },
+            {
+              "title": "一致性是 Runway 的強項",
+              "body": "要讓一張臉或一個產品在每個鏡頭都一模一樣，Gen-4.5 的參考控制是我測過最好的，品牌案子都該放這。"
+            },
+            {
+              "title": "Kling 動態最強",
+              "body": "最新盲測投票榜把它的水流、煙霧、布料物理排到最前，所以我把它的動態分加了零點一，維持第三。"
+            },
+            {
+              "title": "開源權重最划算",
+              "body": "Hunyuan 1.5 跟 Wan 2.6 用一點精緻度換接近零的單片成本，自架生成流程的人選它最聰明。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
