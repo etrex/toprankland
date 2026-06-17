@@ -10715,6 +10715,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-17",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.6,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.6,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 4,
+          "score": 8.1,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Coding Tools Pricing: The June 2026 Reality Check",
+          "url": "https://www.developersdigest.tech/blog/ai-coding-tools-pricing-june-2026",
+          "source": "Developers Digest"
+        },
+        {
+          "title": "Claude Code vs. Cursor vs. Codex vs. Antigravity, six months in",
+          "url": "https://thenewstack.io/claude-code-vs-cursor-vs-codex-vs-antigravity-2026/",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Cursor, Claude Code, and Codex are merging into one AI coding stack",
+          "url": "https://thenewstack.io/ai-coding-tool-stack/",
+          "source": "The New Stack"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code stays at number one, and this week I nudged its score to 9.4 with code quality to 9.8 and agentic capability to 9.6. The reason is concrete: Anthropic shipped Opus 4.8 and launched Cowork, described as Claude Code for general computing, which extends the same agentic model into spreadsheets, file management, and workflow automation. That direction matters because it signals the engine underneath Claude Code is getting more capable, not just the wrapper. The professional signal is just as strong, when JetBrains asked developers with more than ten years of experience which tool they would pick for daily work, 46 percent chose Claude Code against 9 percent for Copilot. That is the kind of data that earns a top score. Cursor holds number two on the back of its rebuilt interface for orchestrating parallel agents, the IDE integration at 9.5 is still the best in-editor experience you can buy. OpenAI Codex stays third, and notably it now ships an official plugin that runs inside Claude Code, a clear sign the whole category is converging on one agentic blueprint. GitHub Copilot stays fourth despite new flex billing and a 100-dollar Max plan, its value still lags the leaders. My guidance this week: Claude Code for serious agentic work, Cursor if the in-editor loop is your priority, and Aider if you want the best free, open option.",
+          "highlights": [
+            {
+              "title": "Claude Code climbs to 9.4",
+              "body": "Opus 4.8 shipped and Cowork extends the agentic engine beyond code into general computing. The model underneath keeps getting stronger."
+            },
+            {
+              "title": "Developers vote with their hands",
+              "body": "In a JetBrains poll, 46 percent of developers with 10-plus years of experience picked Claude Code for daily work against 9 percent for Copilot."
+            },
+            {
+              "title": "Cursor owns the in-editor loop",
+              "body": "A rebuilt interface for orchestrating parallel agents keeps Cursor's IDE integration at 9.5, still the best experience inside an editor."
+            },
+            {
+              "title": "The category is converging",
+              "body": "OpenAI now ships an official Codex plugin that runs inside Claude Code, evidence the whole field is settling on one agentic blueprint."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 守住第一，這週我把總分調到 9.4，程式碼品質拉到 9.8、代理能力到 9.6。理由很具體，Anthropic 推出 Opus 4.8，還發布了 Cowork，定位是「通用運算版的 Claude Code」，把同一套代理模型延伸到試算表、檔案管理和工作流程自動化。這個方向很重要，它代表 Claude Code 底層引擎本身在變強，不只是外殼。專業圈的訊號一樣強，JetBrains 問十年以上資歷的開發者日常工作會選哪個工具，46% 選 Claude Code，Copilot 只有 9%，這種數據就值得頂分。Cursor 靠著重做過的並行代理協作介面守住第二，IDE 整合 9.5 還是市面上最好的編輯器內體驗。OpenAI Codex 維持第三，值得一提的是它現在還推出官方外掛能跑在 Claude Code 裡，這整個類別正在收斂成同一套代理藍圖。GitHub Copilot 雖然推了彈性計費和每月 100 美元的 Max 方案，性價比還是落後前段班，維持第四。這週建議：認真做代理開發選 Claude Code，重視編輯器內循環選 Cursor，想要最好的免費開源選項就 Aider。",
+          "highlights": [
+            {
+              "title": "Claude Code 升到 9.4",
+              "body": "Opus 4.8 出貨，Cowork 把代理引擎延伸到程式碼之外的通用運算，底層模型持續變強。"
+            },
+            {
+              "title": "開發者用手投票",
+              "body": "JetBrains 調查中，十年以上資歷的開發者 46% 日常工作選 Claude Code，Copilot 只有 9%。"
+            },
+            {
+              "title": "Cursor 穩吃編輯器內循環",
+              "body": "重做過的並行代理協作介面讓 Cursor 的 IDE 整合維持 9.5，還是編輯器裡最好的體驗。"
+            },
+            {
+              "title": "這個類別正在收斂",
+              "body": "OpenAI 現在推出官方 Codex 外掛能跑在 Claude Code 裡，證明整個領域正收斂成同一套代理藍圖。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
