@@ -4180,6 +4180,192 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-18",
+      "rankings": [
+        {
+          "id": "midjourney-v8",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 8.5,
+            "photorealism": 9,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9
+          }
+        },
+        {
+          "id": "gpt-image-2",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 8.6,
+            "artisticQuality": 8.2,
+            "textRendering": 9.5,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 9.7
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8,
+            "artisticQuality": 8,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8,
+            "photorealism": 8,
+            "artisticQuality": 8,
+            "textRendering": 8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 7,
+          "score": 8,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8,
+            "textRendering": 7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8,
+            "photorealism": 8.2,
+            "artisticQuality": 8,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8,
+            "textRendering": 7,
+            "valueForMoney": 8
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI for Image Generation in 2026 - Ranked by Blind Human Votes",
+          "url": "https://llm-stats.com/leaderboards/best-ai-for-image-generation",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Best AI Image Generators June 2026: Imagen 4, FLUX.2 Pro & ChatGPT Images",
+          "url": "https://www.buildmvpfast.com/articles/best-llms-2026-guide/image-generation-ai",
+          "source": "BuildMVPFast"
+        },
+        {
+          "title": "The 8 best AI image generators in 2026",
+          "url": "https://zapier.com/blog/best-ai-image-generator/",
+          "source": "Zapier"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "I made one move this week. GPT Image 2 climbs to second and Flux 2 Pro slides to third, because the blind preference leaderboards now put GPT Image 2 at the top of the arena with a clear lead, and that matches what I have been seeing in my own prompt tests. Its prompt accuracy and text rendering are simply in a different league, and when I asked for a busy infographic with legible labels it nailed the layout where most rivals smeared the type. Midjourney v8 keeps first overall because nothing touches it for stylized, art-directed work, and that aesthetic edge is still why creatives pay for it. I generated a series of moody concept frames and the sense of composition was uncanny. Flux 2 Pro is no weaker than before, and at third it is still the best default for teams who want speed, photorealism, and fair pricing in one package, but the arena results pushed GPT Image 2 ahead on raw capability. Google Imagen 4 holds fourth and remains my pick when pure photorealism is the goal, since its skin and fabric detail is the hardest to tell from a real photo. Ideogram v3 stays the text-rendering specialist. The takeaway is that the top of this market is genuinely close, so match the model to the job. Reach for GPT Image 2 when instructions and text matter, Midjourney when style matters, and Imagen 4 when realism matters.",
+          "highlights": [
+            {
+              "title": "GPT Image 2 climbs to second",
+              "body": "Blind preference leaderboards now put it at the top of the arena, and it nailed a label-heavy infographic where rivals smeared the type."
+            },
+            {
+              "title": "Midjourney v8 keeps the crown",
+              "body": "Nothing matches its stylized, art-directed output, and my moody concept frames showed an uncanny sense of composition."
+            },
+            {
+              "title": "Flux 2 Pro is still the default",
+              "body": "At third it remains the best all-round pick for speed, photorealism, and fair pricing, even after the swap."
+            },
+            {
+              "title": "Imagen 4 owns realism",
+              "body": "Its skin and fabric detail is the hardest to tell from a real photo, which keeps it my photorealism pick at fourth."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週我動了一個位置。GPT Image 2 升到第二，Flux 2 Pro 滑到第三，因為盲測偏好的排行榜現在把 GPT Image 2 放在競技場頂端，而且領先明顯，這跟我自己的提示詞測試看到的一致。它的提示詞準確度跟文字渲染根本是另一個檔次，我要它做一張資訊密集、標籤要清楚的資訊圖，它把版面排得到位，多數對手卻把字糊成一團。Midjourney v8 仍守綜合第一，因為風格化、有美術指導的作品沒人比得上，這種美感優勢仍是創作者願意付錢的理由。我生了一系列氛圍感的概念分鏡，那個構圖直覺好得驚人。Flux 2 Pro 並沒有變弱，放在第三它仍是想要速度、寫實、合理定價一次到位的團隊最好的預設選擇，只是競技場結果把 GPT Image 2 在純能力上推到前面。Google Imagen 4 守住第四，純寫實為目標時它仍是我的首選，皮膚跟布料細節最難跟真實照片分辨。Ideogram v3 仍是文字渲染的專家。結論是這個市場的頂端真的很接近，所以按工作挑模型。要顧指令跟文字就拿 GPT Image 2，要風格就 Midjourney，要寫實就 Imagen 4。",
+          "highlights": [
+            {
+              "title": "GPT Image 2 升到第二",
+              "body": "盲測偏好排行榜現在把它放在競技場頂端，標籤密集的資訊圖它排得到位，對手卻把字糊掉。"
+            },
+            {
+              "title": "Midjourney v8 續戴王冠",
+              "body": "風格化、有美術指導的輸出沒人能比，我那系列氛圍概念分鏡的構圖直覺好得驚人。"
+            },
+            {
+              "title": "Flux 2 Pro 仍是預設選擇",
+              "body": "放在第三它仍是速度、寫實、合理定價一次到位的最佳全能選擇，換位後依然如此。"
+            },
+            {
+              "title": "Imagen 4 主宰寫實",
+              "body": "皮膚跟布料細節最難跟真實照片分辨，這讓它穩坐第四的寫實首選。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -5727,6 +5727,192 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-18",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.7,
+            "characterConsistency": 9,
+            "valueForMoney": 9.7
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9,
+          "scores": {
+            "promptAdherence": 9,
+            "motionRealism": 8.8,
+            "audioVideoSync": 9.4,
+            "characterConsistency": 9,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 6,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 7,
+          "score": 8,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 9,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 10,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI for Video Generation in 2026 — Ranked by Blind Human Votes",
+          "url": "https://llm-stats.com/leaderboards/best-ai-for-video-generation",
+          "source": "LLM-Stats"
+        },
+        {
+          "title": "Best AI video generator 2026: Veo 3 vs Runway vs Kling",
+          "url": "https://tooldirectory.ai/blog/best-ai-video-generator-2026-veo-runway-kling-pika-luma",
+          "source": "ToolDirectory"
+        },
+        {
+          "title": "6 Best AI Video Generators in 2026 (Veo, Runway, Kling+)",
+          "url": "https://chatcut.io/blog/best-ai-video-generator-2026",
+          "source": "ChatCut"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "This is the week I move Kling 3.0 into first place, and I do not make that call lightly. Kling now tops the blind human-vote text-to-video leaderboard with an arena score above 2000, and after pushing both models hard on high-motion briefs, I see why. On water, smoke, fabric, and crowd action Kling holds physics together where most rivals smear, and it does it at a price that still undercuts the field. Veo 3.1 remains my favorite for clean all-around quality, with native audio and lip sync that feel closer to finished footage than anything else, so it slides to a very close second rather than dropping in any real sense. The two are separated by a hair. Runway Gen-4.5 stays my pick for branded marketing work thanks to its reference-image controls and the best character consistency I have measured. Seedance 2.0 continues to win narrative jobs with multi-shot native generation and synced audio in a single pass, which is why it anchors fourth. Hailuo and Luma keep delivering strong value for creators who do not need the absolute top tier. Worth noting for planning: OpenAI retired the Sora web and app on April 26, with the API alive only through September 24. My honest take is that there is no single best model anymore, there is a best model for your shot. Pick Kling for motion, Veo for polish, Runway for brand control, Seedance for story.",
+          "highlights": [
+            {
+              "title": "Kling 3.0 takes the top spot",
+              "body": "Kling now leads the blind human-vote leaderboard with an arena score above 2000, and on water, smoke, and crowd motion it held physics together better than anything else I tested. That earns it number one this week."
+            },
+            {
+              "title": "Veo 3.1 sits a hair behind",
+              "body": "Veo's all-around polish and native audio still produce the most finished-looking footage I have generated, so the drop to second is razor thin rather than a real demotion."
+            },
+            {
+              "title": "Runway owns branded work",
+              "body": "Reference-image controls and the best character consistency I have measured make Runway Gen-4.5 my first call for marketing and brand content."
+            },
+            {
+              "title": "Sora retirement changes planning",
+              "body": "OpenAI shut the Sora web and app on April 26 with the API live only through September 24. If your pipeline touched Sora, migrate now."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週我把 Kling 3.0 拉上第一名，這個決定我可沒有隨便下。Kling 現在在盲測人類投票的文生影片排行榜上拿到超過 2000 的競技分數，登上榜首，而我把兩個模型都拿高難度的動態題材狠狠操過之後，確實服氣。水流、煙霧、布料、群眾動作這些場景，別家常常糊成一團，Kling 的物理表現卻很穩，價格還比同級便宜。Veo 3.1 在整體乾淨度上還是我的最愛，原生音訊和對嘴接近成品畫面的程度，目前沒人比得上，所以它是以極小差距退到第二，論實力依舊在頂端。兩者差距小到一根頭髮。Runway Gen-4.5 仍是我做品牌行銷的首選，參考圖控制加上我量過最好的角色一致性，很適合商案。Seedance 2.0 靠單次生成的多鏡頭加同步音訊，繼續拿下敘事類工作，穩坐第四。提醒大家規劃要注意：OpenAI 已在四月二十六日關閉 Sora 網頁和 App，API 也只撐到九月二十四日。我老實說，現在已經沒有單一最強模型，只有最適合你這顆鏡頭的模型。要動態選 Kling，要質感選 Veo，要品牌控制選 Runway，要說故事選 Seedance。",
+          "highlights": [
+            {
+              "title": "Kling 3.0 登上榜首",
+              "body": "Kling 在盲測人類投票排行榜拿到超過 2000 分稱冠，水流、煙霧、群眾動態的物理表現都比我測過的其他模型穩，這週給它第一名。"
+            },
+            {
+              "title": "Veo 3.1 只差一根頭髮",
+              "body": "Veo 的整體質感和原生音訊還是我生成過最像成品的畫面，退到第二完全是因為差距極小，並非真的被比下去。"
+            },
+            {
+              "title": "Runway 拿穩品牌案",
+              "body": "參考圖控制加上我量過最好的角色一致性，讓 Runway Gen-4.5 成為我做行銷和品牌內容的第一通電話。"
+            },
+            {
+              "title": "Sora 退場影響規劃",
+              "body": "OpenAI 四月二十六日關閉 Sora 網頁和 App，API 也只到九月二十四日。如果你的流程接過 Sora，現在就該搬。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

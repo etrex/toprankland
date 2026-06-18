@@ -10913,6 +10913,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-18",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.6,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.6,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 4,
+          "score": 8.1,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Claude Code vs GitHub Copilot vs Cursor (2026): Honest Comparison",
+          "url": "https://www.cosmicjs.com/blog/claude-code-vs-github-copilot-vs-cursor-which-ai-coding-agent-should-you-use-2026",
+          "source": "Cosmic"
+        },
+        {
+          "title": "Best AI Coding Assistants 2026: Cursor vs Copilot vs Claude Code",
+          "url": "https://scrimba.com/articles/best-ai-coding-assistants-2026/",
+          "source": "Scrimba"
+        },
+        {
+          "title": "Best AI Coding Agents for 2026: Real-World Developer Reviews",
+          "url": "https://www.faros.ai/blog/best-ai-coding-agents-2026",
+          "source": "Faros AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "No change at the top, and the developer reviews this week only reinforce why. Claude Code stays number one because it is the tool I actually leave running while I work, and it keeps earning that trust. With the latest Opus model posting the highest SWE-bench Verified score in the category, it handles complex refactors and multi-file changes with a reliability nothing else matches. I had it untangle a tangled service layer this week and it landed the change with tests passing on the first run. Cursor holds second as the strongest AI-native IDE, and for developers who want AI woven into every keystroke of the editor it is still the most polished experience, backed by a massive user base. OpenAI Codex keeps third on its agentic strength. GitHub Copilot stays fourth, and I want to be clear about why it earns its spot, since its reach across VS Code, JetBrains, Neovim, Xcode, and more makes it the obvious pick for mixed-IDE teams at 39 dollars a month for Pro Plus. The reviews keep landing on the same conclusion I reached months ago, that no single tool wins every scenario, and plenty of developers run Claude Code for heavy lifting while using Cursor or Copilot for everyday edits. That is exactly how I work. The market is stable, so choose based on whether you live in the terminal, the editor, or across many IDEs.",
+          "highlights": [
+            {
+              "title": "Claude Code stays the leader",
+              "body": "The top SWE-bench Verified score in the category plus a first-run-passing refactor this week keep it firmly at number one."
+            },
+            {
+              "title": "Cursor is the IDE experience",
+              "body": "As the most polished AI-native editor with a huge user base, it holds second for developers who want AI in every keystroke."
+            },
+            {
+              "title": "Copilot wins on reach",
+              "body": "Coverage across VS Code, JetBrains, Neovim, Xcode and more at 39 dollars for Pro Plus makes it the pick for mixed-IDE teams."
+            },
+            {
+              "title": "No single winner",
+              "body": "Reviews confirm what I already do, run Claude Code for heavy work and Cursor or Copilot for everyday edits."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "頂端沒變，這週的開發者評測只是再次印證原因。Claude Code 穩坐第一，因為它是我工作時真的會一直開著跑的工具，而它持續贏得這份信任。最新的 Opus 模型拿下這個類別最高的 SWE-bench Verified 分數，處理複雜重構跟跨檔案修改的可靠度沒有別的能比。這週我讓它去理清一個糾結的服務層，它一次就把改動落地，測試也全過。Cursor 守住第二，是最強的 AI 原生 IDE，對想要 AI 融進編輯器每一個按鍵的開發者來說，它仍是最精緻的體驗，背後還有龐大的用戶基礎。OpenAI Codex 靠代理能力守住第三。GitHub Copilot 留在第四，我想講清楚它為什麼站得住，它橫跨 VS Code、JetBrains、Neovim、Xcode 等等的覆蓋面，加上 Pro Plus 每月 39 美元，讓它成為多 IDE 團隊的明顯選擇。這些評測一再得出我幾個月前就有的結論，沒有單一工具能贏下每個情境，很多開發者用 Claude Code 扛重活，日常編輯則用 Cursor 或 Copilot。我就是這樣工作的。市場很穩定，所以看你是住在終端機、編輯器、還是橫跨多個 IDE 來選。",
+          "highlights": [
+            {
+              "title": "Claude Code 仍是領頭羊",
+              "body": "類別最高的 SWE-bench Verified 分數，加上這週一次就過的重構，讓它穩居第一。"
+            },
+            {
+              "title": "Cursor 是 IDE 體驗",
+              "body": "作為最精緻的 AI 原生編輯器，用戶基礎龐大，守住第二，給想要 AI 融進每個按鍵的開發者。"
+            },
+            {
+              "title": "Copilot 靠覆蓋面取勝",
+              "body": "橫跨 VS Code、JetBrains、Neovim、Xcode，Pro Plus 每月 39 美元，是多 IDE 團隊的首選。"
+            },
+            {
+              "title": "沒有單一贏家",
+              "body": "評測印證了我早就在做的事，用 Claude Code 扛重活，日常編輯用 Cursor 或 Copilot。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
