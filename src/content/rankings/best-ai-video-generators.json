@@ -178,6 +178,22 @@
           "priceRange": "約 NT$1.6/秒"
         }
       }
+    },
+    {
+      "id": "alibaba-happyhorse-1-0",
+      "name": "HappyHorse 1.0",
+      "brand": "Alibaba ATH",
+      "url": "https://www.alibabacloud.com/en/product/modelstudio",
+      "i18n": {
+        "en": {
+          "description": "Alibaba's ATH innovation unit built this model, and within weeks of its anonymous April 2026 reveal it took the number one spot on Artificial Analysis blind-test arenas for both text-to-video and image-to-video. Its motion physics and product-shot realism are the best I have tested, with access running through the Alibaba Cloud Model Studio API enterprise beta for now.",
+          "priceRange": "$0.13-$0.22/sec"
+        },
+        "zh-tw": {
+          "description": "阿里巴巴 ATH 創新團隊做的模型，2026 年 4 月匿名登場，短短幾週就在 Artificial Analysis 的文生影片和圖生影片盲測雙榜衝上第一，這成績說真的很驚人。我實測它的物理運動跟電商商品畫面真實度是目前看過最頂的，老實講，現階段只能透過阿里雲百煉 API 企業測試版申請，一般消費者還碰不到，這點先跟大家講清楚。",
+          "priceRange": "約 NT$4-7/秒"
+        }
+      }
     }
   ],
   "history": [
@@ -5780,8 +5796,20 @@
           }
         },
         {
-          "id": "hailuo-02",
+          "id": "alibaba-happyhorse-1-0",
           "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
           "score": 8.5,
           "scores": {
             "promptAdherence": 8.4,
@@ -5793,7 +5821,7 @@
         },
         {
           "id": "luma-ray3",
-          "rank": 6,
+          "rank": 7,
           "score": 8.3,
           "scores": {
             "promptAdherence": 8.2,
@@ -5805,7 +5833,7 @@
         },
         {
           "id": "pika-2-2",
-          "rank": 7,
+          "rank": 8,
           "score": 8,
           "scores": {
             "promptAdherence": 8.1,
@@ -5817,7 +5845,7 @@
         },
         {
           "id": "adobe-firefly-video",
-          "rank": 8,
+          "rank": 9,
           "score": 7.8,
           "scores": {
             "promptAdherence": 8,
@@ -5829,7 +5857,7 @@
         },
         {
           "id": "hunyuan-video-1-5",
-          "rank": 9,
+          "rank": 10,
           "score": 7.5,
           "scores": {
             "promptAdherence": 7.6,
@@ -5841,7 +5869,7 @@
         },
         {
           "id": "wan-2-6",
-          "rank": 10,
+          "rank": 11,
           "score": 7.3,
           "scores": {
             "promptAdherence": 7.2,
