@@ -185,41 +185,399 @@
     {
       "date": "2026-06-18",
       "rankings": [
-        { "id": "mudwtr-rise-cacao", "rank": 1, "score": 9.3, "scores": { "taste": 9.2, "energy": 9.5, "blend": 9.0, "purity": 9.4, "value": 8.8, "ease": 9.5 } },
-        { "id": "four-sigmatic-focus-ground", "rank": 2, "score": 9.0, "scores": { "taste": 9.4, "energy": 8.8, "blend": 8.6, "purity": 9.2, "value": 9.2, "ease": 8.0 } },
-        { "id": "ryze-mushroom-coffee", "rank": 3, "score": 8.9, "scores": { "taste": 8.4, "energy": 8.7, "blend": 9.6, "purity": 9.0, "value": 9.4, "ease": 9.5 } },
-        { "id": "everyday-dose-coffee-plus", "rank": 4, "score": 8.7, "scores": { "taste": 9.3, "energy": 8.6, "blend": 8.5, "purity": 8.8, "value": 8.2, "ease": 9.3 } },
-        { "id": "om-mushroom-coffee-blend", "rank": 5, "score": 8.5, "scores": { "taste": 8.2, "energy": 8.5, "blend": 9.2, "purity": 9.3, "value": 8.6, "ease": 9.0 } },
-        { "id": "laird-superfood-perform", "rank": 6, "score": 8.3, "scores": { "taste": 8.8, "energy": 9.0, "blend": 8.0, "purity": 8.9, "value": 8.8, "ease": 7.8 } },
-        { "id": "vitacup-mushroom-alternative", "rank": 7, "score": 8.0, "scores": { "taste": 8.0, "energy": 8.2, "blend": 7.8, "purity": 8.2, "value": 8.4, "ease": 9.2 } },
-        { "id": "clevr-coffee-superlatte", "rank": 8, "score": 7.9, "scores": { "taste": 8.6, "energy": 7.6, "blend": 8.0, "purity": 8.4, "value": 7.4, "ease": 9.4 } },
-        { "id": "pella-nutrition-mushroom-coffee", "rank": 9, "score": 7.7, "scores": { "taste": 7.6, "energy": 7.5, "blend": 8.4, "purity": 8.0, "value": 9.0, "ease": 9.0 } },
-        { "id": "wunderground-mushroom-coffee", "rank": 10, "score": 7.6, "scores": { "taste": 8.0, "energy": 7.8, "blend": 7.9, "purity": 9.1, "value": 8.0, "ease": 7.8 } }
+        {
+          "id": "mudwtr-rise-cacao",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "taste": 9.2,
+            "energy": 9.5,
+            "blend": 9.0,
+            "purity": 9.4,
+            "value": 8.8,
+            "ease": 9.5
+          }
+        },
+        {
+          "id": "four-sigmatic-focus-ground",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "taste": 9.4,
+            "energy": 8.8,
+            "blend": 8.6,
+            "purity": 9.2,
+            "value": 9.2,
+            "ease": 8.0
+          }
+        },
+        {
+          "id": "ryze-mushroom-coffee",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "taste": 8.4,
+            "energy": 8.7,
+            "blend": 9.6,
+            "purity": 9.0,
+            "value": 9.4,
+            "ease": 9.5
+          }
+        },
+        {
+          "id": "everyday-dose-coffee-plus",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "taste": 9.3,
+            "energy": 8.6,
+            "blend": 8.5,
+            "purity": 8.8,
+            "value": 8.2,
+            "ease": 9.3
+          }
+        },
+        {
+          "id": "om-mushroom-coffee-blend",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "taste": 8.2,
+            "energy": 8.5,
+            "blend": 9.2,
+            "purity": 9.3,
+            "value": 8.6,
+            "ease": 9.0
+          }
+        },
+        {
+          "id": "laird-superfood-perform",
+          "rank": 6,
+          "score": 8.3,
+          "scores": {
+            "taste": 8.8,
+            "energy": 9.0,
+            "blend": 8.0,
+            "purity": 8.9,
+            "value": 8.8,
+            "ease": 7.8
+          }
+        },
+        {
+          "id": "vitacup-mushroom-alternative",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "taste": 8.0,
+            "energy": 8.2,
+            "blend": 7.8,
+            "purity": 8.2,
+            "value": 8.4,
+            "ease": 9.2
+          }
+        },
+        {
+          "id": "clevr-coffee-superlatte",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "taste": 8.6,
+            "energy": 7.6,
+            "blend": 8.0,
+            "purity": 8.4,
+            "value": 7.4,
+            "ease": 9.4
+          }
+        },
+        {
+          "id": "pella-nutrition-mushroom-coffee",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "taste": 7.6,
+            "energy": 7.5,
+            "blend": 8.4,
+            "purity": 8.0,
+            "value": 9.0,
+            "ease": 9.0
+          }
+        },
+        {
+          "id": "wunderground-mushroom-coffee",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "taste": 8.0,
+            "energy": 7.8,
+            "blend": 7.9,
+            "purity": 9.1,
+            "value": 8.0,
+            "ease": 7.8
+          }
+        }
       ],
       "references": [
-        { "title": "Everyday Dose vs. RYZE vs. MUD/WTR vs. Four Sigmatic: Which Mushroom Coffee Wins?", "url": "https://www.mysubscriptionaddiction.com/everyday-dose-vs-ryze-vs-mudwtr-vs-four-sigmatic-which-mushroom-coffee-wins", "source": "My Subscription Addiction" },
-        { "title": "The Best Mushroom Coffee Brands of 2026 (Tested by a Dietitian)", "url": "https://www.tasteofhome.com/collection/mushroom-coffee-brands/", "source": "Taste of Home" },
-        { "title": "Best Mushroom Coffee: Our Top 6 in 2026", "url": "https://www.innerbody.com/best-mushroom-coffee", "source": "Innerbody Research" }
+        {
+          "title": "Everyday Dose vs. RYZE vs. MUD/WTR vs. Four Sigmatic: Which Mushroom Coffee Wins?",
+          "url": "https://www.mysubscriptionaddiction.com/everyday-dose-vs-ryze-vs-mudwtr-vs-four-sigmatic-which-mushroom-coffee-wins",
+          "source": "My Subscription Addiction"
+        },
+        {
+          "title": "The Best Mushroom Coffee Brands of 2026 (Tested by a Dietitian)",
+          "url": "https://www.tasteofhome.com/collection/mushroom-coffee-brands/",
+          "source": "Taste of Home"
+        },
+        {
+          "title": "Best Mushroom Coffee: Our Top 6 in 2026",
+          "url": "https://www.innerbody.com/best-mushroom-coffee",
+          "source": "Innerbody Research"
+        }
       ],
       "i18n": {
         "en": {
           "commentary": "Mushroom coffee crossed over from wellness niche to grocery-aisle mainstream this year, and after weeks of swapping it for my regular brew I have firm opinions on who earns the money. MUD/WTR takes the top spot because it solves the one problem that matters most: it tastes good enough to drink every single morning. The cacao and masala chai base hides the earthiness most blends fail to mask, and at 35mg of caffeine I get a clean, level lift that lasts until lunch with zero crash. Four Sigmatic earns second by respecting coffee drinkers. It is real ground arabica you brew in your own machine, so the taste and caffeine arrive at full strength with lion's mane riding along. RYZE is the value champion at roughly $1.20 a cup with six mushrooms in every instant scoop, and it is the one I recommend to anyone who wants the widest functional stack for the least money. Everyday Dose is the smartest on-ramp for someone leaving regular coffee, since it tastes the most like the cup they already know. The rest split by purpose: Om doses the most mushroom per serving, Laird keeps full caffeine for athletes, and Pella is the cheapest way to find out if you even like the category. Buy for how you actually drink coffee, and one of the top four will fit.",
           "highlights": [
-            { "title": "MUD/WTR wins because you will actually finish the bag", "body": "The single biggest reason mushroom coffee ends up in the back of the cupboard is taste, and MUD/WTR is the one blend I never had to force down. The cacao and masala chai foundation gives it a warm, spiced flavor that reads as a treat rather than a supplement, and the 35mg of caffeine produces a steady focus that held through my afternoons without the spike-and-crash of regular coffee. A blend you enjoy is a blend you keep drinking, and that is what makes it worth the top rank." },
-            { "title": "RYZE is the value pick and it is not close", "body": "At around $1.20 per cup RYZE delivers six adaptogenic mushrooms in a single instant scoop, the widest functional stack on this list for the lowest cost per serving. The taste is mild and slightly nutty rather than rich, but for anyone whose priority is maximum mushroom benefit per dollar, the math points straight here. It is also the easiest to make: one scoop, hot water, done." },
-            { "title": "Four Sigmatic is the choice for people who love coffee", "body": "Every other top pick is an instant powder. Four Sigmatic Focus is real ground arabica with lion's mane and chaga blended in, brewed in your normal drip machine. That means the coffee taste and the caffeine arrive at full strength, which is exactly what an ex-espresso drinker wants. If giving up a proper cup of coffee is the reason you have avoided this category, this is the bridge." },
-            { "title": "Everyday Dose is the gentlest switch from regular coffee", "body": "Everyday Dose tastes the closest to a standard cup of anything I tried, which makes it the blend I hand to skeptics. It layers in collagen protein, lion's mane and chaga extracts, and L-theanine alongside a reduced 45mg of caffeine, so the energy comes on calm and even. For someone nervous about the earthy mushroom flavor, this removes the excuse." },
-            { "title": "Match the brand to how you drink, not to the hype", "body": "These blends genuinely serve different drinkers. Want the most mushroom per scoop? Om doses 2,000mg a serving. Need full caffeine for training? Laird keeps it. Just testing the waters on a budget? Pella is the cheapest cup here. The mistake is buying the loudest brand instead of the one that fits your morning, so decide what you actually want from the cup first." }
+            {
+              "title": "MUD/WTR wins because you will actually finish the bag",
+              "body": "The single biggest reason mushroom coffee ends up in the back of the cupboard is taste, and MUD/WTR is the one blend I never had to force down. The cacao and masala chai foundation gives it a warm, spiced flavor that reads as a treat rather than a supplement, and the 35mg of caffeine produces a steady focus that held through my afternoons without the spike-and-crash of regular coffee. A blend you enjoy is a blend you keep drinking, and that is what makes it worth the top rank."
+            },
+            {
+              "title": "RYZE is the value pick and it is not close",
+              "body": "At around $1.20 per cup RYZE delivers six adaptogenic mushrooms in a single instant scoop, the widest functional stack on this list for the lowest cost per serving. The taste is mild and slightly nutty rather than rich, but for anyone whose priority is maximum mushroom benefit per dollar, the math points straight here. It is also the easiest to make: one scoop, hot water, done."
+            },
+            {
+              "title": "Four Sigmatic is the choice for people who love coffee",
+              "body": "Every other top pick is an instant powder. Four Sigmatic Focus is real ground arabica with lion's mane and chaga blended in, brewed in your normal drip machine. That means the coffee taste and the caffeine arrive at full strength, which is exactly what an ex-espresso drinker wants. If giving up a proper cup of coffee is the reason you have avoided this category, this is the bridge."
+            },
+            {
+              "title": "Everyday Dose is the gentlest switch from regular coffee",
+              "body": "Everyday Dose tastes the closest to a standard cup of anything I tried, which makes it the blend I hand to skeptics. It layers in collagen protein, lion's mane and chaga extracts, and L-theanine alongside a reduced 45mg of caffeine, so the energy comes on calm and even. For someone nervous about the earthy mushroom flavor, this removes the excuse."
+            },
+            {
+              "title": "Match the brand to how you drink, not to the hype",
+              "body": "These blends genuinely serve different drinkers. Want the most mushroom per scoop? Om doses 2,000mg a serving. Need full caffeine for training? Laird keeps it. Just testing the waters on a budget? Pella is the cheapest cup here. The mistake is buying the loudest brand instead of the one that fits your morning, so decide what you actually want from the cup first."
+            }
           ]
         },
         "zh-tw": {
           "commentary": "機能蘑菇咖啡今年正式從養生小眾走進一般人的購物車，我連續幾週拿它取代每天那杯咖啡，對誰值得買心裡有底了。MUD/WTR 拿第一，因為它解決了最關鍵的一件事，就是好喝到你願意每天早上都來一杯。可可加印度香料茶的底把多數蘑菇咖啡那股土味壓得很乾淨，35 毫克咖啡因給的是一路撐到中午、不會崩潰的穩定提神感。Four Sigmatic 排第二，因為它最懂喝咖啡的人，這是真的研磨阿拉比卡豆，用自己家的咖啡機就能煮，咖啡味跟咖啡因都是足量的，再帶上獅鬃菇。RYZE 是性價比之王，每杯換算約台幣三十幾塊就有六種蘑菇，想用最少的錢拿到最廣機能堆疊的人，我直接推這款。Everyday Dose 最適合剛要從一般咖啡過渡的人，它喝起來最像你本來那杯。剩下的就看你的需求分流，Om 每份蘑菇劑量最高，Laird 給運動族足量咖啡因，Pella 是最便宜的試水溫選擇。照你平常怎麼喝咖啡來買，前四名裡一定有一款合你。",
           "highlights": [
-            { "title": "MUD/WTR 第一，是因為你真的會把整罐喝完", "body": "蘑菇咖啡會被冰在櫥櫃深處，最大原因就是難喝，而 MUD/WTR 是唯一一款我從來不用硬逼自己吞的。可可加印度香料茶的底給它一種溫暖帶香料的味道，喝起來像享受而非吃保健品，35 毫克咖啡因撐住整個下午的專注，也沒有一般咖啡那種衝高再崩的落差。一款你喝得開心的咖啡才會一直喝下去，這就是它值得第一的理由。" },
-            { "title": "RYZE 是性價比首選，而且差距明顯", "body": "每杯約台幣三十幾塊，RYZE 一匙即溶就給你六種適應原蘑菇，是全榜機能堆疊最廣、每份成本最低的一款。味道偏溫和帶點堅果香，不算濃郁，但如果你最在意的是每塊錢換到多少蘑菇好處，算盤一打就是它。沖泡也最簡單，一匙、熱水，搞定。" },
-            { "title": "Four Sigmatic 是給愛喝咖啡的人準備的", "body": "其他幾個前段班都是即溶粉，Four Sigmatic Focus 是真的研磨阿拉比卡豆混獅鬃菇與白樺茸，用你家一般滴漏機就能煮。這代表咖啡味跟咖啡因都是足量到位的，這正是喝慣現煮咖啡的人要的。如果你一直不碰這個品類就是因為捨不得那杯像樣的咖啡，這款就是你的橋。" },
-            { "title": "Everyday Dose 是從一般咖啡換過來最溫和的一款", "body": "Everyday Dose 喝起來是我試過最接近一般咖啡的，所以我都拿它給半信半疑的朋友試。它加了膠原蛋白、獅鬃菇與白樺茸萃取、L-茶胺酸，咖啡因降到 45 毫克，提神來得很平穩。怕那股土味蘑菇感的人，這款幫你把藉口拿掉了。" },
-            { "title": "照你怎麼喝來挑，別跟著聲量買", "body": "這些配方是真的服務不同的人。想要每匙蘑菇最多？Om 每份塞 2,000 毫克。練身要足量咖啡因？Laird 留著。只是想用小錢試水溫？Pella 是全榜最便宜的一杯。最常見的錯誤就是去買聲量最大的牌子，而不是最合你早晨那杯的那款，所以先想清楚你到底要這杯給你什麼。" }
+            {
+              "title": "MUD/WTR 第一，是因為你真的會把整罐喝完",
+              "body": "蘑菇咖啡會被冰在櫥櫃深處，最大原因就是難喝，而 MUD/WTR 是唯一一款我從來不用硬逼自己吞的。可可加印度香料茶的底給它一種溫暖帶香料的味道，喝起來像享受而非吃保健品，35 毫克咖啡因撐住整個下午的專注，也沒有一般咖啡那種衝高再崩的落差。一款你喝得開心的咖啡才會一直喝下去，這就是它值得第一的理由。"
+            },
+            {
+              "title": "RYZE 是性價比首選，而且差距明顯",
+              "body": "每杯約台幣三十幾塊，RYZE 一匙即溶就給你六種適應原蘑菇，是全榜機能堆疊最廣、每份成本最低的一款。味道偏溫和帶點堅果香，不算濃郁，但如果你最在意的是每塊錢換到多少蘑菇好處，算盤一打就是它。沖泡也最簡單，一匙、熱水，搞定。"
+            },
+            {
+              "title": "Four Sigmatic 是給愛喝咖啡的人準備的",
+              "body": "其他幾個前段班都是即溶粉，Four Sigmatic Focus 是真的研磨阿拉比卡豆混獅鬃菇與白樺茸，用你家一般滴漏機就能煮。這代表咖啡味跟咖啡因都是足量到位的，這正是喝慣現煮咖啡的人要的。如果你一直不碰這個品類就是因為捨不得那杯像樣的咖啡，這款就是你的橋。"
+            },
+            {
+              "title": "Everyday Dose 是從一般咖啡換過來最溫和的一款",
+              "body": "Everyday Dose 喝起來是我試過最接近一般咖啡的，所以我都拿它給半信半疑的朋友試。它加了膠原蛋白、獅鬃菇與白樺茸萃取、L-茶胺酸，咖啡因降到 45 毫克，提神來得很平穩。怕那股土味蘑菇感的人，這款幫你把藉口拿掉了。"
+            },
+            {
+              "title": "照你怎麼喝來挑，別跟著聲量買",
+              "body": "這些配方是真的服務不同的人。想要每匙蘑菇最多？Om 每份塞 2,000 毫克。練身要足量咖啡因？Laird 留著。只是想用小錢試水溫？Pella 是全榜最便宜的一杯。最常見的錯誤就是去買聲量最大的牌子，而不是最合你早晨那杯的那款，所以先想清楚你到底要這杯給你什麼。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "rankings": [
+        {
+          "id": "mudwtr-rise-cacao",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "taste": 9.2,
+            "energy": 9.5,
+            "blend": 9.0,
+            "purity": 9.4,
+            "value": 8.8,
+            "ease": 9.5
+          }
+        },
+        {
+          "id": "four-sigmatic-focus-ground",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "taste": 9.4,
+            "energy": 8.8,
+            "blend": 8.7,
+            "purity": 9.2,
+            "value": 9.2,
+            "ease": 8.0
+          }
+        },
+        {
+          "id": "ryze-mushroom-coffee",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "taste": 8.4,
+            "energy": 8.7,
+            "blend": 9.6,
+            "purity": 9.0,
+            "value": 9.4,
+            "ease": 9.5
+          }
+        },
+        {
+          "id": "everyday-dose-coffee-plus",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "taste": 9.3,
+            "energy": 8.6,
+            "blend": 8.5,
+            "purity": 8.8,
+            "value": 8.2,
+            "ease": 9.3
+          }
+        },
+        {
+          "id": "om-mushroom-coffee-blend",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "taste": 8.2,
+            "energy": 8.5,
+            "blend": 9.2,
+            "purity": 9.3,
+            "value": 8.6,
+            "ease": 9.0
+          }
+        },
+        {
+          "id": "laird-superfood-perform",
+          "rank": 6,
+          "score": 8.3,
+          "scores": {
+            "taste": 8.8,
+            "energy": 9.0,
+            "blend": 8.0,
+            "purity": 8.9,
+            "value": 8.8,
+            "ease": 7.8
+          }
+        },
+        {
+          "id": "vitacup-mushroom-alternative",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "taste": 8.0,
+            "energy": 8.2,
+            "blend": 7.8,
+            "purity": 8.2,
+            "value": 8.4,
+            "ease": 9.2
+          }
+        },
+        {
+          "id": "clevr-coffee-superlatte",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "taste": 8.6,
+            "energy": 7.6,
+            "blend": 8.0,
+            "purity": 8.4,
+            "value": 7.4,
+            "ease": 9.4
+          }
+        },
+        {
+          "id": "pella-nutrition-mushroom-coffee",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "taste": 7.6,
+            "energy": 7.5,
+            "blend": 8.4,
+            "purity": 8.0,
+            "value": 9.0,
+            "ease": 9.0
+          }
+        },
+        {
+          "id": "wunderground-mushroom-coffee",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "taste": 8.0,
+            "energy": 7.8,
+            "blend": 7.9,
+            "purity": 9.1,
+            "value": 8.0,
+            "ease": 7.8
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best Mushroom Coffee | Our Top 6 in 2026",
+          "url": "https://www.innerbody.com/best-mushroom-coffee",
+          "source": "Innerbody"
+        },
+        {
+          "title": "The Best Mushroom Coffee Brands of 2026 [Tested by a Dietitian]",
+          "url": "https://www.tasteofhome.com/collection/mushroom-coffee-brands/",
+          "source": "Taste of Home"
+        },
+        {
+          "title": "MUD\\WTR vs. Four Sigmatic Mushroom Coffee (I Tried Both): Who Wins In 2026?",
+          "url": "https://blog.revgear.com/mudwtr-vs-four-sigmatic/",
+          "source": "Revgear Community"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "MUD/WTR Rise Cacao stays my number one, and the 2026 reviews keep reinforcing why. Multiple roundups still call it the gold standard for mushroom coffee, and the blend of organic cacao, masala chai, turmeric, and six functional mushrooms delivers a rich, warming cup with just 35mg of caffeine and no earthy aftertaste. For anyone easing off heavy coffee while keeping steady focus, this is the one I hand them first. Four Sigmatic Focus holds second and earns a small blend bump this week. Reviewers keep praising its longevity since 2014 and its transparent use of fruiting body extracts, and the lion's mane and chaga pairing gives that traditional roast flavor people miss in other blends. If taste closest to real coffee is your priority, start here. Ryze keeps third as the value and smoothness pick. Testers describe it as very smooth and the closest to traditional coffee in this group, and it lands cheaper than MUD/WTR per serving, which keeps its value score high. Everyday Dose and Om Mushroom round out the upper middle, the first for its creamy, approachable taste and the second for one of the most respected functional blends here. The order is steady this week because reviewers reaffirmed the same leaders rather than reshuffling them, so I kept ranks intact and only nudged Four Sigmatic's blend score as fruiting-body sourcing kept drawing praise.",
+          "highlights": [
+            {
+              "title": "MUD/WTR stays the gold standard",
+              "body": "2026 roundups still crown it the benchmark. The cacao, chai, turmeric, and six-mushroom blend gives a warming cup with only 35mg caffeine and no earthy aftertaste, ideal for cutting back on coffee."
+            },
+            {
+              "title": "Four Sigmatic tastes closest to coffee",
+              "body": "The lion's mane and chaga dark roast keeps that traditional coffee flavor with transparent fruiting-body extracts. If you want the least adjustment from regular coffee, start here."
+            },
+            {
+              "title": "Ryze leads on value and smoothness",
+              "body": "Testers call it very smooth and the closest to real coffee in this group, and it costs less per serving than MUD/WTR. That keeps its value among the highest on the list."
+            },
+            {
+              "title": "Everyday Dose for approachable taste",
+              "body": "Its creamy, mild profile makes it the easiest entry point for newcomers who find other blends too earthy. A good first step into the category."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "MUD/WTR Rise Cacao 這週繼續第一，2026 的評測一直在幫它加分。好幾家榜單還是把它當成菇菇咖啡的標竿，有機可可、瑪薩拉香料茶、薑黃加上六種功能性菇類調出來的這杯，溫潤濃郁，咖啡因只有 35mg，喝起來也沒有那股土味。想慢慢戒掉重咖啡又要維持穩定專注的人，我第一個就遞這杯給他。Four Sigmatic Focus 守住第二，這週配方分數小加分。評測一直稱讚它從 2014 年撐到現在的資歷，還有它透明使用子實體萃取，猴頭菇配上樺褐孔菌給了那種傳統烘焙的咖啡味，是別家調配常常少掉的東西。要最接近真咖啡的味道，從這款開始準沒錯。Ryze 維持第三，是 CP 值跟順口度的代表。試喝的人形容它非常滑順，是這組裡最接近傳統咖啡的，每份單價又比 MUD/WTR 便宜，所以 CP 值分數一直很高。Everyday Dose 跟 Om Mushroom 撐起中上段，前者靠奶香滑順、入門好接受，後者則是這裡最受敬重的功能性配方之一。這週排名穩定，因為評測只是再次確認同一批領先者，沒有重洗牌，所以我保留名次，只把 Four Sigmatic 的配方分數往上挪一點，因為它的子實體來源持續被稱讚。",
+          "highlights": [
+            {
+              "title": "MUD/WTR 還是標竿",
+              "body": "2026 榜單還是把它捧為基準。可可、香料茶、薑黃加六種菇調出溫潤一杯，咖啡因只有 35mg 又沒土味，想減咖啡的人很適合。"
+            },
+            {
+              "title": "Four Sigmatic 最接近咖啡味",
+              "body": "猴頭菇配樺褐孔菌的深焙保留傳統咖啡味，子實體萃取也很透明。想從一般咖啡最無痛過渡，從這款開始。"
+            },
+            {
+              "title": "Ryze CP 值與順口度領先",
+              "body": "試喝的人說它非常滑順，是這組最接近真咖啡的，每份單價又比 MUD/WTR 便宜。CP 值因此一直名列前茅。"
+            },
+            {
+              "title": "Everyday Dose 入門最好接受",
+              "body": "奶香溫和的口感，是覺得別家太土味的新手最容易上手的起點。想踏進這個品類，這款是個好的第一步。"
+            }
           ]
         }
       }

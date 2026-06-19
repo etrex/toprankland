@@ -8927,6 +8927,176 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-19",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.6,
+            "network": 9.6,
+            "usability": 9,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8,
+            "speed": 9.1,
+            "network": 9.6,
+            "usability": 9,
+            "price": 8
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8,
+            "network": 7.5,
+            "usability": 8,
+            "price": 9
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 8.5,
+            "network": 9,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8,
+          "scores": {
+            "privacy": 8,
+            "speed": 8,
+            "network": 8,
+            "usability": 8,
+            "price": 9
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Mullvad vs Proton VPN: Which VPN is best in 2026?",
+          "url": "https://cyberinsider.com/vpn/comparison/mullvad-vs-proton-vpn/",
+          "source": "CyberInsider"
+        },
+        {
+          "title": "The Best VPN Services of 2026: 50+ VPNs Tested & Ranked",
+          "url": "https://www.security.org/vpn/best/",
+          "source": "Security.org"
+        },
+        {
+          "title": "The best VPN service 2026",
+          "url": "https://www.techradar.com/vpn/best-vpn",
+          "source": "TechRadar"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Mullvad stays at the top, and the news this week reinforced exactly why I keep it there. The team shipped GotaTun, a Rust-based WireGuard implementation for Android, which is the kind of quiet engineering investment that tells you privacy is the product rather than a marketing line. Pair that with anonymous account numbers, a flat five euro price, and a 9.8 privacy score, and Mullvad remains the purist's pick. Proton VPN holds a close second. It runs a larger and faster server network than Mullvad, adds specialty servers and proprietary protocols, and this stretch its expanding Linux CLI support for Arch, Debian, Ubuntu, and Fedora made it even friendlier for people who live in a terminal. For anyone who wants strong privacy plus reach and streaming muscle, Proton is the balanced answer. NordVPN keeps third on raw speed and the broadest feature shelf, backed by a Deloitte-audited no-logs claim, and it remains the easiest recommendation for mainstream users who just want fast, reliable connections. Lower down, IVPN stays the principled small-network choice at a 9.5 privacy score, and ExpressVPN keeps its usability and speed crown for buyers who value a polished app over rock-bottom pricing. One housekeeping note worth flagging: Mullvad is completing its removal of OpenVPN support, so WireGuard holdouts should plan their migration. Nothing this week moved a rank. The order reflects where these services genuinely stand, and I would rather keep it honest than shuffle for the sake of motion.",
+          "highlights": [
+            {
+              "title": "Mullvad doubles down on privacy",
+              "body": "The new Rust-based GotaTun WireGuard for Android, plus anonymous accounts and a flat five euro price, keeps it the purist's number one at a 9.8 privacy score."
+            },
+            {
+              "title": "Proton VPN is the balanced pick",
+              "body": "A larger, faster network than Mullvad plus expanded Linux CLI support for Arch, Debian, Ubuntu, and Fedora make it the strongest all-rounder in second."
+            },
+            {
+              "title": "NordVPN owns mainstream speed",
+              "body": "Top speed scores, the broadest feature set, and a Deloitte-audited no-logs claim keep it the easy pick for everyday users in third."
+            },
+            {
+              "title": "IVPN stays the principled option",
+              "body": "A 9.5 privacy score and a deliberately small, clean network make it the choice for buyers who prize integrity over server count."
+            },
+            {
+              "title": "Plan your OpenVPN exit",
+              "body": "Mullvad is finishing its OpenVPN removal, so anyone still on that protocol should migrate to WireGuard now to avoid a service gap."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Mullvad 還是穩坐第一，這禮拜的消息正好說明我為什麼一直把它擺這。團隊推出了 GotaTun，一個用 Rust 寫的 Android WireGuard 實作，這種默默砸資源的工程投入，告訴你隱私才是它的產品本體，不是拿來喊的行銷詞。再加上匿名帳號、五歐元統一價跟 9.8 的隱私分數，Mullvad 對純粹派來說就是首選。Proton VPN 緊咬第二。它的伺服器網路比 Mullvad 更大更快，多了專用伺服器跟自家協定，這陣子又擴大了 Linux CLI 支援，Arch、Debian、Ubuntu、Fedora 都能用，對整天泡在終端機的人更友善。想要隱私夠強、節點夠多又能解串流的人，Proton 就是那個平衡的答案。NordVPN 守住第三，靠的是純速度跟最齊全的功能櫃，背後還有 Deloitte 稽核過的無紀錄聲明，對只想要快又穩的一般使用者來說，它最好推。再往下，IVPN 維持小網路硬派路線，隱私分數 9.5，ExpressVPN 則靠順手的 App 跟速度守住王座，適合重視體驗、不那麼在意最低價的人。提醒一件事，Mullvad 正在收尾移除 OpenVPN 支援，還在用的人記得規劃搬到 WireGuard。這禮拜沒有名次變動。這個順序就是這些服務真實的位置，我寧可維持誠實，也不想為了動而動。",
+          "highlights": [
+            {
+              "title": "Mullvad 隱私再加碼",
+              "body": "全新 Rust 寫的 Android GotaTun WireGuard，加上匿名帳號跟五歐元統一價，隱私分數 9.8 讓它穩坐純粹派第一。"
+            },
+            {
+              "title": "Proton VPN 是平衡之選",
+              "body": "網路比 Mullvad 更大更快，又擴充了 Arch、Debian、Ubuntu、Fedora 的 Linux CLI 支援，第二名的全能戰士就是它。"
+            },
+            {
+              "title": "NordVPN 主打大眾速度",
+              "body": "速度分數頂尖、功能最齊、還有 Deloitte 稽核的無紀錄聲明，第三名給日常使用者最好推。"
+            },
+            {
+              "title": "IVPN 維持硬派路線",
+              "body": "隱私分數 9.5，刻意維持乾淨的小網路，適合看重原則勝過節點數量的人。"
+            },
+            {
+              "title": "規劃你的 OpenVPN 退場",
+              "body": "Mullvad 正在收尾移除 OpenVPN，還在用這協定的人現在就該搬去 WireGuard，免得斷線。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
