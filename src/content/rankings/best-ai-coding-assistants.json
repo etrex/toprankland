@@ -11309,6 +11309,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-22",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.6,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.6,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 4,
+          "score": 8.1,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Cursor, Claude Code, and Codex are merging into one AI coding stack nobody planned",
+          "url": "https://thenewstack.io/ai-coding-tool-stack/",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Best AI Coding Agents (June 2026): Scored Leaderboard",
+          "url": "https://www.morphllm.com/best-ai-coding-agents-2026",
+          "source": "Morph"
+        },
+        {
+          "title": "Best AI Coding Tools June 2026: Updated After Fable 5 Changes Everything",
+          "url": "https://www.developersdigest.tech/blog/best-ai-coding-tools-june-2026-post-fable5",
+          "source": "Developers Digest"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code stays my number one this week, and the broader narrative supports it. Industry coverage now describes Claude Code, Cursor, and Codex as converging on a single agentic coding blueprint, and within that blueprint Claude Code sets the bar with a 9.8 code quality score and a 9.6 agentic score that nobody else matches for sustained, autonomous multi-file work. It is the tool I trust to take a vague task and ship a working change end to end. There were a couple of operational notes worth flagging: from June 15, headless and Agent SDK usage now bills against a separate API credit pool, $20 a month on Pro, $100 on Max 5x, $200 on Max 20x, which is mostly relevant to power users running automated pipelines. Cursor holds second as the best in-IDE experience, with a 9.5 integration score that makes it the smoothest daily driver for developers who live in an editor. OpenAI Codex stays third on its 9.1 agentic score, a genuinely capable autonomous coder. The notable structural change this month is Windsurf rebranding as Devin Desktop with support for the open Agent Client Protocol, which I will track for next time. GitHub Copilot remains the broadest-reach pick at rank four thanks to its unbeatable IDE ubiquity, and Aider stays the value favorite at a 9.5 value score for terminal-first developers. Rankings hold steady this week.",
+          "highlights": [
+            {
+              "title": "Claude Code sets the agentic bar",
+              "body": "A 9.8 code quality and 9.6 agentic score keep it the tool I trust to take a vague task and ship a complete, working change across many files. It holds number one comfortably."
+            },
+            {
+              "title": "New SDK billing to note",
+              "body": "From June 15, headless and Agent SDK usage bills against a separate API credit pool: $20/mo on Pro, $100 on Max 5x, $200 on Max 20x. Mostly relevant if you run automated pipelines."
+            },
+            {
+              "title": "Cursor is the best in-IDE driver",
+              "body": "A 9.5 integration score makes it the smoothest daily experience for developers who work inside an editor all day. Second place is well earned."
+            },
+            {
+              "title": "Windsurf becomes Devin Desktop",
+              "body": "Windsurf rebranded as Devin Desktop with support for the open Agent Client Protocol. A structural shift worth watching, which I will factor into a future ranking once the dust settles."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週 Claude Code 還是我的第一名，整體趨勢也支持這個排名。產業報導現在把 Claude Code、Cursor、Codex 形容成正在收斂到同一套代理式編碼藍圖，而在這套藍圖裡，Claude Code 用 9.8 的程式碼品質分數跟 9.6 的代理能力分數立下標竿，講到持續、自主的跨檔案工作，沒人比得上。我最信任它把一個模糊的任務從頭到尾做出一個能跑的成果。有幾個營運面的小提醒值得講一下，從六月十五號開始，headless 跟 Agent SDK 的用量會從另一個 API 額度池扣，Pro 每月 20 美元、Max 5x 100 美元、Max 20x 200 美元，這主要跟跑自動化流程的重度用戶有關。Cursor 排第二，是最好的 IDE 內體驗，9.5 的整合分數讓它成為整天泡在編輯器裡的開發者最順手的日常主力。OpenAI Codex 靠 9.1 的代理分數排第三，是真的很能打的自主編碼工具。這個月最值得注意的結構性變動是 Windsurf 改名成 Devin Desktop，並支援開放的 Agent Client Protocol，我下次會持續追蹤。GitHub Copilot 靠無敵的 IDE 普及度排第四，覆蓋面最廣，Aider 用 9.5 的性價比分數穩坐終端機派開發者的最愛。這週排名維持不動。",
+          "highlights": [
+            {
+              "title": "Claude Code 立下代理式標竿",
+              "body": "9.8 的程式碼品質跟 9.6 的代理能力分數，讓它成為我最信任、能把模糊任務從頭到尾做出完整可跑成果的工具。穩居第一。"
+            },
+            {
+              "title": "新的 SDK 計費要注意",
+              "body": "從六月十五號起，headless 跟 Agent SDK 用量從另一個 API 額度池扣，Pro 每月 20 美元、Max 5x 100 美元、Max 20x 200 美元。主要影響跑自動化流程的人。"
+            },
+            {
+              "title": "Cursor 是最好的 IDE 內主力",
+              "body": "9.5 的整合分數讓它成為整天待在編輯器裡的開發者最順手的日常體驗。第二名實至名歸。"
+            },
+            {
+              "title": "Windsurf 改名 Devin Desktop",
+              "body": "Windsurf 改名成 Devin Desktop，並支援開放的 Agent Client Protocol。這是值得關注的結構性變動，等情況明朗我會放進未來排名考量。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
