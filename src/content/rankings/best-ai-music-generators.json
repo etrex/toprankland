@@ -6580,6 +6580,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-24",
+      "rankings": [
+        {
+          "id": "suno-v5",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "audioQuality": 9.7,
+            "vocalRealism": 9.4,
+            "editingControl": 9.6,
+            "commercialLicense": 7.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "elevenlabs-music",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "audioQuality": 9.3,
+            "vocalRealism": 9.7,
+            "editingControl": 8.6,
+            "commercialLicense": 9.6,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "lyria-3-pro",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 8.6,
+            "editingControl": 8.4,
+            "commercialLicense": 9.5,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "udio",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "audioQuality": 9.6,
+            "vocalRealism": 9.5,
+            "editingControl": 9.7,
+            "commercialLicense": 6.8,
+            "valueForMoney": 7.3
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 7.0,
+            "editingControl": 8.6,
+            "commercialLicense": 9.5,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "riffusion",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "audioQuality": 8.2,
+            "vocalRealism": 7.8,
+            "editingControl": 8.5,
+            "commercialLicense": 8.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "soundraw",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "audioQuality": 8.0,
+            "vocalRealism": 6.5,
+            "editingControl": 7.5,
+            "commercialLicense": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aiva",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 6.8,
+            "editingControl": 7.8,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "mubert",
+          "rank": 9,
+          "score": 7.3,
+          "scores": {
+            "audioQuality": 7.5,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "loudly",
+          "rank": 10,
+          "score": 7.0,
+          "scores": {
+            "audioQuality": 7.3,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "boomy",
+          "rank": 11,
+          "score": 6.8,
+          "scores": {
+            "audioQuality": 6.8,
+            "vocalRealism": 6.5,
+            "editingControl": 6.8,
+            "commercialLicense": 8.5,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "ElevenLabs, Stability AI Drop New AI Music Models, Can They Catch Suno?",
+          "url": "https://decrypt.co/369237/elevenlabs-stability-ai-new-music-models-suno",
+          "source": "Decrypt"
+        },
+        {
+          "title": "ElevenLabs' new music-generation model can switch genres mid-track",
+          "url": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Best AI Music Models 2026: Suno v5 vs ElevenLabs",
+          "url": "https://www.teamday.ai/blog/best-ai-music-models-2026",
+          "source": "TeamDay.ai"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Suno v5 stays at the top and I have no hesitation about that. It still wins on raw song-craft, full-mix coherence, and the editing tools that let you rework a verse without regenerating the whole track. The interesting move this month is ElevenLabs Music, which I am nudging up to a clear second. Its newest model can shift genre mid-track, from opera into heavy metal, while holding the arrangement together, and that is a genuinely new capability rather than a demo trick. Combined with airtight label licensing from Believe, Kobalt, and Merlin, it is now the safe pick for anyone shipping commercial music. Stable Audio also earns a small bump after its 3.0 family landed with open weights on Hugging Face and a Small SFX model that runs on-device, which matters a lot for game and app developers who want sound effects without a cloud round trip. Udio remains a powerhouse on pure audio fidelity and editing depth, and if licensing clarity were not still hanging over it, I would rank it higher. For most creators the decision is simple. Pick Suno for finished songs, pick ElevenLabs Music when the license has to be bulletproof, and pick Stable Audio when you need open weights or offline SFX. The rest of the field is fine for background loops and stock-style cues, but the top three are where the real progress is happening this quarter.",
+          "highlights": [
+            {
+              "title": "Suno v5 is still the song-writer's tool to beat",
+              "body": "Nothing else matches its full-mix coherence and the ability to rework a single verse in place. For people who want a finished, structured song rather than a loop, Suno remains the first thing I reach for, and v5.5's Voices and Custom Models only widen that lead."
+            },
+            {
+              "title": "ElevenLabs Music earns second on genuine new capability",
+              "body": "Mid-track genre switching that holds the arrangement together is a real engineering leap, and the label deals with Believe, Kobalt, and Merlin make it the cleanest choice for anyone releasing music commercially. That combination pushes it clearly ahead of the pack."
+            },
+            {
+              "title": "Stable Audio 3.0 is the open-weights and offline pick",
+              "body": "Three of the four new models ship with open weights on Hugging Face, and the Small SFX model runs on-device. For game and app developers who need sound effects without a cloud call, that is exactly the right architecture and worth the small score bump."
+            },
+            {
+              "title": "Udio's licensing cloud is the only thing holding it back",
+              "body": "On pure audio quality and editing control Udio is right there with the leaders. Until its commercial-use terms are as clear as the competition's, I cannot rank it above tools that let you ship without legal worry."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Suno v5 這個月還是穩坐第一，我一點都不意外。它在整首歌的編曲完整度、混音一致性，還有那套可以單獨改一段主歌而不用整首重生成的編輯工具上，目前沒人比得上。這個月真正值得講的是 ElevenLabs Music，我把它往上推到明確的第二名。它最新的模型可以在同一首歌中途切換曲風，從歌劇直接轉重金屬，而且整個編曲還能撐住，這是真本事，不是 demo 表演。再加上它跟 Believe、Kobalt、Merlin 都簽了授權，現在你要拿去做商用音樂，它就是最安全的選擇。Stable Audio 也小升一點，3.0 系列在 Hugging Face 上開了權重，還有一個可以在裝置端跑的 Small SFX 模型，這對想做遊戲或 App 音效又不想每次都連雲端的開發者來說很實用。Udio 在純音質跟編輯深度上還是猛獸，要不是授權問題一直懸著，我會給它更高的名次。對大多數創作者來說選擇其實很單純。要完整歌曲選 Suno，要授權乾淨選 ElevenLabs Music，要開權重或離線音效選 Stable Audio。其他工具拿來做背景循環或罐頭配樂也夠用，但真正在進步的就是前三名。",
+          "highlights": [
+            {
+              "title": "Suno v5 還是寫歌人的首選工具",
+              "body": "整首歌的編曲完整度跟混音一致性，加上能單獨重改一段而不動整首，這幾點目前沒對手。我要的是一首結構完整的歌而不是一段循環時，第一個就是開 Suno，v5.5 的 Voices 跟自訓模型又把差距拉得更開。"
+            },
+            {
+              "title": "ElevenLabs Music 靠真本事升上第二",
+              "body": "中途切曲風還能讓編曲不散掉，這是實打實的技術突破，再加上跟 Believe、Kobalt、Merlin 的授權合作，你要正式發行音樂，它就是最乾淨的選擇。這個組合讓它明顯領先後面一票。"
+            },
+            {
+              "title": "Stable Audio 3.0 是開權重跟離線的那一票",
+              "body": "四個新模型有三個在 Hugging Face 開了權重，Small SFX 還能在裝置端直接跑。做遊戲或 App 音效又不想每次連雲端的開發者，這個架構剛好對味，值得這次小升一階。"
+            },
+            {
+              "title": "Udio 卡住的就只剩授權那團雲",
+              "body": "論純音質跟編輯掌控，Udio 跟前段班是同一個水準。但只要它的商用條款還沒像對手那樣講清楚，我就沒辦法把它排在那些讓你安心出貨的工具前面。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
