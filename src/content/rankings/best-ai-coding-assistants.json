@@ -11507,6 +11507,196 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-24",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.6,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.6,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 4,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 5,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.7
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Coding Agents (June 2026): Scored Leaderboard",
+          "url": "https://www.morphllm.com/best-ai-coding-agents-2026",
+          "source": "Morph"
+        },
+        {
+          "title": "7 Best AI Coding Agents in June 2026 (15+ Reviewed)",
+          "url": "https://usefulai.com/tools/ai-coding",
+          "source": "Useful AI"
+        },
+        {
+          "title": "AI coding assistant pricing and ROI guide (2026)",
+          "url": "https://getdx.com/blog/ai-coding-assistant-pricing/",
+          "source": "DX"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Two billing stories shape this week, and one of them costs Copilot a slot. On June 1 GitHub Copilot switched to usage-based pricing through AI Credits, where one credit equals a cent and your bill now tracks token consumption across input, cached and output. For light users that can be cheaper, but for the heavy agentic workflows people actually buy a coding tool for, the predictable flat tier is gone and real-world costs climb. I cut its value score and dropped it below Google Jules, which keeps a clean, capacity-based plan. Claude Code stays number one without debate. The pairing of the strongest model, a 1M-token context window and the most mature agentic features still produces the cleanest large-codebase work I get from any tool, and recent terminal benchmarks keep it on top. I will flag one wrinkle honestly: a June 12 US export-control directive temporarily suspended the Fable and Mythos model tiers because access cannot be gated by nationality in real time. That is a real availability dent, but the core Opus-backed experience remains the best in the category, so the rank holds. Cursor stays second as the IDE everyone should try if they want AI woven into every keystroke, and Codex holds third on raw agentic horsepower. The lesson this week is to read the pricing page before you commit, because the meter changed under several of these tools.",
+          "highlights": [
+            {
+              "title": "Copilot's usage-based switch drops it a slot",
+              "body": "The June 1 move to AI Credits ties your bill to token consumption. For the heavy agentic work people buy a coding tool for, costs climb and predictability is gone, so I cut its value and moved it below Jules."
+            },
+            {
+              "title": "Claude Code stays number one despite a wrinkle",
+              "body": "A June 12 export-control directive temporarily suspended the Fable and Mythos tiers, a real availability dent. But the Opus-backed core, 1M context and mature agentic features still top the terminal benchmarks."
+            },
+            {
+              "title": "Cursor remains the IDE to try first",
+              "body": "If you want AI woven into every keystroke with visual diffs and fast autocomplete, nothing else feels as fluid. It holds second on UX strength alone."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週有兩個收費故事在牽動排名，其中一個讓 Copilot 掉一格。6/1 GitHub Copilot 改成用量計費，走 AI Credits，一個 credit 等於一美分，帳單現在跟著你輸入、快取、輸出的 token 用量跑。輕度使用者可能變便宜，但大家買 coding 工具真正在做的那種重度 agentic 工作流，可預期的固定方案沒了，實際成本往上爬。我把它的 value 分砍掉一些，掉到 Google Jules 後面，Jules 維持乾淨的容量制方案。Claude Code 第一名沒得吵。最強模型加上 1M token 上下文，再加最成熟的 agentic 功能，處理大型 codebase 還是我用過所有工具裡最乾淨的，最近的終端機 benchmark 也讓它穩坐第一。有個狀況我老實講：6/12 美國出口管制指令暫時停掉了 Fable 跟 Mythos 兩個模型層級，因為沒辦法即時用國籍擋存取。這對可用性是實打實的傷，但 Opus 撐起來的核心體驗還是這個類別最好的，所以名次守住。Cursor 守第二，想要 AI 融進每一次按鍵的就該試這台。Codex 靠純 agentic 馬力守第三。這週的教訓是下手前先看清楚定價頁，因為好幾台的計費表都偷偷換了。",
+          "highlights": [
+            {
+              "title": "Copilot 改用量計費掉一格",
+              "body": "6/1 改成 AI Credits，帳單跟著 token 用量跑。重度 agentic 工作成本往上爬，可預期性沒了，所以我砍 value 分，掉到 Jules 後面。"
+            },
+            {
+              "title": "Claude Code 有狀況但還是第一",
+              "body": "6/12 出口管制指令暫停了 Fable 跟 Mythos 層級，可用性實打實受傷。但 Opus 核心、1M 上下文加成熟 agentic 功能還是壓著終端機 benchmark。"
+            },
+            {
+              "title": "Cursor 還是最該先試的 IDE",
+              "body": "想要 AI 融進每一次按鍵，配上視覺化 diff 跟快速補全，沒別家這麼順。光靠使用體驗就守住第二。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

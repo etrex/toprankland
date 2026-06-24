@@ -5795,6 +5795,194 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-24",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.4,
+            "coding": 9,
+            "writing": 9.4,
+            "realtime": 9,
+            "value": 9,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.8,
+            "writing": 9.6,
+            "realtime": 7.5,
+            "value": 9,
+            "ecosystem": 9.3
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9,
+            "writing": 8.9,
+            "realtime": 9.3,
+            "value": 9.5,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "reasoning": 8.8,
+            "coding": 8.2,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8,
+            "value": 8,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7,
+            "value": 10,
+            "ecosystem": 7
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7,
+            "writing": 7.5,
+            "realtime": 8,
+            "value": 10,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7,
+            "value": 8,
+            "ecosystem": 7
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.4,
+            "writing": 7,
+            "realtime": 6.8,
+            "value": 9,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Top Generative AI Chatbots by Market Share – June 2026",
+          "url": "https://firstpagesage.com/reports/top-generative-ai-chatbots/",
+          "source": "First Page Sage"
+        },
+        {
+          "title": "June 2026 Top Generative AI Chatbots & LLMs by Market Share",
+          "url": "https://momenticmarketing.com/blog/top-ai-chatbots",
+          "source": "Momentic"
+        },
+        {
+          "title": "Best AI Models in June 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The top three are locked, but the energy underneath them is worth watching. ChatGPT stays at number one, and the GPT-5.5 release from late April keeps paying off, with a reported 60% drop in hallucinations over 5.4 that I notice most in long research threads where it used to drift. It still holds 54.7% of chatbot web traffic, and the ecosystem advantage of voice, image generation and the app sleeve remains the broadest in the category, so I nudged its reasoning up a touch. Claude holds second and I keep it there with conviction. It is the one I reach for whenever code or careful writing is on the table, and recent enterprise comparisons keep landing on the same verdict for those two jobs. Its web traffic grew roughly 306% in a single quarter, the fastest of any major chatbot, so I bumped its ecosystem score to reflect how quickly it is becoming a default. Gemini stays third and remains the value and real-time pick, with the cheapest serious API output and Google's search spine behind it. Below the leaders, Perplexity still owns live-answer search and Grok still owns the firehose of X. The order is stable this week, but Claude's growth curve is the story I would bet on.",
+          "highlights": [
+            {
+              "title": "ChatGPT's GPT-5.5 keeps it at the top",
+              "body": "The late-April release cut hallucinations a reported 60% over 5.4, which shows most in long research threads. Paired with the broadest ecosystem and 54.7% of web traffic, it stays number one."
+            },
+            {
+              "title": "Claude is the one I trust for code and writing",
+              "body": "Enterprise comparisons keep landing on Claude for both jobs, and its web traffic grew about 306% in a quarter, the fastest of any major chatbot. That growth earns an ecosystem bump."
+            },
+            {
+              "title": "Gemini is still the value and real-time pick",
+              "body": "It pairs the cheapest serious API output with Google's search backbone, which makes it the smart default for current-events queries and cost-sensitive deployments alike."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "前三名鎖死，但底下的氣氛很值得看。ChatGPT 守住第一，四月底的 GPT-5.5 持續發威，據說幻覺比 5.4 少了 60%，這在我跑長篇研究對話時感受最明顯，以前它常常會跑題。它還握著 54.7% 的聊天機器人網路流量，語音、生圖加上 app 整合的生態優勢在這個類別還是最廣的，所以我把它的 reasoning 分小加了一點。Claude 守住第二，我很有把握把它放這。只要桌上擺的是寫程式或要仔細寫東西，我都抓它，最近的企業評測在這兩件事上的結論也都一樣。它的網路流量單季成長大約 306%，是所有主流聊天機器人裡最快的，所以我把 ecosystem 分往上加，反映它變成預設選項的速度。Gemini 守第三，還是性價比跟即時資訊的首選，認真的 API 輸出最便宜，後面又有 Google 搜尋撐腰。領先群下面，Perplexity 還是即時問答搜尋的王，Grok 還是 X 即時消息的霸主。這週排名穩，但 Claude 的成長曲線才是我會押的故事。",
+          "highlights": [
+            {
+              "title": "ChatGPT 靠 GPT-5.5 守住頂端",
+              "body": "四月底那版據說幻覺比 5.4 少 60%，跑長篇研究最有感。配上最廣的生態跟 54.7% 流量，第一名穩穩的。"
+            },
+            {
+              "title": "寫程式跟寫作我信 Claude",
+              "body": "企業評測在這兩件事上一直選 Claude，它網路流量單季成長約 306%，主流聊天機器人裡最快。這成長讓我幫它加 ecosystem 分。"
+            },
+            {
+              "title": "Gemini 還是性價比跟即時的首選",
+              "body": "認真 API 輸出最便宜，後面又有 Google 搜尋撐腰，查時事或預算敏感的部署都聰明，放第三剛好。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
