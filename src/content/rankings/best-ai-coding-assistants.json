@@ -11697,6 +11697,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-30",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.6,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.6,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 4,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 5,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "7 Best AI Coding Agents in June 2026 (15+ Reviewed)",
+          "url": "https://usefulai.com/tools/ai-coding",
+          "source": "UsefulAI"
+        },
+        {
+          "title": "Best AI Coding Agents for 2026: Real-World Developer Reviews",
+          "url": "https://www.faros.ai/blog/best-ai-coding-agents-2026",
+          "source": "Faros AI"
+        },
+        {
+          "title": "Best AI Coding Agents (June 2026): Scored Leaderboard",
+          "url": "https://www.morphllm.com/best-ai-coding-agents-2026",
+          "source": "Morph"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code stays at number one and this week the usage data backs it up: the June reviews now describe it as the most-used AI coding tool, having overtaken GitHub Copilot in roughly eight months since launch. That tracks with my own experience. When the job is a real multi-file refactor where the agent has to read the tests, run them, and adjust based on what failed, Claude Code is the one I trust to finish the loop without hand-holding. Cursor holds second because it owns the in-editor flow. Autocomplete, chat, Composer, and agent mode all live exactly where I already type, and that proximity is worth a lot on day-to-day work. Codex sits third on genuine agentic strength. The notable market event this round is GitHub Copilot: as of June 1 every Copilot plan moved to usage-based billing with AI Credits, and I dropped its value score a notch to 6.5 because predictable monthly cost was part of its appeal and that predictability is now gone for heavy users. The IDE integration remains best in class, so it keeps fifth. The broader theme of 2026 is that the agentic pivot is finished. Every serious tool can now plan, execute, and verify multi-file changes, so the question I ask is no longer whether a tool is agentic but where you want your leverage: flow inside the editor, control on a large codebase, or autonomy further up the stack. Aider still wins on raw value for terminal-first developers.",
+          "highlights": [
+            {
+              "title": "Claude Code is the most-used tool now",
+              "body": "June reviews have it overtaking Copilot in about eight months. For multi-file refactors where the agent reads tests and self-corrects, it closes the loop better than anything else I run."
+            },
+            {
+              "title": "Copilot's billing shift cost it value points",
+              "body": "From June 1 all plans moved to usage-based AI Credits. I dropped its value score to 6.5 since heavy users lose the predictable flat cost that used to be a selling point."
+            },
+            {
+              "title": "Cursor owns the editor flow",
+              "body": "Autocomplete, chat, Composer, and agent mode all sit where you already type. That proximity keeps it firmly in second for everyday coding."
+            },
+            {
+              "title": "The agentic pivot is complete",
+              "body": "Every serious tool now plans, executes, and verifies multi-file changes. Pick by where you want leverage: editor flow, large-codebase control, or higher-up autonomy."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 這週還是第一，而且使用數據站在它這邊。六月的評測現在直接說它是用最多人的 AI 寫程式工具，推出大概八個月就把 GitHub Copilot 超車了。這跟我自己的體感一樣。碰到那種真的要動很多檔案的重構，agent 得自己讀測試、跑測試、再看哪裡掛掉去修，這種完整迴圈我最信得過 Claude Code，丟給它幾乎不用一直盯。Cursor 穩坐第二，它吃定了編輯器裡的順手感，自動補全、聊天、Composer、agent 模式全都在你打字的地方，日常開發這種貼身距離真的很值錢。Codex 第三，靠的是扎實的代理能力。這輪最大的市場動作是 GitHub Copilot，六月一號開始所有方案都改成用量計費，吃 AI Credits。我把它的 CP 值分數往下調到 6.5，因為以前每月固定費用好抓本來就是它的賣點，現在重度使用者這個好處沒了。它的 IDE 整合還是同級最強，所以守住第五。2026 整年的主軸就是代理化這件事已經做完了，每個像樣的工具現在都能規劃、執行、驗證跨檔案的修改，所以我現在真正要問的，是你的施力點要放哪：編輯器裡的順手、大型專案的掌控，還是更上層的自動化。終端機派的人，Aider 純看 CP 值還是贏。",
+          "highlights": [
+            {
+              "title": "Claude Code 現在是用最多人的",
+              "body": "六月評測說它大概八個月就超車 Copilot。多檔案重構、agent 自己讀測試自己修，這種完整迴圈它收得最漂亮。"
+            },
+            {
+              "title": "Copilot 改計費，CP 值被扣分",
+              "body": "六月一號起全部方案改用量計費吃 AI Credits。我把它 CP 值降到 6.5，重度使用者少了以前那種固定月費好抓的好處。"
+            },
+            {
+              "title": "Cursor 吃定編輯器順手感",
+              "body": "自動補全、聊天、Composer、agent 模式全在你打字的地方。日常寫扣這種貼身距離讓它穩穩第二。"
+            },
+            {
+              "title": "代理化已經做完",
+              "body": "每個像樣的工具現在都能規劃、執行、驗證跨檔案修改。真正要看的是你施力點放哪：編輯器順手、大專案掌控，還是更上層自動化。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

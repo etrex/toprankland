@@ -5983,6 +5983,202 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-30",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.4,
+            "coding": 9,
+            "writing": 9.4,
+            "realtime": 9,
+            "value": 9,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.8,
+            "writing": 9.6,
+            "realtime": 7.5,
+            "value": 9,
+            "ecosystem": 9.4
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9,
+            "writing": 8.9,
+            "realtime": 9.3,
+            "value": 9.5,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "reasoning": 8.8,
+            "coding": 8.2,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8,
+            "value": 8,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7,
+            "value": 10,
+            "ecosystem": 7
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7,
+            "writing": 7.5,
+            "realtime": 8,
+            "value": 10,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7,
+            "value": 8,
+            "ecosystem": 7
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.4,
+            "writing": 7,
+            "realtime": 6.8,
+            "value": 9,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Top Generative AI Chatbots by Market Share - June 2026",
+          "url": "https://firstpagesage.com/reports/top-generative-ai-chatbots/",
+          "source": "First Page Sage"
+        },
+        {
+          "title": "June 2026 Top Generative AI Chatbots & LLMs by Market Share",
+          "url": "https://momenticmarketing.com/blog/top-ai-chatbots",
+          "source": "Momentic"
+        },
+        {
+          "title": "Best AI Models in June 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ChatGPT stays at the top this week and I am keeping it there for the same reason as always: it is the safest default for the widest range of work, and the latest June market-share reports put it around 54.7 percent of worldwide assistant traffic. That reach matters because it pulls the ecosystem, the integrations, and the third-party tooling along with it. Claude holds second and earns it on craft. The standout story this quarter is Claude's growth, up roughly 306 percent in web visits in a single quarter off a smaller base, and when I hand it a long contract or a messy multi-file refactor it still gives me the cleanest reasoning and the most careful writing of the group. I bumped its ecosystem score a notch to reflect how broadly the API now shows up in other products. Gemini sits third and keeps climbing, up about 104 percent over six months, and it remains my pick the moment Google Workspace is in the picture because the realtime and value scores are genuinely strong. Perplexity stays my recommendation for cited research where I want sources I can click. Grok keeps the realtime crown thanks to its live feed access. For anyone watching budgets, DeepSeek and Meta AI still deliver remarkable capability for the price. This is a stable week at the top, and stability here is a feature, because the leaders are now reliable enough that ecosystem fit decides more than raw benchmark deltas.",
+          "highlights": [
+            {
+              "title": "ChatGPT keeps the default crown",
+              "body": "Around 54.7 percent of worldwide assistant traffic in the June reports, and the deepest ecosystem. It is still the one I recommend when someone has no strong reason to pick anything else."
+            },
+            {
+              "title": "Claude is the fastest riser",
+              "body": "Up roughly 306 percent in web visits this quarter. For long-document reasoning and polished writing it is the model I reach for first, so I nudged its ecosystem score up."
+            },
+            {
+              "title": "Gemini owns the Workspace lane",
+              "body": "Up about 104 percent over six months, with the strongest realtime and value scores in the top three. If you live in Google Docs and Gmail, this is your assistant."
+            },
+            {
+              "title": "Specialists still earn their seats",
+              "body": "Perplexity for cited research, Grok for the live feed, DeepSeek and Meta AI for capability per dollar. The mid-table is about fit, not raw power."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週榜首一樣是 ChatGPT，我也沒理由換掉它。六月最新的市佔報告把它放在全球助理流量大概 54.7% 的位置，這種規模很關鍵，因為生態系、各種整合、第三方工具全都跟著它跑，你用它幾乎不會卡在「找不到外掛」這種事。Claude 穩坐第二，靠的是真功夫。這季最有看頭的就是 Claude 的成長，單季網站流量大概衝了 306%，雖然是從比較小的基數起跳啦。我自己丟長合約或一坨多檔案要重構給它，它給的推理最乾淨，寫出來的東西也最有條理，所以這次我把它的生態系分數往上挪了一點，因為現在一堆產品的後台其實都接了 Claude 的 API。Gemini 排第三而且還在往上爬，半年大概漲了 104%。只要你工作離不開 Google Workspace，我第一個推它，即時資訊跟 CP 值分數都很扎實。要查資料想看得到來源，我還是推 Perplexity。Grok 靠著吃即時動態的能力，即時資訊這項照樣稱王。預算抓很緊的話，DeepSeek 跟 Meta AI 同樣的錢能換到的能力依舊誇張。整體就是個穩定的一週，而這種穩定本身就是好事，因為前段班現在都夠可靠了，真正決定你選誰的，是它合不合你的工作流。",
+          "highlights": [
+            {
+              "title": "ChatGPT 還是預設首選",
+              "body": "六月報告全球助理流量大概 54.7%，生態系最深。沒有特別理由要挑別款的話，我還是推它。"
+            },
+            {
+              "title": "Claude 成長最猛",
+              "body": "這季網站流量大概漲了 306%。長文件推理跟把文章寫漂亮這兩件事，我第一個就想到它，所以這次生態系分數加了一點。"
+            },
+            {
+              "title": "Gemini 吃定 Workspace",
+              "body": "半年大概漲 104%，前三名裡即時資訊跟 CP 值分數最強。整天泡在 Google 文件跟 Gmail 的人，就用它。"
+            },
+            {
+              "title": "專精型還是有位子",
+              "body": "查資料看來源找 Perplexity，要即時動態找 Grok，預算緊的找 DeepSeek 跟 Meta AI。中段班比的是合不合用，不是純拚算力。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

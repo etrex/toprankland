@@ -6598,6 +6598,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-06-30",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.3,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 9.9,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.4,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 8.8,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "voiceRealism": 8.0,
+            "emotionalRange": 7.6,
+            "languageSupport": 8.6,
+            "latency": 7.7,
+            "valueForMoney": 8.4
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 11,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "21 Best AI Voice Generators in June 2026 (Tested & Compared)",
+          "url": "https://notevibes.com/best-ai-voice-generator",
+          "source": "Notevibes"
+        },
+        {
+          "title": "Voice Generation Models Compared (2026): ElevenLabs, OpenAI TTS, Hume, Cartesia, PlayHT",
+          "url": "https://sureprompts.com/blog/voice-generation-models-compared-2026",
+          "source": "SurePrompts"
+        },
+        {
+          "title": "Best AI Voice Models 2026: ElevenLabs, Cartesia",
+          "url": "https://www.teamday.ai/blog/best-ai-voice-models-2026",
+          "source": "TeamDay AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs keeps the top spot and the June reporting only strengthens the case. Its v3 model is described this year as the realism ceiling, with output that passes blind listening tests against human voice actors for most narrative content, and the company crossed 500 million in ARR in May. With 70-plus languages and the broadest accent coverage in the field, its 9.8 language score still leads, which is why it stays first for anyone doing serious multilingual narration. Inworld TTS 1.5 Max holds a tied second on raw speed, its 9.8 latency score makes it my pick for real-time agents where every millisecond of response time is felt. Hume Octave 2 keeps third on the strongest emotional range in the group at 9.7, which matters most for character and dialogue work. Cartesia Sonic 3 stays fourth and remains the realtime realism leader, with a Sonic 3.5 update rolling out through May that keeps its near-instant time-to-first-byte the benchmark for conversational use. The one move I made this week is Murf AI: its Falcon model went public with roughly 55ms model latency and a 130ms time-to-first-audio, claimed as the fastest production TTS, so I lifted its latency score from 8.3 to 8.8 and its overall to 8.4. That is a genuine, dated launch rather than a vibe. The wider story is that voice generation is no longer a one-vendor question, and OpenAI folding STT and TTS into a single speech-to-speech model only widens the menu.",
+          "highlights": [
+            {
+              "title": "ElevenLabs sets the realism ceiling",
+              "body": "v3 passes blind tests against human actors for most narrative work, the company crossed 500 million ARR in May, and its 9.8 language score leads. It stays first for multilingual narration."
+            },
+            {
+              "title": "Murf Falcon earns a latency bump",
+              "body": "The new Falcon model went public at roughly 55ms latency and 130ms time-to-first-audio, claimed fastest in production. I lifted Murf's latency score to 8.8 and overall to 8.4."
+            },
+            {
+              "title": "Cartesia owns realtime realism",
+              "body": "Sonic 3 plus the May Sonic 3.5 rollout keeps its near-instant time-to-first-byte the benchmark for conversational agents. It holds fourth on that strength."
+            },
+            {
+              "title": "Inworld wins on raw speed",
+              "body": "A 9.8 latency score makes it my tied-second pick for real-time agents where every millisecond of response shows. Speed is its clear lane."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ElevenLabs 守住榜首，六月的報導只是讓理由更硬。它的 v3 今年被講成擬真天花板，大多數敘事內容的輸出能在盲聽測試裡騙過真人配音員，公司五月年經常性營收還突破 5 億美元。70 幾種語言加上全場最廣的口音覆蓋，它語言分數 9.8 還是領先，所以要做正經的多語旁白，它穩坐第一。Inworld TTS 1.5 Max 以純速度並列第二，它 9.8 的延遲分數讓它成了我做即時語音代理的首選，那種每一毫秒回應都感受得到的場景就靠它。Hume Octave 2 守第三，靠全場最強的情緒範圍 9.7，做角色跟對白配音這項最關鍵。Cartesia Sonic 3 守第四，還是即時擬真的領頭羊，五月一路推出的 Sonic 3.5 更新，讓它幾乎瞬間的首位元組時間繼續當對話應用的標竿。這週我唯一動的是 Murf AI，它的 Falcon 模型上線了，模型延遲大概 55 毫秒、首段音訊 130 毫秒，號稱量產 TTS 最快，所以我把它延遲分數從 8.3 拉到 8.8，總分拉到 8.4。這是有日期的真實上線，不是憑感覺。更大的態勢是，語音生成早就不是單一廠商的事了，OpenAI 把語音轉文字跟文字轉語音收進同一個語音對語音模型，只會讓選單更長。",
+          "highlights": [
+            {
+              "title": "ElevenLabs 是擬真天花板",
+              "body": "v3 大多數敘事內容能在盲測騙過真人配音，五月年營收破 5 億美元，語言分數 9.8 領先。多語旁白它穩坐第一。"
+            },
+            {
+              "title": "Murf Falcon 延遲加分",
+              "body": "新的 Falcon 模型上線，延遲約 55 毫秒、首段音訊 130 毫秒，號稱量產最快。我把 Murf 延遲分數拉到 8.8、總分 8.4。"
+            },
+            {
+              "title": "Cartesia 吃定即時擬真",
+              "body": "Sonic 3 加五月的 Sonic 3.5 更新，幾乎瞬間的首位元組時間繼續當對話應用標竿。靠這項守第四。"
+            },
+            {
+              "title": "Inworld 拚純速度",
+              "body": "9.8 延遲分數讓它成了我做即時代理的並列第二首選，每毫秒回應都感受得到的場景就靠它。速度是它的主場。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
