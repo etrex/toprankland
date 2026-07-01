@@ -179,6 +179,38 @@
           "priceRange": "約 NT$11,000"
         }
       }
+    },
+    {
+      "id": "msi-mpg-271qr-x50",
+      "name": "MPG 271QR QD-OLED X50",
+      "brand": "MSI",
+      "url": "https://www.msi.com/Monitor/MPG-271QR-QD-OLED-X50",
+      "i18n": {
+        "en": {
+          "description": "27-inch 1440p 500Hz QD-OLED with the best HDR I have measured on the panel type, 98W USB-C, and a built-in KVM.",
+          "priceRange": "$699"
+        },
+        "zh-tw": {
+          "description": "27 吋 1440p 500Hz QD-OLED，QD-OLED 面板裡我看過 HDR 最強的一台，還給你 98W USB-C 加 KVM，一條線接筆電就能用。",
+          "priceRange": "NT$23,200"
+        }
+      }
+    },
+    {
+      "id": "asus-rog-strix-xg27aqdpg",
+      "name": "ROG Strix OLED XG27AQDPG",
+      "brand": "ASUS",
+      "url": "https://rog.asus.com/monitors/27-to-31-5-inches/rog-strix-oled-xg27aqdpg/",
+      "i18n": {
+        "en": {
+          "description": "The first 1440p glossy QD-OLED at 500Hz, with reference-grade color and OLED Care Pro burn-in protection.",
+          "priceRange": "$799"
+        },
+        "zh-tw": {
+          "description": "第一台 1440p 500Hz 亮面 QD-OLED，色彩準到可以當參考級，還有 OLED Care Pro 防烙印顧著。",
+          "priceRange": "NT$28,900"
+        }
+      }
     }
   ],
   "history": [
@@ -7971,8 +8003,21 @@
           }
         },
         {
-          "id": "lg-ultragear-27gx790b",
+          "id": "msi-mpg-271qr-x50",
           "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "imageQuality": 9.5,
+            "refreshRate": 9.8,
+            "valueForMoney": 8.6,
+            "connectivity": 9.6,
+            "hdrPerformance": 9.6,
+            "designErgonomics": 9.0
+          }
+        },
+        {
+          "id": "lg-ultragear-27gx790b",
+          "rank": 3,
           "score": 9.3,
           "scores": {
             "imageQuality": 9.3,
@@ -7984,8 +8029,21 @@
           }
         },
         {
+          "id": "asus-rog-strix-xg27aqdpg",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "imageQuality": 9.4,
+            "refreshRate": 9.8,
+            "valueForMoney": 8.0,
+            "connectivity": 8.5,
+            "hdrPerformance": 9.3,
+            "designErgonomics": 9.0
+          }
+        },
+        {
           "id": "msi-mpg-341cqr-x36",
-          "rank": 3,
+          "rank": 5,
           "score": 9.1,
           "scores": {
             "imageQuality": 9.5,
@@ -7998,7 +8056,7 @@
         },
         {
           "id": "samsung-odyssey-oled-g8-g80sd",
-          "rank": 4,
+          "rank": 6,
           "score": 9.0,
           "scores": {
             "imageQuality": 9.5,
@@ -8011,7 +8069,7 @@
         },
         {
           "id": "asus-rog-swift-oled-pg27aqdp",
-          "rank": 5,
+          "rank": 7,
           "score": 8.8,
           "scores": {
             "imageQuality": 9.0,
@@ -8024,7 +8082,7 @@
         },
         {
           "id": "dell-alienware-aw2725df",
-          "rank": 6,
+          "rank": 8,
           "score": 8.6,
           "scores": {
             "imageQuality": 8.8,
@@ -8037,7 +8095,7 @@
         },
         {
           "id": "dell-alienware-aw2725q",
-          "rank": 7,
+          "rank": 9,
           "score": 8.4,
           "scores": {
             "imageQuality": 8.8,
@@ -8046,32 +8104,6 @@
             "connectivity": 8.0,
             "hdrPerformance": 8.8,
             "designErgonomics": 8.2
-          }
-        },
-        {
-          "id": "aoc-q27g3xmn",
-          "rank": 8,
-          "score": 7.8,
-          "scores": {
-            "imageQuality": 7.2,
-            "refreshRate": 7.5,
-            "valueForMoney": 9.9,
-            "connectivity": 7.0,
-            "hdrPerformance": 7.8,
-            "designErgonomics": 7.5
-          }
-        },
-        {
-          "id": "asus-rog-swift-pro-pg248qp",
-          "rank": 9,
-          "score": 7.5,
-          "scores": {
-            "imageQuality": 6.5,
-            "refreshRate": 9.8,
-            "valueForMoney": 7.0,
-            "connectivity": 7.5,
-            "hdrPerformance": 6.0,
-            "designErgonomics": 8.0
           }
         },
         {
@@ -8085,6 +8117,32 @@
             "connectivity": 7.0,
             "hdrPerformance": 7.0,
             "designErgonomics": 8.2
+          }
+        },
+        {
+          "id": "aoc-q27g3xmn",
+          "rank": 11,
+          "score": 7.8,
+          "scores": {
+            "imageQuality": 7.2,
+            "refreshRate": 7.5,
+            "valueForMoney": 9.9,
+            "connectivity": 7.0,
+            "hdrPerformance": 7.8,
+            "designErgonomics": 7.5
+          }
+        },
+        {
+          "id": "asus-rog-swift-pro-pg248qp",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "imageQuality": 6.5,
+            "refreshRate": 9.8,
+            "valueForMoney": 7.0,
+            "connectivity": 7.5,
+            "hdrPerformance": 6.0,
+            "designErgonomics": 8.0
           }
         }
       ],
@@ -8103,48 +8161,58 @@
           "title": "The 6 Best OLED Monitors of 2026",
           "url": "https://www.rtings.com/monitor/reviews/best/oled",
           "source": "RTINGS"
+        },
+        {
+          "title": "Asus ROG Strix XG27AQDPG 27-inch 500 Hz OLED review",
+          "url": "https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-strix-xg27aqdpg-27-inch-500-hz-oled-gaming-monitor-review",
+          "source": "Tom's Hardware"
+        },
+        {
+          "title": "MSI MPG 271QR QD-OLED X50 Review",
+          "url": "https://www.techpowerup.com/review/msi-mpg-271qr-qd-oled-x50/",
+          "source": "TechPowerUp"
         }
       ],
       "i18n": {
         "en": {
-          "commentary": "The ASUS ROG Swift OLED PG27UCDM keeps my top spot because 4K at 240Hz on a QD-OLED panel with roughly 166 PPI still delivers the sharpest, most complete gaming picture I can put on a desk. Text renders cleanly, HDR highlights pop, and the pixel density finally fixes the fringing that older 27-inch OLEDs showed. The LG UltraGear 27GX790B stays second on the strength of its 480Hz mode, which remains the pick for competitive players who value motion clarity over resolution. The MSI MPG 341CQR-X36 holds third as my ultrawide of choice for immersion. This week the one change I made was giving the Dell Alienware AW2725Q a small value bump. It has sat around 700 dollars for most of 2026, which makes it the most affordable 27-inch 4K OLED on the market right now, and that price stability deserves recognition even though the panel and features are unchanged. I raised its value score two tenths and nudged the overall a tenth, which slots it cleanly without disturbing the ranks above. Computex in June brought news, MSI showed the first 32-inch 4K 360Hz triple-mode QD-OLED, but that is a preview and not shipping, so it does not enter the list yet. My advice stays consistent. Buy the PG27UCDM for the best all-round 4K OLED, choose the LG for pure competitive speed, and look at the AW2725Q when you want 4K OLED for the lowest price I can currently point you to.",
+          "commentary": "The ASUS ROG Swift OLED PG27UCDM keeps my top spot. 4K at 240Hz on a QD-OLED panel with roughly 166 PPI gives me the sharpest all-round gaming picture I can put on a desk, text renders cleanly and HDR highlights punch hard. The big story this cycle is the arrival of the first 1440p 500Hz QD-OLED panels, and two of them earn spots right behind it. The MSI MPG 271QR QD-OLED X50 slots in at number two. It pairs that 500Hz panel with the best HDR I have measured on any QD-OLED thanks to its EOTF Boost mode, and it adds a 98W USB-C port with KVM that lets me run a laptop through a single cable. At around 700 dollars it is the most complete high-refresh OLED I can point a buyer toward right now. The ASUS ROG Strix XG27AQDPG lands at number four as the first glossy 1440p 500Hz QD-OLED, with reference-grade color and OLED Care Pro watching burn-in, sitting just under the LG UltraGear 27GX790B whose 480Hz mode still owns pure competitive speed. Further down, the MSI MPG 341CQR-X36 remains my ultrawide pick for immersion, and the Dell Alienware AW2725Q holds its value slot as the cheapest 27-inch 4K OLED near 700 dollars. My advice is simple. Buy the PG27UCDM for the best 4K all-rounder, grab the MSI X50 if you want 500Hz with the strongest HDR and one-cable convenience, and choose the LG for nothing but raw speed.",
           "highlights": [
             {
-              "title": "PG27UCDM stays the all-rounder",
-              "body": "4K 240Hz QD-OLED at roughly 166 PPI gives the sharpest complete picture on my desk, with clean text and strong HDR highlights."
+              "title": "PG27UCDM stays the 4K all-rounder",
+              "body": "4K 240Hz QD-OLED at roughly 166 PPI still delivers the sharpest complete picture on a desk, with clean text and hard-hitting HDR. It is the one I hand to buyers who want a single monitor for games, work, and movies."
             },
             {
-              "title": "AW2725Q earns a value bump",
-              "body": "It has held near 700 dollars through most of 2026, making it the cheapest 27-inch 4K OLED right now. I raised its value score to reflect that."
+              "title": "MSI X50 makes 500Hz the value play",
+              "body": "The MPG 271QR QD-OLED X50 brings a 500Hz QD-OLED panel with the best HDR I have measured on the type, plus 98W USB-C and a KVM. Near 700 dollars it is the most complete high-refresh OLED on the board."
             },
             {
-              "title": "LG 27GX790B owns speed",
-              "body": "The 480Hz mode keeps it my pick for competitive players who put motion clarity ahead of resolution."
+              "title": "ASUS XG27AQDPG debuts glossy 500Hz",
+              "body": "The first 1440p glossy QD-OLED at 500Hz delivers reference-grade color and OLED Care Pro burn-in protection. It is the pick when you want color accuracy and speed in the same panel."
             },
             {
-              "title": "Computex teased 32-inch 360Hz",
-              "body": "MSI showed the first 32-inch 4K 360Hz triple-mode QD-OLED in June, but it is a preview and does not ship yet, so it stays off the list."
+              "title": "LG 27GX790B still owns raw speed",
+              "body": "The 480Hz WOLED mode remains the choice for competitive players who put motion clarity above everything else, and it holds its ground even as 500Hz QD-OLEDs arrive."
             }
           ]
         },
         "zh-tw": {
-          "commentary": "ASUS ROG Swift OLED PG27UCDM 這週續坐第一，4K 240Hz 的 QD-OLED 面板加上約 166 PPI，到現在還是我能擺在桌上最銳利、最完整的遊戲畫面。文字渲染乾淨，HDR 高光跳得出來，這個像素密度總算修掉了老一代 27 吋 OLED 那種邊緣鋸齒。LG UltraGear 27GX790B 守第二，靠的是 480Hz 模式，對那些把動態清晰度看得比解析度重的競技玩家來說，它依然是首選。MSI MPG 341CQR-X36 守第三，是我沉浸感取向的帶魚屏首選。這週我唯一動的，是給 Dell Alienware AW2725Q 一點性價比加分。它 2026 年大半時間都停在兩萬出頭，是目前市面上最便宜的 27 吋 4K OLED，這種價格穩定度值得肯定，就算面板跟功能沒變。我把它的性價比分數加兩格，總分微調一格，剛好卡進位置又不動到上面的排名。六月 Computex 有新聞，MSI 秀出第一台 32 吋 4K 360Hz 三模式 QD-OLED，不過那是預覽還沒開賣，所以先不列入。我的建議一致，想要最全面的 4K OLED 就上 PG27UCDM，純競技速度選 LG，想用最低價入手 4K OLED 就看 AW2725Q。",
+          "commentary": "ASUS ROG Swift OLED PG27UCDM 我還是擺第一。4K 240Hz 的 QD-OLED 面板、約 166 PPI，桌上能擺的遊戲畫面裡就它最銳利，文字邊緣乾淨，HDR 高光打起來很有力。這次最大的變化，是第一批 1440p 500Hz 的 QD-OLED 面板終於到貨，我直接放兩台進榜，就排在它後面。MSI MPG 271QR QD-OLED X50 我給第二。它把 500Hz 面板配上我測過 QD-OLED 裡最強的 HDR 表現，EOTF Boost 模式讓高光更到位，還多送一個 98W USB-C 加 KVM，筆電一條線就接上去用。台灣賣 NT$23,200 上下，以現在的高刷 OLED 來說它最全能，我會直接推給大部分人。ASUS ROG Strix XG27AQDPG 排第四，是第一台 1440p 500Hz 的亮面 QD-OLED，色彩準到能當參考級，還有 OLED Care Pro 顧著防烙印，位置就卡在 LG UltraGear 27GX790B 下面一名，LG 那個 480Hz 模式純比速度還是最猛。再往下，MSI MPG 341CQR-X36 依舊是我最推的沉浸感帶魚屏，Dell Alienware AW2725Q 守著它的性價比位置，是現在最便宜的 27 吋 4K OLED。講白了，要一台全能 4K 就買 PG27UCDM，想要 500Hz 又要最強 HDR 加一線接筆電就選 MSI X50，只想要純速度那就 LG。",
           "highlights": [
             {
-              "title": "PG27UCDM 續當全能王",
-              "body": "4K 240Hz QD-OLED 約 166 PPI，桌上最銳利最完整的畫面，文字乾淨、HDR 高光有力。"
+              "title": "PG27UCDM 還是最強 4K 全能王",
+              "body": "4K 240Hz QD-OLED、約 166 PPI，桌上擺得下的畫面裡就它最銳利，文字乾淨、HDR 夠力。想一台打電動、工作、看片全包，我第一個推它。"
             },
             {
-              "title": "AW2725Q 拿到性價比加分",
-              "body": "2026 大半年停在兩萬出頭，是目前最便宜的 27 吋 4K OLED。我把性價比分數往上加以反映這點。"
+              "title": "MSI X50 把 500Hz 拉進性價比戰場",
+              "body": "MPG 271QR QD-OLED X50 用 500Hz QD-OLED 面板配上我測過同類最強的 HDR，還給你 98W USB-C 加 KVM。台灣 NT$23,200 上下，以高刷 OLED 來說它最全能。"
             },
             {
-              "title": "LG 27GX790B 主打速度",
-              "body": "480Hz 模式讓它穩坐我對競技玩家的首選，動態清晰度擺在解析度之前。"
+              "title": "ASUS XG27AQDPG 亮面 500Hz 登場",
+              "body": "第一台 1440p 500Hz 的亮面 QD-OLED，色彩準到能當參考級，還有 OLED Care Pro 防烙印。想要色準又要速度同時到位的就看它。"
             },
             {
-              "title": "Computex 預告 32 吋 360Hz",
-              "body": "MSI 六月秀出第一台 32 吋 4K 360Hz 三模式 QD-OLED，不過是預覽還沒出貨，暫時不列入。"
+              "title": "LG 27GX790B 純速度還是王",
+              "body": "480Hz WOLED 模式對只在乎動態清晰度的競技玩家來說還是首選，就算 500Hz QD-OLED 進場了它照樣守得住位置。"
             }
           ]
         }

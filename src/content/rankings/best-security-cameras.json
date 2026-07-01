@@ -211,6 +211,22 @@
           "priceRange": "NT$3,999"
         }
       }
+    },
+    {
+      "id": "eufy-cam-s3-pro",
+      "name": "eufyCam S3 Pro",
+      "brand": "eufy",
+      "url": "https://www.eufy.com/eufycam-pro",
+      "i18n": {
+        "en": {
+          "description": "4K solar security camera with MaxColor Vision true-color night footage, BionicMind face recognition, and up to 16TB local storage with no monthly fee.",
+          "priceRange": "$550"
+        },
+        "zh-tw": {
+          "description": "4K 太陽能監視器，MaxColor Vision 真彩色夜視，BionicMind 人臉辨識，最高 16TB 本地儲存，不用付月費。",
+          "priceRange": "約 NT$16,900"
+        }
+      }
     }
   ],
   "history": [
@@ -7405,8 +7421,21 @@
           }
         },
         {
-          "id": "eufy-solocam-s340",
+          "id": "eufy-cam-s3-pro",
           "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "videoQuality": 9.3,
+            "nightVision": 9.2,
+            "aiDetection": 8.8,
+            "storageFlexibility": 9,
+            "batteryLife": 9,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "eufy-solocam-s340",
+          "rank": 4,
           "score": 8.6,
           "scores": {
             "videoQuality": 8.5,
@@ -7419,7 +7448,7 @@
         },
         {
           "id": "google-nest-cam-outdoor",
-          "rank": 4,
+          "rank": 5,
           "score": 8.3,
           "scores": {
             "videoQuality": 8.8,
@@ -7432,7 +7461,7 @@
         },
         {
           "id": "aosu-solarcam-t2-ultra",
-          "rank": 5,
+          "rank": 6,
           "score": 8.1,
           "scores": {
             "videoQuality": 9.5,
@@ -7445,7 +7474,7 @@
         },
         {
           "id": "tp-link-tapo-c460",
-          "rank": 6,
+          "rank": 7,
           "score": 8.0,
           "scores": {
             "videoQuality": 8.5,
@@ -7458,7 +7487,7 @@
         },
         {
           "id": "ring-spotlight-cam-pro",
-          "rank": 7,
+          "rank": 8,
           "score": 7.8,
           "scores": {
             "videoQuality": 7.5,
@@ -7485,48 +7514,58 @@
           "title": "15 Best Home Security Cameras of 2026, Lab-Tested and Reviewed",
           "url": "https://www.consumerreports.org/home-garden/home-security-cameras/best-wireless-home-security-cameras-of-the-year-a1535263710/",
           "source": "Consumer Reports"
+        },
+        {
+          "title": "eufyCam S3 Pro: 4K True-Color Clarity with MaxColor Vision",
+          "url": "https://www.eufy.com/eufycam-pro",
+          "source": "eufy"
+        },
+        {
+          "title": "Best Home Security Cameras of 2026",
+          "url": "https://www.security.org/security-cameras/best/",
+          "source": "Security.org"
         }
       ],
       "i18n": {
         "en": {
-          "commentary": "My order holds and the Reolink Argus 4 Pro stays my number one. Its dual-lens stitch delivers a genuine 180 degree panoramic view in a single seamless feed, and the 4K keeps faces and plates sharp toward the center of frame. Pair that with local storage and no mandatory subscription and it remains the camera I hand to almost anyone. Reolink's 2026 lineup is simply the broadest here, running from wired PoE for 24/7 recording to solar-powered wireless for off-grid corners. The Arlo Pro 5S stays second for a reason, true 4K HDR with the best color night vision I have tested, though you pay for the cloud plan to get the most from it. Eufy holds third and is the friendliest full smart-home fit, and worth noting this month, Eufy has officially entered the wired PoE NVR market with its new S4 kits, a sign it wants Reolink's mid-tier wired turf. That lineup is still thin, so it does not move my board yet. My steady advice stands, buy Reolink if you care about specs, wired reliability, and footage you own, buy Eufy if you want a tidy app-first setup with a lock and a few cameras.",
+          "commentary": "My number one stays the Reolink Argus 4 Pro. Its dual-lens stitch delivers a genuine 180 degree panoramic view in one seamless feed, and 4K keeps faces and plates sharp toward the center of frame. Local storage and no mandatory subscription keep it the camera I hand to almost anyone. The change on my board this cycle is Eufy's new flagship. The eufyCam S3 Pro enters at number three, a 4K solar camera whose MaxColor Vision keeps night footage in true color, and whose BionicMind face recognition cuts the false alerts that plague motion-only cameras. It records to a HomeBase 3 with up to 16TB of local storage and charges off the sun, so once it is mounted the running cost is zero. That combination puts it right behind the Arlo Pro 5S, which still owns the best color night vision I have tested, though Arlo asks for a cloud plan to unlock its full range. The S3 Pro pushes the older SoloCam S340 to four, and it earns the move. Further down, Google Nest, the Aosu SolarCam T2 Ultra, and the TP-Link Tapo C460 hold the value tier. My advice stays steady, buy Reolink when you want the broadest lineup and footage you own, and look hard at the eufyCam S3 Pro when true-color night vision and no monthly fee matter most.",
           "highlights": [
             {
               "title": "Reolink Argus 4 Pro stays on top",
-              "body": "A dual-lens 180 degree panorama in 4K plus local storage and no forced subscription keeps it my default pick."
+              "body": "The dual-lens 180 degree stitch and 4K center sharpness, paired with local storage and no mandatory subscription, keep it the camera I recommend to almost anyone."
+            },
+            {
+              "title": "eufyCam S3 Pro enters at three",
+              "body": "A 4K solar camera with MaxColor Vision for true-color night footage and BionicMind face recognition to cut false alerts, recording to a HomeBase 3 with up to 16TB and zero monthly fee."
             },
             {
               "title": "Arlo owns color night vision",
-              "body": "The Pro 5S shoots true 4K HDR with the best color night vision I have tested, though the cloud plan is the catch."
-            },
-            {
-              "title": "Eufy enters wired NVR",
-              "body": "Eufy's new S4 PoE NVR kits push into Reolink's wired turf this month, but the lineup is still too thin to move my board."
+              "body": "The Pro 5S still delivers the best color night vision I have tested, and it stays second even as eufy's 4K flagship arrives, though you pay for the cloud plan to get its full range."
             },
             {
               "title": "No-subscription still wins",
-              "body": "Reolink's local storage and ownership of your footage remain the reason it leads a field where cloud fees add up fast."
+              "body": "Reolink and eufy both let you keep footage locally with no recurring fee, and that ownership is why they hold the top of my board over subscription-first rivals."
             }
           ]
         },
         "zh-tw": {
-          "commentary": "我的排序維持不動,Reolink Argus 4 Pro 還是放第一。雙鏡頭縫合出真正 180 度全景,而且是一個無縫畫面,4K 讓畫面中央的臉跟車牌都夠清楚。再配上本地儲存、不強制訂閱,它還是我幾乎推給所有人的那台。Reolink 2026 產品線就是這一群裡最齊的,從有線 PoE 全天候錄影到太陽能無線顧偏遠角落都有。Arlo Pro 5S 守第二有它的道理,真 4K HDR 加上我測過最好的彩色夜視,只是要付雲端方案才能把它發揮到滿。Eufy 守第三,是最好上手的全屋智慧家庭選擇,這個月還有個重點,Eufy 正式跨進有線 PoE NVR 市場,推出新的 S4 套組,擺明想搶 Reolink 的中階有線地盤。不過這條線目前還太少款,還不足以動我的榜。我的建議一貫,重視規格、有線穩定、影像自己留著就買 Reolink,想要 App 優先、清爽配一把鎖跟幾台鏡頭就買 Eufy。",
+          "commentary": "第一名還是 Reolink Argus 4 Pro。它的雙鏡頭拼接給你真正的 180 度全景，一個畫面順順接起來，4K 讓畫面中央的人臉跟車牌都夠清楚。加上本地儲存、不強迫訂閱，它還是我幾乎推給每個人的那台。這次榜上的變化，是 eufy 的新旗艦進來了。eufyCam S3 Pro 排第三，4K 太陽能機種，MaxColor Vision 讓夜視保持真彩色而不是灰白一片，BionicMind 人臉辨識把只靠移動偵測那種一直亂報的誤判壓下來。它錄到 HomeBase 3、最高 16TB 本地儲存，靠太陽充電，裝好之後幾乎零月費。這個組合讓它就卡在 Arlo Pro 5S 後面，Arlo 那個彩色夜視還是我測過最好的，只是要解鎖完整效果得付雲端方案。S3 Pro 把舊款 SoloCam S340 擠到第四，這個位置換得剛好。再往下，Google Nest、Aosu SolarCam T2 Ultra、TP-Link Tapo C460 守著性價比段。老話一句，想要陣容最齊、影像自己留就買 Reolink，想要真彩色夜視又不想付月費，就好好看看 eufyCam S3 Pro。",
           "highlights": [
             {
-              "title": "Reolink Argus 4 Pro 續坐第一",
-              "body": "雙鏡頭 180 度全景配 4K,加上本地儲存不強制訂閱,讓它守住我的預設首選。"
+              "title": "Reolink Argus 4 Pro 還是第一",
+              "body": "雙鏡頭 180 度拼接加 4K 中央清晰度，配上本地儲存、不強迫訂閱，它還是我幾乎推給每個人的那台。"
             },
             {
-              "title": "Arlo 彩色夜視最強",
-              "body": "Pro 5S 拍真 4K HDR,彩色夜視是我測過最好的,只是要吃雲端方案。"
+              "title": "eufyCam S3 Pro 進榜排第三",
+              "body": "4K 太陽能機種，MaxColor Vision 夜視保持真彩色，BionicMind 人臉辨識壓掉誤判，錄到 HomeBase 3 最高 16TB，幾乎零月費。"
             },
             {
-              "title": "Eufy 跨進有線 NVR",
-              "body": "Eufy 這個月推 S4 PoE NVR 套組搶 Reolink 有線地盤,但款式還太少,動不了我的榜。"
+              "title": "Arlo 彩色夜視還是最強",
+              "body": "Pro 5S 的彩色夜視還是我測過最好的，就算 eufy 4K 旗艦進場它照樣守第二，只是完整效果要付雲端方案。"
             },
             {
-              "title": "免訂閱還是贏",
-              "body": "Reolink 本地儲存、影像自己留著,在雲端月費越疊越貴的這群裡,這正是它領先的原因。"
+              "title": "不用訂閱還是贏",
+              "body": "Reolink 跟 eufy 都讓你影像留在本地、不收月費，就是這個自己留影像的優勢，讓它們穩坐我榜單前段。"
             }
           ]
         }
