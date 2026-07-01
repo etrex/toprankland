@@ -6179,6 +6179,202 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-01",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.4,
+            "coding": 9,
+            "writing": 9.4,
+            "realtime": 9,
+            "value": 9,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.8,
+            "writing": 9.6,
+            "realtime": 7.5,
+            "value": 9,
+            "ecosystem": 9.4
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9,
+            "writing": 8.9,
+            "realtime": 9.3,
+            "value": 9.5,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "reasoning": 8.8,
+            "coding": 8.2,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8,
+            "value": 8,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7,
+            "value": 10,
+            "ecosystem": 7
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7,
+            "writing": 7.5,
+            "realtime": 8,
+            "value": 10,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7,
+            "value": 8,
+            "ecosystem": 7
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.4,
+            "writing": 7,
+            "realtime": 6.8,
+            "value": 9,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Top AI Chatbots and Assistants by Market Share July 2026",
+          "url": "https://momenticmarketing.com/blog/top-ai-chatbots",
+          "source": "Momentic Marketing"
+        },
+        {
+          "title": "Claude vs ChatGPT vs Gemini 2026: 88% SWE-Bench, $2 API",
+          "url": "https://tech-insider.org/claude-vs-chatgpt-vs-gemini-2026/",
+          "source": "Tech Insider"
+        },
+        {
+          "title": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide",
+          "url": "https://intuitionlabs.ai/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison",
+          "source": "IntuitionLabs"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ChatGPT keeps my top spot and it earns it on reach. GPT-5.5 cut hallucinations sharply over the previous release, the ecosystem is unmatched with memory, custom GPTs, and deep app integrations, and it commands well over half of all chatbot web traffic. For most people it is still the default that just works everywhere. That said, the story this week is Claude. Anthropic's Opus 4.8 now sits at the top of the human-preference rankings and wins the hardest coding benchmarks, and Claude is the fastest-growing major chatbot by web visits, up roughly 306 percent in a single quarter. That momentum is real, so I nudged its reasoning score up and it stays a very close second. If your work leans on hard reasoning, careful writing, or serious code, Claude is the one I reach for first. Gemini holds third and remains the value champion, with the widest free tier, strong real-time search, and the tightest integration across Google's apps. Perplexity stays fourth as the answer engine of choice when you want cited, up-to-the-minute information, and Grok keeps fifth on its real-time feed from X. Below that, Copilot leans on its Microsoft 365 footprint, DeepSeek and Qwen keep winning on raw price, and Meta AI rides distribution. The top three are separated by tenths now, and picking between them comes down to which strengths match your daily work.",
+          "highlights": [
+            {
+              "title": "ChatGPT holds on reach",
+              "body": "GPT-5.5 slashed hallucinations, the ecosystem of memory, custom GPTs, and app integrations is unmatched, and it owns over half of chatbot web traffic. It stays the default that works everywhere."
+            },
+            {
+              "title": "Claude is the momentum story",
+              "body": "Opus 4.8 tops human-preference rankings and wins the hardest coding tests, and Claude grew roughly 306 percent in a single quarter. I nudged its reasoning up and it stays a very close second."
+            },
+            {
+              "title": "Gemini owns value",
+              "body": "The widest free tier, strong real-time search, and deep Google app integration keep it third. For anyone who lives in Gmail, Docs, and Search, it is the easiest daily driver."
+            },
+            {
+              "title": "Perplexity for cited answers",
+              "body": "When you need current, sourced information rather than a chat, Perplexity's answer-engine approach stays the sharpest tool in fourth. Real-time citations are its clear edge."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週我第一名還是 ChatGPT，它靠的是覆蓋率。GPT-5.5 比上一版大幅砍了幻覺，生態沒對手，記憶、自訂 GPT、深度 App 串接一應俱全，網頁流量還吃下超過一半。對大多數人來說它就是那個到哪都能用的預設值。話說回來，這週的主角是 Claude。Anthropic 的 Opus 4.8 現在坐上人類偏好評比的頂端，最難的程式測試也是它贏，Claude 更是成長最快的主流聊天機器人，網頁造訪量單季衝了大概 306%。這股動能是真的，所以我把它推理分數往上挪一點，它守住緊咬的第二。你的工作吃重推理、要細膩寫作、或認真寫程式，我第一個開的就是 Claude。Gemini 守第三，還是 CP 值王，免費額度最大方、即時搜尋強、Google 全家桶串接最緊。Perplexity 第四，你要帶引用又即時的資訊時它最好用，Grok 靠 X 的即時動態守第五。往下 Copilot 吃 Microsoft 365 的地盤，DeepSeek 跟 Qwen 繼續用價格取勝，Meta AI 靠通路。前三名現在只差零點幾，選哪個就看你日常工作吃哪種強項。",
+          "highlights": [
+            {
+              "title": "ChatGPT 靠覆蓋率守住",
+              "body": "GPT-5.5 大砍幻覺，記憶、自訂 GPT、App 串接的生態沒對手，網頁流量還吃超過一半。它就是那個到哪都能用的預設值。"
+            },
+            {
+              "title": "Claude 是本週動能主角",
+              "body": "Opus 4.8 坐上人類偏好評比頂端，最難的程式測試也贏，Claude 單季成長大概 306%。我把它推理分往上挪，守住緊咬的第二。"
+            },
+            {
+              "title": "Gemini 拿下 CP 值",
+              "body": "免費額度最大方、即時搜尋強、Google 全家桶串接最緊，守住第三。你整天泡在 Gmail、文件、搜尋的話，它最好當日常主力。"
+            },
+            {
+              "title": "Perplexity 適合帶引用",
+              "body": "你要的是即時又有出處的資訊而不是聊天時，Perplexity 的答案引擎路線在第四還是最利的工具。即時引用是它明顯的優勢。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
