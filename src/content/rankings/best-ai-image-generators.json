@@ -5474,6 +5474,192 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-03",
+      "rankings": [
+        {
+          "id": "midjourney-v8",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "gpt-image-2",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 8.8,
+            "artisticQuality": 8.2,
+            "textRendering": 9.6,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 9.7
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8,
+            "artisticQuality": 8,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8,
+            "photorealism": 8,
+            "artisticQuality": 8,
+            "textRendering": 8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 7,
+          "score": 8,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8,
+            "textRendering": 7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8,
+            "photorealism": 8.2,
+            "artisticQuality": 8,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8,
+            "textRendering": 7,
+            "valueForMoney": 8
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI for Image Generation in 2026 — Ranked by Blind Human Votes",
+          "url": "https://llm-stats.com/leaderboards/best-ai-for-image-generation",
+          "source": "LLM-Stats"
+        },
+        {
+          "title": "The 9 Best AI Image Generation Models in 2026",
+          "url": "https://www.gradually.ai/en/ai-image-models/",
+          "source": "Gradually AI"
+        },
+        {
+          "title": "Best AI Image Generators 2026: Midjourney, Flux & More",
+          "url": "https://www.miniloop.ai/blog/best-ai-image-generators-2026",
+          "source": "Miniloop"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Midjourney v8 stays my top pick for anyone whose output needs to look like art rather than a render, and that is the whole case. Its aesthetic instincts for lighting, composition, and mood are still a class above, which is why it holds the artistic-quality crown at 9.9 in my scoring. If you sell a look, you start here. Flux 2 Pro sits second and remains the photorealism leader, resolving skin, fabric, and light so convincingly that I default to it for anything meant to pass as a photograph, and its fast generation makes commercial batches painless. GPT Image 2 holds third and this week's arena data keeps confirming why: it tops the blind-vote leaderboard on prompt adherence and text rendering, so when a layout needs exact words and precise instruction-following, it is the reliable choice. Below the leaders, Google Imagen 4 stays the best value with a genuinely useful free tier, Ideogram v3 owns typography-heavy work, and Adobe Firefly remains the legally safest option for brands that need licensed training data. I kept every rank steady because the top five are close enough that use case decides the winner, and no model shipped a step-change this week.",
+          "highlights": [
+            {
+              "title": "Midjourney v8 keeps the art crown",
+              "body": "Its instincts for lighting, composition, and mood still lead the field. If your output needs to read as art rather than a render, this is where you start."
+            },
+            {
+              "title": "Flux 2 Pro leads photorealism",
+              "body": "It resolves skin, fabric, and light convincingly enough to pass as a photograph, and fast generation makes commercial batch work painless."
+            },
+            {
+              "title": "GPT Image 2 tops the blind vote",
+              "body": "Arena data keeps it first on prompt adherence and text rendering, so it is the reliable pick when a layout needs exact words and precise instructions."
+            },
+            {
+              "title": "Value and licensing round out the field",
+              "body": "Google Imagen 4 offers the best free tier, Ideogram v3 owns typography work, and Adobe Firefly stays the safest choice for brands needing licensed training data."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "作品要看起來像藝術而不是像 3D 算圖的人，Midjourney v8 還是我的首選，整個理由就在這。它對光線、構圖、氛圍那種美感直覺，還是高出一截，這就是它在我的評分裡以 9.9 拿下藝術品質王座的原因。你如果是靠一種調性在賣的，就從它開始。Flux 2 Pro 第二，也還是寫實王，皮膚、布料、光影解得夠逼真，任何要冒充照片的東西我都直接用它，加上生圖夠快，商業批量處理毫無痛感。GPT Image 2 第三，這週的競技場資料一直印證原因：它在盲測榜單的提示遵循跟文字渲染都居首，版面需要精準文字跟精確照著指令做的時候，它就是那個穩的選擇。前段班以下，Google Imagen 4 靠一個真的好用的免費方案穩坐 CP 值第一，Ideogram v3 掌握重文字排版的活，Adobe Firefly 對需要授權訓練資料的品牌來說仍是法務上最安全的選項。排名我全部維持，前五名夠接近，看用途決定贏家，這週也沒有哪個模型端出跳躍式進步。",
+          "highlights": [
+            {
+              "title": "Midjourney v8 穩坐藝術王座",
+              "body": "對光線、構圖、氛圍的直覺還是領先全場。作品要讀起來像藝術而不是算圖，就從它開始。"
+            },
+            {
+              "title": "Flux 2 Pro 寫實領先",
+              "body": "皮膚、布料、光影解得夠逼真到能冒充照片，生圖又快，商業批量處理毫無痛感。"
+            },
+            {
+              "title": "GPT Image 2 盲測居首",
+              "body": "競技場資料讓它在提示遵循跟文字渲染都第一，版面需要精準文字跟照著指令做的時候選它最穩。"
+            },
+            {
+              "title": "CP 值跟授權補齊戰場",
+              "body": "Google Imagen 4 免費方案最好用，Ideogram v3 掌握排版活，Adobe Firefly 對需要授權資料的品牌最安全。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
