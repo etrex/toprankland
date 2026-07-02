@@ -6994,6 +6994,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-02",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.3,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 9.9,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.4,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 8.8,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "voiceRealism": 8.0,
+            "emotionalRange": 7.6,
+            "languageSupport": 8.6,
+            "latency": 7.7,
+            "valueForMoney": 8.4
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 11,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Eleven Labs Release Notes - June 2026 Latest Updates",
+          "url": "https://releasebot.io/updates/eleven-labs",
+          "source": "Releasebot"
+        },
+        {
+          "title": "Eleven v3 — Most Expressive AI Voice Model",
+          "url": "https://elevenlabs.io/v3",
+          "source": "ElevenLabs"
+        },
+        {
+          "title": "ElevenLabs AI (2026): Voice Generator, Text to Speech & Pricing",
+          "url": "https://gptprompts.ai/elevenlabs-ai",
+          "source": "GPT Prompts"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The order holds this week, and after another round of testing I am comfortable keeping ElevenLabs at the top. Its June API updates added an audio_duration_secs field to the speech-to-text response and surfaced recording_quality and labelling_status on the voice object, small quality-of-life wins that matter when you run voice work at scale. What still carries it for me is the v3 model reading past 70 languages and honoring inline tags like whispers or laughs, so I can direct delivery line by line. Inworld TTS 1.5 Max stays right beside it and earns its spot on latency, where its 9.8 makes it the one I pick for live agent work that has to answer instantly. Hume Octave 2 holds third on the strength of a 9.7 emotional range, and I keep reaching for it whenever a script needs a real read rather than a flat one. Cartesia Sonic 3 owns the latency crown at 9.9, so for streaming pipelines where every millisecond shows, it is my first call. MiniMax Speech 02 HD stays a strong value pick with broad language coverage at 9.2. OpenAI GPT-4o mini TTS remains the easy default for anyone already inside that ecosystem, and at a 9.6 value score it is hard to argue with for prototypes. For most projects this week I would start with ElevenLabs for range, keep Cartesia or Inworld for real-time, and lean on Hume when the emotion has to land.",
+          "highlights": [
+            {
+              "title": "ElevenLabs stays on top",
+              "body": "June API updates added audio_duration_secs to transcriptions and recording_quality to the voice object, and v3 still reads 70-plus languages with inline delivery tags."
+            },
+            {
+              "title": "Inworld for live agents",
+              "body": "Its 9.8 latency makes Inworld TTS 1.5 Max my pick for real-time agent work that has to answer the moment a user stops speaking."
+            },
+            {
+              "title": "Cartesia owns latency",
+              "body": "Sonic 3 holds a 9.9 latency score, so for streaming pipelines where every millisecond is visible, it is my first call."
+            },
+            {
+              "title": "Hume for real emotion",
+              "body": "Octave 2 keeps its 9.7 emotional range, and I reach for it whenever a script needs a genuine read instead of a flat one."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週排序不動，又測了一輪之後，我很放心讓 ElevenLabs 繼續坐第一。它六月的 API 更新在語音轉文字的回應裡加了 audio_duration_secs 欄位，也在語音物件上帶出 recording_quality 跟 labelling_status，這些看似小的貼心改動，在你大量跑語音工作時真的有感。真正撐住它的，是 v3 模型能讀超過 70 種語言，還吃得下 whispers、laughs 這種行內標籤，我可以一句一句去導它的語氣。Inworld TTS 1.5 Max 緊貼在旁邊，靠延遲拿分，它 9.8 的延遲讓我在需要即時回話的線上客服代理上選它。Hume Octave 2 靠 9.7 的情緒表現守住第三，只要腳本需要有情緒的演繹，我就一直回頭找它。Cartesia Sonic 3 以 9.9 拿下延遲王座，串流管線裡每一毫秒都看得出來時，我第一個打給它。MiniMax Speech 02 HD 憑 9.2 的廣泛語言覆蓋，依舊是很划算的選擇。OpenAI GPT-4o mini TTS 對已經在那個生態圈裡的人來說仍是輕鬆的預設，9.6 的性價比分數，拿來做原型很難挑剔。這週多數專案，我會先用 ElevenLabs 拚語言廣度，即時需求交給 Cartesia 或 Inworld，情緒要到位就靠 Hume。",
+          "highlights": [
+            {
+              "title": "ElevenLabs 繼續坐第一",
+              "body": "六月 API 更新替轉錄加了 audio_duration_secs、語音物件加了 recording_quality，v3 還能讀 70 多種語言並吃行內語氣標籤。"
+            },
+            {
+              "title": "即時代理選 Inworld",
+              "body": "9.8 的延遲讓 Inworld TTS 1.5 Max 成為我在需要使用者一停口就回話的即時代理工作上的首選。"
+            },
+            {
+              "title": "延遲王還是 Cartesia",
+              "body": "Sonic 3 守住 9.9 的延遲分數，串流管線裡每毫秒都看得見時，我第一個打給它。"
+            },
+            {
+              "title": "要真情緒就找 Hume",
+              "body": "Octave 2 維持 9.7 的情緒表現，只要腳本需要有情緒的演繹而非平板念白，我就回頭找它。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

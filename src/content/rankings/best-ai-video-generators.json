@@ -6939,6 +6939,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-02",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.7,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.0,
+            "audioVideoSync": 9.4,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.7,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI for Video Generation in 2026 — Ranked by Blind Human Votes",
+          "url": "https://llm-stats.com/leaderboards/best-ai-for-video-generation",
+          "source": "LLM-Stats"
+        },
+        {
+          "title": "AI Video Generation 2026: Sora 2 vs Veo 3.1 vs Kling 3.0 Compared",
+          "url": "https://lushbinary.com/blog/ai-video-generation-sora-veo-kling-seedance-comparison/",
+          "source": "Lushbinary"
+        },
+        {
+          "title": "Best AI Video Generator in 2026: Veo, Sora, Kling, Runway",
+          "url": "https://kingy.ai/ai/best-ai-video-generator-2026/",
+          "source": "Kingy AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "This week I moved Kling 3.0 into the top spot, and the reason is concrete. The blind-vote text-to-video arena now has Kling v3 sitting at an arena score of 2023, the highest of any model, and that lines up with what I keep seeing in my own test batches. The multi-shot storyboard mode with native audio sync across cuts is genuinely useful for anyone stringing shots together, and the per-generation cost stays low enough that I can iterate ten times without wincing at the bill. Seedance 2.0 slips to second, though I want to be clear it remains the model I reach for on image-to-video work. It keeps character faces stable across a clip better than almost anything else, and it still tops the informal creator tests I follow. Veo 3.1 holds third and stays my pick when I need flawless prompt adherence and native 4K audio in one pass, especially for polished client deliverables. Runway Gen-4.5 is the tool I open when I want camera moves and motion-brush control by hand, and its character consistency score of 9.7 speaks to how well it holds a reference face. Happy Horse 1.0 continues to punch above its weight on raw motion realism. For most creators this week, I would start with Kling for value and iteration speed, keep Seedance for anything driven by a still image, and save Veo for the hero shot that has to land perfectly.",
+          "highlights": [
+            {
+              "title": "Kling 3.0 takes the lead",
+              "body": "Kling v3 now holds the top arena score of 2023 in the blind text-to-video leaderboard, and its multi-shot storyboard mode with audio sync makes it my default this week."
+            },
+            {
+              "title": "Seedance still owns image-to-video",
+              "body": "Seedance 2.0 keeps character faces stable across a full clip and remains the model I reach for whenever a still image drives the shot."
+            },
+            {
+              "title": "Veo for the hero shot",
+              "body": "Veo 3.1 leads on prompt adherence at 9.7 and native 4K audio, so I save it for client deliverables that have to land perfectly in one pass."
+            },
+            {
+              "title": "Runway for hands-on control",
+              "body": "Gen-4.5 keeps its 9.7 character consistency and offers camera moves plus motion brush, which I lean on when I want to direct a shot by hand."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週我把 Kling 3.0 拉上第一，理由很實在。盲測投票的文字轉影片競技場上，Kling v3 現在拿到 2023 的分數，是所有模型裡最高的，這跟我自己一批批測下來的感覺完全對得上。它的多鏡頭腳本模式可以在剪接點之間自動對齊原生音訊，對於要把好幾個鏡頭串起來的人來說真的好用，而且單次生成的花費夠低，我一口氣跑十次也不心疼。Seedance 2.0 退到第二，不過我要講清楚，做圖生影片我還是第一個想到它。它把角色的臉在整段片子裡撐住的能力，幾乎沒幾個模型比得上，我在追的那些創作者非正式測試裡它也還是名列前茅。Veo 3.1 守住第三，當我要一次到位的指令貼合度加上原生 4K 音訊，特別是交給客戶的成品，我就選它。Runway Gen-4.5 是我想手動控制運鏡跟動態筆刷時會打開的工具，它 9.7 的角色一致性分數說明了它抓參考臉抓得多穩。Happy Horse 1.0 在純運動真實感上依舊超乎它的定位。這週對多數創作者，我會先用 Kling 拚性價比跟迭代速度，圖生影片留給 Seedance，那個一定要完美的主鏡頭就交給 Veo。",
+          "highlights": [
+            {
+              "title": "Kling 3.0 登頂",
+              "body": "Kling v3 在盲測文字轉影片排行榜上拿到最高的 2023 分，加上多鏡頭腳本模式能自動對齊音訊，這週它是我的首選。"
+            },
+            {
+              "title": "圖生影片還是看 Seedance",
+              "body": "Seedance 2.0 能把角色的臉在整段片子裡撐住，只要是靜態圖驅動的鏡頭，我第一個想到它。"
+            },
+            {
+              "title": "主鏡頭交給 Veo",
+              "body": "Veo 3.1 指令貼合度 9.7 領先，又有原生 4K 音訊，那種一次要到位的客戶成品我都留給它。"
+            },
+            {
+              "title": "想手動控制就用 Runway",
+              "body": "Gen-4.5 維持 9.7 的角色一致性，還有運鏡跟動態筆刷，我要親手導一個鏡頭時很依賴它。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

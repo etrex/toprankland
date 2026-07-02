@@ -12093,6 +12093,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-02",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.6,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.2,
+            "valueForMoney": 8.3
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.6,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 4,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 5,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.3
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Coding Assistants: Claude Code Ties Cursor at 18% [2026]",
+          "url": "https://tech-insider.org/ie/ai-coding-assistants-2026/",
+          "source": "Tech Insider Ireland"
+        },
+        {
+          "title": "Cursor, Claude Code, and Codex are merging into one AI coding stack nobody planned",
+          "url": "https://thenewstack.io/ai-coding-tool-stack/",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Claude Code vs GitHub Copilot vs Cursor (2026): Pricing, Features, and Verdict",
+          "url": "https://www.cosmicjs.com/blog/claude-code-vs-github-copilot-vs-cursor-which-ai-coding-agent-should-you-use-2026",
+          "source": "Cosmic"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code stays my number one this week, and the market is catching up to what heavy users already knew. Workplace adoption jumped to 18 percent, a roughly six-fold rise in nine months, drawing level with Cursor and closing on Copilot. I keep it first because it tops complex, multi-file work and holds reasoning quality at full context depth, running in the terminal, IDE, desktop app, and Slack. Cursor holds second as the most polished AI-native IDE, where the editing loop feels seamless. I did trim Cursor's value score to 8.3 because its June plan restructure splits Teams into a $40 Standard tier and a $120 Premium tier, effective for renewals from July 1, which raises the real cost for heavier teams. Copilot's value takes a similar hit to 6.3: as of June 1 every plan moved to usage-based billing with AI Credits, so predictable flat pricing is gone and power users pay more. OpenAI Codex keeps third for strong autonomous runs. Aider stays the value pick for anyone who lives in the terminal and wants open, model-flexible tooling. The category is now a genuine three-way race, and the tools are converging into one shared workflow.",
+          "highlights": [
+            {
+              "title": "Claude Code hits 18 percent adoption",
+              "body": "A six-fold rise in nine months draws it level with Cursor, matching what its lead on complex multi-file work already showed."
+            },
+            {
+              "title": "Cursor's new tiers raise team costs",
+              "body": "The June restructure into $40 Standard and $120 Premium seats, live for renewals from July 1, nudged its value score to 8.3."
+            },
+            {
+              "title": "Copilot moves to usage-based billing",
+              "body": "From June 1 all plans use AI Credits, so flat predictable pricing is gone and heavy users pay more, dropping its value to 6.3."
+            },
+            {
+              "title": "Aider stays the terminal value pick",
+              "body": "Open and model-flexible, it remains my recommendation for developers who want lightweight, scriptable tooling at the lowest cost."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週 Claude Code 還是我心中的第一，而市場正在追上重度使用者早就知道的事。職場採用率跳到 18%，九個月大約成長六倍，跟 Cursor 平起平坐，也逼近 Copilot。我把它放第一，是因為它在複雜的多檔案工作上最強，而且在滿脈絡深度下還能維持推理品質，終端機、IDE、桌面 app 跟 Slack 都能跑。Cursor 守第二，依然是最精緻的 AI 原生 IDE，編輯的手感一氣呵成。不過我把 Cursor 的 value 分數往下修到 8.3，因為它六月重整方案，把 Teams 拆成每席 40 美元的 Standard 跟 120 美元的 Premium，續約從 7 月 1 日起生效，重度團隊的實際成本被拉高了。Copilot 的划算度也吃了類似的虧，掉到 6.3：從 6 月 1 日起所有方案改成用量計費搭配 AI Credits，過去那種好抓預算的統一定價沒了，重度用戶要付更多。OpenAI Codex 守第三，自主執行表現硬。Aider 依然是住在終端機、想要開放又能換模型的人的性價比首選。這個類別現在是真正的三強鼎立，而這些工具正逐漸匯流成同一套工作流。",
+          "highlights": [
+            {
+              "title": "Claude Code 採用率衝到 18%",
+              "body": "九個月成長六倍，跟 Cursor 打平，正好印證它在複雜多檔案工作上早就展現的領先。"
+            },
+            {
+              "title": "Cursor 新方案拉高團隊成本",
+              "body": "六月重整成每席 40 美元 Standard 跟 120 美元 Premium，續約 7 月 1 日起生效，我把它的 value 調到 8.3。"
+            },
+            {
+              "title": "Copilot 改用量計費",
+              "body": "6 月 1 日起所有方案改用 AI Credits，好抓預算的統一定價消失，重度用戶付更多，划算度掉到 6.3。"
+            },
+            {
+              "title": "Aider 穩坐終端機性價比首選",
+              "body": "開放又能自由換模型，依然是我推薦給想要輕量、可腳本化、成本最低工具的開發者的選擇。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
