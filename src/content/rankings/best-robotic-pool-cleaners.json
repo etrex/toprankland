@@ -194,6 +194,22 @@
           "priceRange": "約 NT$9,300 - 15,500"
         }
       }
+    },
+    {
+      "id": "beatbot-aquasense-x",
+      "name": "AquaSense X",
+      "brand": "Beatbot",
+      "url": "https://beatbot.com/products/aquasense-x",
+      "i18n": {
+        "en": {
+          "description": "Beatbot's $4,250 flagship pairs HybridSense AI vision with the AstroRinse self-cleaning dock, the first station that rinses the filter and empties debris for up to two months hands-free.",
+          "priceRange": "$4,250"
+        },
+        "zh-tw": {
+          "description": "Beatbot 旗艦機，HybridSense AI 視覺加上 AstroRinse 自清潔基座，全球第一台會自己沖濾網、倒集塵，最長兩個月不用碰。",
+          "priceRange": "約 NT$131,000"
+        }
+      }
     }
   ],
   "history": [
@@ -4751,8 +4767,20 @@
           }
         },
         {
-          "id": "dolphin-nautilus-cc-plus-wifi",
+          "id": "beatbot-aquasense-x",
           "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "cleaning": 9.3,
+            "navigation": 9.7,
+            "value": 7.8,
+            "durability": 8.8,
+            "convenience": 9.9
+          }
+        },
+        {
+          "id": "dolphin-nautilus-cc-plus-wifi",
+          "rank": 4,
           "score": 9,
           "scores": {
             "cleaning": 9.1,
@@ -4764,7 +4792,7 @@
         },
         {
           "id": "aiper-scuba-s1",
-          "rank": 4,
+          "rank": 5,
           "score": 8.7,
           "scores": {
             "cleaning": 8.6,
@@ -4776,7 +4804,7 @@
         },
         {
           "id": "beatbot-aquasense-2-pro",
-          "rank": 5,
+          "rank": 6,
           "score": 8.6,
           "scores": {
             "cleaning": 8.7,
@@ -4788,7 +4816,7 @@
         },
         {
           "id": "wybot-c2-vision",
-          "rank": 6,
+          "rank": 7,
           "score": 8.4,
           "scores": {
             "cleaning": 8.3,
@@ -4800,7 +4828,7 @@
         },
         {
           "id": "polaris-9650iq-sport",
-          "rank": 7,
+          "rank": 8,
           "score": 8.2,
           "scores": {
             "cleaning": 8.4,
@@ -4812,7 +4840,7 @@
         },
         {
           "id": "pentair-prowler-930w",
-          "rank": 8,
+          "rank": 9,
           "score": 8,
           "scores": {
             "cleaning": 8.2,
@@ -4824,7 +4852,7 @@
         },
         {
           "id": "dolphin-active-30",
-          "rank": 9,
+          "rank": 10,
           "score": 7.8,
           "scores": {
             "cleaning": 7.9,
@@ -4836,7 +4864,7 @@
         },
         {
           "id": "aiper-scuba-se",
-          "rank": 10,
+          "rank": 11,
           "score": 7.6,
           "scores": {
             "cleaning": 7.4,
@@ -4848,7 +4876,7 @@
         },
         {
           "id": "wybot-c1",
-          "rank": 11,
+          "rank": 12,
           "score": 7.4,
           "scores": {
             "cleaning": 7.3,
