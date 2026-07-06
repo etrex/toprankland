@@ -10080,6 +10080,176 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-06",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.7,
+            "network": 9.6,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 9.1,
+            "network": 9.6,
+            "usability": 9.0,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Mullvad vs NordVPN vs Proton VPN: Privacy Compared (2026)",
+          "url": "https://ifeeltech.com/blog/mullvad-vs-nordvpn-vs-proton-vpn",
+          "source": "iFeeltech"
+        },
+        {
+          "title": "The 3 Best VPNs For Privacy of 2026",
+          "url": "https://www.rtings.com/vpn/reviews/best/privacy",
+          "source": "RTINGS"
+        },
+        {
+          "title": "Best VPN in 2026: audited, honest rankings",
+          "url": "https://notrackr.com/best-vpn-2026/",
+          "source": "NoTrackr"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "My privacy-first order holds this week, and the latest 2026 comparisons reinforce why. Mullvad stays my number one for anyone who treats anonymity as the whole point. It takes no email, hands you a random account number, accepts cash mailed to Sweden, and has survived a real police raid with nothing to hand over. Since dropping OpenVPN entirely in January to become WireGuard-only, its setup is leaner and faster, and the flat five-euro-a-month price means no dark-pattern renewals. If you want to be a number and not a profile, this is the one. Proton VPN holds second and remains the pick I hand to most people, since it pairs a strong no-logs record, its fifth consecutive annual audit, and a SOC 2 Type II attestation with a much larger server network and a genuinely usable free tier. Worth noting, Proton has confirmed an all-new in-house VPN architecture is on the way this year, which I will be watching closely. NordVPN keeps third as the speed and streaming champion. Its NordLynx tuning of WireGuard is consistently the fastest of the three in real use, and it just cleared its sixth independent no-logs audit, so the trust gap that once held it back is narrowing. Everything below is stable. My practical advice: choose Mullvad for pure anonymity, Proton for the best all-round balance, and NordVPN if raw speed and reliable streaming matter most to you.",
+          "highlights": [
+            {
+              "title": "Mullvad stays the anonymity king",
+              "body": "No email, random account number, cash payment, raid-proven. Now WireGuard-only since January for a leaner, faster setup. Holds number one."
+            },
+            {
+              "title": "Proton VPN the best all-rounder",
+              "body": "Fifth consecutive audit, SOC 2 Type II, a large network, and a usable free tier. A new in-house architecture is coming this year. Second."
+            },
+            {
+              "title": "NordVPN owns speed and streaming",
+              "body": "NordLynx is consistently the fastest of the three in real use, and it just cleared a sixth no-logs audit. Trust gap narrowing at third."
+            },
+            {
+              "title": "Audits doing the heavy lifting",
+              "body": "The 2026 story is verified trust. Every top pick now leans on independent audits rather than marketing claims."
+            },
+            {
+              "title": "Pick by priority",
+              "body": "Mullvad for pure anonymity, Proton for balance, NordVPN if raw speed and streaming matter most. No ranking changes this week."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "我這套隱私優先的排序這週不動，2026 最新的比較也再次驗證原因。Mullvad 守住第一，適合把匿名當成全部重點的人。它不要 email，給你一組隨機帳號，接受把現金寄到瑞典付款，還真的撐過一次警方搜索、拿不出任何東西交出去。一月它把 OpenVPN 整個拿掉、變成純 WireGuard 之後，設定更精簡也更快，月費固定五歐元，沒有那種續約時偷加價的暗黑手法。想當一個號碼而不是一份檔案，就選它。Proton VPN 守第二，也是我推給大多數人的那支，它把紮實的無紀錄紀錄、連續第五年的稽核、SOC 2 Type II 認證，跟大得多的伺服器網路加上真的能用的免費版綁在一起。值得一提，Proton 已確認今年會推出全新自研的 VPN 架構，我會盯緊。NordVPN 守第三，速度跟串流冠軍。它把 WireGuard 調校成 NordLynx，實測是三者裡最快的，而且剛通過第六次獨立無紀錄稽核，過去拖住它的信任落差正在縮小。往下都穩。實用建議：純匿名選 Mullvad，全方位平衡選 Proton，最看重速度跟穩定串流就選 NordVPN。",
+          "highlights": [
+            {
+              "title": "Mullvad 匿名之王",
+              "body": "不要 email、隨機帳號、現金付款、撐過搜索。一月起純 WireGuard，設定更精簡更快。守第一。"
+            },
+            {
+              "title": "Proton VPN 最全方位",
+              "body": "連續第五年稽核、SOC 2 Type II、大網路、能用的免費版。今年還有全新自研架構。第二名。"
+            },
+            {
+              "title": "NordVPN 速度串流稱王",
+              "body": "NordLynx 實測三者最快，剛過第六次無紀錄稽核。信任落差縮小，守第三。"
+            },
+            {
+              "title": "稽核挑大樑",
+              "body": "2026 的主軸是可驗證的信任。前段每一支現在都靠獨立稽核，不是靠行銷話術。"
+            },
+            {
+              "title": "依需求選",
+              "body": "純匿名選 Mullvad，平衡選 Proton，速度串流優先選 NordVPN。這週排名沒動。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

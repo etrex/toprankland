@@ -6767,6 +6767,210 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-06",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.4,
+            "coding": 9.0,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.0,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.9,
+            "writing": 9.6,
+            "realtime": 7.5,
+            "value": 9.0,
+            "ecosystem": 9.4
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.9,
+            "realtime": 9.4,
+            "value": 9.5,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "reasoning": 8.8,
+            "coding": 8.3,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.4,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (July 2026) - Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Best AI Models in July 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        },
+        {
+          "title": "AI Model Benchmarks Jul 2026 | Compare GPT-5.5, Claude Opus, Gemini 3, Grok 4",
+          "url": "https://lmcouncil.ai/benchmarks",
+          "source": "LM Council"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "This first week of July handed the coding crown back to Claude. Fable 5 returned globally on July 1 and posted 80.3% on SWE-Bench Pro, the highest score of any model you can actually sign in and use today. Paired with Opus 4.8 sitting at the top of the general Intelligence Index at 61, Claude has the strongest agentic-coding story on the board right now, so I nudged its coding factor up to 9.9. If you write software for a living, this is the assistant I reach for first. ChatGPT keeps my overall number one spot because GPT-5.5 remains the most reliable daily driver for chat and knowledge work, and the ecosystem around it (memory, connectors, the app store) is still the deepest. It wins on breadth, Claude wins on depth of engineering work. Gemini 3.1 Pro holds third with the best hardest-mode reasoning and unmatched real-time reach through Google's index, and its pricing stays aggressive enough to keep it in serious contention. Grok 4.3 is live and 4.5 is in private beta, so its live-information edge stays intact at fifth. Everything below is stable this week. My honest advice: pick two. Use ChatGPT or Gemini for everyday questions and research, and keep Claude open in your editor for anything code-shaped. That combination covers more ground than any single subscription, and both tiers have generous enough free access that you can test the split before you pay.",
+          "highlights": [
+            {
+              "title": "Claude Fable 5 retakes coding",
+              "body": "Back globally on July 1 at 80.3% SWE-Bench Pro, the top score among usable models. I raised Claude's coding factor to 9.9 to reflect it."
+            },
+            {
+              "title": "ChatGPT stays the best all-rounder",
+              "body": "GPT-5.5 remains the most dependable pick for daily chat and knowledge work, and its ecosystem depth keeps it at overall number one."
+            },
+            {
+              "title": "Gemini's reasoning and reach",
+              "body": "Gemini 3.1 Pro leads hardest-mode reasoning and pulls live results straight from Google's index, holding a comfortable third."
+            },
+            {
+              "title": "Grok keeps its live edge",
+              "body": "Grok 4.3 is live with 4.5 in private beta, so its real-time information advantage keeps it firmly at fifth."
+            },
+            {
+              "title": "Run two, not one",
+              "body": "A general model for research plus Claude in your editor covers more real work than any single subscription this month."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "七月第一週，寫程式的王座又回到 Claude 手上。Fable 5 在 7 月 1 日全球回歸，SWE-Bench Pro 拿下 80.3%，是目前你真的登得進去、用得到的模型裡最高分。再加上 Opus 4.8 在整體智慧指數穩坐 61 分的第一，Claude 現在的代理式寫程式體驗是全場最強，所以我把它的 coding 分數往上調到 9.9。如果你靠寫程式吃飯，這台就是我第一個開的助手。ChatGPT 整體還是我心中的第一名，GPT-5.5 拿來日常對話跟查資料最穩，生態系（記憶、外接連結、應用商店）也最完整。它贏在廣度，Claude 贏在工程深度。Gemini 3.1 Pro 守住第三，最難的推理題它最會解，靠 Google 索引的即時查詢也沒人比得上，定價又夠猛，實力一直都在。Grok 4.3 已上線、4.5 進私測，即時資訊的優勢還在，守住第五。這週往下的排名都沒動。老實給個建議：一次養兩台。日常問答跟查資料用 ChatGPT 或 Gemini，編輯器裡固定開著 Claude 處理所有跟程式碼有關的事。這個組合涵蓋的範圍比單押一個訂閱大很多，而且兩邊免費額度都夠你先試水溫再決定要不要付錢。",
+          "highlights": [
+            {
+              "title": "Claude Fable 5 奪回寫程式王座",
+              "body": "7 月 1 日全球回歸，SWE-Bench Pro 80.3%，是可用模型裡最高分。我把 Claude 的 coding 分數提到 9.9。"
+            },
+            {
+              "title": "ChatGPT 全能還是最穩",
+              "body": "GPT-5.5 日常對話跟查資料最可靠，生態系又最完整，整體第一名還是它。"
+            },
+            {
+              "title": "Gemini 推理加即時查詢",
+              "body": "最難的推理題 Gemini 3.1 Pro 最會解，靠 Google 索引抓即時結果，穩穩守住第三。"
+            },
+            {
+              "title": "Grok 即時優勢還在",
+              "body": "Grok 4.3 上線、4.5 私測中，即時資訊這塊它還是強，第五名沒跑掉。"
+            },
+            {
+              "title": "養兩台比單押一台划算",
+              "body": "一台通用模型查資料，加上編輯器裡的 Claude 寫程式，涵蓋的實際工作比任何單一訂閱都廣。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

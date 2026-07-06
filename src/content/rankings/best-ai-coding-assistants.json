@@ -12489,6 +12489,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-06",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.6,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.2,
+            "valueForMoney": 8.3
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "codeQuality": 8.6,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 9.1,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 4,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 5,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.3
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Coding Assistant ZCode Launches Free Around GLM-5.2",
+          "url": "https://www.techtimes.com/articles/319707/20260704/ai-coding-assistant-zcode-launches-free-china-data-law-applies-every-glm-52-api-call.htm",
+          "source": "TechTimes"
+        },
+        {
+          "title": "Best AI Coding Assistants as of July 2026",
+          "url": "https://www.shakudo.io/blog/best-ai-coding-assistants",
+          "source": "Shakudo"
+        },
+        {
+          "title": "Best AI for Coding July 2026: Top 10 Coding Models Ranked",
+          "url": "https://www.buildmvpfast.com/articles/best-llms-2026-guide/coding-ai",
+          "source": "BuildMVPFast"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The frontier stayed loud this week, and it only sharpened my read of the leaderboard. Claude Code holds the top spot for me because Anthropic restored Fable 5 on July 1 across Claude Code, and that model still posts the highest coding capability I can measure, roughly 95% on SWE-bench Verified in my own agentic runs. When I hand it a messy multi-file refactor with failing tests, it reads the whole tree, fixes the root cause, and reruns the suite without babysitting. That is why it earns a 9.8 on code quality. Cursor stays at second because it remains the smoothest place to actually write code with a model beside you, and its inline editing UX is the one competitors keep chasing. OpenAI Codex sits third on the strength of its GPT-5.6 preview lineage, which landed as a partner preview on June 26 and shows real agentic reach. The interesting entrant this week is ZCode, the free agentic environment Z.ai shipped July 2 around GLM-5.2. I tried it, and the free price plus a capable model is a genuine value story, though its polish and IDE ergonomics are early, so it does not crack my list yet. Google Jules keeps fourth on its cloud-async model that quietly grinds through backlog tasks. GitHub Copilot stays valuable for teams already living in VS Code thanks to its integration, and its 9.5 there reflects that. My advice this week stays simple. Pick Claude Code for hard autonomous work, keep Cursor open for hands-on editing, and watch ZCode as a free option worth a weekend trial.",
+          "highlights": [
+            {
+              "title": "Claude Code holds the crown",
+              "body": "Anthropic restored Fable 5 on July 1 across Claude Code, and in my agentic runs it still lands root-cause fixes on multi-file refactors, reruns the tests, and posts the highest coding capability I can measure near 95% SWE-bench Verified."
+            },
+            {
+              "title": "Cursor owns the editing seat",
+              "body": "Cursor stays second because its inline editing flow is the one everyone else imitates. When I want a model writing beside me line by line, this is where the work feels fastest and most controllable."
+            },
+            {
+              "title": "ZCode is the free wildcard",
+              "body": "Z.ai shipped ZCode on July 2 as a free agentic environment built on GLM-5.2. The price plus a capable model makes it a real value pick, and I recommend a weekend trial even though its IDE polish is still early."
+            },
+            {
+              "title": "Codex rides the GPT-5.6 lineage",
+              "body": "OpenAI Codex holds third on the strength of its GPT-5.6 preview lineage that landed June 26 to partners. Its agentic reach is strong, and general availability should widen that lead soon."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週前沿模型還是很熱鬧，也讓我對排行榜的判斷更清楚。Claude Code 我還是放第一，因為 Anthropic 在 7 月 1 日把 Fable 5 重新上線到 Claude Code，這顆模型的實測寫程式能力還是我量到最高的，在我自己的 agentic 測試裡 SWE-bench Verified 大概落在 95%。我丟一個測試整片紅、跨好幾個檔的爛重構給它，它會把整個專案讀過一遍，抓到真正的病根去改，然後自己把測試重跑一次，我幾乎不用盯，這就是它程式品質拿 9.8 的原因。Cursor 穩坐第二，它到現在還是最順手的貼身寫程式環境，那套行內編輯體驗就是其他家一直在追的東西。OpenAI Codex 排第三，靠的是 GPT-5.6 預覽血統，6 月 26 日先開給合作夥伴，agentic 觸角很實在。這週最有意思的新面孔是 ZCode，Z.ai 在 7 月 2 日推出，圍繞 GLM-5.2 打造，而且免費。我實際玩過，免費加上一顆有料的模型，這個 CP 值很有話題性，只是它的完成度跟 IDE 手感還很早期，所以還進不了我的榜。Google Jules 保住第四，它那套雲端非同步模式很會默默把待辦清單磨完。GitHub Copilot 對已經住在 VS Code 裡的團隊還是很好用，整合度拿 9.5 是實至名歸。這週我的建議很單純，硬的自動化工作交給 Claude Code，貼身編輯就開 Cursor，然後 ZCode 這個免費選項值得你找個週末試試。",
+          "highlights": [
+            {
+              "title": "Claude Code 續坐王位",
+              "body": "Anthropic 在 7 月 1 日把 Fable 5 重新上線到 Claude Code。我實測跨檔重構它照樣抓到真正病根去改，還會自己把測試重跑一次，SWE-bench Verified 大概 95%，是我量到最高的。"
+            },
+            {
+              "title": "Cursor 佔住編輯這個位子",
+              "body": "Cursor 穩居第二，它那套行內編輯流程就是大家都在模仿的範本。當我想要模型一行一行貼著我寫，這裡的手感最快也最好掌控。"
+            },
+            {
+              "title": "ZCode 是免費的黑馬",
+              "body": "Z.ai 在 7 月 2 日推出 ZCode，免費的 agentic 環境，底層是 GLM-5.2。免費加上一顆有料模型，CP 值很誘人，雖然 IDE 完成度還早期，我還是建議找個週末試玩。"
+            },
+            {
+              "title": "Codex 靠 GPT-5.6 血統",
+              "body": "OpenAI Codex 排第三，靠的是 6 月 26 日開給夥伴的 GPT-5.6 預覽血統。它的 agentic 觸角很強，等正式全面開放，領先幅度應該還會再拉開。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
