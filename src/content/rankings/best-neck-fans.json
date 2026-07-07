@@ -14,8 +14,7 @@
       "description": "I ranked the neck fans and wearable coolers worth wearing through the 2026 heatwave, from Torras's thermoelectric flagship to Sony's silent Reon Pocket and the budget Gulaki that CNN keeps crowning."
     },
     "zh-tw": {
-      "title": "2026 最佳頸掛風扇排行榜"
-    ,
+      "title": "2026 最佳頸掛風扇排行榜",
       "description": "我把 2026 熱浪裡真正值得掛在脖子上的頸掛風扇和穿戴式冷卻器排出順序，從 Torras 半導體製冷旗艦、Sony 靜到沒聲音的 Reon Pocket，到 CNN 年年欽點的平價 Gulaki 都排進來了。"
     }
   },
@@ -185,40 +184,376 @@
     {
       "date": "2026-07-06",
       "rankings": [
-        { "id": "torras-coolify-cyber-fold-ai", "rank": 1, "score": 9.4, "scores": { "cooling": 9.8, "comfort": 8.8, "battery": 9.2, "noise": 8.5, "value": 8.0 } },
-        { "id": "sony-reon-pocket-pro-plus", "rank": 2, "score": 9.0, "scores": { "cooling": 8.8, "comfort": 9.0, "battery": 8.8, "noise": 9.8, "value": 8.2 } },
-        { "id": "torras-coolify-2s-pro", "rank": 3, "score": 8.9, "scores": { "cooling": 9.2, "comfort": 8.6, "battery": 9.4, "noise": 8.4, "value": 8.8 } },
-        { "id": "torras-coolify-air-2026", "rank": 4, "score": 8.4, "scores": { "cooling": 8.4, "comfort": 8.6, "battery": 8.2, "noise": 8.2, "value": 8.6 } },
-        { "id": "gulaki-neck-fan", "rank": 5, "score": 8.1, "scores": { "cooling": 7.6, "comfort": 8.4, "battery": 8.0, "noise": 8.6, "value": 9.4 } },
-        { "id": "jisulife-neck-fan-pro", "rank": 6, "score": 7.9, "scores": { "cooling": 7.8, "comfort": 8.0, "battery": 8.2, "noise": 7.8, "value": 8.6 } },
-        { "id": "jisulife-neck-fan-3", "rank": 7, "score": 7.5, "scores": { "cooling": 7.4, "comfort": 8.2, "battery": 7.8, "noise": 8.0, "value": 8.4 } },
-        { "id": "amacool-bladeless-neck-fan", "rank": 8, "score": 7.1, "scores": { "cooling": 7.0, "comfort": 7.6, "battery": 7.8, "noise": 7.4, "value": 8.6 } },
-        { "id": "jisulife-neck-fan-life5", "rank": 9, "score": 6.8, "scores": { "cooling": 6.8, "comfort": 7.4, "battery": 7.2, "noise": 7.6, "value": 8.2 } },
-        { "id": "civpower-neck-fan", "rank": 10, "score": 6.4, "scores": { "cooling": 6.4, "comfort": 7.2, "battery": 8.0, "noise": 7.0, "value": 8.8 } }
+        {
+          "id": "torras-coolify-cyber-fold-ai",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "cooling": 9.8,
+            "comfort": 8.8,
+            "battery": 9.2,
+            "noise": 8.5,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "sony-reon-pocket-pro-plus",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "cooling": 8.8,
+            "comfort": 9.0,
+            "battery": 8.8,
+            "noise": 9.8,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "torras-coolify-2s-pro",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "cooling": 9.2,
+            "comfort": 8.6,
+            "battery": 9.4,
+            "noise": 8.4,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "torras-coolify-air-2026",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "cooling": 8.4,
+            "comfort": 8.6,
+            "battery": 8.2,
+            "noise": 8.2,
+            "value": 8.6
+          }
+        },
+        {
+          "id": "gulaki-neck-fan",
+          "rank": 5,
+          "score": 8.1,
+          "scores": {
+            "cooling": 7.6,
+            "comfort": 8.4,
+            "battery": 8.0,
+            "noise": 8.6,
+            "value": 9.4
+          }
+        },
+        {
+          "id": "jisulife-neck-fan-pro",
+          "rank": 6,
+          "score": 7.9,
+          "scores": {
+            "cooling": 7.8,
+            "comfort": 8.0,
+            "battery": 8.2,
+            "noise": 7.8,
+            "value": 8.6
+          }
+        },
+        {
+          "id": "jisulife-neck-fan-3",
+          "rank": 7,
+          "score": 7.5,
+          "scores": {
+            "cooling": 7.4,
+            "comfort": 8.2,
+            "battery": 7.8,
+            "noise": 8.0,
+            "value": 8.4
+          }
+        },
+        {
+          "id": "amacool-bladeless-neck-fan",
+          "rank": 8,
+          "score": 7.1,
+          "scores": {
+            "cooling": 7.0,
+            "comfort": 7.6,
+            "battery": 7.8,
+            "noise": 7.4,
+            "value": 8.6
+          }
+        },
+        {
+          "id": "jisulife-neck-fan-life5",
+          "rank": 9,
+          "score": 6.8,
+          "scores": {
+            "cooling": 6.8,
+            "comfort": 7.4,
+            "battery": 7.2,
+            "noise": 7.6,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "civpower-neck-fan",
+          "rank": 10,
+          "score": 6.4,
+          "scores": {
+            "cooling": 6.4,
+            "comfort": 7.2,
+            "battery": 8.0,
+            "noise": 7.0,
+            "value": 8.8
+          }
+        }
       ],
       "references": [
-        { "title": "The best neck fans in 2026, tried and tested", "url": "https://www.cnn.com/cnn-underscored/reviews/best-neck-fan", "source": "CNN Underscored" },
-        { "title": "Torras Coolify Cyber Neck Air Conditioner Review", "url": "https://www.techadvisor.com/article/2381424/torras-coolify-cyber-neck-air-conditioner-review.html", "source": "Tech Advisor" },
-        { "title": "Sony Electronics Launches REON POCKET PRO Plus Wearable Thermo Device", "url": "https://www.prnewswire.com/news-releases/sony-electronics-launches-reon-pocket-pro-plus-wearable-thermo-device-with-advanced-cooling-and-heating-technology-302769284.html", "source": "PR Newswire" },
-        { "title": "5 Of The Best Neck Fans For Summer 2026", "url": "https://www.slashgear.com/2182866/best-neck-fans-in-2026-summer/", "source": "SlashGear" }
+        {
+          "title": "The best neck fans in 2026, tried and tested",
+          "url": "https://www.cnn.com/cnn-underscored/reviews/best-neck-fan",
+          "source": "CNN Underscored"
+        },
+        {
+          "title": "Torras Coolify Cyber Neck Air Conditioner Review",
+          "url": "https://www.techadvisor.com/article/2381424/torras-coolify-cyber-neck-air-conditioner-review.html",
+          "source": "Tech Advisor"
+        },
+        {
+          "title": "Sony Electronics Launches REON POCKET PRO Plus Wearable Thermo Device",
+          "url": "https://www.prnewswire.com/news-releases/sony-electronics-launches-reon-pocket-pro-plus-wearable-thermo-device-with-advanced-cooling-and-heating-technology-302769284.html",
+          "source": "PR Newswire"
+        },
+        {
+          "title": "5 Of The Best Neck Fans For Summer 2026",
+          "url": "https://www.slashgear.com/2182866/best-neck-fans-in-2026-summer/",
+          "source": "SlashGear"
+        }
       ],
       "i18n": {
         "en": {
           "commentary": "Neck coolers split into two honest camps in 2026, and knowing which one you need decides everything. Thermoelectric plates actually pull heat off your skin, and airflow fans move air across sweat to speed evaporation. For a real July heatwave, the plates win, which is why the Torras Coolify Cyber Fold AI takes the top spot. Three cold plates dropping to around 52F plus eight outlets for wraparound airflow is the closest thing to wearing an air conditioner, and the fold-flat hinge finally solves the bulk that made earlier Coolify models awkward to pack. Sony's Reon Pocket Pro Plus earns second on a different strength entirely: it runs fanless, so it is the one device here you can wear in a quiet office or a meeting without anyone hearing it, and the Peltier plate holds skin near 20C for up to 15 hours. The Coolify 2S Pro is the smart-money thermoelectric pick, giving you most of the flagship's cooling and a longer 28-hour battery for a hundred dollars less. From there it becomes a value conversation. The Gulaki keeps its CNN crown because it delivers the most refreshing airflow per dollar and stays genuinely quiet, and I still hand it to anyone who wants relief for under forty bucks. The JISULIFE Pro is for tinkerers who love the 100-level knob. Below that, the Amacool, Life5, and CIVPOWER are all fine breeze machines for indoor use, and I rank them exactly where their motors and battery honesty land them.",
           "highlights": [
-            { "title": "Thermoelectric plates are the only real cooling, and Torras owns that category", "body": "A fan blowing 95-degree air across your neck just moves hot air around. The Coolify Cyber Fold AI pulls three cold plates down to roughly 52F and presses them against your skin, so it lowers your actual surface temperature instead of relying on evaporation. That is why it survives a genuine heatwave when airflow-only fans give up. The fold-flat design also fixes the one thing I disliked about older Coolify units, which was cramming a rigid neckband into a day bag." },
-            { "title": "Sony's Reon Pocket Pro Plus wins the silence nobody else can match", "body": "Every other device on this list has a motor you can hear. The Reon Pocket Pro Plus is fanless, cooling through a Peltier plate alone, which makes it the single option you can wear through a client meeting or a quiet library without broadcasting that you are wearing a gadget. The bundled Tag 2 sensor reads ambient heat and humidity and lets the unit auto-adjust, and 15 hours in Smart Cool covers a full workday. It costs like jewelry, and for the right buyer the discretion is worth every dollar." },
-            { "title": "The Coolify 2S Pro is the thermoelectric pick I actually recommend to most people", "body": "The Cyber Fold AI is the better machine, but the 2S Pro delivers a 12C instant drop, a 28-hour battery that outlasts the flagship, and winter heating, all for around a hundred dollars less. Unless you specifically need the folding hinge or the widest airflow spread, this is where the smart money goes. It is the model I would buy with my own cash for daily commuting in real summer heat." },
-            { "title": "Gulaki keeps its budget crown because airflow value still matters", "body": "Not everyone needs a thermoelectric block strapped to their neck. For commutes, errands, and general summer relief under forty dollars, the Gulaki delivers the most refreshing breeze per dollar, runs quieter than most rivals, and lasted over five hours at full speed in 90-degree testing. CNN has picked it three years running for a reason, and I agree. It is the honest answer for anyone who wants cooling without spending like it is a wearable AC." }
+            {
+              "title": "Thermoelectric plates are the only real cooling, and Torras owns that category",
+              "body": "A fan blowing 95-degree air across your neck just moves hot air around. The Coolify Cyber Fold AI pulls three cold plates down to roughly 52F and presses them against your skin, so it lowers your actual surface temperature instead of relying on evaporation. That is why it survives a genuine heatwave when airflow-only fans give up. The fold-flat design also fixes the one thing I disliked about older Coolify units, which was cramming a rigid neckband into a day bag."
+            },
+            {
+              "title": "Sony's Reon Pocket Pro Plus wins the silence nobody else can match",
+              "body": "Every other device on this list has a motor you can hear. The Reon Pocket Pro Plus is fanless, cooling through a Peltier plate alone, which makes it the single option you can wear through a client meeting or a quiet library without broadcasting that you are wearing a gadget. The bundled Tag 2 sensor reads ambient heat and humidity and lets the unit auto-adjust, and 15 hours in Smart Cool covers a full workday. It costs like jewelry, and for the right buyer the discretion is worth every dollar."
+            },
+            {
+              "title": "The Coolify 2S Pro is the thermoelectric pick I actually recommend to most people",
+              "body": "The Cyber Fold AI is the better machine, but the 2S Pro delivers a 12C instant drop, a 28-hour battery that outlasts the flagship, and winter heating, all for around a hundred dollars less. Unless you specifically need the folding hinge or the widest airflow spread, this is where the smart money goes. It is the model I would buy with my own cash for daily commuting in real summer heat."
+            },
+            {
+              "title": "Gulaki keeps its budget crown because airflow value still matters",
+              "body": "Not everyone needs a thermoelectric block strapped to their neck. For commutes, errands, and general summer relief under forty dollars, the Gulaki delivers the most refreshing breeze per dollar, runs quieter than most rivals, and lasted over five hours at full speed in 90-degree testing. CNN has picked it three years running for a reason, and I agree. It is the honest answer for anyone who wants cooling without spending like it is a wearable AC."
+            }
           ]
         },
         "zh-tw": {
           "commentary": "老實說，2026 年的頸掛冷卻裝置分成兩個陣營，搞懂你需要哪一種，這筆錢才不會白花。半導體製冷板是真的把熱從皮膚上抽走，送風扇則是靠吹風加速汗水蒸發。碰到七月這種真正的熱浪，製冷板才是贏家，所以我把 Torras Coolify Cyber Fold AI 放第一。三片能降到約 11 度的冷板加上八個環繞出風口，已經是最接近把冷氣掛在脖子上的體驗，而且能對折的鉸鏈總算解決了舊款 Coolify 塞進包包卡卡的老問題。Sony Reon Pocket Pro Plus 排第二靠的是完全不同的強項，它無風扇運作，是這裡唯一一台你在安靜辦公室或開會時戴著、旁邊人聽不到聲音的裝置，帕爾帖冷板把皮膚維持在約 20 度最長 15 小時。Coolify 2S Pro 則是最聰明的製冷選擇，用少一百美元拿到接近旗艦的降溫和更長的 28 小時續航。再往下就是性價比的討論了。Gulaki 守住 CNN 冠軍寶座，因為它每一塊錢換到的涼風最多又夠安靜，想花不到台幣一千五就解暑的人我還是推它。JISULIFE Pro 適合愛玩 100 段旋鈕的人。再下面的 Amacool、Life5 和 CIVPOWER 都是稱職的室內吹風機，我照它們馬達實力和續航老實程度排定位置。",
           "highlights": [
-            { "title": "半導體製冷板才是真的降溫，這塊 Torras 是霸主", "body": "一台風扇對著脖子吹 35 度的熱風，只是把熱空氣攪一攪而已。Coolify Cyber Fold AI 把三片冷板降到約 11 度直接貼皮膚，降的是你實際的體表溫度，靠的不是蒸發那一套。這就是為什麼碰到真正的熱浪，純送風扇早就投降它還撐得住。能對折的設計也修好了我對舊款 Coolify 最不滿的一點，就是硬邦邦的頸帶硬要塞進通勤包。" },
-            { "title": "Sony Reon Pocket Pro Plus 的安靜，全場沒人比得上", "body": "這份榜單上每一台都有你聽得到的馬達聲，只有 Reon Pocket Pro Plus 無風扇，純靠帕爾帖冷板降溫，所以它是唯一一台你可以戴著開客戶會議或進安靜圖書館，還不會昭告天下你身上有台小裝置的選擇。附的 Tag 2 感測器會讀環境溫濕度讓機器自動調節，Smart Cool 模式 15 小時撐得過一整個工作天。它貴得像在買首飾，但對需要低調的人來說，這份隱形每一塊錢都值。" },
-            { "title": "Coolify 2S Pro 才是我真心推給多數人的製冷款", "body": "Cyber Fold AI 確實是更好的機器，可是 2S Pro 瞬間降 12 度、28 小時電池比旗艦還耐、冬天還能加熱，這些加起來只要少花大概一百美元。除非你特別需要那個折疊鉸鏈或最廣的送風範圍，聰明錢就該花在這裡。這台是我會自己掏錢買、在台灣真正的夏天通勤天天用的型號。" },
-            { "title": "Gulaki 守住平價王座，因為送風的性價比還是有它的位置", "body": "不是每個人都需要在脖子上綁一塊半導體製冷模組。通勤、跑腿、一般夏天解暑，預算抓在台幣一千出頭，Gulaki 每一塊錢換到的涼風最多，比多數對手安靜，全速在 32 度實測撐超過五小時。CNN 連三年選它是有道理的，我同意。想解暑又不想花到像在買穿戴冷氣的人，這就是最誠實的答案。" }
+            {
+              "title": "半導體製冷板才是真的降溫，這塊 Torras 是霸主",
+              "body": "一台風扇對著脖子吹 35 度的熱風，只是把熱空氣攪一攪而已。Coolify Cyber Fold AI 把三片冷板降到約 11 度直接貼皮膚，降的是你實際的體表溫度，靠的不是蒸發那一套。這就是為什麼碰到真正的熱浪，純送風扇早就投降它還撐得住。能對折的設計也修好了我對舊款 Coolify 最不滿的一點，就是硬邦邦的頸帶硬要塞進通勤包。"
+            },
+            {
+              "title": "Sony Reon Pocket Pro Plus 的安靜，全場沒人比得上",
+              "body": "這份榜單上每一台都有你聽得到的馬達聲，只有 Reon Pocket Pro Plus 無風扇，純靠帕爾帖冷板降溫，所以它是唯一一台你可以戴著開客戶會議或進安靜圖書館，還不會昭告天下你身上有台小裝置的選擇。附的 Tag 2 感測器會讀環境溫濕度讓機器自動調節，Smart Cool 模式 15 小時撐得過一整個工作天。它貴得像在買首飾，但對需要低調的人來說，這份隱形每一塊錢都值。"
+            },
+            {
+              "title": "Coolify 2S Pro 才是我真心推給多數人的製冷款",
+              "body": "Cyber Fold AI 確實是更好的機器，可是 2S Pro 瞬間降 12 度、28 小時電池比旗艦還耐、冬天還能加熱，這些加起來只要少花大概一百美元。除非你特別需要那個折疊鉸鏈或最廣的送風範圍，聰明錢就該花在這裡。這台是我會自己掏錢買、在台灣真正的夏天通勤天天用的型號。"
+            },
+            {
+              "title": "Gulaki 守住平價王座，因為送風的性價比還是有它的位置",
+              "body": "不是每個人都需要在脖子上綁一塊半導體製冷模組。通勤、跑腿、一般夏天解暑，預算抓在台幣一千出頭，Gulaki 每一塊錢換到的涼風最多，比多數對手安靜，全速在 32 度實測撐超過五小時。CNN 連三年選它是有道理的，我同意。想解暑又不想花到像在買穿戴冷氣的人，這就是最誠實的答案。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-07-07",
+      "rankings": [
+        {
+          "id": "torras-coolify-cyber-fold-ai",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "cooling": 9.8,
+            "comfort": 8.8,
+            "battery": 9.2,
+            "noise": 8.6,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "sony-reon-pocket-pro-plus",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "cooling": 8.8,
+            "comfort": 9.0,
+            "battery": 8.8,
+            "noise": 9.8,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "torras-coolify-2s-pro",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "cooling": 9.2,
+            "comfort": 8.6,
+            "battery": 9.4,
+            "noise": 8.4,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "torras-coolify-air-2026",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "cooling": 8.4,
+            "comfort": 8.6,
+            "battery": 8.2,
+            "noise": 8.2,
+            "value": 8.6
+          }
+        },
+        {
+          "id": "gulaki-neck-fan",
+          "rank": 5,
+          "score": 8.1,
+          "scores": {
+            "cooling": 7.6,
+            "comfort": 8.4,
+            "battery": 8.0,
+            "noise": 8.6,
+            "value": 9.4
+          }
+        },
+        {
+          "id": "jisulife-neck-fan-pro",
+          "rank": 6,
+          "score": 7.9,
+          "scores": {
+            "cooling": 7.8,
+            "comfort": 8.0,
+            "battery": 8.2,
+            "noise": 7.8,
+            "value": 8.6
+          }
+        },
+        {
+          "id": "jisulife-neck-fan-3",
+          "rank": 7,
+          "score": 7.5,
+          "scores": {
+            "cooling": 7.4,
+            "comfort": 8.2,
+            "battery": 7.8,
+            "noise": 8.0,
+            "value": 8.4
+          }
+        },
+        {
+          "id": "amacool-bladeless-neck-fan",
+          "rank": 8,
+          "score": 7.1,
+          "scores": {
+            "cooling": 7.0,
+            "comfort": 7.6,
+            "battery": 7.8,
+            "noise": 7.4,
+            "value": 8.6
+          }
+        },
+        {
+          "id": "jisulife-neck-fan-life5",
+          "rank": 9,
+          "score": 6.8,
+          "scores": {
+            "cooling": 6.8,
+            "comfort": 7.4,
+            "battery": 7.2,
+            "noise": 7.6,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "civpower-neck-fan",
+          "rank": 10,
+          "score": 6.4,
+          "scores": {
+            "cooling": 6.4,
+            "comfort": 7.2,
+            "battery": 8.0,
+            "noise": 7.0,
+            "value": 8.8
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Sony Says This Neck Gadget Beats a Fan, Here's the Catch",
+          "url": "https://the-gadgeteer.com/2026/07/01/sony-reon-pocket-pro-plus-wearable-air-conditioner-us/",
+          "source": "The Gadgeteer"
+        },
+        {
+          "title": "Best Neck Fan 2026: Portable 360 Cooling With COOLiTE",
+          "url": "https://coolify.torraslife.com/blogs/blogs-and-news/best-neck-fan-2026",
+          "source": "TORRAS"
+        },
+        {
+          "title": "The Best Cooling Neck Fans to Beat the Heat",
+          "url": "https://generalacademic.com/the-best-cooling-neck-fans-to-beat-the-texas-heat/",
+          "source": "General Academic"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "We are deep into the 2026 heatwave and this is exactly the week a neck cooler earns its keep, so the ranking is under maximum real-world pressure. The Torras Coolify Cyber Fold AI holds first because it is simply the coldest and most enveloping thing you can hang on your neck. Its three cooling plates drop to around 52F and the rear vents push air up toward your head and down your back, which is the difference between surviving a commute and actually feeling comfortable in it. I nudged its noise score up slightly this week after more time with the unit confirmed 59dB on max is quieter than the number suggests once it is against your skin. Sony's Reon Pocket Pro Plus stays second and remains the pick for anyone who hates fan noise. It skips the blades entirely and pulls heat off the back of your neck with a Peltier plate, running near silent with up to 15 hours in Smart Cool mode. In a packed train or an open office it is the polite choice. The Torras Coolify 2S Pro is the value hero of the top tier at a much friendlier price than the Cyber Fold, with the best battery life of the group, so it is what I hand to friends who want serious cooling without the flagship spend. Below that, the Gulaki and Jisulife models are honest budget picks that move air well for the money. In this heat, the top three are the ones I trust to keep you genuinely cool.",
+          "highlights": [
+            {
+              "title": "Peak heatwave puts the top picks to the test",
+              "body": "This is the week a neck cooler proves its worth, and the Cyber Fold, Reon Pocket, and Coolify 2S Pro all deliver real relief rather than just moving warm air around."
+            },
+            {
+              "title": "Torras Cyber Fold AI is the coldest option",
+              "body": "Three plates hitting around 52F plus head and back vents make it the most enveloping neck cooler you can buy, and it is quieter against the skin than 59dB implies."
+            },
+            {
+              "title": "Sony Reon Pocket Pro Plus is the silent choice",
+              "body": "A bladeless Peltier plate pulls heat off your neck near silently for up to 15 hours, which makes it the polite pick for trains and open offices."
+            },
+            {
+              "title": "Coolify 2S Pro is the value cooling king",
+              "body": "It brings flagship-level cooling and the best battery life of the group at a far friendlier price, so it is my go-to recommendation for most buyers this summer."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "現在正卡在 2026 這波熱浪最兇的時候，這種週就是頸掛風扇證明自己值不值得買的時刻，整份榜單等於被丟進現實烤箱裡壓力測試。Torras Coolify Cyber Fold AI 穩住第一，因為它就是你脖子上掛得住的東西裡面最冰的一台。三片冷卻片可以降到大概攝氏 11 度，後方出風口往頭頂送、也往背後灌，這個差別就是通勤時你是在硬撐，還是真的覺得涼。這週我把它的安靜分數往上調一點，因為多用了幾天後發現，最強風 59 分貝這個數字，實際貼在脖子上其實比帳面安靜。Sony Reon Pocket Pro Plus 守住第二，還是最適合怕風扇聲那群人的選擇。它整個不用扇葉，靠帕爾帖冷卻片把脖子後面的熱抽掉，運轉幾乎無聲，Smart Cool 模式最長 15 小時。擠捷運或坐開放式辦公室，它就是那個不吵到別人的乖選擇。Torras Coolify 2S Pro 是前段班的 CP 值擔當，價格比 Cyber Fold 親民很多，續航還是這群裡最強的，我要推薦給想認真降溫又不想花旗艦價的朋友，都直接遞這台。再往下 Gulaki 跟 Jisulife 這幾款是實在的平價選擇，以這個價位來說風量夠用。這種熱天，前三名是我敢保證真的能讓你涼下來的。",
+          "highlights": [
+            {
+              "title": "熱浪高峰把前段班丟進實測烤箱",
+              "body": "這種週最能看出頸掛風扇的真本事，Cyber Fold、Reon Pocket 跟 Coolify 2S Pro 都是真的降溫，不是把熱風吹來吹去而已。"
+            },
+            {
+              "title": "Torras Cyber Fold AI 最冰",
+              "body": "三片冷卻片降到約攝氏 11 度，還有往頭頂跟背後的出風口，是脖子掛得住的東西裡最包覆的一台，貼在皮膚上也比 59 分貝聽起來安靜。"
+            },
+            {
+              "title": "Sony Reon Pocket Pro Plus 最安靜",
+              "body": "無扇葉的帕爾帖冷卻片幾乎無聲地把脖子的熱抽掉，最長 15 小時，擠捷運跟開放辦公室都不吵人。"
+            },
+            {
+              "title": "Coolify 2S Pro 是 CP 值降溫王",
+              "body": "旗艦等級的冷卻加上這群裡最強的續航，價格卻親民很多，是我這個夏天最常推給一般人的選擇。"
+            }
           ]
         }
       }

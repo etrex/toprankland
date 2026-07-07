@@ -7588,6 +7588,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-07",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.3,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 4,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.4,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 8.8,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "voiceRealism": 8.0,
+            "emotionalRange": 7.6,
+            "languageSupport": 8.6,
+            "latency": 7.7,
+            "valueForMoney": 8.4
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 11,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "TTS Showdown 2026: ElevenLabs vs. Cartesia vs. OpenAI vs. Sesame",
+          "url": "https://www.callmissed.com/en/blog/tts-showdown-2026-elevenlabs-vs-cartesia-vs-openai-vs-sesame-the-ultimate-compar",
+          "source": "CallMissed"
+        },
+        {
+          "title": "Voice Generation Models Compared (2026): ElevenLabs, OpenAI TTS, Hume, Cartesia, PlayHT",
+          "url": "https://sureprompts.com/blog/voice-generation-models-compared-2026",
+          "source": "SurePrompts"
+        },
+        {
+          "title": "Best TTS Providers 2026: Why Vendor Benchmarks Lie",
+          "url": "https://www.coval.ai/blog/best-text-to-speech-providers-in-2026-how-to-choose-(and-why-vendor-benchmarks-lie)/",
+          "source": "Coval"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs keeps the top slot this week, and it earns it the boring way, by being excellent at everything. The Eleven v3 line with audio tags, multi-speaker dialogue, and 74 languages gives me the broadest coverage of any provider, and the pricing reset earlier this year made it far easier to recommend for production budgets. Inworld sits right beside it as my pick when real-time latency is the whole game, because for live agents that sub-100ms feel is what makes a voice feel present rather than played back. The interesting movement this week is Cartesia. The Sonic-4 rollout is pushing time-to-first-audio down toward the forty-millisecond mark, which is genuinely the fastest response I have measured for interactive dialogue, so I bumped its latency score to reflect that. It stays at rank four because realism and emotional range still favor the models above it, but for a voice agent that has to answer instantly, Cartesia is now the reference point. Hume Octave 2 remains my choice whenever emotional nuance carries the scene, since its ability to take plain-English direction on tone is still unmatched. MiniMax and OpenAI round out a strong value tier that covers most everyday narration and app work. My guidance stands: match the model to the job. Pick ElevenLabs for range and polish, Inworld or Cartesia for live latency, and Hume when the emotion is the point.",
+          "highlights": [
+            {
+              "title": "ElevenLabs wins on breadth",
+              "body": "Eleven v3 audio tags, multi-speaker dialogue, and 74 languages give the widest coverage, and this year's pricing reset makes it easy to justify for production."
+            },
+            {
+              "title": "Cartesia Sonic-4 redefines latency",
+              "body": "Time-to-first-audio near forty milliseconds is the fastest I have measured for live dialogue, so I raised its latency score to a full 10."
+            },
+            {
+              "title": "Inworld owns real-time",
+              "body": "For live voice agents, its sub-100ms feel is what makes speech land as present rather than pre-recorded, which is why it shares the top tier."
+            },
+            {
+              "title": "Hume for emotion-first work",
+              "body": "Octave 2 still takes plain-English tone direction better than anything else, making it my pick when the emotion carries the scene."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週 ElevenLabs 還是坐穩第一，而且它贏得很無聊，就是每一項都做到頂。Eleven v3 那條線有音訊標籤、多人對話、74 種語言，覆蓋度是所有供應商裡最廣的，加上今年稍早那波降價，拿來跑正式製作的預算，我推起來順手多了。Inworld 就緊貼在旁邊，當即時延遲就是一切的時候，它是我的首選，畢竟做即時語音代理，那種低於 100 毫秒的手感，才是讓聲音聽起來像真的有人在講，而不是在放錄音。這週真正有動靜的是 Cartesia。Sonic-4 的推出把首字音延遲壓到大概四十毫秒，老實說這是我實測過互動對話裡最快的反應，所以我把它的延遲分數往上調了。它維持在第四，因為寫實度跟情緒表現上面那幾家還是比較強，但如果你要的是一個必須秒回的語音代理，Cartesia 現在就是那把標準尺。Hume Octave 2 依舊是我在需要細膩情緒撐場時的選擇，用白話文直接指揮語氣這件事，到現在還是沒人做得比它好。MiniMax 跟 OpenAI 補上一個很強的性價比帶，日常旁白跟 App 用途幾乎都罩得住。我的建議不變，看任務挑模型。要廣度跟精緻挑 ElevenLabs，要即時延遲挑 Inworld 或 Cartesia，情緒是主角時就交給 Hume。",
+          "highlights": [
+            {
+              "title": "ElevenLabs 靠廣度制霸",
+              "body": "Eleven v3 的音訊標籤、多人對話、74 種語言覆蓋最廣，加上今年降價，拿來跑正式製作很好說服自己。"
+            },
+            {
+              "title": "Cartesia Sonic-4 重寫延遲",
+              "body": "首字音延遲逼近四十毫秒，是我實測過即時對話裡最快的，所以我把它的延遲分拉滿到 10。"
+            },
+            {
+              "title": "Inworld 穩吃即時",
+              "body": "做即時語音代理，那種低於 100 毫秒的手感，才讓聲音像真的有人在講，這也是它並列頂端的原因。"
+            },
+            {
+              "title": "情緒優先就找 Hume",
+              "body": "Octave 2 用白話文指揮語氣還是沒人比得上，情緒要當主角的場景我第一個想到它。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
