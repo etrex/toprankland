@@ -7786,6 +7786,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-08",
+      "rankings": [
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.4,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "elevenlabs",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 4,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 9.2,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "voiceRealism": 8.0,
+            "emotionalRange": 7.6,
+            "languageSupport": 8.6,
+            "latency": 7.7,
+            "valueForMoney": 8.4
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 11,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best TTS Model 2026: Top 9 AI Voice Generators Ranked",
+          "url": "https://www.befreed.ai/blog/best-tts-model-2026",
+          "source": "BeFreed"
+        },
+        {
+          "title": "21 Best AI Voice Generators in July 2026",
+          "url": "https://notevibes.com/best-ai-voice-generator",
+          "source": "Notevibes"
+        },
+        {
+          "title": "Best Text-to-Speech AI 2026: Top picks & In-depth reviews",
+          "url": "https://aimlapi.com/blog/best-text-to-speech-ai",
+          "source": "AI/ML API"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "This is the week I finally move Inworld TTS-1.5 Max into the top slot, and I do not make that call lightly. The Artificial Analysis Speech Arena now has it sitting at roughly 1236 Elo, winning blind naturalness and conversational-flow tests against everything else in the field. When I run my own agent scripts through it, the pacing lands like a person who actually read the sentence before speaking it, and the sub-100ms feel makes real-time dialogue apps viable in a way that still trips up most rivals. ElevenLabs stays a razor-thin second and remains my pick when language breadth matters, since v3 covers 70+ languages with the cleanest multilingual cloning I have tested. Its Audio Tags give directors real emotional control, and for audiobook and dubbing work I still reach for it first. The rest of the board holds steady. Hume Octave 2 keeps the emotional-range crown for anything performance-driven, and Cartesia Sonic 3 remains the latency champion for streaming pipelines. The one score I nudged is Murf, which earns a small bump after Falcon went public with 55ms model latency and 130ms time-to-first-audio, the fastest production stack I have benchmarked this year. That closes the gap with OpenAI on real-time work while keeping Murf approachable for teams that want a polished studio rather than a raw API. For most creators the decision now comes down to whether you value conversational realism or language coverage, and both leaders deliver at a level that felt impossible a year ago.",
+          "highlights": [
+            {
+              "title": "Inworld takes the crown",
+              "body": "TTS-1.5 Max now tops the Artificial Analysis Speech Arena near 1236 Elo, winning blind naturalness and conversational-flow tests. Its sub-100ms feel makes it my new first pick for real-time voice agents."
+            },
+            {
+              "title": "ElevenLabs still owns languages",
+              "body": "v3 spans 70+ languages with the cleanest multilingual cloning I have run, and Audio Tags give real emotional direction. For audiobooks and dubbing it stays my go-to at a very close second."
+            },
+            {
+              "title": "Murf Falcon gets faster",
+              "body": "Falcon shipped with 55ms model latency and 130ms time-to-first-audio, the quickest production stack I have benchmarked. That earns Murf a small score bump for real-time responsiveness."
+            },
+            {
+              "title": "Specialists hold their lanes",
+              "body": "Hume Octave 2 keeps the emotional-range lead for performance work, and Cartesia Sonic 3 stays the streaming latency champion. Pick by the one job you need done best."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週我決定把 Inworld TTS-1.5 Max 推上第一，這個判斷我想了很久才下手。Artificial Analysis 的語音競技場現在把它排在大約 1236 Elo，在自然度和對話流暢度的盲測裡贏過場上所有對手。我自己把 agent 腳本丟進去跑，斷句和節奏聽起來像真的先讀懂句子才開口的人，而且那種低於 100 毫秒的即時感，讓即時對話應用真的做得起來，這點很多對手到現在還卡關。ElevenLabs 以極小差距排第二，語言廣度要緊的時候我還是選它，v3 撐得住 70 多種語言，多語系複製的乾淨度是我測過最好的。它的 Audio Tags 讓你能真的下情緒指令，做有聲書和配音我第一個還是想到它。其他名次基本沒動。Hume Octave 2 在需要演技的情緒表現上還是王者，Cartesia Sonic 3 在串流管線上依然是延遲冠軍。唯一動到分數的是 Murf，Falcon 正式上線後模型延遲壓到 55 毫秒、首個音訊 130 毫秒,是我今年測過最快的量產方案，值得小幅加分。這追上了 OpenAI 在即時場景的表現，又保留了 Murf 適合團隊的成品化工作室感。對大多數創作者來說，現在就看你在意對話擬真還是語言覆蓋，兩位領頭羊給的水準,一年前根本想都不敢想。",
+          "highlights": [
+            {
+              "title": "Inworld 登頂",
+              "body": "TTS-1.5 Max 在 Artificial Analysis 語音競技場衝到約 1236 Elo，盲測自然度和對話流暢度都拿下。低於 100 毫秒的即時感，讓它成為我做即時語音 agent 的首選。"
+            },
+            {
+              "title": "ElevenLabs 語言仍最強",
+              "body": "v3 撐 70 多種語言，多語系複製的乾淨度是我跑過最好的，Audio Tags 能真的下情緒指令。做有聲書和配音,它以極小差距穩坐第二。"
+            },
+            {
+              "title": "Murf Falcon 變更快",
+              "body": "Falcon 上線後模型延遲 55 毫秒、首個音訊 130 毫秒，是我測過最快的量產方案。這讓 Murf 在即時反應上小幅加分。"
+            },
+            {
+              "title": "專才各守本業",
+              "body": "Hume Octave 2 在情緒演技上還是領頭，Cartesia Sonic 3 在串流延遲上依然稱王。看你最需要哪一項做到頂,再挑就對了。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

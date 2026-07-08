@@ -7731,6 +7731,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-08",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.7,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.0,
+            "audioVideoSync": 9.4,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.7,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI for Video Generation in 2026 - Ranked by Blind Human Votes",
+          "url": "https://llm-stats.com/leaderboards/best-ai-for-video-generation",
+          "source": "LLM-Stats"
+        },
+        {
+          "title": "Best AI Video Generator 2026: Sora, Runway, Veo, Pika and Kling Compared",
+          "url": "https://aiviewer.ai/guides/best-ai-video-generator-2026-sora-runway-veo-pika-and-kling-compared/",
+          "source": "AIViewer.ai"
+        },
+        {
+          "title": "6 Best AI Video Generators in 2026 (Veo, Runway, Kling+)",
+          "url": "https://chatcut.io/blog/best-ai-video-generator-2026",
+          "source": "ChatCut"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Kling 3.0 stays my pick this week, and the arena data keeps backing that up. The latest blind-vote leaderboard puts Kling on top with an arena score around 2010, ahead of Seedance 2.0 and Happy Horse 1.0, which tells me the crowd values the same thing I do: it turns out consistently usable footage at roughly $0.11 to $0.14 per second, so I can iterate a dozen times and still keep the bill sane. That price-to-output balance is why it earns the value crown outright. Seedance 2.0 holds second because its multi-shot native generation with synchronized audio in one pass genuinely saves me a round of editing. I feed it a two-scene prompt, get footsteps and ambient sound baked in, and the story reads clean. Veo 3.1 sits at third, and if I only cared about raw fidelity it would be first: default output that looks like high-end stock footage, especially on hair and fabric physics. I keep it for hero shots where a client will pixel-peep. Runway Gen-4.5 remains the pro control tool, with motion brush and reference-driven character consistency that nobody matches when I need a specific camera move. Worth noting the wider market: OpenAI confirmed the Sora app shut down in April and its API sunsets in September, so I have stopped recommending it for new pipelines. A year ago this was a three-horse race. Now a dozen frontier models ship native audio as table stakes, and the gap between a ten-dollar prosumer plan and an enterprise API keeps shrinking. Good news for anyone starting today.",
+          "highlights": [
+            {
+              "title": "Kling still owns value",
+              "body": "At roughly $0.11 to $0.14 per second, Kling 3.0 lets me iterate freely and still keeps output usable. Blind-vote leaderboards rank it first this week, which matches my own hit rate."
+            },
+            {
+              "title": "Seedance saves an editing pass",
+              "body": "Multi-shot native generation with synchronized footsteps and ambient audio in a single pass means my two-scene prompts come back ready to cut. That is why it holds second over higher-fidelity rivals."
+            },
+            {
+              "title": "Veo 3.1 for hero shots",
+              "body": "Its default output reads like premium stock footage, especially hair and fabric physics. I reach for it when a client is going to pixel-peep a single key frame."
+            },
+            {
+              "title": "Sora is exiting the field",
+              "body": "OpenAI confirmed the Sora app closed in April and the API sunsets September 24. I have moved new projects off it entirely, so it stays off this list."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週我的首選還是 Kling 3.0，而且盲測排行榜一直在幫我背書。最新的盲投榜單把 Kling 排在第一，arena 分數大約 2010，領先 Seedance 2.0 跟 Happy Horse 1.0。這代表大家看重的點跟我一樣：它每秒大約台幣三到四塊就能穩定產出堪用的畫面，我可以來回改十幾次帳單還是很甜，所以價格對產出的平衡讓它直接拿下 CP 值王座。Seedance 2.0 穩坐第二，因為它一次生成就能做多鏡頭，還把音效同步烤進去。我丟一個兩場景的 prompt 進去，腳步聲跟環境音都幫我配好，故事線讀起來很順，等於幫我省掉一輪剪接。Veo 3.1 排第三，老實說如果我只看畫質它就是第一，預設輸出直逼高階素材庫等級，頭髮跟布料的物理特別扎實，我都拿它來做客戶會放大檢查的主視覺鏡頭。Runway Gen-4.5 還是專業控制的工具王，motion brush 跟角色參考一致性在我需要特定運鏡時真的沒人能比。順帶提一下大盤：OpenAI 已經確認 Sora app 四月關站，API 九月也要收掉，所以我不再建議新專案用它。一年前這還是三強爭霸，現在十幾個前沿模型都把原生音效當標配，十美元方案跟企業級 API 的差距也越來越小，對現在才要入門的人來說是好消息。",
+          "highlights": [
+            {
+              "title": "Kling 依然是 CP 值王",
+              "body": "每秒約台幣三到四塊，我可以放心一直改，畫面還是堪用。這週盲投榜單排它第一，剛好跟我自己的命中率對得上。"
+            },
+            {
+              "title": "Seedance 幫你省一輪剪接",
+              "body": "一次生成就搞定多鏡頭，腳步聲跟環境音都同步烤進去。我的兩場景 prompt 回來就能直接剪，這就是它壓過畫質更高對手守住第二的原因。"
+            },
+            {
+              "title": "Veo 3.1 專攻主視覺",
+              "body": "預設輸出直逼高階素材庫，頭髮跟布料物理特別扎實。客戶要放大檢查那一張關鍵畫面時，我就找它。"
+            },
+            {
+              "title": "Sora 正在退場",
+              "body": "OpenAI 確認 Sora app 四月已關，API 九月二十四號收掉。我已經把新專案完全搬離，所以它不進這張榜。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

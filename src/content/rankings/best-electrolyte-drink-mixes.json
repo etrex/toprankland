@@ -185,41 +185,399 @@
     {
       "date": "2026-07-07",
       "rankings": [
-        { "id": "lmnt-recharge", "rank": 1, "score": 9.4, "scores": { "electrolytes": 9.9, "absorption": 9.2, "taste": 9.0, "cleanliness": 9.6, "testing": 9.0, "value": 8.2 } },
-        { "id": "liquid-iv-hydration-multiplier", "rank": 2, "score": 9.0, "scores": { "electrolytes": 8.4, "absorption": 9.6, "taste": 9.2, "cleanliness": 7.6, "testing": 8.2, "value": 8.6 } },
-        { "id": "sports-research-hydrate", "rank": 3, "score": 8.8, "scores": { "electrolytes": 8.5, "absorption": 8.6, "taste": 8.6, "cleanliness": 9.0, "testing": 9.4, "value": 9.2 } },
-        { "id": "nuun-sport", "rank": 4, "score": 8.7, "scores": { "electrolytes": 7.8, "absorption": 8.4, "taste": 8.8, "cleanliness": 9.2, "testing": 8.6, "value": 9.0 } },
-        { "id": "dripdrop-ors", "rank": 5, "score": 8.6, "scores": { "electrolytes": 8.6, "absorption": 9.4, "taste": 8.4, "cleanliness": 8.0, "testing": 8.0, "value": 8.4 } },
-        { "id": "skratch-labs-sport", "rank": 6, "score": 8.4, "scores": { "electrolytes": 8.2, "absorption": 8.8, "taste": 9.0, "cleanliness": 8.2, "testing": 8.4, "value": 8.0 } },
-        { "id": "ultima-replenisher", "rank": 7, "score": 8.2, "scores": { "electrolytes": 6.8, "absorption": 7.8, "taste": 8.4, "cleanliness": 9.4, "testing": 7.8, "value": 9.0 } },
-        { "id": "relyte-hydration", "rank": 8, "score": 8.1, "scores": { "electrolytes": 9.2, "absorption": 8.2, "taste": 8.0, "cleanliness": 8.8, "testing": 7.4, "value": 8.6 } },
-        { "id": "cure-hydration", "rank": 9, "score": 7.9, "scores": { "electrolytes": 7.4, "absorption": 8.6, "taste": 8.2, "cleanliness": 9.6, "testing": 7.6, "value": 7.4 } },
-        { "id": "gnarly-hydrate", "rank": 10, "score": 7.7, "scores": { "electrolytes": 7.2, "absorption": 8.0, "taste": 8.0, "cleanliness": 8.6, "testing": 8.8, "value": 7.2 } }
+        {
+          "id": "lmnt-recharge",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "electrolytes": 9.9,
+            "absorption": 9.2,
+            "taste": 9.0,
+            "cleanliness": 9.6,
+            "testing": 9.0,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "liquid-iv-hydration-multiplier",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "electrolytes": 8.4,
+            "absorption": 9.6,
+            "taste": 9.2,
+            "cleanliness": 7.6,
+            "testing": 8.2,
+            "value": 8.6
+          }
+        },
+        {
+          "id": "sports-research-hydrate",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "electrolytes": 8.5,
+            "absorption": 8.6,
+            "taste": 8.6,
+            "cleanliness": 9.0,
+            "testing": 9.4,
+            "value": 9.2
+          }
+        },
+        {
+          "id": "nuun-sport",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "electrolytes": 7.8,
+            "absorption": 8.4,
+            "taste": 8.8,
+            "cleanliness": 9.2,
+            "testing": 8.6,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "dripdrop-ors",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "electrolytes": 8.6,
+            "absorption": 9.4,
+            "taste": 8.4,
+            "cleanliness": 8.0,
+            "testing": 8.0,
+            "value": 8.4
+          }
+        },
+        {
+          "id": "skratch-labs-sport",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "electrolytes": 8.2,
+            "absorption": 8.8,
+            "taste": 9.0,
+            "cleanliness": 8.2,
+            "testing": 8.4,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "ultima-replenisher",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "electrolytes": 6.8,
+            "absorption": 7.8,
+            "taste": 8.4,
+            "cleanliness": 9.4,
+            "testing": 7.8,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "relyte-hydration",
+          "rank": 8,
+          "score": 8.1,
+          "scores": {
+            "electrolytes": 9.2,
+            "absorption": 8.2,
+            "taste": 8.0,
+            "cleanliness": 8.8,
+            "testing": 7.4,
+            "value": 8.6
+          }
+        },
+        {
+          "id": "cure-hydration",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "electrolytes": 7.4,
+            "absorption": 8.6,
+            "taste": 8.2,
+            "cleanliness": 9.6,
+            "testing": 7.6,
+            "value": 7.4
+          }
+        },
+        {
+          "id": "gnarly-hydrate",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "electrolytes": 7.2,
+            "absorption": 8.0,
+            "taste": 8.0,
+            "cleanliness": 8.6,
+            "testing": 8.8,
+            "value": 7.2
+          }
+        }
       ],
       "references": [
-        { "title": "7 Best Electrolyte Powder of 2026 (Tested and Reviewed)", "url": "https://www.treelinereview.com/gearreviews/best-electrolyte-powder", "source": "Treeline Review" },
-        { "title": "Best Electrolyte Powders 2026", "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-electrolyte-powders/", "source": "Forbes Vetted" },
-        { "title": "We tested 20 electrolyte powders — these 8 are the best", "url": "https://health.yahoo.com/wellness/nutrition/vitamins-supplements/article/best-electrolyte-powder-182720079.html", "source": "Yahoo Health" }
+        {
+          "title": "7 Best Electrolyte Powder of 2026 (Tested and Reviewed)",
+          "url": "https://www.treelinereview.com/gearreviews/best-electrolyte-powder",
+          "source": "Treeline Review"
+        },
+        {
+          "title": "Best Electrolyte Powders 2026",
+          "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-electrolyte-powders/",
+          "source": "Forbes Vetted"
+        },
+        {
+          "title": "We tested 20 electrolyte powders — these 8 are the best",
+          "url": "https://health.yahoo.com/wellness/nutrition/vitamins-supplements/article/best-electrolyte-powder-182720079.html",
+          "source": "Yahoo Health"
+        }
       ],
       "i18n": {
         "en": {
           "commentary": "This is the category I lean on hardest in July, and after a summer of hauling sticks to the gym, on trails and into a car that hits 40C by noon, my order is settled. LMNT takes the top spot because its 1,000mg sodium per stick is the number that actually matters when you are sweating through a shirt, and the zero-sugar, dye-free formula means I can drink four a day without a gut ache or a crash. It costs more per serving, and it earns it. Liquid I.V. lands second as the smartest everyday pick: its WHO-based oral rehydration ratio genuinely pulls water into you faster than plain water, and the new allulose sugar-free version finally fixes my one complaint. Sports Research Hydrate is the value story of 2026, a clean 2:1 sodium-to-potassium formula that carries Informed Sport testing at a price the boutique brands cannot match. Nuun Sport stays essential for portability, a tablet you drop in any bottle with only 1g of sugar. The bottom of this list is still strong. My honest advice: match the mix to the sweat. Heavy heat and long efforts want LMNT or Re-Lyte, daily desk hydration wants Ultima or Cure.",
           "highlights": [
-            { "title": "LMNT wins because 1,000mg of sodium is the whole point", "body": "When you sweat hard in real heat, sodium is the electrolyte you lose most and need back fastest. LMNT delivers 1,000mg per stick, more than triple what most competitors offer, with zero sugar and no artificial dyes to get in the way. I have run through 40C afternoons on LMNT and stayed sharp, where lighter mixes left me with a headache by hour three. It is the mix I hand to anyone doing physical work in summer." },
-            { "title": "Liquid I.V. is the everyday hydrator with the best science", "body": "Liquid I.V. is built on the World Health Organization oral rehydration framework, using sodium and glucose co-transport to move water across the gut wall faster than water alone. That mechanism is real and clinically grounded. The new allulose sugar-free line keeps the absorption benefit while cutting the 11g of sugar that used to hold it back, which is why it jumps to my number two for daily drinking." },
-            { "title": "Sports Research Hydrate is the value champion of 2026", "body": "A clean 400mg sodium to 200mg potassium ratio, sugar-free, loaded with 65 trace minerals and coconut water, and Informed Sport certified for banned substances. At $22.95 for 16 packets it undercuts every boutique competitor while carrying the testing credential athletes actually need. If you want most of what LMNT offers for less money, this is where I would start." },
-            { "title": "Match the sodium to your sweat, not the hype", "body": "The single biggest mistake I see is people buying maximum-sodium mixes for a desk day, then feeling bloated and salty. If you sweat heavily or train long in heat, reach for LMNT or Re-Lyte. If you want gentle daily minerals at your desk, Ultima and Cure deliver potassium and magnesium with almost no sodium load. The right pick depends entirely on how much salt you are actually losing." },
-            { "title": "Subscriptions are where the real value lives", "body": "Every top brand here rewards a subscription, and the discount is large enough to change the ranking on cost. LMNT drops from $1.50 to under $1.00 per stick on its bundle plans, and Sports Research and Ultima both cut meaningfully with recurring delivery. If you drink electrolytes daily through summer, set up a subscription and pause it in winter. That single move makes the premium picks genuinely affordable." }
+            {
+              "title": "LMNT wins because 1,000mg of sodium is the whole point",
+              "body": "When you sweat hard in real heat, sodium is the electrolyte you lose most and need back fastest. LMNT delivers 1,000mg per stick, more than triple what most competitors offer, with zero sugar and no artificial dyes to get in the way. I have run through 40C afternoons on LMNT and stayed sharp, where lighter mixes left me with a headache by hour three. It is the mix I hand to anyone doing physical work in summer."
+            },
+            {
+              "title": "Liquid I.V. is the everyday hydrator with the best science",
+              "body": "Liquid I.V. is built on the World Health Organization oral rehydration framework, using sodium and glucose co-transport to move water across the gut wall faster than water alone. That mechanism is real and clinically grounded. The new allulose sugar-free line keeps the absorption benefit while cutting the 11g of sugar that used to hold it back, which is why it jumps to my number two for daily drinking."
+            },
+            {
+              "title": "Sports Research Hydrate is the value champion of 2026",
+              "body": "A clean 400mg sodium to 200mg potassium ratio, sugar-free, loaded with 65 trace minerals and coconut water, and Informed Sport certified for banned substances. At $22.95 for 16 packets it undercuts every boutique competitor while carrying the testing credential athletes actually need. If you want most of what LMNT offers for less money, this is where I would start."
+            },
+            {
+              "title": "Match the sodium to your sweat, not the hype",
+              "body": "The single biggest mistake I see is people buying maximum-sodium mixes for a desk day, then feeling bloated and salty. If you sweat heavily or train long in heat, reach for LMNT or Re-Lyte. If you want gentle daily minerals at your desk, Ultima and Cure deliver potassium and magnesium with almost no sodium load. The right pick depends entirely on how much salt you are actually losing."
+            },
+            {
+              "title": "Subscriptions are where the real value lives",
+              "body": "Every top brand here rewards a subscription, and the discount is large enough to change the ranking on cost. LMNT drops from $1.50 to under $1.00 per stick on its bundle plans, and Sports Research and Ultima both cut meaningfully with recurring delivery. If you drink electrolytes daily through summer, set up a subscription and pause it in winter. That single move makes the premium picks genuinely affordable."
+            }
           ]
         },
         "zh-tw": {
           "commentary": "老實說，這個品類是我七月最依賴的東西。整個夏天我把補水粉帶去健身房、帶上步道、丟進中午就飆到快 40 度的車裡，喝到現在名次我已經很篤定。LMNT 穩坐第一，因為它每包 1,000 毫克鈉，這個數字在你整件衣服都濕透的時候才是真的有用，而且零糖無色素，我一天喝四包也不會脹氣或血糖崩。每份是貴一點，但它撐得起這個價。Liquid I.V. 排第二，是最聰明的日常選擇，它用 WHO 口服補液比例，真的把水拉進身體的速度比白開水快，新的阿洛酮糖無糖版更是把我唯一的抱怨補起來了。Sports Research Hydrate 是 2026 的性價比故事，乾淨的 2:1 鈉鉀比還過了 Informed Sport 檢驗，價格卻壓在精品品牌打不到的位置。Nuun Sport 靠隨身性穩住第四，一顆發泡錠丟進任何水瓶只有 1 克糖。講白了我的建議就一句，看你流多少汗選粉。大熱天跟長時間運動就上 LMNT 或 Re-Lyte，坐辦公室日常補水挑 Ultima 或 Cure 就夠。",
           "highlights": [
-            { "title": "LMNT 贏在 1,000 毫克鈉，這才是重點", "body": "真的在熱天狂流汗時，鈉是你流失最多、最需要補回來的電解質。LMNT 每包給你 1,000 毫克，是多數對手的三倍以上，還零糖無人工色素，喝起來沒有雜味。我在快 40 度的午後靠 LMNT 撐過整場，腦袋還是清楚的，換成鈉含量低的粉，第三小時就開始頭痛。夏天要做粗重工作或戶外活動，我就是遞這款給人。" },
-            { "title": "Liquid I.V. 是科學最扎實的日常補水款", "body": "Liquid I.V. 建立在世界衛生組織的口服補液框架上，用鈉與葡萄糖的協同運輸把水推過腸壁，吸收速度贏過純水。這個機制是有臨床根據的真材實料。新的阿洛酮糖無糖版保留了吸收優勢，又砍掉過去 11 克糖那個扣分點，所以它在我心中日常喝的排名直接跳到第二。" },
-            { "title": "Sports Research Hydrate 是 2026 的性價比冠軍", "body": "乾淨的 400 毫克鈉配 200 毫克鉀比例，無糖，塞了 65 種微量礦物質跟椰子水，還通過 Informed Sport 禁藥檢驗。16 包 22.95 美元的價格打趴每一個精品對手，還帶著運動員真正需要的檢驗認證。想用更少的錢拿到接近 LMNT 的東西，我會從這款開始試。" },
-            { "title": "看流汗量選鈉含量，別跟著行銷走", "body": "我看過最常見的錯誤，就是坐辦公室的人買最高鈉的粉，結果喝到又脹又鹹。你如果流汗量大或在熱天長時間訓練，就拿 LMNT 或 Re-Lyte。你如果只是想在辦公桌補點礦物質，Ultima 跟 Cure 提供鉀跟鎂又幾乎沒有鈉負擔。選哪款完全看你實際流失多少鹽分。" },
-            { "title": "訂閱制才是真正省錢的地方", "body": "這裡每個頂尖品牌都給訂閱優惠，而且折扣大到會改變成本排名。LMNT 走組合訂閱方案能從每包 1.5 美元壓到 1 美元以下，Sports Research 跟 Ultima 定期配送也都省得有感。你如果整個夏天每天喝電解質，就設個訂閱，冬天再暫停。光這一招就讓那些高價款變得真的付得起。" }
+            {
+              "title": "LMNT 贏在 1,000 毫克鈉，這才是重點",
+              "body": "真的在熱天狂流汗時，鈉是你流失最多、最需要補回來的電解質。LMNT 每包給你 1,000 毫克，是多數對手的三倍以上，還零糖無人工色素，喝起來沒有雜味。我在快 40 度的午後靠 LMNT 撐過整場，腦袋還是清楚的，換成鈉含量低的粉，第三小時就開始頭痛。夏天要做粗重工作或戶外活動，我就是遞這款給人。"
+            },
+            {
+              "title": "Liquid I.V. 是科學最扎實的日常補水款",
+              "body": "Liquid I.V. 建立在世界衛生組織的口服補液框架上，用鈉與葡萄糖的協同運輸把水推過腸壁，吸收速度贏過純水。這個機制是有臨床根據的真材實料。新的阿洛酮糖無糖版保留了吸收優勢，又砍掉過去 11 克糖那個扣分點，所以它在我心中日常喝的排名直接跳到第二。"
+            },
+            {
+              "title": "Sports Research Hydrate 是 2026 的性價比冠軍",
+              "body": "乾淨的 400 毫克鈉配 200 毫克鉀比例，無糖，塞了 65 種微量礦物質跟椰子水，還通過 Informed Sport 禁藥檢驗。16 包 22.95 美元的價格打趴每一個精品對手，還帶著運動員真正需要的檢驗認證。想用更少的錢拿到接近 LMNT 的東西，我會從這款開始試。"
+            },
+            {
+              "title": "看流汗量選鈉含量，別跟著行銷走",
+              "body": "我看過最常見的錯誤，就是坐辦公室的人買最高鈉的粉，結果喝到又脹又鹹。你如果流汗量大或在熱天長時間訓練，就拿 LMNT 或 Re-Lyte。你如果只是想在辦公桌補點礦物質，Ultima 跟 Cure 提供鉀跟鎂又幾乎沒有鈉負擔。選哪款完全看你實際流失多少鹽分。"
+            },
+            {
+              "title": "訂閱制才是真正省錢的地方",
+              "body": "這裡每個頂尖品牌都給訂閱優惠，而且折扣大到會改變成本排名。LMNT 走組合訂閱方案能從每包 1.5 美元壓到 1 美元以下，Sports Research 跟 Ultima 定期配送也都省得有感。你如果整個夏天每天喝電解質，就設個訂閱，冬天再暫停。光這一招就讓那些高價款變得真的付得起。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-07-08",
+      "rankings": [
+        {
+          "id": "lmnt-recharge",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "electrolytes": 9.9,
+            "absorption": 9.2,
+            "taste": 9.0,
+            "cleanliness": 9.6,
+            "testing": 9.0,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "liquid-iv-hydration-multiplier",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "electrolytes": 8.4,
+            "absorption": 9.6,
+            "taste": 9.2,
+            "cleanliness": 7.6,
+            "testing": 8.2,
+            "value": 8.6
+          }
+        },
+        {
+          "id": "sports-research-hydrate",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "electrolytes": 8.5,
+            "absorption": 8.6,
+            "taste": 8.6,
+            "cleanliness": 9.0,
+            "testing": 9.4,
+            "value": 9.2
+          }
+        },
+        {
+          "id": "nuun-sport",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "electrolytes": 7.8,
+            "absorption": 8.4,
+            "taste": 8.8,
+            "cleanliness": 9.2,
+            "testing": 8.6,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "dripdrop-ors",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "electrolytes": 8.6,
+            "absorption": 9.4,
+            "taste": 8.4,
+            "cleanliness": 8.0,
+            "testing": 8.0,
+            "value": 8.4
+          }
+        },
+        {
+          "id": "skratch-labs-sport",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "electrolytes": 8.2,
+            "absorption": 8.8,
+            "taste": 9.0,
+            "cleanliness": 8.2,
+            "testing": 8.4,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "ultima-replenisher",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "electrolytes": 6.8,
+            "absorption": 7.8,
+            "taste": 8.4,
+            "cleanliness": 9.4,
+            "testing": 7.8,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "relyte-hydration",
+          "rank": 8,
+          "score": 8.1,
+          "scores": {
+            "electrolytes": 9.2,
+            "absorption": 8.2,
+            "taste": 8.0,
+            "cleanliness": 8.8,
+            "testing": 7.4,
+            "value": 8.6
+          }
+        },
+        {
+          "id": "cure-hydration",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "electrolytes": 7.4,
+            "absorption": 8.6,
+            "taste": 8.2,
+            "cleanliness": 9.6,
+            "testing": 7.6,
+            "value": 7.4
+          }
+        },
+        {
+          "id": "gnarly-hydrate",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "electrolytes": 7.2,
+            "absorption": 8.0,
+            "taste": 8.0,
+            "cleanliness": 8.6,
+            "testing": 8.8,
+            "value": 7.2
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "We tested 20 electrolyte powders: these 8 are the best",
+          "url": "https://health.yahoo.com/wellness/nutrition/vitamins-supplements/article/best-electrolyte-powder-182720079.html",
+          "source": "Yahoo Health"
+        },
+        {
+          "title": "7 Best Electrolyte Powder of 2026 (Tested and Reviewed)",
+          "url": "https://www.treelinereview.com/gearreviews/best-electrolyte-powder",
+          "source": "Treeline Review"
+        },
+        {
+          "title": "LMNT vs Liquid IV: A Dietitian's Honest Comparison",
+          "url": "https://thebalancednutritionist.com/lmnt-vs-liquid-iv/",
+          "source": "The Balanced Nutritionist"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "With summer training in full heat, LMNT Recharge stays my number one, and the reason is simple physiology: 1,000mg of sodium per stick, zero sugar, and a clean label. If you sweat buckets on long efforts in the heat, that is the mix that actually keeps you upright, and I have leaned on it through back-to-back hot sessions without the usual afternoon crash. Liquid IV holds second for the opposite crowd, its glucose-sodium transport formula pulls water in fast, which makes it my pick for a rough morning or a travel day. Sports Research Hydrate and Nuun Sport sit just behind because they nail the everyday balance: solid third-party testing, sensible sodium, and a taste you will actually reach for. I made no ranking changes this week. Reviewers keep echoing the same split I already have baked in, LMNT for heavy sweaters and endurance work, a gentler all-rounder like Ultima or Nuun for daily sipping, so there is nothing here that justifies moving a rank. Buy to your sweat rate. If your shirt is soaked and crusted with salt after a workout, go LMNT or Relyte for the high sodium. If you just want clean daily hydration that tastes good and costs less, Nuun and Ultima earn their spots near the middle.",
+          "highlights": [
+            {
+              "title": "LMNT for heavy sweaters",
+              "body": "1,000mg sodium, zero sugar, clean label. On long hot efforts it is the mix that actually keeps me upright, so it stays first."
+            },
+            {
+              "title": "Liquid IV for fast rehydration",
+              "body": "The glucose-sodium transport formula pulls water in quickly, my pick for a rough morning or a travel day."
+            },
+            {
+              "title": "Everyday balance in the middle",
+              "body": "Sports Research Hydrate and Nuun Sport nail third-party testing, sensible sodium, and a taste you will reach for."
+            },
+            {
+              "title": "No moves this week",
+              "body": "Reviews keep echoing the split already baked into the list, so nothing justified changing a rank."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "夏天訓練正熱，LMNT Recharge 還是我心中第一，理由很單純，就是生理學：一包 1,000mg 鈉、零糖、成分乾淨。如果你在高溫下做長時間運動、汗流成河，這款才是真的能讓你不倒下的補給，我連續好幾天在大熱天做完課表，也沒出現下午那種虛脫感。Liquid IV 穩在第二，是給另一群人用的，它那套葡萄糖加鈉的運輸配方能快速把水拉進體內，宿醉隔天早上或是搭一整天車，我會選它。Sports Research Hydrate 跟 Nuun Sport 緊跟在後，因為它們把日常平衡抓得很準：第三方檢驗紮實、鈉量合理、味道是你會主動想喝的那種。這週我沒有動排名。各家評測一直在講的，就是我早就寫進榜單的那個分野，重度流汗跟耐力運動選 LMNT，日常小口補水就挑 Ultima 或 Nuun 這種溫和全能款，所以沒有東西需要調動名次。照你的排汗量買。運動完衣服濕透還結一層鹽，就上 LMNT 或 Relyte 補高鈉。只想要乾淨、好喝、又便宜一點的日常補水，Nuun 跟 Ultima 站在中段是實至名歸。",
+          "highlights": [
+            {
+              "title": "LMNT 給爆汗族",
+              "body": "一包 1,000mg 鈉、零糖、成分乾淨。高溫長時間運動時它是真的讓我不倒的那款，穩坐第一。"
+            },
+            {
+              "title": "Liquid IV 快速補水",
+              "body": "葡萄糖加鈉的運輸配方能快速把水拉進體內，宿醉早上或搭車整天我選它。"
+            },
+            {
+              "title": "中段的日常平衡",
+              "body": "Sports Research Hydrate 跟 Nuun Sport 把第三方檢驗、合理鈉量、好味道都抓得很準。"
+            },
+            {
+              "title": "這週不動",
+              "body": "評測一直重複我早就寫進榜單的分野，沒有東西需要調名次。"
+            }
           ]
         }
       }
