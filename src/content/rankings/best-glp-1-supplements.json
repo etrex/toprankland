@@ -185,42 +185,404 @@
     {
       "date": "2026-07-08",
       "rankings": [
-        { "id": "thorne-glp-1-support-stack", "rank": 1, "score": 9.4, "scores": { "muscle": 9.2, "nutrition": 9.5, "digestion": 9.3, "testing": 9.8, "value": 8.4, "convenience": 9.2 } },
-        { "id": "youtheory-muscle-guard-protein", "rank": 2, "score": 9.2, "scores": { "muscle": 9.7, "nutrition": 8.6, "digestion": 8.0, "testing": 8.8, "value": 9.0, "convenience": 9.0 } },
-        { "id": "transparent-labs-whey-isolate", "rank": 3, "score": 9.0, "scores": { "muscle": 9.6, "nutrition": 7.8, "digestion": 8.2, "testing": 9.4, "value": 8.6, "convenience": 8.8 } },
-        { "id": "nature-made-glp-1-companion", "rank": 4, "score": 8.8, "scores": { "muscle": 7.6, "nutrition": 9.2, "digestion": 8.4, "testing": 9.0, "value": 9.6, "convenience": 9.5 } },
-        { "id": "ora-glp-1-up", "rank": 5, "score": 8.6, "scores": { "muscle": 7.2, "nutrition": 8.4, "digestion": 9.4, "testing": 8.6, "value": 8.0, "convenience": 8.8 } },
-        { "id": "vitamin-shoppe-whole-health-rx", "rank": 6, "score": 8.4, "scores": { "muscle": 8.4, "nutrition": 8.8, "digestion": 8.6, "testing": 8.2, "value": 8.4, "convenience": 8.6 } },
-        { "id": "codeage-glp-harmony-companion", "rank": 7, "score": 8.2, "scores": { "muscle": 8.6, "nutrition": 8.2, "digestion": 8.0, "testing": 8.0, "value": 7.8, "convenience": 8.4 } },
-        { "id": "naked-nutrition-glp-1-support", "rank": 8, "score": 8.1, "scores": { "muscle": 8.2, "nutrition": 8.0, "digestion": 8.2, "testing": 9.2, "value": 8.0, "convenience": 7.8 } },
-        { "id": "youtheory-high-potency-multi", "rank": 9, "score": 7.9, "scores": { "muscle": 6.8, "nutrition": 9.0, "digestion": 7.6, "testing": 8.6, "value": 8.8, "convenience": 8.6 } },
-        { "id": "codeage-glp-1-probiotic", "rank": 10, "score": 7.7, "scores": { "muscle": 6.4, "nutrition": 7.4, "digestion": 9.5, "testing": 8.0, "value": 7.8, "convenience": 8.4 } }
+        {
+          "id": "thorne-glp-1-support-stack",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "muscle": 9.2,
+            "nutrition": 9.5,
+            "digestion": 9.3,
+            "testing": 9.8,
+            "value": 8.4,
+            "convenience": 9.2
+          }
+        },
+        {
+          "id": "youtheory-muscle-guard-protein",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "muscle": 9.7,
+            "nutrition": 8.6,
+            "digestion": 8.0,
+            "testing": 8.8,
+            "value": 9.0,
+            "convenience": 9.0
+          }
+        },
+        {
+          "id": "transparent-labs-whey-isolate",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "muscle": 9.6,
+            "nutrition": 7.8,
+            "digestion": 8.2,
+            "testing": 9.4,
+            "value": 8.6,
+            "convenience": 8.8
+          }
+        },
+        {
+          "id": "nature-made-glp-1-companion",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "muscle": 7.6,
+            "nutrition": 9.2,
+            "digestion": 8.4,
+            "testing": 9.0,
+            "value": 9.6,
+            "convenience": 9.5
+          }
+        },
+        {
+          "id": "ora-glp-1-up",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "muscle": 7.2,
+            "nutrition": 8.4,
+            "digestion": 9.4,
+            "testing": 8.6,
+            "value": 8.0,
+            "convenience": 8.8
+          }
+        },
+        {
+          "id": "vitamin-shoppe-whole-health-rx",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "muscle": 8.4,
+            "nutrition": 8.8,
+            "digestion": 8.6,
+            "testing": 8.2,
+            "value": 8.4,
+            "convenience": 8.6
+          }
+        },
+        {
+          "id": "codeage-glp-harmony-companion",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "muscle": 8.6,
+            "nutrition": 8.2,
+            "digestion": 8.0,
+            "testing": 8.0,
+            "value": 7.8,
+            "convenience": 8.4
+          }
+        },
+        {
+          "id": "naked-nutrition-glp-1-support",
+          "rank": 8,
+          "score": 8.1,
+          "scores": {
+            "muscle": 8.2,
+            "nutrition": 8.0,
+            "digestion": 8.2,
+            "testing": 9.2,
+            "value": 8.0,
+            "convenience": 7.8
+          }
+        },
+        {
+          "id": "youtheory-high-potency-multi",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "muscle": 6.8,
+            "nutrition": 9.0,
+            "digestion": 7.6,
+            "testing": 8.6,
+            "value": 8.8,
+            "convenience": 8.6
+          }
+        },
+        {
+          "id": "codeage-glp-1-probiotic",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "muscle": 6.4,
+            "nutrition": 7.4,
+            "digestion": 9.5,
+            "testing": 8.0,
+            "value": 7.8,
+            "convenience": 8.4
+          }
+        }
       ],
       "references": [
-        { "title": "The Best Supplements for GLP-1 Weight Loss Treatment Users 2026", "url": "https://athletechnews.com/best-supplements-products-for-glp-1-users/", "source": "Athletech News" },
-        { "title": "Doctor-formulated GLP-1 support supplements launched by wellness brand youtheory", "url": "https://www.nutritionaloutlook.com/view/doctor-formulated-glp-1-support-supplements-launched-by-wellness-brand-youtheory", "source": "Nutritional Outlook" },
-        { "title": "The Vitamin Shoppe Unveils First-of-its-Kind Supplement Line Formulated for GLP-1 Users", "url": "https://press.vitaminshoppe.com/2025-03-31-the-vitamin-shoppe-unveils-first-of-its-kind-supplement-line-formulated-for-glp-1-users/", "source": "The Vitamin Shoppe" },
-        { "title": "Protein Powder on GLP-1 Medications: Closing the Muscle-Preservation Gap", "url": "https://formblends.com/articles/safety-hub/glp1-and-protein-powder", "source": "Form" }
+        {
+          "title": "The Best Supplements for GLP-1 Weight Loss Treatment Users 2026",
+          "url": "https://athletechnews.com/best-supplements-products-for-glp-1-users/",
+          "source": "Athletech News"
+        },
+        {
+          "title": "Doctor-formulated GLP-1 support supplements launched by wellness brand youtheory",
+          "url": "https://www.nutritionaloutlook.com/view/doctor-formulated-glp-1-support-supplements-launched-by-wellness-brand-youtheory",
+          "source": "Nutritional Outlook"
+        },
+        {
+          "title": "The Vitamin Shoppe Unveils First-of-its-Kind Supplement Line Formulated for GLP-1 Users",
+          "url": "https://press.vitaminshoppe.com/2025-03-31-the-vitamin-shoppe-unveils-first-of-its-kind-supplement-line-formulated-for-glp-1-users/",
+          "source": "The Vitamin Shoppe"
+        },
+        {
+          "title": "Protein Powder on GLP-1 Medications: Closing the Muscle-Preservation Gap",
+          "url": "https://formblends.com/articles/safety-hub/glp1-and-protein-powder",
+          "source": "Form"
+        }
       ],
       "i18n": {
         "en": {
           "commentary": "The question with GLP-1 companion supplements is not which one has the prettiest label, it is which one protects the thing you are most likely to lose: muscle. Roughly a third of the weight people drop on Ozempic, Wegovy and Zepbound comes from lean mass when they do nothing to defend it, and that is the metric I rank on first. Thorne's GLP-1 Support Stack takes the top spot because it is the only option here that treats the problem as a system, bundling protein-building amino acids, a full multivitamin, gut support and electrolytes in one NSF-grade routine, so you are not assembling four separate purchases and hoping the doses line up. Youtheory's Muscle Guard Protein earns second on the strength of its myHMB dose, a leucine metabolite with real clinical backing for holding onto muscle during a calorie deficit, paired with 20 grams of protein in a shake that goes down easily when appetite is gone. Transparent Labs sits third as the purist's protein: 28 grams of grass-fed isolate, a label with nothing hidden, and third-party testing to back it. Everything below that is about matching your specific gap, whether that is the drugstore convenience of Nature Made, the gut-first approach of Ora, or the constipation relief of a targeted probiotic. Buy for the deficiency you actually have.",
           "highlights": [
-            { "title": "Muscle preservation is the whole game, so rank for it", "body": "The single biggest risk on a GLP-1 is losing lean mass alongside fat, and the research puts that loss near a third of total weight dropped without intervention. That is why I weight muscle support heaviest. Products that deliver clinically dosed protein plus myHMB or creatine do the one job the medication cannot, and they belong at the top of any honest ranking." },
-            { "title": "Thorne wins because it solves the whole problem, not one slice of it", "body": "Most GLP-1 users need protein, vitamins, gut support and electrolytes at the same time, and buying those piecemeal invites gaps and overlaps. Thorne's Stack bundles all four into a single daily routine at NSF manufacturing standards, which is why it takes the top spot. You pay $154, but you replace four separate decisions with one." },
-            { "title": "myHMB is the ingredient that separates a real muscle product from a marketing one", "body": "Youtheory's Muscle Guard Protein reaches second because it pairs 20 grams of protein with a clinically studied dose of myHMB, formulated with obesity physician Louis Aronne. HMB has human data for reducing muscle breakdown during weight loss, and shakes solve the appetite problem better than pills when you can barely finish a meal." },
-            { "title": "A drugstore packet can beat a boutique stack on value", "body": "Nature Made's GLP-1 Companion Health Pack lands fourth by covering the everyday vitamin, magnesium, calcium and B12 gaps for around $25 a month, available at any pharmacy. It will not preserve muscle the way a protein does, so I would pair it with a shake, but as a daily nutrient floor it is the best value on this list." },
-            { "title": "Match the supplement to your actual side effect", "body": "The lower half of this ranking is not weaker, it is more specific. Ora's GLP-1 Up and Codeage's Probiotic+ target the constipation and gut sluggishness that dominate the first months on medication, using fiber, prebiotics and Akkermansia. If nausea and bathroom trouble are your problem, these beat any general multivitamin for you." }
+            {
+              "title": "Muscle preservation is the whole game, so rank for it",
+              "body": "The single biggest risk on a GLP-1 is losing lean mass alongside fat, and the research puts that loss near a third of total weight dropped without intervention. That is why I weight muscle support heaviest. Products that deliver clinically dosed protein plus myHMB or creatine do the one job the medication cannot, and they belong at the top of any honest ranking."
+            },
+            {
+              "title": "Thorne wins because it solves the whole problem, not one slice of it",
+              "body": "Most GLP-1 users need protein, vitamins, gut support and electrolytes at the same time, and buying those piecemeal invites gaps and overlaps. Thorne's Stack bundles all four into a single daily routine at NSF manufacturing standards, which is why it takes the top spot. You pay $154, but you replace four separate decisions with one."
+            },
+            {
+              "title": "myHMB is the ingredient that separates a real muscle product from a marketing one",
+              "body": "Youtheory's Muscle Guard Protein reaches second because it pairs 20 grams of protein with a clinically studied dose of myHMB, formulated with obesity physician Louis Aronne. HMB has human data for reducing muscle breakdown during weight loss, and shakes solve the appetite problem better than pills when you can barely finish a meal."
+            },
+            {
+              "title": "A drugstore packet can beat a boutique stack on value",
+              "body": "Nature Made's GLP-1 Companion Health Pack lands fourth by covering the everyday vitamin, magnesium, calcium and B12 gaps for around $25 a month, available at any pharmacy. It will not preserve muscle the way a protein does, so I would pair it with a shake, but as a daily nutrient floor it is the best value on this list."
+            },
+            {
+              "title": "Match the supplement to your actual side effect",
+              "body": "The lower half of this ranking is not weaker, it is more specific. Ora's GLP-1 Up and Codeage's Probiotic+ target the constipation and gut sluggishness that dominate the first months on medication, using fiber, prebiotics and Akkermansia. If nausea and bathroom trouble are your problem, these beat any general multivitamin for you."
+            }
           ]
         },
         "zh-tw": {
           "commentary": "挑 GLP-1 配套營養品，重點從來不是哪一款包裝好看，而是哪一款能護住你最容易掉的東西，也就是肌肉。老實說，打 Ozempic、Wegovy、Zepbound 的人如果什麼都不做，掉下來的體重大約有三分之一是肌肉而不是脂肪，所以我排名第一個看的就是這個指標。Thorne 的 GLP-1 Support Stack 拿下第一，因為它是這份榜單裡唯一把問題當成一套系統來解的，胺基酸、綜合維他命、腸胃保健、電解質一次打包成 NSF 等級的每日流程，你不用自己湊四罐再祈禱劑量剛好對得上。Youtheory 的 Muscle Guard Protein 排第二，靠的是它的 myHMB，這是有臨床實證能在熱量赤字下保住肌肉的白胺酸代謝物，再配 20 克蛋白，胃口沒了的時候一杯搖搖就喝得下去。Transparent Labs 排第三，是成分黨的蛋白首選，28 克草飼分離蛋白、成分全標示、第三方檢驗都到位。再往下就看你缺什麼補什麼，要嘛是 Nature Made 的藥妝便利，要嘛是 Ora 的腸道優先，要嘛是專攻便秘的益生菌。缺哪塊補哪塊，這樣買最實在。",
           "highlights": [
-            { "title": "保肌肉才是這場的重點，排名就該照這個排", "body": "打 GLP-1 最大的風險就是脂肪和肌肉一起掉，研究把沒介入時的肌肉流失估到接近總減重的三分之一。所以我把肌肉支持這一項的權重壓最重。能給到臨床劑量蛋白再加 myHMB 或肌酸的產品，做的正是針劑做不到的那件事，任何誠實的榜單都該把它們放最前面。" },
-            { "title": "Thorne 贏在它解的是整個問題，不是其中一塊", "body": "多數 GLP-1 用藥的人同時需要蛋白、維他命、腸胃保健和電解質，一罐一罐分開買很容易漏東漏西又互相重疊。Thorne 的 Stack 把四樣併成一套每日流程，工廠還是 NSF 等級，這就是它拿第一的原因。價格是 154 美元，換算約台幣四千九，但你用一個決定取代了四個決定。" },
-            { "title": "有沒有 myHMB，是真肌肉產品跟行銷話術的分水嶺", "body": "Youtheory 的 Muscle Guard Protein 排第二，因為它把 20 克蛋白配上有臨床實證的 myHMB 劑量，配方還有肥胖科醫師 Louis Aronne 參與。HMB 有人體數據支持能在減重期間減少肌肉分解，而且飯都快吃不完的時候，喝的比吞膠囊更能解決胃口的問題。" },
-            { "title": "論 CP 值，藥妝隨身包能贏精品組合", "body": "Nature Made 的 GLP-1 Companion Health Pack 排第四，一個月大約台幣八百就把日常的維他命、鎂、鈣、B12 缺口補起來，藥局隨手就買得到。它沒辦法像蛋白那樣保肌肉，所以我會搭一杯蛋白一起用，但當作每天的營養打底，它是這份榜單裡 CP 值最高的。" },
-            { "title": "照你實際的副作用去對症下藥", "body": "榜單後半段不是比較弱，是比較專。Ora 的 GLP-1 Up 和 Codeage 的 Probiotic+ 用纖維、益生元加 Akkermansia 菌株，專打用藥前幾個月最惱人的便秘和腸胃遲滯。如果你的困擾是噁心和上廁所不順，這兩款對你來說贏過任何一款泛用綜合維他命。" }
+            {
+              "title": "保肌肉才是這場的重點，排名就該照這個排",
+              "body": "打 GLP-1 最大的風險就是脂肪和肌肉一起掉，研究把沒介入時的肌肉流失估到接近總減重的三分之一。所以我把肌肉支持這一項的權重壓最重。能給到臨床劑量蛋白再加 myHMB 或肌酸的產品，做的正是針劑做不到的那件事，任何誠實的榜單都該把它們放最前面。"
+            },
+            {
+              "title": "Thorne 贏在它解的是整個問題，不是其中一塊",
+              "body": "多數 GLP-1 用藥的人同時需要蛋白、維他命、腸胃保健和電解質，一罐一罐分開買很容易漏東漏西又互相重疊。Thorne 的 Stack 把四樣併成一套每日流程，工廠還是 NSF 等級，這就是它拿第一的原因。價格是 154 美元，換算約台幣四千九，但你用一個決定取代了四個決定。"
+            },
+            {
+              "title": "有沒有 myHMB，是真肌肉產品跟行銷話術的分水嶺",
+              "body": "Youtheory 的 Muscle Guard Protein 排第二，因為它把 20 克蛋白配上有臨床實證的 myHMB 劑量，配方還有肥胖科醫師 Louis Aronne 參與。HMB 有人體數據支持能在減重期間減少肌肉分解，而且飯都快吃不完的時候，喝的比吞膠囊更能解決胃口的問題。"
+            },
+            {
+              "title": "論 CP 值，藥妝隨身包能贏精品組合",
+              "body": "Nature Made 的 GLP-1 Companion Health Pack 排第四，一個月大約台幣八百就把日常的維他命、鎂、鈣、B12 缺口補起來，藥局隨手就買得到。它沒辦法像蛋白那樣保肌肉，所以我會搭一杯蛋白一起用，但當作每天的營養打底，它是這份榜單裡 CP 值最高的。"
+            },
+            {
+              "title": "照你實際的副作用去對症下藥",
+              "body": "榜單後半段不是比較弱，是比較專。Ora 的 GLP-1 Up 和 Codeage 的 Probiotic+ 用纖維、益生元加 Akkermansia 菌株，專打用藥前幾個月最惱人的便秘和腸胃遲滯。如果你的困擾是噁心和上廁所不順，這兩款對你來說贏過任何一款泛用綜合維他命。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-07-09",
+      "rankings": [
+        {
+          "id": "thorne-glp-1-support-stack",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "muscle": 9.2,
+            "nutrition": 9.5,
+            "digestion": 9.3,
+            "testing": 9.8,
+            "value": 8.4,
+            "convenience": 9.2
+          }
+        },
+        {
+          "id": "youtheory-muscle-guard-protein",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "muscle": 9.7,
+            "nutrition": 8.6,
+            "digestion": 8.0,
+            "testing": 8.8,
+            "value": 9.0,
+            "convenience": 9.0
+          }
+        },
+        {
+          "id": "transparent-labs-whey-isolate",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "muscle": 9.6,
+            "nutrition": 7.8,
+            "digestion": 8.2,
+            "testing": 9.4,
+            "value": 8.6,
+            "convenience": 8.8
+          }
+        },
+        {
+          "id": "nature-made-glp-1-companion",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "muscle": 7.6,
+            "nutrition": 9.2,
+            "digestion": 8.4,
+            "testing": 9.0,
+            "value": 9.6,
+            "convenience": 9.5
+          }
+        },
+        {
+          "id": "ora-glp-1-up",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "muscle": 7.2,
+            "nutrition": 8.4,
+            "digestion": 9.4,
+            "testing": 8.6,
+            "value": 8.0,
+            "convenience": 8.8
+          }
+        },
+        {
+          "id": "vitamin-shoppe-whole-health-rx",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "muscle": 8.4,
+            "nutrition": 8.8,
+            "digestion": 8.6,
+            "testing": 8.2,
+            "value": 8.4,
+            "convenience": 8.6
+          }
+        },
+        {
+          "id": "codeage-glp-harmony-companion",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "muscle": 8.6,
+            "nutrition": 8.2,
+            "digestion": 8.0,
+            "testing": 8.0,
+            "value": 7.8,
+            "convenience": 8.4
+          }
+        },
+        {
+          "id": "naked-nutrition-glp-1-support",
+          "rank": 8,
+          "score": 8.1,
+          "scores": {
+            "muscle": 8.2,
+            "nutrition": 8.0,
+            "digestion": 8.2,
+            "testing": 9.2,
+            "value": 8.0,
+            "convenience": 7.8
+          }
+        },
+        {
+          "id": "youtheory-high-potency-multi",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "muscle": 6.8,
+            "nutrition": 9.0,
+            "digestion": 7.6,
+            "testing": 8.6,
+            "value": 8.8,
+            "convenience": 8.6
+          }
+        },
+        {
+          "id": "codeage-glp-1-probiotic",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "muscle": 6.4,
+            "nutrition": 7.4,
+            "digestion": 9.5,
+            "testing": 8.0,
+            "value": 7.8,
+            "convenience": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "New GLP-1 Therapies Enhance Quality of Weight Loss by Improving Muscle Preservation",
+          "url": "https://diabetes.org/newsroom/press-releases/new-glp-1-therapies-enhance-quality-weight-loss-improving-muscle-0",
+          "source": "American Diabetes Association"
+        },
+        {
+          "title": "HTBA to unveil GLP-1 support ingredient for muscle health and energy at Vitafoods Europe 2026",
+          "url": "https://www.nutritioninsight.com/news/htba-glp1-muscle-health-energy-vitafoods.html",
+          "source": "NutritionInsight"
+        },
+        {
+          "title": "Drug enhances muscle repair during GLP-1 weight-loss treatment in mice",
+          "url": "https://med.stanford.edu/news/all-news/2026/06/muscle-glp-1.html",
+          "source": "Stanford Medicine"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The clinical conversation this week keeps landing on the same point I have been making all year: on a GLP-1, protein plus resistance training is the load-bearing wall, and everything else is decoration. The American Diabetes Association highlighted new data on preserving lean mass during weight loss, and Stanford researchers described a muscle-repair pathway that could one day pair with these drugs. That research reinforces why I keep Thorne's GLP-1 Support Stack at the top. It covers the exact gaps a shrinking appetite creates, and its NSF-level testing gives me confidence in every capsule. Youtheory Muscle Guard and Transparent Labs Whey Isolate hold second and third because they deliver the clinically backed protein doses that actually protect muscle, which is the whole game right now. Nature Made's companion multi stays my value pick for anyone who wants broad micronutrient coverage without overthinking it. Ora GLP-1 Up remains the one I reach for when nausea and slow digestion are the main complaint, since its enzyme and ginger blend earns its digestion score. My advice this month is simple: pick the product that closes your specific gap, hit 1.2 to 1.6 grams of protein per kilo daily, and lift twice a week. The supplement supports that routine. It never replaces it. That framing is why my ranking barely moves week to week, and I think stability here is a feature, not a shortfall.",
+          "highlights": [
+            {
+              "title": "Muscle preservation goes mainstream",
+              "body": "The ADA spotlighted new therapies aimed at protecting lean mass during GLP-1 weight loss, validating why muscle-focused companions sit near the top of my list."
+            },
+            {
+              "title": "Thorne keeps the crown",
+              "body": "Its GLP-1 Support Stack closes the micronutrient and protein gaps a suppressed appetite creates, and its testing rigor keeps it my number one."
+            },
+            {
+              "title": "Protein is the priority",
+              "body": "Youtheory Muscle Guard and Transparent Labs Whey Isolate rank high because clinically dosed protein plus lifting is what actually preserves muscle."
+            },
+            {
+              "title": "Digestion support has a place",
+              "body": "Ora GLP-1 Up stays my pick for nausea and sluggish digestion, the two side effects that most often derail early GLP-1 users."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週的臨床討論又回到我整年一直強調的重點：打 GLP-1 的時候，蛋白質加上重量訓練才是承重牆，其他都只是裝飾。美國糖尿病學會這週公布了減重期間保留肌肉的新數據，史丹佛的研究團隊也描述了一條有機會跟這類藥物搭配的肌肉修復路徑。這些研究正好說明我為什麼一直把 Thorne 的 GLP-1 Support Stack 放在第一。它剛好補上食慾下降後最容易缺的那幾塊，加上 NSF 等級的檢測，我對每一顆膠囊都有信心。Youtheory Muscle Guard 跟 Transparent Labs 乳清分離蛋白排二、三名，因為它們提供的是有臨床劑量、真的能守住肌肉的蛋白質，而這正是現在最關鍵的事。Nature Made 的綜合配方還是我推薦給預算族的首選，想要廣泛補齊微量營養又不想想太多的人選它就對了。Ora GLP-1 Up 則是我在噁心跟消化變慢時會拿出來的那一罐，它的酵素加薑配方撐得起消化這項分數。這個月我的建議很單純：挑能補你那塊缺口的產品，每天每公斤吃到 1.2 到 1.6 克蛋白質，一週練兩次重量。補充品是來輔助這套習慣的，它永遠取代不了習慣。這也是為什麼我的排名每週幾乎不動，我覺得這種穩定本身就是優點。",
+          "highlights": [
+            {
+              "title": "保留肌肉變成主流話題",
+              "body": "美國糖尿病學會點名了減重期間保護肌肉的新療法，正好印證我把主打肌肉的搭配補充品放前面的判斷。"
+            },
+            {
+              "title": "Thorne 穩坐冠軍",
+              "body": "它的 GLP-1 Support Stack 補上食慾被壓下去後最缺的微量營養跟蛋白質，加上嚴謹的檢測，讓它一直是我的第一名。"
+            },
+            {
+              "title": "蛋白質才是重點",
+              "body": "Youtheory Muscle Guard 跟 Transparent Labs 乳清分離蛋白排名高，因為有臨床劑量的蛋白質加上練重量，才是真的守得住肌肉的作法。"
+            },
+            {
+              "title": "消化支援有它的位子",
+              "body": "Ora GLP-1 Up 還是我對付噁心跟消化變慢的首選，這兩個副作用最常讓剛開始打 GLP-1 的人撐不下去。"
+            }
           ]
         }
       }
