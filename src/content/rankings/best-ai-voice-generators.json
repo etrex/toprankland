@@ -8614,6 +8614,216 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-12",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.4,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 4,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "fish-audio-openaudio-s1",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.1,
+            "emotionalRange": 8.8,
+            "languageSupport": 8.0,
+            "latency": 8.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 7,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 8,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 9.2,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "voiceRealism": 8.0,
+            "emotionalRange": 7.6,
+            "languageSupport": 8.6,
+            "latency": 7.7,
+            "valueForMoney": 8.4
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Voice Generation Models Compared (2026): ElevenLabs, OpenAI TTS, Hume, Cartesia",
+          "url": "https://sureprompts.com/blog/voice-generation-models-compared-2026",
+          "source": "SurePrompts"
+        },
+        {
+          "title": "12 Best AI Voice Generators in 2026: The Listening Test",
+          "url": "https://www.techlinos.com/post/best-ai-voice-generators/",
+          "source": "Techlinos"
+        },
+        {
+          "title": "TTS Showdown 2026: ElevenLabs vs Cartesia vs OpenAI vs Sesame",
+          "url": "https://www.callmissed.com/en/blog/tts-showdown-2026-elevenlabs-vs-cartesia-vs-openai-vs-sesame-the-ultimate-compar",
+          "source": "CallMissed"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs keeps my top spot this week, and the listening tests keep landing the same way. Its Eleven v3 model sets the realism ceiling, scoring around 89.6% on naturalness and passing blind listening tests against human voice actors for most narrative content, so it stays my default for any voice work where quality outweighs scale. Inworld TTS 1.5 Max stays a close second, pairing near-top realism with real-time latency that makes it a genuine option for live agents. Hume AI Octave 2 holds third and remains the pick when a script needs conveyed emotion, since it interprets context and steers delivery through plain-language instructions better than anything else here. Cartesia Sonic 3 stays fourth on the strength of category-leading latency, and it is worth noting Cartesia is roughly three to four times cheaper than ElevenLabs per unit, which makes it the smart choice for high-volume real-time dialogue where every millisecond and every cent counts. Fish Audio OpenAudio S1 rounds out the top five as the value realism play. The theme this year is that voice stopped being a single-winner race, with different tools winning different jobs. My advice for July is steady. Choose ElevenLabs for peak realism, Cartesia for low-latency scale, and Hume when the emotion in the read is the whole point.",
+          "highlights": [
+            {
+              "title": "ElevenLabs sets the realism ceiling",
+              "body": "Eleven v3 scores near 89.6% on naturalness and passes blind tests against human voice actors for most narrative content. For voice work where quality matters most, it stays the default."
+            },
+            {
+              "title": "Cartesia Sonic 3 wins on latency and cost",
+              "body": "Category-leading latency and pricing roughly three to four times cheaper than ElevenLabs per unit. For high-volume real-time dialogue where milliseconds and cents count, it is the smart choice."
+            },
+            {
+              "title": "Hume Octave 2 for emotional delivery",
+              "body": "It interprets script context and steers delivery through plain-language instructions better than anything else here. When the feeling in the read is the point, it earns its spot."
+            },
+            {
+              "title": "Voice is no longer one-winner",
+              "body": "Different tools now win different jobs, from realism to latency to emotion. Match the model to the task, and most projects are well served near the top of this list."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週 ElevenLabs 還是第一，聆聽測試也一次次得出同樣結論。它的 Eleven v3 模型設下了擬真的天花板，自然度大約拿到 89.6%，在多數敘事內容的盲測裡能與真人配音員抗衡，所以只要是品質比規模重要的語音工作，它都是我的預設。Inworld TTS 1.5 Max 緊追在第二，把接近頂尖的擬真配上即時延遲，讓它成為即時語音代理的真選項。Hume AI Octave 2 守住第三，腳本需要傳達情緒時它就是首選，能讀懂上下文、用白話指令去引導語氣，這方面比這裡任何一個都強。Cartesia Sonic 3 排第四，靠的是這類別領先的延遲，而且值得一提，Cartesia 每單位大約比 ElevenLabs 便宜三到四倍，讓它成為大量即時對話、每毫秒每分錢都要斤斤計較時的聰明選擇。Fish Audio OpenAudio S1 補上前五，是擬真裡的性價比牌。今年的主題是語音已經不再是單一贏家的比賽，不同工具各贏不同任務。七月的建議很穩，要極致擬真選 ElevenLabs，要低延遲又要跑量選 Cartesia，讀稿的情緒才是重點時就選 Hume。",
+          "highlights": [
+            {
+              "title": "ElevenLabs 設下擬真天花板",
+              "body": "Eleven v3 自然度接近 89.6%，多數敘事內容的盲測能與真人配音員抗衡。品質最重要的語音工作，它還是預設選擇。"
+            },
+            {
+              "title": "Cartesia Sonic 3 贏在延遲跟成本",
+              "body": "這類別領先的延遲，每單位又大約比 ElevenLabs 便宜三到四倍。大量即時對話、毫秒跟每分錢都要算時，它是聰明選擇。"
+            },
+            {
+              "title": "Hume Octave 2 專攻情緒表達",
+              "body": "能讀懂腳本上下文，用白話指令引導語氣，這方面比這裡任何一個都強。讀稿的情緒才是重點時，它就值這個位子。"
+            },
+            {
+              "title": "語音不再是單一贏家",
+              "body": "擬真、延遲、情緒，不同工具各贏不同任務。看任務挑模型，大多數專案選這份清單前段都很夠用。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
