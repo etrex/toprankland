@@ -8824,6 +8824,216 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-13",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.4,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 4,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "fish-audio-openaudio-s1",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.1,
+            "emotionalRange": 8.8,
+            "languageSupport": 8.0,
+            "latency": 8.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 9.6,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 8,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "voiceRealism": 8.0,
+            "emotionalRange": 7.6,
+            "languageSupport": 8.6,
+            "latency": 7.7,
+            "valueForMoney": 8.4
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Voice Generation Models Compared (2026): ElevenLabs, OpenAI TTS, Hume, Cartesia, PlayHT",
+          "url": "https://sureprompts.com/blog/voice-generation-models-compared-2026",
+          "source": "SurePrompts"
+        },
+        {
+          "title": "TTS Showdown 2026: ElevenLabs vs. Cartesia vs. OpenAI vs. Sesame",
+          "url": "https://www.callmissed.com/en/blog/tts-showdown-2026-elevenlabs-vs-cartesia-vs-openai-vs-sesame-the-ultimate-compar",
+          "source": "CallMissed"
+        },
+        {
+          "title": "Best AI Voice Models 2026: ElevenLabs, Cartesia",
+          "url": "https://www.teamday.ai/blog/best-ai-voice-models-2026",
+          "source": "TeamDay"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs keeps my top spot as the overall quality and voice-cloning leader. Eleven v3, in general availability since February, still produces some of the most expressive, emotionally nuanced speech shipping today with support for over 70 languages, and that breadth is why it stays the safe default for anyone building narration, audiobooks, or characterful voice. Inworld TTS 1.5 Max holds a very close second on near-instant latency, so it remains my pick for real-time agents and games where responsiveness is the whole game. Hume Octave 2 sits third for the widest emotional range, and Cartesia Sonic 3 holds fourth on the strength of a latency score that is still effectively best-in-class for live conversation. The real news this week is Murf, which put its Falcon real-time model into public availability at 55ms model latency and 130ms time-to-first-audio, independently the fastest production TTS shipping right now, so I bumped Murf's latency and overall score to reflect that genuine step up. Google also released Gemini 3.1 Flash TTS, now topping the Artificial Analysis leaderboard, but it is not in this lineup yet. The rest of the board holds, so I am keeping the order steady with that one earned move for Murf.",
+          "highlights": [
+            {
+              "title": "ElevenLabs stays the quality leader",
+              "body": "Eleven v3 still ships the most expressive speech across 70-plus languages, keeping ElevenLabs my number one for narration, audiobooks, and characterful voice."
+            },
+            {
+              "title": "Inworld for real-time",
+              "body": "Near-instant latency keeps Inworld TTS 1.5 Max a close second, my pick for live agents and games where responsiveness is the whole game."
+            },
+            {
+              "title": "Murf Falcon earns a bump",
+              "body": "Murf's new Falcon model hit 55ms latency and 130ms time-to-first-audio, independently the fastest production TTS, so I raised its latency and overall score."
+            },
+            {
+              "title": "Cartesia owns live latency",
+              "body": "Cartesia Sonic 3 holds fourth on a latency score that is still effectively best-in-class, the pick when live conversational speed matters most."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ElevenLabs 繼續守我的第一,它是整體品質跟聲音克隆的領先者。Eleven v3 從二月正式上線後,還是產得出當今最有表情、情緒最細膩的語音,支援 70 多種語言,這種廣度就是它繼續當旁白、有聲書、有個性配音安全預設的原因。Inworld TTS 1.5 Max 以極小差距守第二,延遲近乎即時,即時代理跟遊戲那種反應速度就是一切的場合我還是選它。Hume Octave 2 排第三,情緒範圍最廣,Cartesia Sonic 3 守第四,靠的是那個到現在還是即時對話同級最強的延遲分數。這週真正的新聞是 Murf,它把 Falcon 即時模型推上公開版,模型延遲 55 毫秒、首次出聲 130 毫秒,獨立測試裡現在最快的量產級 TTS,所以我把 Murf 的延遲跟整體分數往上調,反映這個真實的躍進。Google 也推了 Gemini 3.1 Flash TTS,現在登頂 Artificial Analysis 榜,不過還沒進這份榜單。其他都不動,所以順序穩住,只給 Murf 這個實至名歸的調整。",
+          "highlights": [
+            {
+              "title": "ElevenLabs 守住品質龍頭",
+              "body": "Eleven v3 還是產得出最有表情的語音,支援 70 多種語言,讓 ElevenLabs 守第一,旁白、有聲書、有個性配音的選擇。"
+            },
+            {
+              "title": "即時找 Inworld",
+              "body": "延遲近乎即時,讓 Inworld TTS 1.5 Max 以極小差距守第二,即時代理跟遊戲那種反應就是一切的場合我選它。"
+            },
+            {
+              "title": "Murf Falcon 值得加分",
+              "body": "Murf 新的 Falcon 模型做到 55 毫秒延遲、130 毫秒首次出聲,獨立測試裡最快的量產 TTS,所以我把它的延遲跟整體分數往上調。"
+            },
+            {
+              "title": "即時延遲 Cartesia 稱王",
+              "body": "Cartesia Sonic 3 守第四,靠那個到現在還是即時對話同級最強的延遲分數,現場對話速度最要緊時就選它。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
