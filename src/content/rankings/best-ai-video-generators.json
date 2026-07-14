@@ -8927,6 +8927,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-14",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.7,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.0,
+            "audioVideoSync": 9.4,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.7,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI for Video Generation in 2026 — Ranked by Blind Human Votes",
+          "url": "https://llm-stats.com/leaderboards/best-ai-for-video-generation",
+          "source": "LLM-Stats"
+        },
+        {
+          "title": "Best AI Video Generator 2026: Veo 3.1 vs Sora 2 vs Kling",
+          "url": "https://tech-insider.org/best-ai-video-generator-2026/",
+          "source": "Tech Insider"
+        },
+        {
+          "title": "Best Text-to-Video AI Generators July 2026: Top 10 Models Ranked",
+          "url": "https://www.buildmvpfast.com/articles/best-llms-2026-guide/video-generation-ai",
+          "source": "BuildMVPFast"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Kling 3.0 holds the top spot for another week, and the blind-vote leaderboards back it up: it sits at the head of the text-to-video arena with a score above 2040, ahead of every Western model. What keeps Kling there is the combination I keep coming back to in real projects, six distinct shots generated in a single pass plus pricing that lets me iterate a dozen times before I commit. That workflow speed is worth more than any single benchmark. Seedance 2.0 stays at number two on the strength of native synchronized audio that lands in one generation, which saves me a whole round of lip-sync cleanup. Veo 3.1 remains my enterprise pick at number three, still the cleanest 4K output and the most reliable prompt adherence when a client needs a specific establishing shot delivered exactly as briefed. The story this month is how thoroughly Chinese models now own the top of the audio-plus-video board. Alibaba's Happy Horse 1.0 climbed to second place on the leaderboard behind Kling, and I nudged its score up to reflect the physics realism I am seeing in motion-heavy clips. It stays fifth here only because credits burn fast at its price. Runway Gen-4.5 keeps fourth on character consistency alone, still the tool I reach for when a recurring character has to look identical across ten scenes. One market note worth flagging: OpenAI confirmed Sora's API sunsets September 24, so if you built a pipeline on it, start migrating now.",
+          "highlights": [
+            {
+              "title": "Kling 3.0 leads the blind-vote arena",
+              "body": "Kling sits above 2040 on the text-to-video leaderboard, ahead of every Western model. Six-shot single-pass generation plus low iteration cost is why it stays my daily driver."
+            },
+            {
+              "title": "Happy Horse 1.0 earns a score bump",
+              "body": "Alibaba's model climbed to second on the audio-plus-video leaderboard. Its motion physics in fast-action clips is the best I have tested, so I raised its overall to 8.8."
+            },
+            {
+              "title": "Veo 3.1 is still the enterprise safe pick",
+              "body": "When a client briefs an exact 4K establishing shot, Veo delivers it as specified with the cleanest native audio. It stays third for reliability under a deadline."
+            },
+            {
+              "title": "Plan around Sora's API shutdown",
+              "body": "OpenAI confirmed the Sora API closes September 24, 2026. If your production pipeline depends on it, migrate to Kling or Veo now rather than scrambling in Q3."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Kling 3.0 這週繼續坐穩第一，而且盲測排行榜也站在它這邊，在文字轉影片的競技場分數衝破 2040，領先所有西方模型。老實說，Kling 最讓我離不開的地方，是它一次生成就能給你六個不同鏡頭，加上定價便宜到我可以先試個十幾次再決定要哪一版，這種迭代速度比任何單一跑分都實用。Seedance 2.0 穩坐第二，靠的是原生同步音軌，一次生成就把對嘴做好，直接幫我省下一整輪後製。Veo 3.1 依舊是我推薦給企業客戶的首選，排第三，它的 4K 輸出最乾淨，客戶指定要某個開場鏡頭時，它最能照著腳本精準交件。這個月的重點，是中國模型幾乎把影片加音軌這塊排行榜的頂端全包了。阿里巴巴的 Happy Horse 1.0 這次爬到榜上第二，僅次於 Kling，我看它在大動作片段的物理表現真的很扎實，所以把它的分數往上調了一點，這裡還排第五單純是因為它的點數燒得快。Runway Gen-4.5 靠角色一致性守住第四，同一個角色要在十個場景長得一模一樣時，我還是找它。順帶提醒一句，OpenAI 已經確認 Sora 的 API 九月二十四日關閉，如果你的流程建在它上面，現在就該開始搬家了。",
+          "highlights": [
+            {
+              "title": "Kling 3.0 盲測榜稱王",
+              "body": "Kling 在文字轉影片排行榜衝破 2040，領先所有西方模型。一次生成六鏡頭加上超低迭代成本，是它繼續當我主力工具的原因。"
+            },
+            {
+              "title": "Happy Horse 1.0 分數上調",
+              "body": "阿里巴巴這款模型爬到影片加音軌榜第二。它在快速動作片段的物理表現是我測過最好的，所以我把總分拉到 8.8。"
+            },
+            {
+              "title": "Veo 3.1 仍是企業穩健之選",
+              "body": "客戶指定要某個 4K 開場鏡頭時，Veo 能照規格交件，原生音軌也最乾淨。趕死線時它的可靠度讓它守住第三。"
+            },
+            {
+              "title": "提前規劃 Sora API 關閉",
+              "body": "OpenAI 確認 Sora API 二〇二六年九月二十四日關閉。如果你的正式流程靠它，現在就搬到 Kling 或 Veo，別等第三季才手忙腳亂。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

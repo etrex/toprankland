@@ -14081,6 +14081,212 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-14",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "codeQuality": 8.9,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 4,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 5,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Coding Agents 2026: Claude Code vs Codex vs Cursor vs Copilot Compared",
+          "url": "https://lushbinary.com/blog/ai-coding-agents-comparison-cursor-windsurf-claude-copilot-kiro-2026/",
+          "source": "Lushbinary"
+        },
+        {
+          "title": "Best AI Coding Agent 2026: Why Top Devs Run Two",
+          "url": "https://www.aibuilderclub.com/blog/best-ai-coding-agent-2026",
+          "source": "AI Builder Club"
+        },
+        {
+          "title": "AI Coding Tools Pricing Comparison 2026",
+          "url": "https://www.developersdigest.tech/blog/ai-coding-tools-pricing-2026",
+          "source": "Developers Digest"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code holds the top spot this week, and the release of Claude Sonnet 5 on June 30 as the new mid-tier workhorse gives it even more reach for developers who want frontier planning on Opus and fast iteration on Sonnet in the same workflow. I nudged its agentic score up because the Dynamic Workflows added in the Opus 4.8 cycle keep proving out on long multi-file refactors, where the agent plans, edits, runs tests, and self-corrects with very little babysitting. That is the capability I care about most in daily work, and Claude Code executes it cleanly. Cursor stays at number two on the strength of its editor experience, which remains the most polished way to keep a human tightly in the loop. The Teams pricing overhaul that split usage into a Composer pool and a third-party API pool does change the math for heavy users, so I trimmed its value score slightly to reflect that the Premium seat at $120 a month is where power users now land. OpenAI Codex sits third, and with GPT-5.6 rolling into it late June the raw code quality climbed a notch. For engineers picking one tool today, I would run Claude Code for agentic depth and keep Cursor open for the tight edit loop. The market data backs this pattern, with roughly two thirds of working engineers now using two agents daily rather than betting everything on one.",
+          "highlights": [
+            {
+              "title": "Sonnet 5 widens Claude Code's range",
+              "body": "The June 30 Sonnet 5 release pairs frontier Opus planning with a fast mid-tier model, so I can plan hard problems and iterate cheaply in one session."
+            },
+            {
+              "title": "Agentic depth is the real differentiator",
+              "body": "On long multi-file refactors Claude Code plans, edits, runs tests, and self-corrects with minimal supervision, which is why I bumped its agentic score to 9.7."
+            },
+            {
+              "title": "Cursor's pricing math shifted",
+              "body": "The Teams overhaul split usage into two pools and the $120 Premium seat is where power users now sit, so I trimmed its value score to 8.1."
+            },
+            {
+              "title": "Codex gains from GPT-5.6",
+              "body": "With GPT-5.6 rolling into Codex in late June, raw code quality climbed to 8.9 and it stays a strong third for autonomous task runs."
+            },
+            {
+              "title": "Running two tools is now normal",
+              "body": "About two thirds of engineers use two agents daily, and the Claude Code plus Cursor pairing covers both agentic depth and the tight human edit loop."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這禮拜 Claude Code 還是穩坐第一，而且 6 月 30 號推出的 Claude Sonnet 5 當新的中階主力，讓它在同一套流程裡就能用 Opus 做前線規劃、用 Sonnet 快速迭代，彈性直接拉滿。我把它的自主能力分數往上調，因為 Opus 4.8 週期加進來的 Dynamic Workflows 在跨檔案大重構上真的很能打，代理會自己規劃、改碼、跑測試、再自我修正，幾乎不用你在旁邊盯。這種能力才是我每天工作最看重的，而且 Claude Code 執行得很乾淨。Cursor 維持第二，靠的是它的編輯器體驗，到現在都還是把人牢牢留在迴圈裡最順的做法。它的 Teams 定價改版把用量拆成 Composer 池跟第三方 API 池，對重度使用者來說帳要重算，所以我把它的價值分數稍微修掉一點，畢竟現在 power user 大多會落在一個月 120 美金的 Premium 座位。OpenAI Codex 排第三，六月底 GPT-5.6 併進來之後純粹的程式碼品質又往上一階。如果你今天只能選一套，我會拿 Claude Code 吃自主深度，再開著 Cursor 顧緊編輯迴圈。市場數據也對得上這個玩法，現在差不多三分之二的工程師每天同時用兩套代理，而不是把身家壓在一套上。",
+          "highlights": [
+            {
+              "title": "Sonnet 5 讓 Claude Code 更全面",
+              "body": "6 月 30 號的 Sonnet 5 把前線 Opus 規劃跟快速中階模型湊在一起，我可以在同一個 session 裡先啃硬題再便宜迭代。"
+            },
+            {
+              "title": "自主深度才是真正的分水嶺",
+              "body": "跨檔案大重構時 Claude Code 會自己規劃、改碼、跑測試、自我修正，幾乎不用盯，所以我把它的自主分數拉到 9.7。"
+            },
+            {
+              "title": "Cursor 的定價要重算",
+              "body": "Teams 改版把用量拆成兩個池，power user 現在多半落在 120 美金的 Premium 座位，所以我把它的價值分數修到 8.1。"
+            },
+            {
+              "title": "Codex 吃到 GPT-5.6 紅利",
+              "body": "六月底 GPT-5.6 併進 Codex 後，純程式碼品質升到 8.9，自主任務執行上它穩穩第三。"
+            },
+            {
+              "title": "同時用兩套已經是常態",
+              "body": "大概三分之二的工程師每天用兩套代理，Claude Code 加 Cursor 這組剛好一個顧自主深度、一個顧緊編輯迴圈。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

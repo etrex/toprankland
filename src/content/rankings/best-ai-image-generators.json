@@ -7164,6 +7164,192 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-14",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 9.0,
+            "artisticQuality": 8.3,
+            "textRendering": 9.7,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.0,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Image Generators July 2026: GPT Image 2, Nano Banana Pro & FLUX.2",
+          "url": "https://www.buildmvpfast.com/articles/best-llms-2026-guide/image-generation-ai",
+          "source": "BuildMVPfast"
+        },
+        {
+          "title": "Best AI for Image Generation in 2026 — Ranked by Blind Human Votes",
+          "url": "https://llm-stats.com/leaderboards/best-ai-for-image-generation",
+          "source": "LLM-Stats"
+        },
+        {
+          "title": "Best AI Image Generators 2026: Midjourney, Flux & More",
+          "url": "https://www.miniloop.ai/blog/best-ai-image-generators-2026",
+          "source": "Miniloop"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "GPT Image 2 holds my top spot this week, and the latest blind-vote arenas back that call. It leads both the Artificial Analysis and lmarena boards on prompt adherence and text rendering, which are the two things most teams actually pay for. When I feed it a busy layout with headings, labels and a specific brand color, it comes back readable on the first try, and that first-try reliability is what keeps it ahead of a stacked field. Midjourney V8.1 stays at number two because nothing else touches it for art direction. When I want a stylized campaign key visual or a moodboard with a coherent look across ten frames, it is still the studio pick. FLUX.2 Pro sits third and remains my workhorse for photoreal product shots pushed through an API at volume, where its consistency per dollar is hard to beat. The interesting story lower down is text rendering becoming table stakes. Ideogram V3 built its whole reputation on legible type, and now GPT Image 2 and Google's Nano Banana line match it, so Ideogram has to compete on price and speed instead. For most readers my advice is unchanged this week. Pick GPT Image 2 as your daily driver for marketing and design comps, keep a Midjourney seat for anything that needs real artistic taste, and wire FLUX.2 Pro into your pipeline when you need hundreds of photoreal frames without babysitting each one. The gap between the top three is genuinely small, so the right answer depends on whether you value adherence, style, or throughput most.",
+          "highlights": [
+            {
+              "title": "GPT Image 2 leads on the metrics buyers care about",
+              "body": "It tops the current blind-vote arenas for prompt adherence and text rendering, the two capabilities that decide whether a marketing comp is usable on the first generation."
+            },
+            {
+              "title": "Midjourney V8.1 owns art direction",
+              "body": "For stylized campaign visuals and coherent moodboards across many frames, it remains the studio default, which is why it holds second despite weaker text handling."
+            },
+            {
+              "title": "FLUX.2 Pro is the volume photoreal pick",
+              "body": "Its consistency per dollar through an API makes it my choice for high-volume product photography where each frame cannot be hand-checked."
+            },
+            {
+              "title": "Readable text is now table stakes",
+              "body": "GPT Image 2 and Google's Nano Banana line now match Ideogram V3 on legible type, pushing Ideogram to compete on price and speed instead."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這禮拜我還是把 GPT Image 2 放在第一，最新的匿名投票競技場也支持這個判斷。它在 Artificial Analysis 跟 lmarena 兩個榜單上，指令遵循跟文字渲染都排最前面，而這兩件事剛好就是團隊真正會付錢買的能力。我丟一張排版很滿的稿子給它，有標題、有標籤、還指定品牌色，它第一次就給我看得懂的成品，這種一次到位的穩定度，就是它在這麼競爭的市場裡還能領先的原因。Midjourney V8.1 穩坐第二，講到美術指導真的沒對手。我要做風格化的活動主視覺，或是要十張畫面風格一致的情緒板，它到現在都還是工作室首選。FLUX.2 Pro 排第三，是我拿來透過 API 大量產出擬真商品圖的主力，同樣預算下的一致性很難被超越。比較有趣的是往下看，文字渲染變成基本盤了。Ideogram V3 整個名聲就是靠字排得清楚建立起來的，現在 GPT Image 2 跟 Google 的 Nano Banana 系列都追上來，Ideogram 只好改用價格跟速度來拚。給多數讀者的建議這週沒變。日常做行銷跟設計稿，選 GPT Image 2 當主力，需要真正美感的案子留一個 Midjourney 位子，要一次產幾百張擬真圖不想一張張顧，就把 FLUX.2 Pro 接進流程裡。前三名差距真的很小，看你最在意遵循度、風格還是產能而已。",
+          "highlights": [
+            {
+              "title": "GPT Image 2 贏在買家最在意的指標",
+              "body": "它在目前的匿名投票競技場，指令遵循跟文字渲染都排第一，這兩項決定了一張行銷稿第一次生成能不能直接用。"
+            },
+            {
+              "title": "Midjourney V8.1 美術指導無人能敵",
+              "body": "要做風格化活動主視覺、要多張畫面風格一致的情緒板，它還是工作室預設選項，這也是它文字較弱卻穩坐第二的原因。"
+            },
+            {
+              "title": "FLUX.2 Pro 是大量擬真的首選",
+              "body": "透過 API 產圖時同樣預算的一致性很強，我要一次產出大量商品照又沒辦法一張張檢查時就選它。"
+            },
+            {
+              "title": "字排得清楚現在是基本盤",
+              "body": "GPT Image 2 跟 Google 的 Nano Banana 系列都追上 Ideogram V3 的清晰字體，逼得 Ideogram 只能改拚價格跟速度。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
