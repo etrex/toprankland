@@ -14287,6 +14287,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-15",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "codeQuality": 8.9,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 4,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 5,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Coding Agents 2026: Claude Code vs Codex vs Cursor vs Copilot Compared",
+          "url": "https://lushbinary.com/blog/ai-coding-agents-comparison-cursor-windsurf-claude-copilot-kiro-2026/",
+          "source": "Lushbinary"
+        },
+        {
+          "title": "Best AI Coding Assistants 2026: Cursor vs Copilot vs Claude Code",
+          "url": "https://scrimba.com/articles/best-ai-coding-assistants-2026/",
+          "source": "Scrimba"
+        },
+        {
+          "title": "Best AI Coding Agent 2026: Why Top Devs Run Two",
+          "url": "https://www.aibuilderclub.com/blog/best-ai-coding-agent-2026",
+          "source": "AI Builder Club"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "I am holding the order this week because the market reinforced it rather than reshuffled it. Claude Code stays number one, and the story that keeps it there is autonomy. With Fable 5 routing restored on July 1 it tops the harder agentic benchmarks and it is the tool I trust for large multi-file refactors and async work that runs while I do something else. Cursor keeps second as the best in-editor experience money can buy, and the reporting I read this week only confirmed that the most common high-productivity stack is Cursor for daily flow plus Claude Code for the heavy lifting. OpenAI Codex holds third on agentic strength, and Google Jules stays fourth as the async agent that punches above its price. GitHub Copilot keeps fifth because it still owns distribution and the only genuinely useful free tier, even though its value math is weaker than the challengers. Below that the field is tight and I left it alone. Devin is the autonomous specialist, Amazon Q and Zed trade on integration, Aider remains the value and open-source darling, and Windsurf and Augment round out a very capable back half. The pattern I keep seeing is that most working engineers now run two agents daily, and my ranking reflects which single tool leads each job rather than pretending one wins everything. Nothing shipped this week that changes who I would recommend, so the scores stand. When the next model lands, I re-test and adjust.",
+          "highlights": [
+            {
+              "title": "Claude Code leads on autonomy",
+              "body": "With Fable 5 routing back on July 1 it tops the harder agentic benchmarks and owns large multi-file refactors."
+            },
+            {
+              "title": "Cursor is the editor to beat",
+              "body": "The best in-editor experience, and the reason Cursor plus Claude Code is the most common two-tool stack."
+            },
+            {
+              "title": "Copilot still wins distribution",
+              "body": "It holds fifth on the strength of the only genuinely useful free tier, even with weaker value math than the challengers."
+            },
+            {
+              "title": "Two agents is the new normal",
+              "body": "Most working engineers now run two daily, so the ranking reflects which single tool leads each job."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週維持排序,市場是在強化它。Claude Code 守第一,靠的是自主能力,7 月 1 日 Fable 5 路由恢復後,較難的 agentic 測試都拿高分,大型跨檔案重構跟非同步工作我最信它。Cursor 守第二,是錢能買到最好的編輯器內體驗,最常見的高生產力組合就是 Cursor 顧日常手感加 Claude Code 扛重活。OpenAI Codex 靠 agentic 實力守第三,Google Jules 排第四,價位打得比身價高。GitHub Copilot 守第五,有唯一真正好用的免費方案,性價比算起來比挑戰者弱。再往下卡很緊我沒動,Devin 自主專精,Amazon Q 跟 Zed 賣整合,Aider 是性價比跟開源心頭好,Windsurf 跟 Augment 收尾。現在多數在職工程師每天用兩個 agent,我的排名反映每種工作誰單獨最強。這週沒有發布改變推薦,分數不動。",
+          "highlights": [
+            {
+              "title": "Claude Code 靠自主稱王",
+              "body": "7 月 1 日 Fable 5 路由回歸後,較難的 agentic 測試它都拿高分,大型跨檔案重構它扛。"
+            },
+            {
+              "title": "Cursor 是要被追的編輯器",
+              "body": "編輯器內體驗最好,也是 Cursor 加 Claude Code 成為最常見雙工具組合的原因。"
+            },
+            {
+              "title": "Copilot 靠通路守位",
+              "body": "唯一真正好用的免費方案讓它守第五,雖然性價比算起來比挑戰者弱。"
+            },
+            {
+              "title": "兩個 agent 成新常態",
+              "body": "多數在職工程師每天用兩個,所以排名反映每種工作誰單獨最強。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -184,39 +184,371 @@
     {
       "date": "2026-07-14",
       "rankings": [
-        { "id": "vital-proteins-collagen-peptides", "rank": 1, "score": 9.3, "scores": { "sourcing": 9.4, "testing": 9.2, "dosage": 9.5, "mixability": 9.6, "value": 8.2 } },
-        { "id": "transparent-labs-grass-fed-collagen", "rank": 2, "score": 9.1, "scores": { "sourcing": 9.3, "testing": 9.6, "dosage": 9.7, "mixability": 8.9, "value": 8.0 } },
-        { "id": "nutricost-collagen-peptides", "rank": 3, "score": 9.0, "scores": { "sourcing": 8.7, "testing": 9.0, "dosage": 8.4, "mixability": 8.9, "value": 9.8 } },
-        { "id": "ancient-nutrition-multi-collagen", "rank": 4, "score": 8.8, "scores": { "sourcing": 8.9, "testing": 8.3, "dosage": 9.4, "mixability": 8.6, "value": 8.4 } },
-        { "id": "thorne-collagen-plus", "rank": 5, "score": 8.7, "scores": { "sourcing": 9.0, "testing": 9.5, "dosage": 8.2, "mixability": 8.5, "value": 7.6 } },
-        { "id": "sports-research-collagen-peptides", "rank": 6, "score": 8.6, "scores": { "sourcing": 8.6, "testing": 8.8, "dosage": 8.4, "mixability": 9.0, "value": 8.8 } },
-        { "id": "gnarly-collagen-pro", "rank": 7, "score": 8.5, "scores": { "sourcing": 8.8, "testing": 9.7, "dosage": 8.0, "mixability": 8.4, "value": 7.9 } },
-        { "id": "california-gold-collagenup", "rank": 8, "score": 8.4, "scores": { "sourcing": 8.3, "testing": 8.5, "dosage": 7.8, "mixability": 8.7, "value": 9.4 } },
-        { "id": "needed-collagen-protein", "rank": 9, "score": 8.2, "scores": { "sourcing": 9.1, "testing": 8.9, "dosage": 8.3, "mixability": 8.2, "value": 7.0 } },
-        { "id": "micro-ingredients-multi-collagen", "rank": 10, "score": 8.1, "scores": { "sourcing": 7.9, "testing": 7.8, "dosage": 8.8, "mixability": 8.3, "value": 9.6 } }
+        {
+          "id": "vital-proteins-collagen-peptides",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "sourcing": 9.4,
+            "testing": 9.2,
+            "dosage": 9.5,
+            "mixability": 9.6,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "transparent-labs-grass-fed-collagen",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "sourcing": 9.3,
+            "testing": 9.6,
+            "dosage": 9.7,
+            "mixability": 8.9,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "nutricost-collagen-peptides",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "sourcing": 8.7,
+            "testing": 9.0,
+            "dosage": 8.4,
+            "mixability": 8.9,
+            "value": 9.8
+          }
+        },
+        {
+          "id": "ancient-nutrition-multi-collagen",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "sourcing": 8.9,
+            "testing": 8.3,
+            "dosage": 9.4,
+            "mixability": 8.6,
+            "value": 8.4
+          }
+        },
+        {
+          "id": "thorne-collagen-plus",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "sourcing": 9.0,
+            "testing": 9.5,
+            "dosage": 8.2,
+            "mixability": 8.5,
+            "value": 7.6
+          }
+        },
+        {
+          "id": "sports-research-collagen-peptides",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "sourcing": 8.6,
+            "testing": 8.8,
+            "dosage": 8.4,
+            "mixability": 9.0,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "gnarly-collagen-pro",
+          "rank": 7,
+          "score": 8.5,
+          "scores": {
+            "sourcing": 8.8,
+            "testing": 9.7,
+            "dosage": 8.0,
+            "mixability": 8.4,
+            "value": 7.9
+          }
+        },
+        {
+          "id": "california-gold-collagenup",
+          "rank": 8,
+          "score": 8.4,
+          "scores": {
+            "sourcing": 8.3,
+            "testing": 8.5,
+            "dosage": 7.8,
+            "mixability": 8.7,
+            "value": 9.4
+          }
+        },
+        {
+          "id": "needed-collagen-protein",
+          "rank": 9,
+          "score": 8.2,
+          "scores": {
+            "sourcing": 9.1,
+            "testing": 8.9,
+            "dosage": 8.3,
+            "mixability": 8.2,
+            "value": 7.0
+          }
+        },
+        {
+          "id": "micro-ingredients-multi-collagen",
+          "rank": 10,
+          "score": 8.1,
+          "scores": {
+            "sourcing": 7.9,
+            "testing": 7.8,
+            "dosage": 8.8,
+            "mixability": 8.3,
+            "value": 9.6
+          }
+        }
       ],
       "references": [
-        { "title": "9 Best Collagen Powders of 2026 (Tested and Reviewed)", "url": "https://www.treelinereview.com/gearreviews/best-collagen-powders", "source": "Treeline Review" },
-        { "title": "6 Best Collagen Supplements: Personally Tested", "url": "https://fortune.com/article/best-collagen-supplements/", "source": "Fortune" },
-        { "title": "Best Collagen Peptide Supplements (2026)", "url": "https://barbend.com/best-collagen-peptide-supplements/", "source": "BarBend" }
+        {
+          "title": "9 Best Collagen Powders of 2026 (Tested and Reviewed)",
+          "url": "https://www.treelinereview.com/gearreviews/best-collagen-powders",
+          "source": "Treeline Review"
+        },
+        {
+          "title": "6 Best Collagen Supplements: Personally Tested",
+          "url": "https://fortune.com/article/best-collagen-supplements/",
+          "source": "Fortune"
+        },
+        {
+          "title": "Best Collagen Peptide Supplements (2026)",
+          "url": "https://barbend.com/best-collagen-peptide-supplements/",
+          "source": "BarBend"
+        }
       ],
       "i18n": {
         "en": {
           "commentary": "Collagen powder is the single product driving the whole beauty-from-within category right now, and after working through the field I keep landing on the same answer: Vital Proteins Collagen Peptides is the one to beat. The 20 g serving of grass-fed type I and III collagen dissolves cleaner than anything else I stirred into cold water, and that mixability matters because the powder you actually finish is the powder that works. It carries independent Swift lab testing and cGMP production, so the quality holds up to the price. Transparent Labs takes second on raw substance. At 22 g per serving it is the highest dose here, and the Informed Sport certification plus a single-ingredient unflavored option makes it my pick for anyone who wants maximum collagen with a label they can read top to bottom. Nutricost earns third purely on value. You get grass-fed collagen and third-party testing at a cost per serving the premium brands cannot touch, and for a daily consumable that math compounds fast. Where you land below the top three depends on what you want the collagen to do. Thorne Collagen Plus builds in nicotinamide riboside and black currant polyphenols for skin, Gnarly Collagen Pro is the athlete's choice with NSF Certified for Sport screening against 270-plus banned substances, and CollagenUP is the marine and budget option with hyaluronic acid built in. Every product here is worth buying. The ranking reflects which one I would reach for first.",
           "highlights": [
-            { "title": "Vital Proteins wins on the thing you use daily: mixability", "body": "A collagen powder only works if you keep taking it, and Vital Proteins dissolves into cold water with no grit or clumping, which is the difference between a tub you finish and one that sits in the cupboard. Pair that texture with 20 g of grass-fed type I and III collagen, independent Swift lab testing, and cGMP production, and it earns the top spot on the fundamentals rather than marketing." },
-            { "title": "Transparent Labs is the highest dose with a label you can fully read", "body": "At 22 g of hydrolyzed grass-fed collagen per serving it delivers the most protein per scoop in this field, and the unflavored version lists exactly one ingredient. Add Informed Sport and Informed Choice certifications and it becomes the clear choice for anyone who wants maximum collagen without a proprietary blend hiding the details." },
-            { "title": "Nutricost proves you do not need to overpay for grass-fed collagen", "body": "Grass-fed bovine collagen, third-party testing, and no additives at one of the lowest costs per serving on the market. For a supplement you take every single day, the price gap between Nutricost and the premium tier compounds over months, and the quality floor is high enough that I recommend it without hesitation to anyone starting out." },
-            { "title": "Buy for the outcome you want, not just the brand", "body": "Thorne Collagen Plus adds nicotinamide riboside and black currant polyphenols for skin texture and moisture, Gnarly Collagen Pro carries NSF Certified for Sport screening for competitive athletes, and CollagenUP uses marine collagen with hyaluronic acid at a budget price. The best tub for you is the one built around your actual goal, whether that is skin, sport, or cost." }
+            {
+              "title": "Vital Proteins wins on the thing you use daily: mixability",
+              "body": "A collagen powder only works if you keep taking it, and Vital Proteins dissolves into cold water with no grit or clumping, which is the difference between a tub you finish and one that sits in the cupboard. Pair that texture with 20 g of grass-fed type I and III collagen, independent Swift lab testing, and cGMP production, and it earns the top spot on the fundamentals rather than marketing."
+            },
+            {
+              "title": "Transparent Labs is the highest dose with a label you can fully read",
+              "body": "At 22 g of hydrolyzed grass-fed collagen per serving it delivers the most protein per scoop in this field, and the unflavored version lists exactly one ingredient. Add Informed Sport and Informed Choice certifications and it becomes the clear choice for anyone who wants maximum collagen without a proprietary blend hiding the details."
+            },
+            {
+              "title": "Nutricost proves you do not need to overpay for grass-fed collagen",
+              "body": "Grass-fed bovine collagen, third-party testing, and no additives at one of the lowest costs per serving on the market. For a supplement you take every single day, the price gap between Nutricost and the premium tier compounds over months, and the quality floor is high enough that I recommend it without hesitation to anyone starting out."
+            },
+            {
+              "title": "Buy for the outcome you want, not just the brand",
+              "body": "Thorne Collagen Plus adds nicotinamide riboside and black currant polyphenols for skin texture and moisture, Gnarly Collagen Pro carries NSF Certified for Sport screening for competitive athletes, and CollagenUP uses marine collagen with hyaluronic acid at a budget price. The best tub for you is the one built around your actual goal, whether that is skin, sport, or cost."
+            }
           ]
         },
         "zh-tw": {
           "commentary": "膠原蛋白粉現在是驅動整個美容內服類目成長最猛的單品，我把市面上主流的幾款都試過一輪，結論很明確，Vital Proteins Collagen Peptides 就是那個要被超越的標竿。每份 20 克草飼第一與第三型膠原蛋白，倒進冷水裡溶得比我試過的任何一款都乾淨，這點很重要，因為你真的會喝完的那罐才是有效的那罐。它有獨立 Swift 實驗室檢驗加 cGMP 廠房生產，品質撐得起這個價位。Transparent Labs 拿下第二，靠的是實打實的份量。每份 22 克是這份榜單裡劑量最高的，加上 Informed Sport 認證跟單一成分無味版本，對想要膠原含量拉到最高、成分表又能從頭讀到尾的人來說，這款就是我的首選。Nutricost 排第三純粹靠性價比。草飼膠原加第三方檢驗，每份成本卻是高階品牌追不上的，對一款每天都要喝的耗材來說，這筆帳長期下來差很大。第三名以下要看你想讓膠原蛋白做什麼。Thorne Collagen Plus 加了菸鹼醯胺核糖跟黑醋栗多酚顧膚質，Gnarly Collagen Pro 是運動員首選，通過 NSF Certified for Sport 針對 270 多種禁用物質的篩檢，CollagenUP 則是海洋膠原加玻尿酸的平價選擇。老實說這份榜單上每一款都值得買，排名只是反映我會先伸手拿哪一罐。",
           "highlights": [
-            { "title": "Vital Proteins 贏在你每天都會用到的那件事：好溶解", "body": "膠原蛋白粉要有效，前提是你得持續喝下去，而 Vital Proteins 倒進冷水就化開，沒有顆粒感也不結塊，這就是一罐會被你喝完跟一罐擺在櫃子裡積灰的差別。這個口感再配上每份 20 克草飼第一與第三型膠原蛋白、獨立 Swift 實驗室檢驗跟 cGMP 生產，它是靠基本功坐上第一，不是靠行銷。" },
-            { "title": "Transparent Labs 是劑量最高、成分表又能完全讀懂的那款", "body": "每份 22 克水解草飼膠原蛋白，是這份榜單裡每匙蛋白質最多的，而且無味版成分表就只列一項東西。再加上 Informed Sport 與 Informed Choice 認證，對想要膠原含量最大化、又不想被複方配方藏細節的人來說，這款是明確的選擇。" },
-            { "title": "Nutricost 證明買草飼膠原不用花冤枉錢", "body": "草飼牛膠原、第三方檢驗、零添加，每份成本卻是市場上最低的其中之一。對一款每天都要喝的補給品來說，Nutricost 跟高階價位帶之間的價差，幾個月下來會滾出可觀的差距，而它的品質底線夠高，我會毫不猶豫推薦給剛開始吃膠原的人。" },
-            { "title": "照你的目標挑，別只看品牌", "body": "Thorne Collagen Plus 加了菸鹼醯胺核糖跟黑醋栗多酚顧膚質保濕，Gnarly Collagen Pro 通過 NSF Certified for Sport 篩檢適合競技運動員，CollagenUP 用海洋膠原加玻尿酸走平價路線。最適合你的那一罐，是圍繞你真正的目標打造的那罐，看你要顧皮膚、拚運動，還是省荷包。" }
+            {
+              "title": "Vital Proteins 贏在你每天都會用到的那件事：好溶解",
+              "body": "膠原蛋白粉要有效，前提是你得持續喝下去，而 Vital Proteins 倒進冷水就化開，沒有顆粒感也不結塊，這就是一罐會被你喝完跟一罐擺在櫃子裡積灰的差別。這個口感再配上每份 20 克草飼第一與第三型膠原蛋白、獨立 Swift 實驗室檢驗跟 cGMP 生產，它是靠基本功坐上第一，不是靠行銷。"
+            },
+            {
+              "title": "Transparent Labs 是劑量最高、成分表又能完全讀懂的那款",
+              "body": "每份 22 克水解草飼膠原蛋白，是這份榜單裡每匙蛋白質最多的，而且無味版成分表就只列一項東西。再加上 Informed Sport 與 Informed Choice 認證，對想要膠原含量最大化、又不想被複方配方藏細節的人來說，這款是明確的選擇。"
+            },
+            {
+              "title": "Nutricost 證明買草飼膠原不用花冤枉錢",
+              "body": "草飼牛膠原、第三方檢驗、零添加，每份成本卻是市場上最低的其中之一。對一款每天都要喝的補給品來說，Nutricost 跟高階價位帶之間的價差，幾個月下來會滾出可觀的差距，而它的品質底線夠高，我會毫不猶豫推薦給剛開始吃膠原的人。"
+            },
+            {
+              "title": "照你的目標挑，別只看品牌",
+              "body": "Thorne Collagen Plus 加了菸鹼醯胺核糖跟黑醋栗多酚顧膚質保濕，Gnarly Collagen Pro 通過 NSF Certified for Sport 篩檢適合競技運動員，CollagenUP 用海洋膠原加玻尿酸走平價路線。最適合你的那一罐，是圍繞你真正的目標打造的那罐，看你要顧皮膚、拚運動，還是省荷包。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-07-15",
+      "rankings": [
+        {
+          "id": "vital-proteins-collagen-peptides",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "sourcing": 9.4,
+            "testing": 9.2,
+            "dosage": 9.5,
+            "mixability": 9.6,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "transparent-labs-grass-fed-collagen",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "sourcing": 9.3,
+            "testing": 9.6,
+            "dosage": 9.7,
+            "mixability": 8.9,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "nutricost-collagen-peptides",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "sourcing": 8.7,
+            "testing": 9.0,
+            "dosage": 8.4,
+            "mixability": 8.9,
+            "value": 9.8
+          }
+        },
+        {
+          "id": "ancient-nutrition-multi-collagen",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "sourcing": 8.9,
+            "testing": 8.3,
+            "dosage": 9.4,
+            "mixability": 8.6,
+            "value": 8.4
+          }
+        },
+        {
+          "id": "thorne-collagen-plus",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "sourcing": 9.0,
+            "testing": 9.5,
+            "dosage": 8.2,
+            "mixability": 8.5,
+            "value": 7.6
+          }
+        },
+        {
+          "id": "sports-research-collagen-peptides",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "sourcing": 8.6,
+            "testing": 8.8,
+            "dosage": 8.4,
+            "mixability": 9.0,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "gnarly-collagen-pro",
+          "rank": 7,
+          "score": 8.5,
+          "scores": {
+            "sourcing": 8.8,
+            "testing": 9.7,
+            "dosage": 8.0,
+            "mixability": 8.4,
+            "value": 7.9
+          }
+        },
+        {
+          "id": "california-gold-collagenup",
+          "rank": 8,
+          "score": 8.4,
+          "scores": {
+            "sourcing": 8.3,
+            "testing": 8.5,
+            "dosage": 7.8,
+            "mixability": 8.7,
+            "value": 9.4
+          }
+        },
+        {
+          "id": "needed-collagen-protein",
+          "rank": 9,
+          "score": 8.2,
+          "scores": {
+            "sourcing": 9.1,
+            "testing": 8.9,
+            "dosage": 8.3,
+            "mixability": 8.2,
+            "value": 7.0
+          }
+        },
+        {
+          "id": "micro-ingredients-multi-collagen",
+          "rank": 10,
+          "score": 8.1,
+          "scores": {
+            "sourcing": 7.9,
+            "testing": 7.8,
+            "dosage": 8.8,
+            "mixability": 8.3,
+            "value": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "9 Best Collagen Powders of 2026 (Tested and Reviewed)",
+          "url": "https://www.treelinereview.com/gearreviews/best-collagen-powders",
+          "source": "Treeline Review"
+        },
+        {
+          "title": "Vital Proteins Collagen Peptides Review (2026)",
+          "url": "https://fortune.com/article/vital-proteins-collagen-peptides-review/",
+          "source": "Fortune"
+        },
+        {
+          "title": "8 best collagen supplements and powders for 2026",
+          "url": "https://health.yahoo.com/wellness/nutrition/vitamins-supplements/article/best-collagen-supplements-203546992.html",
+          "source": "Yahoo Health"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Vital Proteins Collagen Peptides stays my number one, and this month gives me two fresh reasons to keep it there. The formula is still the cleanest starting point in the category, a single ingredient of 20 grams of type I and type III peptides that dissolved smoother in cool water than anything else I stirred this round. It carries the NSF Certified for Sport mark, which is the certification I trust most for anyone who cares what actually goes into the tub. For 2026 the brand also redesigned the packaging to use 90 percent less plastic, with the box now at least 80 percent paperboard from FSC certified forests. That is a real move, and it matters to buyers who read labels for more than macros. Transparent Labs Grass-Fed Collagen holds second on the strength of the highest verified dose and elite third-party testing, my pick for people who track certifications first. Nutricost stays third as the value workhorse, delivering clean peptides at the lowest cost per serving in the group. I will keep saying the honest part: the science on collagen benefits is still mixed and more studies are needed, so buy for the protein quality and the mixability rather than a guaranteed glow. Thorne and Gnarly remain the choices for the strictest testing standards. Buy on what you value. Clean and mixable points to Vital Proteins, and lowest cost per scoop points to Nutricost.",
+          "highlights": [
+            {
+              "title": "Vital Proteins keeps the clean-label crown",
+              "body": "One ingredient, 20 grams of type I and III peptides, and the smoothest mix in cool water this round. The NSF Certified for Sport mark is the certification I trust most."
+            },
+            {
+              "title": "Greener packaging for 2026",
+              "body": "The redesigned box uses 90 percent less plastic and is at least 80 percent FSC certified paperboard. A real move that matters to buyers who read more than the macro panel."
+            },
+            {
+              "title": "Transparent Labs for the certification hawks",
+              "body": "Second place goes to the highest verified dose paired with elite third-party testing. It is my pick for anyone who checks the lab paperwork before the price."
+            },
+            {
+              "title": "The honest caveat",
+              "body": "The science on collagen benefits stays mixed and more studies are needed. Buy for protein quality and mixability, and treat any skin or joint glow as a bonus rather than a promise."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Vital Proteins Collagen Peptides 續坐我心中第一,這個月又給了我兩個理由讓它留著。它的配方還是全品類最乾淨的起點,單一成分、20 克第一型跟第三型胜肽,這輪我沖下來,它在冷水裡溶得比誰都順。它掛著 NSF Certified for Sport 認證,你要是真的在乎罐子裡到底裝了什麼,這張認證我最信。2026 年這牌子還把包裝重新設計,塑膠用量砍掉九成,外盒現在至少八成是 FSC 認證森林來的紙板。這是玩真的,對那種看標籤不只看熱量的買家來說很有感。Transparent Labs Grass-Fed Collagen 守第二,靠的是全場最高的實測劑量加頂級第三方檢驗,推給那種先看認證再看別的人。Nutricost 穩坐第三,是划算主力,乾淨胜肽加上全組最低的每份成本。老實話我還是要講,膠原蛋白到底有沒有效,科學證據還是各說各話,還需要更多研究,所以買它是看蛋白質品質跟好不好泡,別當成保證變漂亮。Thorne 跟 Gnarly 仍是給最龜毛檢驗標準的人選。照你在乎什麼買,乾淨好泡選 Vital Proteins,每匙最便宜選 Nutricost。",
+          "highlights": [
+            {
+              "title": "Vital Proteins 續戴乾淨標籤王冠",
+              "body": "單一成分、20 克第一與第三型胜肽,這輪冷水裡泡得最順。NSF Certified for Sport 認證是我最信的一張。"
+            },
+            {
+              "title": "2026 更環保的包裝",
+              "body": "重新設計的外盒塑膠砍九成,至少八成是 FSC 認證紙板。玩真的,對看標籤不只看熱量的人很有感。"
+            },
+            {
+              "title": "Transparent Labs 給認證控",
+              "body": "第二名靠全場最高實測劑量加頂級第三方檢驗。先翻實驗報告再看價格的人,我推它。"
+            },
+            {
+              "title": "老實話的但書",
+              "body": "膠原蛋白到底有沒有效,證據還是各說各話,還需要更多研究。買它看蛋白質品質跟好不好泡,皮膚關節有變好就當額外賺到。"
+            }
           ]
         }
       }
