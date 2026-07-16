@@ -184,39 +184,371 @@
     {
       "date": "2026-07-15",
       "rankings": [
-        { "id": "thorne-creatine", "rank": 1, "score": 9.4, "scores": { "purity": 9.6, "testing": 9.7, "dosage": 9.5, "format": 8.8, "value": 9.4 } },
-        { "id": "optimum-nutrition-micronized-creatine", "rank": 2, "score": 9.2, "scores": { "purity": 9.0, "testing": 8.9, "dosage": 9.5, "format": 8.9, "value": 9.8 } },
-        { "id": "momentous-creatine", "rank": 3, "score": 9.0, "scores": { "purity": 9.8, "testing": 9.8, "dosage": 9.5, "format": 8.7, "value": 8.0 } },
-        { "id": "transparent-labs-creatine-hmb", "rank": 4, "score": 8.8, "scores": { "purity": 9.2, "testing": 9.4, "dosage": 9.3, "format": 9.2, "value": 7.6 } },
-        { "id": "legion-micronized-creatine", "rank": 5, "score": 8.6, "scores": { "purity": 9.3, "testing": 9.0, "dosage": 9.5, "format": 8.9, "value": 8.2 } },
-        { "id": "create-creatine-gummies", "rank": 6, "score": 8.5, "scores": { "purity": 9.3, "testing": 9.5, "dosage": 8.8, "format": 9.4, "value": 7.4 } },
-        { "id": "nutricost-creatine-monohydrate", "rank": 7, "score": 8.4, "scores": { "purity": 8.6, "testing": 8.3, "dosage": 9.5, "format": 8.6, "value": 9.9 } },
-        { "id": "bloom-creatine-monohydrate", "rank": 8, "score": 8.2, "scores": { "purity": 8.5, "testing": 7.8, "dosage": 9.5, "format": 8.8, "value": 8.9 } },
-        { "id": "wellah-creatine-for-women", "rank": 9, "score": 8.1, "scores": { "purity": 8.4, "testing": 7.9, "dosage": 9.5, "format": 8.7, "value": 8.5 } },
-        { "id": "lemme-creatine-gummies", "rank": 10, "score": 8.0, "scores": { "purity": 8.8, "testing": 9.2, "dosage": 8.8, "format": 9.3, "value": 6.6 } }
+        {
+          "id": "thorne-creatine",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "purity": 9.6,
+            "testing": 9.7,
+            "dosage": 9.5,
+            "format": 8.8,
+            "value": 9.4
+          }
+        },
+        {
+          "id": "optimum-nutrition-micronized-creatine",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "purity": 9.0,
+            "testing": 8.9,
+            "dosage": 9.5,
+            "format": 8.9,
+            "value": 9.8
+          }
+        },
+        {
+          "id": "momentous-creatine",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "purity": 9.8,
+            "testing": 9.8,
+            "dosage": 9.5,
+            "format": 8.7,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "transparent-labs-creatine-hmb",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "purity": 9.2,
+            "testing": 9.4,
+            "dosage": 9.3,
+            "format": 9.2,
+            "value": 7.6
+          }
+        },
+        {
+          "id": "legion-micronized-creatine",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "purity": 9.3,
+            "testing": 9.0,
+            "dosage": 9.5,
+            "format": 8.9,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "create-creatine-gummies",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "purity": 9.3,
+            "testing": 9.5,
+            "dosage": 8.8,
+            "format": 9.4,
+            "value": 7.4
+          }
+        },
+        {
+          "id": "nutricost-creatine-monohydrate",
+          "rank": 7,
+          "score": 8.4,
+          "scores": {
+            "purity": 8.6,
+            "testing": 8.3,
+            "dosage": 9.5,
+            "format": 8.6,
+            "value": 9.9
+          }
+        },
+        {
+          "id": "bloom-creatine-monohydrate",
+          "rank": 8,
+          "score": 8.2,
+          "scores": {
+            "purity": 8.5,
+            "testing": 7.8,
+            "dosage": 9.5,
+            "format": 8.8,
+            "value": 8.9
+          }
+        },
+        {
+          "id": "wellah-creatine-for-women",
+          "rank": 9,
+          "score": 8.1,
+          "scores": {
+            "purity": 8.4,
+            "testing": 7.9,
+            "dosage": 9.5,
+            "format": 8.7,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "lemme-creatine-gummies",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "purity": 8.8,
+            "testing": 9.2,
+            "dosage": 8.8,
+            "format": 9.3,
+            "value": 6.6
+          }
+        }
       ],
       "references": [
-        { "title": "Best Creatine Supplements 2026", "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-creatine-supplements/", "source": "Forbes Vetted" },
-        { "title": "Expert-Tested: Best Creatine Gummies (2026)", "url": "https://www.garagegymreviews.com/best-creatine-gummies", "source": "Garage Gym Reviews" },
-        { "title": "The 6 Best Creatine Gummies (2026)", "url": "https://fortune.com/article/best-creatine-gummies/", "source": "Fortune" }
+        {
+          "title": "Best Creatine Supplements 2026",
+          "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-creatine-supplements/",
+          "source": "Forbes Vetted"
+        },
+        {
+          "title": "Expert-Tested: Best Creatine Gummies (2026)",
+          "url": "https://www.garagegymreviews.com/best-creatine-gummies",
+          "source": "Garage Gym Reviews"
+        },
+        {
+          "title": "The 6 Best Creatine Gummies (2026)",
+          "url": "https://fortune.com/article/best-creatine-gummies/",
+          "source": "Fortune"
+        }
       ],
       "i18n": {
         "en": {
           "commentary": "Creatine is the most studied sports supplement on earth, and the science keeps landing on the same boring, brilliant answer: 5 grams of creatine monohydrate a day. That makes this ranking less about exotic formulas and more about who delivers that clinical dose with the cleanest source and the most honest testing. On those terms, Thorne Creatine wins. It is single-ingredient Creapure monohydrate, NSF Certified for Sport on every batch, and it lands near 49 cents a serving in the 90-serving tub, which is premium testing at a value price. That combination is the whole game. Optimum Nutrition takes second because it does the fundamentals for even less. You get 5 grams of micronized monohydrate, banned-substance testing, and availability in basically every store on the planet, and for a daily consumable that price gap compounds over a year. Momentous earns third on purity alone. It is the only creatine here that publishes testing for PFAS, heavy metals, and microplastics on top of NSF Sport, so if a spotless label is your priority, this is the one. The gummy and women's-formula wave is the real 2026 story, and it deserves care. Independent labs found that nearly half of creatine gummies contain less than they claim, which is exactly why Create earns its spot: Creapure, NSF Sport, and Eurofins-verified potency. That is the only gummy I trust to hold a real dose. Bloom and Wellah brought a huge new audience of women into creatine, and the underlying monohydrate is legitimate, even if their third-party paperwork is lighter than the leaders. Lemme sits last on value, not quality, because you pay a premium for the gummy format and the branding. Every product here delivers real creatine monohydrate. The ranking reflects which one gives you the cleanest 5 grams for your money.",
           "highlights": [
-            { "title": "Thorne wins because a monohydrate ranking rewards fundamentals, not gimmicks", "body": "The evidence for creatine is built almost entirely on plain 5-gram monohydrate, so the best product is the one that delivers that dose with the cleanest source and the strictest testing. Thorne does exactly that: single-ingredient Creapure, NSF Certified for Sport on every batch, at roughly 49 cents a serving. You get pharmaceutical-grade testing at a price the boutique brands cannot match, which is why it sits at the top on merit rather than marketing." },
-            { "title": "Optimum Nutrition is the value benchmark the whole category is measured against", "body": "Five grams of micronized monohydrate, banned-substance testing, and a price near 34 cents a serving that you can buy in almost any store. Creatine is a daily habit you keep for years, so cost per serving is not a footnote, it is the deciding factor for most people. Optimum Nutrition delivers a proven dose for less than nearly anyone, and that makes it the smartest first tub for a beginner." },
-            { "title": "The gummy boom has a dosing problem, and Create is the fix", "body": "Independent testing in late 2025 found nearly half of creatine gummies contained less creatine than their labels claimed, which turns a convenient format into a coin flip. Create answers every part of that: Creapure source, NSF Certified for Sport, and Eurofins-verified potency confirming the dose is really there. If you want the ease of a gummy without gambling on the label, this is the one to buy." },
-            { "title": "Women's formulas expanded the market, and the monohydrate inside is legitimate", "body": "Bloom, Wellah, and Lemme pulled a whole new audience into creatine, and research backs the premise, since women carry markedly lower natural creatine stores and respond well to supplementation. The core ingredient in these products is real 5-gram monohydrate. They rank below the leaders on third-party paperwork and cost per gram, especially the gummies, but as a daily habit built for consistency they earn their place." }
+            {
+              "title": "Thorne wins because a monohydrate ranking rewards fundamentals, not gimmicks",
+              "body": "The evidence for creatine is built almost entirely on plain 5-gram monohydrate, so the best product is the one that delivers that dose with the cleanest source and the strictest testing. Thorne does exactly that: single-ingredient Creapure, NSF Certified for Sport on every batch, at roughly 49 cents a serving. You get pharmaceutical-grade testing at a price the boutique brands cannot match, which is why it sits at the top on merit rather than marketing."
+            },
+            {
+              "title": "Optimum Nutrition is the value benchmark the whole category is measured against",
+              "body": "Five grams of micronized monohydrate, banned-substance testing, and a price near 34 cents a serving that you can buy in almost any store. Creatine is a daily habit you keep for years, so cost per serving is not a footnote, it is the deciding factor for most people. Optimum Nutrition delivers a proven dose for less than nearly anyone, and that makes it the smartest first tub for a beginner."
+            },
+            {
+              "title": "The gummy boom has a dosing problem, and Create is the fix",
+              "body": "Independent testing in late 2025 found nearly half of creatine gummies contained less creatine than their labels claimed, which turns a convenient format into a coin flip. Create answers every part of that: Creapure source, NSF Certified for Sport, and Eurofins-verified potency confirming the dose is really there. If you want the ease of a gummy without gambling on the label, this is the one to buy."
+            },
+            {
+              "title": "Women's formulas expanded the market, and the monohydrate inside is legitimate",
+              "body": "Bloom, Wellah, and Lemme pulled a whole new audience into creatine, and research backs the premise, since women carry markedly lower natural creatine stores and respond well to supplementation. The core ingredient in these products is real 5-gram monohydrate. They rank below the leaders on third-party paperwork and cost per gram, especially the gummies, but as a daily habit built for consistency they earn their place."
+            }
           ]
         },
         "zh-tw": {
           "commentary": "肌酸是全世界被研究最透徹的運動補給品，而這麼多研究最後都指向同一個無聊又完美的答案，一天 5 克單水肌酸就對了。所以這份榜單比的不是花俏配方，而是誰能用最乾淨的原料跟最誠實的檢驗，把這個臨床劑量給你。照這個標準，Thorne Creatine 就是冠軍。單一成分 Creapure 單水肌酸，每一批都過 NSF Certified for Sport，90 份裝算下來一份大約台幣十五塊，高階等級的檢驗配上親民的價格，這組合基本上就是遊戲規則本身。Optimum Nutrition 拿第二，因為它把基本功做到更便宜。每份 5 克微粒化單水肌酸，禁用物質檢驗，而且幾乎到處都買得到，對一款要天天喝的耗材來說，這點價差一年下來差很多。Momentous 排第三純粹靠純度，它是這裡唯一在 NSF Sport 之上還公開檢驗 PFAS、重金屬與微塑膠的肌酸，成分潔癖優先的人就選它。軟糖跟女性配方這波才是 2026 年的真正主角，但要小心挑。獨立實驗室發現市面上將近一半的肌酸軟糖實際含量比標示少，這正是 Create 能站上榜的原因，Creapure 原料、NSF Sport、還請 Eurofins 驗過真實含量，這是我唯一敢說真的有足量的軟糖。Bloom 跟 Wellah 把一大批女性帶進肌酸市場，底層的單水肌酸是真材實料，只是第三方認證的文件比前段班薄一點。Lemme 排最後是輸在性價比，不是品質，你多付的是軟糖劑型跟品牌的錢。老實說這份榜單每一款都是真的肌酸，排名反映的是哪一款用同樣的錢給你最乾淨的那 5 克。",
           "highlights": [
-            { "title": "Thorne 贏在單水肌酸榜單獎勵的是基本功，不是噱頭", "body": "肌酸的研究幾乎全建立在最單純的 5 克單水肌酸上，所以最好的產品就是用最乾淨的原料加最嚴的檢驗把這個劑量給你的那款。Thorne 就是這樣，單一成分 Creapure，每批過 NSF Certified for Sport，一份大約台幣十五塊。你拿到的是藥廠等級的檢驗，價格卻是那些精品小牌追不上的，它坐上第一靠的是實力，不是行銷。" },
-            { "title": "Optimum Nutrition 是整個品類拿來當標竿的性價比基準", "body": "每份 5 克微粒化單水肌酸，禁用物質檢驗，價格算下來一份大概台幣十塊出頭，而且幾乎到處都買得到。肌酸是一種你會吃好幾年的日常習慣，每份成本不是小事，對大多數人來說根本是決勝點。Optimum Nutrition 用比誰都低的價格給你經過驗證的劑量，這讓它成為新手第一罐最聰明的選擇。" },
-            { "title": "軟糖熱潮有個劑量問題，Create 就是解方", "body": "2025 年底的獨立檢驗發現，市面上將近一半的肌酸軟糖實際含量比標示少，這讓方便的劑型變成一場賭博。Create 把每個環節都補上了，Creapure 原料、NSF Certified for Sport、再加 Eurofins 驗證真實含量確認劑量真的在裡面。想要軟糖的方便又不想賭標示的人，買這款就對了。" },
-            { "title": "女性配方擴大了市場，裡面的單水肌酸是真材實料", "body": "Bloom、Wellah 跟 Lemme 把一整批新受眾拉進肌酸市場，而且這個前提有研究撐腰，女性天生的肌酸儲存量明顯較低，補充後反應很好。這些產品核心就是真的 5 克單水肌酸。它們排在前段班後面，是輸在第三方文件跟每克成本，軟糖尤其明顯，但作為一個為了持續而設計的日常習慣，它們站得住這個位置。" }
+            {
+              "title": "Thorne 贏在單水肌酸榜單獎勵的是基本功，不是噱頭",
+              "body": "肌酸的研究幾乎全建立在最單純的 5 克單水肌酸上，所以最好的產品就是用最乾淨的原料加最嚴的檢驗把這個劑量給你的那款。Thorne 就是這樣，單一成分 Creapure，每批過 NSF Certified for Sport，一份大約台幣十五塊。你拿到的是藥廠等級的檢驗，價格卻是那些精品小牌追不上的，它坐上第一靠的是實力，不是行銷。"
+            },
+            {
+              "title": "Optimum Nutrition 是整個品類拿來當標竿的性價比基準",
+              "body": "每份 5 克微粒化單水肌酸，禁用物質檢驗，價格算下來一份大概台幣十塊出頭，而且幾乎到處都買得到。肌酸是一種你會吃好幾年的日常習慣，每份成本不是小事，對大多數人來說根本是決勝點。Optimum Nutrition 用比誰都低的價格給你經過驗證的劑量，這讓它成為新手第一罐最聰明的選擇。"
+            },
+            {
+              "title": "軟糖熱潮有個劑量問題，Create 就是解方",
+              "body": "2025 年底的獨立檢驗發現，市面上將近一半的肌酸軟糖實際含量比標示少，這讓方便的劑型變成一場賭博。Create 把每個環節都補上了，Creapure 原料、NSF Certified for Sport、再加 Eurofins 驗證真實含量確認劑量真的在裡面。想要軟糖的方便又不想賭標示的人，買這款就對了。"
+            },
+            {
+              "title": "女性配方擴大了市場，裡面的單水肌酸是真材實料",
+              "body": "Bloom、Wellah 跟 Lemme 把一整批新受眾拉進肌酸市場，而且這個前提有研究撐腰，女性天生的肌酸儲存量明顯較低，補充後反應很好。這些產品核心就是真的 5 克單水肌酸。它們排在前段班後面，是輸在第三方文件跟每克成本，軟糖尤其明顯，但作為一個為了持續而設計的日常習慣，它們站得住這個位置。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-07-16",
+      "rankings": [
+        {
+          "id": "thorne-creatine",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "purity": 9.6,
+            "testing": 9.7,
+            "dosage": 9.5,
+            "format": 8.8,
+            "value": 9.4
+          }
+        },
+        {
+          "id": "optimum-nutrition-micronized-creatine",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "purity": 9.0,
+            "testing": 8.9,
+            "dosage": 9.5,
+            "format": 8.9,
+            "value": 9.8
+          }
+        },
+        {
+          "id": "momentous-creatine",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "purity": 9.8,
+            "testing": 9.8,
+            "dosage": 9.5,
+            "format": 8.7,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "transparent-labs-creatine-hmb",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "purity": 9.2,
+            "testing": 9.4,
+            "dosage": 9.3,
+            "format": 9.2,
+            "value": 7.6
+          }
+        },
+        {
+          "id": "legion-micronized-creatine",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "purity": 9.3,
+            "testing": 9.0,
+            "dosage": 9.5,
+            "format": 8.9,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "create-creatine-gummies",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "purity": 9.3,
+            "testing": 9.5,
+            "dosage": 8.8,
+            "format": 9.4,
+            "value": 7.4
+          }
+        },
+        {
+          "id": "nutricost-creatine-monohydrate",
+          "rank": 7,
+          "score": 8.4,
+          "scores": {
+            "purity": 8.6,
+            "testing": 8.3,
+            "dosage": 9.5,
+            "format": 8.6,
+            "value": 9.9
+          }
+        },
+        {
+          "id": "bloom-creatine-monohydrate",
+          "rank": 8,
+          "score": 8.2,
+          "scores": {
+            "purity": 8.5,
+            "testing": 7.8,
+            "dosage": 9.5,
+            "format": 8.8,
+            "value": 8.9
+          }
+        },
+        {
+          "id": "wellah-creatine-for-women",
+          "rank": 9,
+          "score": 8.1,
+          "scores": {
+            "purity": 8.4,
+            "testing": 7.9,
+            "dosage": 9.5,
+            "format": 8.7,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "lemme-creatine-gummies",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "purity": 8.8,
+            "testing": 9.2,
+            "dosage": 8.8,
+            "format": 9.3,
+            "value": 6.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best Creatine Supplements 2026",
+          "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-creatine-supplements/",
+          "source": "Forbes Vetted"
+        },
+        {
+          "title": "We Tested the Best Creatine Monohydrate Supplements in 2026",
+          "url": "https://www.healthline.com/nutrition/best-creatine",
+          "source": "Healthline"
+        },
+        {
+          "title": "Best Creatine Supplements of 2026: RD Approved",
+          "url": "https://www.garagegymreviews.com/best-creatine",
+          "source": "Garage Gym Reviews"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Thorne Creatine keeps my top spot this week and the reason is simple: it is a single ingredient tub of clean, NSF Certified for Sport monohydrate at a price that never makes you flinch. When the whole category boils down to getting 5g of well tested monohydrate into your body every day, Thorne nails the essentials without asking you to pay for flavor gimmicks. Optimum Nutrition stays at number two because it is the value king, and if you buy in bulk the per serving cost is hard to beat anywhere. I do want to flag movement in the reviews this week. Forbes crowned Transparent Labs Creatine HMB as its overall winner, and I get the appeal since the added HMB and clean formulation are genuinely good. It sits fourth for me only because you pay a premium for that HMB, and the research on HMB stacking is softer than the mountain of evidence behind plain monohydrate. Momentous holds third on the strength of Creapure sourcing and third party testing that competitive athletes trust. The gummy formats keep growing in popularity and Create earns its sixth spot for taste and testing, though the value math still favors powder if you are dosing daily. My steady advice has not changed: pick any third party tested 5g monohydrate, take it every single day, and do not overthink the fancier forms.",
+          "highlights": [
+            {
+              "title": "Thorne stays the smart default",
+              "body": "Single ingredient, NSF Certified for Sport, and priced fairly. A 9.7 on testing is why it holds my number one across the board."
+            },
+            {
+              "title": "Transparent Labs took a Forbes crown",
+              "body": "Forbes named its Creatine HMB the overall winner this week. I keep it fourth because you pay a premium for HMB that plain monohydrate does not need."
+            },
+            {
+              "title": "Optimum Nutrition owns value",
+              "body": "A 9.8 on value and reliable micronized mixability make it the bulk buyer's pick and my steady number two."
+            },
+            {
+              "title": "Gummies are convenient, not cheaper",
+              "body": "Create scores well on taste and testing at sixth, but powder still wins the cost per gram if you dose every day."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週 Thorne 肌酸依然守住我的第一，原因很單純，它就是一罐單一成分、通過 NSF Certified for Sport 認證的乾淨單水肌酸，價格又親民到你不會皺眉。整個品類講到底就是每天把 5g 經過良好檢測的單水肌酸吃進身體，Thorne 把基本功做好，也不會逼你為了口味花招掏錢。ON 穩坐第二，因為它就是 CP 值之王，整桶大包裝買下去，每份成本幾乎沒對手。這禮拜評測有些變動我想提一下，Forbes 把 Transparent Labs 的 Creatine HMB 選為總冠軍，我懂它的魅力，多加的 HMB 跟乾淨配方確實不錯。它在我這只排第四，是因為那個 HMB 要你多付錢，而 HMB 堆疊的研究，比起單水肌酸那座證據大山還是軟了一截。Momentous 靠 Creapure 原料跟競技選手信任的第三方檢測守住第三。軟糖劑型人氣一直在漲，Create 靠口味跟檢測拿下第六，不過每天固定吃的話，成本帳還是粉狀划算。我一貫的建議沒變，挑任何一款有第三方檢測的 5g 單水肌酸，每天乖乖吃，那些花俏的形式別想太多。",
+          "highlights": [
+            {
+              "title": "Thorne 依然是聰明的預設值",
+              "body": "單一成分、NSF Certified for Sport 認證、價格公道，檢測面拿 9.7 分，這就是它全面守住第一的原因。"
+            },
+            {
+              "title": "Transparent Labs 拿下 Forbes 冠軍",
+              "body": "這禮拜 Forbes 把它的 Creatine HMB 選為總冠軍。我讓它排第四，是因為 HMB 要你多付錢，而單水肌酸根本不需要它。"
+            },
+            {
+              "title": "ON 掌握 CP 值",
+              "body": "價值面 9.8 分加上可靠的微粒化沖泡性，讓它成為大包裝買家的首選跟我穩定的第二名。"
+            },
+            {
+              "title": "軟糖方便但不便宜",
+              "body": "Create 靠口味跟檢測拿第六，但每天吃的話,每克成本還是粉狀勝出。"
+            }
           ]
         }
       }

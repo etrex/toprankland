@@ -14485,6 +14485,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-16",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 8.6
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "codeQuality": 8.9,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 4,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 5,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Coding Assistants as of July 2026",
+          "url": "https://www.shakudo.io/blog/best-ai-coding-assistants",
+          "source": "Shakudo"
+        },
+        {
+          "title": "Best AI Coding Agents for 2026: Real-World Developer Reviews",
+          "url": "https://www.faros.ai/blog/best-ai-coding-agents-2026",
+          "source": "Faros AI"
+        },
+        {
+          "title": "Best AI for Coding July 2026: Top 10 Coding Models Ranked",
+          "url": "https://www.buildmvpfast.com/articles/best-llms-2026-guide/coding-ai",
+          "source": "BuildMVPFast"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code holds my number one spot again this week and honestly the gap at the top is more about workflow than raw talent now. What keeps it ahead is the combination that nobody else matches cleanly: the strongest reasoning on genuinely hard debugging, a 1M token window that swallows a real codebase, and agentic subagents that plan and execute multi-file changes without me babysitting every step. Cursor stays a very close second because it owns the in-editor experience. If your day is a stream of small to medium edits, the autocomplete and visual diffs make it feel effortless, and that flow state has real value. The story of July is the shift from assistant to agent. Everyone is racing the same direction now, and I saw fresh entrants stir the pot this week with xAI shipping Grok Build and Zhipu pushing GLM as the strongest open weight option. OpenAI Codex keeps its podium finish for me thanks to the GPT-5.6 rollout, and it is the one I reach for when I want an autonomous run on a well scoped task. My honest take for most developers is to run a pairing: Cursor for everyday shipping, Claude Code for the architecture and the nasty bugs. Google Jules remains a smart cloud pick if you live in async pull request reviews. Copilot is still the safest team default because the IDE integration is flawless even if the value math is tight at the price.",
+          "highlights": [
+            {
+              "title": "Claude Code stays the intelligence leader",
+              "body": "The 1M context window plus subagents that own multi-file work is why it keeps a 9.4 and my top pick for the hardest problems."
+            },
+            {
+              "title": "Cursor owns the flow",
+              "body": "Fast autocomplete and clean visual diffs make it the best pure IDE experience. A 9.5 on integration is well earned for daily shipping."
+            },
+            {
+              "title": "The agent era is here",
+              "body": "Grok Build and a stronger open weight GLM entered the conversation this week, proof the whole field is racing toward autonomous multi-step agents."
+            },
+            {
+              "title": "Codex for scoped autonomy",
+              "body": "With GPT-5.6 generally available, Codex holds third and is my go-to when I want to hand off a clearly defined task and walk away."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週 Claude Code 依然穩坐我的第一名，說真的現在頂端的差距比較是工作流的差別，不是純實力的差別。它能領先的關鍵是別人湊不齊的組合，超強的推理能力應付真正難搞的除錯，1M token 的上下文可以直接吞下一整個專案，還有會自己規劃跟執行跨檔案修改的 subagent，我不用一步一步盯著。Cursor 緊追在後拿第二，因為編輯器內的體驗真的是它的地盤。如果你一整天都在做中小型的修改，自動補全跟視覺化 diff 用起來就是順，那種心流很有價值。七月的重點就是從助理進化成代理人，大家現在都往同一個方向衝。這禮拜還有新玩家攪局，xAI 推出 Grok Build，智譜的 GLM 也被講成最強的開源權重選項。OpenAI Codex 靠著 GPT-5.6 上線繼續守住我的季軍，需求明確的任務我會丟給它自己跑。給多數工程師的老實建議是搭配著用，日常出貨用 Cursor，架構跟硬骨頭的 bug 交給 Claude Code。Google Jules 如果你習慣非同步的 PR 審查依然是聰明的雲端選擇。Copilot 在團隊裡還是最安全的預設值，IDE 整合做得無懈可擊，就算以它的價格來算 CP 值有點緊。",
+          "highlights": [
+            {
+              "title": "Claude Code 依然是智慧擔當",
+              "body": "1M 上下文加上能扛下跨檔案工作的 subagent，這就是它維持 9.4 分、難題我一定找它的原因。"
+            },
+            {
+              "title": "Cursor 掌握心流",
+              "body": "快速的自動補全跟乾淨的視覺化 diff，讓它成為最好的純 IDE 體驗，整合面拿 9.5 分實至名歸。"
+            },
+            {
+              "title": "代理人時代真的來了",
+              "body": "這禮拜 Grok Build 跟更強的開源 GLM 都進場了，證明整個領域都在朝自主的多步驟代理人狂奔。"
+            },
+            {
+              "title": "Codex 適合明確任務的自主跑",
+              "body": "GPT-5.6 全面上線後 Codex 守住第三，需求講清楚的任務我會直接交給它然後走人。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -9454,6 +9454,216 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-16",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.4,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 4,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "fish-audio-openaudio-s1",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.1,
+            "emotionalRange": 8.8,
+            "languageSupport": 8.0,
+            "latency": 8.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 9.8,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 8,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "voiceRealism": 8.0,
+            "emotionalRange": 7.6,
+            "languageSupport": 8.6,
+            "latency": 7.7,
+            "valueForMoney": 8.4
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "ElevenLabs News | July 2026 (Scribe v2, ElevenMusic iOS)",
+          "url": "https://blog.mean.ceo/elevenlabs-news-july-2026/",
+          "source": "Mean.CEO"
+        },
+        {
+          "title": "Best AI Voice Generators in 2026: APIs Ranked by Quality, Latency, and Price",
+          "url": "https://gradium.ai/content/best-ai-voice-generators-2026",
+          "source": "Gradium"
+        },
+        {
+          "title": "ElevenLabs Review 2026: The Most Realistic AI Voice Generator?",
+          "url": "https://ucstrategies.com/news/elevenlabs-review-2026-the-most-realistic-ai-voice-generator/",
+          "source": "UC Strategies"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs holds my top spot again this week, and the reason is simple. It keeps shipping the pieces that make it a full audio stack rather than a single text-to-speech box. The new Scribe v2 transcription engine landed with keyterm biasing and disfluency removal, which matters a lot if you feed generated dialogue back into an editing pipeline. Add the fresh ElevenMusic iOS app and you get a company that owns voice, dubbing, music, and transcription under one login. For English realism at the 22 dollar Creator tier, nothing here touches it. Inworld TTS 1.5 Max stays glued to second because its real-time latency is genuinely special for live agents and game dialogue. If your app talks back to users in the moment, this is the one I reach for. Cartesia Sonic 3 keeps its perfect latency score and remains my pick for anyone building interactive voice where every millisecond shows. Hume Octave 2 still owns the emotional-range crown, so I keep recommending it for audiobook and character work where delivery carries the scene. Fish Audio OpenAudio S1 is the value story of the board, delivering near-flagship realism at a price that makes heavy batch jobs painless. Down the list, WellSaid and Speechify remain solid enterprise-friendly picks, though their value scores keep them mid-pack. This is a mature field now, and the gap between the top four is small enough that your use case, not the leaderboard, should make the final call.",
+          "highlights": [
+            {
+              "title": "ElevenLabs becomes a full audio stack",
+              "body": "Scribe v2 adds keyterm biasing and disfluency removal, and the new ElevenMusic iOS app rounds out voice, dubbing, and transcription under one login. It stays my number one for English realism."
+            },
+            {
+              "title": "Inworld wins for live latency",
+              "body": "TTS 1.5 Max holds second because it answers users in real time. For voice agents and game dialogue this is the one I reach for."
+            },
+            {
+              "title": "Hume owns emotional delivery",
+              "body": "Octave 2 keeps the 9.7 emotional-range score, so I still send audiobook and character work its way."
+            },
+            {
+              "title": "Fish Audio is the value play",
+              "body": "OpenAudio S1 delivers near-flagship realism at a price that makes heavy batch jobs painless, earning the board's top 9.8 value score."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ElevenLabs 這週我還是放第一，理由很單純，它一直在補齊整套音訊生態的拼圖，早就不只是單純的文字轉語音工具了。這次新推出的 Scribe v2 轉錄引擎帶了關鍵詞偏誤校正跟贅字移除，如果你會把生成的對白再丟回剪輯流程，這功能真的很實用。再加上新的 ElevenMusic iOS App，等於一個帳號就把語音、配音、音樂、轉錄全包了。講到英文的擬真度，月付 22 美金的 Creator 方案這價位，其他家真的追不上。Inworld TTS 1.5 Max 穩穩守著第二，它的即時延遲對做語音代理跟遊戲對白來說真的很有一套。你的 App 要跟使用者即時對答，我第一個就想到它。Cartesia Sonic 3 延遲分數依舊滿分，做互動語音在意每一毫秒的人，我還是推它。情感表現的王座 Hume Octave 2 目前還是拿著，所以有聲書跟角色配音這種靠演技帶戲的案子，我都推它。Fish Audio OpenAudio S1 是這份榜單裡的性價比之王，擬真度逼近旗艦，價格卻低到讓你大量批次跑也不心痛。往下看，WellSaid 跟 Speechify 依舊是企業愛用的穩定選擇，不過性價比分數把它們卡在中段。這個領域現在很成熟了，前四名差距小到你該看自己的使用情境來選，不是看排行榜。",
+          "highlights": [
+            {
+              "title": "ElevenLabs 變成整套音訊生態",
+              "body": "Scribe v2 加了關鍵詞校正跟贅字移除，新的 ElevenMusic iOS App 把語音、配音、轉錄都收進同一個帳號。英文擬真度這塊，它還是我心中第一。"
+            },
+            {
+              "title": "Inworld 即時延遲最強",
+              "body": "TTS 1.5 Max 守住第二，因為它能即時回應使用者。做語音代理跟遊戲對白，我第一個想到它。"
+            },
+            {
+              "title": "Hume 情感演技無敵",
+              "body": "Octave 2 情感表現守住 9.7 分，有聲書跟角色配音的案子我還是都丟給它。"
+            },
+            {
+              "title": "Fish Audio 是性價比首選",
+              "body": "OpenAudio S1 擬真度逼近旗艦，價格卻低到大量批次跑也不痛，性價比 9.8 分是全榜最高。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
