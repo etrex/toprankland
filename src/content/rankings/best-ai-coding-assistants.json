@@ -194,6 +194,38 @@
           "description": "專攻企業級大型程式庫的 AI 編程助手，支援 VS Code 和 JetBrains，透過深度程式庫索引理解整個專案上下文，採用信用點數制計費。"
         }
       }
+    },
+    {
+      "id": "google-antigravity",
+      "name": "Google Antigravity",
+      "brand": "Google",
+      "url": "https://antigravity.google/",
+      "i18n": {
+        "en": {
+          "priceRange": "Free / usage-based",
+          "description": "Google's agent-first IDE launched at I/O 2026, pairing a multi-agent desktop app with a Go CLI and SDK, all driven by Gemini 3.5 Flash. Flash runs roughly four times faster than frontier rivals while holding a huge context window, and the free public tier makes it the easiest way I've found to run parallel coding agents without a subscription."
+        },
+        "zh-tw": {
+          "priceRange": "免費 / 用量計費",
+          "description": "Google 在 2026 I/O 端出的 agent-first IDE，桌面版、Go CLI、SDK 一次到位，底層跑的是 Gemini 3.5 Flash。Flash 的速度大概是前沿模型的四倍，上下文視窗又夠大，多個 agent 平行跑起來很順。公開版本有免費方案，想在不綁訂閱的情況下體驗多代理協作，我會直接推這套。"
+        }
+      }
+    },
+    {
+      "id": "kiro",
+      "name": "Kiro",
+      "brand": "AWS",
+      "url": "https://kiro.dev/",
+      "i18n": {
+        "en": {
+          "priceRange": "Free / $19/mo",
+          "description": "AWS's spec-driven agentic IDE, built on a VS Code base and powered by Bedrock, now the home for what used to be the Amazon Q Developer CLI. Its spec-first workflow and Agent Hooks automation turn requirements into structured plans before code gets written, which is why I reach for it on enterprise projects where traceability matters as much as speed."
+        },
+        "zh-tw": {
+          "priceRange": "免費 / 約 NT$608/月",
+          "description": "AWS 推的 spec-driven agentic IDE，以 VS Code 為底、後端接 Bedrock，原本 Amazon Q Developer CLI 的功能現在都收進這裡。它走的是先寫規格再產程式碼的流程，搭配 Agent Hooks 自動化，會先把需求整理成結構化計畫再動手。我自己在那種既要速度、又要每一步都能追溯的企業專案上，會優先拿它來用。"
+        }
+      }
     }
   ],
   "history": [
@@ -14724,8 +14756,20 @@
           }
         },
         {
-          "id": "google-jules",
+          "id": "google-antigravity",
           "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
           "score": 8.2,
           "scores": {
             "codeQuality": 8,
@@ -14733,18 +14777,6 @@
             "ideIntegration": 7.5,
             "agenticCapability": 8.5,
             "valueForMoney": 8.5
-          }
-        },
-        {
-          "id": "github-copilot",
-          "rank": 5,
-          "score": 7.9,
-          "scores": {
-            "codeQuality": 8.5,
-            "contextWindow": 8,
-            "ideIntegration": 9.5,
-            "agenticCapability": 8,
-            "valueForMoney": 6.1
           }
         },
         {
@@ -14760,8 +14792,32 @@
           }
         },
         {
-          "id": "amazon-q-developer",
+          "id": "github-copilot",
           "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
           "score": 7.8,
           "scores": {
             "codeQuality": 7.5,
@@ -14773,7 +14829,7 @@
         },
         {
           "id": "zed",
-          "rank": 8,
+          "rank": 10,
           "score": 7.8,
           "scores": {
             "codeQuality": 8,
@@ -14785,7 +14841,7 @@
         },
         {
           "id": "aider",
-          "rank": 9,
+          "rank": 11,
           "score": 7.7,
           "scores": {
             "codeQuality": 8,
@@ -14797,7 +14853,7 @@
         },
         {
           "id": "windsurf",
-          "rank": 10,
+          "rank": 12,
           "score": 7.7,
           "scores": {
             "codeQuality": 7.5,
@@ -14809,7 +14865,7 @@
         },
         {
           "id": "augment-code",
-          "rank": 11,
+          "rank": 13,
           "score": 7.6,
           "scores": {
             "codeQuality": 7.5,
