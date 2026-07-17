@@ -9513,6 +9513,212 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-17",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.7,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.0,
+            "audioVideoSync": 9.4,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.7,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best Text-to-Video AI Generators July 2026: Top 10 Models Ranked",
+          "url": "https://www.buildmvpfast.com/articles/best-llms-2026-guide/video-generation-ai",
+          "source": "BuildMVPFast"
+        },
+        {
+          "title": "Seedance 2.0 vs. Kling, Runway & Sora: Best AI Video Generator 2026?",
+          "url": "https://www.ai.cc/blogs/seedance-2-vs-top-ai-video-generators-2026/",
+          "source": "AI.cc"
+        },
+        {
+          "title": "AI Video Generation API Pricing (July 2026): Veo 3.1, Kling 3.0, Seedance, Runway Costs",
+          "url": "https://www.buildmvpfast.com/api-costs/ai-video",
+          "source": "BuildMVPFast"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Kling 3.0 keeps my top spot this week and the math behind that is easy to follow. At roughly eleven to fourteen cents a second it lets me run more realistic iterations than any rival, and when I am building a real project the number of usable takes per dollar decides everything. Seedance holds second because its long-form image-to-video work is the strongest I generate right now, with native 4K clips and deep reference-image support that keep a scene coherent past the point where most models drift. Veo 3.1 sits a hair behind at third and stays my recommendation when native audio and lip sync carry the shot, since its per-second Standard, Fast, and Lite tiers let me match spend to how much polish a clip actually needs. Runway Gen-4.5 remains the pick for teams who care about camera control and structured prompting, the stuff that matters once a clip has to slot into a real edit. This week brought pricing clarity across the board and fresh comparison data rather than a new leader, so I held every rank steady. That is the honest read. The frontier is moving through cost and controllability instead of raw fidelity right now, and the models that win my recommendation are the ones that turn a prompt into something I can actually ship without twenty wasted renders.",
+          "highlights": [
+            {
+              "title": "Kling 3.0 wins on iterations per dollar",
+              "body": "At eleven to fourteen cents a second, Kling gives me the most realistic usable takes for the money. When a project needs volume, that economics decides the tool."
+            },
+            {
+              "title": "Seedance owns long-form",
+              "body": "Native 4K clips and broad reference-image support let Seedance hold a scene coherent well past where cheaper models lose the thread. It is my pick for extended shots."
+            },
+            {
+              "title": "Veo 3.1 for audio-driven work",
+              "body": "Native audio and lip sync remain Veo's edge, and the Standard, Fast, and Lite per-second tiers let me match spend to the polish each clip genuinely requires."
+            },
+            {
+              "title": "Runway for real editing pipelines",
+              "body": "Camera moves and structured prompting make Gen-4.5 the choice when a clip has to drop into a professional timeline. Control beats leaderboard screenshots here."
+            },
+            {
+              "title": "A pricing week, not a shakeup",
+              "body": "Fresh cost breakdowns and comparison data arrived without a new leader, so I kept every rank in place. Stability is the accurate call this week."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週 Kling 3.0 繼續坐我心中的第一名，理由很直接。一秒差不多台幣三到四塊，同樣的預算它能生出來的可用鏡頭數量就是比對手多，做真案子的時候，每塊錢換到幾個能用的 take，這件事直接決定我選哪個工具。Seedance 穩坐第二，它的長片段圖生影片是我現在生得出來最強的，原生 4K 加上一大堆參考圖支援，一個場景拉長還是連貫，換別的模型早就飄掉了。Veo 3.1 緊咬第三，只要那顆鏡頭要靠原生配音跟對嘴，我還是推它，它的 Standard、Fast、Lite 分秒計費讓我可以照這支片到底要多細來抓預算，很實用。Runway Gen-4.5 則是給那種在意運鏡控制跟結構化提示的團隊，這些東西在片子要進真的剪輯流程時才顯得出價值。老實說這禮拜就是各家把價格講清楚、多了一些比較數據，沒有換王，所以我全部排名照舊。現在這條前線是在拚成本跟可控性，不是在拚純畫質，能拿到我推薦的，都是那種把一句提示變成我真的能交件、不用浪費二十次算圖的模型。",
+          "highlights": [
+            {
+              "title": "Kling 3.0 贏在每塊錢的產出",
+              "body": "一秒約台幣三到四塊，同預算下它給我最多能用的擬真鏡頭。案子要衝量的時候，這個成本結構就是決勝點。"
+            },
+            {
+              "title": "Seedance 長片段最穩",
+              "body": "原生 4K 加上大量參考圖支援，場景拉長它還是接得住，便宜的模型早就跑掉了。要長鏡頭我選它。"
+            },
+            {
+              "title": "Veo 3.1 適合配音場",
+              "body": "原生配音跟對嘴是 Veo 的強項，Standard、Fast、Lite 分秒計費讓我照這支片要多細來抓預算，錢花得剛好。"
+            },
+            {
+              "title": "Runway 給真的要剪輯的人",
+              "body": "運鏡跟結構化提示讓 Gen-4.5 在片子要進專業時間軸時很好用。這裡看的是控制力，不是排行榜截圖。"
+            },
+            {
+              "title": "這週是價格週，不是洗牌週",
+              "body": "各家把成本跟比較數據攤開來講，但沒換王，所以我排名全照舊。這禮拜講穩定才是準的。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

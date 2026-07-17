@@ -11881,6 +11881,168 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-17",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.6,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.2,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.0,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "The 3 Best VPNs of 2026",
+          "url": "https://www.rtings.com/vpn/reviews/best/vpn",
+          "source": "RTINGS"
+        },
+        {
+          "title": "Mullvad vs NordVPN vs Proton VPN: Privacy Compared (2026)",
+          "url": "https://ifeeltech.com/blog/mullvad-vs-nordvpn-vs-proton-vpn",
+          "source": "iFeeltech"
+        },
+        {
+          "title": "NordVPN vs Mullvad: 12 Tests, 1 Clear Winner in 2026",
+          "url": "https://cyberinsider.com/vpn/comparison/nordvpn-vs-mullvad/",
+          "source": "CyberInsider"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Mullvad holds number one, and its case only gets stronger over time. It asks for no email, takes cash payment, and survived a 2023 police raid that found nothing to seize, which is the most coherent privacy model in the whole category. Since it went WireGuard-only in January 2026, it also runs a leaner, more auditable stack, and that focus is exactly what a privacy purist wants. This week I nudged Proton VPN up a tenth on server network. Fresh July 2026 reporting confirms Proton has crossed 20,000 servers across 148 countries, adding six new countries including Papua New Guinea and Kyrgyzstan. That is a genuine reach advantage for people who need an exit node in hard-to-cover regions, and it earns the bump. Proton stays at second overall on the strength of its audited no-logs record and open-source apps. NordVPN holds third and remains the best all-around choice for most people, having cleared its sixth independent no-logs audit and posting speeds at or near the top of every test. IVPN keeps fourth as the quiet privacy pick. I left every rank in place. The news this cycle sharpened one score without reshaping the board, and I move a product only when the evidence demands it. For pure anonymity, Mullvad is still the one I trust most.",
+          "highlights": [
+            {
+              "title": "Mullvad keeps the privacy crown",
+              "body": "No email, cash payment, and a WireGuard-only stack since January 2026 make it the most coherent privacy model on the board. A 2023 raid that seized nothing proves the promise."
+            },
+            {
+              "title": "Proton VPN gains on server network",
+              "body": "July 2026 reporting confirms it crossed 20,000 servers in 148 countries, adding six new countries. That reach earns a network score bump and holds it firmly at second."
+            },
+            {
+              "title": "NordVPN is the all-around pick",
+              "body": "It cleared its sixth independent no-logs audit and posts top-tier speeds across every test. For most people who want speed and trust together, it stays the safe choice."
+            },
+            {
+              "title": "IVPN is the quiet privacy pick",
+              "body": "A strong no-logs stance and clean apps keep it at fourth. It is the VPN I point privacy-minded users toward when they want a lower-profile alternative to Mullvad."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Mullvad 守住第一，而且它的說服力是隨時間越來越強的那種。它不要 email、收現金付款，還撐過 2023 年那場什麼都沒查扣到的警方搜索，這是整個類別裡最一致的隱私模型。自從 2026 年一月改成只跑 WireGuard 之後，它的架構更精簡、更好稽核，這種專注正是隱私純粹主義者要的。這週我把 Proton VPN 的伺服器網路往上加了 0.1。2026 年七月最新報導確認 Proton 已經跨過兩萬台伺服器、涵蓋 148 個國家，還新增了六個國家，包括巴布亞紐幾內亞跟吉爾吉斯。老實講，對那些需要在冷門地區找出口節點的人，這是實打實的覆蓋優勢，值得加分。Proton 靠稽核過的無紀錄紀錄跟開源 App，穩守整體第二。NordVPN 守第三，對大多數人來說還是最全能的選擇，它剛通過第六次獨立無紀錄稽核，速度在每一項測試都在頂端或接近頂端。IVPN 守第四，是低調的隱私款。這一輪我全部維持排名，因為這波新聞是磨利了一個分數，而不是重塑整張榜，我只有在證據逼我時才會動。要純粹匿名，Mullvad 還是我最信任的那個。",
+          "highlights": [
+            {
+              "title": "Mullvad 守住隱私王座",
+              "body": "不要 email、收現金、2026 一月起只跑 WireGuard，是榜上最一致的隱私模型。2023 那場什麼都沒查扣到的搜索，證明了它的承諾。"
+            },
+            {
+              "title": "Proton VPN 伺服器網路加分",
+              "body": "2026 七月報導確認它跨過兩萬台伺服器、涵蓋 148 國，還新增六個國家。這份覆蓋為它的網路分加分，穩守第二。"
+            },
+            {
+              "title": "NordVPN 是最全能的選擇",
+              "body": "它剛通過第六次獨立無紀錄稽核，速度在每項測試都在頂端。對想要速度加信任兩者兼得的大多數人，它是穩的選擇。"
+            },
+            {
+              "title": "IVPN 是低調的隱私款",
+              "body": "扎實的無紀錄立場加上乾淨的 App，守在第四。想要比 Mullvad 更低調的替代方案時，我就把重隱私的人指向它。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

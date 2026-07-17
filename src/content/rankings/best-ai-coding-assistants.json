@@ -14683,6 +14683,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-17",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "codeQuality": 8.9,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 4,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 5,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 9,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Claude Code vs. Cursor vs. Codex vs. Antigravity - six months in",
+          "url": "https://thenewstack.io/claude-code-vs-cursor-vs-codex-vs-antigravity-2026/",
+          "source": "The New Stack"
+        },
+        {
+          "title": "GitHub Copilot Under Pressure: Cursor and Claude Code Are Eating Its Lunch (2026)",
+          "url": "https://pasqualepillitteri.it/en/news/3392/github-copilot-cursor-claude-code-ai-coding-showdown-2026",
+          "source": "Pasquale Pillitteri"
+        },
+        {
+          "title": "AI Coding Assistants Release Notes",
+          "url": "https://releasebot.io/updates/categories/ai-coding-assistants",
+          "source": "Releasebot"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code holds the top spot, and this week it earned a little more of it. Anthropic doubled Claude Code usage limits on the back of a fresh compute deal, so the plan that already delivered the strongest agentic coding on the market now stretches further before you hit a wall. That is the single change I made to the board, nudging value for money up a notch, because the daily reality of running heavy agent workloads just got cheaper for the same subscription. Everything else I kept steady, and I want to explain why. Cursor remains my pick for people who live inside an editor, and its new split seat pools plus a $120 Premium tier tell me it is leaning into power users who run agents all day. That is a smart move for its audience, and the IDE experience is still the best in class. OpenAI Codex keeps its third place on genuine agentic strength, and Copilot Vision reaching general availability in VS Code Chat is a real, useful addition for anyone pasting screenshots and PDFs into a session. I like where Copilot is heading on features even as its per-seat value keeps it mid pack. The pattern this month is maturity. The models under these tools moved forward, the pricing structures got more granular, and the leaders separated on agentic reliability rather than autocomplete tricks. If you want the most autonomous coding partner, Claude Code is the one I reach for.",
+          "highlights": [
+            {
+              "title": "Claude Code limits doubled",
+              "body": "Anthropic doubled Claude Code usage limits off a new compute deal, so heavy agent sessions run longer on the same plan. I raised value for money to 8.7 to reflect it."
+            },
+            {
+              "title": "Cursor courts power users",
+              "body": "Cursor split Teams seat usage into first-party and third-party model pools and added a $120 Premium seat with 5x usage. It stays my top choice for editor-native work."
+            },
+            {
+              "title": "Copilot Vision goes GA",
+              "body": "Copilot Vision is now generally available in VS Code Chat, so you can drop images and PDFs straight into a session. A practical feature win, though per-seat value keeps it at rank 5."
+            },
+            {
+              "title": "The board is stable",
+              "body": "Only Claude Code moved this week. The rest of the ranking held because the changes elsewhere were pricing and feature refinements rather than shifts in coding quality."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 繼續坐穩第一，而且這週它把這個位置坐得更穩了。Anthropic 靠一筆新的算力合約把 Claude Code 的用量上限直接翻倍，意思是這個本來就有全場最強 agent 編碼能力的方案，現在同樣一份訂閱可以跑更久才會撞到牆。老實說這是我這次唯一動到的地方，把它的 CP 值往上加一格，因為對每天跑大量 agent 工作流的人來說，等於同樣的錢變得更划算了。其他我全部維持不動，我想說清楚為什麼。Cursor 還是我推薦給整天泡在編輯器裡的人的首選，它這次把 Teams 座位拆成兩個用量池，還加了一個月費台幣約三千八的 Premium 方案，明顯是在服務那些整天掛著 agent 的重度使用者。這步棋走得聰明，而且它的 IDE 體驗依然是同級最好。OpenAI Codex 靠實打實的 agent 實力守住第三，Copilot Vision 在 VS Code Chat 正式上線也是真的好用，可以直接把截圖跟 PDF 丟進對話裡。我滿看好 Copilot 在功能面的走向，只是每個座位的定價讓它卡在中段。這個月的主軸就是成熟。底層模型往前走，定價結構越切越細，而領先者之間拉開差距靠的是 agent 的穩定度。想要最能自己動手的編碼夥伴，我還是拿 Claude Code。",
+          "highlights": [
+            {
+              "title": "Claude Code 用量翻倍",
+              "body": "Anthropic 靠新的算力合約把 Claude Code 用量上限翻倍，同樣方案下重度 agent 工作能跑更久。我把它的 CP 值調到 8.7 反映這件事。"
+            },
+            {
+              "title": "Cursor 主打重度用戶",
+              "body": "Cursor 把 Teams 座位拆成自家模型跟第三方模型兩個用量池，還加了月費約三千八的 Premium 座位，用量給到五倍。編輯器內原生開發它還是我的首選。"
+            },
+            {
+              "title": "Copilot Vision 正式上線",
+              "body": "Copilot Vision 在 VS Code Chat 正式推出，可以把圖片跟 PDF 直接拖進對話。功能上很實用，只是每座位定價讓它停在第五。"
+            },
+            {
+              "title": "榜單維持穩定",
+              "body": "這週只有 Claude Code 動了。其他名次都守住，因為別家的改動是定價跟功能的微調，不是編碼品質的位移。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

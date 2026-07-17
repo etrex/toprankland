@@ -7722,6 +7722,200 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-17",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 9.0,
+            "artisticQuality": 8.3,
+            "textRendering": 9.7,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.0,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Image Generators July 2026: GPT Image 2, Nano Banana Pro & FLUX.2",
+          "url": "https://www.buildmvpfast.com/articles/best-llms-2026-guide/image-generation-ai",
+          "source": "BuildMVPFast"
+        },
+        {
+          "title": "Best AI for Image Generation in 2026 — Ranked by Blind Human Votes",
+          "url": "https://llm-stats.com/leaderboards/best-ai-for-image-generation",
+          "source": "LLM-Stats"
+        },
+        {
+          "title": "The 9 Best AI Image Generation Models in 2026",
+          "url": "https://www.gradually.ai/en/ai-image-models/",
+          "source": "Gradually"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "GPT Image 2 stays at the top of my list, and the arena boards agree. On the LMArena text-to-image leaderboard it holds a 1,512 Elo as of this week, and its prompt adherence plus text rendering remain the best I can get for real client work. When I need type baked into a poster or a busy scene composed exactly as described, this is the model I reach for first. Midjourney V8.1 keeps its number two spot on pure artistry. For concept art, moodboards, and stylized campaigns, nothing gives me the painterly range and consistency that art directors keep asking for. Flux 2 Pro rounds out my podium as the photorealism and API workhorse. Growth teams pushing high volumes of product shots get the cleanest photoreal output with the most predictable cost per image. The big story this week is Google confirming Imagen 4 is deprecated and shuts down on August 17, 2026. I dropped its value score because paying to build on a model with a hard end date makes little sense for anyone shipping this quarter. Ideogram V3 stays my pick for anyone whose whole job is text on the canvas, and its rank four position is well earned. The rest of the field holds steady. My advice for July is simple. Pick GPT Image 2 for accuracy, Midjourney for style, and Flux for scale, and start migrating any Imagen 4 pipelines now before the shutdown forces your hand.",
+          "highlights": [
+            {
+              "title": "GPT Image 2 leads the arenas",
+              "body": "A 1,512 Elo on the LMArena text-to-image board this week, with prompt adherence and text rendering that stay best in class for production work."
+            },
+            {
+              "title": "Imagen 4 is on the clock",
+              "body": "Google confirmed a shutdown on August 17, 2026. I lowered its value score because building on a model with a fixed end date rarely pays off."
+            },
+            {
+              "title": "Midjourney V8.1 owns style",
+              "body": "Concept art, moodboards, and stylized campaigns still land best here. The painterly range is what keeps art directors coming back."
+            },
+            {
+              "title": "Flux 2 Pro is the scale pick",
+              "body": "Photoreal product shots at high volume through an API, with the most predictable cost per image for growth teams."
+            },
+            {
+              "title": "Migrate now, not later",
+              "body": "Anyone shipping this quarter on Imagen 4 should move pipelines to GPT Image 2 or Flux before the deadline forces a rushed switch."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "GPT Image 2 這週還是穩坐我心中第一，競技場排行榜也站在我這邊。LMArena 文字生圖榜上它拿到 1,512 Elo，指令服從度加上文字渲染依舊是我接客戶案子時最靠得住的組合。要把字準準嵌進海報，或要一個照描述精準排好的複雜場景，我第一個就開它。Midjourney V8.1 論純美感守住第二。概念美術、情緒板、風格化廣告這種東西，它那種繪畫感跟一致性，就是美術指導一直點名要的。Flux 2 Pro 排我第三，是照片寫實加 API 量產的主力。成長團隊要大量產品圖，它輸出最乾淨,每張成本也最好抓。這週最大條的消息，是 Google 確認 Imagen 4 進入淘汰，2026 年 8 月 17 日直接關掉。我把它的性價比分數往下調了，畢竟砸資源蓋在一個有明確死線的模型上，對這季要出貨的人來說實在划不來。Ideogram V3 依舊是那些整份工作就是在畫面上排文字的人的首選，第四名它坐得穩。其他名次都沒動。七月我的建議很直白，要準就用 GPT Image 2，要風格就 Midjourney，要量就 Flux，還有手上還在跑 Imagen 4 的管線，現在就開始搬，別等關站那天被逼著急就章。",
+          "highlights": [
+            {
+              "title": "GPT Image 2 領跑競技場",
+              "body": "這週 LMArena 文字生圖榜 1,512 Elo，指令服從跟文字渲染在正式案子上依舊是頂規水準。"
+            },
+            {
+              "title": "Imagen 4 開始倒數",
+              "body": "Google 確認 8 月 17 日關站。我把它性價比分數調低，蓋在有死線的模型上很難回本。"
+            },
+            {
+              "title": "Midjourney V8.1 拿下風格",
+              "body": "概念美術、情緒板、風格化廣告這種活它最順，那股繪畫感就是美術指導一直回頭找它的原因。"
+            },
+            {
+              "title": "Flux 2 Pro 是量產首選",
+              "body": "透過 API 大量產照片級產品圖，每張成本最好抓，成長團隊很吃這套。"
+            },
+            {
+              "title": "要搬趁現在",
+              "body": "這季還在 Imagen 4 上出貨的人，趁早把管線搬到 GPT Image 2 或 Flux，別等關站被逼著趕。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
