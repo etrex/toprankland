@@ -15159,6 +15159,228 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-20",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Coding Assistants as of July 2026",
+          "url": "https://www.shakudo.io/blog/best-ai-coding-assistants",
+          "source": "Shakudo"
+        },
+        {
+          "title": "Best AI Coding Assistants 2026: Top 10 Tools Tested & Ranked",
+          "url": "https://www.verdent.ai/guides/best-ai-coding-assistant-2026",
+          "source": "Verdent"
+        },
+        {
+          "title": "Best AI for Coding July 2026: Top 10 Coding Models Ranked",
+          "url": "https://www.buildmvpfast.com/articles/best-llms-2026-guide/coding-ai",
+          "source": "BuildMVPFast"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code keeps my top spot this week, and its move to the new Opus tier only widens the gap. It pairs the strongest coding model with a 1M-token context window and the most capable agentic loop, which means it reads a large codebase, plans a change, edits across files, runs tests, and reports back with less hand-holding than anything else I use. Cursor stays second because it is still the best AI-native IDE, weaving suggestions, visual diffs, and fast autocomplete into every keystroke for developers who want AI in the editor itself. OpenAI's Codex sits third and gains momentum as the GPT-5.6 family reaches general availability, sharpening its autonomous runs. Google Antigravity holds fourth on strong agentic behavior and excellent value, and Jules keeps fifth as a capable async agent. The big shift this year is the move from assistant to agent: describe a goal and the tool executes the whole loop, which is exactly where Claude Code, Cursor, and Codex separate from the pack. New entrants like xAI's Grok Build, launched July 8 with Grok 4.5, are circling, and Kiro keeps maturing as AWS's spec-driven successor to Amazon Q. I held scores flat this week because GPT-5.6 and the new model tiers are still bedding in. Once the fresh benchmarks stabilize, the middle of this list is where I expect the next reshuffle.",
+          "highlights": [
+            {
+              "title": "Claude Code widens the lead",
+              "body": "The strongest coding model, a 1M-token context window, and the most capable agentic loop let it plan and execute multi-file changes with less supervision than anything else I use."
+            },
+            {
+              "title": "Cursor owns the IDE experience",
+              "body": "It remains the best AI-native editor, weaving diffs, autocomplete, and agent mode into every keystroke, which keeps it locked at second for in-editor workflows."
+            },
+            {
+              "title": "Codex rides GPT-5.6 to general availability",
+              "body": "OpenAI's family reaching GA sharpens Codex's autonomous runs and keeps it firmly in third as one of the strongest agents on the list."
+            },
+            {
+              "title": "Assistants are becoming agents",
+              "body": "The defining shift of 2026 is describing a goal and letting the tool run the whole loop, which is exactly where the top three separate from the rest."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週 Claude Code 還是穩坐第一,升上新的 Opus 層級後領先又拉更開。它把最強的寫程式模型配上 100 萬 token 的上下文跟最能自主跑的 agent 迴圈,能讀懂大型專案、規劃修改、跨檔案編輯、跑測試再回報,整個過程比我用過的任何工具都不用盯,交給它就能安心去忙別的。Cursor 穩坐第二,它仍是最好用的 AI 原生 IDE,把建議、視覺化 diff 跟快速補全織進每一次敲鍵,想要 AI 直接長在編輯器裡的人首選。OpenAI Codex 排第三,隨著 GPT-5.6 家族全面上線,自主跑任務的能力更利了。Google Antigravity 第四,agent 表現強、又很超值,Jules 第五,是很能打的非同步 agent。今年最大的轉變就是從助手走向 agent,你講一個目標,它就把整個迴圈跑完,這正是 Claude Code、Cursor、Codex 跟其他人拉開差距的地方。新面孔也在旁邊虎視眈眈,xAI 的 Grok Build 7 月 8 日帶著 Grok 4.5 上場,Kiro 則持續成長,是 AWS 用 spec 驅動開發接棒 Amazon Q 的作品。這週分數我維持不動,GPT-5.6 跟新模型層級都還在磨合。等新跑分穩了,榜單中段我覺得就是下一波洗牌的位置。",
+          "highlights": [
+            {
+              "title": "Claude Code 領先再拉開",
+              "body": "最強寫程式模型、100 萬 token 上下文、最能自主的 agent 迴圈,讓它規劃並執行跨檔案修改時,比其他工具更不用盯。"
+            },
+            {
+              "title": "Cursor 拿下 IDE 體驗",
+              "body": "它仍是最好的 AI 原生編輯器,把 diff、補全、agent 模式織進每一次敲鍵,編輯器內工作流第二名坐得很穩。"
+            },
+            {
+              "title": "Codex 搭 GPT-5.6 全面上線",
+              "body": "OpenAI 家族進入 GA,把 Codex 自主跑任務的能力磨利,穩穩守住第三,是榜上最強的 agent 之一。"
+            },
+            {
+              "title": "助手正在變成 agent",
+              "body": "2026 最關鍵的轉變就是講一個目標讓工具把整個迴圈跑完,這正是前三名跟其他人拉開差距的地方。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

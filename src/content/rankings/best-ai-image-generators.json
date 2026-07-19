@@ -8102,6 +8102,192 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-20",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 9.0,
+            "artisticQuality": 8.3,
+            "textRendering": 9.7,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.0,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Image Generators July 2026: GPT Image 2, Nano Banana Pro & FLUX.2",
+          "url": "https://www.buildmvpfast.com/articles/best-llms-2026-guide/image-generation-ai",
+          "source": "BuildMVPFast"
+        },
+        {
+          "title": "Best AI for Image Generation in 2026, Ranked by Blind Human Votes",
+          "url": "https://llm-stats.com/leaderboards/best-ai-for-image-generation",
+          "source": "LLM-Stats"
+        },
+        {
+          "title": "Best AI Image Generators July 2026, Midjourney, Flux, DALL-E Compared",
+          "url": "https://aiflashreport.com/ai-image-generators.html",
+          "source": "AI Flash Report"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "GPT Image 2 keeps my top spot this week, and the arena leaderboards keep backing it up. It leads on prompt adherence and text rendering, which makes it the safest all-round pick for teams that need images to match a brief and carry clean text the first time. Midjourney V8 stays a close second and remains the destination for artists and art directors chasing concept art, moodboards, and stylized campaigns, where its aesthetic ceiling is still unmatched. Flux 2 Pro holds third as the developer and growth-team favorite, delivering photoreal product shots and high-volume marketing imagery through a clean API. The one change I made this week is at seven and eight: Google confirmed Imagen 4 is deprecated and shuts down on August 17, 2026, so I moved it below Recraft V3 and trimmed its value score. Recraft steps up to seventh on the strength of its brand and vector-friendly output that agencies keep leaning on. Ideogram V3 stays fourth as the text-in-images specialist, and Adobe Firefly holds fifth for teams that need commercially safe training data. The theme this year is specialization: there is a clear overall leader in GPT Image 2, but the smart move is matching the tool to whether you prioritize aesthetics, API scale, text accuracy, or licensing safety. Expect more movement as Imagen 4 fully sunsets next month.",
+          "highlights": [
+            {
+              "title": "GPT Image 2 leads prompt accuracy",
+              "body": "It tops the arenas for prompt adherence and text rendering, making it the safest all-round pick for teams that need images to match a brief on the first try."
+            },
+            {
+              "title": "Imagen 4 slips on deprecation",
+              "body": "Google confirmed Imagen 4 shuts down August 17, so I moved it below Recraft V3 and trimmed its value score to reflect a product with a fixed end date."
+            },
+            {
+              "title": "Midjourney still owns aesthetics",
+              "body": "For concept art, moodboards, and stylized campaigns, its artistic ceiling remains unmatched, which keeps it a close second for creative teams."
+            },
+            {
+              "title": "Specialize your pick",
+              "body": "GPT Image 2 is the clear overall leader, but match the tool to your priority, whether that is aesthetics, API scale, text accuracy, or licensing safety."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週 GPT Image 2 還是穩坐第一,各家競技場排行也一直幫它背書。它在指令貼合度跟文字渲染上領先,對於需要圖片一次就對到 brief、又要把文字排乾淨的團隊來說,是最保險的全能選擇。Midjourney V8 緊追在後拿第二,依舊是插畫師跟美術總監追概念圖、情緒板、風格化廣告的聖地,美感天花板到現在還沒人能比。Flux 2 Pro 排第三,是開發者跟成長團隊的最愛,透過乾淨的 API 就能大量產出擬真商品圖跟行銷素材。這週我唯一動到的是第七跟第八:Google 確認 Imagen 4 已經進入淘汰,8 月 17 日正式關閉,所以我把它移到 Recraft V3 下面,性價比分數也往下修,畢竟一個有明確關門日期的產品,叫人現在投入實在很難。Recraft 升上第七,靠的是品牌力跟對向量友善的輸出,代理商一直很吃這套。Ideogram V3 維持第四,是圖內文字的專家,Adobe Firefly 守住第五,適合需要商用安全訓練資料的團隊。今年的主軸就是分工,GPT Image 2 是明確的總冠軍,但聰明的做法是看你重視美感、API 量產、文字準度還是授權安全,對症下藥。等下個月 Imagen 4 完全退場,排名應該還會再動。",
+          "highlights": [
+            {
+              "title": "GPT Image 2 指令貼合最強",
+              "body": "它在指令貼合跟文字渲染上排名居首,對需要圖片一次到位、文字又要乾淨的團隊,是最保險的全能選擇。"
+            },
+            {
+              "title": "Imagen 4 因淘汰下滑",
+              "body": "Google 確認 Imagen 4 於 8 月 17 日關閉,我把它移到 Recraft V3 下面,性價比分數也下修,反映它已有明確關門日期。"
+            },
+            {
+              "title": "Midjourney 美感仍稱王",
+              "body": "概念圖、情緒板、風格化廣告,它的藝術天花板到現在還沒人能比,創意團隊心中穩穩的第二名。"
+            },
+            {
+              "title": "選工具要對症下藥",
+              "body": "GPT Image 2 是明確的總冠軍,但要看你重視美感、API 量產、文字準度還是授權安全,挑對那一項最實在。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
