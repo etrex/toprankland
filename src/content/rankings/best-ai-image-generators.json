@@ -21,7 +21,7 @@
   "competitors": [
     {
       "id": "midjourney-v8",
-      "name": "Midjourney V8",
+      "name": "Midjourney V8.1",
       "brand": "Midjourney",
       "url": "https://www.midjourney.com/",
       "i18n": {
@@ -69,16 +69,16 @@
     },
     {
       "id": "ideogram-v3",
-      "name": "Ideogram V3",
+      "name": "Ideogram 4.0",
       "brand": "Ideogram",
       "url": "https://ideogram.ai/",
       "i18n": {
         "en": {
-          "description": "The text-in-image specialist. Ideogram V3 hits 90-95% text accuracy, which is the difference between a finished poster and one that has to go to Photoshop. Free tier covers casual use, Plus at $20 unlocks unlimited slow generations.",
+          "description": "The typography specialist. Ideogram 4.0 landed in June 2026 and renders long headlines, logos, and packaging copy with letterforms that stay clean at small sizes. Magic Prompt expands short briefs into detailed scene descriptions, which makes it the fastest way I know to get a usable poster comp.",
           "priceRange": "Free 25/day, $8/mo Basic, $20/mo Plus"
         },
         "zh-tw": {
-          "description": "文字渲染的專家。Ideogram V3 文字準確率 90 到 95%，這個差距等於海報直接交件，或是還要丟去 Photoshop 修一輪。免費版每天 25 張夠隨手玩，Plus 方案約 NT$620 解鎖無限慢速生成，做行銷素材的人這個方案最划算。",
+          "description": "文字排版的專門戶。Ideogram 4.0 在 2026 年 6 月上線，長標題、Logo、包裝文案這類需要字型乾淨的東西，縮到小尺寸看還是清楚。Magic Prompt 會把一句話的簡短指令自動擴寫成完整場景描述，老實說，要快速生出一張能用的海報草稿，我目前沒看過比它更快的。",
           "priceRange": "免費 25 張/天，約 NT$250/月 Basic，約 NT$620/月 Plus"
         }
       }
@@ -103,7 +103,7 @@
       "id": "adobe-firefly-4",
       "name": "Adobe Firefly Image 4",
       "brand": "Adobe",
-      "url": "https://www.adobe.com/products/firefly.html",
+      "url": "https://firefly.adobe.com/",
       "i18n": {
         "en": {
           "description": "The commercial-safe default for agencies and brands. Firefly Image 4 trains only on Adobe Stock and licensed content, integrates natively into Photoshop and Express, and Standard at $9.99 covers 2,000 credits per month.",
@@ -176,6 +176,38 @@
         "zh-tw": {
           "description": "做遊戲素材的首選。Phoenix 1.5 處理角色一致性、可平鋪材質、等角視角這幾個遊戲開發場景，比任何通用模型都強。Apprentice 方案約 NT$370 每月 8,500 點，2024 年被 Canva 收購之後資源更穩定，獨立遊戲開發者跟同人圈用的人很多。",
           "priceRange": "免費 150 點/天，約 NT$370/月 Apprentice，約 NT$930/月 Artisan，約 NT$1,860/月 Maestro"
+        }
+      }
+    },
+    {
+      "id": "nano-banana-pro",
+      "name": "Nano Banana Pro (Gemini 3 Pro Image)",
+      "brand": "Google",
+      "url": "https://deepmind.google/models/gemini-image/",
+      "i18n": {
+        "en": {
+          "description": "The editing champion. Nano Banana Pro sits second overall behind GPT Image 2 on the Artificial Analysis arena and takes first place in the image-editing boards. It holds character identity across multiple edits and reads reference images with real accuracy, which is what makes iterative work on a single asset feasible.",
+          "priceRange": "$19.99/mo Google AI Pro, $0.13/image API"
+        },
+        "zh-tw": {
+          "description": "修圖這塊的冠軍。Nano Banana Pro 在 Artificial Analysis 競技場總排名僅次於 GPT Image 2，圖片編輯項目則直接拿第一。它連續改圖多次還能維持角色長相一致，讀參考圖的精準度也很實在，這正是同一張素材要反覆修改時最需要的能力。",
+          "priceRange": "約 NT$620/月 Google AI Pro，API 約 NT$4/張"
+        }
+      }
+    },
+    {
+      "id": "seedream-4-5",
+      "name": "Seedream 4.5",
+      "brand": "ByteDance",
+      "url": "https://seed.bytedance.com/en/seedream4_5",
+      "i18n": {
+        "en": {
+          "description": "The value pick of 2026. Seedream 4.5 is a 9-billion-parameter model from ByteDance that produces cinematic lighting and skin texture at roughly a twentieth of what the flagship APIs charge per image. Chinese and English typography both render cleanly, and 4K output comes standard.",
+          "priceRange": "$0.03/image API"
+        },
+        "zh-tw": {
+          "description": "2026 年性價比最猛的一款。Seedream 4.5 是字節跳動的 90 億參數模型，電影感打光跟皮膚質地表現扎實，每張圖的 API 費用大概只要旗艦模型的二十分之一。中英文排版都渲染得乾淨，4K 輸出是標配。",
+          "priceRange": "API 約 NT$1/張"
         }
       }
     }
@@ -8131,8 +8163,20 @@
           }
         },
         {
-          "id": "flux-2-pro",
+          "id": "nano-banana-pro",
           "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
           "score": 9.2,
           "scores": {
             "promptAccuracy": 9.0,
@@ -8143,8 +8187,20 @@
           }
         },
         {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
           "id": "ideogram-v3",
-          "rank": 4,
+          "rank": 6,
           "score": 8.6,
           "scores": {
             "promptAccuracy": 8.8,
@@ -8156,7 +8212,7 @@
         },
         {
           "id": "adobe-firefly-4",
-          "rank": 5,
+          "rank": 7,
           "score": 8.2,
           "scores": {
             "promptAccuracy": 8.0,
@@ -8168,7 +8224,7 @@
         },
         {
           "id": "stable-diffusion-3-5-large",
-          "rank": 6,
+          "rank": 8,
           "score": 8.0,
           "scores": {
             "promptAccuracy": 7.8,
@@ -8180,7 +8236,7 @@
         },
         {
           "id": "recraft-v3",
-          "rank": 7,
+          "rank": 9,
           "score": 7.9,
           "scores": {
             "promptAccuracy": 8.2,
@@ -8192,7 +8248,7 @@
         },
         {
           "id": "google-imagen-4",
-          "rank": 8,
+          "rank": 10,
           "score": 7.8,
           "scores": {
             "promptAccuracy": 8.7,
@@ -8204,7 +8260,7 @@
         },
         {
           "id": "krea-ai",
-          "rank": 9,
+          "rank": 11,
           "score": 7.8,
           "scores": {
             "promptAccuracy": 8.0,
@@ -8216,7 +8272,7 @@
         },
         {
           "id": "leonardo-phoenix",
-          "rank": 10,
+          "rank": 12,
           "score": 7.5,
           "scores": {
             "promptAccuracy": 7.5,

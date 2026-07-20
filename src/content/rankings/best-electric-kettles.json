@@ -178,6 +178,22 @@
           "priceRange": "約 NT$1,300"
         }
       }
+    },
+    {
+      "id": "fellow-stagg-ekg-pro",
+      "name": "Stagg EKG Pro",
+      "brand": "Fellow",
+      "url": "https://fellowproducts.com/products/stagg-ekg-pro-electric-kettle",
+      "i18n": {
+        "en": {
+          "description": "The pour-over kettle I reach for when precision matters. The EKG Pro adds a full LCD display, four saved brew profiles, and a scheduling feature to the Stagg platform, and it holds a set temperature within a degree for 60 minutes. The counterweighted gooseneck gives the slowest controllable pour of anything on this list.",
+          "priceRange": "$195"
+        },
+        "zh-tw": {
+          "description": "要求精準的時候，我會拿這支。EKG Pro 在 Stagg 的基礎上加了完整 LCD 螢幕、四組可存的沖煮參數，還能預約加熱，設定溫度誤差維持在 1 度內、撐滿 60 分鐘。\n\n配重鵝頸壺嘴的出水控制是這份清單裡最細的，手沖要壓小水流玩繞圈，這支給你的餘裕最多。",
+          "priceRange": "約 NT$6,500"
+        }
+      }
     }
   ],
   "history": [
@@ -5375,8 +5391,20 @@
           }
         },
         {
-          "id": "fellow-stagg-ekg",
+          "id": "fellow-stagg-ekg-pro",
           "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "tempControl": 9.9,
+            "speed": 9.2,
+            "buildQuality": 9.7,
+            "easeOfUse": 9.3,
+            "value": 7.4
+          }
+        },
+        {
+          "id": "fellow-stagg-ekg",
+          "rank": 3,
           "score": 9.1,
           "scores": {
             "tempControl": 9.8,
@@ -5388,7 +5416,7 @@
         },
         {
           "id": "cosori-gooseneck-co108",
-          "rank": 3,
+          "rank": 4,
           "score": 9.0,
           "scores": {
             "tempControl": 8.8,
@@ -5400,7 +5428,7 @@
         },
         {
           "id": "oxo-brew-adjustable",
-          "rank": 4,
+          "rank": 5,
           "score": 8.7,
           "scores": {
             "tempControl": 9.4,
@@ -5412,7 +5440,7 @@
         },
         {
           "id": "ninja-precision-kt200",
-          "rank": 5,
+          "rank": 6,
           "score": 8.5,
           "scores": {
             "tempControl": 8.4,
@@ -5424,7 +5452,7 @@
         },
         {
           "id": "breville-iq-bke820",
-          "rank": 6,
+          "rank": 7,
           "score": 8.4,
           "scores": {
             "tempControl": 8.6,
@@ -5436,7 +5464,7 @@
         },
         {
           "id": "secura-swk1701",
-          "rank": 7,
+          "rank": 8,
           "score": 8.2,
           "scores": {
             "tempControl": 7.4,
@@ -5448,7 +5476,7 @@
         },
         {
           "id": "bonavita-variable-1l",
-          "rank": 8,
+          "rank": 9,
           "score": 8.0,
           "scores": {
             "tempControl": 8.8,
@@ -5460,7 +5488,7 @@
         },
         {
           "id": "cosori-smart-gooseneck-cs108",
-          "rank": 9,
+          "rank": 10,
           "score": 7.8,
           "scores": {
             "tempControl": 8.6,
@@ -5472,7 +5500,7 @@
         },
         {
           "id": "hamilton-beach-41020",
-          "rank": 10,
+          "rank": 11,
           "score": 7.6,
           "scores": {
             "tempControl": 7.8,
