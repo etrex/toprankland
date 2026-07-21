@@ -184,24 +184,158 @@
     {
       "date": "2026-07-20",
       "rankings": [
-        { "id": "breville-barista-express-impress", "rank": 1, "score": 9.2, "scores": { "shotQuality": 8.8, "milk": 8.5, "ease": 9.6, "build": 8.6, "value": 9.4 } },
-        { "id": "breville-dual-boiler", "rank": 2, "score": 9.1, "scores": { "shotQuality": 9.5, "milk": 9.4, "ease": 8.2, "build": 8.8, "value": 9.0 } },
-        { "id": "gaggia-classic-evo-pro", "rank": 3, "score": 8.9, "scores": { "shotQuality": 8.6, "milk": 8.0, "ease": 7.4, "build": 9.4, "value": 9.6 } },
-        { "id": "breville-bambino-plus", "rank": 4, "score": 8.8, "scores": { "shotQuality": 8.4, "milk": 9.0, "ease": 9.4, "build": 8.0, "value": 9.2 } },
-        { "id": "lelit-bianca-v3", "rank": 5, "score": 8.7, "scores": { "shotQuality": 9.8, "milk": 9.6, "ease": 6.4, "build": 9.6, "value": 7.2 } },
-        { "id": "rancilio-silvia-pro-x", "rank": 6, "score": 8.6, "scores": { "shotQuality": 9.4, "milk": 9.5, "ease": 7.2, "build": 9.7, "value": 7.6 } },
-        { "id": "delonghi-rivelia", "rank": 7, "score": 8.5, "scores": { "shotQuality": 8.2, "milk": 9.2, "ease": 9.8, "build": 8.0, "value": 7.8 } },
-        { "id": "profitec-go", "rank": 8, "score": 8.4, "scores": { "shotQuality": 8.9, "milk": 7.8, "ease": 8.2, "build": 9.2, "value": 8.2 } },
-        { "id": "philips-3200-lattego", "rank": 9, "score": 8.1, "scores": { "shotQuality": 7.6, "milk": 8.6, "ease": 9.6, "build": 7.8, "value": 8.4 } },
-        { "id": "delonghi-stilosa", "rank": 10, "score": 7.4, "scores": { "shotQuality": 6.6, "milk": 6.4, "ease": 8.4, "build": 7.0, "value": 9.8 } }
+        {
+          "id": "breville-barista-express-impress",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "shotQuality": 8.8,
+            "milk": 8.5,
+            "ease": 9.6,
+            "build": 8.6,
+            "value": 9.4
+          }
+        },
+        {
+          "id": "breville-dual-boiler",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "shotQuality": 9.5,
+            "milk": 9.4,
+            "ease": 8.2,
+            "build": 8.8,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "gaggia-classic-evo-pro",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "shotQuality": 8.6,
+            "milk": 8.0,
+            "ease": 7.4,
+            "build": 9.4,
+            "value": 9.6
+          }
+        },
+        {
+          "id": "breville-bambino-plus",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "shotQuality": 8.4,
+            "milk": 9.0,
+            "ease": 9.4,
+            "build": 8.0,
+            "value": 9.2
+          }
+        },
+        {
+          "id": "lelit-bianca-v3",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "shotQuality": 9.8,
+            "milk": 9.6,
+            "ease": 6.4,
+            "build": 9.6,
+            "value": 7.2
+          }
+        },
+        {
+          "id": "rancilio-silvia-pro-x",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "shotQuality": 9.4,
+            "milk": 9.5,
+            "ease": 7.2,
+            "build": 9.7,
+            "value": 7.6
+          }
+        },
+        {
+          "id": "delonghi-rivelia",
+          "rank": 7,
+          "score": 8.5,
+          "scores": {
+            "shotQuality": 8.2,
+            "milk": 9.2,
+            "ease": 9.8,
+            "build": 8.0,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "profitec-go",
+          "rank": 8,
+          "score": 8.4,
+          "scores": {
+            "shotQuality": 8.9,
+            "milk": 7.8,
+            "ease": 8.2,
+            "build": 9.2,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "philips-3200-lattego",
+          "rank": 9,
+          "score": 8.1,
+          "scores": {
+            "shotQuality": 7.6,
+            "milk": 8.6,
+            "ease": 9.6,
+            "build": 7.8,
+            "value": 8.4
+          }
+        },
+        {
+          "id": "delonghi-stilosa",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "shotQuality": 6.6,
+            "milk": 6.4,
+            "ease": 8.4,
+            "build": 7.0,
+            "value": 9.8
+          }
+        }
       ],
       "references": [
-        { "title": "Best Espresso Machines 2026, Tested", "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-espresso-machine/", "source": "Forbes Vetted" },
-        { "title": "The best espresso machines in 2026, tried and tested", "url": "https://www.cnn.com/cnn-underscored/reviews/best-espresso-machines", "source": "CNN Underscored" },
-        { "title": "The best budget espresso machines in 2026", "url": "https://www.cnn.com/cnn-underscored/reviews/best-budget-espresso-machines", "source": "CNN Underscored" },
-        { "title": "10 Best Espresso Machines Ranked (2026)", "url": "https://forkintheroadcoffee.com/blogs/brewing-guides/10-best-espresso-machines-ranked-2026-tested-reviewed", "source": "Fork in the Road Coffee" },
-        { "title": "Gaggia Classic E24 Evo Pro review", "url": "https://www.tomsguide.com/home/coffee-makers/gaggia-classic-e24-evo-pro-review", "source": "Tom's Guide" },
-        { "title": "Rancilio Silvia Pro X Review 2026", "url": "https://www.coffeeness.de/en/rancilio-silvia-pro-x-review/", "source": "Coffeeness" }
+        {
+          "title": "Best Espresso Machines 2026, Tested",
+          "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-espresso-machine/",
+          "source": "Forbes Vetted"
+        },
+        {
+          "title": "The best espresso machines in 2026, tried and tested",
+          "url": "https://www.cnn.com/cnn-underscored/reviews/best-espresso-machines",
+          "source": "CNN Underscored"
+        },
+        {
+          "title": "The best budget espresso machines in 2026",
+          "url": "https://www.cnn.com/cnn-underscored/reviews/best-budget-espresso-machines",
+          "source": "CNN Underscored"
+        },
+        {
+          "title": "10 Best Espresso Machines Ranked (2026)",
+          "url": "https://forkintheroadcoffee.com/blogs/brewing-guides/10-best-espresso-machines-ranked-2026-tested-reviewed",
+          "source": "Fork in the Road Coffee"
+        },
+        {
+          "title": "Gaggia Classic E24 Evo Pro review",
+          "url": "https://www.tomsguide.com/home/coffee-makers/gaggia-classic-e24-evo-pro-review",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "Rancilio Silvia Pro X Review 2026",
+          "url": "https://www.coffeeness.de/en/rancilio-silvia-pro-x-review/",
+          "source": "Coffeeness"
+        }
       ],
       "i18n": {
         "en": {
@@ -251,6 +385,192 @@
             {
               "title": "流量控制是高階機裡唯一真正改變杯中風味的功能",
               "body": "五萬到十萬這個區間的升級，多半買到的是邊際效益，溫度再穩一點、回溫再快一點、鋼材再漂亮一點。Lelit Bianca V3 的手動撥桿不一樣，它把一個機器沒辦法替你決定的變數交回你手上。可以先低壓慢慢預浸泡，拉到 9 bar，萃取後段再降下來，這樣才拉得動那種在固定壓力機上必定通道效應然後死酸的淺焙豆。如果你都買單品淺焙而且磨豆機已經到位，這個功能值得你跨過去。如果你平常喝中焙加牛奶，這根桿子會放到生灰，省下那八萬買 Breville Dual Boiler 聰明得多。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-07-21",
+      "rankings": [
+        {
+          "id": "breville-barista-express-impress",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "shotQuality": 8.8,
+            "milk": 8.5,
+            "ease": 9.6,
+            "build": 8.6,
+            "value": 9.4
+          }
+        },
+        {
+          "id": "breville-dual-boiler",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "shotQuality": 9.5,
+            "milk": 9.4,
+            "ease": 8.2,
+            "build": 8.8,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "gaggia-classic-evo-pro",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "shotQuality": 8.6,
+            "milk": 8.0,
+            "ease": 7.4,
+            "build": 9.4,
+            "value": 9.6
+          }
+        },
+        {
+          "id": "breville-bambino-plus",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "shotQuality": 8.4,
+            "milk": 9.0,
+            "ease": 9.4,
+            "build": 8.0,
+            "value": 9.2
+          }
+        },
+        {
+          "id": "lelit-bianca-v3",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "shotQuality": 9.8,
+            "milk": 9.6,
+            "ease": 6.4,
+            "build": 9.6,
+            "value": 7.2
+          }
+        },
+        {
+          "id": "rancilio-silvia-pro-x",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "shotQuality": 9.4,
+            "milk": 9.5,
+            "ease": 7.2,
+            "build": 9.7,
+            "value": 7.6
+          }
+        },
+        {
+          "id": "delonghi-rivelia",
+          "rank": 7,
+          "score": 8.5,
+          "scores": {
+            "shotQuality": 8.2,
+            "milk": 9.2,
+            "ease": 9.8,
+            "build": 8.0,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "profitec-go",
+          "rank": 8,
+          "score": 8.4,
+          "scores": {
+            "shotQuality": 8.9,
+            "milk": 7.8,
+            "ease": 8.2,
+            "build": 9.2,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "philips-3200-lattego",
+          "rank": 9,
+          "score": 8.1,
+          "scores": {
+            "shotQuality": 7.6,
+            "milk": 8.6,
+            "ease": 9.6,
+            "build": 7.8,
+            "value": 8.4
+          }
+        },
+        {
+          "id": "delonghi-stilosa",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "shotQuality": 6.6,
+            "milk": 6.4,
+            "ease": 8.4,
+            "build": 7.0,
+            "value": 9.8
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "6 Best Espresso Machines of 2026, Tested and Reviewed",
+          "url": "https://www.consumerreports.org/appliances/coffee-makers/best-espresso-machines-a1118374614/",
+          "source": "Consumer Reports"
+        },
+        {
+          "title": "Best Espresso Machines 2026: Cafe-Quality Models",
+          "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-espresso-machine/",
+          "source": "Forbes"
+        },
+        {
+          "title": "10 Best Espresso Machines Ranked (2026)",
+          "url": "https://forkintheroadcoffee.com/blogs/brewing-guides/10-best-espresso-machines-ranked-2026-tested-reviewed",
+          "source": "Fork in the Road Coffee"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "A quiet week in espresso, and I mean that as a compliment. The latest round of testing from Consumer Reports and Forbes lands on the same conclusion I keep reaching, that the best machines of 2026 are mostly the machines that were already best, with the improvements going into reliability and daily usability rather than new extraction tricks. That is exactly why my order holds. The Breville Barista Express Impress stays at number one because it does the single hardest thing for a beginner, it removes the mess and guesswork from dosing and tamping while still teaching real technique. With more than 27,000 reviews sitting around 4.5 stars, it is the machine I hand to anyone who wants cafe drinks without a workshop. The Breville Dual Boiler keeps second for people who care about the shot itself, since dual boilers give the temperature stability and steam-on-demand that milk drinks and back-to-back pulls reward. The Gaggia Classic Evo Pro holds third on pure build value, a metal machine you can repair for years at a price that keeps embarrassing pricier rivals. At the top of the automatic lane, the De'Longhi Rivelia earns its place with 18 programmed recipes that genuinely rival manual shots for hands-off households. And at the entry point, the De'Longhi Stilosa still makes real espresso with a steam wand for under 155 dollars, the cleanest way to find out if home espresso is your thing before spending more. No rank changes this week, because nothing on the market earned one.",
+          "highlights": [
+            {
+              "title": "Best-in-class stayed best",
+              "body": "Fresh 2026 testing from Consumer Reports and Forbes confirms the top machines improved on reliability, not extraction. That is why every rank holds this week."
+            },
+            {
+              "title": "Barista Express Impress for beginners",
+              "body": "It removes the mess from dosing and tamping while teaching real technique, and its 27,000-plus reviews near 4.5 stars back up the number one spot."
+            },
+            {
+              "title": "Dual Boiler for shot chasers",
+              "body": "Dual boilers deliver the temperature stability and steam-on-demand that milk drinks and back-to-back pulls need, keeping it second for enthusiasts."
+            },
+            {
+              "title": "Stilosa is still the cheapest real start",
+              "body": "Under 155 dollars with a steam wand, it makes genuine espresso and is the low-risk way to test whether home espresso suits you before upgrading."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週義式咖啡機很安靜，我當它是讚美。Consumer Reports 和 Forbes 最新實測都指向同一結論，2026 年最好的機器大多還是原本那幾台，改進放在耐用度和好不好用，所以我名次不動。Breville Barista Express Impress 穩坐第一，它幫新手把填粉壓粉的髒亂和猜測都拿掉，同時教你真手法，兩萬七千多則評價維持 4.5 星上下，想在家喝咖啡館水準又不想搞得像修車廠的人我直接推它。Breville Dual Boiler 守第二，雙鍋爐給溫度穩定和隨時打奶泡，連續出杯也不掉溫，適合在意那杯本身的人。Gaggia Classic Evo Pro 靠全金屬做工和可維修性排第三，價格一直讓貴很多的對手尷尬。全自動端 De'Longhi Rivelia 靠 18 種內建配方站穩，入門端 De'Longhi Stilosa 台幣約四千出頭就有蒸氣管、煮真正義式濃縮，是花大錢前先確認自己愛不愛玩咖啡最乾淨的方式。",
+          "highlights": [
+            {
+              "title": "最強的還是最強",
+              "body": "Consumer Reports 和 Forbes 的 2026 新測都確認頂端機器進步在耐用度而非萃取，所以這週名次全數維持。"
+            },
+            {
+              "title": "新手選 Barista Express Impress",
+              "body": "它把填粉壓粉的髒亂拿掉又教你真手法，兩萬七千多則評價近 4.5 星，第一名實至名歸。"
+            },
+            {
+              "title": "追萃取選 Dual Boiler",
+              "body": "雙鍋爐給溫度穩定和隨時打奶泡，連續出杯不掉溫，發燒友的第二名沒懸念。"
+            },
+            {
+              "title": "Stilosa 仍是最便宜的真起點",
+              "body": "台幣約四千出頭有蒸氣管、煮真正義式濃縮，升級前先確認自己愛不愛在家玩，風險最低。"
             }
           ]
         }

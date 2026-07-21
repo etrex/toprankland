@@ -10294,6 +10294,224 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-21",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.4,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 4,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "fish-audio-openaudio-s1",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.1,
+            "emotionalRange": 8.8,
+            "languageSupport": 8.0,
+            "latency": 8.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 9.8,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 8,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "voiceRealism": 8.0,
+            "emotionalRange": 7.6,
+            "languageSupport": 8.6,
+            "latency": 7.7,
+            "valueForMoney": 8.4
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Voice Models 2026: TTS & Realtime APIs",
+          "url": "https://www.teamday.ai/blog/best-ai-voice-models-2026",
+          "source": "Teamday"
+        },
+        {
+          "title": "ElevenLabs Review: The Most Realistic AI Voice Generator?",
+          "url": "https://www.unite.ai/elevenlabs-review/",
+          "source": "Unite.AI"
+        },
+        {
+          "title": "Free Text To Speech Online with Lifelike AI Voices",
+          "url": "https://elevenlabs.io/text-to-speech",
+          "source": "ElevenLabs"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs holds the top spot again this week, and the reason is momentum I can hear. The rollout of Scribe v2 with keyterm biasing and disfluency removal makes long-form narration cleaner on the first take, which is exactly where I spend most of my production time. Eleven v3 still sets the realism ceiling, passing blind listening tests against human voice actors on conversational scripts. That combination of realism and workflow polish keeps it my default recommendation for creators who ship audio daily.\n\nInworld TTS 1.5 Max stays right behind it, and its edge is real-time latency. If you are building a live voice agent, that responsiveness matters more than a fractional gain in warmth. Cartesia Sonic 3 keeps the fastest raw latency score in the field, so I still reach for it on interactive demos where every millisecond shows. The interesting mid-pack story is Murf AI. Its Falcon model runs near 55ms latency with quick time-to-first-audio, which finally makes Murf credible for real-time work rather than just studio narration. I nudged nothing on rank this week because none of it reorders the leaders, but Murf is the one I am watching.\n\nAt the value end, Fish Audio OpenAudio S1 and OpenAI GPT-4o mini TTS remain the picks I hand to people who want strong output on a tight budget. Hume Octave 2 is still my choice when emotional range is the whole point, like audiobook character work. The market is crowded, and that is good for anyone buying credits this month.",
+          "highlights": [
+            {
+              "title": "ElevenLabs extends its workflow lead",
+              "body": "Scribe v2 adds keyterm biasing and disfluency removal, so my first-take narration needs less cleanup. Paired with v3 realism, it stays the safest all-round pick."
+            },
+            {
+              "title": "Latency is the real battleground",
+              "body": "Cartesia Sonic 3 keeps the top raw latency score, and Inworld TTS 1.5 Max sits second overall on the strength of its real-time responsiveness for live agents."
+            },
+            {
+              "title": "Murf's Falcon earns a second look",
+              "body": "Falcon runs near 55ms latency with fast time-to-first-audio, making Murf viable for interactive voice work, not just studio reads. It is my mid-pack watch item."
+            },
+            {
+              "title": "Value tier stays generous",
+              "body": "Fish Audio OpenAudio S1 and OpenAI GPT-4o mini TTS deliver strong output on a budget, so newcomers get quality voices without a premium plan."
+            },
+            {
+              "title": "Pick by the job, not the logo",
+              "body": "Hume Octave 2 wins on emotional range for character work, while ElevenLabs wins on polish. Match the tool to the script and the results follow."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週 ElevenLabs 還是穩坐第一，老實說我用起來就是有感。Scribe v2 加了關鍵詞偏好和贅字移除，長篇旁白第一次錄就乾淨很多，這正好是我做音檔最花時間的地方。Eleven v3 目前把擬真度天花板拉到最高，對話腳本盲測甚至能跟真人配音員拚，所以對每天要出音檔的創作者，我還是把它當首選。\n\nInworld TTS 1.5 Max 緊咬在後，它的強項是即時延遲。你要做的是線上語音助理的話，這種反應速度比多一點點溫潤感重要多了。Cartesia Sonic 3 的原始延遲分數仍舊是全場最快，我做互動 demo、每一毫秒都看得出來的場合，還是會拿它出來用。中段最有看頭的其實是 Murf AI，它的 Falcon 模型延遲壓到 55 毫秒上下，首音出來也快，這下 Murf 終於能做即時應用，不只是棚內旁白而已。這週排名我沒動，因為這些消息還撼動不了前段班，但 Murf 我會盯著看。\n\n講到俗擱大碗，Fish Audio OpenAudio S1 跟 OpenAI GPT-4o mini TTS 還是我推給預算緊的人的口袋名單，花小錢就有好聲音。要情緒張力，像有聲書要演角色，我照樣選 Hume Octave 2。市場這麼競爭，這個月要買點數的人賺到了。",
+          "highlights": [
+            {
+              "title": "ElevenLabs 工作流領先再拉開",
+              "body": "Scribe v2 多了關鍵詞偏好跟贅字移除，我第一次錄的旁白後製少很多。配上 v3 的擬真度，它就是最穩的全能首選。"
+            },
+            {
+              "title": "延遲才是真正的戰場",
+              "body": "Cartesia Sonic 3 原始延遲分數全場最高，Inworld TTS 1.5 Max 靠即時反應力撐住總排第二，做線上語音助理特別吃這塊。"
+            },
+            {
+              "title": "Murf 的 Falcon 值得再看一眼",
+              "body": "Falcon 延遲壓到 55 毫秒左右，首音又快，Murf 這下能做互動語音，不再只是棚內念稿。中段我最看好它。"
+            },
+            {
+              "title": "平價這層很有誠意",
+              "body": "Fish Audio OpenAudio S1 跟 OpenAI GPT-4o mini TTS 花小錢就有好品質，新手不用升到高階方案也能拿到好聲音。"
+            },
+            {
+              "title": "看用途選,別看招牌",
+              "body": "要角色情緒張力就選 Hume Octave 2，要成品精緻度就選 ElevenLabs。工具對到腳本，成果自然到位。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -9522,6 +9522,202 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-21",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.5,
+            "coding": 9.1,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.0,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.9,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.1,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.9,
+            "realtime": 9.4,
+            "value": 9.5,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "reasoning": 8.8,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.4,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Models in July 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        },
+        {
+          "title": "July 2026 Top Generative AI Chatbots & LLMs by Market Share",
+          "url": "https://momenticmarketing.com/blog/top-ai-chatbots",
+          "source": "Momentic"
+        },
+        {
+          "title": "Best AI Models of July 2026: Ranked by Use Case, Benchmarks & Price",
+          "url": "https://www.buildfastwithai.com/blogs/best-ai-models-july-2026-ranked",
+          "source": "Build Fast with AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "This week the top of the board stayed put, and the reason is momentum. GPT-5.6 finished its broad rollout on July 9 and is now the default model inside ChatGPT, so the assistant most people actually open every morning got quietly sharper at daily chat and knowledge work. Pair that with the ecosystem reach ChatGPT already owns, roughly 54 percent of worldwide traffic across the biggest chatbots, and its number one spot is the easy call. Claude holds second on the strength of code. Fable 5 returned as the coding leader at 80.3 percent on SWE-Bench Pro, and in my own repo work it lands multi-file changes with the fewest retries, which is why its coding score stays the highest in this table. Gemini keeps third by being the accuracy pick, with 3.1 Pro strong on hardest-mode reasoning and 3.5 Flash still the best price-performance at the frontier. The one change I made is Grok. xAI shipped Grok 4.5 on July 8 with a clear coding focus, and it now reasons at a level worth a small bump on that factor, so I nudged its coding score up a tenth. It stays fourth because value and ecosystem still trail the leaders. Perplexity, Copilot, and DeepSeek round out the middle, each winning a lane: live search, Microsoft integration, and raw price. My advice remains simple. Pick by the job in front of you, since the gap between the top four is now measured in preferences, not capability.",
+          "highlights": [
+            {
+              "title": "GPT-5.6 is the new default",
+              "body": "Since July 9 the model most ChatGPT users get by default is GPT-5.6, which sharpened everyday chat and knowledge work. That plus the widest ecosystem keeps ChatGPT at number one."
+            },
+            {
+              "title": "Claude owns coding",
+              "body": "Fable 5 posts 80.3 percent on SWE-Bench Pro and lands multi-file edits with fewer retries in real repo work, so Claude keeps the highest coding score and second overall."
+            },
+            {
+              "title": "Grok 4.5 earns a small bump",
+              "body": "xAI's July 8 release leans hard into coding and Opus-class reasoning with native X grounding. I raised Grok's coding score by a tenth while keeping its rank at four."
+            },
+            {
+              "title": "Pick by task, not by hype",
+              "body": "Gemini for accuracy, Perplexity for live search, Copilot for Microsoft workflows, DeepSeek for price. The top four are now separated by preference more than capability."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週榜單前段沒動，靠的是氣勢。GPT-5.6 在 7 月 9 日完成大規模推送，成為 ChatGPT 的預設模型，日常對話和知識工作又更利，加上它本來就吃下全球最大幾家聊天機器人約五成四的流量，第一名沒懸念。Claude 靠程式碼守第二，Fable 5 在 SWE-Bench Pro 拿 80.3 分，我在專案 repo 實測跨檔案修改重試最少，coding 分數維持全表最高。Gemini 穩第三，是準度掛的選擇，3.1 Pro 推理硬，3.5 Flash 性價比最好。這次我唯一動的是 Grok，xAI 在 7 月 8 日推出 Grok 4.5，程式碼取向明確、推理到 Opus 等級，我把它的 coding 分數加一格，名次守第四，因為價格和生態圈還差前面一截。Perplexity、Copilot、DeepSeek 撐住中段，各有即時搜尋、微軟整合、價格的強項。老話一句，看你手邊要做什麼來挑，前四名差的是偏好。",
+          "highlights": [
+            {
+              "title": "GPT-5.6 成為預設",
+              "body": "7 月 9 日起多數 ChatGPT 用戶預設拿到的就是 GPT-5.6，日常對話和知識工作更順手，加上最廣的生態圈，第一名穩穩的。"
+            },
+            {
+              "title": "Claude 程式碼最強",
+              "body": "Fable 5 在 SWE-Bench Pro 拿 80.3 分，實際跑 repo 跨檔案修改重試最少，coding 分數維持全表最高，總排第二。"
+            },
+            {
+              "title": "Grok 4.5 小加分",
+              "body": "xAI 7 月 8 日新版主打程式碼，推理到 Opus 等級又有 X 即時資料，我把 Grok 的 coding 分數加一格，名次維持第四。"
+            },
+            {
+              "title": "看任務挑，不看聲量",
+              "body": "要準度找 Gemini，要即時搜尋找 Perplexity，微軟工作流找 Copilot，要便宜找 DeepSeek。前四名差的是偏好。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
