@@ -151,7 +151,7 @@
       "id": "toshiba-trcs01",
       "name": "TRCS01 Fuzzy Logic",
       "brand": "Toshiba",
-      "url": "https://www.toshiba-lifestyle.com/us/cooking-appliances/rice-cooker/toshiba-rice-cooker-6-cups-uncooked-3l-with-fuzzy-logic",
+      "url": "https://www.toshiba-lifestyle.com/us/all-cooking-appliances/rice-cookers/6-cup-uncooked-japanese-rice-cooker",
       "i18n": {
         "en": {
           "description": "Toshiba's 6-cup fuzzy logic cooker with seven preset programs, 24-hour keep-warm, quick-rice mode in 30 minutes, and a removable inner pot with nonstick coating.",
@@ -176,6 +176,22 @@
         "zh-tw": {
           "description": "Aroma 20 杯熟飯量多功能料理鍋，11 種預設模式包含慢燉、先炒後煮、優格，4 夸脫內鍋同時是慢燉鍋。",
           "priceRange": "約 NT$1,900"
+        }
+      }
+    },
+    {
+      "id": "cuckoo-crp-st1009fg",
+      "name": "Twin Pressure CRP-ST1009FG",
+      "brand": "Cuckoo",
+      "url": "https://cuckooamerica.com/products/crp-st1009fw",
+      "i18n": {
+        "en": {
+          "description": "Cuckoo's 10-cup twin pressure flagship pushing 20 cups cooked, with 16 menu modes, induction heating, an auto-clean steam cycle, and trilingual voice guidance for large households.",
+          "priceRange": "$329"
+        },
+        "zh-tw": {
+          "description": "Cuckoo 10 杯雙壓力旗艦款，煮熟可達 20 杯份量，16 種選單搭配 IH 加熱與自動蒸氣清潔，還有中英韓三語語音導航，全家一次煮大量白飯很夠力。",
+          "priceRange": "約 NT$10,900"
         }
       }
     }
@@ -8959,8 +8975,20 @@
           }
         },
         {
-          "id": "tiger-jax-t10u",
+          "id": "cuckoo-crp-st1009fg",
           "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "riceQuality": 9.1,
+            "versatility": 9.5,
+            "buildQuality": 9.0,
+            "easeOfUse": 8.6,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "tiger-jax-t10u",
+          "rank": 6,
           "score": 8.4,
           "scores": {
             "riceQuality": 8.6,
@@ -8972,7 +9000,7 @@
         },
         {
           "id": "cuckoo-cr-0675f",
-          "rank": 6,
+          "rank": 7,
           "score": 8.2,
           "scores": {
             "riceQuality": 8.4,
@@ -8984,7 +9012,7 @@
         },
         {
           "id": "zojirushi-np-gbc05",
-          "rank": 7,
+          "rank": 8,
           "score": 8.1,
           "scores": {
             "riceQuality": 9.0,
@@ -8996,7 +9024,7 @@
         },
         {
           "id": "panasonic-sr-cn108",
-          "rank": 8,
+          "rank": 9,
           "score": 7.9,
           "scores": {
             "riceQuality": 8.0,
@@ -9008,7 +9036,7 @@
         },
         {
           "id": "toshiba-trcs01",
-          "rank": 9,
+          "rank": 10,
           "score": 7.7,
           "scores": {
             "riceQuality": 7.8,
@@ -9020,7 +9048,7 @@
         },
         {
           "id": "aroma-arc-1230",
-          "rank": 10,
+          "rank": 11,
           "score": 7.0,
           "scores": {
             "riceQuality": 6.8,
