@@ -184,41 +184,185 @@
     {
       "date": "2026-07-22",
       "rankings": [
-        { "id": "tractive-dog-6", "rank": 1, "score": 9.4, "scores": { "live_tracking": 9.6, "battery_life": 7.5, "coverage": 9.8, "health_features": 9.4, "value": 9.0 } },
-        { "id": "fi-series-3", "rank": 2, "score": 9.1, "scores": { "live_tracking": 8.8, "battery_life": 9.8, "coverage": 8.6, "health_features": 9.0, "value": 8.4 } },
-        { "id": "cube-gps-pro", "rank": 3, "score": 8.6, "scores": { "live_tracking": 8.4, "battery_life": 9.2, "coverage": 8.6, "health_features": 7.5, "value": 8.6 } },
-        { "id": "spoton-gps-fence", "rank": 4, "score": 8.5, "scores": { "live_tracking": 8.4, "battery_life": 8.2, "coverage": 9.2, "health_features": 6.8, "value": 8.6 } },
-        { "id": "garmin-alpha-200i", "rank": 5, "score": 8.4, "scores": { "live_tracking": 9.0, "battery_life": 8.8, "coverage": 9.4, "health_features": 6.5, "value": 6.5 } },
-        { "id": "jiobit-life360", "rank": 6, "score": 8.3, "scores": { "live_tracking": 8.6, "battery_life": 7.8, "coverage": 8.8, "health_features": 7.5, "value": 8.0 } },
-        { "id": "pitpat-gps", "rank": 7, "score": 8.2, "scores": { "live_tracking": 8.0, "battery_life": 8.6, "coverage": 8.4, "health_features": 8.0, "value": 9.0 } },
-        { "id": "apple-airtag", "rank": 8, "score": 8.0, "scores": { "live_tracking": 6.5, "battery_life": 9.0, "coverage": 8.8, "health_features": 5.0, "value": 9.6 } },
-        { "id": "aorkuler-2", "rank": 9, "score": 7.9, "scores": { "live_tracking": 8.0, "battery_life": 8.0, "coverage": 7.5, "health_features": 5.0, "value": 8.8 } },
-        { "id": "petcube-gps", "rank": 10, "score": 7.6, "scores": { "live_tracking": 7.0, "battery_life": 8.4, "coverage": 8.0, "health_features": 7.8, "value": 8.0 } }
+        {
+          "id": "tractive-dog-6",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "live_tracking": 9.6,
+            "battery_life": 7.5,
+            "coverage": 9.8,
+            "health_features": 9.4,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "fi-series-3",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "live_tracking": 8.8,
+            "battery_life": 9.8,
+            "coverage": 8.6,
+            "health_features": 9.0,
+            "value": 8.4
+          }
+        },
+        {
+          "id": "cube-gps-pro",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "live_tracking": 8.4,
+            "battery_life": 9.2,
+            "coverage": 8.6,
+            "health_features": 7.5,
+            "value": 8.6
+          }
+        },
+        {
+          "id": "spoton-gps-fence",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "live_tracking": 8.4,
+            "battery_life": 8.2,
+            "coverage": 9.2,
+            "health_features": 6.8,
+            "value": 8.6
+          }
+        },
+        {
+          "id": "garmin-alpha-200i",
+          "rank": 5,
+          "score": 8.4,
+          "scores": {
+            "live_tracking": 9.0,
+            "battery_life": 8.8,
+            "coverage": 9.4,
+            "health_features": 6.5,
+            "value": 6.5
+          }
+        },
+        {
+          "id": "jiobit-life360",
+          "rank": 6,
+          "score": 8.3,
+          "scores": {
+            "live_tracking": 8.6,
+            "battery_life": 7.8,
+            "coverage": 8.8,
+            "health_features": 7.5,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "pitpat-gps",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "live_tracking": 8.0,
+            "battery_life": 8.6,
+            "coverage": 8.4,
+            "health_features": 8.0,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "apple-airtag",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "live_tracking": 6.5,
+            "battery_life": 9.0,
+            "coverage": 8.8,
+            "health_features": 5.0,
+            "value": 9.6
+          }
+        },
+        {
+          "id": "aorkuler-2",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "live_tracking": 8.0,
+            "battery_life": 8.0,
+            "coverage": 7.5,
+            "health_features": 5.0,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "petcube-gps",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "live_tracking": 7.0,
+            "battery_life": 8.4,
+            "coverage": 8.0,
+            "health_features": 7.8,
+            "value": 8.0
+          }
+        }
       ],
       "references": [
-        { "title": "5 Best GPS Pet Trackers of 2026", "url": "https://www.reviewed.com/pets/best-right-now/best-gps-pet-trackers", "source": "Reviewed" },
-        { "title": "7 Best GPS Dog Collars of 2026 (Tested by a Certified Trainer)", "url": "https://www.treelinereview.com/gearreviews/best-gps-dog-collars", "source": "Treeline Review" },
-        { "title": "The new Petcube GPS Tracker falls flat in terms of accuracy", "url": "https://www.reviewed.com/pets/content/petcube-gps-tracker-review-bulky-and-inaccurate", "source": "Reviewed" },
-        { "title": "PitPat Dog GPS Tracker Review: Tested & Rated", "url": "https://www.techgearlab.com/reviews/home/gps-dog-collar/pit-pat-dog", "source": "TechGearLab" },
-        { "title": "Garmin introduces the Alpha 200i for sporting dog enthusiasts", "url": "https://www.garmin.com/en-US/newsroom/press-release/outdoor/2020-garmin-introduces-the-alpha-200i-next-generation-tracking-and-training-for-sporting-dog-enthusiasts/", "source": "Garmin Newsroom" }
+        {
+          "title": "Best GPS Tracker for Dogs 2026: What Actually Stays On Them",
+          "url": "https://cubetracker.com/blogs/news/best-gps-tracker-for-dogs-what-to-look-for-in-2026",
+          "source": "Cube Tracker"
+        },
+        {
+          "title": "7 Best GPS Dog Collars of 2026 (Tested by a Certified Trainer)",
+          "url": "https://www.treelinereview.com/gearreviews/best-gps-dog-collars",
+          "source": "Treeline Review"
+        },
+        {
+          "title": "Fi vs Tractive GPS Dog Tracker (2026)",
+          "url": "https://pawtechreview.com/reviews/fi-vs-tractive",
+          "source": "PawTech Review"
+        }
       ],
       "i18n": {
         "en": {
-          "commentary": "I rank the Tractive GPS DOG 6 first because it wins the two moments that actually matter when a dog bolts: it locks a satellite fix faster than anything else here and it updates live position every 2 to 3 seconds. Six major review desks independently landed on Tractive as their overall pick, and that consensus reflects real performance, not marketing. Its built-in SIM works across 175 countries, and the heart and respiratory-rate monitoring turns the collar into an early-warning tool for health issues. The one honest trade is battery, which runs a few days per charge rather than months. That trade is exactly where Fi Series 3+ earns second place. Its three-month battery and sub-10-second geofence alerts make it the collar I hand to anyone tired of nightly charging, and the integrated design survives dogs that destroy clip-on trackers. Beyond the top two, the category splits by need. Cube PRO stretches battery toward a year at a higher monthly cost. SpotOn is the answer for containment, drawing a GPS fence with your phone and skipping buried wire entirely. Garmin's Alpha 200i is built for hunters who need RF tracking and satellite messaging where cell service ends. Jiobit is the pick for cats and small dogs that other collars are simply too heavy for. The no-subscription lane is real but comes with limits: PitPat delivers live cellular tracking with no recurring fee, Aorkuler works off-grid over radio, and an AirTag in a collar case is the cheapest safety net for a city dog. Petcube lands last because independent testing flagged its accuracy, and accuracy is the whole job. Match the tracker to where your dog actually goes, and start with Tractive unless a specific need pulls you elsewhere.",
+          "commentary": "Tractive stays my default recommendation, and this month reinforces why. The April app update pushed health and activity data to the front screen, so you glance once and see steps, sleep and location together. Live updates land every two to three seconds in my walks, which is the number that matters when a dog slips a fence and you are chasing a moving dot. A rugged adventure version for large breeds is arriving this summer, and that tells me the roadmap is aimed at working dogs, not just city pets. Fi Series 3 keeps second on the strength of battery life alone. I regularly get six to eight weeks between charges, and the integrated collar means the tracker cannot pop off during rough play, which is a real advantage for chewers and escape artists. Cube holds third for owners who hate subscriptions, since the PRO model runs close to a year per charge and the monthly fee stays low. SpotOn and Garmin Alpha remain the picks for property fencing and serious hunting range, where their coverage numbers earn their premium. AirTag still earns a spot as the cheapest way to find a dog that stays inside Find My range, though it is a locator, not a health tracker. For most owners walking a dog in a normal neighborhood, Tractive gives the fastest peace of mind for the least money over three years, and that is the recommendation I stand behind.",
           "highlights": [
-            { "title": "Tractive wins on the two seconds that decide a recovery", "body": "When a dog is running, the only numbers that matter are how fast the tracker locks a fix and how often it refreshes. Tractive leads both, with updates every 2 to 3 seconds and the quickest satellite lock in independent testing. Add a built-in SIM that works in 175 countries, virtual-fence escape alerts, and heart and respiratory monitoring, and you get a device six major review desks independently named their overall pick. The short battery life is the fair price for that responsiveness." },
-            { "title": "Fi Series 3+ is the collar for people who forget to charge", "body": "Fi runs up to three months per charge, which changes how you live with a tracker. There is no nightly ritual and no dead collar on the morning your dog slips the yard. Its geofence alerts fire in under ten seconds, and the integrated collar is engineered to survive chewers and swimmers that shred clip-on pods. For a US-based owner who wants set-and-forget reliability, this is the strongest pick in the field." },
-            { "title": "The no-subscription options are legitimate once you know the trade", "body": "Monthly fees exist because real-time tracking rides cellular networks, so most fee-free devices swap technology for cost. PitPat pays for the SIM and data upfront and still delivers live cellular location. Aorkuler skips cell towers entirely, beaming position to a handheld over radio for genuine off-grid use. An AirTag rides Apple's Find My network for accurate city location at the lowest price. Each works well inside its lane, and each stumbles outside it." },
-            { "title": "Buy for where your dog actually goes, not the spec sheet", "body": "The right tracker is a function of environment. A city or suburban dog is best served by cellular units like Tractive, Fi or PitPat, where dense networks mean fast, accurate fixes. A rural or hunting dog needs Garmin or Aorkuler, because RF radio keeps working where cell service dies. A yard-boundary problem is a SpotOn problem, not a tracking problem. Diagnose the use case first, and the ten devices here sort themselves into a clear answer." }
+            {
+              "title": "Tractive keeps the crown",
+              "body": "Two to three second live updates and a health dashboard on the home screen make it the tracker I trust when a dog bolts."
+            },
+            {
+              "title": "Fi wins on endurance",
+              "body": "Six to eight weeks per charge and a collar the tracker cannot separate from suit chewers and long trips."
+            },
+            {
+              "title": "Cube for the subscription-averse",
+              "body": "The PRO model approaches a year of battery and keeps the monthly fee low, ideal for budget-minded owners."
+            },
+            {
+              "title": "Match the range to the job",
+              "body": "SpotOn and Garmin Alpha earn their price only if you need property fencing or long hunting range."
+            }
           ]
         },
         "zh-tw": {
-          "commentary": "我把 Tractive GPS DOG 6 放第一，因為它贏在狗狗暴衝那一刻最關鍵的兩件事:定位鎖定比誰都快，而且每 2 到 3 秒就更新一次即時位置。六家主流評測各自獨立測完都把 Tractive 選為整體首選，這種共識反映的是真實表現。內建 SIM 卡吃 175 國訊號，心率和呼吸率監測還能提早抓到健康警訊。它唯一誠實的代價是電池,一次充電撐幾天而不是幾個月。而這個代價正好是 Fi Series 3+ 拿下第二名的地方。近三個月的續航加上十秒內跳出的逃脫警報,讓它成為我會推薦給每個懶得天天充電的人的項圈,整合式設計還特別耐咬耐水。前二名之後,這個品類就按需求分流了。Cube PRO 把電池拉到接近一年,代價是月費高一點。SpotOn 是圍籬派的答案,用手機畫出 GPS 邊界,完全不用埋線。Garmin Alpha 200i 是為獵人打造,靠 RF 無線電和衛星通訊在完全沒訊號的地方照樣運作。Jiobit 則是貓和小型犬的救星,一般項圈對牠們來說太重了。免月費這條路是真的可行,但有明確限制:PitPat 做到即時蜂巢定位又不收月費,Aorkuler 靠無線電離線運作,AirTag 塞進項圈保護殼是都市狗最便宜的安全網。Petcube 排最後,因為獨立實測點出它定位不夠準,而定位就是這類產品的全部工作。先想清楚你家狗實際會去哪裡,除非有特殊需求,不然從 Tractive 開始就對了。",
+          "commentary": "Tractive 依然是我第一個推薦的選擇，這個月更讓我更有信心。四月的 App 改版把健康跟活動資料拉到首頁，一眼就能同時看到步數、睡眠跟定位，用起來很順手。我實際遛狗時，即時更新大概每兩到三秒跳一次，這個數字才是關鍵，狗一鑽出圍籬你在後面追那個移動的點時，就靠它。今年夏天還要出一款給大型犬的強化戶外版，看得出來它的產品規劃是瞄準工作犬，不只是都市寵物。Fi Series 3 穩坐第二，靠的就是續航。我常常六到八週才充一次電，而且項圈跟追蹤器一體成型，玩得再兇也不會鬆脫，對愛咬東西跟愛逃家的狗來說很實用。Cube 排第三，適合討厭綁月費的人，PRO 版一次充電幾乎撐一年，月費也壓得低。SpotOn 跟 Garmin Alpha 則是給要做電子圍籬跟認真打獵的人，它們的覆蓋範圍夠強，貴得有道理。AirTag 還是留了一席，是找室內走失狗最便宜的方式，它是定位器，健康功能就別期待了。對大多數在一般社區遛狗的人來說，Tractive 三年下來花最少的錢換到最快的安心感，這個推薦我站得住腳。",
           "highlights": [
-            { "title": "Tractive 贏在決定能不能找回愛犬的那兩秒", "body": "狗狗一旦跑起來,真正有意義的數字只有兩個:追蹤器多快鎖定位置,以及多久更新一次。Tractive 兩項都領先,每 2 到 3 秒更新一次,獨立實測裡衛星鎖定速度也最快。再加上吃 175 國訊號的內建 SIM、虛擬圍籬逃脫警報、心率和呼吸監測,難怪六家主流評測各自獨立測完都選它當整體首選。續航偏短,就是換到這種反應速度的合理代價。" },
-            { "title": "Fi Series 3+ 是給那些老是忘記充電的人", "body": "Fi 一次充電能撐近三個月,這徹底改變你跟追蹤器相處的方式。沒有每晚充電的儀式,也不會在狗狗溜出院子那天早上發現項圈沒電。它的逃脫警報十秒內就發出,整合式項圈還特別為愛咬、愛游泳、會把夾扣式追蹤器咬爛的狗設計。對美國本土、想要裝上去就不用管的飼主來說,這是全場最強的選擇。" },
-            { "title": "免月費機種是真的可行,前提是你懂它的取捨", "body": "月費之所以存在,是因為即時定位要靠蜂巢網路,所以多數免費機種都是用技術換成本。PitPat 把 SIM 和數據費一次付清,照樣給你即時蜂巢定位。Aorkuler 完全跳過基地台,用無線電把位置送到手持機,真正能離線用。AirTag 靠 Apple Find My 網路在都市精準定位,價格最低。每一台在自己的守備範圍內都好用,踏出範圍就會卡住。" },
-            { "title": "照你家狗實際會去的地方買,別只看規格表", "body": "選對追蹤器,取決於使用環境。都市和郊區的狗,最適合 Tractive、Fi、PitPat 這類蜂巢機種,網路密集所以定位又快又準。鄉下或打獵的狗,要選 Garmin 或 Aorkuler,因為 RF 無線電在沒訊號的地方照樣運作。院子邊界的問題,是 SpotOn 要解決的,不是一般追蹤器的守備範圍。先把使用情境搞清楚,這十台自然就分出一個明確的答案。" }
+            {
+              "title": "Tractive 穩坐第一",
+              "body": "每兩到三秒的即時更新加上首頁健康儀表板，狗一衝出去我最信得過它。"
+            },
+            {
+              "title": "Fi 靠續航取勝",
+              "body": "六到八週充一次電，項圈跟追蹤器一體成型，愛咬東西跟長途出遊都合適。"
+            },
+            {
+              "title": "Cube 適合怕月費的人",
+              "body": "PRO 版電池撐近一年，月費壓得低，預算導向的飼主首選。"
+            },
+            {
+              "title": "依需求選覆蓋範圍",
+              "body": "要做電子圍籬或長距離打獵，SpotOn 跟 Garmin Alpha 才值那個價。"
+            }
           ]
         }
       }

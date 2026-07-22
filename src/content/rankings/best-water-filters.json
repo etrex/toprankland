@@ -184,41 +184,376 @@
     {
       "date": "2026-07-21",
       "rankings": [
-        { "id": "cloud-ro-undersink", "rank": 1, "score": 9.4, "scores": { "contaminant_removal": 9.6, "certification": 9.5, "filter_life": 9.0, "convenience": 9.0, "value": 9.2 } },
-        { "id": "aquatru-carafe", "rank": 2, "score": 9.2, "scores": { "contaminant_removal": 9.4, "certification": 9.4, "filter_life": 8.2, "convenience": 9.8, "value": 9.0 } },
-        { "id": "apec-roes-50", "rank": 3, "score": 9.1, "scores": { "contaminant_removal": 9.4, "certification": 9.2, "filter_life": 9.5, "convenience": 8.0, "value": 9.6 } },
-        { "id": "waterdrop-g3p800", "rank": 4, "score": 9.0, "scores": { "contaminant_removal": 9.5, "certification": 9.3, "filter_life": 8.4, "convenience": 8.6, "value": 8.5 } },
-        { "id": "aquasana-optimh2o-ro-claryum", "rank": 5, "score": 8.8, "scores": { "contaminant_removal": 9.5, "certification": 9.6, "filter_life": 8.0, "convenience": 8.2, "value": 8.4 } },
-        { "id": "ispring-rcc7ak", "rank": 6, "score": 8.6, "scores": { "contaminant_removal": 9.1, "certification": 8.8, "filter_life": 8.8, "convenience": 8.0, "value": 9.2 } },
-        { "id": "pur-plus-11cup", "rank": 7, "score": 8.4, "scores": { "contaminant_removal": 7.8, "certification": 8.4, "filter_life": 8.6, "convenience": 9.8, "value": 9.4 } },
-        { "id": "zerowater-10cup", "rank": 8, "score": 8.1, "scores": { "contaminant_removal": 8.6, "certification": 8.2, "filter_life": 6.8, "convenience": 9.6, "value": 8.2 } },
-        { "id": "frizzlife-mk99", "rank": 9, "score": 7.9, "scores": { "contaminant_removal": 7.6, "certification": 7.8, "filter_life": 8.6, "convenience": 8.8, "value": 8.8 } },
-        { "id": "brita-elite-tahoe", "rank": 10, "score": 7.6, "scores": { "contaminant_removal": 7.2, "certification": 8.0, "filter_life": 8.8, "convenience": 9.6, "value": 9.0 } }
+        {
+          "id": "cloud-ro-undersink",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "contaminant_removal": 9.6,
+            "certification": 9.5,
+            "filter_life": 9.0,
+            "convenience": 9.0,
+            "value": 9.2
+          }
+        },
+        {
+          "id": "aquatru-carafe",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "contaminant_removal": 9.4,
+            "certification": 9.4,
+            "filter_life": 8.2,
+            "convenience": 9.8,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "apec-roes-50",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "contaminant_removal": 9.4,
+            "certification": 9.2,
+            "filter_life": 9.5,
+            "convenience": 8.0,
+            "value": 9.6
+          }
+        },
+        {
+          "id": "waterdrop-g3p800",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "contaminant_removal": 9.5,
+            "certification": 9.3,
+            "filter_life": 8.4,
+            "convenience": 8.6,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "aquasana-optimh2o-ro-claryum",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "contaminant_removal": 9.5,
+            "certification": 9.6,
+            "filter_life": 8.0,
+            "convenience": 8.2,
+            "value": 8.4
+          }
+        },
+        {
+          "id": "ispring-rcc7ak",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "contaminant_removal": 9.1,
+            "certification": 8.8,
+            "filter_life": 8.8,
+            "convenience": 8.0,
+            "value": 9.2
+          }
+        },
+        {
+          "id": "pur-plus-11cup",
+          "rank": 7,
+          "score": 8.4,
+          "scores": {
+            "contaminant_removal": 7.8,
+            "certification": 8.4,
+            "filter_life": 8.6,
+            "convenience": 9.8,
+            "value": 9.4
+          }
+        },
+        {
+          "id": "zerowater-10cup",
+          "rank": 8,
+          "score": 8.1,
+          "scores": {
+            "contaminant_removal": 8.6,
+            "certification": 8.2,
+            "filter_life": 6.8,
+            "convenience": 9.6,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "frizzlife-mk99",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "contaminant_removal": 7.6,
+            "certification": 7.8,
+            "filter_life": 8.6,
+            "convenience": 8.8,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "brita-elite-tahoe",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "contaminant_removal": 7.2,
+            "certification": 8.0,
+            "filter_life": 8.8,
+            "convenience": 9.6,
+            "value": 9.0
+          }
+        }
       ],
       "references": [
-        { "title": "Best Under-Sink Water Filters of 2026", "url": "https://www.consumerreports.org/home-garden/water-filters/best-under-sink-water-filters-from-consumer-reports-tests-a8948313333/", "source": "Consumer Reports" },
-        { "title": "8 Best Reverse Osmosis Systems of 2026 We've Tested", "url": "https://waterfilterguru.com/best-reverse-osmosis-system-reviews/", "source": "Water Filter Guru" },
-        { "title": "The Best Water Filters of 2026 | Lab Tested & Ranked", "url": "https://www.techgearlab.com/topics/kitchen/best-water-filter", "source": "TechGearLab" },
-        { "title": "Cloud RO Review: What the Lab Test Revealed 2026", "url": "https://qualitywaterlab.com/reverse-osmosis/cloud-ro-review/", "source": "Quality Water Lab" },
-        { "title": "Best Water Filter Pitchers of 2026", "url": "https://www.consumerreports.org/home-garden/water-filters/best-water-filter-pitchers-of-the-year-a8018112881/", "source": "Consumer Reports" }
+        {
+          "title": "Best Under-Sink Water Filters of 2026",
+          "url": "https://www.consumerreports.org/home-garden/water-filters/best-under-sink-water-filters-from-consumer-reports-tests-a8948313333/",
+          "source": "Consumer Reports"
+        },
+        {
+          "title": "8 Best Reverse Osmosis Systems of 2026 We've Tested",
+          "url": "https://waterfilterguru.com/best-reverse-osmosis-system-reviews/",
+          "source": "Water Filter Guru"
+        },
+        {
+          "title": "The Best Water Filters of 2026 | Lab Tested & Ranked",
+          "url": "https://www.techgearlab.com/topics/kitchen/best-water-filter",
+          "source": "TechGearLab"
+        },
+        {
+          "title": "Cloud RO Review: What the Lab Test Revealed 2026",
+          "url": "https://qualitywaterlab.com/reverse-osmosis/cloud-ro-review/",
+          "source": "Quality Water Lab"
+        },
+        {
+          "title": "Best Water Filter Pitchers of 2026",
+          "url": "https://www.consumerreports.org/home-garden/water-filters/best-water-filter-pitchers-of-the-year-a8018112881/",
+          "source": "Consumer Reports"
+        }
       ],
       "i18n": {
         "en": {
           "commentary": "I rank Cloud RO first because it fixes the two things that make people quietly hate reverse osmosis: the stripped, flat taste and the three-gallons-wasted-per-gallon math. It builds remineralization in at no extra cost and runs a genuine 1:1 efficiency ratio, then backs it with a 9.24/10 lab score and NSF 58 certification. That is the rare RO system I would install and forget about. The real story of 2026 is that reverse osmosis has gone mainstream, driven by PFAS and lead headlines, and the field has split into clear lanes. If you can drill under your sink and want the best value, the APEC ROES-50 is a 20-year-old design that still ranked first at TechGearLab and costs about $75 a year to feed. If you rent or refuse to touch plumbing, the AquaTru Carafe delivers certified RO water into a glass carafe with nothing but a power outlet. For a big household, the tankless Waterdrop G3P800 pours 800 gallons a day with UV on top. Pitchers still earn their place. The PUR Plus is the one I hand to anyone starting out at $35, and the Brita Elite is the only pitcher I trust for certified lead reduction at the lowest running cost. Match the filter to your water report and your sink, and every option here holds up.",
           "highlights": [
-            { "title": "Cloud RO wins by solving RO's two oldest complaints", "body": "Reverse osmosis has always carried two knocks: flat-tasting water and heavy waste. Cloud RO answers both directly. Its built-in remineralization stage adds back calcium, magnesium, potassium and zinc and holds TDS around 66 ppm, so the water tastes alive, and its 1:1 efficiency ratio sends one gallon to drain for every gallon it makes. A 9.24/10 lab score and NSF 58 certification confirm the removal is real, and app-based filter sensors mean you replace cartridges on data instead of guesswork." },
-            { "title": "The APEC ROES-50 is the value benchmark the whole category answers to", "body": "A design that has been on the market for two decades still ranked first out of thirteen systems in TechGearLab's December 2025 test, beating tankless units that cost triple. It uses a proven Dow Filmtec membrane, reduces nearly every tested pollutant to undetectable levels, and runs about $75 a year in filters. If you can spare an afternoon and a spot under the sink, this is the most water quality per dollar on the market." },
-            { "title": "AquaTru Carafe is the answer for renters who can't touch plumbing", "body": "Certified reverse osmosis usually means drilling, a drain saddle and a dedicated faucet. The AquaTru Carafe removes 84 IAPMO-certified contaminants including PFAS, lead and fluoride using nothing but a countertop and a power outlet, then collects the result in a borosilicate glass carafe that sidesteps the microplastic leaching of plastic RO tanks. Filters cost more per gallon than a plumbed system, which is the fair trade for zero installation." },
-            { "title": "Pick your filter from your water report, not the price tag", "body": "The right choice starts with what is actually in your water. High TDS or bad taste points to ZeroWater's five-stage pitcher and its bundled meter. A lead advisory points to anything NSF 53 certified, which the Brita Elite and every RO system here carry. PFAS or fluoride concern points to reverse osmosis, full stop, since carbon pitchers do not reliably remove them. Buy the certification that matches your problem and skip paying for the ones you do not need." }
+            {
+              "title": "Cloud RO wins by solving RO's two oldest complaints",
+              "body": "Reverse osmosis has always carried two knocks: flat-tasting water and heavy waste. Cloud RO answers both directly. Its built-in remineralization stage adds back calcium, magnesium, potassium and zinc and holds TDS around 66 ppm, so the water tastes alive, and its 1:1 efficiency ratio sends one gallon to drain for every gallon it makes. A 9.24/10 lab score and NSF 58 certification confirm the removal is real, and app-based filter sensors mean you replace cartridges on data instead of guesswork."
+            },
+            {
+              "title": "The APEC ROES-50 is the value benchmark the whole category answers to",
+              "body": "A design that has been on the market for two decades still ranked first out of thirteen systems in TechGearLab's December 2025 test, beating tankless units that cost triple. It uses a proven Dow Filmtec membrane, reduces nearly every tested pollutant to undetectable levels, and runs about $75 a year in filters. If you can spare an afternoon and a spot under the sink, this is the most water quality per dollar on the market."
+            },
+            {
+              "title": "AquaTru Carafe is the answer for renters who can't touch plumbing",
+              "body": "Certified reverse osmosis usually means drilling, a drain saddle and a dedicated faucet. The AquaTru Carafe removes 84 IAPMO-certified contaminants including PFAS, lead and fluoride using nothing but a countertop and a power outlet, then collects the result in a borosilicate glass carafe that sidesteps the microplastic leaching of plastic RO tanks. Filters cost more per gallon than a plumbed system, which is the fair trade for zero installation."
+            },
+            {
+              "title": "Pick your filter from your water report, not the price tag",
+              "body": "The right choice starts with what is actually in your water. High TDS or bad taste points to ZeroWater's five-stage pitcher and its bundled meter. A lead advisory points to anything NSF 53 certified, which the Brita Elite and every RO system here carry. PFAS or fluoride concern points to reverse osmosis, full stop, since carbon pitchers do not reliably remove them. Buy the certification that matches your problem and skip paying for the ones you do not need."
+            }
           ]
         },
         "zh-tw": {
           "commentary": "我把 Cloud RO 放第一，因為它一次解決了大家私底下最討厭逆滲透的兩件事:純水喝起來死板板，還有出一加侖廢三加侖的浪費。它把礦化功能免費內建進去，礦化後 TDS 維持在 66 ppm,喝起來有活性;出水對排水做到真正的 1:1,幾乎不浪費。再加上實驗室 9.24 分和 NSF 58 認證背書，這是少數我裝了就能忘記它存在的逆滲透。2026 年最大的變化，是逆滲透因為 PFAS 和鉛的新聞而正式走向大眾，整個市場也分出清楚的路線。能在水槽下鑽孔、又想要最高 CP 值，APEC ROES-50 這個賣了二十年的老設計照樣在 TechGearLab 拿下第一，一年濾芯才台幣兩千出頭。租屋族不能動水管，AquaTru Carafe 插上電就把認證等級的逆滲透水裝進玻璃壺。家裡人多用水兇，無桶的 Waterdrop G3P800 一天出水 800 加侖還附 UV 殺菌。濾水壺也還有它的位置，PUR Plus 是我會推薦給每個新手的一千元入門款，Brita Elite 則是長期成本最低、又有除鉛認證的那一台。先看你家的水質報告和水槽條件，再對號入座，這份榜單上每一台都站得住腳。",
           "highlights": [
-            { "title": "Cloud RO 靠解決逆滲透兩個老毛病拿下第一", "body": "逆滲透長年被嫌兩件事:水喝起來死板，還有廢水太兇。Cloud RO 兩個都正面回應。內建礦化把鈣、鎂、鉀、鋅補回來，TDS 穩定在 66 ppm 左右，水喝起來有活性;1:1 的效率比代表每做一加侖純水只排一加侖廢水。實驗室 9.24 分加上 NSF 58 認證證明除污是玩真的，APP 濾芯感測器讓你照數據換濾芯，不用再憑感覺猜。" },
-            { "title": "APEC ROES-50 是整個品類都要對標的 CP 值標竿", "body": "一個在市場上賣了二十年的設計，在 TechGearLab 2025 年 12 月的實測裡照樣從十三台中拿下第一，贏過貴三倍的無桶機。它用經過驗證的 Dow Filmtec 膜，幾乎把所有受測污染物壓到偵測不到，一年濾芯成本大約台幣兩千出頭。只要你騰得出一個下午和水槽下一塊空間，這台就是每一塊錢換到最多水質的選擇。" },
-            { "title": "不能動水管的租屋族，答案就是 AquaTru Carafe", "body": "認證等級的逆滲透通常意味著鑽孔、接排水、拉專用龍頭。AquaTru Carafe 只要一塊檯面和一個插座，就實測除掉 84 種 IAPMO 認證的污染物，包含 PFAS、鉛和氟，純水還裝進玻璃壺，避開塑膠壓力桶的微塑膠溶出。濾芯每公升成本比固定式高，這是換來免安裝的合理代價。" },
-            { "title": "選濾水器要看水質報告，不是看價格標籤", "body": "正確的選擇從你家水裡到底有什麼開始。TDS 高或水味差，就往 ZeroWater 五道濾水壺和它附的檢測筆走。收到鉛超標通知，就認明 NSF 53 認證，Brita Elite 和這裡每一台逆滲透都有。擔心 PFAS 或氟，那就直接上逆滲透，因為活性碳濾水壺沒辦法穩定濾掉這兩樣。買對應你問題的那張認證，不需要的就別多花錢。" }
+            {
+              "title": "Cloud RO 靠解決逆滲透兩個老毛病拿下第一",
+              "body": "逆滲透長年被嫌兩件事:水喝起來死板，還有廢水太兇。Cloud RO 兩個都正面回應。內建礦化把鈣、鎂、鉀、鋅補回來，TDS 穩定在 66 ppm 左右，水喝起來有活性;1:1 的效率比代表每做一加侖純水只排一加侖廢水。實驗室 9.24 分加上 NSF 58 認證證明除污是玩真的，APP 濾芯感測器讓你照數據換濾芯，不用再憑感覺猜。"
+            },
+            {
+              "title": "APEC ROES-50 是整個品類都要對標的 CP 值標竿",
+              "body": "一個在市場上賣了二十年的設計，在 TechGearLab 2025 年 12 月的實測裡照樣從十三台中拿下第一，贏過貴三倍的無桶機。它用經過驗證的 Dow Filmtec 膜，幾乎把所有受測污染物壓到偵測不到，一年濾芯成本大約台幣兩千出頭。只要你騰得出一個下午和水槽下一塊空間，這台就是每一塊錢換到最多水質的選擇。"
+            },
+            {
+              "title": "不能動水管的租屋族，答案就是 AquaTru Carafe",
+              "body": "認證等級的逆滲透通常意味著鑽孔、接排水、拉專用龍頭。AquaTru Carafe 只要一塊檯面和一個插座，就實測除掉 84 種 IAPMO 認證的污染物，包含 PFAS、鉛和氟，純水還裝進玻璃壺，避開塑膠壓力桶的微塑膠溶出。濾芯每公升成本比固定式高，這是換來免安裝的合理代價。"
+            },
+            {
+              "title": "選濾水器要看水質報告，不是看價格標籤",
+              "body": "正確的選擇從你家水裡到底有什麼開始。TDS 高或水味差，就往 ZeroWater 五道濾水壺和它附的檢測筆走。收到鉛超標通知，就認明 NSF 53 認證，Brita Elite 和這裡每一台逆滲透都有。擔心 PFAS 或氟，那就直接上逆滲透，因為活性碳濾水壺沒辦法穩定濾掉這兩樣。買對應你問題的那張認證，不需要的就別多花錢。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-07-22",
+      "rankings": [
+        {
+          "id": "cloud-ro-undersink",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "contaminant_removal": 9.6,
+            "certification": 9.5,
+            "filter_life": 9.0,
+            "convenience": 9.0,
+            "value": 9.2
+          }
+        },
+        {
+          "id": "aquatru-carafe",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "contaminant_removal": 9.4,
+            "certification": 9.4,
+            "filter_life": 8.2,
+            "convenience": 9.8,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "apec-roes-50",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "contaminant_removal": 9.4,
+            "certification": 9.2,
+            "filter_life": 9.5,
+            "convenience": 8.0,
+            "value": 9.6
+          }
+        },
+        {
+          "id": "waterdrop-g3p800",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "contaminant_removal": 9.5,
+            "certification": 9.3,
+            "filter_life": 8.4,
+            "convenience": 8.6,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "aquasana-optimh2o-ro-claryum",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "contaminant_removal": 9.5,
+            "certification": 9.6,
+            "filter_life": 8.0,
+            "convenience": 8.2,
+            "value": 8.4
+          }
+        },
+        {
+          "id": "ispring-rcc7ak",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "contaminant_removal": 9.1,
+            "certification": 8.8,
+            "filter_life": 8.8,
+            "convenience": 8.0,
+            "value": 9.2
+          }
+        },
+        {
+          "id": "pur-plus-11cup",
+          "rank": 7,
+          "score": 8.4,
+          "scores": {
+            "contaminant_removal": 7.8,
+            "certification": 8.4,
+            "filter_life": 8.6,
+            "convenience": 9.8,
+            "value": 9.4
+          }
+        },
+        {
+          "id": "zerowater-10cup",
+          "rank": 8,
+          "score": 8.1,
+          "scores": {
+            "contaminant_removal": 8.6,
+            "certification": 8.2,
+            "filter_life": 6.8,
+            "convenience": 9.6,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "frizzlife-mk99",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "contaminant_removal": 7.6,
+            "certification": 7.8,
+            "filter_life": 8.6,
+            "convenience": 8.8,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "brita-elite-tahoe",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "contaminant_removal": 7.2,
+            "certification": 8.0,
+            "filter_life": 8.8,
+            "convenience": 9.6,
+            "value": 9.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "8 Best Reverse Osmosis Systems of 2026 We've Tested",
+          "url": "https://waterfilterguru.com/best-reverse-osmosis-system-reviews/",
+          "source": "Water Filter Guru"
+        },
+        {
+          "title": "AquaTru Scores Good Housekeeping 2026 Kitchen Award, Esquire's Best Water Purifier",
+          "url": "https://markets.financialcontent.com/winslow/article/bizwire-2025-11-13-aquatru-scores-big-wins-as-a-good-housekeepings-2026-kitchen-awards-winner-esquires-best-water-purifier",
+          "source": "BizWire"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The Cloud RO undersink system keeps my top ranking because it delivers full reverse osmosis contaminant removal with the certifications to back it, then hides the hardware out of sight under the sink. For a household that wants the cleanest water on tap without a jug to refill, that is the setup I recommend first. The AquaTru Carafe stays a strong second, and this month it kept collecting hardware, taking a Good Housekeeping 2026 Kitchen Award and Esquire's best water purifier nod. It holds IAPMO certification to NSF 42, 53, 58, and 401 across 83 contaminants, removes lead, fluoride, and uranium at the tap, and needs zero plumbing. Set it on the counter, plug it in, done. That convenience is why it stays my top countertop pick. The APEC ROES-50 remains the value workhorse for anyone comfortable with an undersink install, pairing long filter life with a genuinely low running cost. Waterdrop and Aquasana keep their spots for strong all-round RO performance. On the pitcher side, the PUR Plus and ZeroWater stay the grab-and-go picks for renters who cannot plumb anything in. One honest caveat I always repeat: thorough RO strips beneficial minerals along with the bad stuff, so a remineralizing stage is worth it if taste matters to you. Nothing this week reordered the list, so I am holding ranks steady. My advice stands: choose the Cloud RO or APEC for a permanent undersink setup, the AquaTru for no-install countertop purity, and a quality pitcher if you rent. Match the system to your kitchen and your effort tolerance.",
+          "highlights": [
+            {
+              "title": "Cloud RO is the top undersink pick",
+              "body": "Full reverse osmosis removal with the certifications to back it, tucked out of sight under the sink. My first pick for clean water on tap."
+            },
+            {
+              "title": "AquaTru Carafe keeps winning awards",
+              "body": "A Good Housekeeping 2026 Kitchen Award and Esquire's best purifier nod, plus IAPMO certification across 83 contaminants and zero plumbing. The top countertop pick."
+            },
+            {
+              "title": "APEC ROES-50 is the value workhorse",
+              "body": "Long filter life and a genuinely low running cost make it the smart buy for anyone fine with an undersink install."
+            },
+            {
+              "title": "Remineralize for taste",
+              "body": "Thorough RO strips good minerals along with contaminants, so a remineralizing stage is worth it if taste matters to you."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Cloud RO 廚下型系統守住我心中第一，因為它給你完整的 RO 逆滲透去汙能力，還有認證撐腰，然後把整組設備藏在水槽底下看不到的地方。一個家庭想要打開水龍頭就有最乾淨的水、又不想一直裝水壺，我第一個推的就是這套。AquaTru Carafe 穩坐第二，這個月它獎項又拿到手軟，抱回 Good Housekeeping 2026 廚房大獎，還被 Esquire 選為最佳淨水器。它有 IAPMO 認證，符合 NSF 42、53、58、401，涵蓋 83 種汙染物，能在水龍頭端去除鉛、氟、鈾，而且完全不用接管線。放檯面、插電、搞定。這種方便，就是它穩坐檯面型首選的原因。APEC ROES-50 還是那台高性價比的工作馬，願意裝廚下型的人很適合，濾芯壽命長、運轉成本又是真的低。Waterdrop 跟 Aquasana 守住位置，RO 整體表現都很扎實。濾水壺這邊，PUR Plus 跟 ZeroWater 還是租屋族的即拿即用之選，不能接管線也能用。一個我每次都會叮嚀的老實話：RO 過濾太徹底，好的礦物質會連著壞東西一起被拿掉，在意口感的話，加一道礦化程序是值得的。這禮拜沒有洗牌，名次按住。建議還是老話：想裝固定廚下型選 Cloud RO 或 APEC，想免安裝的檯面純淨選 AquaTru，租屋就選一支好濾水壺。照你的廚房跟願意花的工夫配系統。",
+          "highlights": [
+            {
+              "title": "Cloud RO 是廚下型首選",
+              "body": "完整 RO 去汙加認證撐腰，設備藏在水槽下看不到。想打開龍頭就有乾淨水，我第一個推它。"
+            },
+            {
+              "title": "AquaTru Carafe 獎拿到手軟",
+              "body": "抱回 Good Housekeeping 2026 廚房大獎、Esquire 最佳淨水器，還有 IAPMO 認證涵蓋 83 種汙染物、免接管線。檯面型首選。"
+            },
+            {
+              "title": "APEC ROES-50 是高性價比工作馬",
+              "body": "濾芯壽命長、運轉成本低，願意裝廚下型的人買它最聰明。"
+            },
+            {
+              "title": "在意口感就礦化",
+              "body": "RO 太徹底會把好礦物質一起拿掉，在意口感就加一道礦化程序，值得。"
+            }
           ]
         }
       }
