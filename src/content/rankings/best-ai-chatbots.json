@@ -10118,6 +10118,210 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-24",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.0,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.9,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.1,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.9,
+            "realtime": 9.4,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "reasoning": 8.9,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.4,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "LLM News Today (July 2026) - AI Model Releases",
+          "url": "https://llm-stats.com/ai-news",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "July 2026 Top Generative AI Chatbots & LLMs by Market Share",
+          "url": "https://momenticmarketing.com/blog/top-ai-chatbots",
+          "source": "Momentic"
+        },
+        {
+          "title": "Best AI Models in July 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "I keep ChatGPT at the top this week, and the reason is distribution plus a genuinely useful shipping cadence. GPT-5.6 finished its broad public rollout on July 9, and OpenAI put Codex directly inside the ChatGPT mobile app, which means you can kick off a coding task on your laptop from a phone on the train. That is the kind of feature that changes how often I open an app, so I nudged ChatGPT's coding score up a tenth. Market data backs the placement: ChatGPT holds roughly 54% of worldwide chatbot web visits, with Gemini near 28% and Claude around 9%.\n\nClaude stays at number two because it still owns the hardest work. Opus 4.6 posts 80.8% on SWE-bench, and when I hand it a long, messy repository or a 40-page contract, it comes back with something I can actually use. Claude also grew 855% year over year, the fastest in this set, which tells me the people who try it for real work tend to stay.\n\nGemini earns a tenth on ecosystem this week. Gemini 3.1 Pro now carries a 2.5 million token context window, the largest commercially available, and Google shipped Study Notebooks free inside the app. Free, personalised study tooling inside a product already living in Gmail, Docs and Android is a real distribution advantage, and I expect it to show up in usage numbers.\n\nGrok holds fourth on the strength of Grok 4.5, shipped July 8 with a coding focus and the fastest real-time feed in the category. Perplexity remains my pick when I want sourced answers I can check. DeepSeek and Meta AI stay where they are, both delivering serious capability at zero or near-zero cost, which is exactly why they belong in this list.",
+          "highlights": [
+            {
+              "title": "GPT-5.6 completes its rollout",
+              "body": "The broad public release landed July 9, and Codex now runs inside the ChatGPT mobile app. Starting a job on my desktop from my phone is the single most useful thing OpenAI shipped this month, and it lifted ChatGPT's coding score to 9.2."
+            },
+            {
+              "title": "Gemini 3.1 Pro takes the context crown",
+              "body": "A 2.5 million token window is the largest commercial context available today. For dropping an entire codebase or a year of meeting notes into one conversation, that headroom is the whole argument, and it pushed Gemini's ecosystem score to 9.7."
+            },
+            {
+              "title": "Claude's growth curve is the story",
+              "body": "855% year over year and 228% in a single quarter is the fastest growth in this ranking. Combined with 80.8% on SWE-bench from Opus 4.6, it confirms what I see daily: give Claude the hard problem and it earns the seat."
+            },
+            {
+              "title": "Grok 4.5 sharpens the coding angle",
+              "body": "xAI shipped Grok 4.5 on July 8 with a clear coding focus. Paired with the live feed that keeps its real-time score at 9.8, Grok is the one I open when a story is breaking and I want an answer within minutes."
+            },
+            {
+              "title": "Free tiers keep reshaping value",
+              "body": "DeepSeek and Meta AI both hold a perfect 10 on value. When capable models cost nothing, the paid tiers have to justify themselves on ecosystem depth and top-end reasoning, which is exactly what the top three are doing."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週我還是把 ChatGPT 放第一，理由很單純，鋪貨夠廣，而且更新節奏真的有料。GPT-5.6 在 7 月 9 日完成全面公開推送，OpenAI 還把 Codex 直接塞進 ChatGPT 手機 App，等於你在捷運上用手機就能叫家裡那台電腦跑程式任務。這種功能會直接改變我一天開幾次 App，所以我把 ChatGPT 的程式能力加了 0.1。市佔也站得住腳，全球聊天機器人網頁流量它拿下約 54%，Gemini 約 28%，Claude 約 9%。\n\nClaude 穩坐第二，因為最硬的活還是它扛。Opus 4.6 在 SWE-bench 拿到 80.8%，我丟一個又長又亂的專案，或是四十頁的合約進去，它回來的東西我可以直接用。而且它年增 855%，是這份榜單裡跑最快的，代表真的拿它做事的人會留下來。\n\nGemini 這週生態系加 0.1。Gemini 3.1 Pro 的脈絡長度來到 250 萬 token，目前商用最大，Google 又在 App 裡免費開放 Study Notebooks。一個已經住在 Gmail、Docs 跟 Android 裡的產品，再送你免費的個人化學習工具，這種鋪貨優勢很實在，我預期後面數字會反映出來。\n\nGrok 守住第四，靠的是 7 月 8 日推出、主打程式能力的 Grok 4.5，加上全場最快的即時資訊。Perplexity 依然是我要「附出處、我自己查得到」時的首選。DeepSeek 跟 Meta AI 位置不動，兩邊都用零成本或接近零成本給出認真的能力，這也正是它們該待在榜上的原因。",
+          "highlights": [
+            {
+              "title": "GPT-5.6 全面上線",
+              "body": "7 月 9 日完成公開推送，Codex 也進駐 ChatGPT 手機 App。用手機叫桌機開工是這個月最實用的一項更新，我因此把 ChatGPT 的程式能力調到 9.2。"
+            },
+            {
+              "title": "Gemini 3.1 Pro 拿下脈絡長度王座",
+              "body": "250 萬 token 是目前商用最大的視窗。要把整包程式碼或一整年的會議記錄丟進同一段對話，這個餘裕就是全部的理由，生態系分數因此上到 9.7。"
+            },
+            {
+              "title": "Claude 的成長曲線才是重點",
+              "body": "年增 855%、單季增 228%，是榜單裡最快的。搭配 Opus 4.6 在 SWE-bench 的 80.8%，跟我每天的體感一致，難題交給它就對了。"
+            },
+            {
+              "title": "Grok 4.5 把程式能力磨利",
+              "body": "xAI 在 7 月 8 日推出 Grok 4.5，主打寫程式。再加上讓它即時資訊維持 9.8 的社群訊號，有大事發生、我想在幾分鐘內拿到答案時就開它。"
+            },
+            {
+              "title": "免費方案持續重寫性價比",
+              "body": "DeepSeek 跟 Meta AI 的性價比都是滿分 10。當有實力的模型不用錢，付費方案就得靠生態系深度跟頂規推理來說服人，前三名現在做的正是這件事。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

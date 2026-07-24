@@ -10725,6 +10725,212 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-24",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.7,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.0,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Seedance 2.0 vs Kling 3.0 vs Sora 2 vs Veo 3.1: The Ultimate AI Video Showdown (2026)",
+          "url": "https://www.alphamatch.ai/blog/ai-video-generation-showdown-2026",
+          "source": "AlphaMatch"
+        },
+        {
+          "title": "Best Text-to-Video AI Generators July 2026: Top 10 Models Ranked",
+          "url": "https://www.buildmvpfast.com/articles/best-llms-2026-guide/video-generation-ai",
+          "source": "BuildMVPFast"
+        },
+        {
+          "title": "Best AI Video Generator 2026: Veo 3.1 vs Sora 2 vs Kling",
+          "url": "https://tech-insider.org/best-ai-video-generator-2026/",
+          "source": "Tech Insider"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Native audio is now the thing that separates these models, and raw visual quality has become table stakes. Every tool in my top five produces a clean, sharp shot. What decides which one I open is whether the sound comes out of the same generation pass as the picture, because when it does the dialogue actually lands on the lips and the room actually sounds like a room.\n\nKling 3.0 keeps first place on the combination of quality and price. The Omni variant handles multi-shot sequences on one shared audio timeline with native dialogue in five languages, which for a 60-second product spot means one generation instead of four clips stitched in an editor. I moved its audio sync score to 8.8 this week as more of my test sequences came back usable without a manual audio pass.\n\nVeo 3.1 holds second and remains the most complete single model. True 4K at up to 60fps with native audio is a specification no competitor matches across the board, and 9.8 on audio sync is the highest score in the ranking.\n\nSeedance 2.0 gets a tenth on audio sync, up to 9.5. Its unified audio-video architecture means the model hears what it is generating as it generates it. A character speaking in a large hall comes back with natural reverb baked in, no post-production. That is a genuinely different approach and it shows in the output.\n\nOne planning note. OpenAI's Sora API sunsets on September 24 after the consumer app closed in April. If you have production code calling it, that is two months to migrate, and Veo 3.1 or Kling are the natural destinations. Do not leave it to September.",
+          "highlights": [
+            {
+              "title": "Native audio decides the ranking now",
+              "body": "Every model in my top five delivers a sharp image. The gap is whether sound is generated with the picture, which determines whether dialogue lands on the lips. That is why audio sync is doing most of the ranking work this month."
+            },
+            {
+              "title": "Kling 3.0 Omni handles multi-shot in one pass",
+              "body": "Multiple shots on a shared audio timeline with native dialogue in five languages. For a 60-second spot that means one generation instead of stitching four clips, and it lifted the audio sync score to 8.8."
+            },
+            {
+              "title": "Seedance hears its own output",
+              "body": "The unified audio-video architecture generates sound and picture together, so a character speaking in a large hall arrives with natural reverb already in the file. Audio sync up to 9.5, and it saves a post-production step every time."
+            },
+            {
+              "title": "Veo 3.1 leads on raw specification",
+              "body": "True 4K at up to 60fps with native audio, the most complete spec sheet in the category and a 9.8 on audio sync. When the deliverable has to survive a big screen, this is the safest choice."
+            },
+            {
+              "title": "Sora API sunsets September 24",
+              "body": "The consumer app closed in April and the API follows in two months. Anyone with production code calling Sora should be migrating now, and Veo 3.1 or Kling 3.0 are the closest replacements on quality and audio."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "現在真正拉開差距的是原生音訊，畫質好已經變成基本盤。我前五名的每個工具都能給你乾淨銳利的畫面，決定我開哪一個的，是聲音有沒有跟畫面在同一次生成裡出來。有的話，對白才會準準落在嘴型上，空間感也才像真的在那個房間裡。\n\nKling 3.0 靠品質加價格續坐第一。Omni 版本可以在同一條音訊時間軸上處理多鏡頭，還支援五種語言的原生對白，做一支 60 秒的產品短片等於一次生成搞定，不用剪四段再接。這週我把它的音畫同步調到 8.8，因為我測的序列越來越多是直接可用，不需要再手動補一輪音訊。\n\nVeo 3.1 守第二，還是規格最完整的單一模型。真 4K 最高 60fps 加原生音訊，這份規格表全場沒有對手能整套對上，音畫同步 9.8 也是榜上最高。\n\nSeedance 2.0 的音畫同步加 0.1，來到 9.5。它的統一音視架構讓模型在生成的當下就「聽得到」自己在生成什麼，角色在大廳裡講話，回來的檔案自帶自然殘響，不用後製。這是真的不一樣的做法，成品也看得出來。\n\n最後提醒一件排程上的事。OpenAI 的 Sora API 在 9 月 24 日停止服務，消費端 App 四月就關了。手上還有正式環境程式在呼叫它的，剩兩個月可以搬家，Veo 3.1 跟 Kling 是最順的去處。不要拖到九月才動。",
+          "highlights": [
+            {
+              "title": "原生音訊決定現在的排名",
+              "body": "前五名的畫面都夠銳利，差別在聲音是不是跟畫面一起生成，這決定了對白會不會對上嘴型。所以這個月排名的主要推力就落在音畫同步。"
+            },
+            {
+              "title": "Kling 3.0 Omni 一次搞定多鏡頭",
+              "body": "多個鏡頭共用一條音訊時間軸，還有五種語言的原生對白。做 60 秒短片就是一次生成，不用接四段素材，音畫同步因此調到 8.8。"
+            },
+            {
+              "title": "Seedance 聽得到自己的輸出",
+              "body": "統一音視架構讓聲音跟畫面一起生成，角色在大廳講話，回來就自帶自然殘響。音畫同步上到 9.5，每次都省掉一道後製工序。"
+            },
+            {
+              "title": "Veo 3.1 規格最硬",
+              "body": "真 4K 最高 60fps 加原生音訊，是類別裡最完整的規格表，音畫同步 9.8。成品要上大螢幕的時候，選它最保險。"
+            },
+            {
+              "title": "Sora API 9 月 24 日收攤",
+              "body": "消費端 App 四月已關，API 兩個月後跟進。正式環境還在呼叫 Sora 的現在就該搬，品質跟音訊最接近的替代是 Veo 3.1 跟 Kling 3.0。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

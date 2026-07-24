@@ -16055,6 +16055,236 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-24",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Cursor, Claude Code, and Codex are merging into one AI coding stack nobody planned",
+          "url": "https://thenewstack.io/ai-coding-tool-stack/",
+          "source": "The New Stack"
+        },
+        {
+          "title": "The Best AI Coding Tools in July 2026 (and What Actually Changed This Month)",
+          "url": "https://marissaharcourt.substack.com/p/the-best-ai-coding-tools-in-july",
+          "source": "Marissa Harcourt"
+        },
+        {
+          "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
+          "url": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
+          "source": "The Hacker News"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The interesting thing about July is that the top three tools stopped being alternatives and started being a stack. The New Stack's reporting matches what I see on my own machine: Claude Code in the terminal for the heavy refactor, Cursor open for the visual review and quick edits, Codex handling the queued background jobs. Developers assembled that workflow themselves, and nobody at any of these companies planned it.\n\nClaude Code stays first. On hard benchmarks and long-context terminal work it is still the tool I trust with a week-old branch and a vague bug report, and a April developer survey put it at 46% for most loved, the highest in the category. Nothing this month moved it.\n\nI raised Codex to 9.1 and gave it a tenth on both agentic capability and IDE integration. GPT-5.6 went generally available July 9 with the Sol, Terra and Luna tier family behind it, and putting Codex inside the ChatGPT mobile app turned queued background work into something you can start from anywhere. That is a real workflow gain, so Codex moves clear of Cursor rather than tying it.\n\nCursor holds third at 9.0. The SpaceX acquisition is the biggest structural news in this market all year, and I want a quarter of shipping history before I read anything into it. The editor itself remains the best in-IDE experience here, and its 9.5 integration score reflects that.\n\nOne practical note from Sophos this month: Claude Code, Cursor and Codex are all tripping endpoint security detection rules written to catch human intruders. The agents are doing ordinary work, mass file reads, rapid process spawning, that simply looks like an attack to a behavioural engine. If you run these tools on a managed corporate laptop, talk to your security team before your agent gets quarantined mid-refactor.",
+          "highlights": [
+            {
+              "title": "The three-tool stack is now the norm",
+              "body": "Claude Code for deep terminal work, Cursor for visual review, Codex for background jobs. Developers built this pattern themselves, and it explains why the top three scores sit within 0.4 of each other rather than one pulling away."
+            },
+            {
+              "title": "Codex separates from Cursor",
+              "body": "GPT-5.6 hit general availability July 9 and Codex now runs from the ChatGPT mobile app. Being able to queue a real coding job from a phone earned it a tenth on agentic capability and moved it to 9.1 overall."
+            },
+            {
+              "title": "SpaceX buys Cursor",
+              "body": "The largest consolidation this market has seen. I am holding Cursor at 9.0 and its 9.5 IDE integration until there is a quarter of post-acquisition shipping to judge. The editor experience today is unchanged and still the best in-IDE option here."
+            },
+            {
+              "title": "Your security team needs a heads up",
+              "body": "Sophos found agents from all three leaders setting off endpoint detection rules built for human attackers. Mass file reads and rapid process spawning look identical to intrusion behaviour. Worth an allowlist conversation before it interrupts real work."
+            },
+            {
+              "title": "Claude Code keeps the loyalty crown",
+              "body": "46% in the most-loved survey is a wide margin in a category with thirteen credible entries. Paired with the strongest hard-benchmark results, it keeps codeQuality at 9.8 and the top slot for another week."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "七月最有意思的地方，是前三名的工具已經不是互相替代，而是變成一整套流程。The New Stack 的觀察跟我自己電腦上的情況一樣，重構丟終端機的 Claude Code，視覺化檢查跟小修改開 Cursor，排隊的背景任務交給 Codex。這套用法是開發者自己拼出來的，沒有哪家公司事先規劃。\n\nClaude Code 續坐第一。硬派題目跟長脈絡的終端機工作，它還是我敢把一條放了一週的分支加上一份含糊 bug 回報直接丟過去的工具。四月的開發者調查裡它拿到 46% 的最愛佔比，是這個類別最高的。這個月沒有事情動搖它。\n\n我把 Codex 拉到 9.1，代理能力跟 IDE 整合各加 0.1。GPT-5.6 在 7 月 9 日正式全面開放，背後是 Sol、Terra、Luna 三層模型家族，加上 Codex 進駐 ChatGPT 手機 App，排隊的背景工作變成走到哪都能開工。這是實打實的流程收益，所以 Codex 這次跟 Cursor 拉開，不再同分。\n\nCursor 守在第三，9.0 分。SpaceX 收購案是今年這個市場最大的結構性新聞，我想先看一季的出貨紀錄再下判斷。編輯器本身還是這裡最好的 IDE 內建體驗，9.5 的整合分數就是這個意思。\n\n另外提醒一件很實際的事，Sophos 這個月發現 Claude Code、Cursor 跟 Codex 都會觸發為了抓入侵者而寫的端點防護規則。這些代理只是在做日常工作，大量讀檔、快速開行程，看在行為分析引擎眼裡就跟攻擊一模一樣。如果你在公司管控的筆電上跑這些工具，建議先跟資安同事講一聲，免得重構到一半被隔離。",
+          "highlights": [
+            {
+              "title": "三工具一套流程已經是常態",
+              "body": "深度終端機工作用 Claude Code，視覺檢查用 Cursor，背景任務丟 Codex。這個模式是開發者自己長出來的，也解釋了為什麼前三名分數只差 0.4，沒有誰真的跑掉。"
+            },
+            {
+              "title": "Codex 跟 Cursor 拉開距離",
+              "body": "GPT-5.6 在 7 月 9 日全面開放，Codex 也能從 ChatGPT 手機 App 啟動。能用手機排一個真的會跑的程式任務，代理能力加 0.1，總分來到 9.1。"
+            },
+            {
+              "title": "SpaceX 收購 Cursor",
+              "body": "這個市場史上最大的整併案。我先把 Cursor 維持在 9.0 跟 9.5 的 IDE 整合，等收購後一季的出貨紀錄再說。今天的編輯器體驗沒變，依然是這裡最好的 IDE 內建選擇。"
+            },
+            {
+              "title": "記得先知會資安同事",
+              "body": "Sophos 發現三家龍頭的代理都會觸發專門抓人類攻擊者的端點偵測規則。大量讀檔跟快速開行程的行為特徵跟入侵幾乎一樣，先談好白名單，省得工作做到一半被打斷。"
+            },
+            {
+              "title": "Claude Code 續抱人氣王",
+              "body": "在有十三個像樣選手的類別裡拿到 46% 的最愛佔比，差距很大。加上硬派評測的成績最強，程式品質維持 9.8，第一名再守一週。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

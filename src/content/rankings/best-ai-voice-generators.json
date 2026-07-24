@@ -10940,6 +10940,224 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-24",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.4,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 4,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "fish-audio-openaudio-s1",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.1,
+            "emotionalRange": 8.8,
+            "languageSupport": 8.0,
+            "latency": 8.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 9.8,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 8,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 8.3,
+            "emotionalRange": 7.7,
+            "languageSupport": 8.6,
+            "latency": 7.8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Voice Models 2026: TTS & Realtime APIs",
+          "url": "https://www.teamday.ai/blog/best-ai-voice-models-2026",
+          "source": "Teamday"
+        },
+        {
+          "title": "Voice Generation Models Compared (2026): ElevenLabs, OpenAI TTS, Hume, Cartesia, PlayHT",
+          "url": "https://sureprompts.com/blog/voice-generation-models-compared-2026",
+          "source": "SurePrompts"
+        },
+        {
+          "title": "21 Best AI Voice Generators in July 2026 (Tested & Compared)",
+          "url": "https://notevibes.com/best-ai-voice-generator",
+          "source": "Notevibes"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The headline number this month is from the Artificial Analysis Speech Arena: in blind tests, over 58% of listeners failed to correctly pick out the synthetic speaker when using current top models. Realism has arrived. The buying decision has moved to latency, emotional control and how many languages you actually need.\n\nElevenLabs stays first. Eleven v3 has been generally available since February with 70+ languages and audio tag controls, and the tag system is the reason I keep paying: writing a bracketed instruction for a whisper or a laugh is faster than re-recording a take. The company added a $990/month Business tier and is reportedly in talks at around a $22B valuation, which tells me the enterprise side is funding the research.\n\nI moved Cartesia up to third this week. The latest Sonic release posts a time to first audio around 40ms, a new benchmark for real-time dialogue, and if you are building a phone agent or a live translator, that number is the entire product. Nothing else here answers that fast, so its perfect 10 on latency now carries a rank with it.\n\nHume sits fourth at 8.9. Octave 2 still holds the highest emotional range score in this ranking at 9.7, and steering delivery with plain English instructions instead of SSML parameters is a genuinely nicer way to work. Worth knowing that founder Alan Cowen and core researchers moved to Google DeepMind in January to work on Gemini voice, so I am watching the shipping pace here.\n\nInworld holds second on the strength of near-Cartesia latency with much richer expression. For a game NPC or an interactive character, that balance is the one I would build on.",
+          "highlights": [
+            {
+              "title": "58% of listeners cannot spot the synthetic voice",
+              "body": "Blind tests from the Artificial Analysis Speech Arena put current top models past the point where realism is the differentiator. What you are buying now is response speed, emotional control and language coverage."
+            },
+            {
+              "title": "Cartesia moves to third on latency",
+              "body": "Time to first audio around 40ms is a new benchmark for real-time dialogue. For a phone agent or live translation that single number is the product, so its perfect 10 on latency now comes with a rank to match."
+            },
+            {
+              "title": "ElevenLabs audio tags stay the best workflow",
+              "body": "70+ languages with bracketed inline instructions for whispers, laughs and pacing. Typing a tag is faster than re-recording, and that saved time is why it holds first at 9.4 with a 9.8 on language support."
+            },
+            {
+              "title": "Hume keeps the emotional range crown",
+              "body": "A 9.7 on emotional range is the top score here, and steering with plain English beats tuning SSML parameters. With the founding research team now at Google DeepMind, the next few releases will tell us how the roadmap holds."
+            },
+            {
+              "title": "Inworld is the pick for interactive characters",
+              "body": "Latency at 9.8 with emotional range at 9.4 is the best balance in this ranking for game NPCs and live characters, where a voice has to answer instantly and still sound like it means something."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這個月最值得看的數字來自 Artificial Analysis 的語音競技場，盲測裡有超過 58% 的聽眾，在面對現在的頂規模型時認不出哪個是合成聲音。擬真這關已經過了，採購決策整個往延遲、情緒控制跟你真正需要幾種語言那邊移動。\n\nElevenLabs 續坐第一。Eleven v3 從二月起全面開放，支援 70 種以上語言跟音訊標籤控制，我持續付錢的理由就是那套標籤，想要一句氣音或一聲笑，打一組中括號指令比重錄一次快太多。公司加開了每月 990 美元的商用方案，也傳出正在洽談約 220 億美元估值的股權交易，代表企業端的收入正在養研發。\n\nCartesia 這週我把它拉到第三。最新的 Sonic 版本首音延遲落在 40 毫秒左右，是即時對話的新標竿。你如果在做電話客服代理或即時口譯，這個數字就是產品本身。這裡沒有別家回得這麼快，所以它那個滿分 10 的延遲現在配得上一個名次。\n\nHume 排第四，8.9 分。Octave 2 的情緒幅度 9.7 還是全榜最高，用白話英文下指令來調整語氣，比起寫 SSML 參數確實舒服很多。要注意的是創辦人 Alan Cowen 跟核心研究團隊一月轉去 Google DeepMind 做 Gemini 語音，後續出貨節奏我會盯著看。\n\nInworld 守第二，靠的是逼近 Cartesia 的延遲配上豐富太多的表現力。要做遊戲 NPC 或互動角色，這個平衡點就是我會拿來開發的那個。",
+          "highlights": [
+            {
+              "title": "58% 的聽眾聽不出合成聲音",
+              "body": "Artificial Analysis 語音競技場的盲測顯示，現在的頂規模型已經越過擬真這條線。你現在花錢買的是回應速度、情緒控制跟語言覆蓋。"
+            },
+            {
+              "title": "Cartesia 靠延遲升到第三",
+              "body": "首音延遲約 40 毫秒，是即時對話的新標竿。做電話代理或即時口譯，這一個數字就是產品，所以滿分的延遲這次真的換到了名次。"
+            },
+            {
+              "title": "ElevenLabs 的音訊標籤還是最順的工作流",
+              "body": "70 種以上語言，加上可以在句中用中括號指定氣音、笑聲跟節奏。打一組標籤比重錄一次快，省下的時間就是它以 9.4 守住第一、語言支援 9.8 的理由。"
+            },
+            {
+              "title": "Hume 續抱情緒表現王座",
+              "body": "情緒幅度 9.7 是這裡最高分，用白話下指令也比調 SSML 參數好用。創始研究團隊已經去了 Google DeepMind，接下來幾次改版就能看出藍圖撐不撐得住。"
+            },
+            {
+              "title": "互動角色首選 Inworld",
+              "body": "延遲 9.8 配情緒幅度 9.4，是榜上最適合遊戲 NPC 跟即時角色的平衡點，聲音要秒回，還要聽起來真的有那個意思。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

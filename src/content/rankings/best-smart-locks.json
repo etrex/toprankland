@@ -2810,6 +2810,200 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-24",
+      "rankings": [
+        {
+          "id": "aqara-u400",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "security": 9.3,
+            "access": 9.7,
+            "smartHome": 9.7,
+            "value": 8.6,
+            "install": 8.8
+          }
+        },
+        {
+          "id": "schlage-encode-plus",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "security": 9.6,
+            "access": 8.6,
+            "smartHome": 9.0,
+            "value": 8.4,
+            "install": 9.0
+          }
+        },
+        {
+          "id": "yale-assure-lock-2-plus",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "security": 8.8,
+            "access": 8.8,
+            "smartHome": 9.1,
+            "value": 8.5,
+            "install": 8.9
+          }
+        },
+        {
+          "id": "ultraloq-u-bolt-pro-wifi",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "security": 8.6,
+            "access": 9.2,
+            "smartHome": 8.2,
+            "value": 8.8,
+            "install": 8.6
+          }
+        },
+        {
+          "id": "switchbot-lock-ultra",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "security": 8.0,
+            "access": 9.0,
+            "smartHome": 8.4,
+            "value": 9.2,
+            "install": 9.4
+          }
+        },
+        {
+          "id": "eufy-smart-lock-e130",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "security": 8.4,
+            "access": 8.6,
+            "smartHome": 8.2,
+            "value": 9.0,
+            "install": 8.4
+          }
+        },
+        {
+          "id": "level-lock-plus",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "security": 8.2,
+            "access": 7.6,
+            "smartHome": 8.8,
+            "value": 7.6,
+            "install": 8.6
+          }
+        },
+        {
+          "id": "august-wifi-smart-lock-4th-gen",
+          "rank": 8,
+          "score": 8.1,
+          "scores": {
+            "security": 7.8,
+            "access": 7.8,
+            "smartHome": 8.6,
+            "value": 8.4,
+            "install": 9.2
+          }
+        },
+        {
+          "id": "wyze-lock-bolt",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "security": 7.6,
+            "access": 8.4,
+            "smartHome": 7.2,
+            "value": 9.6,
+            "install": 8.4
+          }
+        },
+        {
+          "id": "lockly-vision-elite",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "security": 8.6,
+            "access": 8.8,
+            "smartHome": 7.4,
+            "value": 6.8,
+            "install": 7.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best Matter over Thread Door Lock 2026",
+          "url": "https://eu.aqara.com/en-eu/blogs/news/best-matter-over-thread-door-lock",
+          "source": "Aqara"
+        },
+        {
+          "title": "The Best Matter-Compatible Smart Locks of 2026",
+          "url": "https://smarthomeguide24.com/best-smart-locks-matter-2026/",
+          "source": "Smart Home Guide"
+        },
+        {
+          "title": "Google has stopped selling the Nest x Yale Lock as it goes all-in on its replacement",
+          "url": "https://9to5google.com/2026/07/02/google-stops-selling-nest-x-yale-lock/",
+          "source": "9to5Google"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Matter over Thread has quietly become the price of admission at the top of this category, and that settles a question I used to get every week. In 2026 every lock I would recommend to a friend runs local control with no cloud round trip, which means the deadbolt turns the instant you tap, even when your internet is down. The Aqara U400 keeps first place because it pairs that with ultra wideband, so the door recognizes you approaching rather than waiting for you to reach for a phone. Coverage this month also confirmed something I weight heavily: Aqara runs its face and biometric matching locally on a dedicated chip rather than shipping it to a server. Your face stays in your hallway. That earns a security bump. Schlage holds second on pure physical toughness, and I want to be honest that this still matters more than the spec sheets suggest. An ANSI/BHMA Grade 1 body resists the kick and pry attacks that account for most real forced entries, and no amount of encryption helps a lock that comes out of the frame. Yale gets my other adjustment. The Assure platform's swappable wireless modules mean a lock bought today survives a move from Zigbee to a Matter over Thread setup, and Yale has been shipping variants built specifically around the Google Home app. That is genuine longevity, and I raised its integration score for it. Down the list, SwitchBot remains the answer for renters who cannot touch the existing hardware, and Wyze is still the best lock you can buy for the money if you only need a keypad and an app.",
+          "highlights": [
+            {
+              "title": "Aqara U400 security rises to 9.3",
+              "body": "Face and biometric matching runs locally on a dedicated chip inside the lock, so your biometric data never leaves the house. Combined with UWB proximity unlock, this is the most complete package on the board."
+            },
+            {
+              "title": "Matter over Thread is now the baseline",
+              "body": "Every top-tier lock in 2026 supports local control without a cloud round trip. The practical result is a deadbolt that turns instantly and keeps working when your broadband does not."
+            },
+            {
+              "title": "Yale integration score up to 9.1",
+              "body": "Swappable wireless modules let an Assure lock follow you from Zigbee to Matter over Thread, and Yale now ships variants designed around the Google Home app. That is real hardware longevity."
+            },
+            {
+              "title": "Grade 1 hardware still decides break-ins",
+              "body": "Schlage's ANSI/BHMA Grade 1 body handles kick and pry attempts, which is how most forced entries actually happen. That is why it holds second on a list full of clever software."
+            },
+            {
+              "title": "Renters and budgets are well served",
+              "body": "SwitchBot Lock Ultra mounts over your existing deadbolt with no drilling, and the Wyze Lock Bolt delivers keypad plus app access for the price of a nice dinner."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Matter over Thread 現在已經是這個品類頂端的入場券，這件事也順便回答了我每週都會被問到的問題。2026 年我敢推薦給朋友的鎖，全部都跑本地控制，指令不用繞去雲端再回來，所以你手一碰鎖舌就轉，家裡網路掛掉照樣開得了門。\n\nAqara U400 守住第一，因為它在這個基礎上再加了 UWB 超寬頻，你人走近門就認得出來，不用掏手機。這個月的報導還確認了一件我很看重的事，Aqara 的人臉跟生物辨識是在鎖裡面的專用晶片上算完的，不會傳到別人的伺服器。你的臉就留在你家玄關。這值得加分。\n\nSchlage 靠純粹的硬體強度守住第二，我必須老實說，這件事的重要性比規格表上看起來高很多。ANSI/BHMA Grade 1 的鎖體擋得住踹門跟撬門，而現實中大部分的強行侵入就是這兩招。鎖整個被拆下來的話，加密做得再漂亮也沒用。\n\n另一個調整給 Yale。Assure 平台的無線模組可以抽換，今天買的鎖，之後你從 Zigbee 換到 Matter over Thread 也還能用，而且 Yale 現在有專門為 Google Home App 設計的版本。這種耐用度是真的，所以我把它的整合分數往上加。\n\n名單往下看，SwitchBot 依然是租屋族的解答，原本的鎖完全不用動。Wyze 則是預算有限時最划算的選擇，你要的如果只是密碼鎖加 App，它就夠了。",
+          "highlights": [
+            {
+              "title": "Aqara U400 安全性升到 9.3",
+              "body": "人臉跟生物辨識都在鎖裡的專用晶片上跑完，資料不會離開你家。再加上 UWB 靠近自動解鎖，整體完成度是榜上最高的。"
+            },
+            {
+              "title": "Matter over Thread 已經是基本盤",
+              "body": "2026 年的一線智慧鎖全部支援本地控制，不用繞雲端。實際的感受就是按下去鎖舌馬上轉，家裡斷網也照常開。"
+            },
+            {
+              "title": "Yale 整合分數上調到 9.1",
+              "body": "無線模組可抽換，Assure 系列的鎖可以陪你從 Zigbee 一路換到 Matter over Thread，而且現在有專為 Google Home App 設計的版本。這才叫硬體壽命長。"
+            },
+            {
+              "title": "Grade 1 鎖體才是防闖空門的關鍵",
+              "body": "Schlage 的 ANSI/BHMA Grade 1 鎖體撐得住踹跟撬，而現實中的闖空門大多就是這兩種。一份滿是聰明軟體的榜單上，它靠這點守住第二。"
+            },
+            {
+              "title": "租屋跟小預算都有好選擇",
+              "body": "SwitchBot Lock Ultra 直接套在原本的鎖上，不用鑽孔。Wyze Lock Bolt 密碼加 App 全都有，價錢大概就一頓好一點的晚餐。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

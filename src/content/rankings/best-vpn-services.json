@@ -12856,6 +12856,176 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-24",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best No-Logs VPNs in 2026 (Only 7 Proven & Verified)",
+          "url": "https://cyberinsider.com/vpn/best/no-logs-vpn/",
+          "source": "CyberInsider"
+        },
+        {
+          "title": "A List Of VPN Providers With Public Audits In 2026",
+          "url": "https://greycoder.com/a-list-of-vpn-providers-with-public-audits/",
+          "source": "GreyCoder"
+        },
+        {
+          "title": "ProtonVPN No-Logs Audit 2026: What 4 Securitum Reports Found",
+          "url": "https://criticnest.com/protonvpn-keep-logs-browsing/",
+          "source": "CriticNest"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "2026 has turned into the year of the repeat audit, and that is exactly the standard I want this category held to. A single audit is a snapshot. A provider that submits to the same examination every year is making a durable commitment, and that repetition is what I now weight most heavily in the privacy score.\n\nMullvad keeps first place. Annual independent audits, anonymous numbered accounts with no email required, and a flat 5 euros a month with no tiers and no discount theatre. I can open an account, pay in cash if I want, and the company genuinely does not know who I am. When your threat model involves the provider itself, that architecture is the answer, and 9.8 on privacy reflects it.\n\nProton VPN moves to 9.8 on privacy this week, matching Mullvad. It has now completed its fifth consecutive Securitum no-logs audit, holds a SOC 2 Type II for operational security, and carries a clean incident record. Five years of the same auditor returning and finding the same thing is the strongest evidence available in this market. Combined with a 9.9 server network, Proton is the one I recommend to people who want maximum privacy with maximum coverage.\n\nNordVPN gets a tenth to 8.5. Deloitte has now run bare-metal audits in 2022, 2023, 2024 and again in February 2026, with a sixth no-logs audit passed in December 2025. Bare metal matters because the auditor inspects the actual hardware rather than a description of it.\n\nSurfshark and Windscribe both get a tenth on privacy for publishing third-party reviews or attestations this year. IVPN and Obscura hold their positions as small, technically serious operations for people who read the specifications.",
+          "highlights": [
+            {
+              "title": "Repeat audits are the standard now",
+              "body": "Proton, NordVPN, ExpressVPN, Surfshark, Mullvad, PIA, Windscribe and IVPN all published third-party reviews or attestations in 2026. A yearly examination is far stronger evidence than one snapshot, and it now drives the privacy scores here."
+            },
+            {
+              "title": "Proton matches Mullvad on privacy at 9.8",
+              "body": "Five consecutive Securitum no-logs audits, a SOC 2 Type II for operational security and a clean incident record. Paired with the 9.9 server network, this is my pick for maximum privacy without giving up global coverage."
+            },
+            {
+              "title": "Mullvad's anonymity is architectural",
+              "body": "Numbered accounts with no email, a flat 5 euros a month, and the option to pay in cash. The company cannot identify you because it never collects the information, which is a stronger guarantee than any promise not to log."
+            },
+            {
+              "title": "NordVPN's bare-metal audits keep stacking",
+              "body": "Deloitte inspected the actual servers in 2022, 2023, 2024 and again in February 2026, plus a sixth no-logs audit passed in December 2025. Inspecting hardware rather than documentation is why privacy moves to 8.5."
+            },
+            {
+              "title": "Small providers still hold real ground",
+              "body": "IVPN at 9.5 privacy and Obscura at 9.5 run compact networks with serious technical commitments. If you read specifications before you buy and value coverage less than architecture, these two deserve a look."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "2026 變成了「年年重審」的一年，這正是我希望這個類別被要求的標準。單次稽核只是一張快照，願意每年接受同一套檢驗的業者，做的是可持續的承諾，而這份重複性就是我現在在隱私分數上給最多權重的地方。\n\nMullvad 續坐第一。每年獨立稽核，帳號只有編號、不用 email，月費固定 5 歐元，沒有分級也沒有那些折扣把戲。我可以開一個帳號，想的話用現金付款，這家公司是真的不知道我是誰。當你的威脅模型連業者本身都要算進去，這種架構就是答案，隱私 9.8 就是這個意思。\n\nProton VPN 這週隱私上調到 9.8，跟 Mullvad 齊平。它已經完成第五次連續的 Securitum 無日誌稽核，另外持有營運安全的 SOC 2 Type II，事故紀錄乾淨。同一家稽核單位連續五年回來查、每次都查到同樣結果，是這個市場能拿得出來最強的證據。再配上 9.9 的伺服器網路，想要隱私拉滿又要涵蓋範圍夠廣的人，我就推 Proton。\n\nNordVPN 加 0.1 到 8.5。Deloitte 已經在 2022、2023、2024 年做過裸機稽核，2026 年 2 月又做了一次，2025 年 12 月也通過第六次無日誌稽核。裸機的意義在於稽核人員檢查的是真的那台硬體，而不是一份描述硬體的文件。\n\nSurfshark 跟 Windscribe 因為今年都發布了第三方檢視或聲明，隱私各加 0.1。IVPN 跟 Obscura 位置不動，這兩家是給會看規格書的人選的小而硬的團隊。",
+          "highlights": [
+            {
+              "title": "年年重審已經是標準",
+              "body": "Proton、NordVPN、ExpressVPN、Surfshark、Mullvad、PIA、Windscribe 跟 IVPN 今年都發布了第三方檢視或聲明。每年一次的檢驗比單張快照有力太多，這也是現在隱私分數的主要依據。"
+            },
+            {
+              "title": "Proton 隱私 9.8 追平 Mullvad",
+              "body": "連續五次 Securitum 無日誌稽核，加上營運安全的 SOC 2 Type II，事故紀錄乾淨。搭配 9.9 的伺服器網路，想要隱私拉滿又不想犧牲全球覆蓋，我就推它。"
+            },
+            {
+              "title": "Mullvad 的匿名是架構層級的",
+              "body": "帳號只有編號、不用 email，月費固定 5 歐元，還能用現金付。它認不出你是因為它從頭到尾沒有收集那些資料，這比任何「我們不記錄」的承諾都硬。"
+            },
+            {
+              "title": "NordVPN 的裸機稽核一次次疊上去",
+              "body": "Deloitte 在 2022、2023、2024 年檢查了實體伺服器，2026 年 2 月再來一次，2025 年 12 月也通過第六次無日誌稽核。查硬體而不是查文件，隱私因此調到 8.5。"
+            },
+            {
+              "title": "小業者仍站得住腳",
+              "body": "IVPN 跟 Obscura 的隱私都是 9.5，跑的是規模精簡但技術要求認真的網路。買之前會先看規格、覺得架構比覆蓋率重要的人，這兩家值得看一眼。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
