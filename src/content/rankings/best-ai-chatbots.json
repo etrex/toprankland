@@ -10322,6 +10322,194 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-25",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.0,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.9,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.1,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.9,
+            "realtime": 9.4,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "reasoning": 8.9,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.4,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "LLM News Today (July 2026) - AI Model Releases",
+          "url": "https://llm-stats.com/ai-news",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "July 2026 Top Generative AI Chatbots & LLMs by Market Share",
+          "url": "https://momenticmarketing.com/blog/top-ai-chatbots",
+          "source": "Momentic"
+        },
+        {
+          "title": "Best AI Models in July 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ChatGPT keeps my top spot, and it is less about any single benchmark than about consistency across everything a normal person throws at it. Reasoning, writing, voice, image understanding, and a huge tool ecosystem all sit at a high level, so it is the one I recommend when someone wants a single assistant that will not let them down. Claude at number two is the one I personally reach for when the task is long-form writing or careful reasoning, because its output reads like a thoughtful colleague wrote it and it holds a long document together better than anything else. Gemini at third is closing fast, and for anyone living inside Google Workspace the integration advantage is real and worth weighting. Grok earns fourth on real-time information and its plugged-in access to the social firehose, which makes it genuinely useful for tracking breaking events. Perplexity stays my pick for research where citations matter, because it shows its sources by default and that builds trust. Honestly, the gap between the top three is now small enough that ecosystem lock-in, not raw capability, will decide which one you should live in.",
+          "highlights": [
+            {
+              "title": "ChatGPT wins on all-round consistency",
+              "body": "It scores high on reasoning, writing, voice, and tools all at once, so it stays my default answer for anyone who wants one assistant that handles everything competently."
+            },
+            {
+              "title": "Claude is the writer's and reasoner's pick",
+              "body": "Its output reads like a careful colleague and it holds long documents together better than the rest, which is exactly why I reach for it on serious drafting work."
+            },
+            {
+              "title": "Ecosystem now decides the top three",
+              "body": "Capability between ChatGPT, Claude, and Gemini is close enough that where you already work, Google, Microsoft, or elsewhere, should drive your choice more than any leaderboard."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ChatGPT 守住我的第一名，重點不在某個單一跑分，而在於它面對一般人丟過來的各種需求都很穩。推理、寫作、語音、看圖、還有龐大的工具生態系，全部都維持在高水準，所以有人想要一個不會讓他失望的單一助手，我就推它。排第二的 Claude 是我自己在長篇寫作或需要縝密推理時會拿來用的，它的產出讀起來就像一個會思考的同事寫的，長文件的前後連貫也顧得比誰都好。第三的 Gemini 追得很兇，對於整天泡在 Google Workspace 裡的人，那個整合優勢是真的，值得加分。Grok 靠即時資訊跟直接接社群即時流拿下第四，追突發事件真的好用。Perplexity 在重視引用來源的研究情境還是我的首選，它預設就把出處秀出來，這會建立信任感。老實說，前三名的差距現在小到，決定你該長住哪一家的，是生態系綁定，而不是純粹的能力高低。",
+          "highlights": [
+            {
+              "title": "ChatGPT 贏在全面又穩定",
+              "body": "推理、寫作、語音、工具同時都拿高分，所以想要一個什麼都能穩穩處理的助手，它一直是我的預設答案。"
+            },
+            {
+              "title": "Claude 是寫作跟推理派的首選",
+              "body": "它的產出讀起來像個細心的同事，長文件連貫度顧得比其他家好，這就是我做正經草稿時會拿它出來的原因。"
+            },
+            {
+              "title": "生態系決定前三名",
+              "body": "ChatGPT、Claude、Gemini 的能力已經接近到，你平常在 Google、微軟還是別的地方工作，會比任何排行榜更能決定你該用哪一家。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

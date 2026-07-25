@@ -16285,6 +16285,220 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-25",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Cursor, Claude Code, and Codex are merging into one AI coding stack nobody planned",
+          "url": "https://thenewstack.io/ai-coding-tool-stack/",
+          "source": "The New Stack"
+        },
+        {
+          "title": "The Best AI Coding Tools in July 2026 (and What Actually Changed This Month)",
+          "url": "https://marissaharcourt.substack.com/p/the-best-ai-coding-tools-in-july",
+          "source": "Marissa Harcourt"
+        },
+        {
+          "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
+          "url": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
+          "source": "The Hacker News"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code holds my number one because it is the assistant that most reliably finishes a real multi-file task without me babysitting every step. Its agentic loop plans, edits across a repo, runs commands, and course-corrects on failing tests in a way that feels like pairing with a competent engineer rather than autocompleting lines. That end-to-end reliability is what I weight most, because a coding tool that gets ninety percent of the way and stalls costs more time than it saves. OpenAI Codex at number two is genuinely strong and often writes the cleanest single function of the group, so for tightly scoped generation it is excellent. Cursor at third remains my pick for developers who want the assistant living inside a polished editor, because the inline experience and diff review are the smoothest here. Google Antigravity and Jules are climbing and clearly serious efforts, especially for teams already on Google Cloud, but they still trail on agentic follow-through. My practical take for 2026: if your work is whole-feature and repo-wide, Claude Code is the safe bet, and if it is snippet-by-snippet inside an IDE, Cursor is the joy to use.",
+          "highlights": [
+            {
+              "title": "Claude Code wins on agentic follow-through",
+              "body": "It plans, edits across files, runs commands, and fixes failing tests without hand-holding, and that end-to-end reliability is what earns it the top spot for real multi-file work."
+            },
+            {
+              "title": "Cursor is the best in-editor experience",
+              "body": "For developers who want the assistant inside a polished IDE with smooth inline edits and diff review, Cursor stays my recommendation and a genuine pleasure to use daily."
+            },
+            {
+              "title": "Match the tool to the job size",
+              "body": "Whole-feature, repo-wide work rewards Claude Code, while tight snippet generation suits Codex, so I pick based on task scope rather than chasing one universal winner."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 守住我的第一名，因為它是最能穩定把一個真正跨多檔案的任務做完、又不用我一步一步盯著的助手。它的 agentic 迴圈會規劃、在整個 repo 裡改動、執行指令、還會針對失敗的測試自己修正，那種感覺就像跟一個有實力的工程師結對，而不是在幫你補完幾行程式碼。這種從頭到尾的可靠度是我最看重的，因為一個做到九成就卡住的工具，浪費的時間比省下的還多。排第二的 OpenAI Codex 實力真的很強，單一函式常常寫得最乾淨，所以範圍界定清楚的生成任務它非常出色。第三的 Cursor 還是我推給喜歡助手住在精緻編輯器裡的開發者，行內體驗跟 diff 檢視是這裡最順的。Google Antigravity 跟 Jules 在往上爬，也明顯是認真的作品，尤其對已經在 Google Cloud 的團隊，只是 agentic 的收尾還差一截。2026 我的實用結論：整包功能、跨 repo 的活，Claude Code 是穩的，IDE 裡一段一段寫，Cursor 用起來最爽。",
+          "highlights": [
+            {
+              "title": "Claude Code 贏在 agentic 收尾",
+              "body": "它會規劃、跨檔案改動、執行指令、修好失敗測試，全程不用人盯著，這種從頭到尾的可靠度就是它拿下真實多檔案任務第一的原因。"
+            },
+            {
+              "title": "Cursor 是最好的編輯器內體驗",
+              "body": "喜歡助手住在精緻 IDE、要順暢行內編輯跟 diff 檢視的開發者，Cursor 一直是我的推薦，每天用都很享受。"
+            },
+            {
+              "title": "工具要對上任務規模",
+              "body": "整包功能跨 repo 的活適合 Claude Code，界定清楚的片段生成適合 Codex，所以我按任務範圍選，不去追一個萬用冠軍。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
