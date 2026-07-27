@@ -13180,6 +13180,168 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-27",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "The 3 Best VPNs of 2026",
+          "url": "https://www.rtings.com/vpn/reviews/best/vpn",
+          "source": "RTINGS"
+        },
+        {
+          "title": "Proton VPN vs Mullvad VPN comparison 2026",
+          "url": "https://vpnpro.com/vpn-comparison/mullvad-vs-proton-vpn/",
+          "source": "VPNpro"
+        },
+        {
+          "title": "NordVPN vs ProtonVPN vs Mullvad: Which Wins in 2026?",
+          "url": "https://www.thevpnmatrix.com/blog/privacy-trinity",
+          "source": "The VPN Matrix"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Mullvad stays my number one because it treats privacy as the whole product, not a marketing line. It assigns you a random account number, takes anonymous payment including cash, keeps no logs, and asks for nothing that ties the service to your identity. This month's reviews keep naming it the most privacy-preserving provider tested, and for anyone whose top priority is minimal metadata, it is the clear answer. Proton VPN holds a very close second, and this week it made a real case for itself: its network has crossed 20,000 servers across 148 countries, its speeds stay excellent, and at 2.99 dollars a month it now undercuts Mullvad on price while adding Secure Core and a genuine free tier. That combination of privacy plus performance plus reach is why it sits right on Mullvad's heels. NordVPN holds third as the best all-rounder, it passed its sixth independent no-logs audit, runs thousands of RAM-only servers, and lands near the top of every speed test, so if you want polish and speed over ideological purity, it is the pick. IVPN and ExpressVPN follow for privacy diehards and streaming-first users respectively. Surfshark remains the unlimited-devices value play, Windscribe the flexible tinkerer's choice, and Obscura the newer privacy-forward entrant. Nothing this week forces a reshuffle at the top, the Proton price and network news reinforces its number two rather than overtaking Mullvad's privacy crown, so I am holding all eight steady.",
+          "highlights": [
+            {
+              "title": "Mullvad treats privacy as the product",
+              "body": "Random account numbers, anonymous cash payment, and no logs keep it first, and this month's reviews again name it the most privacy-preserving provider tested."
+            },
+            {
+              "title": "Proton makes a strong number-two case",
+              "body": "Over 20,000 servers across 148 countries, excellent speeds, and a 2.99 dollar price that now undercuts Mullvad keep it right on the leader's heels."
+            },
+            {
+              "title": "NordVPN is the polished all-rounder",
+              "body": "A sixth independent no-logs audit, thousands of RAM-only servers, and top-tier speeds keep it third for people who want performance over purity."
+            },
+            {
+              "title": "The rest each own a niche",
+              "body": "Surfshark for unlimited devices, Windscribe for flexibility, ExpressVPN for streaming, so the mid-table holds on clear, distinct strengths."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Mullvad 守住第一,因為它把隱私當成整個產品本身,不是行銷話術。它給你一組隨機帳號、接受包含現金的匿名付款、完全不留紀錄,不會要任何把服務跟你身分綁在一起的東西。這個月的評測一直封它是測過最保護隱私的供應商,對任何把「最少中繼資料」放第一的人來說,它就是明確答案。Proton VPN 守住非常接近的第二,這週它替自己講了一個很有力的故事:伺服器數已經突破 20,000 台、橫跨 148 個國家,速度依舊優秀,一個月 2.99 美元的價格現在還壓過 Mullvad,又多了 Secure Core 跟一個真的能用的免費方案。隱私加效能加涵蓋範圍這個組合,就是它緊咬 Mullvad 的原因。NordVPN 守第三當最全能的一台,它通過了第六次獨立的無紀錄稽核、跑數千台純記憶體伺服器、每次速度測試都名列前茅,所以你要的是精緻跟速度而不是意識形態純度的話,選它。IVPN 跟 ExpressVPN 排後面,分別給隱私死忠派跟串流優先的人。Surfshark 依舊是無限裝置的划算牌,Windscribe 是愛折騰的人的彈性選擇,Obscura 是較新的隱私新秀。這週沒有任何事需要動頂端,Proton 的價格跟伺服器消息是在強化它的第二名,而不是超越 Mullvad 的隱私王座,所以八名維持不動。",
+          "highlights": [
+            {
+              "title": "Mullvad 把隱私當成產品本身",
+              "body": "隨機帳號、匿名現金付款、完全不留紀錄讓它守第一,這個月的評測又封它是測過最保護隱私的供應商。"
+            },
+            {
+              "title": "Proton 講了很有力的第二名故事",
+              "body": "超過 20,000 台伺服器橫跨 148 國、速度優秀、2.99 美元價格還壓過 Mullvad,緊咬領先者。"
+            },
+            {
+              "title": "NordVPN 是精緻的全能王",
+              "body": "第六次通過獨立無紀錄稽核、數千台純記憶體伺服器、速度名列前茅,守第三,給要效能勝過純度的人。"
+            },
+            {
+              "title": "其餘各有各的定位",
+              "body": "Surfshark 主打無限裝置、Windscribe 主打彈性、ExpressVPN 主打串流,中段靠明確又不同的強項守住。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
