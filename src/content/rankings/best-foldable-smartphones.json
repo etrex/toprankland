@@ -194,6 +194,54 @@
           "priceRange": "NT$49,988"
         }
       }
+    },
+    {
+      "id": "galaxy-z-fold8-ultra",
+      "name": "Samsung Galaxy Z Fold8 Ultra",
+      "brand": "Samsung",
+      "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/",
+      "i18n": {
+        "en": {
+          "description": "Samsung's first Ultra foldable runs the Snapdragon 8 Elite Gen 5 with a 5,000mAh battery and an 8-inch main display at 4.1mm unfolded thickness.",
+          "priceRange": "$2,099"
+        },
+        "zh-tw": {
+          "description": "三星第一款 Ultra 摺疊機，搭 Snapdragon 8 Elite Gen 5 加上 5,000mAh 電池，展開厚度只有 4.1mm，8 吋主螢幕看影片超爽。",
+          "priceRange": "約 NT$67,000"
+        }
+      }
+    },
+    {
+      "id": "galaxy-z-trifold",
+      "name": "Samsung Galaxy Z TriFold",
+      "brand": "Samsung",
+      "url": "https://www.samsung.com/us/smartphones/galaxy-z-trifold/",
+      "i18n": {
+        "en": {
+          "description": "Samsung's tri-fold opens from a 6.5-inch phone into a 10-inch tablet with a 200MP camera and 5,600mAh battery, the priciest foldable in the lineup.",
+          "priceRange": "$2,899"
+        },
+        "zh-tw": {
+          "description": "三星的三摺機，從 6.5 吋手機展開成 10 吋平板，配 200MP 主鏡頭跟 5,600mAh 電池，是整個產品線最貴的一台。",
+          "priceRange": "約 NT$92,000"
+        }
+      }
+    },
+    {
+      "id": "galaxy-z-flip8",
+      "name": "Samsung Galaxy Z Flip8",
+      "brand": "Samsung",
+      "url": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/",
+      "i18n": {
+        "en": {
+          "description": "The 2026 Flip refresh adds a larger cover display and a bigger battery while keeping the compact clamshell that slips into any pocket.",
+          "priceRange": "$1,199"
+        },
+        "zh-tw": {
+          "description": "2026 年改款的 Flip，外螢幕更大、電池加大，維持一放口袋就不見的小巧翻蓋設計。",
+          "priceRange": "約 NT$38,000"
+        }
+      }
     }
   ],
   "history": [
@@ -11722,15 +11770,15 @@
       "date": "2026-07-27",
       "rankings": [
         {
-          "id": "galaxy-z-fold-7",
+          "id": "galaxy-z-fold8-ultra",
           "rank": 1,
-          "score": 9.4,
+          "score": 9.5,
           "scores": {
-            "display": 9.5,
+            "display": 9.6,
             "camera": 9.6,
-            "battery": 8.8,
-            "durability": 9.4,
-            "value": 8.8
+            "battery": 9.2,
+            "durability": 9.5,
+            "value": 8.7
           }
         },
         {
@@ -11746,9 +11794,33 @@
           }
         },
         {
-          "id": "motorola-razr-fold",
+          "id": "galaxy-z-fold-7",
           "rank": 3,
           "score": 9.2,
+          "scores": {
+            "display": 9.5,
+            "camera": 9.6,
+            "battery": 8.8,
+            "durability": 9.4,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "galaxy-z-trifold",
+          "rank": 4,
+          "score": 9.1,
+          "scores": {
+            "display": 9.9,
+            "camera": 9.5,
+            "battery": 8.9,
+            "durability": 8.5,
+            "value": 7.0
+          }
+        },
+        {
+          "id": "motorola-razr-fold",
+          "rank": 5,
+          "score": 9.0,
           "scores": {
             "display": 9.1,
             "camera": 9.5,
@@ -11759,8 +11831,8 @@
         },
         {
           "id": "oppo-find-n5",
-          "rank": 4,
-          "score": 9.0,
+          "rank": 6,
+          "score": 8.9,
           "scores": {
             "display": 9.4,
             "camera": 9.0,
@@ -11771,7 +11843,7 @@
         },
         {
           "id": "honor-magic-v3",
-          "rank": 5,
+          "rank": 7,
           "score": 8.8,
           "scores": {
             "display": 9.0,
@@ -11782,9 +11854,21 @@
           }
         },
         {
-          "id": "vivo-x-fold-5",
-          "rank": 6,
+          "id": "galaxy-z-flip8",
+          "rank": 8,
           "score": 8.7,
+          "scores": {
+            "display": 8.9,
+            "camera": 8.3,
+            "battery": 8.2,
+            "durability": 8.6,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "vivo-x-fold-5",
+          "rank": 9,
+          "score": 8.6,
           "scores": {
             "display": 9.1,
             "camera": 9.0,
@@ -11795,8 +11879,8 @@
         },
         {
           "id": "galaxy-z-flip-7",
-          "rank": 7,
-          "score": 8.6,
+          "rank": 10,
+          "score": 8.5,
           "scores": {
             "display": 8.7,
             "camera": 8.0,
@@ -11807,7 +11891,7 @@
         },
         {
           "id": "motorola-razr-ultra-2026",
-          "rank": 8,
+          "rank": 11,
           "score": 8.4,
           "scores": {
             "display": 8.8,
@@ -11819,7 +11903,7 @@
         },
         {
           "id": "galaxy-z-flip-7-fe",
-          "rank": 9,
+          "rank": 12,
           "score": 7.9,
           "scores": {
             "display": 8.0,
@@ -11831,7 +11915,7 @@
         },
         {
           "id": "motorola-razr-plus-2026",
-          "rank": 10,
+          "rank": 13,
           "score": 7.7,
           "scores": {
             "display": 8.2,
@@ -11843,7 +11927,7 @@
         },
         {
           "id": "huawei-mate-xt-ultimate",
-          "rank": 11,
+          "rank": 14,
           "score": 7.5,
           "scores": {
             "display": 9.6,
