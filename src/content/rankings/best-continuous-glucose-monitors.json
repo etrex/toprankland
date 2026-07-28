@@ -1,0 +1,376 @@
+{
+  "slug": "best-continuous-glucose-monitors",
+  "category": "Health",
+  "scoreFactors": {
+    "accuracy": "Sensor Accuracy (MARD)",
+    "wearTime": "Wear Time",
+    "dailyCost": "Daily Cost & Value",
+    "app": "App & Insights",
+    "coaching": "Coaching & Support"
+  },
+  "i18n": {
+    "en": {
+      "title": "Best Continuous Glucose Monitors 2026",
+      "description": "Over-the-counter and prescription CGMs ranked by sensor accuracy, wear time, daily cost, app insights and coaching."
+    },
+    "zh-tw": {
+      "title": "2026 最佳連續血糖監測（CGM）排行榜",
+      "description": "免處方與處方 CGM 全評比，用感測器精準度、佩戴天數、每日成本、App 洞察與教練服務排出勝負。"
+    }
+  },
+  "competitors": [
+    {
+      "id": "dexcom-stelo",
+      "name": "Stelo",
+      "brand": "Dexcom",
+      "url": "https://www.stelo.com/",
+      "i18n": {
+        "en": {
+          "description": "The most accurate no-prescription glucose biosensor in 2026, running Dexcom's G7-grade sensor for 15 days at the lowest daily cost of any OTC option.",
+          "priceRange": "$49.50 / 15-day sensor"
+        },
+        "zh-tw": {
+          "description": "免處方裡精準度最高的一款，用的是跟 G7 同款感測器，貼 15 天算下來每天成本是免處方選項裡最低的，想入門血糖監測我第一個推它。",
+          "priceRange": "約 NT$1,600 / 15天感測器"
+        }
+      }
+    },
+    {
+      "id": "abbott-lingo",
+      "name": "Lingo",
+      "brand": "Abbott",
+      "url": "https://www.hellolingo.com/",
+      "i18n": {
+        "en": {
+          "description": "Abbott's OTC biosensor built around a metabolic-coaching app that scores your glucose response to food, sleep and exercise with minute-by-minute data.",
+          "priceRange": "$49 / 14-day sensor"
+        },
+        "zh-tw": {
+          "description": "雅培的免處方感測器，主打那個代謝教練 App，會把你吃東西、睡覺、運動後的血糖反應打分數，想靠 App 養成健康習慣的人很適合。",
+          "priceRange": "約 NT$1,590 / 14天感測器"
+        }
+      }
+    },
+    {
+      "id": "dexcom-g7",
+      "name": "G7",
+      "brand": "Dexcom",
+      "url": "https://www.dexcom.com/en-us/g7-cgm-system",
+      "i18n": {
+        "en": {
+          "description": "The accuracy benchmark with an 8% MARD, a 30-minute warmup and insulin-pump integration, the CGM I trust most for medical-grade glucose management.",
+          "priceRange": "$89+ / sensor"
+        },
+        "zh-tw": {
+          "description": "精準度標竿，MARD 只有 8%，暖機 30 分鐘就能用，還能跟胰島素幫浦連動，要醫療級血糖管理我最信任這台。",
+          "priceRange": "約 NT$2,800 / 感測器"
+        }
+      }
+    },
+    {
+      "id": "freestyle-libre-3-plus",
+      "name": "FreeStyle Libre 3 Plus",
+      "brand": "Abbott",
+      "url": "https://www.freestylelibre.us/",
+      "i18n": {
+        "en": {
+          "description": "A 15-day sensor with an 8.2% MARD and the smallest form factor on the market, delivering hospital-grade accuracy at a low daily cost.",
+          "priceRange": "~$70/mo"
+        },
+        "zh-tw": {
+          "description": "貼 15 天的感測器，MARD 8.2%，體積是市面上最小的，用醫院等級的精準度換來很低的每日成本，每天要管血糖的糖友很划算。",
+          "priceRange": "約 NT$2,200 / 月"
+        }
+      }
+    },
+    {
+      "id": "levels",
+      "name": "Levels",
+      "brand": "Levels Health",
+      "url": "https://www.levelshealth.com/",
+      "i18n": {
+        "en": {
+          "description": "The most polished metabolic-health software, layering food scoring, AI coaching and trend analysis on top of an Abbott or Dexcom sensor.",
+          "priceRange": "$199/yr + sensors"
+        },
+        "zh-tw": {
+          "description": "代謝健康軟體裡體驗最完整的一套，把食物評分、AI 教練、趨勢分析疊在雅培或 Dexcom 感測器上面，重視數據解讀的人會愛。",
+          "priceRange": "約 NT$6,400 / 年（另購感測器）"
+        }
+      }
+    },
+    {
+      "id": "nutrisense",
+      "name": "Nutrisense",
+      "brand": "Nutrisense",
+      "url": "https://www.nutrisense.io/",
+      "i18n": {
+        "en": {
+          "description": "The strongest human-in-the-loop program, bundling a registered dietitian with every plan for people who want real behavior change with expert guidance.",
+          "priceRange": "$179/mo"
+        },
+        "zh-tw": {
+          "description": "有真人營養師介入最強的一套，每個方案都配一位註冊營養師，想要真的改變飲食習慣、需要專家帶著調的人選這個。",
+          "priceRange": "約 NT$5,700 / 月"
+        }
+      }
+    },
+    {
+      "id": "signos",
+      "name": "Signos",
+      "brand": "Signos",
+      "url": "https://www.signos.com/",
+      "i18n": {
+        "en": {
+          "description": "The weight-loss specialist with FDA-cleared weight-management claims, using AI to time meals and workouts around your real glucose curve, with GLP-1 support.",
+          "priceRange": "$199-$399/mo"
+        },
+        "zh-tw": {
+          "description": "主攻減重的一套，拿到 FDA 體重管理認證，用 AI 幫你抓吃飯跟運動的時機來壓血糖曲線，搭 GLP-1 一起用也支援。",
+          "priceRange": "約 NT$6,300 / 月起"
+        }
+      }
+    },
+    {
+      "id": "ultrahuman-m1",
+      "name": "M1",
+      "brand": "Ultrahuman",
+      "url": "https://www.ultrahuman.com/m1/",
+      "i18n": {
+        "en": {
+          "description": "The athlete and biohacker platform, pairing real-time glucose with a metabolic-scoring app that ties into sleep, workouts and its Ring Air ecosystem.",
+          "priceRange": "$299/mo (2 sensors)"
+        },
+        "zh-tw": {
+          "description": "給運動族跟生物駭客玩的平台，即時血糖搭一個代謝評分 App，還能跟它家的 Ring Air 智慧戒指生態系串起來。",
+          "priceRange": "約 NT$2,900 / 月（含2片感測器）"
+        }
+      }
+    },
+    {
+      "id": "sibionics-gs3",
+      "name": "GS3",
+      "brand": "SIBIONICS",
+      "url": "https://www.sibionicscgm.com/products/sibionics-gs3-cgm-continuous-glucose-monitoring-system",
+      "i18n": {
+        "en": {
+          "description": "The value newcomer, packing 14-day wear, voice food logging and AI meal analysis into a 1.5g sensor at one of the lowest sticker prices around.",
+          "priceRange": "~$40 / 14-day sensor"
+        },
+        "zh-tw": {
+          "description": "性價比新兵，14 天佩戴、語音記錄食物、AI 分析餐點，塞進一片只有 1.5 克的感測器，售價又落在市面最低那一段。",
+          "priceRange": "約 NT$1,300 / 14天感測器"
+        }
+      }
+    },
+    {
+      "id": "january-ai",
+      "name": "January AI",
+      "brand": "January AI",
+      "url": "https://www.january.ai/",
+      "i18n": {
+        "en": {
+          "description": "The only pick that predicts glucose response without a sensor, scanning meals with generative AI so you can see the impact before you eat.",
+          "priceRange": "$28/mo"
+        },
+        "zh-tw": {
+          "description": "唯一一個免貼感測器就能預測血糖反應的選擇，用生成式 AI 掃描餐點，還沒吃就先看到它會怎麼影響血糖。",
+          "priceRange": "約 NT$900 / 月"
+        }
+      }
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-07-28",
+      "rankings": [
+        {
+          "id": "dexcom-stelo",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "accuracy": 9.2,
+            "wearTime": 9.3,
+            "dailyCost": 9.5,
+            "app": 8.5,
+            "coaching": 7.0
+          }
+        },
+        {
+          "id": "abbott-lingo",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "accuracy": 9.0,
+            "wearTime": 8.8,
+            "dailyCost": 8.6,
+            "app": 9.2,
+            "coaching": 8.0
+          }
+        },
+        {
+          "id": "dexcom-g7",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "accuracy": 9.6,
+            "wearTime": 8.5,
+            "dailyCost": 6.5,
+            "app": 9.0,
+            "coaching": 8.5
+          }
+        },
+        {
+          "id": "freestyle-libre-3-plus",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "accuracy": 9.3,
+            "wearTime": 9.3,
+            "dailyCost": 8.0,
+            "app": 8.5,
+            "coaching": 8.0
+          }
+        },
+        {
+          "id": "levels",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "accuracy": 8.8,
+            "wearTime": 8.8,
+            "dailyCost": 6.0,
+            "app": 9.4,
+            "coaching": 8.2
+          }
+        },
+        {
+          "id": "nutrisense",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "accuracy": 8.8,
+            "wearTime": 8.5,
+            "dailyCost": 6.2,
+            "app": 8.8,
+            "coaching": 9.5
+          }
+        },
+        {
+          "id": "signos",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "accuracy": 8.6,
+            "wearTime": 8.5,
+            "dailyCost": 6.0,
+            "app": 8.9,
+            "coaching": 8.5
+          }
+        },
+        {
+          "id": "ultrahuman-m1",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "accuracy": 8.4,
+            "wearTime": 8.2,
+            "dailyCost": 6.8,
+            "app": 8.8,
+            "coaching": 7.5
+          }
+        },
+        {
+          "id": "sibionics-gs3",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "accuracy": 8.0,
+            "wearTime": 8.2,
+            "dailyCost": 8.8,
+            "app": 7.8,
+            "coaching": 6.5
+          }
+        },
+        {
+          "id": "january-ai",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "accuracy": 7.0,
+            "wearTime": 7.0,
+            "dailyCost": 9.2,
+            "app": 8.6,
+            "coaching": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Dexcom prices first over-the-counter glucose monitor",
+          "url": "https://www.medtechdive.com/news/dexcom-sells-stelo-over-the-counter-cgm/725310/",
+          "source": "MedTech Dive"
+        },
+        {
+          "title": "Abbott debuts Lingo over-the-counter CGM in the US",
+          "url": "https://www.medtechdive.com/news/abbott-lingo-rollout-us-otc-cgm/726330/",
+          "source": "MedTech Dive"
+        },
+        {
+          "title": "Freestyle Libre 3 Plus vs Dexcom G7: 2026 CGM Comparison",
+          "url": "https://www.doctronic.ai/blog/freestyle-libre-3-vs-dexcom-g7/",
+          "source": "Doctronic"
+        },
+        {
+          "title": "Best CGMs (2026 Review) For Non-Diabetics, Athletes & Biohackers",
+          "url": "https://outliyr.com/best-cgms-healthy-biohackers",
+          "source": "Outliyr"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Continuous glucose monitoring became a mainstream wellness tool in 2026, and this ranking reflects that shift. My top pick is Dexcom Stelo because it solves the single biggest barrier to entry: cost and access. You get a G7-grade sensor for 15 days at $49.50, no prescription, no membership, no coaching upsell you never asked for. For most people curious about how a bowl of rice or a morning run moves their glucose, that is exactly the right amount of hardware.\n\nAbbott Lingo lands at number two on the strength of its app. The biosensor accuracy sits around a 9% MARD, close enough to Stelo for wellness use, and the coaching layer that scores your food, sleep and exercise is the most beginner-friendly experience I have tested. If you want the data to arrive with a plan, Lingo earns the premium.\n\nThe medical-grade tier still belongs to the Dexcom G7 and the FreeStyle Libre 3 Plus. The G7's 8% MARD and 30-minute warmup remain the accuracy benchmark, and its insulin-pump integration is why insulin users should look here first. The Libre 3 Plus answers with a 15-day sensor, an 8.2% MARD and the smallest footprint on the market, which makes it the value champion for daily diabetes management.\n\nThe software platforms, Levels, Nutrisense and Signos, are where the money gets serious. Levels has the cleanest interface, Nutrisense includes a real dietitian in every plan, and Signos owns the weight-loss and GLP-1 use case with FDA-cleared claims. They cost several times what a bare sensor does, and that premium buys interpretation and coaching, since these platforms run the same sensors you can buy alone. I recommend them when you genuinely want guidance. Ultrahuman M1 and Sibionics GS3 round out the biohacker and budget ends, and January AI earns a spot for predicting glucose response with no sensor at all.",
+          "highlights": [
+            {
+              "title": "Dexcom Stelo is the right first CGM for almost everyone",
+              "body": "At $49.50 for 15 days, Stelo removes the two things that used to keep casual users out, a doctor's visit and a monthly membership. It runs the same sensor generation as the Dexcom G7, so the readings you get for spotting how meals and workouts move your glucose are genuinely trustworthy. For a first sensor, nothing else combines this accuracy with this little friction."
+            },
+            {
+              "title": "Pay for a software platform only when you want coaching",
+              "body": "Levels, Nutrisense and Signos all cost three to five times what a bare sensor does, and that premium buys interpretation and coaching, since these platforms run the same sensors you can buy alone. Nutrisense includes a registered dietitian in every plan, Signos holds FDA-cleared weight-management claims, and Levels wraps the data in the cleanest app on the market. If you want a human or an algorithm turning numbers into a plan, they earn it."
+            },
+            {
+              "title": "Insulin users should still start with the Dexcom G7",
+              "body": "The Dexcom G7 keeps its accuracy crown with an 8% MARD, a 30-minute warmup and direct insulin-pump integration. Those three specs matter enormously when your dosing decisions ride on the reading. The FreeStyle Libre 3 Plus is the close runner-up with a 15-day sensor and an 8.2% MARD, and it costs less per day, which is why it is the value pick for daily diabetes management."
+            },
+            {
+              "title": "January AI proves you can start without a sensor",
+              "body": "January AI is the outlier that earns its ranking by needing no hardware at all. Its generative-AI meal scanner predicts your glucose response from a photo, so you can test-drive metabolic awareness for $28 a month before committing to a sensor. As the cheapest door into the category, it earns its spot on the list."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "連續血糖監測走到 2026，已經變成很多一般人在用的健康工具，這份排行榜就是照這個趨勢排的。我的第一名給 Dexcom Stelo，因為它把最大的入門門檻解決掉了，就是價格跟取得難度。用的是跟 G7 同款的感測器，貼 15 天只要 49.5 美元，免處方、免會員，也沒有硬塞給你的教練方案。對大多數只是好奇一碗滷肉飯或一次晨跑會怎麼影響血糖的人來說，這樣的硬體剛剛好。\n\n第二名 Abbott Lingo 贏在 App。感測器精準度 MARD 大概 9%，拿來做健康管理跟 Stelo 一樣夠用，那個會幫你的飲食、睡眠、運動打分數的教練功能，是我用過對新手最友善的體驗。想要數據附帶一套計畫，Lingo 這個價差花得值得。\n\n醫療級這一段還是 Dexcom G7 跟 FreeStyle Libre 3 Plus 的天下。G7 的 8% MARD、暖機 30 分鐘，到現在還是精準度標竿，能連胰島素幫浦這點，讓打胰島素的人應該先看它。Libre 3 Plus 用 15 天佩戴、8.2% MARD、市面最小的體積回應，每天要管血糖的糖友選它，性價比最高。\n\n軟體平台那三家 Levels、Nutrisense、Signos，就是開始燒錢的地方。Levels 介面最漂亮，Nutrisense 每個方案都配一位真人營養師，Signos 拿了 FDA 認證專攻減重跟 GLP-1 族群。它們的價格是裸感測器的好幾倍，多花的錢買的是數據解讀跟陪跑服務，感測器其實跟你單買的同一批。老實說我只有在你真的想要有人帶著調整的時候才推。Ultrahuman M1 跟 Sibionics GS3 補上生物駭客跟平價兩端，January AI 則靠完全免感測器就能預測血糖，硬是卡進榜單。",
+          "highlights": [
+            {
+              "title": "想踏進血糖監測，Stelo 幾乎是所有人的正確起點",
+              "body": "貼 15 天只要 49.5 美元，Stelo 把過去擋住一般人的兩件事拿掉了，一個是要跑一趟診所，一個是每月會員費。它用的是跟 Dexcom G7 同一代的感測器，所以你想看吃一餐、跑一次步血糖會怎麼跳，讀數是真的可以信的。當人生第一片感測器，沒有別的能同時做到這種精準又這麼零負擔。"
+            },
+            {
+              "title": "軟體平台的錢，想要教練陪你調整再花",
+              "body": "Levels、Nutrisense、Signos 的價格是裸感測器的三到五倍，多花的錢買的是數據解讀跟陪跑服務，感測器用的其實跟你單買的同一批。Nutrisense 每個方案都配一位註冊營養師，Signos 拿了 FDA 減重管理認證，Levels 則把數據包進市面上最漂亮的 App。你想要有真人或演算法幫你把數字變成計畫，這錢花得值。"
+            },
+            {
+              "title": "打胰島素的人，還是從 Dexcom G7 開始",
+              "body": "Dexcom G7 靠 8% MARD、暖機 30 分鐘、直接連胰島素幫浦，穩坐精準度王座。當你的用藥劑量要靠讀數決定，這三個規格差一點就差很多。FreeStyle Libre 3 Plus 緊追在後，15 天佩戴、8.2% MARD，每天分攤下來還更便宜，所以每天要管血糖的糖友，它是性價比首選。"
+            },
+            {
+              "title": "January AI 證明免感測器也能先上手",
+              "body": "January AI 是榜上的異數，靠的是完全不用任何硬體。它的生成式 AI 餐點掃描能從一張照片預測你的血糖反應，一個月 28 美元就能先試玩代謝管理的感覺，還沒買感測器就能上手。當這個品類最便宜的一道門，它值得榜上這個位置。"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
