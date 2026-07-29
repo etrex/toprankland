@@ -210,6 +210,22 @@
           "priceRange": "約 NT$45,000"
         }
       }
+    },
+    {
+      "id": "apple-macbook-neo",
+      "name": "MacBook Neo",
+      "brand": "Apple",
+      "url": "https://www.apple.com/macbook-neo/",
+      "i18n": {
+        "en": {
+          "description": "Apple's entry Mac runs an A18 Pro behind a 13-inch Liquid Retina display with 16-hour battery, and at $699 it is the cheapest route into macOS.",
+          "priceRange": "$699"
+        },
+        "zh-tw": {
+          "description": "Apple 最平價的 Mac，A18 Pro 晶片配 13 吋 Liquid Retina 螢幕、16 小時續航，不到兩萬就能進 macOS 生態。",
+          "priceRange": "NT$19,900"
+        }
+      }
     }
   ],
   "history": [
@@ -16565,8 +16581,20 @@
           }
         },
         {
-          "id": "microsoft-surface-pro-11",
+          "id": "apple-macbook-neo",
           "rank": 9,
+          "score": 8.1,
+          "scores": {
+            "performance": 7.0,
+            "display": 8.5,
+            "battery": 9.0,
+            "portability": 9.5,
+            "value": 9.8
+          }
+        },
+        {
+          "id": "microsoft-surface-pro-11",
+          "rank": 10,
           "score": 8.0,
           "scores": {
             "performance": 8.0,
@@ -16578,7 +16606,7 @@
         },
         {
           "id": "hp-spectre-x360-14",
-          "rank": 10,
+          "rank": 11,
           "score": 7.9,
           "scores": {
             "performance": 7.5,
@@ -16590,7 +16618,7 @@
         },
         {
           "id": "acer-swift-go-16",
-          "rank": 11,
+          "rank": 12,
           "score": 7.7,
           "scores": {
             "performance": 7.5,
@@ -16602,7 +16630,7 @@
         },
         {
           "id": "acer-aspire-go-15",
-          "rank": 12,
+          "rank": 13,
           "score": 7.0,
           "scores": {
             "performance": 7.0,
@@ -16628,11 +16656,16 @@
           "title": "The best laptops of 2026: Compare the top premium picks",
           "url": "https://tech.yahoo.com/computing/articles/best-laptops-2025-compare-m4-223724542.html",
           "source": "Yahoo Tech"
+        },
+        {
+          "title": "MacBook Neo: Should You Buy? Reviews and More",
+          "url": "https://www.macrumors.com/roundup/macbook-neo/",
+          "source": "MacRumors"
         }
       ],
       "i18n": {
         "en": {
-          "commentary": "The MacBook Air 13 M5 stays my number one, and this week's reviews reinforce it. Strong performance, silent fanless operation, all-day battery and a genuinely portable chassis now come with a more practical 512GB base SSD, which fixes the one complaint I had. For most people this is the laptop to buy, and I say that without hesitation. The MacBook Pro 14 M4 Pro holds second for anyone who needs sustained rendering, more ports and a brighter HDR display, the machine for real workloads rather than everyday tasks. The Asus Zenbook A16 keeps third as my Windows value leader, delivering strong all-round specs and long battery at a price that undercuts the premium crowd. Dell's XPS 14 stays fourth on its stunning display and excellent battery, and the Razer Blade 16 holds fifth for creators and gamers who want desktop-class power in a bag. The Lenovo Yoga Slim 7i and Zenbook S14 OLED anchor the thin-and-light middle, both lovely screens for the money. Further down, Acer's Swift Go and Aspire Go still earn spots for buyers who want a capable machine on a tight budget. The order held this week, so I kept scores steady and left the standings as they were.",
+          "commentary": "The MacBook Air 13 M5 stays my number one, and this week's reviews reinforce it. Strong performance, silent fanless operation, all-day battery and a genuinely portable chassis now come with a more practical 512GB base SSD, which fixes the one complaint I had. For most people this is the laptop to buy, and I say that without hesitation. The MacBook Pro 14 M4 Pro holds second for anyone who needs sustained rendering, more ports and a brighter HDR display, the machine for real workloads rather than everyday tasks. The Asus Zenbook A16 keeps third as my Windows value leader, delivering strong all-round specs and long battery at a price that undercuts the premium crowd. Dell's XPS 14 stays fourth on its stunning display and excellent battery, and the Razer Blade 16 holds fifth for creators and gamers who want desktop-class power in a bag. The Lenovo Yoga Slim 7i and Zenbook S14 OLED anchor the thin-and-light middle, both lovely screens for the money. Further down, Acer's Swift Go and Aspire Go still earn spots for buyers who want a capable machine on a tight budget. One change this week: the MacBook Neo joins the board at ninth. Apple's $699 entry Mac puts an A18 Pro behind a 13-inch Liquid Retina display and holds 16 hours of battery, which makes it the cheapest honest route into macOS. The 8GB of soldered memory is what keeps it in the lower half here, and for browsing, writing and study it is comfortably enough machine. At back-to-school pricing it is the easiest recommendation on this page.",
           "highlights": [
             {
               "title": "MacBook Air M5 stays first",
@@ -16647,13 +16680,17 @@
               "body": "Strong all-round specs and long battery at a price that undercuts the premium field hold it at third."
             },
             {
+              "title": "MacBook Neo is the best cheap laptop of the year",
+              "body": "A18 Pro performance, a 13-inch Liquid Retina panel and 16-hour battery for $699 is a combination nothing else at this price offers, and Apple's build quality comes along with it. Take it for browsing, documents and study, and step up to the Air if you edit video or keep thirty tabs open."
+            },
+            {
               "title": "Acer covers the budget",
               "body": "The Swift Go and Aspire Go keep their spots for buyers who want capable machines without overspending."
             }
           ]
         },
         "zh-tw": {
-          "commentary": "MacBook Air 13 M5 這週還是我的第一，評測也再次挺它。強悍的效能、無風扇的靜音運作、一整天的續航，加上真正好帶的機身，現在還配上更實用的 512GB 起跳 SSD，補上了我唯一那個抱怨。對大多數人來說，就是買這台，我毫不猶豫這樣講。第二名 MacBook Pro 14 M4 Pro 守住，適合需要長時間算圖、更多埠、更亮 HDR 螢幕的人，是幹真正重活的機器，不是日常打字用的。第三名 Asus Zenbook A16 是我的 Windows 高 CP 值王者，全方位規格扎實、續航又長，價格還壓過那些高階機。第四名 Dell XPS 14 靠驚豔的螢幕跟優異續航守住，第五名 Razer Blade 16 給想把桌機級火力塞進包包的創作者跟玩家。Lenovo Yoga Slim 7i 跟 Zenbook S14 OLED 撐起輕薄中段，兩台的螢幕都對得起這個價。再往下，Acer Swift Go 跟 Aspire Go 靠實惠還是有位子，適合預算緊、又想要一台夠用機器的人。這週排名很穩，我維持分數，名次照舊。",
+          "commentary": "MacBook Air 13 M5 這週還是我的第一，評測也再次挺它。強悍的效能、無風扇的靜音運作、一整天的續航，加上真正好帶的機身，現在還配上更實用的 512GB 起跳 SSD，補上了我唯一那個抱怨。對大多數人來說，就是買這台，我毫不猶豫這樣講。第二名 MacBook Pro 14 M4 Pro 守住，適合需要長時間算圖、更多埠、更亮 HDR 螢幕的人，是幹真正重活的機器，不是日常打字用的。第三名 Asus Zenbook A16 是我的 Windows 高 CP 值王者，全方位規格扎實、續航又長，價格還壓過那些高階機。第四名 Dell XPS 14 靠驚豔的螢幕跟優異續航守住，第五名 Razer Blade 16 給想把桌機級火力塞進包包的創作者跟玩家。Lenovo Yoga Slim 7i 跟 Zenbook S14 OLED 撐起輕薄中段，兩台的螢幕都對得起這個價。再往下，Acer Swift Go 跟 Aspire Go 靠實惠還是有位子，適合預算緊、又想要一台夠用機器的人。這週有一個變動，我把 MacBook Neo 放進來，排第九。Apple 這台不到兩萬的入門機用 A18 Pro 配 13 吋 Liquid Retina 螢幕，續航撐得住 16 小時，是現在進 macOS 最省錢的正規管道。老實說，8GB 焊死的記憶體就是它停在後半段的原因，但拿來上網、打報告、看影片，這個規格夠用得很輕鬆。開學季這個價位，我推得很乾脆。",
           "highlights": [
             {
               "title": "MacBook Air M5 續坐第一",
@@ -16666,6 +16703,10 @@
             {
               "title": "Zenbook A16 Windows CP 值領先",
               "body": "全方位規格扎實、續航又長，價格壓過高階群，坐穩第三。"
+            },
+            {
+              "title": "MacBook Neo 是今年最值得買的平價筆電",
+              "body": "A18 Pro 的效能、13 吋 Liquid Retina 螢幕加 16 小時續航，台幣 19,900 就到手，同價位帶找不到第二台這樣的組合，而且 Apple 的做工也一起給你。上網、文書、寫報告拿它剛好，會剪影片或習慣開三十個分頁的人再往上跳 Air。"
             },
             {
               "title": "Acer 顧好預算帶",
