@@ -11525,6 +11525,194 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-30",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.7,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.0,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "July 2026 AI Releases: OpenAI, Anthropic, Google DeepMind, Meta AI",
+          "url": "https://thursdai.news/releases/2026-07",
+          "source": "ThursdAI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Kling 3.0 stays first, and the top three are now separated by a tenth of a point, which tells you how fast this category has compressed. Kling holds the lead on prompt adherence and on motion realism, and motion is the factor that decides whether a clip is usable. A beautiful frame with physically wrong movement gets cut in the edit. Veo 3.1 sits second and remains my pick when the clip needs synchronised audio, because native audio generation removes an entire post production step. Seedance 2.0 at third is the strongest on character consistency across shots, which is what you need for anything with a recurring subject. The most concrete news this month is Runway Gen-4 Turbo, a faster inference version that cuts generation time by roughly 60 percent at comparable quality. I want to be clear about why that matters: video generation is an iterative craft, and iteration count is bounded by wait time. Cutting the loop by 60 percent means three times as many attempts in the same session, and attempt count is what separates a usable clip from a near miss. Runway Gen-4.5 holds fourth on that strength. If you are choosing today, pick on your bottleneck. Motion realism, audio sync, character consistency and iteration speed are four different problems and four different leaders.",
+          "highlights": [
+            {
+              "title": "Kling 3.0 leads because motion realism decides whether a clip survives the edit",
+              "body": "A gorgeous still frame with physically wrong movement gets cut, every time. Kling's prompt adherence and motion quality mean more of what it generates makes it into a finished piece. I rank on usable output per generation, and that is where it wins."
+            },
+            {
+              "title": "Runway Gen-4 Turbo's 60 percent speed cut is a real quality improvement",
+              "body": "Video generation is iterative, and iteration count is capped by wait time. Cutting generation time by roughly 60 percent at comparable quality means three times the attempts in one working session. More attempts is how you get from a near miss to a clip you can actually use."
+            },
+            {
+              "title": "Veo 3.1 is the answer when you need audio in the same pass",
+              "body": "Native synchronised audio removes a full post production step. For social clips and quick turnaround work, generating sound with the picture is the difference between finishing in one sitting and scheduling an audio session. That workflow saving outweighs small differences in frame quality."
+            },
+            {
+              "title": "Choose by bottleneck, because there is no single winner",
+              "body": "Motion realism goes to Kling, audio sync to Veo, character consistency across shots to Seedance, and iteration speed to Runway. These are four separate problems. Identify which one is blocking your project and pick the leader in that column rather than the top of the overall table."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Kling 3.0 守第一，而前三名現在只差零點一分，這個壓縮速度本身就是重點。\n\nKling 領先的地方在提示詞遵循度與運動真實度，而運動這件事決定一段影片到底能不能用。畫面很美但物理運動錯了，剪接台上一定被剪掉。\n\nVeo 3.1 第二，需要同步聲音的時候我還是選它，因為原生音訊生成直接省掉一整道後製工序。Seedance 2.0 第三，跨鏡頭的角色一致性最強，有固定主角的專案就得看這一項。\n\n這個月最實在的消息是 Runway Gen-4 Turbo，這個加速推論版本在品質相當的前提下把生成時間砍掉約六成。我想把這件事的意義講清楚，影片生成是反覆試的手藝，而試的次數被等待時間鎖死。迴圈砍掉六成，同一個工作時段裡就能試三倍的次數，而次數多寡就是「差一點可用」跟「真的可用」的分界。Runway Gen-4.5 第四名靠的就是這個強項。\n\n今天要選的話，看你的瓶頸在哪。運動真實度、音訊同步、角色一致性、迭代速度是四個不同的問題，四個不同的第一名。",
+          "highlights": [
+            {
+              "title": "Kling 3.0 領先，因為運動真實度決定影片剪不剪得掉",
+              "body": "定格很漂亮但物理運動錯掉的片段，每次都會被剪掉。Kling 的提示詞遵循與運動品質，讓它生出來的東西有更高比例真的進到成品裡。我的排序基準是每次生成換到多少可用產出，它就贏在這裡。"
+            },
+            {
+              "title": "Runway Gen-4 Turbo 砍掉六成時間，本質上是品質提升",
+              "body": "影片生成是反覆試的過程，試的次數被等待時間鎖住。品質相當的前提下把生成時間砍掉約六成，等於同一個工作時段能試三倍次數。試得多，才有辦法從「差一點」推到「真的能用」。"
+            },
+            {
+              "title": "同一趟就要出聲音，答案是 Veo 3.1",
+              "body": "原生同步音訊省掉一整道後製。做社群短片或急件時，聲音跟畫面一起生出來，就是「一次坐下來做完」跟「還要另外排配音」的差別。這個流程上的節省，勝過畫面品質那一點差距。"
+            },
+            {
+              "title": "按瓶頸選，因為沒有單一全能贏家",
+              "body": "運動真實度看 Kling，音訊同步看 Veo，跨鏡頭角色一致性看 Seedance，迭代速度看 Runway。這是四個獨立問題。先確認卡住你專案的是哪一個，然後挑那一欄的第一名，別直接抓總表最上面那個。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

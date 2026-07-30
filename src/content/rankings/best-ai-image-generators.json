@@ -9830,6 +9830,206 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-30",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 9.0,
+            "artisticQuality": 8.3,
+            "textRendering": 9.7,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.1,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "nano-banana-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 11,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "July 2026 AI Releases: OpenAI, Anthropic, Google DeepMind, Meta AI",
+          "url": "https://thursdai.news/releases/2026-07",
+          "source": "ThursdAI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The top four sit within a tenth of a point of each other and that clustering is the real story of July. GPT Image 2 and Midjourney V8.1 share the lead for different reasons, and I would hand them to different people. GPT Image 2 wins on prompt accuracy and on text rendering, which is why I use it for anything that needs legible words inside the frame, a product mock, a poster, a slide graphic. Midjourney V8.1 wins on artistic quality, and it is still the model that produces an image you would actually hang on a wall from a two line prompt. Nano Banana Pro holds third on photorealism and on how well it handles editing an existing image rather than generating from scratch. Flux 2 Pro sits at fourth, and Black Forest Labs claims FLUX 3 outperforms Seedance 2.0, Gemini Omni and Grok Imagine among multimodal flow models, which puts a genuine upgrade on the near horizon for that line. The broader shift I see this month is the move from generator to design tool. Seedream 5 pitched interactive precision editing and intelligent layer separation, and that framing is correct. Once a model can separate layers and let you edit one region without disturbing the rest, it stops competing with other generators and starts competing with Photoshop.",
+          "highlights": [
+            {
+              "title": "GPT Image 2 is the one to use when the image contains words",
+              "body": "Text rendering is where most image models still fall down, and legible in frame typography is a hard requirement for product mocks, posters and slide graphics. GPT Image 2 gets spelling and letter spacing right often enough that I stop budgeting time for manual fixes. That reliability is worth more than a small edge in artistic flair."
+            },
+            {
+              "title": "Midjourney V8.1 still produces the best image from the shortest prompt",
+              "body": "Artistic quality per unit of prompt effort is Midjourney's real advantage. A two line prompt returns a composed, colour graded frame with intentional lighting. For mood boards, editorial imagery and anything where the goal is a striking picture rather than a specification, it remains my first stop."
+            },
+            {
+              "title": "Layer separation is the feature that changes the category",
+              "body": "Seedream 5 shipped interactive precision editing with intelligent layer separation, and that reframes what these tools are. Editing one region without disturbing the rest is the difference between generating an image and working on one. I expect every major model to ship this within two release cycles."
+            },
+            {
+              "title": "Flux 2 Pro buyers should watch the FLUX 3 claims",
+              "body": "Black Forest Labs says FLUX 3 outperforms Seedance 2.0, Gemini Omni and Grok Imagine among multimodal flow models. If you are committing to the Flux line for a production pipeline, that upgrade path is worth planning around rather than locking in a long annual commitment right now."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "前四名彼此只差零點一分，這種擠在一起的狀態就是七月的重點。GPT Image 2 跟 Midjourney V8.1 並列領先，但理由完全不同，我也會推給不同的人。\n\nGPT Image 2 強在提示詞精準度與文字渲染，所以只要畫面裡需要看得懂的字，產品情境圖、活動海報、簡報圖表，我一律用它。\n\nMidjourney V8.1 贏在藝術性，兩行提示詞就能生出一張你真的願意掛在牆上的圖，這件事到現在還是它做得最好。\n\nNano Banana Pro 第三，寫實度與「修改既有圖片」的能力都很強，拿既有圖來改的場景特別好用。Flux 2 Pro 第四，Black Forest Labs 宣稱 FLUX 3 在多模態 flow 模型裡贏過 Seedance 2.0、Gemini Omni 與 Grok Imagine，所以這條線的升級就在眼前。\n\n這個月我看到更大的轉變是，這些工具正在從「生成器」變成「設計工具」。Seedream 5 主打互動式精準編輯與智慧圖層分離，這個定位抓得很準。模型能分圖層、能只改一個區域而不動到其他地方之後，它的對手就從其他生成器換成 Photoshop 了。",
+          "highlights": [
+            {
+              "title": "畫面裡有字，就用 GPT Image 2",
+              "body": "文字渲染是多數生圖模型至今還在跌倒的地方，而產品情境圖、海報、簡報圖表對「字要看得懂」是硬需求。GPT Image 2 的拼字與字距正確率高到我可以不再預留手動修圖的時間，這種可靠度比一點點藝術感的差距值錢多了。"
+            },
+            {
+              "title": "最短提示詞生出最好的圖，還是 Midjourney V8.1",
+              "body": "每單位提示詞努力換到的畫面品質，是 Midjourney 真正的優勢。兩行字回來就是構圖完整、色調有調過、打光有意圖的畫面。做情緒板、編輯用圖，或任何目標是「一張夠搶眼的圖」的場合，我都先開它。"
+            },
+            {
+              "title": "圖層分離是會改寫整個品類的功能",
+              "body": "Seedream 5 推出互動式精準編輯搭配智慧圖層分離，這重新定義了這類工具的角色。能只改一個區域而不動到其他地方，就是「生成一張圖」與「在一張圖上工作」的分界。我預期兩個版本週期內所有主要模型都會跟上。"
+            },
+            {
+              "title": "用 Flux 2 Pro 的人要盯著 FLUX 3 的說法",
+              "body": "Black Forest Labs 說 FLUX 3 在多模態 flow 模型裡勝過 Seedance 2.0、Gemini Omni 與 Grok Imagine。如果你正把 Flux 這條線接進生產流程，這個升級路徑值得先規劃，現在別急著簽一整年的長約把自己綁住。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

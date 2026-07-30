@@ -16951,6 +16951,223 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-30",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "July 2026 AI Releases: OpenAI, Anthropic, Google DeepMind, Meta AI",
+          "url": "https://thursdai.news/releases/2026-07",
+          "source": "ThursdAI"
+        },
+        {
+          "title": "AI Updates Today (July 2026) - Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code stays at number one and the July Sonnet 5 update widened the gap. Anthropic's release notes flagged improvements in multi-step tool use, structured output reliability and memory management across long sessions, and those three things are the entire job of an agentic coding tool. I spent this week handing it multi-file refactors that touch a dozen call sites, and the failure mode I used to see, losing track of a change made forty minutes earlier, has become rare. That is the difference between a tool you supervise and a tool you delegate to. OpenAI Codex holds second on raw code generation quality and on how cleanly it runs inside a terminal workflow. Cursor stays third because the editor is still the best place to review AI output line by line, and reviewing output is most of the work once the model gets good. The interesting movement this month sits further down the market. FrontierCode, an RL fine tune of Moonshot's open Kimi K2.7 base, jumped from 30.1 percent to 42.3 percent on its target benchmark and serves at roughly 1000 tokens per second for about $1.97 per task. Open weight coding models reaching that speed at that price changes the economics for teams running high volume automated tasks, and Kimi K3 full open weights landing on July 27 pushes the same direction. I am watching the open tier closely for August.",
+          "highlights": [
+            {
+              "title": "Claude Code is the right default for anything larger than a single file",
+              "body": "The July update improved long session memory management, and that is precisely what breaks on multi-file work. I ran refactors touching a dozen call sites this week and the model held the thread across the whole session. That reliability is what lets you delegate a task instead of babysitting each step."
+            },
+            {
+              "title": "Open weight coding models became genuinely competitive this month",
+              "body": "FrontierCode moved from 30.1 percent to 42.3 percent on its target benchmark and serves at around 1000 tokens per second for roughly $1.97 per task. At that speed and price, high volume automated work becomes affordable in a way it was not in June. Kimi K3 shipping full open weights on July 27 reinforces the trend."
+            },
+            {
+              "title": "Cursor earns third place on review ergonomics",
+              "body": "Once a model writes decent code, your bottleneck moves to reading it. Cursor keeps diffs, inline suggestions and the codebase in one view, which makes line by line review fast. I recommend it to teams whose review discipline is the thing keeping their main branch healthy."
+            },
+            {
+              "title": "Pick your assistant by task shape, not by leaderboard position",
+              "body": "Agentic multi-file work rewards long session memory, so Claude Code wins there. Tight terminal loops reward generation speed and clean CLI behaviour, which is Codex. High volume batch automation now rewards open weight throughput. The benchmark ranking and the right tool for your workload are two different questions."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 守第一，而七月的 Sonnet 5 更新把差距拉得更開。Anthropic 官方更新說明點出多步驟工具調用、結構化輸出穩定度、長對話記憶管理三項改善，說白了，這三件事就是代理型寫程式工具的全部工作內容。\n\n這週我丟給它的都是牽動十幾個呼叫點的跨檔案重構，過去最常見的失敗模式，也就是忘記四十分鐘前改過什麼，現在很少發生了。這就是「要盯著看」跟「可以交出去」的分界線。\n\nOpenAI Codex 第二，程式生成品質與終端機工作流的整合度都很紮實。Cursor 第三，因為模型變強之後，工作重心會移到逐行審查產出，而編輯器就是審查最順手的地方。\n\n這個月真正有意思的變化在中低價位。FrontierCode 是 Moonshot 開源 Kimi K2.7 基底的強化學習微調版，目標基準測試從 30.1% 跳到 42.3%，推論速度約每秒一千個 token，單筆任務成本約 1.97 美元，換算下來一杯手搖飲的錢可以跑幾十次。\n\n開源權重模型能做到這個速度與價格，對大量自動化任務的成本結構是實質改變，七月二十七日 Kimi K3 全量開源權重也是同一個方向。八月我會盯緊開源這一層。",
+          "highlights": [
+            {
+              "title": "超過單一檔案的工作，Claude Code 就是預設答案",
+              "body": "七月更新改善的長對話記憶管理，正好對應跨檔案工作最容易崩的地方。我這週跑了牽動十幾個呼叫點的重構，模型全程都撐得住脈絡。這種穩定度才是你能把任務整包交出去、而不用逐步盯著的關鍵。"
+            },
+            {
+              "title": "開源權重寫程式模型這個月真的追上來了",
+              "body": "FrontierCode 目標基準從 30.1% 拉到 42.3%，推論約每秒一千個 token，單筆任務約 1.97 美元。這個速度與價格讓大量自動化任務的成本變得可以接受，六月還做不到。七月二十七日 Kimi K3 全量開源權重更是同一條線的加速。"
+            },
+            {
+              "title": "Cursor 第三名，贏在審查手感",
+              "body": "模型寫得出堪用的程式之後，瓶頸就變成你讀得多快。Cursor 把 diff、行內建議、整個專案結構放在同一個視野裡，逐行審查的速度差很多。團隊靠 code review 紀律守住主幹的話，我會直接推薦這套。"
+            },
+            {
+              "title": "選工具的依據是任務形狀",
+              "body": "代理型跨檔案工作吃長對話記憶，那是 Claude Code 的場子。密集的終端機迴圈吃生成速度與乾淨的 CLI 行為，那是 Codex。大量批次自動化現在吃開源權重的吞吐量。榜單第一名跟你的工作負載該用誰，是兩個不同的問題。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

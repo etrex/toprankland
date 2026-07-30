@@ -10910,6 +10910,197 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-30",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.0,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.8,
+            "coding": 9.9,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.1,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.9,
+            "realtime": 9.4,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "reasoning": 9.0,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.4,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "July 2026 AI Releases: OpenAI, Anthropic, Google DeepMind, Meta AI",
+          "url": "https://thursdai.news/releases/2026-07",
+          "source": "ThursdAI"
+        },
+        {
+          "title": "AI Updates Today (July 2026) - Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The top three hold this week, and I am comfortable defending that. July has been a month of point releases rather than new frontier tiers, and point releases reward the assistants that were already strong on instruction-following. Anthropic shipped a Claude Sonnet 5 update in early July that improved multi-step tool use, structured output reliability and memory management across long sessions at the same price, which is exactly the kind of quiet quality work that shows up in daily use rather than in benchmark headlines. ChatGPT keeps the top slot on breadth. It is the only assistant I can hand a photo, a spreadsheet, a voice conversation and a 200 page PDF in the same session and get consistently usable output from all four. Claude stays second because it is the one I trust with long documents and with code I intend to ship, and the July update widened that lead on agentic tasks. Gemini at third earns its score on real time grounding and on the Workspace tie in, which matters if your working life already runs on Gmail and Docs. Grok at fourth is the pick for live conversation about news as it breaks. My practical advice for July: pay for one assistant properly rather than spreading a budget across three free tiers, because the paid reasoning modes are where the actual capability gap sits.",
+          "highlights": [
+            {
+              "title": "ChatGPT keeps first place because breadth beats peak scores for daily work",
+              "body": "I rank on what a paying user actually does in a week, and that is a mix of image questions, file analysis, voice and long text. ChatGPT handles all four in one session with the fewest handoffs. Assistants with a higher score on a single reasoning benchmark still lose time when you have to switch tools mid task."
+            },
+            {
+              "title": "The July Sonnet 5 update is the most useful thing that shipped this month",
+              "body": "Anthropic improved instruction-following, multi-step tool use, structured output reliability and long session memory management without changing the price. Those four improvements land directly on the workloads people build products around. I moved Claude's coding and reasoning sub-scores up on the strength of it."
+            },
+            {
+              "title": "Gemini is the correct pick if your day already lives in Google Workspace",
+              "body": "Real time grounding plus native access to Gmail, Docs and Drive turns Gemini into a working assistant instead of a chat window. I use it for anything that requires today's information, and the Workspace integration removes the copy and paste tax that makes other assistants feel slower than they are."
+            },
+            {
+              "title": "One paid subscription beats three free tiers",
+              "body": "The capability gap between free and paid sits in extended reasoning modes and context length, and both matter more than model brand. If your budget is one subscription, pick the assistant that matches your heaviest weekly task and pay for the top tier of that one."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "前三名這週不動，我認為這個排序站得住。七月整個月都是小版本更新，沒有新的世代跳躍，而小版本更新最受益的就是本來指令遵循就穩的那幾家。\n\nAnthropic 七月初推的 Claude Sonnet 5 更新，把多步驟工具調用、結構化輸出穩定度、長對話記憶管理都往上拉，價格沒動。老實說這種不上頭條的品質工程，才是每天在用的人真正感覺得到的東西。\n\nChatGPT 守住第一，靠的是廣度。它是唯一一個我可以在同一個對話裡丟照片、丟試算表、開語音、再塞一份兩百頁 PDF，四種都給我可用結果的助理。\n\nClaude 排第二，因為要處理長文件、要寫我真的會上線的程式，我只信它，而七月這波更新讓它在代理型任務上的優勢又拉開一點。\n\nGemini 第三名是實時搜尋與 Workspace 整合換來的。你的工作本來就跑在 Gmail 跟 Google 文件上的話，這個整合省下的複製貼貼時間非常實際。Grok 第四，適合新聞正在發生時拿來追。\n\n七月我的實際建議是，與其把預算分散在三個免費方案，不如挑一家付好付滿，因為真正的能力差距就在付費的深度推理模式裡。",
+          "highlights": [
+            {
+              "title": "ChatGPT 第一名靠的是廣度，日常工作看的就是這個",
+              "body": "我的排序基準是付費使用者一週真正會做的事，那是照片提問、檔案分析、語音、長文的混合。ChatGPT 四種在同一個對話裡都吃得下，中間不用換工具。某個推理榜分數更高的助理，在你得中途跳到另一個工具時，省下的分數全都賠回去了。"
+            },
+            {
+              "title": "七月的 Sonnet 5 更新是這個月最有價值的一件事",
+              "body": "Anthropic 一次改善指令遵循、多步驟工具調用、結構化輸出穩定度與長對話記憶管理，價格維持不變。這四項全都打在大家真的拿來做產品的工作負載上，我因此把 Claude 的程式與推理分項往上調。"
+            },
+            {
+              "title": "工作本來就在 Google 生態裡，Gemini 就是正解",
+              "body": "實時搜尋加上原生讀取 Gmail、文件、雲端硬碟，讓 Gemini 從聊天視窗變成真的在幫你做事的助理。需要今天資訊的事我都丟給它，Workspace 整合省掉的複製貼上，體感差距比帳面規格大得多。"
+            },
+            {
+              "title": "一個付費方案勝過三個免費方案",
+              "body": "免費與付費的差距就在深度推理模式與上下文長度，這兩件事的重要性遠高於是哪個品牌。預算只有一份的話，看你每週最重的那個任務是什麼，就挑對應的那家把最高階方案訂下去。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
