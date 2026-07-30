@@ -146,6 +146,38 @@
           "priceRange": "NT$80 至 NT$150 一捲"
         }
       }
+    },
+    {
+      "id": "zzztape",
+      "name": "ZzzTape Mouth Tape",
+      "brand": "ZzzTape",
+      "url": "https://zzztape.com/products/zzztape-mouth-tape-for-sleep",
+      "i18n": {
+        "en": {
+          "description": "Medical-grade woven mesh in three sizes, including a 3.75-inch Large strip sized for full beards and a mini vertical strip for beginners, made in a cGMP facility and lab-tested at an ISO 17025 accredited lab.",
+          "priceRange": "$30 per month, less on 3- and 12-month packs"
+        },
+        "zh-tw": {
+          "description": "醫療級編織網布做成三種尺寸，3.75 吋大尺寸專門對付整臉大鬍子，迷你直貼款給第一次嘗試的人，工廠通過 cGMP 認證，成品送 ISO 17025 認證實驗室檢驗。",
+          "priceRange": "約 NT$960 一個月份，三個月與一年組更便宜"
+        }
+      }
+    },
+    {
+      "id": "woodyknows",
+      "name": "WoodyKnows Mouth Tape",
+      "brand": "WoodyKnows",
+      "url": "https://www.woodyknows.com/products/woodyknows-mouth-tape-for-nasal-breathing-anti-mouth-breathing-strips-24-pack-886",
+      "i18n": {
+        "en": {
+          "description": "A patented H-cut on a 100% cotton base that spreads the adhesive wide across the cheeks while leaving the center strip over the lips completely adhesive-free, and at 71 cents a night it undercuts every other purpose-built tape here.",
+          "priceRange": "$17 for 24 nights"
+        },
+        "zh-tw": {
+          "description": "專利 H 型剪裁配 100% 純棉底材，黏膠大面積分散在兩頰，正中央壓在嘴唇上的那條完全無膠，換算下來一晚不到 23 塊，是這份榜單裡最便宜的專用貼片。",
+          "priceRange": "約 NT$540 一盒 24 片"
+        }
+      }
     }
   ],
   "history": [
@@ -2335,8 +2367,20 @@
           }
         },
         {
+          "id": "zzztape",
+          "score": 8.2,
+          "scores": {
+            "sealEffectiveness": 8.6,
+            "comfort": 8.4,
+            "adhesiveSafety": 8.9,
+            "beardFriendly": 9.2,
+            "value": 7.4
+          },
+          "rank": 6
+        },
+        {
           "id": "dream-recovery",
-          "rank": 6,
+          "rank": 7,
           "score": 8.1,
           "scores": {
             "sealEffectiveness": 9.2,
@@ -2347,8 +2391,20 @@
           }
         },
         {
+          "id": "woodyknows",
+          "score": 8.0,
+          "scores": {
+            "sealEffectiveness": 8.0,
+            "comfort": 8.6,
+            "adhesiveSafety": 8.4,
+            "beardFriendly": 7.4,
+            "value": 9.5
+          },
+          "rank": 8
+        },
+        {
           "id": "myotape",
-          "rank": 7,
+          "rank": 9,
           "score": 7.9,
           "scores": {
             "sealEffectiveness": 7.2,
@@ -2360,7 +2416,7 @@
         },
         {
           "id": "3m-micropore",
-          "rank": 8,
+          "rank": 10,
           "score": 7.4,
           "scores": {
             "sealEffectiveness": 8.2,

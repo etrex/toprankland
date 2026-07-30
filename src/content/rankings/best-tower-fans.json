@@ -146,6 +146,38 @@
           "priceRange": "約 NT$2,890"
         }
       }
+    },
+    {
+      "id": "dreo-turbocool-765s",
+      "name": "Dreo TurboCool Misting Fan 765S",
+      "brand": "Dreo",
+      "url": "https://www.dreo.com/products/turbocool-misting-fan-765s",
+      "i18n": {
+        "en": {
+          "description": "A 20dB brushless DC tower that pushes air 34 ft/s out to nearly 60 feet and adds a 6L ultrasonic mister throwing 17-micron droplets, which drops room temperature up to 10°F while leaving furniture dry.",
+          "priceRange": "$200"
+        },
+        "zh-tw": {
+          "description": "20 分貝無刷 DC 塔扇，風速 34 ft/s、送風距離將近 60 英尺，再加上 6 公升超音波霧化系統打出 17 微米霧粒，室溫最多降 10 度華氏，家具還不會濕答答。",
+          "priceRange": "約 NT$6,400"
+        }
+      }
+    },
+    {
+      "id": "xiaomi-smart-tower-fan-2",
+      "name": "Xiaomi Smart Tower Fan 2",
+      "brand": "Xiaomi",
+      "url": "https://www.mi.com/global/product/xiaomi-smart-tower-fan-2/",
+      "i18n": {
+        "en": {
+          "description": "A 24W DC tower moving 494 m³/h across a 150-degree sweep, with 100 individually addressable speed steps in the Xiaomi Home app and a tool-free split housing you can pull apart and rinse at the end of the season.",
+          "priceRange": "€99.95, roughly $110"
+        },
+        "zh-tw": {
+          "description": "24 瓦 DC 塔扇，風量 494 m³/h、150 度廣角送風，米家 App 裡有 100 段風速可以一格一格調，機身免工具就能拆開，夏天結束直接沖洗晾乾收起來。",
+          "priceRange": "NT$1,995"
+        }
+      }
     }
   ],
   "history": [
@@ -4407,8 +4439,20 @@
           }
         },
         {
+          "id": "dreo-turbocool-765s",
+          "score": 9.1,
+          "scores": {
+            "airflow": 9.6,
+            "noise": 9.7,
+            "smart": 9.2,
+            "build": 8.8,
+            "value": 8.6
+          },
+          "rank": 2
+        },
+        {
           "id": "shark-turboblade-tf202s",
-          "rank": 2,
+          "rank": 3,
           "score": 9.0,
           "scores": {
             "airflow": 9.8,
@@ -4420,7 +4464,7 @@
         },
         {
           "id": "dyson-purifier-cool-tp10",
-          "rank": 3,
+          "rank": 4,
           "score": 8.9,
           "scores": {
             "airflow": 9.0,
@@ -4432,7 +4476,7 @@
         },
         {
           "id": "levoit-classic-42-smart",
-          "rank": 4,
+          "rank": 5,
           "score": 8.5,
           "scores": {
             "airflow": 8.5,
@@ -4444,7 +4488,7 @@
         },
         {
           "id": "vornado-oscr37",
-          "rank": 5,
+          "rank": 6,
           "score": 8.3,
           "scores": {
             "airflow": 9.2,
@@ -4455,8 +4499,20 @@
           }
         },
         {
+          "id": "xiaomi-smart-tower-fan-2",
+          "score": 8.2,
+          "scores": {
+            "airflow": 8.0,
+            "noise": 8.2,
+            "smart": 8.9,
+            "build": 7.8,
+            "value": 9.6
+          },
+          "rank": 7
+        },
+        {
           "id": "lasko-summit-pinnacle-dst100",
-          "rank": 6,
+          "rank": 8,
           "score": 8.1,
           "scores": {
             "airflow": 8.4,
@@ -4468,7 +4524,7 @@
         },
         {
           "id": "honeywell-quietset-hyf290",
-          "rank": 7,
+          "rank": 9,
           "score": 7.9,
           "scores": {
             "airflow": 8.0,
@@ -4480,7 +4536,7 @@
         },
         {
           "id": "govee-smart-tower-fan",
-          "rank": 8,
+          "rank": 10,
           "score": 7.6,
           "scores": {
             "airflow": 7.6,
