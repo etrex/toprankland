@@ -194,6 +194,22 @@
           "priceRange": "約 NT$7,200"
         }
       }
+    },
+    {
+      "id": "bambu-lab-x2d-combo",
+      "name": "X2D Combo",
+      "brand": "Bambu Lab",
+      "url": "https://us.store.bambulab.com/products/x2d",
+      "i18n": {
+        "en": {
+          "description": "The X1 Carbon successor, launched April 2026 with a dual-nozzle toolhead and a 65C active heated chamber, and the Combo ships with AMS 2 Pro so ABS, ASA and PA-CF run in the same machine that handles 16-color PLA work.",
+          "priceRange": "$899"
+        },
+        "zh-tw": {
+          "description": "X1C 的正牌接班人，2026 年 4 月上市，雙噴頭刀塔加上 65 度主動加熱腔體，Combo 版直接附 AMS 2 Pro。ABS、ASA、PA-CF 這類容易翹邊的料在同一台裡就能跑，想玩 16 色 PLA 也是它。",
+          "priceRange": "約 NT$29,700"
+        }
+      }
     }
   ],
   "history": [
@@ -10434,8 +10450,20 @@
           }
         },
         {
-          "id": "bambu-lab-x1-carbon",
+          "id": "bambu-lab-x2d-combo",
           "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "print_quality": 9.6,
+            "speed": 9.3,
+            "multicolor": 9.5,
+            "ecosystem": 9.5,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "bambu-lab-x1-carbon",
+          "rank": 3,
           "score": 9.2,
           "scores": {
             "print_quality": 9.8,
@@ -10447,7 +10475,7 @@
         },
         {
           "id": "bambu-lab-h2d",
-          "rank": 3,
+          "rank": 4,
           "score": 9.1,
           "scores": {
             "print_quality": 9.7,
@@ -10459,7 +10487,7 @@
         },
         {
           "id": "prusa-core-one",
-          "rank": 4,
+          "rank": 5,
           "score": 9.0,
           "scores": {
             "print_quality": 9.5,
@@ -10471,7 +10499,7 @@
         },
         {
           "id": "bambu-lab-p1s",
-          "rank": 5,
+          "rank": 6,
           "score": 8.9,
           "scores": {
             "print_quality": 9.0,
@@ -10483,7 +10511,7 @@
         },
         {
           "id": "prusa-mk4s",
-          "rank": 6,
+          "rank": 7,
           "score": 8.6,
           "scores": {
             "print_quality": 9.5,
@@ -10495,7 +10523,7 @@
         },
         {
           "id": "creality-k2-plus-combo",
-          "rank": 7,
+          "rank": 8,
           "score": 8.5,
           "scores": {
             "print_quality": 8.8,
@@ -10507,7 +10535,7 @@
         },
         {
           "id": "elegoo-centauri-carbon",
-          "rank": 8,
+          "rank": 9,
           "score": 8.5,
           "scores": {
             "print_quality": 8.5,
@@ -10519,7 +10547,7 @@
         },
         {
           "id": "anycubic-kobra-3-max-combo",
-          "rank": 9,
+          "rank": 10,
           "score": 8.0,
           "scores": {
             "print_quality": 8.0,
@@ -10531,7 +10559,7 @@
         },
         {
           "id": "sovol-sv08",
-          "rank": 10,
+          "rank": 11,
           "score": 7.9,
           "scores": {
             "print_quality": 8.5,
@@ -10543,7 +10571,7 @@
         },
         {
           "id": "creality-ender-3-v3-se",
-          "rank": 11,
+          "rank": 12,
           "score": 7.6,
           "scores": {
             "print_quality": 7.5,
