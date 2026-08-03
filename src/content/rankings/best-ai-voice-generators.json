@@ -11998,6 +11998,418 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-31",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.4,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 4,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "fish-audio-openaudio-s1",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.1,
+            "emotionalRange": 8.8,
+            "languageSupport": 8.0,
+            "latency": 8.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 9.8,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 8,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 8.3,
+            "emotionalRange": 7.7,
+            "languageSupport": 8.6,
+            "latency": 7.8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "July 2026 AI Releases: OpenAI, Anthropic, Google DeepMind, Cognition",
+          "url": "https://thursdai.news/releases/2026-07",
+          "source": "ThursdAI"
+        },
+        {
+          "title": "LLM News Today (July 2026) - AI Model Releases",
+          "url": "https://llm-stats.com/ai-news",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "LLM Release Timeline - Model Release Dates",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The one genuinely relevant launch this week came from xAI, which released Grok STT 1.0 on July 23. That is speech to text rather than synthesis, so it sits on the other side of this category, and I have left the ranking unchanged. It is still worth understanding, because the voice stack is converging. The tools that win from here will do recognition, synthesis, and cloning in one place with one billing relationship, and a serious new transcription model from a frontier lab is a signal about where that consolidation is heading. My scoring priorities are unchanged and I will defend them. Naturalness of prosody beats raw audio fidelity, because a clean recording of a voice with wrong emphasis is more distracting to a listener than a slightly compressed recording of a voice that phrases correctly. Pronunciation control matters more than the demo reel suggests, since every real project has proper nouns, product names, or acronyms the model will get wrong, and the ability to fix one word without regenerating the paragraph is what makes a tool usable on a deadline. On cloning, my position stays firm: get documented consent from the person whose voice you are replicating, keep the record, and use a platform with a real verification step. The technology is past the point where the ethics are optional, and the platforms with strict consent flows are the ones that will still be operating when the regulation lands.",
+          "highlights": [
+            {
+              "title": "Prosody beats fidelity and it is not close",
+              "body": "A pristine recording of a voice that stresses the wrong word in a sentence pulls a listener straight out of the content. A slightly compressed recording that phrases naturally disappears into the background the way good narration should. I score for rhythm, emphasis, and breath placement ahead of bitrate, because that is what determines whether people finish listening."
+            },
+            {
+              "title": "Per-word pronunciation control is what makes these usable under deadline",
+              "body": "Every real script has a product name, a place, or an acronym the model will mispronounce. The tools that let you fix one word with a phonetic override, without regenerating the surrounding paragraph, save an hour on a long piece. This is the feature I would test first with your own brand names before you subscribe."
+            },
+            {
+              "title": "Consent for voice cloning is a requirement, and I will keep saying so",
+              "body": "Get documented permission from the person whose voice you are replicating and keep the record. Choose a platform with an actual verification step in its cloning flow. Regulation in this area is tightening, and the services with strict consent processes today are the ones that will still be running your project in two years."
+            },
+            {
+              "title": "Grok STT 1.0 on July 23 signals where the voice stack is heading",
+              "body": "xAI shipping a serious speech-to-text model tells you the frontier labs are building the full voice pipeline rather than picking a side. I expect recognition, synthesis, and cloning to consolidate into single platforms with one billing relationship, which favours the vendors already offering both directions over the specialists doing only synthesis."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這禮拜唯一真的跟這個品類相關的發表來自 xAI，7 月 23 日推出的 Grok STT 1.0。那是語音轉文字，站在這個品類的另一側，所以排名我維持不動。\n\n不過這件事還是值得理解，因為整個語音技術堆疊正在收斂。接下來會贏的工具，是能在同一個地方、同一組帳單關係下同時做辨識、合成跟複製的那些，而一間前沿實驗室認真推出轉錄模型，就是在告訴你這場整合往哪個方向走。\n\n我的評分優先順序沒變，而且我會替它辯護。語調自然度贏過音質純度，因為一段錄得很乾淨但重音放錯的語音，對聽眾的干擾遠大於一段稍微被壓縮但斷句正確的語音。\n\n發音控制的重要性比 demo 影片讓你以為的高得多，因為每個真實案子都有專有名詞、產品名或縮寫會被念錯，而「能改一個字而不用整段重生」這件事，才是讓工具在趕稿時真的能用的關鍵。\n\n聲音複製這塊我立場不變：跟被複製的當事人拿到書面同意，留存紀錄，選有實際驗證流程的平台。這個技術早就過了「倫理可以先放一邊」的階段，而今天就把同意流程做嚴的平台，才是法規落地之後還活著的那些。",
+          "highlights": [
+            {
+              "title": "語調贏過音質，而且差距不小",
+              "body": "一段錄得很乾淨但把重音放在錯字上的語音，會把聽眾直接從內容裡拉出來。一段稍微壓縮過但斷句自然的語音，反而會像好的旁白一樣融進背景裡。我在節奏、重音、換氣位置上給的分數高於位元率，因為那才是決定聽眾聽不聽得完的東西。"
+            },
+            {
+              "title": "逐字發音控制才是趕稿時真正能救你的功能",
+              "body": "每一份真實腳本都有產品名、地名或縮寫會被念錯。能用音標覆寫修掉單一個字、又不用重生整段的工具，在長篇內容上直接省下一小時。這是我建議你訂閱前拿自家品牌名去測的第一個功能。"
+            },
+            {
+              "title": "聲音複製的同意權是必要條件，我會一直講",
+              "body": "跟被複製聲音的當事人拿到書面授權，並且留存紀錄。挑選複製流程裡真的有驗證步驟的平台。這個領域的法規正在收緊，今天就把同意流程做嚴的服務，才是兩年後還在幫你跑專案的那幾家。"
+            },
+            {
+              "title": "7 月 23 日的 Grok STT 1.0 透露了語音堆疊的走向",
+              "body": "xAI 認真推出一個語音轉文字模型，等於告訴你前沿實驗室要做的是完整的語音管線，不是選邊站。我預期辨識、合成、複製會整合進同一個平台、同一組帳單關係，這對已經雙向都做的廠商有利，對只做合成的專門戶不利。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.4,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 4,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "fish-audio-openaudio-s1",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.1,
+            "emotionalRange": 8.8,
+            "languageSupport": 8.0,
+            "latency": 8.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 9.8,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 8,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 8.3,
+            "emotionalRange": 7.7,
+            "languageSupport": 8.6,
+            "latency": 7.8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Latest AI Model Releases — July 2026",
+          "url": "https://aireleasetracker.com/latest",
+          "source": "AI Release Tracker"
+        },
+        {
+          "title": "AI Updates Today (July 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Seven Days, Seven Model Releases: The New AI Normal",
+          "url": "https://www.digitalapplied.com/blog/seven-days-seven-releases-july-2026-model-wave",
+          "source": "Digital Applied"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs and Inworld TTS-1.5 Max stay tied at the top, and they win on different axes that both matter. ElevenLabs holds first on voice quality and cloning fidelity, producing speech with breath, hesitation, and emphasis that survives close listening on headphones. For audiobook narration and character work where a listener spends hours with one voice, that naturalness is the deciding factor. Inworld TTS-1.5 Max matches it on score by leading on latency and cost at scale, which makes it the better engine behind a live conversational product where round trip time shapes the experience. Cartesia Sonic 3 holds third with the lowest latency in the category, and I recommend it for real time agents where a delay of a few hundred milliseconds breaks the illusion of conversation. Hume AI Octave 2 sits fourth and leads on emotional expressiveness. Alibaba released Qwen-Audio-3.0-TTS Plus on July 20, which continues the pattern of the open ecosystem closing ground on hosted providers. Pick by workload: long form narration goes to ElevenLabs, live agents go to Cartesia or Inworld, and emotional range goes to Hume.",
+          "highlights": [
+            {
+              "title": "ElevenLabs wins where a listener spends hours with one voice",
+              "body": "Breath, hesitation, and natural emphasis survive close listening on headphones, which is what audiobook narration and character work demand. Over a multi hour listen, small unnaturalness compounds into fatigue, and this is the engine that avoids it best."
+            },
+            {
+              "title": "For live agents, latency outranks voice quality",
+              "body": "A few hundred milliseconds of delay breaks the sense of conversation more than a slightly synthetic timbre does. Cartesia Sonic 3 delivers the lowest latency in the category, which makes it the right engine behind a real time voice product even against more natural sounding alternatives."
+            },
+            {
+              "title": "The open audio ecosystem keeps closing ground",
+              "body": "Alibaba shipped Qwen-Audio-3.0-TTS Plus on July 20, continuing a pattern where open and lower cost options reach quality levels that were exclusive to hosted providers a year ago. For high volume workloads, evaluating those options before signing a large contract is now worth the time."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ElevenLabs 跟 Inworld TTS-1.5 Max 分數並列頂端，它們贏在不同的軸上，兩個軸都重要。\n\nElevenLabs 靠語音品質跟複製擬真度守住第一，換氣、遲疑、重音都在，戴耳機仔細聽也撐得住。有聲書旁白或角色配音這種聽眾要跟同一個聲音相處好幾小時的場合，自然度就是決勝點。\n\nInworld TTS-1.5 Max 分數追平，靠的是延遲跟大規模成本，做即時對話產品、來回時間直接決定體驗的話，它是更好的引擎。\n\nCartesia Sonic 3 守第三，延遲是全品類最低的，即時代理只要延遲幾百毫秒，對話的錯覺就破了，這種場合我推它。\n\nHume AI Octave 2 第四，情緒表現力領先。\n\n阿里巴巴 7 月 20 日推出 Qwen-Audio-3.0-TTS Plus，延續開放生態持續追上託管服務的趨勢。\n\n照工作負載選：長篇旁白選 ElevenLabs，即時代理選 Cartesia 或 Inworld，情緒幅度選 Hume。",
+          "highlights": [
+            {
+              "title": "聽眾要跟同一個聲音相處好幾小時的場合，ElevenLabs 贏",
+              "body": "換氣、遲疑、自然重音在耳機近聽下都撐得住，這正是有聲書旁白跟角色配音要求的。聽好幾個小時下來，一點點不自然會累積成疲勞，這個引擎閃得最好。"
+            },
+            {
+              "title": "即時代理，延遲比音質重要",
+              "body": "幾百毫秒的延遲對「這是在對話」這個感覺的破壞，比一點點合成感的音色大得多。Cartesia Sonic 3 的延遲是全品類最低的，即時語音產品的後端就該選它，就算對手聽起來更自然也一樣。"
+            },
+            {
+              "title": "開放音訊生態持續追上來",
+              "body": "阿里巴巴 7 月 20 日推出 Qwen-Audio-3.0-TTS Plus，延續了開放與低成本方案達到一年前只有託管服務才有的品質這個趨勢。要跑大量負載的話，簽大約之前先評估這些選項現在很值得花時間。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -135,7 +135,7 @@
       "id": "frigidaire-fhpc102ac1",
       "name": "Frigidaire FHPC102AC1 3-in-1",
       "brand": "Frigidaire",
-      "url": "https://www.amazon.com/Frigidaire-FHPC102AC1-Portable-Conditioner-Refrigerant/dp/B0CWLJ3T1Q",
+      "url": "https://www.townappliance.com/products/frigidaire-fhpc102ac1-portable-air-conditioner",
       "i18n": {
         "en": {
           "description": "10,000 BTU (6,500 BTU SACC) single-hose with R-32 refrigerant, sleep mode, ionizer, and Frigidaire reliability for bedrooms up to 250 sq ft.",
@@ -192,6 +192,22 @@
         "zh-tw": {
           "description": "這個價位的雙管老將，14,000 BTU、SACC 9,500，第二條管路直接從室外抽排氣。內建除濕與自動排水，台灣夏天那種濕黏的午後它扛得住。",
           "priceRange": "約 NT$14,100"
+        }
+      }
+    },
+    {
+      "id": "ecoflow-wave-3",
+      "name": "WAVE 3",
+      "brand": "EcoFlow",
+      "url": "https://www.ecoflow.com/us/wave-3-portable-air-conditioner",
+      "i18n": {
+        "en": {
+          "description": "A dual-hose unit with 6,100 BTU of cooling and 6,800 BTU of heating, built around a 1,024Wh LFP battery that runs 8 hours off-grid in Eco mode, using R290 refrigerant and dropping a small space 15 degrees in 15 minutes.",
+          "priceRange": "$1,099–$1,299"
+        },
+        "zh-tw": {
+          "description": "雙軟管設計，6,100 BTU 冷房加 6,800 BTU 暖房，內建 1024Wh 磷酸鋰鐵電池，Eco 模式離電也能跑 8 小時，用的是 R290 冷媒，小空間 15 分鐘就能降 8 度。露營、車宿，或是租屋處根本不能裝窗型的人，這台是我想得到最直接的解法。",
+          "priceRange": "約 NT$35,000"
         }
       }
     }
@@ -10814,8 +10830,20 @@
           }
         },
         {
-          "id": "black-decker-bpact14wt",
+          "id": "ecoflow-wave-3",
           "rank": 9,
+          "score": 8.2,
+          "scores": {
+            "cooling": 7.6,
+            "noise": 8.6,
+            "efficiency": 9.2,
+            "smart": 9.0,
+            "value": 7.2
+          }
+        },
+        {
+          "id": "black-decker-bpact14wt",
+          "rank": 10,
           "score": 7.8,
           "scores": {
             "cooling": 8.5,
@@ -10827,7 +10855,7 @@
         },
         {
           "id": "koolsiln-14000-btu",
-          "rank": 10,
+          "rank": 11,
           "score": 7.5,
           "scores": {
             "cooling": 7.5,
@@ -10839,7 +10867,7 @@
         },
         {
           "id": "frigidaire-fhpc102ac1",
-          "rank": 11,
+          "rank": 12,
           "score": 7.2,
           "scores": {
             "cooling": 7.0,

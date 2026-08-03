@@ -12824,6 +12824,442 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-31",
+      "rankings": [
+        {
+          "id": "fathom",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "transcriptionQuality": 8.9,
+            "integrations": 8,
+            "userExperience": 9.2,
+            "privacy": 8.7,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "granola",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "transcriptionQuality": 9.2,
+            "integrations": 8.5,
+            "userExperience": 9.8,
+            "privacy": 9.1,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "fireflies",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 9.9,
+            "userExperience": 8.4,
+            "privacy": 8.2,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "otter-ai",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "transcriptionQuality": 9.1,
+            "integrations": 8.6,
+            "userExperience": 8.6,
+            "privacy": 8,
+            "valueForMoney": 8.3
+          }
+        },
+        {
+          "id": "fellow",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 8.8,
+            "userExperience": 8,
+            "privacy": 9.5,
+            "valueForMoney": 9
+          }
+        },
+        {
+          "id": "tldv",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 7.8,
+            "userExperience": 8.5,
+            "privacy": 8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "read-ai",
+          "rank": 7,
+          "score": 8.1,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 8.2,
+            "userExperience": 8.8,
+            "privacy": 8,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "krisp",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "transcriptionQuality": 8,
+            "integrations": 7.5,
+            "userExperience": 9,
+            "privacy": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "zoom-ai-companion",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "transcriptionQuality": 8,
+            "integrations": 7.5,
+            "userExperience": 8.5,
+            "privacy": 8,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "avoma",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "transcriptionQuality": 8,
+            "integrations": 8.5,
+            "userExperience": 7.5,
+            "privacy": 8,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "circleback",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "transcriptionQuality": 8.2,
+            "integrations": 8.5,
+            "userExperience": 8,
+            "privacy": 8,
+            "valueForMoney": 6.8
+          }
+        },
+        {
+          "id": "microsoft-365-copilot",
+          "rank": 12,
+          "score": 7.6,
+          "scores": {
+            "transcriptionQuality": 8,
+            "integrations": 9.5,
+            "userExperience": 7,
+            "privacy": 8.5,
+            "valueForMoney": 6.2
+          }
+        },
+        {
+          "id": "gong",
+          "rank": 13,
+          "score": 7.3,
+          "scores": {
+            "transcriptionQuality": 9,
+            "integrations": 9,
+            "userExperience": 7.5,
+            "privacy": 8.5,
+            "valueForMoney": 4.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "July 2026 AI Releases: OpenAI, Anthropic, Google DeepMind, Cognition",
+          "url": "https://thursdai.news/releases/2026-07",
+          "source": "ThursdAI"
+        },
+        {
+          "title": "LLM News Today (July 2026) - AI Model Releases",
+          "url": "https://llm-stats.com/ai-news",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "AI by AI Weekly Top 5: July 20-26, 2026",
+          "url": "https://champaignmagazine.com/2026/07/26/ai-by-ai-weekly-top-5-july-20-26-2026/",
+          "source": "Champaign Magazine"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Meeting assistants are a category where the underlying model matters less than people assume, so a week of frontier model launches leaves this ranking untouched. What actually decides whether one of these tools survives in a company is whether it joins the call reliably, whether the action items it extracts are the ones a human would have written down, and whether legal signs off on where the recording lives. I weight those three things heavily and I stand by that. The one development worth flagging is on cost. Anthropic's Opus 5 arrived on July 24 at half the previous flagship token price and OpenAI cut GPT-5.6 pricing hard the same week, which matters here because summarisation is a long-context, high-volume workload. A company running three hundred meetings a week has been paying real money for that. I expect the per-seat pricing in this category to feel that within a quarter, most likely as higher included transcription hours rather than a headline price cut. My advice for a buyer this week is unchanged: run a two-week trial with your noisiest recurring meeting, the one with four accents and a bad conference speaker, then read the summaries against your own notes. Accuracy on a clean one-to-one call tells you nothing. The messy standup is where these tools separate.",
+          "highlights": [
+            {
+              "title": "Join reliability outranks summary quality and I will keep scoring it that way",
+              "body": "An assistant that misses one meeting in twenty has failed at the only job it has, because the meeting it missed is the one you needed. Calendar integration, waiting-room handling, and recovery when a call moves platforms mid-session are unglamorous and they are what separates a tool people keep from one that quietly gets uninstalled in month three."
+            },
+            {
+              "title": "Test on your worst meeting, because the clean ones prove nothing",
+              "body": "Every assistant in this table handles a two-person call on good microphones. The differences show up with crosstalk, accents, a bad room speaker, and someone dialling in from a car. Run your two-week trial on the messiest recurring meeting you have and read the action items against what you actually wrote down."
+            },
+            {
+              "title": "Where the recording lives decides more enterprise deals than accuracy does",
+              "body": "Data residency, retention controls, and admin-level deletion are the questions that stop a rollout, and they are the reason a slightly less accurate tool wins a large account. If you are buying for a team rather than yourself, get your compliance answer before you get attached to a summary format."
+            },
+            {
+              "title": "The late-July price cuts should reach this category as included hours",
+              "body": "Opus 5 landed on July 24 at roughly half the previous flagship token cost and OpenAI cut GPT-5.6 pricing the same week. Summarisation is exactly the long-context, high-volume workload that benefits. I expect vendors to pass this through as more transcription hours per seat, so it is worth asking your rep about tier limits before you renew."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "會議助理這個品類，底層模型的重要性比大家以為的低，所以這禮拜前沿模型連環發表，這張排名一動也沒動。\n\n真正決定一個工具在公司裡活不活得下來的是三件事：它會不會穩定加入會議、它抓出來的待辦是不是人類自己也會記下來的那幾條、還有法務願不願意接受錄音檔存放的位置。這三項我給的權重很重，而且我不打算改。\n\n唯一值得標記的是成本。Anthropic 的 Opus 5 在 7 月 24 日以前一代旗艦一半的價格上線，OpenAI 同一週把 GPT-5.6 的價格砍很兇。這件事在這裡特別有意義，因為會議摘要就是典型的長脈絡、高流量工作負載。一間公司一週開三百場會，這筆錢是真的在燒。\n\n我預期一季內每席次的定價會反映這件事，形式大概率是「內含轉錄時數變多」而不是直接降價。\n\n給這禮拜要採購的人的建議沒變：拿你最吵的那場例會去跑兩週試用，就是那種四種口音加一支爛會議喇叭的場子，然後把摘要跟你自己的筆記對一遍。乾淨的一對一通話準確度說明不了任何事，亂七八糟的站立會議才是分勝負的地方。",
+          "highlights": [
+            {
+              "title": "「會不會準時進來」比摘要品質重要，我會一直這樣評分",
+              "body": "一個二十場會漏掉一場的助理，等於在它唯一的工作上失敗了，因為漏掉的那場一定就是你最需要的那場。行事曆整合、等候室處理、會議中途換平台後能不能接回來，這些都不性感，但它們決定了一個工具是被留下來還是在第三個月被默默解除安裝。"
+            },
+            {
+              "title": "拿你最爛的那場會去測，乾淨的會議證明不了任何事",
+              "body": "這張表裡每一個助理都能處理兩個人、好麥克風的通話。差異出現在有人搶話、有口音、會議室喇叭很爛、還有人在車上撥進來的時候。兩週試用就挑你最亂的那場例會，然後把它抓的待辦跟你實際記下來的對一遍。"
+            },
+            {
+              "title": "決定企業案子的常常是錄音存在哪裡，不是準確度",
+              "body": "資料存放地、保存期限控制、管理員層級的刪除權限，這些問題會直接卡住導入，也是一個準確度稍差的工具拿下大客戶的原因。如果你是幫團隊採購而不是自己用，先把法遵的答案問到手，再去愛上某一家的摘要格式。"
+            },
+            {
+              "title": "七月下旬的降價，在這個品類應該會變成內含時數",
+              "body": "Opus 5 在 7 月 24 日以大約前一代旗艦一半的 token 成本上線，OpenAI 同一週也砍了 GPT-5.6 的價格。會議摘要正是那種長脈絡、高流量、最受惠的工作負載。我預期廠商會用「每席次轉錄時數變多」的方式回饋，所以續約前值得跟業務問一下各層級的時數上限。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "rankings": [
+        {
+          "id": "fathom",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "transcriptionQuality": 8.9,
+            "integrations": 8,
+            "userExperience": 9.2,
+            "privacy": 8.7,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "granola",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "transcriptionQuality": 9.2,
+            "integrations": 8.5,
+            "userExperience": 9.8,
+            "privacy": 9.1,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "fireflies",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 9.9,
+            "userExperience": 8.4,
+            "privacy": 8.2,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "otter-ai",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "transcriptionQuality": 9.1,
+            "integrations": 8.6,
+            "userExperience": 8.6,
+            "privacy": 8,
+            "valueForMoney": 8.3
+          }
+        },
+        {
+          "id": "fellow",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 8.8,
+            "userExperience": 8,
+            "privacy": 9.5,
+            "valueForMoney": 9
+          }
+        },
+        {
+          "id": "tldv",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 7.8,
+            "userExperience": 8.5,
+            "privacy": 8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "read-ai",
+          "rank": 7,
+          "score": 8.1,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 8.2,
+            "userExperience": 8.8,
+            "privacy": 8,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "krisp",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "transcriptionQuality": 8,
+            "integrations": 7.5,
+            "userExperience": 9,
+            "privacy": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "zoom-ai-companion",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "transcriptionQuality": 8,
+            "integrations": 7.5,
+            "userExperience": 8.5,
+            "privacy": 8,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "avoma",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "transcriptionQuality": 8,
+            "integrations": 8.5,
+            "userExperience": 7.5,
+            "privacy": 8,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "circleback",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "transcriptionQuality": 8.2,
+            "integrations": 8.5,
+            "userExperience": 8,
+            "privacy": 8,
+            "valueForMoney": 6.8
+          }
+        },
+        {
+          "id": "microsoft-365-copilot",
+          "rank": 12,
+          "score": 7.6,
+          "scores": {
+            "transcriptionQuality": 8,
+            "integrations": 9.5,
+            "userExperience": 7,
+            "privacy": 8.5,
+            "valueForMoney": 6.2
+          }
+        },
+        {
+          "id": "gong",
+          "rank": 13,
+          "score": 7.3,
+          "scores": {
+            "transcriptionQuality": 9,
+            "integrations": 9,
+            "userExperience": 7.5,
+            "privacy": 8.5,
+            "valueForMoney": 4.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (July 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Seven Days, Seven Model Releases: The New AI Normal",
+          "url": "https://www.digitalapplied.com/blog/seven-days-seven-releases-july-2026-model-wave",
+          "source": "Digital Applied"
+        },
+        {
+          "title": "Latest AI Model Releases — July 2026",
+          "url": "https://aireleasetracker.com/latest",
+          "source": "AI Release Tracker"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Fathom holds first, and the reason is that it produces summaries I actually forward to people who missed the call. Most meeting assistants generate a transcript with a paragraph of highlights on top, which leaves the reader doing the work. Fathom identifies decisions and action items with the specific owner attached, and that structure is what makes a summary useful to someone who was not in the room. Its free tier is also genuinely usable rather than a trial in disguise. Granola sits second and takes a different approach that suits a particular working style very well, blending your own typed notes with the transcript so the output reflects what you thought was important. For anyone who takes notes anyway, that hybrid is better than a purely automated summary. Fireflies.ai holds third on integration breadth, connecting to more CRM and project tools than anything else here, which matters for a sales team that needs call outcomes landing in a pipeline automatically. Otter.ai sits fourth with the longest track record and the most reliable live transcription. Choose by what happens after the meeting rather than by transcription accuracy, since every tool here transcribes well enough.",
+          "highlights": [
+            {
+              "title": "A summary is only useful if someone who missed the call can act on it",
+              "body": "Fathom attaches specific owners to decisions and action items, which turns a summary into something forwardable. A transcript with a paragraph of highlights leaves the reader doing the extraction work, and that is why most meeting notes go unread."
+            },
+            {
+              "title": "Granola suits people who take their own notes",
+              "body": "Blending your typed notes with the transcript produces output that reflects what you judged important, rather than what an algorithm scored as salient. If you were going to take notes anyway, this hybrid captures your judgment and fills in everything you missed."
+            },
+            {
+              "title": "Sales teams should choose on integration breadth",
+              "body": "Fireflies.ai connects to more CRM and project management tools than anything else here, which means call outcomes land in your pipeline without a manual step. For a team running many calls a week, removing that copy and paste is worth more than a better written summary."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Fathom 守第一，理由是它產出的摘要我真的會轉發給沒開到會的人。\n\n多數會議助理就是給你一份逐字稿，上面放一段重點，讀的人還是得自己整理。Fathom 會把決議跟待辦抓出來，還標上負責人，這個結構才讓摘要對不在場的人有用。\n\n它的免費方案也是真的能用，不是變相試用。\n\nGranola 排第二，走的是另一條路，非常適合某種工作習慣。它把你自己打的筆記跟逐字稿融合，輸出會反映你當下認為重要的東西。本來就會做筆記的人，這種混合模式比純自動摘要好用。\n\nFireflies.ai 守第三，整合廣度最強，接的 CRM 跟專案工具比這裡任何一個都多，業務團隊要讓通話結果自動落進 pipeline 的話很關鍵。\n\nOtter.ai 第四，資歷最久，即時逐字稿最穩。\n\n挑選請看「會後發生什麼事」而不是逐字稿準確度，這裡每個工具轉錄都夠準了。",
+          "highlights": [
+            {
+              "title": "摘要要能讓沒開到會的人直接行動，才叫有用",
+              "body": "Fathom 會把決議跟待辦標上具體負責人，摘要因此變成可以直接轉發的東西。逐字稿加一段重點，等於把整理工作丟給讀的人，這也是多數會議紀錄沒人看的原因。"
+            },
+            {
+              "title": "Granola 適合本來就會自己做筆記的人",
+              "body": "把你打的筆記跟逐字稿融合，輸出反映的是你判斷重要的東西，而不是演算法算出來的顯著度。反正你都要記筆記，這種混合模式留住你的判斷，同時補齊你漏掉的部分。"
+            },
+            {
+              "title": "業務團隊要看整合廣度",
+              "body": "Fireflies.ai 串接的 CRM 跟專案管理工具比這裡任何一個都多，通話結果不用手動就會落進 pipeline。一週要跑很多通電話的團隊，省掉這段複製貼上，比摘要寫得漂亮值錢。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

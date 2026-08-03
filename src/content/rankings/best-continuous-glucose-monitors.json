@@ -58,11 +58,11 @@
       "url": "https://www.dexcom.com/en-us/g7-cgm-system",
       "i18n": {
         "en": {
-          "description": "The accuracy benchmark with an 8% MARD, a 30-minute warmup and insulin-pump integration, the CGM I trust most for medical-grade glucose management.",
+          "description": "The accuracy benchmark at 8.2% MARD with a 30-minute warmup, native Apple Watch support and insulin-pump integration, cleared down to age 2, the CGM I trust most for medical-grade glucose management.",
           "priceRange": "$89+ / sensor"
         },
         "zh-tw": {
-          "description": "精準度標竿，MARD 只有 8%，暖機 30 分鐘就能用，還能跟胰島素幫浦連動，要醫療級血糖管理我最信任這台。",
+          "description": "精準度標竿，MARD 8.2%，暖機 30 分鐘就能用，Apple Watch 原生支援，還能跟胰島素幫浦連動，而且兩歲以上就能用。要醫療級血糖管理，我最信任這台。",
           "priceRange": "約 NT$2,800 / 感測器"
         }
       }
@@ -178,6 +178,38 @@
           "priceRange": "約 NT$900 / 月"
         }
       }
+    },
+    {
+      "id": "dexcom-g7-15-day",
+      "name": "G7 15 Day",
+      "brand": "Dexcom",
+      "url": "https://www.dexcom.com/g7-15-day-sensor-fda",
+      "i18n": {
+        "en": {
+          "description": "The accuracy leader at 8.0% MARD, holding that precision across a full 15.5 days of wear with a 12-hour grace period, which cuts sensor changes by a third compared with the 10-day G7.",
+          "priceRange": "$89+ / 15-day sensor"
+        },
+        "zh-tw": {
+          "description": "目前精準度最高的感測器，MARD 壓到 8.0%，一片能貼 15.5 天還附 12 小時緩衝期，換片頻率比 10 天版的 G7 直接少掉三分之一。要醫療級管理又懶得一直換片，我會先看它。",
+          "priceRange": "約 NT$2,800 / 15天感測器"
+        }
+      }
+    },
+    {
+      "id": "eversense-365",
+      "name": "Eversense 365",
+      "brand": "Senseonics",
+      "url": "https://www.eversensecgm.com/eversense-365/",
+      "i18n": {
+        "en": {
+          "description": "A fully implantable sensor placed under the upper-arm skin that reports glucose for a full year on a single insertion, holding an 8.8% MARD across all 365 days with a removable rechargeable transmitter.",
+          "priceRange": "$199–$1,000 / yr"
+        },
+        "zh-tw": {
+          "description": "植入式感測器，埋在上臂皮下一次就能撐滿一年，MARD 8.8% 而且是整整 365 天都維持這個水準，外面那顆發射器可以拆下來充電。說真的，受不了每兩週撕貼片換感測器的人，目前只有這條路。",
+          "priceRange": "約 NT$6,400–32,000 / 年"
+        }
+      }
     }
   ],
   "history": [
@@ -197,8 +229,20 @@
           }
         },
         {
-          "id": "abbott-lingo",
+          "id": "dexcom-g7-15-day",
           "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "accuracy": 9.8,
+            "wearTime": 9.3,
+            "dailyCost": 7.8,
+            "app": 9.0,
+            "coaching": 8.5
+          }
+        },
+        {
+          "id": "abbott-lingo",
+          "rank": 3,
           "score": 9.0,
           "scores": {
             "accuracy": 9.0,
@@ -210,7 +254,7 @@
         },
         {
           "id": "dexcom-g7",
-          "rank": 3,
+          "rank": 4,
           "score": 8.9,
           "scores": {
             "accuracy": 9.6,
@@ -222,7 +266,7 @@
         },
         {
           "id": "freestyle-libre-3-plus",
-          "rank": 4,
+          "rank": 5,
           "score": 8.8,
           "scores": {
             "accuracy": 9.3,
@@ -233,8 +277,20 @@
           }
         },
         {
+          "id": "eversense-365",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "accuracy": 8.9,
+            "wearTime": 10.0,
+            "dailyCost": 7.6,
+            "app": 8.2,
+            "coaching": 8.0
+          }
+        },
+        {
           "id": "levels",
-          "rank": 5,
+          "rank": 7,
           "score": 8.5,
           "scores": {
             "accuracy": 8.8,
@@ -246,7 +302,7 @@
         },
         {
           "id": "nutrisense",
-          "rank": 6,
+          "rank": 8,
           "score": 8.4,
           "scores": {
             "accuracy": 8.8,
@@ -258,7 +314,7 @@
         },
         {
           "id": "signos",
-          "rank": 7,
+          "rank": 9,
           "score": 8.2,
           "scores": {
             "accuracy": 8.6,
@@ -270,7 +326,7 @@
         },
         {
           "id": "ultrahuman-m1",
-          "rank": 8,
+          "rank": 10,
           "score": 8.0,
           "scores": {
             "accuracy": 8.4,
@@ -282,7 +338,7 @@
         },
         {
           "id": "sibionics-gs3",
-          "rank": 9,
+          "rank": 11,
           "score": 7.8,
           "scores": {
             "accuracy": 8.0,
@@ -294,7 +350,7 @@
         },
         {
           "id": "january-ai",
-          "rank": 10,
+          "rank": 12,
           "score": 7.5,
           "scores": {
             "accuracy": 7.0,

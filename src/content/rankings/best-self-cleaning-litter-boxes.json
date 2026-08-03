@@ -184,25 +184,163 @@
     {
       "date": "2026-07-29",
       "rankings": [
-        { "id": "litter-robot-4", "rank": 1, "score": 9.3, "scores": { "safety": 9.6, "odor": 9.2, "capacity": 9.4, "health": 8.9, "value": 8.8 } },
-        { "id": "litter-robot-5-pro", "rank": 2, "score": 9.1, "scores": { "safety": 9.5, "odor": 9.5, "capacity": 9.7, "health": 9.6, "value": 7.4 } },
-        { "id": "petkit-purobot-ultra", "rank": 3, "score": 8.9, "scores": { "safety": 9.3, "odor": 9.4, "capacity": 9.5, "health": 9.4, "value": 7.2 } },
-        { "id": "petkit-purobot-max-pro-2", "rank": 4, "score": 8.6, "scores": { "safety": 8.8, "odor": 8.9, "capacity": 8.7, "health": 9.2, "value": 8.5 } },
-        { "id": "neakasa-m1", "rank": 5, "score": 8.3, "scores": { "safety": 8.7, "odor": 7.6, "capacity": 9.0, "health": 7.8, "value": 8.8 } },
-        { "id": "casa-leo-leos-loo-too", "rank": 6, "score": 8.1, "scores": { "safety": 8.5, "odor": 8.8, "capacity": 7.9, "health": 7.6, "value": 7.8 } },
-        { "id": "petkit-purobot-max-3", "rank": 7, "score": 8.0, "scores": { "safety": 8.6, "odor": 8.4, "capacity": 8.0, "health": 8.0, "value": 8.7 } },
-        { "id": "catlink-scooper-luxury-pro-x", "rank": 8, "score": 7.7, "scores": { "safety": 8.4, "odor": 7.9, "capacity": 8.8, "health": 7.7, "value": 8.0 } },
-        { "id": "petsafe-scoopfree-smartspin", "rank": 9, "score": 7.5, "scores": { "safety": 7.9, "odor": 8.2, "capacity": 7.4, "health": 7.2, "value": 7.9 } },
-        { "id": "meowant-mw-sc01", "rank": 10, "score": 7.2, "scores": { "safety": 7.6, "odor": 7.3, "capacity": 7.2, "health": 6.9, "value": 8.6 } }
+        {
+          "id": "litter-robot-4",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "safety": 9.6,
+            "odor": 9.2,
+            "capacity": 9.4,
+            "health": 8.9,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "litter-robot-5-pro",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "safety": 9.5,
+            "odor": 9.5,
+            "capacity": 9.7,
+            "health": 9.6,
+            "value": 7.4
+          }
+        },
+        {
+          "id": "petkit-purobot-ultra",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "safety": 9.3,
+            "odor": 9.4,
+            "capacity": 9.5,
+            "health": 9.4,
+            "value": 7.2
+          }
+        },
+        {
+          "id": "petkit-purobot-max-pro-2",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "safety": 8.8,
+            "odor": 8.9,
+            "capacity": 8.7,
+            "health": 9.2,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "neakasa-m1",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "safety": 8.7,
+            "odor": 7.6,
+            "capacity": 9.0,
+            "health": 7.8,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "casa-leo-leos-loo-too",
+          "rank": 6,
+          "score": 8.1,
+          "scores": {
+            "safety": 8.5,
+            "odor": 8.8,
+            "capacity": 7.9,
+            "health": 7.6,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "petkit-purobot-max-3",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "safety": 8.6,
+            "odor": 8.4,
+            "capacity": 8.0,
+            "health": 8.0,
+            "value": 8.7
+          }
+        },
+        {
+          "id": "catlink-scooper-luxury-pro-x",
+          "rank": 8,
+          "score": 7.7,
+          "scores": {
+            "safety": 8.4,
+            "odor": 7.9,
+            "capacity": 8.8,
+            "health": 7.7,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "petsafe-scoopfree-smartspin",
+          "rank": 9,
+          "score": 7.5,
+          "scores": {
+            "safety": 7.9,
+            "odor": 8.2,
+            "capacity": 7.4,
+            "health": 7.2,
+            "value": 7.9
+          }
+        },
+        {
+          "id": "meowant-mw-sc01",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "safety": 7.6,
+            "odor": 7.3,
+            "capacity": 7.2,
+            "health": 6.9,
+            "value": 8.6
+          }
+        }
       ],
       "references": [
-        { "title": "The best self-cleaning litter boxes in 2026: Tested and reviewed", "url": "https://www.cnn.com/cnn-underscored/reviews/best-self-cleaning-litter-boxes", "source": "CNN Underscored" },
-        { "title": "Litter-Robot 5 Review: We Tested It", "url": "https://cats.com/litter-robot-5-review", "source": "Cats.com" },
-        { "title": "Litter-Robot 4 vs 5 — What Really Changed?", "url": "https://www.whisker.com/blog/litter-robot-4-vs-5", "source": "Whisker" },
-        { "title": "Litter-Robot 4 vs PETKIT Pura Max: Which Self-Cleaning Litter Box Wins in 2026?", "url": "https://smartpetgearlab.com/posts/litter-robot-4-vs-petkit-pura-max/", "source": "Smart Pet Gear Lab" },
-        { "title": "Petkit Purobot Max Pro 2 Review 2026: Vet Tested", "url": "https://availpet.com/petkit-purobot-max-pro-2-review/", "source": "AvailPet" },
-        { "title": "Neakasa M1 Open Top Self-Cleaning Litter Box Review 2026", "url": "https://www.catster.com/lifestyle/neakasa-m1-open-top-self-cleaning-litter-box-review/", "source": "Catster" },
-        { "title": "I Tested PetSafe's Self-Cleaning Litter Box: Review & Photos", "url": "https://www.apartmenttherapy.com/petsafe-scoopfree-smartspin-self-cleaning-litter-box-review-ll-37424985", "source": "Apartment Therapy" }
+        {
+          "title": "The best self-cleaning litter boxes in 2026: Tested and reviewed",
+          "url": "https://www.cnn.com/cnn-underscored/reviews/best-self-cleaning-litter-boxes",
+          "source": "CNN Underscored"
+        },
+        {
+          "title": "Litter-Robot 5 Review: We Tested It",
+          "url": "https://cats.com/litter-robot-5-review",
+          "source": "Cats.com"
+        },
+        {
+          "title": "Litter-Robot 4 vs 5 — What Really Changed?",
+          "url": "https://www.whisker.com/blog/litter-robot-4-vs-5",
+          "source": "Whisker"
+        },
+        {
+          "title": "Litter-Robot 4 vs PETKIT Pura Max: Which Self-Cleaning Litter Box Wins in 2026?",
+          "url": "https://smartpetgearlab.com/posts/litter-robot-4-vs-petkit-pura-max/",
+          "source": "Smart Pet Gear Lab"
+        },
+        {
+          "title": "Petkit Purobot Max Pro 2 Review 2026: Vet Tested",
+          "url": "https://availpet.com/petkit-purobot-max-pro-2-review/",
+          "source": "AvailPet"
+        },
+        {
+          "title": "Neakasa M1 Open Top Self-Cleaning Litter Box Review 2026",
+          "url": "https://www.catster.com/lifestyle/neakasa-m1-open-top-self-cleaning-litter-box-review/",
+          "source": "Catster"
+        },
+        {
+          "title": "I Tested PetSafe's Self-Cleaning Litter Box: Review & Photos",
+          "url": "https://www.apartmenttherapy.com/petsafe-scoopfree-smartspin-self-cleaning-litter-box-review-ll-37424985",
+          "source": "Apartment Therapy"
+        }
       ],
       "i18n": {
         "en": {
@@ -252,6 +390,370 @@
             {
               "title": "平價選項今年真的能用，一萬塊有找就買得到堪用機",
               "body": "299 美元的 Meowant MW-SC01 運轉低於 40 分貝，礦砂豆腐砂混合砂通吃，入口只有 4.8 吋高，台幣大概一萬以內；439 美元的 CATLINK Scooper Luxury Pro-X 給多貓家庭 65 公升滾筒、13 公升集便抽屜跟含微波雷達的四道安全機制。這兩台篩砂精準度都比不上 Litter-Robot 4，集便桶也比較小要更常倒。但如果你家只有一隻 15 磅以下的室內貓，住的又是台北那種坪數，這個取捨完全說得過去，而且今年是我第一次可以毫不猶豫這樣講。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-07-31",
+      "rankings": [
+        {
+          "id": "litter-robot-4",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "safety": 9.6,
+            "odor": 9.2,
+            "capacity": 9.4,
+            "health": 8.9,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "litter-robot-5-pro",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "safety": 9.5,
+            "odor": 9.5,
+            "capacity": 9.7,
+            "health": 9.6,
+            "value": 7.4
+          }
+        },
+        {
+          "id": "petkit-purobot-ultra",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "safety": 9.3,
+            "odor": 9.4,
+            "capacity": 9.5,
+            "health": 9.4,
+            "value": 7.2
+          }
+        },
+        {
+          "id": "petkit-purobot-max-pro-2",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "safety": 8.8,
+            "odor": 8.9,
+            "capacity": 8.7,
+            "health": 9.2,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "neakasa-m1",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "safety": 8.7,
+            "odor": 7.6,
+            "capacity": 9.0,
+            "health": 7.8,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "casa-leo-leos-loo-too",
+          "rank": 6,
+          "score": 8.1,
+          "scores": {
+            "safety": 8.5,
+            "odor": 8.8,
+            "capacity": 7.9,
+            "health": 7.6,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "petkit-purobot-max-3",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "safety": 8.6,
+            "odor": 8.4,
+            "capacity": 8.0,
+            "health": 8.0,
+            "value": 8.7
+          }
+        },
+        {
+          "id": "catlink-scooper-luxury-pro-x",
+          "rank": 8,
+          "score": 7.7,
+          "scores": {
+            "safety": 8.4,
+            "odor": 7.9,
+            "capacity": 8.8,
+            "health": 7.7,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "petsafe-scoopfree-smartspin",
+          "rank": 9,
+          "score": 7.5,
+          "scores": {
+            "safety": 7.9,
+            "odor": 8.2,
+            "capacity": 7.4,
+            "health": 7.2,
+            "value": 7.9
+          }
+        },
+        {
+          "id": "meowant-mw-sc01",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "safety": 7.6,
+            "odor": 7.3,
+            "capacity": 7.2,
+            "health": 6.9,
+            "value": 8.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "FCC Bans New Foreign-Made Robot Vacuums",
+          "url": "https://www.macrumors.com/2026/07/30/foreign-made-robot-vacuums-ban/",
+          "source": "MacRumors"
+        },
+        {
+          "title": "Robot Vacuum Flaw Could Give Hackers Control Over Millions of Home Devices",
+          "url": "https://securityledger.com/2026/07/robot-vacuum-flaw-could-give-hackers-control-over-millions-of-home-devices/",
+          "source": "The Security Ledger"
+        },
+        {
+          "title": "Smart Home News",
+          "url": "https://www.tomsguide.com/uk/home/smart-home/news/page/2",
+          "source": "Tom's Guide"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "This ranking is new and it holds this week, and the connected-device news of the past three weeks is directly relevant. Several boxes in this category carry cameras and cloud-connected health monitoring, and the SharkNinja and DJI disclosures showed what a gap in vendor cloud infrastructure can expose. A litter box camera sits in a bathroom or a utility room, which is a placement worth thinking about before you enable the feature. Put these on a guest network and disable the camera if the health tracking is not something you actively use. On the product itself, my scoring priorities are firm. Safety sensing outranks everything, which is why the Litter-Robot 4 leads with five infrared beams and four weight sensors, and supports cats up to 25 pounds. A box that cycles while a cat is inside is a catastrophic failure, and sensor redundancy is the only real defence against it. Second is the consumable bill. Proprietary bags, carbon filters, and clumping litter add up to a meaningful annual cost that the sticker price hides completely, and it is the number most buyers discover in month four. Work out the yearly total before you commit. Third is whether your cat will use it, which no specification predicts. Introduce it slowly and keep the old box available for a fortnight.",
+          "highlights": [
+            {
+              "title": "Sensor redundancy is the only specification that matters for safety",
+              "body": "A box that begins a cycle while a cat is inside is a catastrophic failure, and no marketing claim substitutes for overlapping detection. The Litter-Robot 4 leads this table with five infrared beams and four weight sensors, supporting cats up to 25 pounds. If you have a large cat or a kitten, count the sensors before you compare anything else."
+            },
+            {
+              "title": "Work out the annual consumable bill before the purchase price",
+              "body": "Proprietary waste bags, carbon filters, and the clumping litter these units require add up to a real yearly figure that the shelf price hides completely. Most buyers discover it in month four. Find the part numbers, find the replacement intervals, and calculate the total, because the cheaper box is often the more expensive system."
+            },
+            {
+              "title": "Camera-equipped boxes deserve the same network treatment as any camera",
+              "body": "Several units here carry cameras and cloud health monitoring, and the vendor cloud disclosures of the past three weeks apply directly. This device sits in a bathroom or utility room, which is worth considering before you enable the feature. Put it on a guest network, and switch the camera off if you are not actively using the health tracking."
+            },
+            {
+              "title": "No specification predicts whether your cat will accept it",
+              "body": "The mechanism, the noise, the entry height, and the litter texture all matter to a cat and none of them appear in a comparison table. Introduce the new box gradually, keep the old one available for at least two weeks, and check the return policy before you order. This is the failure mode that no amount of research prevents."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這張排名還很新，這禮拜維持不動，而過去三週的連網裝置新聞跟它直接相關。\n\n這個品類有好幾款貓砂盆帶著鏡頭跟雲端健康監測，而 SharkNinja 與 DJI 的漏洞揭露，示範了廠商雲端架構的缺口能暴露什麼。貓砂盆的鏡頭放在浴室或工作陽台，這個擺放位置在你啟用功能之前值得想一下。把它們放到訪客網路，如果健康追蹤不是你會主動用的功能，就把鏡頭關掉。\n\n產品本身的評分優先順序我很堅定。安全偵測高於一切，這也是 Litter-Robot 4 憑五組紅外線加四組重量感測器、支援 25 磅大貓領先的原因。一台在貓還在裡面時就啟動的貓砂盆是災難級失效，而感測器冗餘是唯一真正的防線。\n\n第二是耗材帳單。專屬垃圾袋、活性碳濾芯、加上必須用的凝結砂，一年加起來是一筆可觀的成本，而標價完全藏住了它，多數買家在第四個月才發現。下單前先把年度總額算出來。\n\n第三是你家的貓會不會用，這件事沒有任何規格預測得到。慢慢引導，舊砂盆留著兩週。",
+          "highlights": [
+            {
+              "title": "安全這件事，唯一重要的規格是感測器冗餘",
+              "body": "一台在貓還在裡面時就開始運轉的貓砂盆是災難級失效，而任何行銷宣稱都取代不了重疊的偵測機制。Litter-Robot 4 以五組紅外線加四組重量感測器領先這張表，支援 25 磅的大貓。家裡有大貓或幼貓的話，先數感測器，再比其他任何東西。"
+            },
+            {
+              "title": "算年度耗材帳單，比看購買價格重要",
+              "body": "專屬垃圾袋、活性碳濾芯、加上這些機器要求的凝結砂，一年加總是一個很實在的數字，而架上標價完全把它藏起來了。多數買家第四個月才發現。把料號找出來、把更換週期找出來、算總額，因為比較便宜的那台常常是比較貴的那套系統。"
+            },
+            {
+              "title": "帶鏡頭的貓砂盆，要用對待任何攝影機的方式對待",
+              "body": "這裡好幾款帶鏡頭跟雲端健康監測，過去三週的廠商雲端漏洞揭露直接適用。這台裝置放在浴室或工作陽台，這件事在你啟用功能前值得想一下。放到訪客網路，健康追蹤不是你主動在用的功能就把鏡頭關掉。"
+            },
+            {
+              "title": "沒有任何規格預測得到你家的貓會不會接受它",
+              "body": "機構、噪音、入口高度、砂子觸感，這些對貓都很重要，而且一項都不會出現在比較表上。新砂盆要慢慢引入，舊的至少留兩週，下單前先確認退貨政策。這是研究做再多也防不了的失效模式。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "rankings": [
+        {
+          "id": "litter-robot-4",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "safety": 9.6,
+            "odor": 9.2,
+            "capacity": 9.4,
+            "health": 8.9,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "litter-robot-5-pro",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "safety": 9.5,
+            "odor": 9.5,
+            "capacity": 9.7,
+            "health": 9.6,
+            "value": 7.4
+          }
+        },
+        {
+          "id": "petkit-purobot-ultra",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "safety": 9.3,
+            "odor": 9.4,
+            "capacity": 9.5,
+            "health": 9.4,
+            "value": 7.2
+          }
+        },
+        {
+          "id": "petkit-purobot-max-pro-2",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "safety": 8.8,
+            "odor": 8.9,
+            "capacity": 8.7,
+            "health": 9.2,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "neakasa-m1",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "safety": 8.7,
+            "odor": 7.6,
+            "capacity": 9.0,
+            "health": 7.8,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "casa-leo-leos-loo-too",
+          "rank": 6,
+          "score": 8.1,
+          "scores": {
+            "safety": 8.5,
+            "odor": 8.8,
+            "capacity": 7.9,
+            "health": 7.6,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "petkit-purobot-max-3",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "safety": 8.6,
+            "odor": 8.4,
+            "capacity": 8.0,
+            "health": 8.0,
+            "value": 8.7
+          }
+        },
+        {
+          "id": "catlink-scooper-luxury-pro-x",
+          "rank": 8,
+          "score": 7.7,
+          "scores": {
+            "safety": 8.4,
+            "odor": 7.9,
+            "capacity": 8.8,
+            "health": 7.7,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "petsafe-scoopfree-smartspin",
+          "rank": 9,
+          "score": 7.5,
+          "scores": {
+            "safety": 7.9,
+            "odor": 8.2,
+            "capacity": 7.4,
+            "health": 7.2,
+            "value": 7.9
+          }
+        },
+        {
+          "id": "meowant-mw-sc01",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "safety": 7.6,
+            "odor": 7.3,
+            "capacity": 7.2,
+            "health": 6.9,
+            "value": 8.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Home Security Robots & Cameras 2026: Complete Guide",
+          "url": "https://therobowire.com/home-security-robots-cameras-2026-complete-guide/",
+          "source": "TheRoboWire"
+        },
+        {
+          "title": "Matter, Thread and the Protocol Wars: How Smart Home Tech Actually Works in 2026",
+          "url": "https://www.dualmedia.com/matter-thread-smart-home-protocols-2026/",
+          "source": "DualMedia"
+        },
+        {
+          "title": "The Best Kitchen & Home Appliances of 2026",
+          "url": "https://www.techgearlab.com/topics/kitchen/best-kitchen-appliances",
+          "source": "TechGearLab"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Litter-Robot 4 holds first, and after a lot of time with these machines I keep landing on the same reason: the globe design with a sifting rotation is the mechanism that handles clumping litter most reliably over months of use. Rake based designs jam when a clump sticks, and the globe simply rotates it into the drawer. The weight sensor also gives you a genuine health signal, since a change in a cat's bathroom frequency or weight often shows up before any visible symptom. Litter-Robot 5 Pro sits second and adds refinements at a higher price. Purobot Ultra holds third and brings camera based monitoring, which appeals if you have multiple cats and want to know who is using the box. One thing I want buyers to plan for honestly: cats need a transition period. Introduce the new box alongside the old one and let them choose for one to two weeks. Rushing that step is the most common reason an expensive automatic box ends up unused, and the mechanism has nothing to do with it. August heat also makes odor control matter more, so empty the drawer more often than the app suggests.",
+          "highlights": [
+            {
+              "title": "The globe and sift mechanism handles clumping litter most reliably",
+              "body": "Rake based designs jam when a clump adheres to the pan, and that jam is what ends most automatic litter boxes. A rotating globe sifts waste into the drawer with nothing to catch on, which is why the Litter-Robot 4 keeps working months after purchase."
+            },
+            {
+              "title": "The weight sensor is a real health monitor for your cat",
+              "body": "A change in bathroom frequency or a gradual weight loss often appears before any visible symptom, and urinary problems in cats escalate fast. Having that data logged automatically gives you a reason to visit the vet earlier, which is the most valuable thing this machine does."
+            },
+            {
+              "title": "Give your cat two weeks to switch, or the box goes unused",
+              "body": "Introduce the new box next to the old one and let the cat choose over one to two weeks. Removing the familiar box immediately is the most common reason an expensive automatic box ends up ignored, and no mechanism can solve a cat that refuses to enter it."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Litter-Robot 4 守第一，跟這些機器相處久了，我一直回到同一個理由，球體加篩分旋轉的機構，是長期使用下處理凝結砂最可靠的設計。\n\n耙式設計遇到黏在盤面上的結塊就會卡住，球體只是把它轉進抽屜裡。\n\n重量感測器也給你真的有用的健康訊號，貓咪如廁頻率或體重的變化，往往比任何外顯症狀更早出現。\n\nLitter-Robot 5 Pro 排第二，多了一些精緻化，價格也更高。Purobot Ultra 守第三，帶攝影機監測，家裡多貓、想知道是誰在用的人會喜歡。\n\n有件事我希望買的人誠實地先規劃好，貓需要適應期。新盆跟舊盆並排放，讓牠自己選一到兩週。\n\n跳過這一步，是昂貴的自動貓砂盆最後閒置的最常見原因，跟機構好不好完全無關。\n\n八月天熱，除臭的重要性上升，抽屜請比 App 建議的頻率更勤地清。",
+          "highlights": [
+            {
+              "title": "球體篩分機構處理凝結砂最可靠",
+              "body": "耙式設計遇到黏在盤面的結塊就卡住，而卡住正是多數自動貓砂盆壽終正寢的原因。旋轉球體把排泄物篩進抽屜，中間沒有東西可以勾住，這就是 Litter-Robot 4 買回來好幾個月還在正常運作的原因。"
+            },
+            {
+              "title": "重量感測器是貓咪真正的健康監測",
+              "body": "如廁頻率改變或體重緩慢下降，常常比任何看得見的症狀更早出現，而貓的泌尿道問題惡化得很快。這些資料自動被記錄下來，給你提早帶去看醫生的理由，這是這台機器最有價值的地方。"
+            },
+            {
+              "title": "給貓兩週適應，不然這台會閒置",
+              "body": "新盆放在舊盆旁邊，讓貓自己選一到兩週。立刻把熟悉的舊盆收走，是昂貴自動貓砂盆最後被冷落的最常見原因，貓不肯進去的話，機構再好也救不了。"
             }
           ]
         }

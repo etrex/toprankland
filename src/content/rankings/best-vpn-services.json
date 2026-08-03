@@ -13499,6 +13499,160 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-01",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Mobile VPN security is not as strong as advertised",
+          "url": "https://news.engin.umich.edu/2026/07/mobile-vpn-security-is-not-as-strong-as-advertised/",
+          "source": "Michigan Engineering News"
+        },
+        {
+          "title": "Annual security audit scheduled for 2026",
+          "url": "https://www.ivpn.net/blog/annual-security-audit-scheduled-2026",
+          "source": "IVPN"
+        },
+        {
+          "title": "Legislation, loopholes, and loose ends — what does 2026 hold for the VPN industry?",
+          "url": "https://www.techradar.com/vpn/vpn-services/legislation-loopholes-and-loose-ends-what-does-2026-hold-for-the-vpn-industry",
+          "source": "TechRadar"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Mullvad stays first, and a July research finding makes the case for audited providers much sharper. A University of Michigan Engineering study tested 281 popular Android VPN apps and found 29 of them leaking DNS and browser traffic, which is the exact failure mode a VPN exists to prevent. Independent estimates suggest fewer than 40 percent of VPN vendors undergo genuine third party audits even though nearly all of them advertise privacy protection. Mullvad holds first because its structure removes the trust problem rather than asking you to accept a promise. Account numbers instead of email addresses, cash payment accepted, no personal data collected, and repeated independent audits. ProtonVPN sits second with published Securitum audit reports backing its no logs claim and a Swiss legal base. NordVPN holds third with the largest server network and the strongest speed results, plus published third party attestations. IVPN sits fourth and scheduled its eighth annual Cure53 audit for July, covering its Unlinked Access system. My advice is direct: check for a published audit before you subscribe, and treat any provider without one as unverified regardless of its marketing.",
+          "highlights": [
+            {
+              "title": "A July study found 29 of 281 Android VPN apps leaking traffic",
+              "body": "University of Michigan researchers tested 281 popular Android VPN apps and found 29 leaking DNS and browser traffic, the exact failure a VPN is bought to prevent. That result is why an independent audit belongs at the top of your checklist ahead of speed or server count."
+            },
+            {
+              "title": "Mullvad removes the trust problem instead of asking for trust",
+              "body": "Account numbers instead of email addresses, cash accepted as payment, and no personal data collected means there is nothing to hand over even under legal pressure. Combined with repeated independent audits, that structure is stronger than any privacy policy wording."
+            },
+            {
+              "title": "Fewer than 40 percent of providers actually get audited",
+              "body": "Nearly every VPN advertises privacy protection while independent estimates put genuine third party auditing below 40 percent of the market. Checking for a published audit report takes two minutes and separates verified claims from marketing copy more reliably than any review score."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Mullvad 續坐第一，七月一份研究讓「選有稽核的供應商」這個論點變得更銳利。\n\n密西根大學工學院測了 281 個熱門 Android VPN App，發現其中 29 個會洩漏 DNS 跟瀏覽器流量，這正是你買 VPN 要防的那件事。獨立估計顯示，真正接受第三方稽核的業者不到市場的四成，可是幾乎每一家都在宣稱保護隱私。\n\nMullvad 第一名是因為它的結構直接把信任問題拿掉，而不是要你相信一個承諾。用帳號編號取代電子信箱、接受現金付款、不收集個資，加上反覆的獨立稽核。\n\nProtonVPN 排第二，有 Securitum 公開稽核報告背書無紀錄政策，法律基礎在瑞士。\n\nNordVPN 守第三，伺服器網路最大、速度最強，也有公開的第三方查核。\n\nIVPN 第四，七月安排了第八次 Cure53 年度稽核，涵蓋 Unlinked Access 系統。\n\n建議很直接，訂閱前先確認有公開稽核報告，沒有的一律當作未經驗證，不管它行銷寫得多好。",
+          "highlights": [
+            {
+              "title": "七月研究發現 281 個 Android VPN 裡有 29 個在漏流量",
+              "body": "密西根大學測了 281 個熱門 Android VPN App，29 個洩漏 DNS 跟瀏覽器流量，正好是你買 VPN 要防的那件事。這個結果就是為什麼獨立稽核該排在你檢查清單的最前面，優先於速度跟節點數。"
+            },
+            {
+              "title": "Mullvad 把信任問題移除，而不是要求你信任",
+              "body": "帳號編號取代電子信箱、接受現金付款、不收集個資，代表就算面對法律壓力它也拿不出東西交。再加上反覆的獨立稽核，這個結構比任何隱私政策的文字都硬。"
+            },
+            {
+              "title": "真正接受稽核的業者不到四成",
+              "body": "幾乎每一家 VPN 都在宣稱保護隱私，獨立估計卻顯示真正做第三方稽核的不到市場四成。花兩分鐘找一下有沒有公開的稽核報告，比任何評測分數都更能分辨哪些是驗證過的說法。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

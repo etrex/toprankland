@@ -17168,6 +17168,442 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-31",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "July 2026 AI Releases: OpenAI, Anthropic, Google DeepMind, Cognition",
+          "url": "https://thursdai.news/releases/2026-07",
+          "source": "ThursdAI"
+        },
+        {
+          "title": "LLM Release Timeline - Model Release Dates",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        },
+        {
+          "title": "AI Updates Today (July 2026) - Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code stays at number one and this week it got cheaper to run, which is why its value score moves to 9.0. Opus 5 landed on July 24 at half the previous flagship token price and became the default on Claude Max, so the subscription that already gave you the best agentic coding loop now burns through its allowance more slowly. That is a real change to the economics of leaving an agent running on a long refactor. I have been watching the top three converge on capability for months, and the separation now comes down to where you want the agent to live. Claude Code owns the terminal and the long autonomous run, which is why its 9.7 agentic score is the highest here. Cursor owns the editor, and its 9.5 IDE score is still the best in-editor experience anyone ships. Codex sits between them with the strongest cloud-delegated workflow. Pick by habit, because all three will finish the task. The layer I would watch is the cheap tier. With Gemini Flash pricing dropping again on July 21 and Kimi K3 arriving as the strongest open-weight model of the month on July 27, the tools that let you bring your own model just got materially better value. Aider's 9.5 value score is earned, and Zed keeps climbing for the same reason. If your budget is the constraint rather than raw capability, that end of the table is where the movement is.",
+          "highlights": [
+            {
+              "title": "Claude Code is the pick when you want to walk away from the terminal",
+              "body": "The agentic score of 9.7 reflects what happens on a two-hour refactor across a large repository, which is where the gap between these tools is widest. Opus 5 becoming the Max default on July 24 at roughly half the previous token price makes those long runs cheaper, so I moved value for money to 9.0. It stays first on the combination of code quality at 9.8 and autonomy."
+            },
+            {
+              "title": "Cursor still wins the in-editor experience and that matters more than benchmarks",
+              "body": "A 9.5 IDE integration score is the highest in this table and it is earned in the small things: tab completion that predicts the next edit rather than the next token, and a diff review flow that keeps you in control of a multi-file change. If you spend your day inside the editor rather than the terminal, this is the tool that fits your hands."
+            },
+            {
+              "title": "Bring-your-own-model tools are the value story this month",
+              "body": "Gemini's cheaper Flash tier on July 21 and Kimi K3 taking the open-weight lead on July 27 both flow straight into Aider and Zed, where you supply the API key. Aider's 9.5 value score reflects a workflow that costs a few dollars a month for a working developer. That gap against a fixed subscription widened this week."
+            },
+            {
+              "title": "The agentic gap is closing from below faster than the leaders are pulling away",
+              "body": "Antigravity at 9.0 and Devin at 9.0 on agentic capability are now within striking distance of the leaders, and Antigravity's 9.2 value score makes it the most interesting mid-table pick. I expect the useful question by autumn to be which agent integrates with your review process, since the raw ability to complete a ticket is becoming table stakes."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 續坐第一，而且這禮拜跑起來更便宜了，這就是我把它的 valueForMoney 調到 9.0 的原因。Opus 5 在 7 月 24 日上線，token 價格大概是前一代旗艦的一半，而且直接變成 Claude Max 的預設，所以同一份訂閱、同樣的額度，現在可以撐更久。這對於「開著 agent 讓它慢慢跑一個大重構」的使用方式來說，是實打實的成本改變。\n\n前三名的能力其實已經收斂好幾個月了，現在的分野變成你想讓 agent 住在哪裡。Claude Code 拿下終端機跟長時間自動執行，9.7 的 agentic 分數是全表最高。Cursor 拿下編輯器，9.5 的 IDE 分數目前沒人做得更好。Codex 卡在中間，雲端委派任務的流程最完整。照你的習慣選就好，這三個都會把事情做完。\n\n真正該盯的是便宜的那一層。Gemini Flash 7 月 21 日再降價，Kimi K3 在 7 月 27 日拿下這個月最強開源權重，這兩件事直接讓「自己帶模型」的工具價值往上跳。Aider 那個 9.5 的 value 分數是實至名歸，Zed 一直往上爬也是同樣的道理。\n\n如果你的瓶頸是預算而不是能力，這禮拜真正在動的是表格的下半部。",
+          "highlights": [
+            {
+              "title": "想離開終端機去做別的事，就選 Claude Code",
+              "body": "9.7 的 agentic 分數反映的是在大型 repo 上跑兩個小時重構會發生什麼事，而這正是各家差距最大的地方。7 月 24 日 Opus 5 成為 Max 預設、token 價格砍半之後，這種長時間執行的成本明顯下降，所以我把 valueForMoney 調到 9.0。9.8 的程式碼品質加上自主性，第一名坐得很穩。"
+            },
+            {
+              "title": "Cursor 的編輯器內體驗還是最好，這件事比 benchmark 重要",
+              "body": "9.5 的 IDE 整合是全表最高，而且贏在細節：tab 補全預測的是你的下一個編輯動作而不是下一個 token，多檔案改動的 diff 審查流程也讓你真的握得住方向盤。如果你一天大部分時間待在編輯器裡而不是終端機，這個工具最貼手。"
+            },
+            {
+              "title": "這個月的價值主線是「自己帶模型」的工具",
+              "body": "Gemini 7 月 21 日的便宜 Flash 層、Kimi K3 在 7 月 27 日拿下開源權重第一，這兩件事直接灌進 Aider 跟 Zed 這種你自己填 API key 的工具。Aider 9.5 的 value 分數反映的是一個全職工程師一個月只花幾塊美金的實際狀況，這個差距這禮拜又拉開了。"
+            },
+            {
+              "title": "Agentic 能力是從下面追上來，不是領先者拉開",
+              "body": "Antigravity 跟 Devin 的 agentic 都來到 9.0，已經在領先群的射程內，而 Antigravity 9.2 的 value 讓它成為中段最值得看的一個。我覺得到秋天，真正有意義的問題會變成「這個 agent 接不接得進你的 code review 流程」，因為「能把一張票做完」正在變成基本盤。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Seven Days, Seven Model Releases: The New AI Normal",
+          "url": "https://www.digitalapplied.com/blog/seven-days-seven-releases-july-2026-model-wave",
+          "source": "Digital Applied"
+        },
+        {
+          "title": "AI Updates Today (July 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Latest AI Model Releases — July 2026",
+          "url": "https://aireleasetracker.com/latest",
+          "source": "AI Release Tracker"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code stays first and I have raised its score after Anthropic shipped Claude Opus 5 on July 24. The model reaches close to frontier intelligence at roughly half the price of the leading alternative, and in agentic coding that ratio compounds fast, because a coding agent burns tokens across many turns of reading, editing, and testing. Halving the cost per turn changes what tasks are worth handing to an agent at all. Claude Code also remains the strongest at multi file refactors where the agent has to hold a mental model of a codebase across dozens of edits. OpenAI Codex sits second and continues to lead on tight IDE integration and on latency for single file work. Cursor holds third and remains the best editor first experience, which suits developers who want AI assistance inside a familiar workflow rather than an agent running its own loop. The open weight tier moved too. Poolside released an open weight coding model during the July wave, which matters for teams that cannot send source code to a third party. If data governance blocks hosted assistants, self hosted coding models are now a workable path rather than a compromise.",
+          "highlights": [
+            {
+              "title": "Halving cost per turn changes which tasks are worth giving an agent",
+              "body": "A coding agent burns tokens across many turns of reading, editing, and running tests, so cost per turn compounds. Claude Opus 5 reaching close to frontier capability at roughly half the price of the leading model expands the set of tasks where delegating to an agent is economically sensible."
+            },
+            {
+              "title": "Multi file refactoring is where Claude Code separates itself",
+              "body": "Holding a coherent model of a codebase across dozens of edits in different files is the hardest thing an agent does, and it is where most tools lose the thread. This is the workload I use to separate the top tier, and Claude Code handles it most reliably."
+            },
+            {
+              "title": "Open weight coding models are now viable for regulated teams",
+              "body": "Poolside released an open weight coding model during the July release wave. For teams whose data governance rules block sending source to a third party service, self hosting has moved from a fallback to a legitimate choice with real capability behind it."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 續坐第一，而且我在 Anthropic 於 7 月 24 日推出 Claude Opus 5 之後調高了它的分數。這個模型以大約領先方案一半的價格達到接近前沿的智慧，在 agentic coding 上這個比值放大得特別快，因為編碼代理會在讀檔、改檔、跑測試之間燒掉大量 token。\n\n每一輪成本砍半，直接改變了哪些任務值得交給代理去做。\n\nClaude Code 在跨檔案重構上也還是最強，代理必須在幾十次編輯之間維持整個程式庫的心智模型，這件事最難。\n\nOpenAI Codex 排第二，IDE 整合的緊密度跟單檔案作業的延遲還是它領先。\n\nCursor 守第三，編輯器優先的體驗最好，適合想在熟悉的工作流裡得到 AI 協助、而不是讓代理自己跑迴圈的開發者。\n\n開放權重這一層也有動作。poolside 在七月那波釋出開放權重的編碼模型，對不能把原始碼送到第三方的團隊很關鍵。資料治理卡住託管型助理的話，自架編碼模型現在是可行的路，不再只是將就。",
+          "highlights": [
+            {
+              "title": "每輪成本砍半，改變的是哪些任務值得交給代理",
+              "body": "編碼代理會在讀檔、改檔、跑測試之間反覆燒 token，每一輪的成本會累積。Claude Opus 5 以大約一半的價格達到接近前沿的能力，直接擴大了「委派給代理在經濟上划算」的任務範圍。"
+            },
+            {
+              "title": "跨檔案重構是 Claude Code 拉開差距的地方",
+              "body": "在幾十次分散在不同檔案的編輯之間維持一致的程式庫模型，是代理最難的工作，多數工具在這裡就跟丟了。我就是用這個工作負載來區分頂層，Claude Code 處理得最穩。"
+            },
+            {
+              "title": "有法遵限制的團隊，開放權重編碼模型現在真的能用",
+              "body": "poolside 在七月那波釋出了開放權重的編碼模型。資料治理規定不能把原始碼送到第三方服務的團隊，自架已經從備案變成有真實能力支撐的正當選擇。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

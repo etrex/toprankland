@@ -3562,6 +3562,370 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-31",
+      "rankings": [
+        {
+          "id": "aqara-u400",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "security": 9.3,
+            "access": 9.7,
+            "smartHome": 9.7,
+            "value": 8.6,
+            "install": 8.8
+          }
+        },
+        {
+          "id": "schlage-encode-plus",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "security": 9.6,
+            "access": 8.6,
+            "smartHome": 9.0,
+            "value": 8.4,
+            "install": 9.0
+          }
+        },
+        {
+          "id": "yale-assure-lock-2-plus",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "security": 8.8,
+            "access": 8.8,
+            "smartHome": 9.1,
+            "value": 8.5,
+            "install": 8.9
+          }
+        },
+        {
+          "id": "ultraloq-u-bolt-pro-wifi",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "security": 8.6,
+            "access": 9.2,
+            "smartHome": 8.2,
+            "value": 8.8,
+            "install": 8.6
+          }
+        },
+        {
+          "id": "switchbot-lock-ultra",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "security": 8.0,
+            "access": 9.0,
+            "smartHome": 8.4,
+            "value": 9.2,
+            "install": 9.4
+          }
+        },
+        {
+          "id": "eufy-smart-lock-e130",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "security": 8.4,
+            "access": 8.6,
+            "smartHome": 8.2,
+            "value": 9.0,
+            "install": 8.4
+          }
+        },
+        {
+          "id": "level-lock-plus",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "security": 8.2,
+            "access": 7.6,
+            "smartHome": 8.8,
+            "value": 7.6,
+            "install": 8.6
+          }
+        },
+        {
+          "id": "august-wifi-smart-lock-4th-gen",
+          "rank": 8,
+          "score": 8.1,
+          "scores": {
+            "security": 7.8,
+            "access": 7.8,
+            "smartHome": 8.6,
+            "value": 8.4,
+            "install": 9.2
+          }
+        },
+        {
+          "id": "wyze-lock-bolt",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "security": 7.6,
+            "access": 8.4,
+            "smartHome": 7.2,
+            "value": 9.6,
+            "install": 8.4
+          }
+        },
+        {
+          "id": "lockly-vision-elite",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "security": 8.6,
+            "access": 8.8,
+            "smartHome": 7.4,
+            "value": 6.8,
+            "install": 7.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Smart Home News",
+          "url": "https://www.tomsguide.com/uk/home/smart-home/news/page/2",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "Home Security Robots & Cameras 2026: Complete Guide",
+          "url": "https://therobowire.com/home-security-robots-cameras-2026-complete-guide/",
+          "source": "TheRoboWire"
+        },
+        {
+          "title": "FCC Bans New Foreign-Made Robot Vacuums",
+          "url": "https://www.macrumors.com/2026/07/30/foreign-made-robot-vacuums-ban/",
+          "source": "MacRumors"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The ranking holds and this week's connected-device security news gives me a good reason to restate the principle I apply to every lock in this table. A smart lock has to be a good lock first. The mechanism, the strike plate, the bolt throw, and the door frame are what stop someone getting in. The electronics add convenience and they add an attack surface, and a lock that scores well on the app and poorly on the hardware is a worse product than a plain deadbolt. That is why the physical security weighting in my scoring is high and stays high. The failure mode I would have you plan for is power. Every lock here runs on batteries and every one will eventually run out, usually in winter and usually when you are outside. Check that your chosen lock has a physical key override or an external contact for an emergency power supply, and confirm you have the key somewhere you can reach it. A lock that fails locked with you outside is a locksmith call. On connectivity, my recommendation is unchanged and slightly conservative: choose a lock that works fully offline for its core function. If unlocking your door depends on a vendor's cloud being available, you have added a dependency to the single most important physical control in your home.",
+          "highlights": [
+            {
+              "title": "A smart lock has to be a good lock before it is a good gadget",
+              "body": "The bolt, the strike plate, and the door frame are what actually stop entry, and the electronics sit on top of that. A lock that scores well on its app and poorly on its mechanism is a worse product than a plain deadbolt. I weight physical security heavily for this reason and I would encourage you to check the hardware certification before the feature list."
+            },
+            {
+              "title": "Plan for the battery failure, because it will happen outside in winter",
+              "body": "Every lock here runs on batteries and every one eventually runs out, reliably at the least convenient moment. Confirm your lock has a physical key override or external emergency power contacts, and confirm you know where that key is. A lock that fails with you on the wrong side of the door is a locksmith bill and an evening lost."
+            },
+            {
+              "title": "Core unlocking should work with the internet down",
+              "body": "If opening your front door depends on a vendor's cloud responding, you have introduced a remote dependency into the most important physical control in your home. Choose a lock where local unlocking by keypad, fob, or Bluetooth works fully offline, and treat remote access as a convenience layer on top rather than the mechanism itself."
+            },
+            {
+              "title": "Auto-lock is the feature that actually improves your security",
+              "body": "Most break-ins through a door involve a lock that was never engaged. A smart lock that closes the bolt automatically after a set delay removes human forgetfulness from the equation, and that is a larger real-world security gain than any encryption specification on the box. Enable it on day one and set the delay to something you can live with."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "排名維持不動，而這禮拜的連網裝置資安新聞，正好讓我重申一次我套用在這張表每一把鎖上的原則。\n\n智慧鎖首先得是一把好鎖。鎖體、鎖片、鎖舌行程、還有門框，那些才是真正擋住入侵的東西。電子部分加的是便利性，同時也加了一個攻擊面，而一把 App 分數很高、硬體分數很差的鎖，是比一把普通門閂還糟的產品。\n\n這就是為什麼我評分裡實體安全的權重很高，而且會一直很高。\n\n我希望你預先規劃的失效模式是電力。這裡每一把鎖都靠電池，而每一把最後都會沒電，通常在冬天，通常在你人在門外的時候。確認你選的鎖有實體鑰匙備援或外部應急供電接點，也確認那把鑰匙放在你拿得到的地方。一把在你人在外面時失效的鎖，等於一通鎖匠的電話。\n\n連線方式上，我的建議沒變而且有點保守：選一把核心功能完全離線也能運作的鎖。如果開你家門這件事取決於某家廠商的雲端有沒有回應，那你就是在家裡最重要的實體控制上，加了一個遠端相依。",
+          "highlights": [
+            {
+              "title": "智慧鎖得先是一把好鎖，才輪得到當一個好玩具",
+              "body": "鎖舌、鎖片、門框才是真正擋住入侵的東西，電子部分是疊在上面的。一把 App 表現好、機構表現差的鎖，比一把普通門閂還糟。我為此把實體安全的權重拉得很高，也建議你先看硬體認證，再看功能清單。"
+            },
+            {
+              "title": "為電池沒電做好準備，它會發生在冬天的門外",
+              "body": "這裡每一把鎖都靠電池，每一把最後都會沒電，而且很可靠地挑最不方便的時刻。確認你的鎖有實體鑰匙備援或外部應急供電接點，也確認你知道那把鑰匙在哪。一把在你站在門的錯誤那一側時失效的鎖，等於一筆鎖匠帳單加一個泡湯的晚上。"
+            },
+            {
+              "title": "核心開鎖功能在斷網時也該正常",
+              "body": "如果開你家大門取決於某家廠商的雲端有沒有回應，那你就在家裡最重要的實體控制上引入了一個遠端相依。選一把用鍵盤、感應扣或藍牙在本地開鎖、完全離線也能運作的鎖，把遠端存取當成疊在上面的便利層，不是機制本身。"
+            },
+            {
+              "title": "自動上鎖才是真正提升你安全性的功能",
+              "body": "多數從門進來的闖空門案件，遇到的是一把根本沒上的鎖。一把在設定延遲後自動落閂的智慧鎖，把人類的健忘從方程式裡拿掉，那是比包裝上任何加密規格都大的實際安全提升。第一天就打開它，延遲時間設一個你能接受的長度。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "rankings": [
+        {
+          "id": "aqara-u400",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "security": 9.3,
+            "access": 9.7,
+            "smartHome": 9.7,
+            "value": 8.6,
+            "install": 8.8
+          }
+        },
+        {
+          "id": "schlage-encode-plus",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "security": 9.6,
+            "access": 8.6,
+            "smartHome": 9.0,
+            "value": 8.4,
+            "install": 9.0
+          }
+        },
+        {
+          "id": "yale-assure-lock-2-plus",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "security": 8.8,
+            "access": 8.8,
+            "smartHome": 9.1,
+            "value": 8.5,
+            "install": 8.9
+          }
+        },
+        {
+          "id": "ultraloq-u-bolt-pro-wifi",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "security": 8.6,
+            "access": 9.2,
+            "smartHome": 8.2,
+            "value": 8.8,
+            "install": 8.6
+          }
+        },
+        {
+          "id": "switchbot-lock-ultra",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "security": 8.0,
+            "access": 9.0,
+            "smartHome": 8.4,
+            "value": 9.2,
+            "install": 9.4
+          }
+        },
+        {
+          "id": "eufy-smart-lock-e130",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "security": 8.4,
+            "access": 8.6,
+            "smartHome": 8.2,
+            "value": 9.0,
+            "install": 8.4
+          }
+        },
+        {
+          "id": "level-lock-plus",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "security": 8.2,
+            "access": 7.6,
+            "smartHome": 8.8,
+            "value": 7.6,
+            "install": 8.6
+          }
+        },
+        {
+          "id": "august-wifi-smart-lock-4th-gen",
+          "rank": 8,
+          "score": 8.1,
+          "scores": {
+            "security": 7.8,
+            "access": 7.8,
+            "smartHome": 8.6,
+            "value": 8.4,
+            "install": 9.2
+          }
+        },
+        {
+          "id": "wyze-lock-bolt",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "security": 7.6,
+            "access": 8.4,
+            "smartHome": 7.2,
+            "value": 9.6,
+            "install": 8.4
+          }
+        },
+        {
+          "id": "lockly-vision-elite",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "security": 8.6,
+            "access": 8.8,
+            "smartHome": 7.4,
+            "value": 6.8,
+            "install": 7.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Matter, Thread and the Protocol Wars: How Smart Home Tech Actually Works in 2026",
+          "url": "https://www.dualmedia.com/matter-thread-smart-home-protocols-2026/",
+          "source": "DualMedia"
+        },
+        {
+          "title": "The Matter Innovations at CES 2026",
+          "url": "https://matter-smarthome.de/en/products/the-matter-innovations-at-ces-2026/",
+          "source": "matter-smarthome"
+        },
+        {
+          "title": "Home Security Robots & Cameras 2026: Complete Guide",
+          "url": "https://therobowire.com/home-security-robots-cameras-2026-complete-guide/",
+          "source": "TheRoboWire"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Aqara Smart Lock U400 holds first, and it earns that on the breadth of ways it lets you through a door. Fingerprint, keypad, NFC card, app, Apple home key, and a physical key all work, which means the lock accommodates everyone in a household including a guest who has no compatible phone. That flexibility is what makes a smart lock actually replace a key rather than sit alongside one. Matter support means it joins your smart home platform directly. Schlage Encode Plus sits second with the strongest physical build in the category, and for an exterior door the mechanical grade of the deadbolt deserves as much attention as the electronics. Yale Assure Lock 2 Plus holds third with the cleanest design and reliable Apple home key support. Ultraloq U-Bolt Pro WiFi sits fourth with built in WiFi that removes the need for a bridge. My standing advice for this category: check the battery replacement procedure and keep a physical key accessible somewhere outside the lock. Every smart lock eventually runs its batteries down, usually at the least convenient time.",
+          "highlights": [
+            {
+              "title": "The U400 wins by accommodating everyone who needs to get in",
+              "body": "Fingerprint, keypad, NFC card, app, Apple home key, and a physical key all work on the same lock. That range covers a household member without a compatible phone and a visiting relative equally well, which is what actually lets a smart lock replace your keys instead of joining them."
+            },
+            {
+              "title": "For an exterior door, judge the deadbolt as hardware first",
+              "body": "Schlage Encode Plus has the strongest mechanical build here, and on a front door the physical grade of the deadbolt determines your actual security. Electronics add convenience on top of that foundation, and no app feature compensates for a weak bolt."
+            },
+            {
+              "title": "Plan for the day the batteries die",
+              "body": "Every smart lock runs its batteries down eventually, and it will happen when you are carrying groceries in the rain. Check the replacement procedure before you install, and keep a physical key somewhere accessible outside the lock. This is the single most common smart lock regret."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Aqara Smart Lock U400 守第一，靠的是它讓你進門的方式夠多。\n\n指紋、密碼、NFC 卡、App、Apple 家庭鑰匙、實體鑰匙全部可用，代表家裡每個人都有辦法進門，包括手機不相容的客人。這種彈性才讓智慧鎖真的取代鑰匙，而不是跟鑰匙並存。\n\n支援 Matter，可以直接接上你的智慧家庭平台。\n\nSchlage Encode Plus 排第二，機構用料是全品類最扎實的，大門這種外門，鎖芯的機械等級值得跟電子功能一樣認真看。\n\nYale Assure Lock 2 Plus 守第三，設計最俐落，Apple 家庭鑰匙支援也很穩。\n\nUltraloq U-Bolt Pro WiFi 第四，內建 WiFi，不用另外接橋接器。\n\n這個品類我一直給同一個建議，安裝前先確認換電池的程序，然後在鎖以外的地方放一把實體鑰匙。每一把智慧鎖最後都會沒電，而且通常挑最不方便的時候。",
+          "highlights": [
+            {
+              "title": "U400 贏在它照顧到每一個需要進門的人",
+              "body": "指紋、密碼、NFC 卡、App、Apple 家庭鑰匙、實體鑰匙全在同一把鎖上。手機不相容的家人跟臨時來訪的長輩都顧得到，這才是讓智慧鎖真的取代鑰匙、而不是多帶一樣東西的關鍵。"
+            },
+            {
+              "title": "大門的鎖，先當成五金來評估",
+              "body": "Schlage Encode Plus 的機構用料是這裡最扎實的，大門的實際防護力取決於鎖芯的機械等級。電子功能是蓋在這個基礎上的便利，App 再厲害也補不了一根軟的鎖舌。"
+            },
+            {
+              "title": "先想好沒電那一天要怎麼辦",
+              "body": "每一把智慧鎖最後都會沒電，而且通常發生在你下雨天手上提著菜的時候。安裝前先確認換電池程序，在鎖以外的地方留一把實體鑰匙。這是智慧鎖最常見的後悔點。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

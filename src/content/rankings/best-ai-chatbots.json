@@ -11101,6 +11101,390 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-31",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.3,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.8,
+            "coding": 9.9,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.9,
+            "realtime": 9.4,
+            "value": 9.7,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "reasoning": 9.0,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.4,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "July 2026 AI Releases: OpenAI, Anthropic, Google DeepMind, Cognition",
+          "url": "https://thursdai.news/releases/2026-07",
+          "source": "ThursdAI"
+        },
+        {
+          "title": "LLM News Today (July 2026) - AI Model Releases",
+          "url": "https://llm-stats.com/ai-news",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "AI by AI Weekly Top 5: July 20-26, 2026",
+          "url": "https://champaignmagazine.com/2026/07/26/ai-by-ai-weekly-top-5-july-20-26-2026/",
+          "source": "Champaign Magazine"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "This was the week the price of frontier intelligence collapsed, and I am moving the value scores accordingly. Anthropic shipped Claude Opus 5 on July 24 at $5 per million input tokens and $25 per million output, roughly half what the previous flagship tier cost, and made it the default on Claude Max. Days earlier OpenAI cut GPT-5.6 Terra by 20 percent and GPT-5.6 Luna by a striking 80 percent. Google went a different route on July 21, shipping Gemini 3.6 Flash and 3.5 Flash Lite, three cheaper models instead of the big Gemini upgrade that had been trailed for mid-July. Three labs, one week, one direction on price. I keep ChatGPT at the top because the thing it sells is still the broadest package: memory that actually persists across projects, the deepest connector library, and a mobile app my parents can use without instruction. Claude holds second on the strength of reasoning and code, where Opus 5 is the model I reach for when the answer has to be right the first time. Gemini stays third and its value score goes up again, because the Flash tier is now the cheapest competent assistant you can put in a production loop. The honest read for a buyer this week is that the ranking barely moved while the bill did. If you were priced out of a frontier model in June, check the same model again today. That is the rare case where waiting was the correct strategy.",
+          "highlights": [
+            {
+              "title": "Opus 5 at half price is the single biggest value event of the quarter",
+              "body": "Anthropic released Claude Opus 5 on July 24 at $5 per million input and $25 per million output tokens, matching the top of the benchmark tables at roughly half the previous flagship price, and made it the default tier on Claude Max. For anyone running a high-volume assistant, that is a direct halving of the line item with no quality tradeoff to negotiate. I raised Claude's value score to 9.4 on the strength of that change alone."
+            },
+            {
+              "title": "ChatGPT keeps first place because breadth beats peak scores for most buyers",
+              "body": "The reasoning gap at the top has narrowed to the point where benchmark deltas stop deciding purchases. What decides them is whether the assistant reaches your calendar, your files, your phone, and your team without a project to wire it up. ChatGPT still has the deepest connector library and the most polished mobile experience, and its 9.7 ecosystem score reflects daily use rather than a leaderboard."
+            },
+            {
+              "title": "Google's July 21 Flash trio makes cheap-and-competent a real category",
+              "body": "Gemini 3.6 Flash and 3.5 Flash Lite landed on July 21 after the larger upgrade slipped past its July 17 target. I think shipping three cheaper models was the smarter play. Flash is now the model I recommend for classification, summarisation, and any loop that runs thousands of times a day, which is why Gemini's value score moves to 9.7."
+            },
+            {
+              "title": "Open weights caught up faster than the closed labs would like",
+              "body": "Moonshot published Kimi K3 on July 27 and it took the best open-weight position for the month, with Alibaba's Qwen3.7 Flash arriving the same day. For self-hosters and anyone with data that cannot leave their own infrastructure, the quality floor rose sharply in a single week. DeepSeek's perfect 10.0 value score has company now."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這禮拜最值得講的其實不是誰變強，而是前沿模型的價格一起塌下來，我把 value 分數整批調高就是因為這件事。Anthropic 在 7 月 24 日推出 Claude Opus 5，每百萬 input token 五美元、output 二十五美元，大概是前一代旗艦價位的一半，而且直接變成 Claude Max 的預設模型。\n\n前幾天 OpenAI 也把 GPT-5.6 Terra 降價兩成，Luna 更是砍到剩兩成價。Google 走的是另一條路，7 月 21 日一口氣推出 Gemini 3.6 Flash 跟 3.5 Flash Lite，用三個更便宜的模型取代原本預告在七月中的大改版。三間實驗室、同一個禮拜、同一個方向，這訊號夠明確了吧。\n\n我還是把 ChatGPT 放第一，因為它賣的是最完整的一整包：跨專案能真的記住的記憶、最深的外部連接器生態、還有一個我爸媽不用教就會用的手機 App。Claude 守住第二，靠的是推理跟寫程式，Opus 5 是我在「答案第一次就要對」的時候會直接開的那個。Gemini 第三，value 再往上調，因為 Flash 這一層現在是你能塞進正式產線裡最便宜又堪用的助理。\n\n說實話，這禮拜排名幾乎沒動，動的是帳單。如果你六月因為預算放棄某個旗艦模型，今天真的值得回頭再看一次同一個模型的報價。這種等一下反而賺到的情況，一年遇不到幾次。",
+          "highlights": [
+            {
+              "title": "Opus 5 半價是這一季最大的價值事件",
+              "body": "Anthropic 7 月 24 日推出 Claude Opus 5，每百萬 input 五美元、output 二十五美元，benchmark 站在頂端但價格只有前一代旗艦的一半左右，還直接變成 Claude Max 的預設。對於每天跑大量請求的人來說，這等於帳單直接對半砍，而且完全不用在品質上做取捨。光憑這件事，我就把 Claude 的 value 拉到 9.4。"
+            },
+            {
+              "title": "ChatGPT 續坐第一，因為對多數人來說廣度贏過峰值",
+              "body": "頂端幾家的推理差距已經縮到 benchmark 數字決定不了購買決策的程度。真正決定的是這個助理能不能碰到你的行事曆、你的檔案、你的手機、你的團隊，而且不用另外開一個專案去接。ChatGPT 的連接器生態最深、手機體驗最完整，9.7 的 ecosystem 分數反映的是日常實際使用，不是排行榜。"
+            },
+            {
+              "title": "Google 7 月 21 日的 Flash 三連發，讓便宜又堪用變成一個真的分類",
+              "body": "原本預告七月中的大改版跳票，Google 改在 7 月 21 日推出 Gemini 3.6 Flash 跟 3.5 Flash Lite。老實說我覺得這步走得比較聰明。分類、摘要、任何一天要跑幾千次的迴圈，我現在都直接推 Flash，這也是 Gemini value 拉到 9.7 的原因。"
+            },
+            {
+              "title": "開源權重追上來的速度比閉源實驗室想像得快",
+              "body": "Moonshot 在 7 月 27 日發布 Kimi K3，拿下這個月開源權重的第一，Alibaba 的 Qwen3.7 Flash 同一天也到。對自架的人、還有資料不能離開自家機房的團隊來說，品質底線在一個禮拜內拉高一大截。DeepSeek 那個滿分 10.0 的 value，現在有伴了。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.3,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.8,
+            "coding": 9.9,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.9,
+            "realtime": 9.4,
+            "value": 9.7,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "reasoning": 9.0,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.4,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (July 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Seven Days, Seven Model Releases: The New AI Normal",
+          "url": "https://www.digitalapplied.com/blog/seven-days-seven-releases-july-2026-model-wave",
+          "source": "Digital Applied"
+        },
+        {
+          "title": "LLM Release Timeline — Model Release Dates",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "July closed with the densest release calendar this category has seen, and it changed my scoring even though it left the order intact. Anthropic shipped Claude Opus 5 on July 24, described as reaching close to frontier intelligence at roughly half the price of the leading model, and that price to capability ratio is the most consequential shift of the month. I have raised Claude's score accordingly and it holds second. ChatGPT stays first on breadth. It remains the assistant with the widest tool integration, the deepest ecosystem of connectors, and the most reliable general purpose behavior across the long tail of tasks people actually bring to a chatbot. Gemini holds third, strengthened by Google shipping three models in a single drop during the July wave. What buyers should take from this month is that the frontier has become crowded enough that the price axis now matters as much as the capability axis. Seven model releases landed in the seven days between July 17 and July 23, including three Qwen models inside 72 hours and Moonshot's Kimi K3, a 2.8 trillion parameter sparse mixture of experts model with open weights released July 27. Choosing an assistant on capability alone is no longer the efficient decision.",
+          "highlights": [
+            {
+              "title": "Claude Opus 5 changed the price to capability equation on July 24",
+              "body": "Reaching close to frontier intelligence at roughly half the cost of the leading model is the most consequential release of the month. For anyone running high volume workloads, that ratio matters more than a small benchmark advantage, and it is why I raised Claude's score this week."
+            },
+            {
+              "title": "ChatGPT holds first on breadth, which is what most people actually need",
+              "body": "The widest tool integration, the deepest connector ecosystem, and consistent behavior across unusual requests make it the assistant that handles whatever you bring to it. For a general purpose chatbot serving one person's whole workload, breadth beats a specialized capability lead."
+            },
+            {
+              "title": "Open weight models are now genuinely at the frontier",
+              "body": "Moonshot released Kimi K3 with full open weights on July 27, a 2.8 trillion parameter sparse mixture of experts model and the largest open model available. For teams that need to self host for data governance reasons, the capability gap against closed models has narrowed to where self hosting is a real option."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "七月收尾時的發表密度是這個品類史上最高的一次，雖然排序沒動，但我調了分數。\n\nAnthropic 在 7 月 24 日推出 Claude Opus 5，被形容為以大約領先模型一半的價格達到接近前沿的智慧，這個「能力對價格」的比值是這個月最有份量的變化。我把 Claude 的分數往上調，維持第二。\n\nChatGPT 守第一靠的是廣度。它還是工具整合最廣、連接器生態最深、面對各種奇怪任務都最穩的那一個。\n\nGemini 排第三，七月那波 Google 一次丟三個模型也幫它加分。\n\n這個月台灣讀者該吸收的重點是，前沿已經擠到「價格軸」跟「能力軸」一樣重要。7 月 17 到 23 日這七天就落地七個模型，包含 72 小時內三個 Qwen 模型，還有 Moonshot 在 7 月 27 日開放權重的 Kimi K3，2.8 兆參數的稀疏混合專家模型。\n\n光看能力挑助理，已經不是最有效率的決策方式了。",
+          "highlights": [
+            {
+              "title": "7 月 24 日的 Claude Opus 5 改寫了能力對價格的公式",
+              "body": "以大約領先模型一半的價格達到接近前沿的智慧，是這個月最有份量的發布。跑大量工作負載的人，這個比值比幾個百分點的評測領先重要得多，這也是我這週調高 Claude 分數的原因。"
+            },
+            {
+              "title": "ChatGPT 靠廣度守住第一，而廣度正是多數人真正需要的",
+              "body": "工具整合最廣、連接器生態最深、面對非典型請求時行為最穩，代表你丟什麼給它都接得住。一個人要用一個助理處理全部工作的話，廣度贏過單項能力的領先。"
+            },
+            {
+              "title": "開放權重模型是真的走到前沿了",
+              "body": "Moonshot 在 7 月 27 日完整開放 Kimi K3 權重，2.8 兆參數的稀疏混合專家架構，是目前最大的開放模型。因為資料治理需求必須自架的團隊，跟閉源模型的能力差距已經縮到自架真的可行。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

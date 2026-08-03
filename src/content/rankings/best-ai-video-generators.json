@@ -11713,6 +11713,394 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-31",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.7,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.0,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "July 2026 AI Releases: OpenAI, Anthropic, Google DeepMind, Cognition",
+          "url": "https://thursdai.news/releases/2026-07",
+          "source": "ThursdAI"
+        },
+        {
+          "title": "LLM News Today (July 2026) - AI Model Releases",
+          "url": "https://llm-stats.com/ai-news",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "AI by AI Weekly Top 5: July 20-26, 2026",
+          "url": "https://champaignmagazine.com/2026/07/26/ai-by-ai-weekly-top-5-july-20-26-2026/",
+          "source": "Champaign Magazine"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "I am holding this ranking steady because the past week's news was all about text model pricing, and none of it changes what comes out of these video tools today. It does change what they will cost to run, and in this category cost is a first-class buying criterion rather than a footnote. Video generation is the most compute-hungry thing a consumer can buy access to, and the credit systems reflect that. When frontier inference gets cheaper across the board, as it did in late July with Opus 5 at half the previous flagship price and OpenAI's GPT-5.6 cuts, the accelerator supply loosens and video credits usually follow within a quarter. Watch for that before you commit to an annual plan. On capability, my view has not moved. Shot consistency is what decides whether these tools can do real work. Generating one gorgeous five-second clip has been solved for a while. Generating the same character, in the same jacket, in the same lighting, across six shots that cut together is still the hard problem, and it is the one that separates a demo from a deliverable. I score for that above raw resolution. If you are producing something with a narrative this week, storyboard tightly, generate more coverage than you think you need, and budget for the regenerations. That is the honest workflow.",
+          "highlights": [
+            {
+              "title": "Shot-to-shot consistency is the whole game and everything else is a demo",
+              "body": "One beautiful five-second clip stopped being impressive a year ago. Keeping the same character in the same wardrobe under the same lighting across six shots that actually cut together is where these tools still separate, and it is the only capability that determines whether you can deliver a narrative piece. I weight consistency above resolution and I would encourage you to test on that."
+            },
+            {
+              "title": "Credit maths should be part of your buying decision, not an afterthought",
+              "body": "Video is the most compute-hungry thing on this site and the pricing shows it. Work out your real cost per usable finished second, including the regenerations you will need, rather than the headline cost per generation. That number is usually three to five times the sticker, and it is the number that decides whether a plan works for you."
+            },
+            {
+              "title": "Late July's inference price cuts should reach video credits within a quarter",
+              "body": "Opus 5 arrived on July 24 at roughly half the previous flagship token price and OpenAI cut GPT-5.6 pricing the same week. Video services compete for the same accelerator supply, so cheaper inference upstream tends to show up as more generous credit allowances downstream. I would think carefully before locking into an annual plan right now."
+            },
+            {
+              "title": "Storyboard harder than you would for live action",
+              "body": "The workflow that actually produces a finished piece involves deciding your shots before you generate, then producing more coverage than the edit needs so you have options when three clips have a subtle continuity problem. Treating generation as free and iterating in the timeline burns credits fast. Plan first, generate second."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "我這禮拜維持排名不動，因為過去七天的新聞全部集中在文字模型的定價，這些事完全不會改變這些影片工具今天生出來的東西。\n\n但它會改變營運成本，而在這個品類，成本是第一線的購買條件，不是附註。影片生成是一般消費者能買到的最吃算力的服務，點數制度就是這件事的直接反映。當前沿推理成本全面下降，像七月下旬 Opus 5 用前一代一半的價格上線、OpenAI 又砍 GPT-5.6 那樣，加速器供給會鬆一點，影片點數通常會在一季內跟進。要簽年約之前，先觀察這件事。\n\n能力面我的看法沒變。真正決勝的是分鏡之間的一致性。生一段漂亮的五秒鐘片段，這個問題早就解掉了。同一個角色、同一件外套、同一組打光，橫跨六個鏡頭而且剪在一起不穿幫，這才是還沒解掉的難題，也是 demo 跟交付品之間的分界線。我給一致性的權重高於解析度。\n\n如果你這禮拜要做有敘事的東西，分鏡先抓緊、素材多生一些、預算裡直接把重生的次數算進去。這才是誠實的工作流程。",
+          "highlights": [
+            {
+              "title": "鏡頭之間的一致性就是全部，其他都只是 demo",
+              "body": "生一段漂亮的五秒鐘片段，一年前就不稀奇了。讓同一個角色穿同一件衣服、在同一組打光下，橫跨六個鏡頭而且真的剪得起來，這才是各家還在分勝負的地方，也是決定你能不能交出一支敘事片的唯一能力。我給一致性的權重高於解析度，也建議你照這個去測。"
+            },
+            {
+              "title": "點數怎麼算要放進購買決策，不是事後才想",
+              "body": "影片是全站最吃算力的東西，定價完全誠實反映了這點。你該算的是「每一秒可用的成片」真正的成本，把必然會發生的重生次數算進去，而不是官網標的每次生成多少錢。這個數字通常是標價的三到五倍，而它才是決定某個方案適不適合你的數字。"
+            },
+            {
+              "title": "七月下旬的推理降價，一季內應該會反映到影片點數上",
+              "body": "Opus 5 在 7 月 24 日以大約前一代旗艦一半的 token 價格上線，OpenAI 同一週也砍了 GPT-5.6。影片服務搶的是同一批加速器供給，上游推理變便宜，下游通常會變成更大方的點數配額。所以現在要鎖年約，我會建議先想清楚。"
+            },
+            {
+              "title": "分鏡要比拍實景時抓得更緊",
+              "body": "真的能生出成片的流程是這樣：生成之前先把鏡頭決定好，然後多生一些超出剪輯需求的素材，這樣當有三段片子出現細微的連戲問題時你還有備案。把生成當成免費、在時間軸上邊剪邊試，點數會燒得非常快。先規劃，再生成。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.7,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.0,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Seven Days, Seven Model Releases: The New AI Normal",
+          "url": "https://www.digitalapplied.com/blog/seven-days-seven-releases-july-2026-model-wave",
+          "source": "Digital Applied"
+        },
+        {
+          "title": "AI Updates Today (July 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Latest AI Model Releases — July 2026",
+          "url": "https://aireleasetracker.com/latest",
+          "source": "AI Release Tracker"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Kling 3.0 holds first and the margin at the top of this category is now very thin. Kling leads on physical plausibility, which is the hardest problem in generated video. Cloth folds correctly as a person turns, liquid behaves like liquid, and objects keep their mass through a motion. Those are the details that determine whether a clip survives being watched twice. Veo 3.1 sits second and produces the best integrated audio in the category, generating dialogue and ambient sound that matches the scene rather than requiring a separate pass. For anyone producing finished social content, that saves an entire step. Seedance 2.0 holds third with the strongest camera control, letting you specify moves that read as deliberate cinematography. Runway Gen-4.5 sits fourth and remains the most complete production environment, with the editing and extension tools that turn a clip into a sequence. July's release density means this ranking is provisional by design. Seven model releases landed inside one week across the broader AI field, and video is moving faster than any adjacent category. I would commit to a monthly subscription rather than an annual one right now.",
+          "highlights": [
+            {
+              "title": "Physical plausibility is the hardest problem, and Kling solves it best",
+              "body": "Cloth folding correctly through a turn, liquid behaving like liquid, and objects keeping their mass through motion are the details that determine whether a clip survives a second viewing. Kling 3.0 handles those better than anything else, and that is why it holds first."
+            },
+            {
+              "title": "Veo 3.1 generates matched audio and saves you a production step",
+              "body": "Producing dialogue and ambient sound that fits the scene inside the same generation removes a separate audio pass entirely. For anyone shipping finished social content on a deadline, cutting a full step out of the pipeline is worth more than a marginal visual quality edge."
+            },
+            {
+              "title": "Buy monthly, not annually, because this category turns over fast",
+              "body": "Seven model releases landed in a single week across the AI field in July, and video is the fastest moving segment of it. An annual commitment locks you to a tool that may be third best by October. Monthly billing keeps you free to follow the leader."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Kling 3.0 守第一，而這個品類頂端的差距現在非常薄。Kling 領先在物理合理性，也就是生成影片最難的那個問題。人轉身時衣服的皺褶對得起來，液體像液體，物體在運動中保持質量感。\n\n這些細節決定一段片子經不經得起看第二次。\n\nVeo 3.1 排第二，整合音訊是全品類最好的，對白跟環境音直接跟畫面對上，不用另外做一輪。要產出成品社群內容的人，這等於省掉一整個步驟。\n\nSeedance 2.0 守第三，鏡頭控制最強，你可以指定運鏡，出來像刻意設計的攝影。\n\nRunway Gen-4.5 第四，還是最完整的製作環境，剪接跟延長工具讓一段 clip 變成一個序列。\n\n七月的發表密度讓這份排名天生就是暫時的。整個 AI 領域一週內落地七個模型，影片是其中跑得最快的一段。\n\n所以我的建議是，現在訂閱請選月繳，不要簽年約。",
+          "highlights": [
+            {
+              "title": "物理合理性是最難的問題，Kling 解得最好",
+              "body": "轉身時衣料的皺褶、液體像液體、物體在運動中保持質量感，這些細節決定一段片子經不經得起看第二次。Kling 3.0 在這幾項處理得最好，這就是它守住第一的原因。"
+            },
+            {
+              "title": "Veo 3.1 直接生成對得上的音訊，幫你省掉一個製作環節",
+              "body": "在同一次生成裡就產出貼合畫面的對白跟環境音，等於整個音訊工序被移除。趕檔期產出成品社群內容的人，砍掉一整個步驟比一點點畫質優勢值錢多了。"
+            },
+            {
+              "title": "訂月繳不要簽年約，這個品類換代太快",
+              "body": "七月整個 AI 領域一週內落地七個模型，影片是跑最快的那一段。簽年約等於把自己綁在一個到十月可能只排第三的工具上。月繳讓你隨時跟著領先者走。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

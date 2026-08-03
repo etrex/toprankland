@@ -11528,6 +11528,338 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-31",
+      "rankings": [
+        {
+          "id": "reolink-argus-4-pro",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "videoQuality": 9.5,
+            "nightVision": 9.3,
+            "aiDetection": 8.6,
+            "storageFlexibility": 9,
+            "batteryLife": 9,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "arlo-pro-5s",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "videoQuality": 9,
+            "nightVision": 8.9,
+            "aiDetection": 9.5,
+            "storageFlexibility": 7,
+            "batteryLife": 9.5,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "eufy-cam-s3-pro",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "videoQuality": 9.3,
+            "nightVision": 9.2,
+            "aiDetection": 8.9,
+            "storageFlexibility": 9,
+            "batteryLife": 9,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "eufy-solocam-s340",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "videoQuality": 8.6,
+            "nightVision": 8.3,
+            "aiDetection": 8.5,
+            "storageFlexibility": 9,
+            "batteryLife": 8.5,
+            "valueForMoney": 9
+          }
+        },
+        {
+          "id": "google-nest-cam-outdoor",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "videoQuality": 8.8,
+            "nightVision": 8.5,
+            "aiDetection": 8.8,
+            "storageFlexibility": 7.5,
+            "batteryLife": 9,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "aosu-solarcam-t2-ultra",
+          "rank": 6,
+          "score": 8.1,
+          "scores": {
+            "videoQuality": 9.5,
+            "nightVision": 9.5,
+            "aiDetection": 9,
+            "storageFlexibility": 9.5,
+            "batteryLife": 9,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "tp-link-tapo-c460",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "videoQuality": 8.5,
+            "nightVision": 8,
+            "aiDetection": 8.8,
+            "storageFlexibility": 8.5,
+            "batteryLife": 9.0,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "ring-spotlight-cam-pro",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "videoQuality": 7.5,
+            "nightVision": 7.5,
+            "aiDetection": 8.5,
+            "storageFlexibility": 6.5,
+            "batteryLife": 7.5,
+            "valueForMoney": 7
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Robot Vacuum Flaw Could Give Hackers Control Over Millions of Home Devices",
+          "url": "https://securityledger.com/2026/07/robot-vacuum-flaw-could-give-hackers-control-over-millions-of-home-devices/",
+          "source": "The Security Ledger"
+        },
+        {
+          "title": "Home Security Robots & Cameras 2026: Complete Guide",
+          "url": "https://therobowire.com/home-security-robots-cameras-2026-complete-guide/",
+          "source": "TheRoboWire"
+        },
+        {
+          "title": "FCC Bans New Foreign-Made Robot Vacuums",
+          "url": "https://www.macrumors.com/2026/07/30/foreign-made-robot-vacuums-ban/",
+          "source": "MacRumors"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "This week's news was about robot vacuums and every word of it applies here with more force. A cloud infrastructure failure exposed camera-equipped SharkNinja robots, potentially over a million devices, and DJI patched a flaw giving access to live camera feeds, microphone audio, and home maps. Those are the exact risks a security camera carries by design, and the FCC's July 30 action against foreign-made robotic devices signals that regulators now treat home cameras as a national security surface rather than a consumer gadget. I am holding the ranking, and I am reinforcing the argument that has kept the Reolink Argus 4 Pro at the top. Its 9.0 storage flexibility score reflects genuine local recording, and local storage is the specific answer to everything in this week's news. A camera that records to a card or a local NVR under your control has a far smaller exposure than one that streams everything to a vendor cloud, and it keeps working when that vendor has an outage. The Ring Spotlight Cam Pro sits last here at 7.8 partly on a 6.5 storage score, and that is the structural reason rather than image quality. My concrete advice this week: put every camera on a segmented network, enable two-factor authentication on the account, and confirm your firmware is current today.",
+          "highlights": [
+            {
+              "title": "Local recording is the direct answer to this week's news",
+              "body": "A camera that writes to a card or a local recorder under your control has a much smaller exposure than one streaming everything to a vendor cloud, and it keeps recording during an outage. The Reolink Argus 4 Pro leads this table partly on a 9.0 storage flexibility score, and after the disclosures of the past three weeks that weighting looks more right rather than less."
+            },
+            {
+              "title": "Two-factor authentication on the camera account is not optional",
+              "body": "The most common route into a home camera is a reused password rather than a firmware exploit, and every vendor in this table supports a second factor. Enabling it takes two minutes and closes the door that actually gets used. If you set your cameras up years ago and have not revisited the account settings, do it this week."
+            },
+            {
+              "title": "Segment your cameras onto their own network",
+              "body": "Cameras and microphones inside your home deserve the same treatment you would give any untrusted device: a separate network that cannot reach your computers, storage, or work devices. This is a ten minute configuration on most modern routers and it limits the blast radius of any future vendor-side failure, which the past month suggests is worth planning for."
+            },
+            {
+              "title": "Regulators now treat home cameras as national security infrastructure",
+              "body": "The FCC's July 30 action against foreign-made robotic devices, prompted by remote access to homes worldwide, signals a shift in how connected cameras are governed. Expect more scrutiny of where footage is processed and stored. Buying a camera that works fully without a cloud dependency is the position least likely to be disrupted by whatever comes next."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這禮拜的新聞主角是掃地機器人，但每一個字套在這裡都更有力道。\n\n一個雲端基礎架構漏洞暴露了帶鏡頭的 SharkNinja 機型，可能超過一百萬台，DJI 也修掉一個能存取即時鏡頭畫面、麥克風音訊與居家地圖的漏洞。這些正好就是一台監視器在設計上本來就承擔的風險，而 FCC 7 月 30 日針對外國製機器人裝置的動作，等於宣告主管機關現在把家用攝影機視為國安面，不是消費性小玩具。\n\n我維持排名不動，同時要加強那個讓 Reolink Argus 4 Pro 一直坐在頂端的論述。它 9.0 的儲存彈性分數反映的是真正的本地錄影，而本地儲存正是這禮拜所有新聞的具體解答。\n\n一台把畫面錄到你自己掌控的記憶卡或本地 NVR 的攝影機，暴露面遠小於一台把所有東西串到廠商雲端的，而且廠商服務中斷時它還在錄。\n\nRing Spotlight Cam Pro 排在最後的 7.8，部分原因是 6.5 的儲存分數，這是結構性理由，跟畫質無關。\n\n這禮拜的具體建議：把每一台攝影機放到分段網路、帳號開啟兩步驟驗證、今天就確認韌體是最新的。",
+          "highlights": [
+            {
+              "title": "本地錄影是這禮拜新聞的直接解答",
+              "body": "一台把畫面寫進你自己掌控的記憶卡或本地錄影主機的攝影機，暴露面遠小於把所有東西串到廠商雲端的，而且服務中斷時它還在錄。Reolink Argus 4 Pro 領先這張表，部分靠的就是 9.0 的儲存彈性，經過這三週的揭露，這個權重看起來更正確而不是更可疑。"
+            },
+            {
+              "title": "攝影機帳號的兩步驟驗證不是選配",
+              "body": "入侵家用攝影機最常見的路徑是重複使用的密碼，不是韌體漏洞，而這張表上每一家廠商都支援第二因素。啟用它花兩分鐘，關掉的是真正會被走的那扇門。如果你的攝影機是好幾年前設定的、之後沒再碰過帳號設定，這禮拜就去弄。"
+            },
+            {
+              "title": "把攝影機分段到自己的網路",
+              "body": "家裡的鏡頭跟麥克風，該用你對待任何不受信任裝置的方式對待：一個碰不到你電腦、儲存裝置與工作設備的獨立網路。多數現代路由器上這是十分鐘的設定，卻能限制未來任何廠商端事故的波及範圍，而過去一個月顯示這件事值得先規劃。"
+            },
+            {
+              "title": "主管機關現在把家用攝影機當國安基礎設施看待",
+              "body": "FCC 7 月 30 日針對外國製機器人裝置的動作，起因是全球家庭遭遠端存取，這代表連網攝影機的治理方式正在轉向。預期畫面在哪裡處理、存在哪裡會受到更多檢視。買一台完全不依賴雲端也能運作的攝影機，是最不容易被接下來的變化打亂的位置。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "rankings": [
+        {
+          "id": "reolink-argus-4-pro",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "videoQuality": 9.5,
+            "nightVision": 9.3,
+            "aiDetection": 8.6,
+            "storageFlexibility": 9,
+            "batteryLife": 9,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "arlo-pro-5s",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "videoQuality": 9,
+            "nightVision": 8.9,
+            "aiDetection": 9.5,
+            "storageFlexibility": 7,
+            "batteryLife": 9.5,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "eufy-cam-s3-pro",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "videoQuality": 9.3,
+            "nightVision": 9.2,
+            "aiDetection": 8.9,
+            "storageFlexibility": 9,
+            "batteryLife": 9,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "eufy-solocam-s340",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "videoQuality": 8.6,
+            "nightVision": 8.3,
+            "aiDetection": 8.5,
+            "storageFlexibility": 9,
+            "batteryLife": 8.5,
+            "valueForMoney": 9
+          }
+        },
+        {
+          "id": "google-nest-cam-outdoor",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "videoQuality": 8.8,
+            "nightVision": 8.5,
+            "aiDetection": 8.8,
+            "storageFlexibility": 7.5,
+            "batteryLife": 9,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "aosu-solarcam-t2-ultra",
+          "rank": 6,
+          "score": 8.1,
+          "scores": {
+            "videoQuality": 9.5,
+            "nightVision": 9.5,
+            "aiDetection": 9,
+            "storageFlexibility": 9.5,
+            "batteryLife": 9,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "tp-link-tapo-c460",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "videoQuality": 8.5,
+            "nightVision": 8,
+            "aiDetection": 8.8,
+            "storageFlexibility": 8.5,
+            "batteryLife": 9.0,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "ring-spotlight-cam-pro",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "videoQuality": 7.5,
+            "nightVision": 7.5,
+            "aiDetection": 8.5,
+            "storageFlexibility": 6.5,
+            "batteryLife": 7.5,
+            "valueForMoney": 7
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Home Security Robots & Cameras 2026: Complete Guide",
+          "url": "https://therobowire.com/home-security-robots-cameras-2026-complete-guide/",
+          "source": "TheRoboWire"
+        },
+        {
+          "title": "Matter, Thread and the Protocol Wars: How Smart Home Tech Actually Works in 2026",
+          "url": "https://www.dualmedia.com/matter-thread-smart-home-protocols-2026/",
+          "source": "DualMedia"
+        },
+        {
+          "title": "Robot Vacuum Flaw Could Give Hackers Control Over Millions of Home Devices",
+          "url": "https://securityledger.com/2026/07/robot-vacuum-flaw-could-give-hackers-control-over-millions-of-home-devices/",
+          "source": "The Security Ledger"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Reolink Argus 4 Pro holds first, and the two features I keep coming back to are the 180 degree lens and local storage. A single Argus 4 Pro covers a full side of a house that would otherwise need two cameras, which changes both the cost and the number of apps you manage. Local microSD and NVR recording means your footage stays in your house without a subscription, and that structure matters more this year than it did last year. July brought fresh reminders that home devices with cameras carry real risk, including a robot vacuum disclosure where broad cloud certificates could have allowed cross device interaction. A camera that records locally reduces your exposure by keeping the footage off someone else's infrastructure. Arlo Pro 5S sits second with the best overall app experience and reliable person, package, and vehicle detection. eufyCam S3 Pro holds third and combines local storage with solar charging, which removes both the subscription and the battery maintenance. Camera support in Matter also remains patchy across ecosystems, so buy for the app you will actually use daily rather than for a standards logo on the box.",
+          "highlights": [
+            {
+              "title": "A 180 degree lens replaces two cameras and one app",
+              "body": "One Argus 4 Pro covers a full side of a house that would otherwise need a pair of cameras. That halves the hardware cost, halves the mounting work, and leaves you with one feed to check instead of two. Coverage geometry is the most underrated spec in this category."
+            },
+            {
+              "title": "Local recording keeps your footage out of someone else's infrastructure",
+              "body": "July's disclosures about home devices with cameras and overly broad cloud permissions are a reminder of what cloud only storage exposes. MicroSD and NVR recording keeps video in your house, removes the subscription, and shrinks the attack surface at the same time."
+            },
+            {
+              "title": "Solar plus local storage removes both recurring costs",
+              "body": "The eufyCam S3 Pro charges from a small panel and records locally, which eliminates the monthly fee and the ladder trip to swap batteries. For a camera mounted high on an exterior wall, removing that maintenance is worth as much as an image quality upgrade."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Reolink Argus 4 Pro 守第一，我一直回到的兩個特點是 180 度鏡頭跟本地儲存。\n\n一台 Argus 4 Pro 就涵蓋原本要兩台才顧得到的一整面牆，這同時改變了成本跟你要管幾個 App。本地 microSD 加 NVR 錄影代表影像留在家裡，不用訂閱，而這個結構今年比去年更重要。\n\n七月又給了我們提醒，家裡帶攝影機的裝置風險是真的，包括那起掃地機器人揭露，過寬的雲端憑證有可能讓裝置之間互相存取。本地錄影的攝影機把影像留在自己家，直接縮小暴露面。\n\nArlo Pro 5S 排第二，App 體驗整體最好，人形、包裹、車輛偵測都很穩。\n\neufyCam S3 Pro 守第三，本地儲存加太陽能充電，訂閱費跟換電池的麻煩一次解決。\n\nMatter 對攝影機的支援在各生態間還是很零散，所以請照你每天真的會開的那個 App 選，不要照外盒上的標章選。",
+          "highlights": [
+            {
+              "title": "180 度鏡頭省下一台攝影機跟一個 App",
+              "body": "一台 Argus 4 Pro 涵蓋原本要兩台才顧得到的一整面牆。硬體成本砍半、安裝工減半，要看的畫面也從兩個變一個。涵蓋角度是這個品類最被低估的規格。"
+            },
+            {
+              "title": "本地錄影讓影像不用放在別人的機房裡",
+              "body": "七月關於帶攝影機的家用裝置與過寬雲端權限的揭露，正好提醒我們純雲端儲存曝露了什麼。microSD 加 NVR 把影像留在家裡，省掉訂閱，同時縮小攻擊面。"
+            },
+            {
+              "title": "太陽能加本地儲存，兩筆長期成本一起消失",
+              "body": "eufyCam S3 Pro 靠一片小太陽能板充電並在本地錄影，月費跟爬梯子換電池同時解決。裝在外牆高處的攝影機，省掉這些維護跟畫質升級一樣值錢。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

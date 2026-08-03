@@ -11649,6 +11649,394 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-31",
+      "rankings": [
+        {
+          "id": "eufy-e340",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "video": 9,
+            "value": 9.8,
+            "smartHome": 8,
+            "detection": 9.1,
+            "install": 9.5
+          }
+        },
+        {
+          "id": "aqara-g410",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "video": 8.6,
+            "value": 9.5,
+            "smartHome": 10.0,
+            "detection": 9,
+            "install": 8.5
+          }
+        },
+        {
+          "id": "aqara-g400-wired",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "video": 8.6,
+            "value": 8.8,
+            "smartHome": 9.2,
+            "detection": 8.8,
+            "install": 7.5
+          }
+        },
+        {
+          "id": "google-nest-doorbell-wired-2nd-gen",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "video": 8.5,
+            "value": 7.5,
+            "smartHome": 9.5,
+            "detection": 9.8,
+            "install": 7.5
+          }
+        },
+        {
+          "id": "ring-battery-doorbell-pro-2nd-gen",
+          "rank": 5,
+          "score": 8.4,
+          "scores": {
+            "video": 9.8,
+            "value": 6.5,
+            "smartHome": 8.5,
+            "detection": 9,
+            "install": 9
+          }
+        },
+        {
+          "id": "tapo-d225",
+          "rank": 6,
+          "score": 8.3,
+          "scores": {
+            "video": 8,
+            "value": 9.8,
+            "smartHome": 7,
+            "detection": 8,
+            "install": 9
+          }
+        },
+        {
+          "id": "google-nest-doorbell-wired-3rd-gen",
+          "rank": 7,
+          "score": 8.4,
+          "scores": {
+            "video": 8.7,
+            "value": 7.8,
+            "smartHome": 9.5,
+            "detection": 9,
+            "install": 7.5
+          }
+        },
+        {
+          "id": "ring-wired-doorbell-pro-3rd-gen",
+          "rank": 8,
+          "score": 8.2,
+          "scores": {
+            "video": 9.8,
+            "value": 6.2,
+            "smartHome": 8.0,
+            "detection": 9.0,
+            "install": 8.0
+          }
+        },
+        {
+          "id": "arlo-video-doorbell-2k-2nd-gen",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "video": 8.5,
+            "value": 6.5,
+            "smartHome": 8,
+            "detection": 8.5,
+            "install": 9
+          }
+        },
+        {
+          "id": "ring-battery-doorbell-plus",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "video": 8,
+            "value": 7,
+            "smartHome": 8.5,
+            "detection": 8,
+            "install": 8.5
+          }
+        },
+        {
+          "id": "blink-doorbell-sync-module-2",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "video": 6.5,
+            "value": 9.5,
+            "smartHome": 7,
+            "detection": 7,
+            "install": 9
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Home Security Robots & Cameras 2026: Complete Guide",
+          "url": "https://therobowire.com/home-security-robots-cameras-2026-complete-guide/",
+          "source": "TheRoboWire"
+        },
+        {
+          "title": "Robot Vacuum Flaw Could Give Hackers Control Over Millions of Home Devices",
+          "url": "https://securityledger.com/2026/07/robot-vacuum-flaw-could-give-hackers-control-over-millions-of-home-devices/",
+          "source": "The Security Ledger"
+        },
+        {
+          "title": "Smart Home News",
+          "url": "https://www.tomsguide.com/uk/home/smart-home/news/page/2",
+          "source": "Tom's Guide"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The connected-device security news of the past three weeks lands squarely on doorbells, so the ranking holds while the advice sharpens. A doorbell camera watches a public-facing space continuously, records the faces of everyone who approaches your home, and in most configurations sends all of it to a vendor cloud. That is a large amount of trust placed in a company's infrastructure, and this month has shown what happens when that infrastructure has a gap. The specification I would prioritise is local storage with cloud as an option rather than a requirement. It reduces your exposure, it removes the subscription from the critical path, and it means the doorbell keeps recording when your internet drops, which is exactly when you might want it to. On the practical side, my long-standing advice is unchanged. Battery models are easy to install and they are a compromise on the thing that matters most, which is response time. A wired doorbell has no wake-up delay, and the difference between capturing someone approaching and capturing them walking away is usually those two seconds. If you have existing doorbell wiring, use it. Finally, check the field of view shape. A tall aspect ratio shows you a package on the doorstep, and that is what most people actually want to see.",
+          "highlights": [
+            {
+              "title": "Wired beats battery on the specification that matters most",
+              "body": "Battery doorbells sleep to preserve charge and need to wake before they record, and those two seconds are usually the difference between capturing someone approaching and capturing them leaving. A wired unit is always live. If you have existing doorbell wiring, the installation convenience of a battery model costs you the thing you bought it for."
+            },
+            {
+              "title": "Local storage should be the default and cloud the option",
+              "body": "A doorbell records faces continuously in a public-facing space, and this month showed what a gap in vendor cloud infrastructure can expose. A unit that stores locally reduces your exposure, removes the subscription from the critical path, and keeps recording when your internet connection drops. That last case is exactly when you want it working."
+            },
+            {
+              "title": "A tall field of view shows you the package on the step",
+              "body": "Wide aspect ratios capture the street, and a tall, portrait-shaped view captures the doorstep including whatever was left on it. Most people install a doorbell camera to see deliveries and visitors rather than traffic. Check the shape of the field of view rather than only the degree figure, because the orientation determines what you actually see."
+            },
+            {
+              "title": "Read the subscription terms before you mount anything",
+              "body": "Several doorbells in this category lose recording, person detection, or rich notifications entirely without an active plan, and the hardware price does not tell you that. Work out the five-year cost including the subscription before you commit, because the cheaper doorbell is frequently the more expensive system once you add it up."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "過去三週的連網裝置資安新聞，全部都精準落在門鈴上，所以排名維持不動，建議則要講得更銳利。\n\n一台門鈴攝影機持續盯著一個面向公共空間的位置，記錄每一個靠近你家的人的臉，而在多數設定下，它會把這一切送到廠商雲端。那是把很大一份信任交給一家公司的基礎架構，而這個月已經示範了那個架構有缺口時會發生什麼事。\n\n我會優先看的規格是「本地儲存為主、雲端為選配」。它降低你的暴露面、把訂閱從關鍵路徑上移除，也代表網路斷線時門鈴還在錄，而那正好是你最希望它在錄的時候。\n\n實務上我長期的建議沒變。電池款安裝方便，代價正好落在最重要的那件事上，也就是反應時間。有線門鈴沒有喚醒延遲，而「拍到有人靠近」跟「拍到有人走開」的差別，通常就是那兩秒。\n\n如果你家已經有門鈴線路，就用它。\n\n最後，看一下視野的形狀。直立比例的畫面才看得到門口地上的包裹，而那正是多數人真正想看到的東西。",
+          "highlights": [
+            {
+              "title": "在最重要的規格上，有線贏過電池",
+              "body": "電池門鈴為了省電會進入休眠，錄影前得先喚醒，而那兩秒通常就是「拍到有人靠近」跟「拍到有人離開」的差別。有線款永遠是清醒的。如果你家已經有門鈴線路，電池款的安裝便利性，代價正好是你買它的理由。"
+            },
+            {
+              "title": "本地儲存該是預設，雲端該是選配",
+              "body": "門鈴在面向公共空間的位置持續記錄人臉，而這個月已經展示了廠商雲端架構的缺口能暴露什麼。本地儲存的機型降低你的暴露面、把訂閱從關鍵路徑移除，網路斷線時還在錄。最後那個情況，正好是你最希望它運作的時候。"
+            },
+            {
+              "title": "直立視野才看得到門口地上的包裹",
+              "body": "寬幅比例拍到的是街景，直立的人像比例視野拍到的是門口，包含放在上面的東西。多數人裝門鈴攝影機是為了看包裹跟訪客，不是看車流。看視野的形狀，不要只看角度數字，因為方向決定了你實際看得到什麼。"
+            },
+            {
+              "title": "裝上去之前，先把訂閱條款讀完",
+              "body": "這個品類有好幾款門鈴，沒有有效方案就完全失去錄影、人形偵測或詳細通知，而硬體標價不會告訴你這件事。把含訂閱的五年總成本算出來再決定，因為加總之後，比較便宜的那台門鈴常常是比較貴的那套系統。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "rankings": [
+        {
+          "id": "eufy-e340",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "video": 9,
+            "value": 9.8,
+            "smartHome": 8,
+            "detection": 9.1,
+            "install": 9.5
+          }
+        },
+        {
+          "id": "aqara-g410",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "video": 8.6,
+            "value": 9.5,
+            "smartHome": 10.0,
+            "detection": 9,
+            "install": 8.5
+          }
+        },
+        {
+          "id": "aqara-g400-wired",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "video": 8.6,
+            "value": 8.8,
+            "smartHome": 9.2,
+            "detection": 8.8,
+            "install": 7.5
+          }
+        },
+        {
+          "id": "google-nest-doorbell-wired-2nd-gen",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "video": 8.5,
+            "value": 7.5,
+            "smartHome": 9.5,
+            "detection": 9.8,
+            "install": 7.5
+          }
+        },
+        {
+          "id": "ring-battery-doorbell-pro-2nd-gen",
+          "rank": 5,
+          "score": 8.4,
+          "scores": {
+            "video": 9.8,
+            "value": 6.5,
+            "smartHome": 8.5,
+            "detection": 9,
+            "install": 9
+          }
+        },
+        {
+          "id": "tapo-d225",
+          "rank": 6,
+          "score": 8.3,
+          "scores": {
+            "video": 8,
+            "value": 9.8,
+            "smartHome": 7,
+            "detection": 8,
+            "install": 9
+          }
+        },
+        {
+          "id": "google-nest-doorbell-wired-3rd-gen",
+          "rank": 7,
+          "score": 8.4,
+          "scores": {
+            "video": 8.7,
+            "value": 7.8,
+            "smartHome": 9.5,
+            "detection": 9,
+            "install": 7.5
+          }
+        },
+        {
+          "id": "ring-wired-doorbell-pro-3rd-gen",
+          "rank": 8,
+          "score": 8.2,
+          "scores": {
+            "video": 9.8,
+            "value": 6.2,
+            "smartHome": 8.0,
+            "detection": 9.0,
+            "install": 8.0
+          }
+        },
+        {
+          "id": "arlo-video-doorbell-2k-2nd-gen",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "video": 8.5,
+            "value": 6.5,
+            "smartHome": 8,
+            "detection": 8.5,
+            "install": 9
+          }
+        },
+        {
+          "id": "ring-battery-doorbell-plus",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "video": 8,
+            "value": 7,
+            "smartHome": 8.5,
+            "detection": 8,
+            "install": 8.5
+          }
+        },
+        {
+          "id": "blink-doorbell-sync-module-2",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "video": 6.5,
+            "value": 9.5,
+            "smartHome": 7,
+            "detection": 7,
+            "install": 9
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Home Security Robots & Cameras 2026: Complete Guide",
+          "url": "https://therobowire.com/home-security-robots-cameras-2026-complete-guide/",
+          "source": "TheRoboWire"
+        },
+        {
+          "title": "Matter, Thread and the Protocol Wars: How Smart Home Tech Actually Works in 2026",
+          "url": "https://www.dualmedia.com/matter-thread-smart-home-protocols-2026/",
+          "source": "DualMedia"
+        },
+        {
+          "title": "The Matter Innovations at CES 2026",
+          "url": "https://matter-smarthome.de/en/products/the-matter-innovations-at-ces-2026/",
+          "source": "matter-smarthome"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Eufy Video Doorbell E340 holds first, and the dual camera design is the reason it stays there. A second downward facing lens shows the ground directly below the door, which is where packages are actually left. Every single lens doorbell makes you guess whether a delivery arrived or just a person walked past, and the second camera answers that question directly. Local storage with no subscription is the other half of the argument, and it means your visitor footage stays in your house. Aqara Doorbell Camera Hub G410 sits second and doubles as a smart home hub, which is a meaningful saving if you are building an Aqara sensor network anyway. Aqara G400 holds third as the wired option with the same platform strengths. Nest Doorbell sits fourth and is the natural choice inside a Google Home setup where familiar face recognition runs well. One practical note for buyers this year: camera support across Matter remains uneven, with manufacturers exposing only part of their feature set through the standard. Choose the app ecosystem you will live in every day, and treat Matter compatibility as a bonus rather than a plan.",
+          "highlights": [
+            {
+              "title": "The second downward camera answers the only question that matters",
+              "body": "A single lens doorbell shows you a person at the door and leaves you guessing whether a package was left. The E340's downward lens shows the ground where deliveries actually land, which turns an ambiguous notification into a definite answer without opening the door."
+            },
+            {
+              "title": "Local storage with no subscription keeps visitor footage at home",
+              "body": "Every person who approaches your door gets recorded, which is a sensitive dataset. Keeping it on local storage removes both the monthly fee and the question of who else can reach the archive. That structural choice matters more than a resolution bump."
+            },
+            {
+              "title": "Buy the Aqara G410 if you are building a sensor network anyway",
+              "body": "It works as a smart home hub alongside its doorbell duties, which saves you a separate hub and a power outlet. For anyone already adding Aqara sensors around the house, that consolidation makes it the more economical entry point."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Eufy Video Doorbell E340 守第一，雙鏡頭設計就是它待在這裡的原因。\n\n第二顆朝下的鏡頭直接拍門口地面，也就是包裹真正被放的地方。所有單鏡頭門鈴都會讓你猜到底是送貨還是路人經過，第二顆鏡頭直接把這個問題答掉。\n\n本地儲存不用訂閱是另一半論據，代表訪客影像留在你家裡。\n\nAqara Doorbell Camera Hub G410 排第二，它同時是智慧家庭 hub，本來就在建 Aqara 感測器網路的人可以省一筆。\n\nAqara G400 守第三，有線版本，平台優勢一樣。\n\nNest Doorbell 第四，Google Home 生態的人自然選它，熟面孔辨識跑得很好。\n\n今年給買家一個實務提醒，攝影機在 Matter 的支援還是不平均，廠商只透過標準開放部分功能。選那個你每天真的會活在裡面的 App 生態，Matter 相容當作加分，不要當作規劃基礎。",
+          "highlights": [
+            {
+              "title": "朝下的第二顆鏡頭，回答了唯一重要的那個問題",
+              "body": "單鏡頭門鈴給你看到門口有人，卻讓你猜包裹到底放了沒。E340 的下視鏡頭直接拍地面，把一個模稜兩可的推播變成明確的答案，不用開門確認。"
+            },
+            {
+              "title": "本地儲存不訂閱，訪客影像留在家裡",
+              "body": "每個走近你家門口的人都會被錄下來，這是很敏感的資料集。留在本地儲存，月費跟「還有誰摸得到這些檔案」的疑慮一起消失。這個結構性選擇比解析度提升重要。"
+            },
+            {
+              "title": "本來就要裝感測器的話，買 Aqara G410",
+              "body": "它在當門鈴的同時也是智慧家庭 hub，幫你省下一台 hub 跟一個插座。已經打算在家裡佈 Aqara 感測器的人，這種整合讓它成為更划算的切入點。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

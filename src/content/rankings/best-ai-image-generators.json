@@ -10030,6 +10030,418 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-07-31",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 9.0,
+            "artisticQuality": 8.3,
+            "textRendering": 9.7,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.1,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "nano-banana-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 11,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "LLM News Today (July 2026) - AI Model Releases",
+          "url": "https://llm-stats.com/ai-news",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "AI by AI Weekly Top 5: July 20-26, 2026",
+          "url": "https://champaignmagazine.com/2026/07/26/ai-by-ai-weekly-top-5-july-20-26-2026/",
+          "source": "Champaign Magazine"
+        },
+        {
+          "title": "Best AI Models in July 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Image generation had a quiet week while the text models took all the headlines, and I am leaving the ranking where it stands because nothing in the past seven days changed what these tools produce. That is worth saying plainly rather than manufacturing movement. The interesting pressure is coming from the price side. When the labs cut inference costs across the board in late July, the generators that run on those same accelerators get cheaper to operate, and the ones charging a premium per image have a harder story to tell. I expect the credit packs to loosen before the models change. My ranking logic here has not shifted all year: prompt adherence decides the top of this table. A model that renders a beautiful image of something adjacent to what you asked for wastes more of your afternoon than one that renders a plainer image of exactly the right thing. Text rendering inside images remains the sharpest separator, because it is the one capability where you can check the answer at a glance and it is the one clients notice first on a poster or a mockup. If you are choosing this week, buy on the output you need rather than the leaderboard. Product photography, illustration, and photoreal portraiture are three different jobs, and the model that wins one of them is not automatically the model that wins the other two.",
+          "highlights": [
+            {
+              "title": "Prompt adherence is the only score that survives contact with a deadline",
+              "body": "I weight this above aesthetic quality because a near-miss costs you a full regeneration cycle. The models at the top of this table hit compositional instructions like camera angle, subject count, and spatial relationships on the first or second attempt, and that reliability compounds across a working session in a way that a marginally prettier render never does."
+            },
+            {
+              "title": "Legible text inside an image is still the cleanest quality test available",
+              "body": "You can verify it in one second without expertise, and it is the failure clients spot immediately on a mockup or a poster. The leaders now handle short headline text convincingly, and that single capability moved image generators from concept art into actual production layout work over the past year."
+            },
+            {
+              "title": "Falling inference prices will reach the credit packs before they reach the models",
+              "body": "Late July brought broad cost reductions across the frontier labs, and image services run on the same accelerator supply. I expect the next real movement in this category to be more generations per dollar rather than a new architecture, which favours the platforms with generous subscription tiers over the ones charging per image."
+            },
+            {
+              "title": "Pick by job, because these three jobs have different winners",
+              "body": "Product photography rewards clean lighting and material realism. Illustration rewards style consistency across a series. Photoreal portraiture rewards anatomy and skin texture. No single model in this table is best at all three, so I would rather you match the tool to your actual output than take the top row on faith."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這禮拜文字模型搶走所有版面，圖像生成這邊反而安靜，我就讓排名維持原樣，因為過去七天真的沒有任何事情改變這些工具產出的東西。這件事我覺得直接講比硬擠出變動要誠實得多。\n\n真正的壓力來自價格端。七月下旬各家實驗室推理成本全面下修，圖像生成跑的是同一批加速器，營運成本跟著降，那些一張圖收高價的服務就比較難自圓其說了。我猜點數包會比模型先鬆動。\n\n我這一年的排序邏輯沒變過：決定這張表頂端的是 prompt 遵循度。一個把「跟你要的東西很接近但不完全一樣」畫得很漂亮的模型，浪費掉的下午比一個畫得樸素但完全正確的模型還多。\n\n圖裡面的文字渲染仍然是最銳利的分水嶺，因為這是唯一你一眼就能驗證的能力，也是客戶在海報或 mockup 上第一個會抓到的問題。\n\n如果你這禮拜要選，就照你要的產出去挑，不要看排行榜。商品攝影、插畫、寫實人像是三種不同的工作，贏了其中一項的模型，不會自動贏另外兩項。",
+          "highlights": [
+            {
+              "title": "遇到 deadline 之後還活得下來的分數只有 prompt 遵循度",
+              "body": "我把這項的權重放在美感之上，因為差一點就等於整輪重生。表格頂端這幾個在鏡頭角度、主體數量、空間關係這類構圖指令上，第一次或第二次就能中，這種可靠度在一整個工作階段裡是會複利累積的，畫面稍微好看一點則完全沒有這種效果。"
+            },
+            {
+              "title": "圖裡的文字能不能讀，還是最乾淨的品質測試",
+              "body": "一秒就能驗證，不需要任何專業知識，而且是客戶在 mockup 或海報上第一眼就會抓到的錯誤。目前的領先者已經能穩定處理短標題文字，光是這一項能力，就讓圖像生成器在過去一年從概念稿工具變成真的能排進版面的生產工具。"
+            },
+            {
+              "title": "推理降價會先反映在點數包，不會先反映在模型",
+              "body": "七月下旬各家前沿實驗室成本全面下修，圖像服務用的是同一批加速器供給。我認為這個品類下一波真正的變動會是「同樣的錢能生更多張」，而不是新架構。這對訂閱制大方的平台有利，對按張計費的服務不利。"
+            },
+            {
+              "title": "照工作類型選，因為這三種工作的贏家不一樣",
+              "body": "商品攝影看的是打光乾淨跟材質寫實。插畫看的是整個系列的風格一致性。寫實人像看的是解剖結構跟皮膚質感。這張表裡沒有任何一個模型三項全拿，所以與其閉著眼睛抓第一名，不如把工具對到你真正要交出去的東西。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 9.0,
+            "artisticQuality": 8.3,
+            "textRendering": 9.7,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.1,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "nano-banana-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 11,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Seven Days, Seven Model Releases: The New AI Normal",
+          "url": "https://www.digitalapplied.com/blog/seven-days-seven-releases-july-2026-model-wave",
+          "source": "Digital Applied"
+        },
+        {
+          "title": "Latest AI Model Releases — July 2026",
+          "url": "https://aireleasetracker.com/latest",
+          "source": "AI Release Tracker"
+        },
+        {
+          "title": "LLM Release Timeline — Model Release Dates",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "GPT Image 2 and Midjourney V8.1 stay tied at the top on score, with GPT Image 2 holding first on the strength of instruction following. When I give it a detailed brief with specific spatial relationships, text placement, and style constraints, it delivers what I asked for more often than anything else. That reliability matters more than peak aesthetic quality for commercial work where the brief is fixed. Midjourney V8.1 sits second and still produces the most striking images per prompt when you have creative latitude, with a house style that reads as intentional rather than generated. Nano Banana Pro holds third and leads on editing existing images, where Gemini's understanding of what is already in the frame produces cleaner local edits. The headline event this month is Black Forest Labs announcing FLUX 3, its first multimodal frontier model, which closed out the busiest release week of the year. Flux 2 Pro sits fourth today, and I expect FLUX 3 to reshape this ranking once it is broadly available. For anyone choosing now, pick on the job: fixed briefs go to GPT Image 2, open creative work goes to Midjourney, editing goes to Nano Banana Pro.",
+          "highlights": [
+            {
+              "title": "Instruction following beats peak aesthetics for commercial work",
+              "body": "When a brief specifies spatial relationships, text placement, and style constraints, the model that delivers exactly that saves you rounds of regeneration. GPT Image 2 hits detailed briefs most consistently, and for paid work with a fixed spec that reliability is worth more than a more beautiful average output."
+            },
+            {
+              "title": "Midjourney V8.1 wins when you have creative latitude",
+              "body": "Its house style reads as a deliberate artistic direction rather than a generated look, and it produces more striking results per prompt when nobody has specified the exact composition. For concept work and mood exploration, that quality per attempt is the thing that matters."
+            },
+            {
+              "title": "FLUX 3 is coming and it will reshape this ranking",
+              "body": "Black Forest Labs announced FLUX 3 as its first multimodal frontier model at the close of July's release wave. Flux has been competitive at the top of this category for two generations, and a multimodal jump is the kind of change that moves rankings rather than nudging scores."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "GPT Image 2 跟 Midjourney V8.1 分數並列頂端，GPT Image 2 靠指令遵循守住第一。我給它一份包含具體空間關係、文字位置、風格限制的詳細 brief，它交出我要的東西的機率比其他都高。\n\n接商業案、brief 是固定的時候，這種可靠度比顛峰美感重要。\n\nMidjourney V8.1 排第二，創作空間比較自由的時候，它每一次生成的視覺衝擊還是最強，那個家族風格看起來像刻意的藝術指導而不是機器產物。\n\nNano Banana Pro 守第三，改圖最強，Gemini 對畫面既有內容的理解讓局部編輯乾淨很多。\n\n這個月的頭條是 Black Forest Labs 宣布 FLUX 3，他們第一個多模態前沿模型，為今年最忙的一週發表期收尾。Flux 2 Pro 目前排第四，等 FLUX 3 廣泛開放之後，我預期這份榜單會被重排。\n\n現在要選的話，照任務挑：固定 brief 選 GPT Image 2，自由創作選 Midjourney，改圖選 Nano Banana Pro。",
+          "highlights": [
+            {
+              "title": "接案工作，指令遵循贏過顛峰美感",
+              "body": "當 brief 指定了空間關係、文字位置、風格限制，能精準交出那個結果的模型，幫你省下一輪又一輪重生成。GPT Image 2 命中詳細 brief 的一致性最高，規格寫死的付費工作裡，這比平均更漂亮的輸出值錢。"
+            },
+            {
+              "title": "創作空間自由時，Midjourney V8.1 才是贏家",
+              "body": "它的家族風格讀起來像刻意的藝術指導而不是生成感，沒人指定精確構圖的時候，每一次生成的視覺衝擊最強。做概念稿、找調性的階段，這種單次品質才是關鍵。"
+            },
+            {
+              "title": "FLUX 3 要來了，它會重排這份榜單",
+              "body": "Black Forest Labs 在七月發表潮的尾聲宣布 FLUX 3，是他們第一個多模態前沿模型。Flux 連續兩代都站在這個品類的頂端，多模態這種跨度的躍進，通常會動排名而不只是微調分數。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
