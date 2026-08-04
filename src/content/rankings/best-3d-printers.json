@@ -210,6 +210,22 @@
           "priceRange": "約 NT$29,700"
         }
       }
+    },
+    {
+      "id": "bambu-lab-a2l-combo",
+      "name": "A2L Combo",
+      "brand": "Bambu Lab",
+      "url": "https://us.store.bambulab.com/products/a2l",
+      "i18n": {
+        "en": {
+          "description": "A 330 x 320 x 325 mm build volume for $569 with the AMS Lite bundled in, the same bed footprint as the $1,899 H2D at entry-level money. I reach for this one whenever a model is too tall or too wide for a 256 mm machine and the material stays in PLA or PETG territory.",
+          "priceRange": "$569"
+        },
+        "zh-tw": {
+          "description": "569 美金就給你 330×320×325mm 的列印空間，跟 1,899 美金的 H2D 同樣大的床，Combo 版還直接附 AMS Lite 可以印四色。老實說，我碰到 256mm 機種塞不下的模型第一個想到的就是它，只玩 PLA、PETG 的話完全夠用。",
+          "priceRange": "約 NT$18,800"
+        }
+      }
     }
   ],
   "history": [
@@ -10510,8 +10526,20 @@
           }
         },
         {
-          "id": "prusa-mk4s",
+          "id": "bambu-lab-a2l-combo",
           "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "print_quality": 8.4,
+            "speed": 8.0,
+            "multicolor": 8.8,
+            "ecosystem": 9.5,
+            "value": 9.6
+          }
+        },
+        {
+          "id": "prusa-mk4s",
+          "rank": 8,
           "score": 8.6,
           "scores": {
             "print_quality": 9.5,
@@ -10523,7 +10551,7 @@
         },
         {
           "id": "creality-k2-plus-combo",
-          "rank": 8,
+          "rank": 9,
           "score": 8.5,
           "scores": {
             "print_quality": 8.8,
@@ -10535,7 +10563,7 @@
         },
         {
           "id": "elegoo-centauri-carbon",
-          "rank": 9,
+          "rank": 10,
           "score": 8.5,
           "scores": {
             "print_quality": 8.5,
@@ -10547,7 +10575,7 @@
         },
         {
           "id": "anycubic-kobra-3-max-combo",
-          "rank": 10,
+          "rank": 11,
           "score": 8.0,
           "scores": {
             "print_quality": 8.0,
@@ -10559,7 +10587,7 @@
         },
         {
           "id": "sovol-sv08",
-          "rank": 11,
+          "rank": 12,
           "score": 7.9,
           "scores": {
             "print_quality": 8.5,
@@ -10571,7 +10599,7 @@
         },
         {
           "id": "creality-ender-3-v3-se",
-          "rank": 12,
+          "rank": 13,
           "score": 7.6,
           "scores": {
             "print_quality": 7.5,
@@ -10597,6 +10625,11 @@
           "title": "12 Best 3D Printers (July 2026) Tested & Compared",
           "url": "https://print2webcorp.com/best-3d-printer-tested-and-compared/",
           "source": "Print2Web"
+        },
+        {
+          "title": "Bambu Lab A2L and A2L Combo: Large-Format A-Series 3D Printer from $469, Now Shipping",
+          "url": "https://3dprinting.com/news/bambu-lab-a2l-and-a2l-combo-launch/",
+          "source": "3DPrinting.com"
         }
       ],
       "i18n": {

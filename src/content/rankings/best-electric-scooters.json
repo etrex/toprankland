@@ -163,6 +163,38 @@
           "priceRange": "約 NT$10,400"
         }
       }
+    },
+    {
+      "id": "segway-e3-pro",
+      "name": "E3 Pro",
+      "brand": "Segway",
+      "url": "https://store.segway.com/e3-pro-electric-scooter",
+      "i18n": {
+        "en": {
+          "description": "34 miles of range, dual suspension and Apple Find My tracking for around $549, the most commuter hardware I have found at this price. The turn signals and 10-inch tubeless tires make it genuinely usable on real city streets.",
+          "priceRange": "$549"
+        },
+        "zh-tw": {
+          "description": "約 549 美金就有 34 英里續航、前後雙避震，還內建 Apple Find My 可以直接追車。方向燈配上 10 吋無內胎輪，台北那種柏油補丁一堆的巷弄騎起來意外地穩，通勤預算抓兩萬以內我會直接推這台。",
+          "priceRange": "約 NT$17,800"
+        }
+      }
+    },
+    {
+      "id": "apollo-dash",
+      "name": "Dash",
+      "brand": "Apollo",
+      "url": "https://apolloscooters.co/products/apollo-dash",
+      "i18n": {
+        "en": {
+          "description": "A 1200W motor pushing 21 mph with IP66 sealing and a lifetime frame warranty at $649. I weight that sealing heavily because it decides whether you ride through a rainy week or park the scooter until it dries out.",
+          "priceRange": "$649"
+        },
+        "zh-tw": {
+          "description": "1200W 馬達、時速上看 21 英里，IP66 防水再加車架終身保固，649 美金這組合我覺得很有誠意。台灣梅雨季一下就是連續一整週，防水做到 IP66 才敢天天牽出門，這點我看得很重。",
+          "priceRange": "約 NT$21,000"
+        }
+      }
     }
   ],
   "history": [
@@ -12220,8 +12252,34 @@
           }
         },
         {
-          "id": "xiaomi-electric-scooter-4-pro",
+          "id": "segway-e3-pro",
           "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "range": 8.6,
+            "speed": 7.6,
+            "value": 9.2,
+            "portability": 8.4,
+            "safety": 8.6,
+            "smartFeatures": 9.0
+          }
+        },
+        {
+          "id": "apollo-dash",
+          "rank": 6,
+          "score": 8.3,
+          "scores": {
+            "range": 7.9,
+            "speed": 8.1,
+            "value": 8.9,
+            "portability": 7.5,
+            "safety": 8.9,
+            "smartFeatures": 7.8
+          }
+        },
+        {
+          "id": "xiaomi-electric-scooter-4-pro",
+          "rank": 7,
           "score": 8.2,
           "scores": {
             "range": 7.5,
@@ -12234,7 +12292,7 @@
         },
         {
           "id": "gotrax-g4",
-          "rank": 6,
+          "rank": 8,
           "score": 8.0,
           "scores": {
             "range": 8.0,
@@ -12247,7 +12305,7 @@
         },
         {
           "id": "levy-plus",
-          "rank": 7,
+          "rank": 9,
           "score": 7.8,
           "scores": {
             "range": 7.0,
@@ -12260,7 +12318,7 @@
         },
         {
           "id": "hiboy-s2-pro",
-          "rank": 8,
+          "rank": 10,
           "score": 7.5,
           "scores": {
             "range": 7.0,
@@ -12273,7 +12331,7 @@
         },
         {
           "id": "unagi-model-one-e500",
-          "rank": 9,
+          "rank": 11,
           "score": 6.9,
           "scores": {
             "range": 6.0,
@@ -12300,6 +12358,11 @@
           "title": "9 Best Electric Scooters for Adults in the USA | Spring 2026",
           "url": "https://electroheads.com/blogs/e-scooter-reviews/the-best-electric-scooters-you-can-buy-in-the-usa",
           "source": "Electroheads"
+        },
+        {
+          "title": "Segway's E3 Pro is my go-to e-scooter with 34-mile range, Apple Find My",
+          "url": "https://9to5toys.com/2026/02/03/segway-e3-pro-electric-scooter-second-best-550-pricing/",
+          "source": "9to5Toys"
         }
       ],
       "i18n": {

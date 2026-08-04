@@ -210,6 +210,22 @@
           "priceRange": "約 NT$6,400–32,000 / 年"
         }
       }
+    },
+    {
+      "id": "veri",
+      "name": "Veri",
+      "brand": "Veri",
+      "url": "https://www.veri.co/",
+      "i18n": {
+        "en": {
+          "description": "A $109 a month membership pairing Abbott Libre sensors with the cleanest food-logging app in this category, and a $39 app-only tier if you source sensors elsewhere. I recommend it to people who want glucose data translated straight into meal decisions.",
+          "priceRange": "$109/mo"
+        },
+        "zh-tw": {
+          "description": "月費 109 美金，用的是 Abbott Libre 感測器，另外還有 39 美金的純 App 方案給自備感測器的人。它的飲食記錄介面在這類服務裡做得最乾淨，想把血糖數字直接變成「下一餐該吃什麼」的人，我覺得從它入門最好上手。",
+          "priceRange": "約 NT$3,500 / 月"
+        }
+      }
     }
   ],
   "history": [
@@ -313,8 +329,20 @@
           }
         },
         {
-          "id": "signos",
+          "id": "veri",
           "rank": 9,
+          "score": 8.3,
+          "scores": {
+            "accuracy": 9.0,
+            "wearTime": 8.6,
+            "dailyCost": 8.2,
+            "app": 9.0,
+            "coaching": 7.6
+          }
+        },
+        {
+          "id": "signos",
+          "rank": 10,
           "score": 8.2,
           "scores": {
             "accuracy": 8.6,
@@ -326,7 +354,7 @@
         },
         {
           "id": "ultrahuman-m1",
-          "rank": 10,
+          "rank": 11,
           "score": 8.0,
           "scores": {
             "accuracy": 8.4,
@@ -338,7 +366,7 @@
         },
         {
           "id": "sibionics-gs3",
-          "rank": 11,
+          "rank": 12,
           "score": 7.8,
           "scores": {
             "accuracy": 8.0,
@@ -350,7 +378,7 @@
         },
         {
           "id": "january-ai",
-          "rank": 12,
+          "rank": 13,
           "score": 7.5,
           "scores": {
             "accuracy": 7.0,
@@ -381,6 +409,11 @@
           "title": "Best CGMs (2026 Review) For Non-Diabetics, Athletes & Biohackers",
           "url": "https://outliyr.com/best-cgms-healthy-biohackers",
           "source": "Outliyr"
+        },
+        {
+          "title": "5 CGM Subscription Services Compared: Pricing and Features for 2026",
+          "url": "https://www.glucoseintel.com/services/",
+          "source": "GlucoseIntel"
         }
       ],
       "i18n": {
