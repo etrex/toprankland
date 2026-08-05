@@ -1,0 +1,391 @@
+{
+  "slug": "best-vr-headsets",
+  "category": "Gaming",
+  "scoreFactors": {
+    "value": "Price & Value",
+    "standalone": "Standalone Performance",
+    "pcvr": "PC VR Performance",
+    "comfort": "Comfort & Weight",
+    "content": "Content Ecosystem"
+  },
+  "i18n": {
+    "en": {
+      "title": "Best VR Headsets 2026",
+      "description": "Valve's Steam Frame cleared customs, Meta raised Quest prices $100, and the Index is gone. Here is where every VR headset worth buying actually lands in August 2026."
+    },
+    "zh-tw": {
+      "title": "最佳 VR 頭戴裝置 2026",
+      "description": "Steam Frame 已經過了美國海關，Meta 四月把 Quest 全線漲一百美元，Index 停產。2026 年八月值得買的 VR 頭戴裝置，這份排行幫你重新排好。"
+    }
+  },
+  "competitors": [
+    {
+      "id": "meta-quest-3",
+      "name": "Quest 3 (512GB)",
+      "brand": "Meta",
+      "url": "https://www.meta.com/quest/quest-3/",
+      "i18n": {
+        "en": {
+          "description": "Snapdragon XR2 Gen 2 standalone headset with pancake lenses, 2064x2208 per eye, and full-color passthrough. It runs the biggest content library in VR on its own and streams SteamVR wirelessly over Air Link when you plug into a gaming PC.",
+          "priceRange": "$599.99"
+        },
+        "zh-tw": {
+          "description": "搭 Snapdragon XR2 Gen 2 的一體機，pancake 鏡片，單眼 2064x2208，彩色透視。開機就能玩 VR 最大的遊戲庫，想接 PC 也能用 Air Link 無線串 SteamVR。台灣沒有官方代理，蝦皮跟日本代購是主要入手管道。",
+          "priceRange": "約 NT$19,900"
+        }
+      }
+    },
+    {
+      "id": "meta-quest-3s",
+      "name": "Quest 3S (128GB)",
+      "brand": "Meta",
+      "url": "https://www.meta.com/quest/quest-3s/",
+      "i18n": {
+        "en": {
+          "description": "The same XR2 Gen 2 chip and the same full Quest software library as the Quest 3, using Fresnel lenses and 1832x1920 panels to hit the lowest price of any current-generation headset with color mixed reality.",
+          "priceRange": "$349.99"
+        },
+        "zh-tw": {
+          "description": "晶片跟 Quest 3 一樣是 XR2 Gen 2，軟體庫也完全一樣，改用 Fresnel 鏡片與 1832x1920 面板把價格壓到現世代最低，彩色混合實境照樣有。想先試水溫的話這台最合理。",
+          "priceRange": "約 NT$11,500"
+        }
+      }
+    },
+    {
+      "id": "steam-frame",
+      "name": "Steam Frame",
+      "brand": "Valve",
+      "url": "https://store.steampowered.com/sale/steamframe",
+      "i18n": {
+        "en": {
+          "description": "Valve's streaming-first SteamOS headset with dual 2160x2160 LCD panels at 72 to 144Hz, Snapdragon 8 Gen 3 with 16GB of RAM, eye-tracked foveated streaming, and a bundled 6GHz wireless adapter that keeps VR traffic on its own radio. FCC certified, stock has cleared US customs, price and date still unannounced.",
+          "priceRange": "$899–$1,199 (est.)"
+        },
+        "zh-tw": {
+          "description": "Valve 的串流優先 SteamOS 頭戴裝置，雙眼 2160x2160 LCD、72 至 144Hz，Snapdragon 8 Gen 3 配 16GB RAM，眼動追蹤中央窩串流，還附一個 6GHz 無線傳輸器讓 VR 走自己的頻道。FCC 已過認證，貨也進了美國倉庫，價格跟日期還沒公布。",
+          "priceRange": "約 NT$29,000 起"
+        }
+      }
+    },
+    {
+      "id": "playstation-vr2",
+      "name": "PlayStation VR2",
+      "brand": "Sony",
+      "url": "https://www.playstation.com/en-us/ps-vr2/",
+      "i18n": {
+        "en": {
+          "description": "Dual 2000x2040 OLED panels with HDR, eye tracking, and headset haptics, driven by a PS5 over a single USB-C cable. A PC adapter opens up SteamVR for owners who also game on desktop.",
+          "priceRange": "$399.99"
+        },
+        "zh-tw": {
+          "description": "雙眼 2000x2040 OLED 支援 HDR，有眼動追蹤跟頭戴震動，一條 USB-C 接 PS5 就能用。另外買 PC 轉接器還能跑 SteamVR。台灣有官方定價，通路好找，保固也單純。",
+          "priceRange": "NT$13,880"
+        }
+      }
+    },
+    {
+      "id": "bigscreen-beyond-2",
+      "name": "Beyond 2",
+      "brand": "Bigscreen",
+      "url": "https://www.bigscreenvr.com/",
+      "i18n": {
+        "en": {
+          "description": "A 107-gram wired PC VR headset with 2560x2560 micro-OLED panels per eye, 116-degree horizontal field of view, and a face gasket custom-moulded from a phone scan of your face. The 2e variant adds eye tracking for $1,219.",
+          "priceRange": "$1,019"
+        },
+        "zh-tw": {
+          "description": "只有 107 公克的有線 PC VR 頭戴裝置，單眼 2560x2560 micro-OLED，水平視野 116 度，臉部墊片是用手機掃你的臉客製出來的。加眼動追蹤的 2e 版本 1,219 美元。要 Lighthouse 基地台才能跑。",
+          "priceRange": "約 NT$33,000"
+        }
+      }
+    },
+    {
+      "id": "pico-4-ultra",
+      "name": "PICO 4 Ultra",
+      "brand": "PICO",
+      "url": "https://www.picoxr.com/global/products/pico4-ultra",
+      "i18n": {
+        "en": {
+          "description": "ByteDance's standalone headset with Snapdragon XR2 Gen 2, 2160x2160 per eye, 8MP colour passthrough cameras, and a balanced rear-battery strap in the box. Sold across Europe and Asia rather than the US.",
+          "priceRange": "€549"
+        },
+        "zh-tw": {
+          "description": "字節跳動的一體機，Snapdragon XR2 Gen 2，單眼 2160x2160，8MP 彩色透視鏡頭，盒裝就附後置電池頭帶配重。主打歐洲跟亞洲市場，美國買不到。",
+          "priceRange": "約 NT$19,000"
+        }
+      }
+    },
+    {
+      "id": "htc-vive-xr-elite",
+      "name": "VIVE XR Elite",
+      "brand": "HTC",
+      "url": "https://www.vive.com/us/product/vive-xr-elite/overview/",
+      "i18n": {
+        "en": {
+          "description": "A convertible headset that runs standalone on Snapdragon XR2 Gen 1 and switches to a glasses-style form factor when tethered for PC VR. Diopter dials let glasses wearers go without lenses, and it regularly sells near $799.",
+          "priceRange": "$799–$1,099"
+        },
+        "zh-tw": {
+          "description": "可變形的頭戴裝置，一體機模式跑 Snapdragon XR2 Gen 1，接 PC 時可以拆成眼鏡形態。內建屈光度調整旋鈕，近視的人不用戴眼鏡進去。HTC 是台灣品牌，保固維修最好處理。",
+          "priceRange": "NT$34,900"
+        }
+      }
+    },
+    {
+      "id": "pimax-crystal-super",
+      "name": "Crystal Super",
+      "brand": "Pimax",
+      "url": "https://pimax.com/products/pimax-crystal-super",
+      "i18n": {
+        "en": {
+          "description": "An enthusiast PC VR headset built around 3840x3840 QLED panels at 50 or 57 pixels per degree with swappable optical engines, aimed squarely at flight and racing simulator players who want to read cockpit instruments. The micro-OLED engine lists at $2,000.",
+          "priceRange": "$1,599–$1,800"
+        },
+        "zh-tw": {
+          "description": "發燒級 PC VR 頭戴裝置，3840x3840 QLED 面板，每度 50 或 57 像素，光學模組可換。目標客群就是飛行模擬跟賽車模擬玩家，要的是座艙儀表看得清楚。micro-OLED 模組版本 2,000 美元。",
+          "priceRange": "約 NT$52,000"
+        }
+      }
+    },
+    {
+      "id": "play-for-dream-mr",
+      "name": "Play For Dream MR",
+      "brand": "Play For Dream",
+      "url": "https://pfdm.ai/products/mr-headset",
+      "i18n": {
+        "en": {
+          "description": "An Android-based standalone headset with 3840x3552 micro-OLED panels per eye, Snapdragon XR2+ Gen 2, hand and eye tracking, and a 3D spatial camera. The 1TB configuration lists at $2,300.",
+          "priceRange": "$1,999"
+        },
+        "zh-tw": {
+          "description": "跑 Android 的一體機，單眼 3840x3552 micro-OLED，Snapdragon XR2+ Gen 2，有手勢跟眼動追蹤，還內建 3D 空間攝影機。1TB 版本 2,300 美元。規格漂亮，軟體生態還在起步。",
+          "priceRange": "約 NT$65,000"
+        }
+      }
+    },
+    {
+      "id": "apple-vision-pro-m5",
+      "name": "Vision Pro (M5)",
+      "brand": "Apple",
+      "url": "https://www.apple.com/apple-vision-pro/",
+      "i18n": {
+        "en": {
+          "description": "Apple's spatial computer with 23 million micro-OLED pixels, the M5 chip, and visionOS. It went from $3,499 to $3,699 in June 2026 on memory costs, and it is the sharpest display on this list by a wide margin.",
+          "priceRange": "$3,699"
+        },
+        "zh-tw": {
+          "description": "Apple 的空間運算裝置，2300 萬 micro-OLED 像素，M5 晶片，跑 visionOS。2026 年 6 月因為記憶體成本從 3,499 漲到 3,699 美元。畫面清晰度在這張表上遙遙領先，價格也是。",
+          "priceRange": "約 NT$126,900"
+        }
+      }
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-08-05",
+      "rankings": [
+        {
+          "id": "meta-quest-3",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "value": 9.0,
+            "standalone": 9.2,
+            "pcvr": 9.0,
+            "comfort": 8.8,
+            "content": 9.8
+          }
+        },
+        {
+          "id": "meta-quest-3s",
+          "rank": 2,
+          "score": 8.9,
+          "scores": {
+            "value": 9.8,
+            "standalone": 8.2,
+            "pcvr": 8.4,
+            "comfort": 8.4,
+            "content": 9.8
+          }
+        },
+        {
+          "id": "steam-frame",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "value": 7.4,
+            "standalone": 8.6,
+            "pcvr": 9.8,
+            "comfort": 8.8,
+            "content": 9.0
+          }
+        },
+        {
+          "id": "playstation-vr2",
+          "rank": 4,
+          "score": 7.7,
+          "scores": {
+            "value": 8.8,
+            "standalone": 5.0,
+            "pcvr": 7.6,
+            "comfort": 8.4,
+            "content": 8.6
+          }
+        },
+        {
+          "id": "bigscreen-beyond-2",
+          "rank": 5,
+          "score": 7.6,
+          "scores": {
+            "value": 6.6,
+            "standalone": 3.0,
+            "pcvr": 9.6,
+            "comfort": 9.8,
+            "content": 8.8
+          }
+        },
+        {
+          "id": "pico-4-ultra",
+          "rank": 6,
+          "score": 7.2,
+          "scores": {
+            "value": 7.8,
+            "standalone": 7.8,
+            "pcvr": 6.8,
+            "comfort": 7.6,
+            "content": 6.2
+          }
+        },
+        {
+          "id": "htc-vive-xr-elite",
+          "rank": 7,
+          "score": 7.0,
+          "scores": {
+            "value": 6.2,
+            "standalone": 7.4,
+            "pcvr": 7.2,
+            "comfort": 7.8,
+            "content": 6.6
+          }
+        },
+        {
+          "id": "pimax-crystal-super",
+          "rank": 8,
+          "score": 6.8,
+          "scores": {
+            "value": 5.6,
+            "standalone": 3.0,
+            "pcvr": 9.6,
+            "comfort": 6.8,
+            "content": 8.8
+          }
+        },
+        {
+          "id": "play-for-dream-mr",
+          "rank": 9,
+          "score": 6.5,
+          "scores": {
+            "value": 5.4,
+            "standalone": 8.0,
+            "pcvr": 6.4,
+            "comfort": 7.0,
+            "content": 5.8
+          }
+        },
+        {
+          "id": "apple-vision-pro-m5",
+          "rank": 10,
+          "score": 5.8,
+          "scores": {
+            "value": 3.0,
+            "standalone": 8.8,
+            "pcvr": 5.0,
+            "comfort": 6.0,
+            "content": 6.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Valve Steam Frame: Release Date, Price, Specs & Everything We Know",
+          "url": "https://vr.org/steam-frame",
+          "source": "VR.org"
+        },
+        {
+          "title": "Valve Officially Announces Steam Frame, A \"Streaming-First\" Standalone VR Headset",
+          "url": "https://www.uploadvr.com/valve-steam-frame-official-announcement-features-details/",
+          "source": "UploadVR"
+        },
+        {
+          "title": "An Update on Meta Quest Pricing",
+          "url": "https://www.meta.com/blog/update-meta-quest-pricing/",
+          "source": "Meta"
+        },
+        {
+          "title": "Meta Quest 3 Hit With $100 Price Increase",
+          "url": "https://www.forbes.com/sites/andrewwilliams/2026/04/17/meta-quest-3-hit-with-100-price-increase/",
+          "source": "Forbes"
+        },
+        {
+          "title": "The best VR headsets for 2026",
+          "url": "https://www.engadget.com/ar-vr/best-vr-headsets-140012529.html",
+          "source": "Engadget"
+        },
+        {
+          "title": "Bigscreen Beyond 2 Is a 107-Gram Argument That PC VR Is Not Dead",
+          "url": "https://vr.org/articles/bigscreen-beyond-2-review-107g-pcvr",
+          "source": "VR.org"
+        },
+        {
+          "title": "Apple Raises The Price Of Many Products, Including Vision Pro",
+          "url": "https://www.uploadvr.com/apple-raises-the-price-of-most-products-including-vision-pro/",
+          "source": "UploadVR"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Meta Quest 3 is still the headset I hand to almost everyone in August 2026, and the April price hike changes the maths less than the headlines suggest. At $599 it runs the largest content library in VR standalone, handles colour passthrough well enough that mixed reality apps are genuinely usable, and streams SteamVR wirelessly over Air Link the moment you point it at a gaming PC. One device covering all three jobs is worth more than any single spec on this page.\n\nSteam Frame is the most interesting hardware of the year and I have still ranked it third. Valve has cleared roughly 35 tons of it through US customs, published the FCC filings, and switched on the Great on Frame store section. It has named neither a price nor a date. Retailer signals point at $899 to $1,199. At $899, dual 2160x2160 panels at 144Hz plus eye-tracked foveated streaming over a bundled 6GHz adapter takes the PC VR crown outright. At $1,199 it becomes a specialist buy for people who already own a strong gaming PC. I scored the hardware on what it demonstrably does and held the value column back until Valve says the number, and I will move it the day they do.\n\nThe memory crunch is the story underneath every price on this list. Quest 3 went up $100 in April, Quest 3S went up $50, Vision Pro went from $3,499 to $3,699 in June, and Valve's own Steam Machine landed at $1,049. Anyone waiting for VR hardware to drift down through the autumn should buy now instead.\n\nOne note on how to read the table. The standalone column drags tethered headsets down hard, so Bigscreen Beyond 2 and Pimax Crystal Super sit lower overall than their reputation among enthusiasts. Sim racers and flight sim pilots should read the PC VR and comfort columns and ignore the overall score entirely. A 107-gram headset you can wear for a four-hour endurance race is a specific answer to a specific question, and Beyond 2 answers it better than anything else here.",
+          "highlights": [
+            {
+              "title": "Quest 3 at $599 still wins on the only metric that matters: how many nights you actually use it",
+              "body": "Specs get argued about online, and usage decides whether a headset was worth buying. Quest 3 wins because it removes every reason to leave it in the cupboard. It boots in seconds with no base stations, no PC, and no cable. The Quest store carries the deepest catalogue in VR, so there is always something new to play. Colour passthrough is clean enough that you can answer the door or find your drink without taking it off. Then when you do want Half-Life: Alyx at full fidelity, Air Link streams it from a gaming PC over your existing router. Every other headset here asks you to accept a limitation on one of those axes, and $599 buys you all of them at once."
+            },
+            {
+              "title": "Buy the Steam Frame on the hardware, and wait for Valve to name the price before you commit",
+              "body": "The spec sheet is the most complete standalone design anyone has shipped for PC VR. Dual 2160x2160 LCDs at up to 144Hz, Snapdragon 8 Gen 3 with 16GB of RAM, four tracking cameras plus two eye cameras sampling at 80Hz, microSD expansion, and a 6GHz adapter in the box that keeps VR traffic on a dedicated radio so your housemate's download cannot stutter your session. Foveated streaming is the piece I care about most, because it targets bandwidth at the exact patch of pixels your fovea is on and lets a compressed wireless link look far closer to a wired one. All of that lands differently at $899 than at $1,199, and Valve has published everything except the number."
+            },
+            {
+              "title": "PlayStation VR2 at $399 is the best OLED you can put on your face for the money",
+              "body": "Two 2000x2040 OLED panels with HDR give PSVR2 black levels that the LCD headsets above it simply cannot produce, and in a dark space horror title that single property does more for immersion than resolution does. It adds eye tracking and headset haptics, both of which are still rare at any price. The catch is honest and easy to state: it needs a PS5, and Sony's first-party VR output has slowed. For a household that already owns a PS5 and wants Resident Evil Village and Gran Turismo 7 in VR, this is the cheapest OLED route in the category, and Taiwan gets an official NT$13,880 price with normal warranty coverage rather than a grey import."
+            },
+            {
+              "title": "The memory crisis has already repriced VR, and waiting costs money",
+              "body": "DRAM contract prices rose 90 to 95 percent in Q1 2026 and another 58 to 63 percent in Q2, and memory now accounts for roughly 35 percent of PC bill of materials. That flowed straight through to headsets. Meta raised Quest 3 to $599.99 and Quest 3S to $349.99 on 19 April, applying the increase to refurbished stock as well. Apple moved Vision Pro to $3,699 in June and named component costs directly. Valve's Steam Machine shipped at $1,049 against earlier expectations of something cheaper, which is exactly why the Steam Frame estimate keeps creeping toward the top of its range. Every signal points to firmer prices through 2027, so treat today's number as the floor."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "老實說，2026 年八月要我推薦一台 VR，我第一個講的還是 Meta Quest 3。四月漲了一百美元來到 599 美元，台灣水貨落在快兩萬，聽起來變貴，可是它依然是唯一一台開機就能玩最大遊戲庫、彩色透視做得夠好讓混合實境 App 真的能用、想玩 PC VR 又能用 Air Link 無線串 SteamVR 的機器。一台機器同時把這三件事做完，這個價值比表上任何單項規格都高。\n\nSteam Frame 是今年最讓我期待的硬體，我還是把它排第三。Valve 已經有大約 35 噸的貨過了美國海關，FCC 文件公開，Great on Frame 商店分類也上線了，就是價格跟日期都還沒講。通路訊號指向 899 到 1,199 美元。如果落在 899 美元，雙眼 2160x2160 的 144Hz 面板加上眼動中央窩串流跟盒裝附的 6GHz 傳輸器，PC VR 王座直接是它的。如果落在 1,199 美元，它就變成已經有一台強力遊戲 PC 的人才該考慮的專門機。我先用硬體實際做得到的事情給分，價值那一欄暫時保守，Valve 一公布價格我就會調。\n\n再來講一件影響整張表的事。記憶體漲價已經完整傳導到零售價了，Quest 3 四月漲一百美元，Quest 3S 漲五十，Vision Pro 六月從 3,499 漲到 3,699，Valve 自己的 Steam Machine 開出 1,049 美元。想等秋天降價的人，我的建議很直接，現在就買。\n\n最後提醒一下這張表怎麼看。一體機效能那一欄會把有線機種拉得很低，所以 Bigscreen Beyond 2 跟 Pimax Crystal Super 的總分看起來會低於它們在發燒圈的地位。玩賽車模擬跟飛行模擬的朋友，直接看 PC VR 效能跟配戴舒適度兩欄就好，總分可以完全忽略。一台 107 公克、能戴著跑完四小時耐力賽的頭戴裝置，是針對特定問題的特定答案，這件事 Beyond 2 做得比誰都好。",
+          "highlights": [
+            {
+              "title": "Quest 3 賣 599 美元還是第一，因為決定值不值得的是你一個月戴幾次",
+              "body": "規格表怎麼吵網路上都有人吵，真正決定這台機器值不值得的，是它最後有沒有一直被拿出來用。Quest 3 贏在它把所有讓你懶得開機的理由都拿掉了。不用基地台、不用接電腦、不用拉線，戴上去幾秒就進系統。Quest 商店的內容量是 VR 裡最深的，永遠有新東西可以玩。彩色透視乾淨到你可以直接去應門或找飲料，不用把頭戴摘下來。等你真的想用最高畫質玩 Half-Life: Alyx，Air Link 從遊戲 PC 走現有的路由器就能串過來。這張表上其他機器都會要你在某一項上妥協，599 美元讓你一次全拿。"
+            },
+            {
+              "title": "Steam Frame 要看硬體下手，但價格公布之前先別急著刷卡",
+              "body": "這份規格表是目前為止最完整的 PC VR 一體機設計。雙眼 2160x2160 LCD 最高 144Hz，Snapdragon 8 Gen 3 配 16GB RAM，四顆追蹤鏡頭加兩顆每秒取樣 80 次的眼動鏡頭，記憶卡可擴充，盒裝附的 6GHz 傳輸器讓 VR 走專屬頻道，室友在下載也不會讓你掉幀。我最在意的是中央窩串流，它把頻寬集中在你視網膜中央窩正在看的那塊像素上，讓壓縮過的無線畫面接近有線的水準。這些東西在 899 美元跟 1,199 美元是完全不同的兩回事，而 Valve 現在什麼都公布了，就是沒公布數字。"
+            },
+            {
+              "title": "PlayStation VR2 賣 399 美元，是這個價位帶戴得到最好的 OLED",
+              "body": "雙眼 2000x2040 OLED 加 HDR，黑色表現是上面那幾台 LCD 機種做不出來的，玩黑暗場景的恐怖遊戲時，這一項對沉浸感的貢獻比解析度大得多。它還有眼動追蹤跟頭戴震動，這兩樣在任何價位都還算稀有。要老實講的限制也很單純，它要有 PS5 才能用，而且 Sony 第一方的 VR 新作出得比較慢了。家裡已經有 PS5、想在 VR 裡玩惡靈古堡八代跟 GT7 的人，這是整個品類最便宜的 OLED 路線，而且台灣有 NT$13,880 官方定價，保固走正常管道，不用擔心水貨送修的問題。"
+            },
+            {
+              "title": "記憶體漲價已經把 VR 重新定價了，等下去只會更貴",
+              "body": "DRAM 合約價 2026 年第一季季增 90% 到 95%，第二季再增 58% 到 63%，記憶體目前佔 PC 物料成本大約 35%。這條線直接傳導到頭戴裝置。Meta 在 4 月 19 日把 Quest 3 調到 599.99 美元、Quest 3S 調到 349.99 美元，連整新品都一起漲。Apple 六月把 Vision Pro 調到 3,699 美元，官方直接點名零組件成本。Valve 自己的 Steam Machine 開出 1,049 美元，比先前市場預期的便宜路線高出一截，這也是為什麼 Steam Frame 的價格推估一直往區間上緣靠。所有訊號都指向價格會撐到 2027 年，把今天看到的數字當成地板價比較實際。"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
