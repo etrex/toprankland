@@ -10442,6 +10442,216 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-05",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 9.0,
+            "artisticQuality": 8.3,
+            "textRendering": 9.6,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.1,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "nano-banana-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 11,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        },
+        {
+          "title": "AI Updates Today (August 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Latest AI Model Releases — August 2026",
+          "url": "https://aireleasetracker.com/latest",
+          "source": "AI Release Tracker"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "I am moving GPT Image 2 up to 9.4 and giving it clear ownership of first place. The reason is measurable: ChatGPT Images 2.0 now leads text-to-image at 1385 Elo and image editing at 1463 on the independent boards, and the editing number is the one that changes how people actually work. Generating a good image was solved a year ago. Editing a specific element of an existing image without the model redrawing the whole frame is what separates a toy from a production tool, and this is the first model I trust to change a sign, a hand, or a product label and leave everything else alone. Text rendering goes to 9.6 for the same reason, since legible typography inside a generated image is now reliable enough for comps and social assets. Midjourney V8.1 stays at 9.3 and remains my pick when the goal is a distinctive look rather than a literal brief. Nothing else matches its aesthetic default, and for editorial and concept work that default saves hours of prompt wrangling. Nano Banana Pro and Flux 2 Pro both hold 9.2, with Flux still the right answer for anyone who needs weights they can run and fine-tune themselves. Seedream 4.5 at 8.7 and Ideogram 4.0 at 8.6 round out the tier where price does most of the arguing. If you are picking one tool this month, pick by the job: literal briefs and edits go to GPT Image 2, style-led work goes to Midjourney, self-hosting goes to Flux.",
+          "highlights": [
+            {
+              "title": "GPT Image 2 takes clear first on editing, not just generation",
+              "body": "The 1463 Elo image-editing score is the number that matters. Changing one element of an existing image while everything else survives intact is the workflow professionals actually need, and this is the first model I trust to do it repeatably. That earns the move to 9.4."
+            },
+            {
+              "title": "Legible text inside images is finally production-grade",
+              "body": "I raised the text rendering subscore to 9.6 because generated signage, packaging copy, and UI mockups now come out readable on the first attempt often enough to use in client comps. That single capability removes a whole round of manual retouching."
+            },
+            {
+              "title": "Midjourney still wins anything style-led",
+              "body": "V8.1 holds 9.3 because its default aesthetic remains unmatched. When the brief is a mood rather than a specification, Midjourney gets there in two prompts where other models need ten. For editorial and concept work that is worth more than benchmark points."
+            },
+            {
+              "title": "Flux 2 Pro is the pick if you need to own the weights",
+              "body": "At 9.2 Flux sits level with the best hosted models on quality while remaining something you can run and fine-tune on your own hardware. For studios with confidentiality requirements or a house style to train in, that is the deciding factor."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "我把 GPT Image 2 拉到 9.4，第一名的位置給它坐穩。\n\n理由是可以量化的，ChatGPT Images 2.0 現在在獨立排行榜上文字轉圖 1385 Elo、圖像編輯 1463 Elo 雙料第一，而編輯那個數字才是真正改變工作方式的東西。生一張好看的圖一年前就解決了，難的是改一張既有圖片的某個局部而不讓模型把整張重畫。這是第一個我敢信任的模型，改招牌、改手、改產品標籤，其他地方真的不動。\n\n文字渲染我也給到 9.6，生成圖裡的字現在穩定到可以直接拿去做提案稿跟社群素材。\n\nMidjourney V8.1 維持 9.3，當目標是要一個有辨識度的調性而非照字面執行時，它還是我的首選。美感預設值沒有對手，編輯類跟概念類的案子光是這點就省下好幾小時的咒語微調。\n\nNano Banana Pro 跟 Flux 2 Pro 並列 9.2，Flux 依然是需要自己跑權重、自己微調的人的正解。Seedream 4.5 的 8.7 跟 Ideogram 4.0 的 8.6 則構成價格說話的那一層。\n\n這個月如果只能選一個，就照任務選，照字面執行跟局部修圖用 GPT Image 2，風格導向用 Midjourney，要自架就用 Flux。",
+          "highlights": [
+            {
+              "title": "GPT Image 2 靠編輯拿下第一，不只是靠生成",
+              "body": "1463 Elo 的圖像編輯分數才是關鍵。改既有圖片的某一塊、其他部分完好無損，這才是專業工作真正需要的流程，而這是第一個我敢說做得穩的模型。拉到 9.4 就是這個原因。"
+            },
+            {
+              "title": "圖裡的字終於能直接上線用了",
+              "body": "文字渲染子項我拉到 9.6，因為生成的招牌、包裝文案、UI 稿現在第一次就出得來能讀的字，頻率高到可以直接拿去給客戶看。光這一項就省掉整整一輪手動修圖。"
+            },
+            {
+              "title": "Midjourney 在風格導向的案子還是沒對手",
+              "body": "V8.1 守住 9.3，靠的是那個沒人追得上的美感預設值。當需求是一種氛圍而不是一份規格書，Midjourney 兩句話就到位，別的模型要十句。編輯跟概念類工作，這比跑分值錢。"
+            },
+            {
+              "title": "Flux 2 Pro 是需要自己掌握權重時的答案",
+              "body": "9.2 的分數讓它在品質上跟最好的雲端模型平起平坐，同時你可以放在自己的機器上跑跟微調。對有保密要求或要訓練自家風格的工作室，這就是決勝點。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

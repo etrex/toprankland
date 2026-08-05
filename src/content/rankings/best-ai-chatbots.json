@@ -11485,6 +11485,202 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-05",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.3,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.9,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.9,
+            "realtime": 9.4,
+            "value": 9.7,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "reasoning": 9.0,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.4,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (August 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        },
+        {
+          "title": "LLM Release Timeline — Model Release Dates",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Two weeks after Claude Opus 5 landed on July 24, I can say the top of this list is now a genuine coin flip, and I keep both ChatGPT and Claude at 9.5 because they win on different axes. ChatGPT holds the top slot on ecosystem reach: it is the assistant your colleagues already have open, its image stack now leads both independent boards, and its app surface covers voice, canvas, and connectors better than anything else. Claude holds parity on raw reasoning and pulls ahead on long-document work and code. Opus 5 handles a full repository or a 300-page contract with the kind of instruction fidelity that used to require manual chunking, and the Claude 5 family now stretches from Fable 5 for cheap high-volume tasks up to a Mythos tier for approved organizations. That spread matters more than a single benchmark number, because it means one vendor covers both the throwaway query and the job you would otherwise hire someone for. Gemini stays at 9.3 on the strength of Google's video and multimodal work, where Gemini Omni Flash currently leads Arena's text-to-video board by 45 Elo points. Qwen3.8 Max arrived on August 2 and is the most interesting thing happening below the frontier, because Alibaba keeps shipping near-frontier quality at pricing that pressures everyone above it. My advice this week is unchanged and specific: pick by workload rather than by leaderboard. Long context and code go to Claude. Broad tooling and image generation go to ChatGPT. Video and Workspace integration go to Gemini.",
+          "highlights": [
+            {
+              "title": "Claude Opus 5 makes the top spot a genuine tie",
+              "body": "Opus 5 shipped July 24 and closed the reasoning gap I had been scoring against Claude all spring. On long-context work it is now my default: a full repository or a several-hundred-page document goes in whole and comes back with the instructions actually followed. I raised its reasoning subscore to 9.7 to reflect that."
+            },
+            {
+              "title": "ChatGPT keeps the crown on reach, not on raw IQ",
+              "body": "ChatGPT Images 2.0 leads text-to-image at 1385 Elo and image editing at 1463, and that is only one part of why it stays at the top. The assistant is already installed everywhere, the connector library is the deepest, and for most people the thing that ships work is the one their team already uses."
+            },
+            {
+              "title": "Gemini owns video, and that is worth 9.3 on its own",
+              "body": "Gemini Omni Flash sits first on both independent video boards, leading Arena's text-to-video leaderboard at 1527 Elo with a 45-point margin over the runner-up. If your work involves generating or reasoning over video, Google is the answer and the ranking reflects that specific strength."
+            },
+            {
+              "title": "Qwen3.8 Max is the price pressure everyone else has to answer",
+              "body": "Alibaba shipped Qwen3.8 Max on August 2, and the pattern is consistent: near-frontier quality at a price that forces the leaders to respond. OpenAI already cut its balanced Terra tier by 60% on July 30. Competition below the frontier is what keeps the top of this list moving."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Opus 5 在 7 月 24 日上線後過了兩週，說真的，這份榜單的第一名現在已經是擲銅板的局面，我讓 ChatGPT 跟 Claude 同樣維持 9.5，因為兩邊贏的地方根本不一樣。\n\nChatGPT 守住第一是靠生態覆蓋。它是你同事早就開著的那個分頁，圖像生成同時在兩個獨立排行榜拿下第一，語音、canvas、外部連接器的完整度也是目前最強。\n\nClaude 在純推理上追平，長文件跟程式碼則直接超車。Opus 5 可以一次吃下整個 repo 或三百頁合約，指令遵循度高到以前那種手動切段的工作直接不用做了。Claude 5 家族從便宜跑量的 Fable 5 一路排到限定組織才能用的 Mythos 等級，這個價格帶的完整度比單一跑分重要得多，因為同一家廠商同時包辦你隨手問的問題跟你原本要外包給人做的工作。\n\nGemini 維持 9.3，撐住分數的是影片跟多模態，Gemini Omni Flash 目前在 Arena 文字轉影片榜以 45 分 Elo 差距領先。\n\n阿里巴巴 8 月 2 日推出的 Qwen3.8 Max 則是前緣以下最值得看的一步，用接近前緣的品質壓價，逼得上面幾家都得回應。\n\n我這週的建議還是那句話，照工作型態選，長文件跟寫程式交給 Claude，通用工具鏈跟出圖交給 ChatGPT，影片跟 Workspace 整合交給 Gemini。",
+          "highlights": [
+            {
+              "title": "Claude Opus 5 讓第一名真正變成平手",
+              "body": "Opus 5 在 7 月 24 日上線，直接補上我整個春天一直扣分的推理差距。長脈絡工作我現在預設就用它，整包 repo 或幾百頁的文件丟進去，出來的東西是真的照指令做的。推理子項我拉到 9.7 就是這個原因。"
+            },
+            {
+              "title": "ChatGPT 的第一是靠覆蓋率，不是靠純智力",
+              "body": "ChatGPT Images 2.0 在文字轉圖以 1385 Elo、圖像編輯以 1463 Elo 同時登頂，而這只是它守住第一的其中一塊。它已經裝在所有地方，連接器生態最深，老實說對多數人來說，真正能把事情做完的就是團隊已經在用的那一個。"
+            },
+            {
+              "title": "Gemini 靠影片就值得 9.3",
+              "body": "Gemini Omni Flash 在兩個獨立影片排行榜都是第一，Arena 文字轉影片以 1527 Elo 領先第二名 45 分。如果你的工作要產影片或要讓模型讀影片，答案就是 Google，這個分數反映的就是這項專長。"
+            },
+            {
+              "title": "Qwen3.8 Max 是所有人都得回應的價格壓力",
+              "body": "阿里巴巴 8 月 2 日推出 Qwen3.8 Max，套路很一致，用接近前緣的品質配上逼人的價格。OpenAI 7 月 30 日已經把平衡型的 Terra 等級直接砍價六成。前緣以下的競爭，才是讓榜首持續動起來的真正原因。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

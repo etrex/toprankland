@@ -12362,6 +12362,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-05",
+      "rankings": [
+        {
+          "id": "suno-v5",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "audioQuality": 9.7,
+            "vocalRealism": 9.4,
+            "editingControl": 9.6,
+            "commercialLicense": 7.5,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "elevenlabs-music",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "audioQuality": 9.3,
+            "vocalRealism": 9.7,
+            "editingControl": 8.7,
+            "commercialLicense": 9.8,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "lyria-3-pro",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 8.6,
+            "editingControl": 8.4,
+            "commercialLicense": 9.5,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "udio",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "audioQuality": 9.6,
+            "vocalRealism": 9.5,
+            "editingControl": 9.8,
+            "commercialLicense": 7.7,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 7.0,
+            "editingControl": 8.6,
+            "commercialLicense": 9.5,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "riffusion",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "audioQuality": 8.2,
+            "vocalRealism": 7.8,
+            "editingControl": 8.5,
+            "commercialLicense": 8.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "soundraw",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "audioQuality": 8.0,
+            "vocalRealism": 6.5,
+            "editingControl": 7.5,
+            "commercialLicense": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aiva",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 6.8,
+            "editingControl": 7.8,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "mubert",
+          "rank": 9,
+          "score": 7.3,
+          "scores": {
+            "audioQuality": 7.5,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "loudly",
+          "rank": 10,
+          "score": 7.0,
+          "scores": {
+            "audioQuality": 7.3,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "boomy",
+          "rank": 11,
+          "score": 6.8,
+          "scores": {
+            "audioQuality": 6.8,
+            "vocalRealism": 6.5,
+            "editingControl": 6.8,
+            "commercialLicense": 8.5,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (August 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Latest AI Model Releases — August 2026",
+          "url": "https://aireleasetracker.com/latest",
+          "source": "AI Release Tracker"
+        },
+        {
+          "title": "LLM Release Timeline — Model Release Dates",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Suno V5 stays at 9.4 and first place, and the reason has narrowed to one thing I keep verifying: vocal takes that survive a full listen. Anyone can generate thirty seconds that sounds convincing. Getting a three-minute track where the vocal keeps its character through a key change and the mix does not turn to mush in the chorus is a different problem, and Suno solves it more often than anything else I have run. Eleven Music at 9.2 is the one I reach for when the job is instrumental scoring or when I need precise control over a specific section, since ElevenLabs continues to lead on fine-grained audio direction across its whole product line. Lyria 3 Pro at 8.6 benefits from Google's broader multimodal push, and it is worth watching because the same infrastructure that put Gemini Omni Flash on top of the video boards feeds this. Udio and Stable Audio 2.5 both hold 8.5, with Stable Audio remaining the practical answer for anyone who needs a license they fully understand. That last point deserves more attention than it gets. Commercial licensing is the axis where this category will be decided, because a track you cannot clear is worthless regardless of how good it sounds. Before you commit a generated song to a client project, read the license terms for the specific tier you are on, since several vendors grant different rights on free and paid plans. My practical recommendation this month: Suno for songs with vocals, Eleven Music for scoring, Stable Audio when the legal department asks questions.",
+          "highlights": [
+            {
+              "title": "Suno wins on full-length vocal tracks, which is the hard part",
+              "body": "Thirty convincing seconds is easy now. A three-minute track where the vocal holds its character through a key change and the chorus mix stays clean is the real test, and Suno V5 clears it more consistently than anything else I have run this year."
+            },
+            {
+              "title": "Eleven Music is the scoring tool",
+              "body": "At 9.2 its strength is section-level control, which is what you need when music has to hit a specific cue at a specific second. ElevenLabs leads on fine-grained audio direction across its whole lineup, and that discipline shows up here."
+            },
+            {
+              "title": "Licensing decides this category, so read your tier",
+              "body": "A track you cannot clear has no value regardless of how it sounds. Several vendors grant different commercial rights on free versus paid plans. Check the terms for your specific tier before a generated song reaches a client deliverable."
+            },
+            {
+              "title": "Google's multimodal momentum makes Lyria worth watching",
+              "body": "Lyria 3 Pro sits at 8.6 today, and the infrastructure behind it is the same stack that put Gemini Omni Flash first on both independent video boards. Categories where Google invests heavily tend to move fast, and I expect this score to be under review soon."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Suno V5 維持 9.4 的第一名，理由收斂到我一直重複驗證的一件事，就是人聲能不能撐完整首。\n\n生三十秒聽起來很像樣，現在誰都做得到。難的是三分鐘的完整曲子，人聲在轉調之後還保得住個性，副歌一進來混音不會糊成一團。這是完全不同層級的問題，而 Suno 的成功率比我跑過的其他模型都高。\n\nEleven Music 的 9.2 是我做配樂或需要精準控制某個段落時會用的，ElevenLabs 整條產品線在細部音訊指揮上都是領先的，這個功力在這裡也看得出來。\n\nLyria 3 Pro 的 8.6 吃到 Google 整體多模態的紅利，值得盯著看，因為把 Gemini Omni Flash 推上影片榜首的是同一套基礎建設。Udio 跟 Stable Audio 2.5 並列 8.5，Stable Audio 依然是需要一份自己看得懂的授權時最實際的選擇。\n\n最後這點的重要性被嚴重低估。商業授權才是這個品類最後的勝負手，因為一首你清不掉版權的歌，再好聽也等於零。把生成的曲子放進客戶案子之前，去讀你目前方案的授權條款，有幾家廠商免費跟付費方案給的權利根本不一樣。\n\n這個月的建議很直接，有人聲的歌用 Suno，配樂用 Eleven Music，法務會問問題的案子用 Stable Audio。",
+          "highlights": [
+            {
+              "title": "Suno 贏在整首人聲，而那才是難的部分",
+              "body": "三十秒的好聽片段現在很容易。三分鐘的曲子人聲轉調後還保得住個性、副歌混音不糊，這才是真正的考驗，而 Suno V5 今年跑下來的穩定度是最高的。"
+            },
+            {
+              "title": "Eleven Music 是拿來做配樂的",
+              "body": "9.2 的強項在段落級的控制，當音樂必須在指定的秒數踩到指定的點，你要的就是這個。ElevenLabs 整條線在細部音訊指揮上都領先，這份功力在這裡看得很清楚。"
+            },
+            {
+              "title": "授權才是勝負手，先去讀你的方案條款",
+              "body": "清不掉版權的曲子，再好聽也沒有價值。有幾家廠商免費跟付費方案給的商業權利完全不同。生成的歌要進客戶交付物之前，先確認你這個方案的條款寫了什麼。"
+            },
+            {
+              "title": "Google 的多模態動能讓 Lyria 值得盯著",
+              "body": "Lyria 3 Pro 現在 8.6，但它背後是把 Gemini Omni Flash 推上兩個獨立影片榜第一的同一套基礎建設。Google 重壓的品類通常動得很快，這個分數我隨時會重新檢視。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

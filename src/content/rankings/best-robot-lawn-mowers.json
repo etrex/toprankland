@@ -194,6 +194,22 @@
           "priceRange": "約 NT$65,000"
         }
       }
+    },
+    {
+      "id": "navimow-x450",
+      "name": "Segway Navimow X450",
+      "brand": "Segway",
+      "url": "https://navimow.com/products/navimow-x4-robot-lawn-mower",
+      "i18n": {
+        "en": {
+          "description": "Segway's 2026 X4 flagship covers 1.5 acres on a charge with four-wheel drive rated to 40 degree slopes and zero-turn mowing. Dual 180W motors drive a 17-inch cutting deck, 360 degree VisionFence handles obstacles in the open yard, and lifetime Network RTK access keeps the running cost at zero.",
+          "priceRange": "$2,999"
+        },
+        "zh-tw": {
+          "description": "Segway 2026 年 X4 系列旗艦，單次充電可割 1.5 英畝，四輪驅動應付 40 度陡坡並支援原地零迴轉。雙 180W 馬達帶動 17 吋割草盤，360 度 VisionFence 負責閃避障礙物，Network RTK 終身免費，後續不用再繳訂閱費。坦白說，大坪數獨棟今年最值得看的就是這台。",
+          "priceRange": "約 NT$98,000"
+        }
+      }
     }
   ],
   "history": [
@@ -10994,8 +11010,20 @@
           }
         },
         {
-          "id": "ecovacs-goat-a3000-lidar",
+          "id": "navimow-x450",
           "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "coverage": 9.5,
+            "navigation": 9.2,
+            "terrain": 9.4,
+            "automation": 9.0,
+            "value": 8.6
+          }
+        },
+        {
+          "id": "ecovacs-goat-a3000-lidar",
+          "rank": 4,
           "score": 8.9,
           "scores": {
             "coverage": 8.8,
@@ -11007,7 +11035,7 @@
         },
         {
           "id": "ecovacs-goat-a2000-lidar-pro",
-          "rank": 4,
+          "rank": 5,
           "score": 8.8,
           "scores": {
             "coverage": 8.5,
@@ -11019,7 +11047,7 @@
         },
         {
           "id": "navimow-x315",
-          "rank": 5,
+          "rank": 6,
           "score": 8.7,
           "scores": {
             "coverage": 9.0,
@@ -11031,7 +11059,7 @@
         },
         {
           "id": "navimow-i2-lidar",
-          "rank": 6,
+          "rank": 7,
           "score": 8.5,
           "scores": {
             "coverage": 8.0,
@@ -11043,7 +11071,7 @@
         },
         {
           "id": "husqvarna-automower-450x-epos",
-          "rank": 7,
+          "rank": 8,
           "score": 8.4,
           "scores": {
             "coverage": 9.2,
@@ -11055,7 +11083,7 @@
         },
         {
           "id": "worx-landroid-vision-m600",
-          "rank": 8,
+          "rank": 9,
           "score": 8.2,
           "scores": {
             "coverage": 7.5,
@@ -11067,7 +11095,7 @@
         },
         {
           "id": "yarbo-lawn-mower-pro",
-          "rank": 9,
+          "rank": 10,
           "score": 8.0,
           "scores": {
             "coverage": 9.5,
@@ -11079,7 +11107,7 @@
         },
         {
           "id": "ecoflow-blade",
-          "rank": 10,
+          "rank": 11,
           "score": 7.6,
           "scores": {
             "coverage": 7.5,
@@ -11091,7 +11119,7 @@
         },
         {
           "id": "mammotion-yuka-mini-700h",
-          "rank": 11,
+          "rank": 12,
           "score": 7.6,
           "scores": {
             "coverage": 6.5,

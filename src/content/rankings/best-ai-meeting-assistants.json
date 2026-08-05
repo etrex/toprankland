@@ -13260,6 +13260,228 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-05",
+      "rankings": [
+        {
+          "id": "fathom",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "transcriptionQuality": 8.9,
+            "integrations": 8,
+            "userExperience": 9.2,
+            "privacy": 8.7,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "granola",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "transcriptionQuality": 9.2,
+            "integrations": 8.5,
+            "userExperience": 9.8,
+            "privacy": 9.1,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "fireflies",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 9.9,
+            "userExperience": 8.4,
+            "privacy": 8.2,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "otter-ai",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "transcriptionQuality": 9.1,
+            "integrations": 8.6,
+            "userExperience": 8.6,
+            "privacy": 8,
+            "valueForMoney": 8.3
+          }
+        },
+        {
+          "id": "fellow",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 8.8,
+            "userExperience": 8,
+            "privacy": 9.5,
+            "valueForMoney": 9
+          }
+        },
+        {
+          "id": "tldv",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 7.8,
+            "userExperience": 8.5,
+            "privacy": 8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "read-ai",
+          "rank": 7,
+          "score": 8.1,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 8.2,
+            "userExperience": 8.8,
+            "privacy": 8,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "krisp",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "transcriptionQuality": 8,
+            "integrations": 7.5,
+            "userExperience": 9,
+            "privacy": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "zoom-ai-companion",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "transcriptionQuality": 8,
+            "integrations": 7.5,
+            "userExperience": 8.5,
+            "privacy": 8,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "avoma",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "transcriptionQuality": 8,
+            "integrations": 8.5,
+            "userExperience": 7.5,
+            "privacy": 8,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "circleback",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "transcriptionQuality": 8.2,
+            "integrations": 8.5,
+            "userExperience": 8,
+            "privacy": 8,
+            "valueForMoney": 6.8
+          }
+        },
+        {
+          "id": "microsoft-365-copilot",
+          "rank": 12,
+          "score": 7.6,
+          "scores": {
+            "transcriptionQuality": 8,
+            "integrations": 9.5,
+            "userExperience": 7,
+            "privacy": 8.5,
+            "valueForMoney": 6.2
+          }
+        },
+        {
+          "id": "gong",
+          "rank": 13,
+          "score": 7.3,
+          "scores": {
+            "transcriptionQuality": 9,
+            "integrations": 9,
+            "userExperience": 7.5,
+            "privacy": 8.5,
+            "valueForMoney": 4.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (August 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        },
+        {
+          "title": "Latest AI Model Releases — August 2026",
+          "url": "https://aireleasetracker.com/latest",
+          "source": "AI Release Tracker"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Fathom keeps first at 9.1 and the gap over Granola is now down to a tenth, which is the closest this category has been all year. Fathom wins on the thing that determines whether a meeting tool survives past the trial: the summary is correct on the first read, and the action items map to who actually agreed to do them. I have watched teams abandon three of these products because they had to re-read the transcript to trust the summary, which defeats the entire purpose. Granola at 9.0 is the one I recommend to anyone who takes their own notes and wants a model to clean them up rather than replace them, and its local-first posture is genuinely better for sensitive conversations. Fireflies at 8.7 and Otter at 8.6 both hold on integration breadth, which is the right reason to pick them if your company already lives in a specific stack. The upgrade worth watching this quarter comes from the frontier models underneath these products. The Claude 5 family reached general availability for its cheap high-volume Fable tier, and OpenAI cut its balanced tier 60% on July 30. Meeting assistants are exactly the workload that benefits, since they process enormous transcript volume at low margin. I expect the next round of quality improvements here to arrive as vendors quietly swap their backend models, and the products with the cleanest summarization prompts will pull ahead without changing their pricing. Privacy remains the axis where I would push back on most of this category. Check where your transcripts are stored and for how long before you standardize.",
+          "highlights": [
+            {
+              "title": "Fathom wins because you can trust the summary without re-reading",
+              "body": "The only test that matters for a meeting tool is whether the summary is right the first time. Fathom is the one where I stop opening the transcript to check, and the action items land on the person who actually agreed to them. That is what a 9.1 buys."
+            },
+            {
+              "title": "Granola is the right pick if you still take your own notes",
+              "body": "At 9.0 Granola treats your typing as the source of truth and uses the model to fill gaps around it. For people who think by writing, that is a fundamentally better shape, and the local-first approach is a real advantage for sensitive conversations."
+            },
+            {
+              "title": "Cheaper frontier models are about to lift this whole category",
+              "body": "Transcript summarization is high-volume, low-margin work, which makes it the first thing vendors upgrade when model prices drop. With OpenAI cutting its balanced tier 60% on July 30 and cheap Claude tiers now generally available, expect quality jumps here with no price change."
+            },
+            {
+              "title": "Check retention policy before you standardize",
+              "body": "Every product in this list records conversations your legal team would want to know about. Ask where transcripts live, how long they persist, and whether they train on your data. That question separates the tools you can roll out company-wide from the ones you cannot."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Fathom 以 9.1 守住第一，跟 Granola 的差距縮到只剩 0.1，這是今年以來這個品類最接近的一次。\n\nFathom 贏在一件決定會議工具能不能撐過試用期的事，摘要第一次讀就是對的，待辦事項也真的掛在當初答應的那個人身上。我看過團隊放棄三款這類產品，原因都一樣，為了確認摘要準不準還得回頭把逐字稿重讀一遍，那整個工具就白裝了。\n\nGranola 的 9.0 我會推薦給自己會做筆記、只想讓模型幫忙整理的人，它偏本地優先的架構對敏感會議也確實比較安心。\n\nFireflies 的 8.7 跟 Otter 的 8.6 靠整合廣度撐住，如果你公司本來就長在某個特定生態裡，這就是選它們的正當理由。\n\n這一季真正值得盯的升級來自底層模型。Claude 5 家族便宜跑量的 Fable 等級已經全面開放，OpenAI 7 月 30 日把平衡型等級砍價六成。會議助理正好是最吃這波紅利的工作型態，因為它們要處理龐大的逐字稿量而毛利很薄。接下來的品質提升多半會以廠商悄悄換掉後端模型的形式出現，摘要提示寫得最乾淨的產品會在不調價的情況下直接拉開差距。\n\n隱私仍然是這個品類我最想戳的地方，導入前先確認逐字稿存在哪、存多久。",
+          "highlights": [
+            {
+              "title": "Fathom 贏在摘要不用回頭再讀一次",
+              "body": "會議工具唯一重要的測試，就是摘要第一次出來準不準。Fathom 是那個讓我不再點開逐字稿去對照的產品，待辦也真的落在當初答應的人頭上。9.1 買的就是這個。"
+            },
+            {
+              "title": "Granola 適合還是會自己做筆記的人",
+              "body": "9.0 的 Granola 把你打的字當成事實來源，模型負責補周邊的空缺。對習慣用書寫思考的人來說，這個形狀本來就比較對，而且本地優先對敏感會議是實打實的優勢。"
+            },
+            {
+              "title": "前緣模型變便宜，整個品類都要被抬上去",
+              "body": "逐字稿摘要是高用量低毛利的工作，模型一降價，廠商第一個升級的就是它。OpenAI 7 月 30 日平衡型等級砍六成，便宜的 Claude 等級也全面開放，接下來品質會跳、價格不會動。"
+            },
+            {
+              "title": "導入前先問清楚保存政策",
+              "body": "這份榜單上每個產品錄的都是你法務會想知道內容的對話。問清楚逐字稿存在哪、留多久、會不會拿去訓練。這個問題直接決定哪些工具能全公司導入、哪些不能。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

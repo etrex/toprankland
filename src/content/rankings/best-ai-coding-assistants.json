@@ -17604,6 +17604,228 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-05",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (August 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Latest AI Model Releases — August 2026",
+          "url": "https://aireleasetracker.com/latest",
+          "source": "AI Release Tracker"
+        },
+        {
+          "title": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code stays at 9.5 and I am more confident in that call than I was a month ago. Opus 5 shipped on July 24 with a one-million-token context option, and the practical effect on agentic coding is larger than the headline suggests. The failure mode that used to end long sessions was the agent losing track of a decision it made forty files ago. That failure is now rare enough that I run multi-hour refactors without babysitting, which is the actual bar for calling something an agent rather than an autocomplete. OpenAI Codex holds second at 9.1 on the back of the July 30 price cut to the balanced Terra tier, which came in 60% below GPT-5.5 pricing. For teams running assistants across a whole engineering org, that changes the monthly bill enough to matter, and Codex remains the strongest option if your workflow lives inside the OpenAI stack. Cursor keeps third at 9.0 because the editor experience is still the most polished way to work with a model inline, and its multi-file edit review flow saves real time on review-heavy teams. Google Antigravity and Jules sit in the 8.2 to 8.3 band, both capable and both still narrower in what they will attempt without hand-holding. One market note worth acting on: the memory shortage pushing hardware prices up has no effect here, so this is the one category on the site where your money buys more this month than it did last month. If you have been waiting to standardize on a paid assistant, the pricing environment is favorable right now.",
+          "highlights": [
+            {
+              "title": "Million-token context is what makes agentic coding actually work",
+              "body": "Opus 5's long-context option removes the failure I used to hit on every multi-hour session, where the agent forgot a decision it made dozens of files earlier. Running a large refactor end to end without re-explaining the architecture is the difference between an agent and a fancy autocomplete."
+            },
+            {
+              "title": "Codex is now the value pick for whole-org rollouts",
+              "body": "OpenAI cut the balanced Terra tier by 60% on July 30. When you multiply an assistant across an entire engineering team, that is the line item that decides the purchase. Codex earns its 9.1 on capability and now defends it on price."
+            },
+            {
+              "title": "Cursor still wins the inline editing loop",
+              "body": "The multi-file edit review flow remains the fastest way I have found to accept model changes with actual scrutiny. For teams where every diff gets read by a human, that review surface is worth more than a point of raw model quality, which is why Cursor holds 9.0."
+            },
+            {
+              "title": "This is the category where prices are falling",
+              "body": "Every hardware ranking on this site is absorbing a memory-driven price increase this month. Coding assistants are moving the other way, with frontier capability getting cheaper on a roughly quarterly cadence. If you have been holding off on a paid tier, buy now and expect the value to improve."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 維持 9.5，而且我現在比一個月前更確定這個判斷。\n\nOpus 5 在 7 月 24 日上線並提供百萬 token 脈絡選項，這件事對 agentic coding 的實際影響比標題看起來大得多。以前長時間工作階段最常見的崩潰模式，是 agent 忘記自己四十個檔案以前做過的決定。現在這種狀況少到我可以放著跑好幾個小時的重構不用一直盯，這才是「agent」跟「高級自動補完」真正的分界線。\n\nOpenAI Codex 以 9.1 守住第二，靠的是 7 月 30 日平衡型 Terra 等級降價，價格直接比 GPT-5.5 低六成。對整個工程組織都要開帳號的團隊來說，這個數字是真的會影響月結帳單的，而且如果你的工作流本來就長在 OpenAI 生態裡，Codex 仍然是最順的選擇。\n\nCursor 以 9.0 排第三，編輯器內即時協作的體驗還是最完整，多檔案編輯的審閱流程對重視 code review 的團隊省下的時間相當實在。Google Antigravity 跟 Jules 落在 8.2 到 8.3，能力都有，但需要人盯的比例還是偏高。\n\n有一個市場訊號值得直接拿來做決定，記憶體漲價把所有硬體都往上推，唯獨這個品類沒受影響，這是站上這個月唯一一個同樣的錢買到更多的類別。如果你一直在觀望要不要導入付費方案，現在的價格環境對你有利。",
+          "highlights": [
+            {
+              "title": "百萬 token 脈絡才是 agentic coding 真正能用的關鍵",
+              "body": "Opus 5 的長脈絡選項解決了我每次跑多小時任務都會遇到的問題，agent 忘記幾十個檔案以前自己做的決定。能一路把大型重構跑完而不用重新解釋一次架構，這就是 agent 跟花俏補完工具的差別。"
+            },
+            {
+              "title": "Codex 現在是整組織導入的性價比選擇",
+              "body": "OpenAI 7 月 30 日把平衡型 Terra 等級砍價六成。當你要把助理乘上整個工程團隊的人數，這一行就是決定買不買的關鍵。Codex 的 9.1 本來靠能力拿下，現在價格也守得住。"
+            },
+            {
+              "title": "Cursor 在編輯器內的迴圈還是最強",
+              "body": "多檔案編輯的審閱介面，是我用過最快能一邊接受模型改動一邊真的看清楚在改什麼的方式。對每個 diff 都要人審的團隊來說，這個審閱介面的價值高過模型本身多那一分，這就是 Cursor 守住 9.0 的理由。"
+            },
+            {
+              "title": "這是唯一在降價的品類",
+              "body": "站上每一個硬體排行榜這個月都在吸收記憶體帶動的漲價。程式助理走的是反方向，前緣能力大約每季就變便宜一次。如果你一直在等時機導入付費方案，現在就買，之後只會更划算。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -12101,6 +12101,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-05",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.0,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        },
+        {
+          "title": "AI Updates Today (August 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Latest AI Model Releases — August 2026",
+          "url": "https://aireleasetracker.com/latest",
+          "source": "AI Release Tracker"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Kling 3.0 holds first at 9.5, and I want to be honest that this is the closest call on the site right now. Google's video stack is on a tear: Gemini Omni Flash sits first on both independent video boards, leading Arena's text-to-video leaderboard at 1527 Elo with a 45-point margin over the runner-up. That is not a rounding error, and it is why I am raising Veo 3.1's prompt adherence subscore to 9.6 while keeping its overall at 9.4. What still holds Kling at the top for me is shot-to-shot consistency across a sequence. Generating one stunning clip is a solved problem. Generating six clips where the same character keeps the same face, the same jacket, and the same lighting is the thing that decides whether you can actually cut a scene, and Kling remains the most reliable at it. Seedance 2.0 matches Veo at 9.4 and is the fastest of the three in practice, which matters more than it sounds when you are iterating on a brief. Runway Gen-4.5 at 9.2 keeps the best editorial tooling around the model, and for teams already working in Runway that integration is worth the gap. My guidance for the month: if you are producing a multi-shot sequence, start with Kling. If you are producing single hero shots from a detailed written brief, Veo 3.1 now has the edge on doing exactly what you asked. Expect this order to be reviewed again within weeks, because Google is shipping faster here than anyone.",
+          "highlights": [
+            {
+              "title": "Kling holds first on multi-shot consistency",
+              "body": "One beautiful clip is table stakes. Six clips where the same character keeps the same face, wardrobe, and lighting is what lets you actually cut a scene, and Kling 3.0 is still the most reliable at that. It is the specific reason it stays at 9.5."
+            },
+            {
+              "title": "Google's video lead is real and I scored it",
+              "body": "Gemini Omni Flash leads Arena's text-to-video board at 1527 Elo, 45 points clear of the runner-up. That momentum shows up in Veo 3.1's ability to follow a detailed written brief, so I raised its prompt adherence subscore to 9.6."
+            },
+            {
+              "title": "Seedance is the one to use while you are still iterating",
+              "body": "At 9.4 it matches Veo on quality and beats both rivals on turnaround. When you are trying twelve versions of a brief before lunch, generation speed is the feature that determines how good the final shot gets."
+            },
+            {
+              "title": "Runway earns its place on tooling, not raw output",
+              "body": "Gen-4.5 sits at 9.2 because the model is surrounded by the best editorial workflow in the category. For a team already cutting inside Runway, staying in one environment beats a fractional quality gain from switching."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Kling 3.0 以 9.5 守住第一，但老實說，這是站上目前最難判的一場。\n\nGoogle 的影片線正在猛衝，Gemini Omni Flash 在兩個獨立影片排行榜都是第一，Arena 文字轉影片以 1527 Elo 領先第二名整整 45 分。這不是誤差範圍內的差距，所以我把 Veo 3.1 的指令遵循子項拉到 9.6，總分維持 9.4。\n\n讓 Kling 還坐在第一的，是連續鏡頭之間的一致性。生一支漂亮的片段早就不是問題了，難的是連生六支，同一個角色臉不變、外套不變、打光不變，這才決定你到底剪不剪得出一場戲，而 Kling 在這件事上還是最穩的。\n\nSeedance 2.0 以 9.4 跟 Veo 並列，實際用起來是三者裡最快的，這在你反覆改需求的時候比聽起來重要得多。\n\nRunway Gen-4.5 的 9.2 靠的是模型外圍最完整的剪輯工具，團隊本來就在 Runway 裡工作的話，這個整合度值得那 0.2 的差距。\n\n這個月的建議是，要做多鏡頭連續場景就從 Kling 開始，要從一份寫得很細的文字需求生單一主鏡頭，Veo 3.1 現在在照做這件事上更有優勢。這個順序我預期幾週內就會再檢視一次，因為 Google 在這條線出貨的速度沒人跟得上。",
+          "highlights": [
+            {
+              "title": "Kling 靠多鏡頭一致性守住第一",
+              "body": "一支漂亮片段是基本盤。六支片段裡同一個角色臉、衣服、打光都不變，才是你能真的剪出一場戲的前提，Kling 3.0 在這件事上還是最穩的。9.5 就是為這個給的。"
+            },
+            {
+              "title": "Google 的影片領先是真的，我把它打進分數裡",
+              "body": "Gemini Omni Flash 在 Arena 文字轉影片以 1527 Elo 領先第二名 45 分。這股動能直接反映在 Veo 3.1 照著詳細文字需求執行的能力上，所以指令遵循子項我拉到 9.6。"
+            },
+            {
+              "title": "Seedance 是還在反覆試的階段該用的",
+              "body": "9.4 的品質跟 Veo 打平，出片速度贏過另外兩家。當你午餐前要試十二個版本的需求，生成速度這個項目直接決定最後那一鏡能好到哪裡。"
+            },
+            {
+              "title": "Runway 的位置是工具給的，不是輸出品質給的",
+              "body": "Gen-4.5 的 9.2 來自模型外圍那套全品類最完整的剪輯流程。團隊本來就在 Runway 裡剪片的話，留在同一個環境比為了零點幾分的品質換家強。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -12410,6 +12410,216 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-05",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.4,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 4,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "fish-audio-openaudio-s1",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.1,
+            "emotionalRange": 8.8,
+            "languageSupport": 8.0,
+            "latency": 8.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 9.8,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 8,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 8.3,
+            "emotionalRange": 7.7,
+            "languageSupport": 8.6,
+            "latency": 7.8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (August 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Latest AI Model Releases — August 2026",
+          "url": "https://aireleasetracker.com/latest",
+          "source": "AI Release Tracker"
+        },
+        {
+          "title": "LLM Release Timeline — Model Release Dates",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs and Inworld TTS-1.5 Max stay tied at 9.4, and they are tied for opposite reasons, which is the most useful thing I can tell you about this category. ElevenLabs wins on emotional range and on the sheer depth of its voice library, and it remains the default for narration, audiobooks, and anything where a listener will spend more than a minute with the same voice. Inworld matches it on realism while being built for interactive use, and if you are putting a voice inside a product where a person talks back, latency is the spec that decides everything. Cartesia Sonic 3 at 9.0 is the one I recommend to developers who need sub-100ms response in a real conversation loop, and Hume AI Octave 2 at 8.9 remains the most interesting take on prosody, because it models the emotional shape of a sentence rather than bolting emotion on afterward. OpenAudio S1 also sits at 8.9 and deserves attention from anyone who wants to self-host. The market context worth acting on: the frontier model price cuts announced through late July, including OpenAI's 60% reduction on its balanced tier on July 30, apply pressure across every AI service tier. Voice vendors have historically held pricing better than text vendors because the compute per second is higher, but I expect per-character pricing to soften into the autumn. If you are negotiating an annual contract this month, push on price and ask for a mid-term review clause. On voice cloning, get written consent on file for every voice you replicate. That is a legal requirement in a growing number of jurisdictions and a reputational one everywhere else.",
+          "highlights": [
+            {
+              "title": "ElevenLabs owns narration, Inworld owns conversation",
+              "body": "The tie at 9.4 is real and the products are not interchangeable. Long-form listening rewards ElevenLabs' emotional range and library depth. Interactive products where a person talks back reward Inworld's response time. Pick by which of those two your users will experience."
+            },
+            {
+              "title": "Latency is the spec that decides interactive products",
+              "body": "Cartesia Sonic 3 earns 9.0 by delivering sub-100ms response in a live conversation loop. In a product where someone waits for the voice to answer, half a second of delay reads as broken no matter how good the timbre is."
+            },
+            {
+              "title": "Hume models the shape of a sentence, not just the words",
+              "body": "Octave 2 at 8.9 treats prosody as part of generation rather than a post-processing effect, which is why its emotional delivery holds up across a paragraph. For dialogue-heavy work that structural difference matters more than a broader voice catalogue."
+            },
+            {
+              "title": "Push on price if you are signing an annual deal this month",
+              "body": "Frontier model pricing fell hard through late July, including a 60% cut to OpenAI's balanced tier on July 30. Voice pricing tends to follow with a lag. Negotiate now and ask for a mid-term review clause rather than locking twelve months at today's rate."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ElevenLabs 跟 Inworld TTS-1.5 Max 並列 9.4，而且他們是因為完全相反的理由打平的，這是我能給你最有用的一句話。\n\nElevenLabs 贏在情緒幅度跟音色庫的深度，旁白、有聲書、任何聽眾會跟同一個聲音相處超過一分鐘的場景，它都是預設答案。\n\nInworld 在擬真度上打平，但它是為互動場景設計的，如果你要把聲音放進一個人會回話的產品裡，延遲就是決定一切的規格。\n\nCartesia Sonic 3 的 9.0 我會推薦給需要在真實對話迴圈裡做到 100 毫秒以內回應的開發者。Hume AI Octave 2 的 8.9 依然是韻律處理上最有意思的一家，它把一句話的情緒形狀當成生成的一部分，而不是事後再加上去。OpenAudio S1 同樣 8.9，想自架的人值得看一下。\n\n市場面有一件事可以直接拿來用，七月底那一波前緣模型降價，包括 OpenAI 7 月 30 日平衡型等級砍六成，壓力會傳導到所有 AI 服務層。語音廠商過去因為每秒運算成本高，價格守得比文字廠商穩，但我預期每字元價格會在入秋後鬆動。這個月要簽年約的話，價格上該壓就壓，並且要求加一條期中檢討條款。\n\n聲音複製這塊，每一個你要複製的聲音都要有書面同意書，這在越來越多司法管轄區是法律要求，在其他地方則是商譽問題。",
+          "highlights": [
+            {
+              "title": "ElevenLabs 管旁白，Inworld 管對話",
+              "body": "9.4 的並列是真的，兩個產品也不能互換。長時間聆聽吃的是 ElevenLabs 的情緒幅度跟音色庫深度，人會回話的互動產品吃的是 Inworld 的反應速度。照你的使用者會遇到哪一種來選。"
+            },
+            {
+              "title": "延遲是互動產品的決勝規格",
+              "body": "Cartesia Sonic 3 拿到 9.0，靠的是在真實對話迴圈裡做到 100 毫秒以內的回應。在一個人要等聲音回話的產品裡，多半秒的延遲就等於壞掉，音色再好都救不回來。"
+            },
+            {
+              "title": "Hume 模擬的是句子的形狀，不只是字",
+              "body": "8.9 的 Octave 2 把韻律當成生成的一部分而不是後製效果，所以整段話唸下來情緒是連貫的。對話量大的專案，這個結構性的差別比音色庫大不大重要得多。"
+            },
+            {
+              "title": "這個月要簽年約就用力壓價",
+              "body": "七月底前緣模型價格重挫，包括 OpenAI 7 月 30 日平衡型等級砍六成。語音的價格通常會延後跟進。現在就談，並且要求加期中檢討條款，不要用今天的價格鎖死十二個月。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

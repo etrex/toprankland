@@ -13653,6 +13653,168 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-05",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Samsung SmartThings Becomes the Industry's First to Support Matter Cameras",
+          "url": "https://news.samsung.com/global/samsung-smartthings-becomes-the-industrys-first-to-support-matter-cameras",
+          "source": "Samsung Newsroom"
+        },
+        {
+          "title": "AI Updates Today (August 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Mullvad keeps first at 9.2 for the same reason it has held that spot all year: it collects the least and proves it structurally rather than promising it in a policy document. There is no account email, you can pay in cash, and the account number is the only identifier that exists. That design means a subpoena produces nothing useful, which is a stronger guarantee than any audit of a company that does hold your details. ProtonVPN at 9.1 is the one I recommend more often in practice, because it pairs a serious privacy record with apps polished enough that people actually keep them running. A VPN you disable because it is annoying protects nothing. NordVPN at 8.8 remains the fastest large network and the right pick for streaming access, with the caveat that its business model depends on knowing more about you than the two above it. IVPN at 8.6 deserves more attention than it gets and is the closest thing to Mullvad's philosophy with a friendlier interface. One thing worth saying plainly this month: a VPN protects the transport, and it does nothing about the tracking that happens inside the sites and apps you log into. If your goal is to reduce profiling rather than to change your apparent location, browser hardening and account hygiene do more than any subscription on this list. Buy a VPN for the specific job of protecting traffic on networks you do not control.",
+          "highlights": [
+            {
+              "title": "Mullvad proves privacy structurally instead of promising it",
+              "body": "No account email, cash payment accepted, and an account number as the only identifier. A legal demand produces nothing useful because nothing useful exists, which is a stronger guarantee than any audit of a provider that does hold your details."
+            },
+            {
+              "title": "Proton is the one most people should actually run",
+              "body": "At 9.1 it pairs a serious privacy record with apps polished enough that they stay switched on. A VPN you disable because it gets in your way protects nothing at all, and that practical reality is why I recommend Proton more often than its score suggests."
+            },
+            {
+              "title": "A VPN does not stop tracking inside the apps you log into",
+              "body": "It protects the transport, which matters on networks you do not control. Profiling by the services you sign into continues regardless. If reducing tracking is your actual goal, browser hardening and account hygiene do more than any subscription here."
+            },
+            {
+              "title": "Nord is the streaming and speed pick, with a trade-off",
+              "body": "At 8.8 it runs the fastest large network and unblocks the most services. The trade-off is a business model built on knowing more about its customers than Mullvad or IVPN do, which is a reasonable exchange if streaming access is the reason you are buying."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Mullvad 以 9.2 守住第一，理由跟它整年坐穩這個位置的理由一樣，它收集的資料最少，而且是用架構去證明，不是在隱私政策裡寫幾句承諾。\n\n沒有帳號 email，可以用現金付款，帳號編號是唯一存在的識別資訊。這個設計代表法院要資料也拿不到有用的東西，這比任何一家握有你個資的公司做的稽核報告都更強。\n\nProtonVPN 的 9.1 在實務上是我推薦次數更多的，它同時有紮實的隱私紀錄跟精緻到使用者真的會讓它一直開著的 App。一個因為煩人而被你關掉的 VPN，保護不了任何東西。\n\nNordVPN 的 8.8 依然是速度最快的大型網路，要看串流選它，但要知道它的商業模式建立在比上面兩家更了解你這件事上。\n\nIVPN 的 8.6 被低估了，它是最接近 Mullvad 哲學但介面更友善的選擇。\n\n這個月有一句話要講白，VPN 保護的是傳輸過程，對你登入的網站跟 App 內部的追蹤完全沒有作用。如果你的目標是減少被側寫而不是改變表面位置，瀏覽器強化跟帳號衛生做的事比榜上任何訂閱都多。買 VPN 就是為了在你控制不了的網路上保護流量，這個工作它做得很好。",
+          "highlights": [
+            {
+              "title": "Mullvad 用架構證明隱私，不是用承諾",
+              "body": "沒有帳號 email、接受現金付款、帳號編號是唯一識別資訊。法律要求拿不到有用的東西，因為有用的東西根本不存在，這比任何一家握有你個資的業者做的稽核都更硬。"
+            },
+            {
+              "title": "Proton 才是多數人真的該開著的那一個",
+              "body": "9.1 同時有紮實的隱私紀錄，跟精緻到你會讓它一直開著的 App。一個因為卡手而被你關掉的 VPN 保護不了任何東西，這個現實就是我推薦 Proton 的次數高過它分數的原因。"
+            },
+            {
+              "title": "VPN 擋不住你登入的 App 內部的追蹤",
+              "body": "它保護的是傳輸，在你控制不了的網路上很重要。你登入的服務對你的側寫還是照樣進行。如果減少追蹤才是你真正的目標，瀏覽器強化跟帳號衛生的效果高過這裡任何一個訂閱。"
+            },
+            {
+              "title": "Nord 是速度跟串流的選擇，但有代價",
+              "body": "8.8 跑的是最快的大型網路，解鎖的服務也最多。代價是它的商業模式建立在比 Mullvad 跟 IVPN 更了解客戶這件事上。如果你買的理由就是看串流，這個交換算合理。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
