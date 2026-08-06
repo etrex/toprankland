@@ -10906,6 +10906,223 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-06",
+      "rankings": [
+        {
+          "id": "bambu-lab-p2s-combo",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "print_quality": 9.5,
+            "speed": 9.3,
+            "multicolor": 9.5,
+            "ecosystem": 9.5,
+            "value": 9.3
+          }
+        },
+        {
+          "id": "bambu-lab-x2d-combo",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "print_quality": 9.6,
+            "speed": 9.3,
+            "multicolor": 9.5,
+            "ecosystem": 9.5,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "bambu-lab-x1-carbon",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "print_quality": 9.8,
+            "speed": 9.5,
+            "multicolor": 9.5,
+            "ecosystem": 9.5,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "bambu-lab-h2d",
+          "rank": 4,
+          "score": 9.1,
+          "scores": {
+            "print_quality": 9.7,
+            "speed": 9.7,
+            "multicolor": 9.0,
+            "ecosystem": 9.5,
+            "value": 7.0
+          }
+        },
+        {
+          "id": "prusa-core-one",
+          "rank": 5,
+          "score": 9.0,
+          "scores": {
+            "print_quality": 9.5,
+            "speed": 8.8,
+            "multicolor": 7.7,
+            "ecosystem": 9.8,
+            "value": 8.3
+          }
+        },
+        {
+          "id": "bambu-lab-p1s",
+          "rank": 6,
+          "score": 8.9,
+          "scores": {
+            "print_quality": 9.0,
+            "speed": 9.0,
+            "multicolor": 8.5,
+            "ecosystem": 9.5,
+            "value": 9.6
+          }
+        },
+        {
+          "id": "bambu-lab-a2l-combo",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "print_quality": 8.4,
+            "speed": 8.0,
+            "multicolor": 8.8,
+            "ecosystem": 9.5,
+            "value": 9.6
+          }
+        },
+        {
+          "id": "prusa-mk4s",
+          "rank": 8,
+          "score": 8.6,
+          "scores": {
+            "print_quality": 9.5,
+            "speed": 8.0,
+            "multicolor": 7.5,
+            "ecosystem": 9.8,
+            "value": 7.3
+          }
+        },
+        {
+          "id": "creality-k2-plus-combo",
+          "rank": 9,
+          "score": 8.5,
+          "scores": {
+            "print_quality": 8.8,
+            "speed": 9.0,
+            "multicolor": 9.2,
+            "ecosystem": 7.8,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "elegoo-centauri-carbon",
+          "rank": 10,
+          "score": 8.5,
+          "scores": {
+            "print_quality": 8.5,
+            "speed": 8.5,
+            "multicolor": 7.0,
+            "ecosystem": 7.5,
+            "value": 10.0
+          }
+        },
+        {
+          "id": "anycubic-kobra-3-max-combo",
+          "rank": 11,
+          "score": 8.0,
+          "scores": {
+            "print_quality": 8.0,
+            "speed": 8.8,
+            "multicolor": 8.8,
+            "ecosystem": 7.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "sovol-sv08",
+          "rank": 12,
+          "score": 7.9,
+          "scores": {
+            "print_quality": 8.5,
+            "speed": 9.5,
+            "multicolor": 6.5,
+            "ecosystem": 8.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "creality-ender-3-v3-se",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "print_quality": 7.5,
+            "speed": 7.8,
+            "multicolor": 5.5,
+            "ecosystem": 7.5,
+            "value": 9.8
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Computex 2026: hardware and manufacturing tech",
+          "url": "https://www.reviewed.com/tech/features/best-computex-products-2026",
+          "source": "Reviewed"
+        },
+        {
+          "title": "CES 2026: hardware announcements roundup",
+          "url": "https://www.pcgamer.com/hardware/live/news/ces-2026-announcements/",
+          "source": "PC Gamer"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Bambu Lab occupies seven of the top ten positions on this board and I want to explain why that is a legitimate outcome rather than a bias. The company solved first-layer reliability, which is the failure mode that makes people give up on 3D printing entirely. Automatic bed levelling that actually works, combined with flow calibration that runs before each print, means a Bambu machine succeeds on prints where an unmaintained competitor fails.\n\nThe P2S Combo holds first at 9.4 as the best balance of speed, multicolour capability and price. The AMS multicolour system is the feature that changes what you make, because printing in four colours without manual filament swaps turns models that were theoretical into projects you actually finish.\n\nThe Prusa Core One at 9.0 remains the machine I recommend for anyone who wants to modify and repair rather than just print. Open firmware, published schematics and parts availability that extends years past the product cycle mean it stays running long after a closed machine becomes e-waste. That philosophy is worth real money over a decade of ownership.",
+          "highlights": [
+            {
+              "title": "Bambu dominates because it solved first-layer reliability",
+              "body": "The failure mode that makes people abandon 3D printing is a first layer that does not adhere, and Bambu addressed it with bed levelling that actually works plus flow calibration before every print. A machine that succeeds where an unmaintained competitor fails is not a marketing advantage, it is why seven of the top ten carry this name."
+            },
+            {
+              "title": "Multicolour printing changes what you actually make",
+              "body": "The AMS system prints four colours without manual filament swaps, which converts models that were theoretically possible into projects you finish. That capability is the largest practical difference between the P2S Combo at 9.4 and the single-colour machines further down this list."
+            },
+            {
+              "title": "Prusa Core One is for people who want to repair the machine",
+              "body": "Open firmware, published schematics and spare parts available years past the product cycle mean this printer keeps running long after a closed competitor becomes electronic waste. Over a decade of ownership that philosophy has real monetary value. 9.0 and fifth place."
+            },
+            {
+              "title": "Elegoo Centauri Carbon at 8.5 is the budget entry that works",
+              "body": "It delivers enclosed printing with a heated chamber at a price well below the leaders, which matters because an enclosure is what lets you print engineering materials rather than just PLA. Tenth place at 8.5 reflects real capability at an entry price."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Bambu Lab 佔了這份榜單前十名的七個位置，我想解釋為什麼這是合理的結果、不是偏心。這家公司解決了第一層附著的可靠度問題，而那正是讓人徹底放棄 3D 列印的失敗模式。真的會動的自動調平，加上每次列印前都跑一次的流量校正，讓 Bambu 的機器能印成功那些沒好好保養的對手會失敗的檔案。\n\nP2S Combo 守住第一、9.4 分，是速度、多色能力跟價格之間平衡得最好的。AMS 多色系統是那個會改變你做什麼東西的功能，因為不用手動換料就能印四色，會把原本只停留在想像裡的模型變成你真的完成的作品。\n\nPrusa Core One 的 9.0 分依然是我推薦給那種想改機、想自己修的人的機器。開放韌體、公開電路圖，加上產品週期結束後好幾年還買得到零件，代表它在封閉機種變成電子垃圾之後很久還在運轉。以十年持有期來算，這個理念是真的值錢。",
+          "highlights": [
+            {
+              "title": "Bambu 稱霸，因為它解決了第一層可靠度",
+              "body": "讓人放棄 3D 列印的失敗模式就是第一層黏不住，而 Bambu 用真的會動的自動調平加上每次列印前的流量校正處理掉了。一台能印成功、而沒好好保養的對手會失敗的機器，這不是行銷優勢，這就是前十名有七台掛這個名字的原因。"
+            },
+            {
+              "title": "多色列印改變的是你實際會做什麼",
+              "body": "AMS 系統不用手動換料就能印四色，把原本理論上可行的模型變成你真的會完成的專案。這個能力就是 9.4 分的 P2S Combo 跟榜單下方那些單色機器之間，最大的實務差異。"
+            },
+            {
+              "title": "Prusa Core One 是給想自己修機器的人",
+              "body": "開放韌體、公開電路圖、產品週期結束後好幾年還買得到備品，代表這台印表機在封閉對手變成電子垃圾之後很久還在運轉。以十年持有期來算，這個理念有實實在在的金錢價值。9.0 分，第五名。"
+            },
+            {
+              "title": "Elegoo Centauri Carbon 的 8.5 分是真的能用的入門選擇",
+              "body": "它用遠低於領先群的價格給你封閉式列印加上加熱腔體，這件事很重要，因為有腔體你才印得了工程塑料而不只是 PLA。第十名 8.5 分，反映的是入門價位上貨真價實的能力。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -178,6 +178,22 @@
           "description": "Brita 唯一拿到 NSF 53 除鉛認證的濾水壺，搭 Elite 濾芯能撐半年才換一次，長期算下來每公升成本是所有濾水壺裡最低的。預算有限又想要一台不用常換濾芯的入門壺，這台最省心。"
         }
       }
+    },
+    {
+      "id": "clearly-filtered-pitcher",
+      "name": "Clean Water Pitcher",
+      "brand": "Clearly Filtered",
+      "url": "https://clearlyfiltered.com/products/clean-water-pitcher",
+      "i18n": {
+        "en": {
+          "description": "The pitcher I reach for when the local water report looks bad, NSF certified to Standards 42 and 372 and independently tested by EPA-accredited labs against 365-plus contaminants including PFAS, fluoride, lead and arsenic, on a 100-gallon filter.",
+          "priceRange": "$99"
+        },
+        "zh-tw": {
+          "description": "水質報告難看的時候，我會直接推這一台。拿到 NSF 42 和 372 認證，另外送 EPA 認可實驗室獨立實測 365 種以上污染物，PFAS、氟、鉛、砷都在名單裡，一支濾芯撐 100 加侖大約四個月。三千塊的濾水壺確實不算便宜，但過濾深度在壺型裡就是天花板。",
+          "priceRange": "約 NT$3,000"
+        }
+      }
     }
   ],
   "history": [
@@ -1378,8 +1394,20 @@
           }
         },
         {
-          "id": "pur-plus-11cup",
+          "id": "clearly-filtered-pitcher",
           "rank": 7,
+          "score": 8.5,
+          "scores": {
+            "contaminant_removal": 9.3,
+            "certification": 8.6,
+            "filter_life": 7.4,
+            "convenience": 9.4,
+            "value": 7.6
+          }
+        },
+        {
+          "id": "pur-plus-11cup",
+          "rank": 8,
           "score": 8.4,
           "scores": {
             "contaminant_removal": 7.8,
@@ -1391,7 +1419,7 @@
         },
         {
           "id": "zerowater-10cup",
-          "rank": 8,
+          "rank": 9,
           "score": 8.1,
           "scores": {
             "contaminant_removal": 8.6,
@@ -1403,7 +1431,7 @@
         },
         {
           "id": "frizzlife-mk99",
-          "rank": 9,
+          "rank": 10,
           "score": 7.9,
           "scores": {
             "contaminant_removal": 7.6,
@@ -1415,7 +1443,7 @@
         },
         {
           "id": "brita-elite-tahoe",
-          "rank": 10,
+          "rank": 11,
           "score": 7.6,
           "scores": {
             "contaminant_removal": 7.2,
@@ -1436,6 +1464,11 @@
           "title": "8 Best Reverse Osmosis Systems of 2026 We've Tested",
           "url": "https://waterfilterguru.com/best-reverse-osmosis-system-reviews/",
           "source": "Water Filter Guru"
+        },
+        {
+          "title": "Clearly Filtered Water Pitcher Review: Is It Worth the Premium? (2026)",
+          "url": "https://nontoxiclab.com/clearly-filtered-water-pitcher-review/",
+          "source": "NonToxicLab"
         }
       ],
       "i18n": {

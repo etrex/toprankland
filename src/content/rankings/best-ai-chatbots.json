@@ -11681,6 +11681,202 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-06",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.3,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.9,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.9,
+            "realtime": 9.4,
+            "value": 9.7,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "reasoning": 9.0,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.3,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.4,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (August 2026) - Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        },
+        {
+          "title": "LLM Release Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Two things happened in the last two weeks that matter for anyone paying for a chatbot. Anthropic shipped Claude Opus 5 on July 24, and OpenAI cut ChatGPT pricing across the GPT-5.6 family on July 30. Those events pull in opposite directions and they are the reason ChatGPT and Claude are still tied at 9.5 with ChatGPT holding first on ecosystem breadth.\n\nMy read after two weeks with Opus 5 is that it is the model I reach for when the task has a right answer that is hard to find. Long multi-step reasoning, code that has to actually run, and document analysis where a subtle misreading ruins the output. ChatGPT keeps first place because of everything around the model: the image generation, the voice mode, the connector ecosystem and now a materially lower price. For a general assistant that has to do a bit of everything, that breadth still wins.\n\nGemini at 9.3 remains the pick for anyone living in Google Workspace, and the July 21 Flash Lite release matters mostly for developers rather than chat users. Alibaba shipped Qwen3.8 Max on August 2, which is the reason Qwen Chat moves up a tenth to 7.3. It is now the strongest open-weight-adjacent option for Chinese language work by a clear margin, and that is worth acknowledging even at the bottom of the board.",
+          "highlights": [
+            {
+              "title": "Claude Opus 5 is the model for tasks with a verifiable right answer",
+              "body": "Released July 24, it is the one I pick when a mistake would be expensive and hard to spot: multi-step reasoning chains, code that has to compile and run, and close document analysis. Anthropic's own coding benchmarks put it ahead of the previous top tier at half the cost. That capability is why Claude holds a 9.5 alongside ChatGPT."
+            },
+            {
+              "title": "OpenAI's July 30 price cut is why ChatGPT keeps first place",
+              "body": "Pricing across the GPT-5.6 Luna, Terra and Sol tiers came down on July 30, and that changes the value calculation for a general assistant. Combine it with image generation, voice mode and the widest connector ecosystem here, and ChatGPT remains the one subscription that covers the most ground. 9.5 and first."
+            },
+            {
+              "title": "Gemini is the correct answer if your work lives in Google Workspace",
+              "body": "Direct access to Gmail, Docs and Drive context is a capability the others reach only through connectors, and it removes the copy-paste step that makes assistants tedious. For a Workspace-based team this is the highest-leverage option on the list at 9.3 and third place."
+            },
+            {
+              "title": "Qwen3.8 Max moves Qwen Chat up to 7.3",
+              "body": "Alibaba shipped this on August 2, and it is now clearly the strongest option on this board for Chinese-language reasoning and writing. The gap to the leaders in English work remains wide, which is why it stays near the bottom, but the improvement is real and the score reflects it."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "過去兩週發生了兩件事，對有在付費用聊天機器人的人來說都很重要。Anthropic 在 7 月 24 日推出 Claude Opus 5，OpenAI 則在 7 月 30 日把 GPT-5.6 整個系列降價。這兩件事的方向剛好相反，也是 ChatGPT 跟 Claude 同樣停在 9.5 分、而 ChatGPT 靠生態廣度守住第一的原因。\n\n我用了 Opus 5 兩週的心得是，當一個任務有正確答案但那個答案很難找的時候，我就會叫它。長串多步推理、必須真的跑得起來的程式碼、還有那種讀錯一個細節整份輸出就毀了的文件分析。ChatGPT 守住第一靠的是模型以外的東西，圖片生成、語音模式、連接器生態，現在還加上明顯更低的價格。當你要的是一個什麼都得會一點的通用助理，這個廣度還是贏。\n\nGemini 的 9.3 分依然是 Google Workspace 使用者的首選，7 月 21 日那次 Flash Lite 更新對開發者的意義大於一般聊天使用者。阿里巴巴 8 月 2 日推出 Qwen3.8 Max，這就是 Qwen Chat 微幅上調到 7.3 分的原因。它現在在中文工作上已經是明顯最強的準開源選項，這件事就算它排在榜尾也值得講出來。",
+          "highlights": [
+            {
+              "title": "Claude Opus 5 專攻有標準答案、但答案很難找的任務",
+              "body": "7 月 24 日推出，我在「錯了代價很大而且很難發現」的場合都是叫它：多步推理鏈、必須編譯執行的程式碼、需要逐字細讀的文件分析。Anthropic 自家的程式碼基準測試顯示它超越前一個頂級檔次，成本卻只有一半。這個能力就是 Claude 跟 ChatGPT 並列 9.5 分的理由。"
+            },
+            {
+              "title": "OpenAI 7 月 30 日的降價，是 ChatGPT 守住第一的關鍵",
+              "body": "GPT-5.6 的 Luna、Terra、Sol 三個檔次在 7 月 30 日全面降價，這直接改變了一個通用助理的性價比算式。再加上圖片生成、語音模式跟榜上最廣的連接器生態，ChatGPT 依然是那個涵蓋面最大的單一訂閱。9.5 分，第一名。"
+            },
+            {
+              "title": "工作都在 Google Workspace 裡的話，Gemini 就是正解",
+              "body": "直接讀取 Gmail、Docs、Drive 的上下文，是其他家要透過連接器才勉強做得到的能力，而且它省掉了那個讓助理變得很煩的複製貼上步驟。對以 Workspace 為主的團隊來說，這是榜上槓桿最大的選項，9.3 分第三名。"
+            },
+            {
+              "title": "Qwen3.8 Max 把 Qwen Chat 推上 7.3 分",
+              "body": "阿里巴巴在 8 月 2 日推出，它現在在中文推理跟寫作上已經是這份榜單裡明顯最強的選擇。英文工作跟領先群的差距還是很大，所以它依然靠近榜尾，但這次進步是真的，分數也照實反映。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

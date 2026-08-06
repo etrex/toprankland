@@ -12299,6 +12299,199 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-06",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.0,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (August 2026) - Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Latest AI Model Releases - August 2026",
+          "url": "https://aireleasetracker.com/latest",
+          "source": "AI Release Tracker"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Character consistency across shots is what separates a demo reel from a usable production tool, and that is the axis this board is now sorted on. Kling 3.0 holds first at 9.5 because it maintains a face, an outfit and a lighting setup across separate generations more reliably than anything else I have run. That capability is what lets you cut two clips together and have them read as the same scene, which is the entire point.\n\nVeo 3.1 and Seedance 2.0 sit together at 9.4 and they win on different things. Veo 3.1 produces the best synchronized audio in the category by a clear margin, and native audio removes an entire post-production step. Seedance 2.0 has the strongest motion physics, meaning cloth, hair and water behave the way they should rather than the way a model guesses they should.\n\nRunway Gen-4.5 at 9.2 stays fourth and remains the most complete workflow rather than the best raw generator. Its editing tools, camera controls and asset management make it the one platform where you can take a project from concept to finished cut without leaving the tab. For a working creative that integration is worth more than a tenth of a point on motion realism.",
+          "highlights": [
+            {
+              "title": "Kling 3.0 leads on the only metric that makes video usable",
+              "body": "Character consistency across separate generations is what lets you cut two clips together and have them read as one scene. Kling holds a face, an outfit and a lighting setup more reliably than anything else here, and that reliability is the difference between a demo and a deliverable. 9.5 and first place."
+            },
+            {
+              "title": "Veo 3.1's native audio removes an entire production step",
+              "body": "Synchronized audio generated with the video, rather than added afterward, cuts out sound design and sync work that would otherwise take longer than the generation itself. The quality gap over the rest of the field on this specific capability is not close. 9.4 and second place."
+            },
+            {
+              "title": "Seedance 2.0 has the best physics in the category",
+              "body": "Cloth, hair and water are where generated video usually reveals itself, because a model that has not learned the underlying physics produces motion that looks subtly wrong. Seedance handles all three convincingly, which makes its output survive scrutiny at full resolution. 9.4 and third place."
+            },
+            {
+              "title": "Runway Gen-4.5 wins on workflow rather than raw output",
+              "body": "Editing tools, camera controls and asset management in one place mean a project goes from concept to finished cut without leaving the platform. For anyone producing on a deadline that integration saves more time than a marginally better generator would. 9.2 and fourth place."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "跨鏡頭的角色一致性，就是 demo 影片跟真正能拿來製作的工具之間的分野，這份榜單現在也是照這個軸排的。Kling 3.0 守住第一、9.5 分，因為它在不同次生成之間維持同一張臉、同一套衣服、同一組打光的穩定度比我跑過的任何模型都高。這個能力才讓你能把兩段素材剪在一起、看起來還像同一場戲，而這就是整件事的重點。\n\nVeo 3.1 跟 Seedance 2.0 並列 9.4 分，強項不同。Veo 3.1 的同步音訊是這個級距裡最好的，而且差距明顯，原生音訊直接省掉整個後製環節。Seedance 2.0 的運動物理最強，布料、頭髮、水的表現是照物理該有的樣子動，不是模型猜出來的樣子。\n\nRunway Gen-4.5 的 9.2 分維持第四，它強在完整工作流而不是原始生成品質。剪輯工具、運鏡控制、素材管理，讓它成為唯一一個能把專案從概念做到成片、全程不用離開這個分頁的平台。對接案的創作者來說，這個整合度比運動真實度多零點一分值錢多了。",
+          "highlights": [
+            {
+              "title": "Kling 3.0 在唯一決定影片能不能用的指標上領先",
+              "body": "跨次生成的角色一致性，決定了你能不能把兩段素材剪在一起還像同一場戲。Kling 維持臉、衣服跟打光的穩定度比榜上任何一個都高，而這個穩定度就是 demo 跟交件成品的差別。9.5 分，第一名。"
+            },
+            {
+              "title": "Veo 3.1 的原生音訊直接砍掉一整個製作環節",
+              "body": "音訊跟影片一起生成而不是事後補上，省掉的音效設計跟對軌時間往往比生成本身還久。它在這個特定能力上跟其他家的品質差距，說實話不太有得比。9.4 分第二名。"
+            },
+            {
+              "title": "Seedance 2.0 的物理表現是這個級距最好的",
+              "body": "布料、頭髮、水這三樣是生成影片最容易露餡的地方，因為沒學好底層物理的模型，動起來就是會有種說不上來的怪。Seedance 這三樣都處理得很有說服力，成品放到全解析度檢視也撐得住。9.4 分第三名。"
+            },
+            {
+              "title": "Runway Gen-4.5 贏在工作流，不是原始輸出",
+              "body": "剪輯工具、運鏡控制、素材管理全在同一個地方，代表一個專案從概念到成片都不用離開平台。對趕死線的製作者來說，這個整合省下的時間，遠比一個略好一點的生成器多。9.2 分第四名。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
