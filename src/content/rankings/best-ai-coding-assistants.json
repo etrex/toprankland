@@ -18043,6 +18043,450 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-07",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "LLM News Today (August 2026) - AI Model Releases",
+          "url": "https://llm-stats.com/ai-news",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Latest AI Model Releases - August 2026",
+          "url": "https://aireleasetracker.com/latest",
+          "source": "AI Release Tracker"
+        },
+        {
+          "title": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code holds 9.5 and the July 24 launch of Claude Opus 5 is the reason it stays there with room to spare. Anthropic priced the new flagship at half the previous one, and for a coding tool that runs agentic loops across a whole repository, price per hour of autonomous work is a first-class feature. I now leave long refactors running that I would have supervised more tightly a month ago. The quality of the output over those long runs is what earns the score. Context handling stays coherent deep into a session, and the model reliably comes back and tells me what it could not do rather than inventing something plausible.\n\nOpenAI Codex sits at 9.1 and deserves it. The full GPT-5.6 family reached general availability on July 9, and Codex inherits the reasoning improvements. Where it wins is breadth of language coverage, particularly on older enterprise stacks where the training data advantage shows.\n\nCursor holds 9.0 as the best pure editor experience on this list. If your work is heavily interactive, writing code alongside the model rather than delegating whole tasks to it, Cursor's inline flow is still the most natural. Google Antigravity at 8.3 and Jules at 8.2 both benefit from Google's July 21 Flash releases on the cost side, though neither has closed the gap on agentic reliability.\n\nNothing below the top four moved this week. GitHub Copilot at 7.9 remains the safe institutional choice with the weakest ceiling. Aider and Zed continue to be the picks for developers who want the model in a tool they already control.",
+          "highlights": [
+            {
+              "title": "Claude Code is number one because autonomous hours got cheap on July 24",
+              "body": "Anthropic halved flagship pricing with Claude Opus 5. For a tool whose value comes from working unattended across many files, the cost of an hour of autonomous work is the number that matters. I changed how I use the tool the week it landed, and that is the strongest signal I have for a top ranking."
+            },
+            {
+              "title": "Codex at 9.1 wins on language breadth, especially on older stacks",
+              "body": "GPT-5.6 reached general availability on July 9 and Codex picks up the reasoning gains. Where I keep reaching for it is legacy code: enterprise Java, older C++, the kind of codebase where training data depth beats architectural cleverness. That is a real and specific advantage."
+            },
+            {
+              "title": "Cursor stays the best editor for people who write alongside the model",
+              "body": "Cursor holds 9.0 because the inline experience is still the most fluid on the market. If you are pair-programming with the model rather than handing it a ticket, the multi-cursor edits and the way it predicts your next jump keep you in flow. Different job from Claude Code, done extremely well."
+            },
+            {
+              "title": "Google's Flash releases help Antigravity and Jules on cost, not yet on reliability",
+              "body": "The three low-cost Flash models Google shipped on July 21 make Antigravity and Jules cheaper to run at volume. Both hold their scores at 8.3 and 8.2 because the thing separating them from the top tier is finishing a multi-step task without supervision, and that has not changed this week."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 守住 9.5 分，7 月 24 日 Claude Opus 5 上線是它坐穩第一還有餘裕的原因。Anthropic 把新旗艦的價格砍到前一代的一半，對一個要在整個專案裡跑代理迴圈的工具來說，每小時自主工作的成本本身就是一項核心功能。\n\n說真的，我現在會讓大型重構就這樣掛著跑，一個月前我還會盯得比較緊。撐起分數的是這種長時間執行下的輸出品質。它在深入對話後上下文還是連貫的，做不到的事情會回來直接告訴我，而不是編一個聽起來合理的答案。\n\nOpenAI Codex 9.1 分，拿得實在。GPT-5.6 完整系列 7 月 9 日全面開放，Codex 直接吃到推理能力的提升。它的強項在語言涵蓋廣度，尤其是比較老的企業技術棧，訓練資料的優勢在這裡看得很清楚。\n\nCursor 維持 9.0，是榜上純編輯器體驗最好的一個。如果你的工作型態偏互動，習慣跟模型並肩寫程式而不是把整包任務丟給它，Cursor 的行內流程還是最順的。Google Antigravity 8.3、Jules 8.2，兩邊都因為 Google 7 月 21 日的 Flash 模型在成本上受惠，不過代理任務的可靠度差距還沒補上。\n\n前四名以下這週都沒動。GitHub Copilot 7.9，還是那個公司採購最安全、天花板也最低的選項。Aider 跟 Zed 則繼續適合想把模型裝進自己已經掌控的工具裡的開發者。",
+          "highlights": [
+            {
+              "title": "Claude Code 第一，因為 7 月 24 日之後自主工時變便宜了",
+              "body": "Anthropic 靠 Claude Opus 5 把旗艦價格砍半。對一個價值來自無人監督跨檔案工作的工具來說，一小時自主工作要多少錢，就是最關鍵的數字。它上線那週我就改變了使用方式，這是我判斷第一名最強的訊號。"
+            },
+            {
+              "title": "Codex 9.1 贏在語言廣度，老技術棧特別明顯",
+              "body": "GPT-5.6 在 7 月 9 日全面開放，Codex 直接繼承推理增益。我會固定回頭找它的場景是舊程式碼，企業級 Java、老一點的 C++，這種訓練資料深度勝過架構巧思的專案。這是很具體的優勢。"
+            },
+            {
+              "title": "Cursor 依然是「跟模型並肩寫程式」的人最好的編輯器",
+              "body": "Cursor 守住 9.0，因為行內體驗到現在還是市場上最流暢的。如果你是在跟模型結對寫程式而不是丟工單給它，多游標編輯加上它預測你下一個跳點的方式，會讓你一直保持在心流裡。跟 Claude Code 是不同的活，而它做得非常好。"
+            },
+            {
+              "title": "Google 的 Flash 模型幫到 Antigravity 跟 Jules 的成本，可靠度還沒",
+              "body": "Google 7 月 21 日推的三款低成本 Flash 模型，讓 Antigravity 跟 Jules 在大量使用時便宜不少。兩者分別維持 8.3 跟 8.2，因為把它們跟第一梯隊隔開的是「無人監督完成多步驟任務」這件事，這週沒有改變。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-08-09",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Coding Agents (August 2026): Scored Leaderboard",
+          "url": "https://www.morphllm.com/best-ai-coding-agents-2026",
+          "source": "Morph"
+        },
+        {
+          "title": "Claude vs GPT-5.2 vs Gemini 3: Real Coding Test Results (2026)",
+          "url": "https://www.cosmicjs.com/blog/best-ai-for-developers-claude-vs-gpt-vs-gemini-technical-comparison-2026",
+          "source": "Cosmic"
+        },
+        {
+          "title": "Best AI Coding Agents in 2026, Ranked",
+          "url": "https://mightybot.ai/blog/coding-ai-agents-for-accelerating-engineering-workflows/",
+          "source": "MightyBot"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code holds first, and this month's scored leaderboard puts it in the same position on the strength of Claude Opus 5 and per-subagent model control. That second point is the one I want to draw out, because it is the structural advantage rather than the benchmark one.\n\nBeing able to assign different models to different subagents means you can run a cheap fast model for mechanical file sweeps and reserve the expensive reasoning model for the architectural decisions. On a large refactor that is the difference between a job you can afford and one you cannot. Most competing tools apply one model to everything.\n\nOpenAI Codex at second has closed considerably and its terminal-native workflow is genuinely good. If your team is already standardized on OpenAI infrastructure, the integration argument is strong.\n\nCursor at third remains the best experience for developers who want an IDE rather than a CLI. Its inline editing and codebase indexing make it the most approachable entry point for someone adopting AI assistance for the first time.\n\nThe honest framing for readers evaluating this category: the model underneath matters more than the wrapper around it. Every tool in this ranking is calling a foundation model, and the ones at the top are the ones with the best model access plus the best agentic loop. Judge on those two things.",
+          "highlights": [
+            {
+              "title": "Per-subagent model control is the structural advantage",
+              "body": "Assigning a cheap fast model to mechanical file sweeps while reserving the expensive reasoning model for architectural decisions changes the economics of a large refactor entirely. Most competing tools apply one model to every step. That control is why Claude Code leads scored leaderboards rather than only benchmark tables, because it wins on cost per completed task."
+            },
+            {
+              "title": "The model underneath matters more than the wrapper",
+              "body": "Every tool in this ranking calls a foundation model, and the difference between them is model access plus the quality of the agentic loop around it. A polished interface on a weaker model produces worse code more pleasantly. Evaluate which model a tool gives you access to and how well it orchestrates multi-step work, and treat the interface as secondary."
+            },
+            {
+              "title": "Cursor is the right entry point if you want an IDE",
+              "body": "Inline editing, codebase indexing and a familiar editor surface make it the most approachable option for a developer adopting AI assistance for the first time. CLI agents assume comfort with a terminal-driven workflow that not everyone has. For a team where adoption is the constraint rather than capability, the tool people will actually open is the correct one."
+            },
+            {
+              "title": "Judge these tools on completed tasks, not on autocomplete quality",
+              "body": "Suggestion acceptance rate measures how often a tool guesses your next line correctly, which is a solved problem. What differentiates tools now is whether an agent can take a described change, locate the relevant files, make consistent edits across them and verify the result. Test that workflow on your own repository before committing a team to any of these."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 守住第一，這個月的計分排行榜也把它放在同一個位置，理由是 Claude Opus 5 加上可以針對每個子代理指定模型。第二點是我想特別拉出來講的，因為那是結構性優勢，不是跑分優勢。\n\n能夠對不同子代理指定不同模型，代表你可以用便宜快速的模型跑機械性的檔案掃描，把昂貴的推理模型留給架構決策。在一次大型重構上，這就是「這份工作你負擔得起」跟「負擔不起」的差別。多數競爭工具是一個模型套用到所有步驟。\n\n第二名 OpenAI Codex 追得很近，終端機原生的工作流確實好用。如果你的團隊已經標準化在 OpenAI 的基礎設施上，整合這個論點很強。\n\n第三名 Cursor 依然是想要 IDE 而不是 CLI 的開發者最好的體驗。行內編輯跟程式庫索引，讓它成為第一次導入 AI 輔助的人最容易上手的入口。\n\n給正在評估這個品類的讀者一個誠實的框架：底下的模型比外面那層包裝重要。這份榜單裡每個工具都在呼叫基礎模型，排在前面的是那些同時擁有最好的模型存取權跟最好的代理迴圈的。就照這兩件事判斷。",
+          "highlights": [
+            {
+              "title": "結構性優勢在於能對每個子代理指定模型",
+              "body": "用便宜快速的模型跑機械性檔案掃描，同時把昂貴的推理模型留給架構決策，這會徹底改變一次大型重構的成本結構。多數競爭工具是一個模型套用到每一步。這個控制力就是為什麼 Claude Code 領先的是計分排行榜，而不只是跑分表，因為它贏在每完成一項任務的成本。"
+            },
+            {
+              "title": "底下的模型比外面那層包裝重要",
+              "body": "這份榜單裡每個工具都在呼叫基礎模型，它們之間的差別是模型存取權，加上外圍代理迴圈的品質。一個精緻介面套在較弱的模型上，只是讓你比較愉快地拿到比較差的程式碼。去評估一個工具給你哪個模型的存取權、它多會編排多步驟工作，介面則放在其次。"
+            },
+            {
+              "title": "想要 IDE 的話，Cursor 是對的入口",
+              "body": "行內編輯、程式庫索引跟熟悉的編輯器介面，讓它成為第一次導入 AI 輔助的開發者最容易上手的選擇。CLI 代理預設你習慣終端機導向的工作流，而不是每個人都有。如果團隊的瓶頸是導入意願而不是能力，那大家真的會打開的那個工具才是正確的。"
+            },
+            {
+              "title": "用完成的任務評斷這些工具，不要用自動補全的品質",
+              "body": "建議採納率衡量的是工具多常猜對你的下一行，而那已經是被解決的問題了。現在真正拉開差距的，是一個代理能不能接下一個描述性的需求、找到相關檔案、跨檔案做出一致的修改，然後驗證結果。讓整個團隊押注之前，先在自己的儲存庫上測這個流程。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
