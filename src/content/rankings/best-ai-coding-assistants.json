@@ -18487,6 +18487,220 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-10",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Coding Agents (August 2026): Scored Leaderboard",
+          "url": "https://www.morphllm.com/best-ai-coding-agents-2026",
+          "source": "MorphLLM"
+        },
+        {
+          "title": "Latest AI Developments: August 2026 Update",
+          "url": "https://local-ai-zone.github.io/blog/ai-updates-august-2026.html",
+          "source": "Local AI Zone"
+        },
+        {
+          "title": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code holds first at 9.5 and the August leaderboards keep landing in the same place. What earns the score is the terminal-native agent model: it reads a repository, plans a change across files, runs the tests and reports what broke, all without me assembling context by hand. That workflow difference is worth more than a few points of benchmark accuracy, because the time cost of an AI assistant is mostly the time you spend explaining your codebase to it. Pricing is also unusually reasonable, with Claude Code included in the twenty dollar tier rather than gated behind an enterprise plan. OpenAI Codex at 9.1 has closed a lot of ground and is the better choice if your team is standardised on OpenAI infrastructure, since the model and the agent share one billing and one policy surface. Cursor at 9.0 remains the best experience for developers who want an editor rather than a terminal, and the multi file edit preview is still the clearest implementation of that idea. Google Antigravity at 8.3 is improving fastest of anything on this list. My advice for teams evaluating right now: run all three on the same real ticket from your own backlog rather than a toy problem, because the ranking flips depending on how messy your repository is.",
+          "highlights": [
+            {
+              "title": "The terminal-native agent model is why Claude Code leads",
+              "body": "It reads the repository, plans changes across files, runs tests and reports failures without me hand assembling context. Most of the cost of an AI assistant is the time you spend explaining your codebase, and eliminating that step matters more than a few benchmark points. That is what a 9.5 represents."
+            },
+            {
+              "title": "Codex is the right call for OpenAI-standardised teams",
+              "body": "At 9.1 it has closed most of the quality gap, and when the model and the agent share one billing relationship and one policy surface, procurement gets simpler. For a team that already runs its infrastructure on OpenAI, that operational simplicity outweighs a small capability difference."
+            },
+            {
+              "title": "Evaluate on your own messy repository, not a toy problem",
+              "body": "The ranking between the top three flips depending on repository size, test coverage and how much legacy code you carry. Take one real ticket from your backlog, run all three against it, and measure how many rounds of correction each needs. That result is worth more than any leaderboard including this one."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 維持第一，9.5 分，八月的各家排行榜結論也都落在同一個地方。\n\n它拿到這個分數的關鍵是終端機原生的代理模式，它會自己讀專案、跨檔案規劃修改、跑測試、然後回報哪裡壞掉，整個過程我不用手動把上下文餵給它。這個工作流的差距比跑分多幾分重要得多，因為用 AI 寫程式真正的成本，其實是你花在跟它解釋自家程式碼的時間。\n\n定價也算合理，Claude Code 包在月費約六百多元那一階裡，沒有被鎖在企業方案後面。\n\nOpenAI Codex 9.1，差距已經追回來很多，團隊如果本來就整套跑在 OpenAI 上，選它更順，因為模型跟代理共用同一份帳單跟同一套政策設定。\n\nCursor 9.0，想要編輯器而不是終端機的人，體驗還是它最好，多檔案修改的預覽介面到現在仍是這個概念做得最清楚的實作。\n\nGoogle Antigravity 8.3，是榜上進步最快的。\n\n給正在評估的團隊一個實際建議，拿你自己 backlog 裡一張真的單子去跑這三個，不要用玩具題目，因為專案越亂，排名翻得越兇。",
+          "highlights": [
+            {
+              "title": "終端機原生的代理模式，是 Claude Code 領先的原因",
+              "body": "它自己讀專案、跨檔案規劃、跑測試、回報失敗，我不用手動組上下文。用 AI 寫程式的成本大部分花在跟它解釋你的程式碼，把這一步砍掉，比跑分多幾分有價值得多。9.5 分講的就是這件事。"
+            },
+            {
+              "title": "整套跑 OpenAI 的團隊，Codex 是正確選擇",
+              "body": "9.1 分，品質差距已經追回大半，而模型跟代理共用一份帳單、一套政策設定，採購流程會單純很多。基礎設施本來就在 OpenAI 上的團隊，這種營運上的簡單，價值高過一點點能力差異。"
+            },
+            {
+              "title": "拿你自己那包很亂的專案去測，不要測玩具題",
+              "body": "前三名的排序會隨著專案大小、測試覆蓋率、還有你背了多少舊程式碼而翻盤。從 backlog 挑一張真單子，三個各跑一次，數數看各自要來回修正幾輪。那個結果比任何排行榜都準，包括這一張。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

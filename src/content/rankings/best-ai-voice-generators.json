@@ -13245,6 +13245,208 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-10",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.4,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 4,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "fish-audio-openaudio-s1",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.1,
+            "emotionalRange": 8.8,
+            "languageSupport": 8.0,
+            "latency": 8.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 9.8,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 8,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 8.3,
+            "emotionalRange": 7.7,
+            "languageSupport": 8.6,
+            "latency": 7.8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Latest AI Developments: August 2026 Update",
+          "url": "https://local-ai-zone.github.io/blog/ai-updates-august-2026.html",
+          "source": "Local AI Zone"
+        },
+        {
+          "title": "LLM News Today (August 2026) – AI Model Releases",
+          "url": "https://llm-stats.com/ai-news",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs and Inworld TTS-1.5 Max share the top at 9.4 and they win for different reasons, which is why I keep them level. ElevenLabs has the deepest voice library, the most mature cloning pipeline and language coverage that actually holds accent quality outside English, which matters if you localise content. Inworld matches it on realism and beats it on latency, and for anything conversational, a voice that responds in under three hundred milliseconds feels alive in a way a beautiful voice with a one second delay never does. If you are building a phone agent or an interactive character, latency is the product. Cartesia Sonic 3 at 9.0 is the efficiency pick, delivering near flagship quality at a cost per minute that makes high volume applications viable. Hume AI Octave 2 at 8.9 remains the most interesting technically because it models emotional context rather than applying emotion as a filter, and in long form narration that produces delivery that tracks the meaning of the sentence. Nothing moved this week. If you are choosing today, my test is simple: generate the same paragraph on all four, then listen to it on a phone speaker rather than headphones, because that is where your audience will hear it.",
+          "highlights": [
+            {
+              "title": "Latency is the product for conversational applications",
+              "body": "A voice that responds in under three hundred milliseconds feels alive, and a beautiful voice with a one second delay never does. Inworld TTS-1.5 Max ties for first because it matches the realism leader while winning on response time, and for phone agents or interactive characters that is the whole decision."
+            },
+            {
+              "title": "ElevenLabs wins on languages that are not English",
+              "body": "The voice library is deepest, the cloning pipeline is most mature, and accent quality holds up outside English where most rivals degrade noticeably. If you localise content into several languages, that consistency saves you from maintaining a different provider per market. It shares the 9.4 on that strength."
+            },
+            {
+              "title": "Test on a phone speaker, not headphones",
+              "body": "Every one of these models sounds convincing through good headphones. Your audience will hear it through a phone speaker in a noisy room, where thin high frequencies and compressed dynamics expose differences that studio monitoring hides. Generate the same paragraph on all four and listen the way your listeners will."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ElevenLabs 跟 Inworld TTS-1.5 Max 並列 9.4，兩邊贏的理由不一樣，所以我讓它們平手。\n\nElevenLabs 的聲音庫最深、聲音複製流程最成熟，而且英文以外的語言口音品質是真的撐得住，要做在地化內容的人這點很關鍵。\n\nInworld 擬真度打平，延遲更低，而只要是對話類的應用，一個三百毫秒內就回話的聲音會讓人覺得它活著，音色再美但慢一秒的聲音永遠做不到這件事。做電話客服代理或互動角色的人，延遲本身就是產品。\n\nCartesia Sonic 3 9.0 分，效率派的選擇，接近旗艦的品質配上讓大量應用跑得動的每分鐘成本。\n\nHume AI Octave 2 8.9，技術上最有意思的一個，它是把情緒當成上下文去建模，不是當成濾鏡疊上去，長篇旁白唸起來，情緒會跟著句子的意思走。\n\n這週沒有變動。今天要選的話，我的測試方法很簡單，同一段文字四家都生一次，然後用手機喇叭聽，不要用耳機，因為你的觀眾就是用手機喇叭聽的。",
+          "highlights": [
+            {
+              "title": "對話型應用，延遲就是產品本身",
+              "body": "三百毫秒內回話的聲音會讓人覺得它活著，音色再漂亮但慢一秒就是不行。Inworld TTS-1.5 Max 能並列第一，是因為它擬真度追平領先者又贏在反應時間，做電話代理或互動角色的人，這一項就決定一切。"
+            },
+            {
+              "title": "ElevenLabs 贏在英文以外的語言",
+              "body": "聲音庫最深、複製流程最成熟，離開英文之後口音品質仍然穩得住，而大多數對手到這裡就明顯掉漆。內容要在地化到好幾個語言的人，這種一致性可以讓你不用每個市場養一家供應商。9.4 分就是靠這個。"
+            },
+            {
+              "title": "用手機喇叭測，不要用耳機",
+              "body": "這幾個模型戴好耳機聽都很有說服力。但你的觀眾是在吵雜環境用手機喇叭聽的，高頻變薄、動態被壓縮之後，錄音室監聽掩蓋掉的差異就全露出來了。同一段文字四家都生一次，用觀眾的方式聽。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

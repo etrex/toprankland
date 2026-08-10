@@ -12888,6 +12888,196 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-10",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.0,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Latest AI Developments: August 2026 Update",
+          "url": "https://local-ai-zone.github.io/blog/ai-updates-august-2026.html",
+          "source": "Local AI Zone"
+        },
+        {
+          "title": "LLM News Today (August 2026) – AI Model Releases",
+          "url": "https://llm-stats.com/ai-news",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Kling 3.0 holds first at 9.5 on the strength of physics. Watch a character pick up a cup in a Kling clip and the hand closes around it correctly, the weight shifts, and the liquid inside moves the way liquid moves. Rivals still produce shots where an object passes through a hand or a limb reverses joint direction mid motion, and those artifacts are what make generated video unusable for client work. Kling makes them rare enough that I can shoot for a specific action rather than generating twenty takes and hoping. Veo 3.1 at 9.4 has the best native audio in the category, generating dialogue, ambience and effects synchronised to the picture in one pass. For anyone producing social video on a deadline that single feature removes an entire post production stage. Seedance 2.0 ties at 9.4 and is the value leader by a wide margin, delivering output close to the top two at a fraction of the credit cost, which matters enormously when you iterate. Runway Gen-4.5 at 9.2 remains the editor's tool, with the most precise control over camera motion and the best integration into a real editing workflow. Nothing moved this week. My practical advice is unchanged: generate on Seedance while you iterate, then produce the final take on Kling.",
+          "highlights": [
+            {
+              "title": "Physics is the reason Kling leads",
+              "body": "Hands close around objects correctly, weight shifts, and liquids behave like liquids. The artifacts that make generated video unusable for client work, limbs passing through objects and joints reversing mid motion, are rare enough here that I can shoot for a specific action instead of generating twenty takes. That reliability is a 9.5."
+            },
+            {
+              "title": "Veo's native audio removes an entire production stage",
+              "body": "Generating dialogue, ambience and effects synchronised to the picture in a single pass means no separate sound design pass for social video on a deadline. For a small team that is the difference between publishing today and publishing tomorrow, and it is why Veo 3.1 sits at 9.4."
+            },
+            {
+              "title": "Iterate on Seedance, finish on Kling",
+              "body": "Seedance 2.0 delivers quality close to the leaders at a fraction of the credit cost, which matters when a single shot takes fifteen attempts to get right. Burn your cheap credits finding the shot, then spend the expensive ones producing the final take. That workflow has cut my per project cost substantially."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Kling 3.0 維持第一，9.5 分，贏在物理。\n\n看 Kling 生成的片段裡角色去拿一個杯子，手會正確地包住杯身，重心會轉移，杯裡的液體會照液體該有的方式晃。其他家還是會生出物體穿過手掌、或關節在動作中間反折的鏡頭，而這些破綻正是生成影片沒辦法交給客戶的原因。\n\nKling 把這類破綻壓到夠少，少到我可以針對一個特定動作去拍，不用生二十次再從裡面挑。\n\nVeo 3.1 拿 9.4，原生音訊是全品類最強的，對白、環境音、音效跟畫面同步一次生成。趕社群影片的人，這一個功能等於直接砍掉一整段後製流程。\n\nSeedance 2.0 同樣 9.4，是 CP 值的王者，畫質接近前兩名，點數成本卻低一大截，要反覆試的時候這件事影響非常大。\n\nRunway Gen-4.5 9.2 分，剪接師的工具，運鏡控制最精準，跟真實剪輯流程的整合也最好。\n\n這週排序不動。我的實用建議還是一樣，試鏡頭的階段用 Seedance 燒，定稿再拿 Kling 出。",
+          "highlights": [
+            {
+              "title": "Kling 領先的原因是物理",
+              "body": "手會正確包住物體，重心會轉移，液體會像液體。讓生成影片沒辦法交件的那些破綻，肢體穿模、關節中途反折，在這裡少到我可以針對特定動作去拍，不用生二十次再挑。這種穩定度就是 9.5 分。"
+            },
+            {
+              "title": "Veo 的原生音訊，直接砍掉一整段後製",
+              "body": "對白、環境音、音效跟畫面同步一次生成，趕社群影片就不用再走一輪聲音設計。對小團隊來說，這是今天發跟明天發的差別，這也是 Veo 3.1 站在 9.4 的理由。"
+            },
+            {
+              "title": "試鏡頭用 Seedance，收尾用 Kling",
+              "body": "Seedance 2.0 的畫質接近前段班，點數成本卻低很多，一個鏡頭要試十五次才對的時候差很大。先用便宜的點數把鏡頭找出來，再用貴的點數產定稿。這個流程讓我每個案子的成本降了一大截。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

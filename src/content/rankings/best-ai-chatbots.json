@@ -12269,6 +12269,202 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-10",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.3,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.9,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.9,
+            "realtime": 9.4,
+            "value": 9.7,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "reasoning": 9.0,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        },
+        {
+          "title": "New AI Model Releases News | August 2026",
+          "url": "https://blog.mean.ceo/new-ai-model-releases-news-august-2026/",
+          "source": "Mean CEO"
+        },
+        {
+          "title": "What AI Model Should I Use? The 2026 Guide to ChatGPT, Claude, Gemini, and Grok",
+          "url": "https://bravenewcoin.com/insights/what-ai-model-should-i-use-the-2026-guide-to-chatgpt-claude-gemini-and-grok-2",
+          "source": "Brave New Coin"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The top two stay tied at 9.5 and I am comfortable saying that reflects reality rather than indecision. GPT-5.6 has been ChatGPT's default since it reached general availability on July 9, and the practical result is that the free tier is now genuinely capable rather than a demo. Claude sits alongside it with Opus 5 in the current lineup, and the free tier serving Sonnet 5 is the strongest no cost option I have used for writing and code. The reason I do not separate them is that the correct answer depends entirely on what you do all day. For long form writing, document analysis and code, Claude produces output I need to edit less. For image generation, voice mode, and anything that benefits from a huge ecosystem of connected apps, ChatGPT is ahead and it is not close. Gemini holds third at 9.3 and its case gets stronger every month for one reason: if your work already lives in Gmail, Docs and Drive, the integration removes friction that no amount of raw model quality compensates for. Grok stays at 8.8 with genuine strength on realtime information from its platform integration. One pricing note worth acting on: Anthropic's introductory rate on Sonnet 5 runs through August 31, so anyone building on the API should be modelling costs on the post-August price rather than today's.",
+          "highlights": [
+            {
+              "title": "The tie at the top is a real result, not a hedge",
+              "body": "Claude produces writing and code I edit less, and ChatGPT wins on image generation, voice and the breadth of connected apps. Those are different jobs. Anyone telling you one model is universally better is selling something, and the honest recommendation is to pick based on what you do most days."
+            },
+            {
+              "title": "The free tiers crossed a real threshold this summer",
+              "body": "GPT-5.6 as ChatGPT's default and Sonnet 5 on Claude's free tier mean the no cost options now handle work that required a subscription a year ago. If you are paying twenty dollars a month out of habit rather than for usage limits, this is the month to check whether you still need to."
+            },
+            {
+              "title": "Gemini wins on where your files already live",
+              "body": "Raw benchmark scores matter less than whether the assistant can see your documents without you uploading them. If your work is in Gmail, Docs and Drive, Gemini removes a step from every single task, and that compounds far faster than a small quality gap. It holds 9.3 on that integration alone."
+            },
+            {
+              "title": "API pricing changes after August 31",
+              "body": "Anthropic's introductory rate on Sonnet 5 runs through the end of this month. Anyone budgeting a product on current token costs should be modelling the post-August number now rather than discovering it in September. That is the kind of detail that decides whether a margin works."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "前兩名都是 9.5 並列，我要說這是真實的結果，不是我不敢下判斷。\n\nGPT-5.6 從七月九號正式上線之後就是 ChatGPT 的預設模型，實際效果是免費版終於變成真的能做事，不再只是試用版。Claude 這邊陣容裡有 Opus 5，免費版給的是 Sonnet 5，坦白講那是我用過寫作跟寫程式最強的免費選項。\n\n我不把它們分開的理由是，正確答案完全取決於你每天在做什麼。長文寫作、文件分析、程式碼，Claude 給我的東西要改的地方比較少。生圖、語音模式、還有各種串接應用的生態系，ChatGPT 領先而且差距不小。\n\nGemini 第三，9.3 分，它的說服力每個月都在變強，原因只有一個，如果你的工作本來就活在 Gmail、Docs、Drive 裡，那個整合省掉的摩擦，是模型分數再高也補不回來的。\n\nGrok 8.8，即時資訊這塊靠平台整合是真的有料。\n\n最後一個可以立刻行動的資訊，Anthropic 對 Sonnet 5 的優惠價只到八月三十一號，要拿 API 做產品的人，成本試算現在就該用九月的價格算。",
+          "highlights": [
+            {
+              "title": "並列第一是真的結論，不是打太極",
+              "body": "Claude 產出的文字跟程式碼我要改的比較少，ChatGPT 在生圖、語音、串接應用的廣度上贏。這是兩種不同的工作。有人跟你說某一個模型全面比較強，那多半是在賣東西，誠實的建議是照你每天做的事情選。"
+            },
+            {
+              "title": "免費版今年夏天真的跨過一條線了",
+              "body": "ChatGPT 預設給 GPT-5.6，Claude 免費版給 Sonnet 5，一年前要付費才做得到的事情，現在免費就能做。如果你付那筆月費只是因為習慣、而不是因為用量會撞到上限，這個月正好可以檢查一下還需不需要。"
+            },
+            {
+              "title": "Gemini 贏在你的檔案本來就放在那裡",
+              "body": "跑分高低的重要性，比不上助理能不能直接看到你的文件而不用你上傳一次。工作在 Gmail、Docs、Drive 裡的人，Gemini 每一件事都少一個步驟，累積速度遠比一點點品質差距快。9.3 分，就靠這個整合站住。"
+            },
+            {
+              "title": "八月三十一號之後 API 價格會變",
+              "body": "Anthropic 給 Sonnet 5 的優惠價只到這個月底。拿現在的 token 成本在算產品毛利的人，現在就該換成九月的數字重算一次，不要等九月才發現。這種細節會直接決定一個商業模式跑不跑得動。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
