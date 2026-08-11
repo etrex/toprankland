@@ -178,6 +178,38 @@
           "priceRange": "NT$1,995"
         }
       }
+    },
+    {
+      "id": "dyson-find-follow-purifier-cool",
+      "name": "Dyson Find+Follow Purifier Cool PC3",
+      "brand": "Dyson",
+      "url": "https://www.dyson.com/air-treatment/air-purifiers/find-follow-purifier-cool",
+      "i18n": {
+        "en": {
+          "description": "17-point AI presence detection steers purified air at whoever is in the room, widening oscillation to 350° once a second person walks in.",
+          "priceRange": "$849"
+        },
+        "zh-tw": {
+          "description": "17 點 AI 人體偵測會追著你送風，房間裡多一個人時擺頭角度自動開到 350 度，影像在機器內處理完就刪掉不外傳。",
+          "priceRange": "約 NT$27,500"
+        }
+      }
+    },
+    {
+      "id": "dreo-mc710s",
+      "name": "Dreo Air Purifier Tower Fan MC710S",
+      "brand": "Dreo",
+      "url": "https://www.dreo.com/products/purifier-tower-fan-mc710s",
+      "i18n": {
+        "en": {
+          "description": "A 45-inch twin-motor tower that pairs 27 ft/s airflow with dual H13 True HEPA filters, covering cooling and filtration in one footprint.",
+          "priceRange": "$250"
+        },
+        "zh-tw": {
+          "description": "45 吋高的雙馬達塔扇，27 ft/s 風速配上雙層 H13 True HEPA 濾網，一台就把送風跟濾塵一起包辦。",
+          "priceRange": "約 NT$8,000"
+        }
+      }
     }
   ],
   "history": [
@@ -4656,8 +4688,20 @@
           }
         },
         {
-          "id": "levoit-classic-42-smart",
+          "id": "dyson-find-follow-purifier-cool",
           "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "airflow": 9.0,
+            "noise": 9.2,
+            "smart": 9.9,
+            "build": 9.6,
+            "value": 6.9
+          }
+        },
+        {
+          "id": "levoit-classic-42-smart",
+          "rank": 6,
           "score": 8.5,
           "scores": {
             "airflow": 8.5,
@@ -4668,8 +4712,20 @@
           }
         },
         {
+          "id": "dreo-mc710s",
+          "rank": 7,
+          "score": 8.4,
+          "scores": {
+            "airflow": 9.0,
+            "noise": 8.8,
+            "smart": 8.5,
+            "build": 8.2,
+            "value": 7.5
+          }
+        },
+        {
           "id": "vornado-oscr37",
-          "rank": 6,
+          "rank": 8,
           "score": 8.3,
           "scores": {
             "airflow": 9.2,
@@ -4689,11 +4745,11 @@
             "build": 7.8,
             "value": 9.6
           },
-          "rank": 7
+          "rank": 9
         },
         {
           "id": "lasko-summit-pinnacle-dst100",
-          "rank": 8,
+          "rank": 10,
           "score": 8.1,
           "scores": {
             "airflow": 8.4,
@@ -4705,7 +4761,7 @@
         },
         {
           "id": "honeywell-quietset-hyf290",
-          "rank": 9,
+          "rank": 11,
           "score": 7.9,
           "scores": {
             "airflow": 8.0,
@@ -4717,7 +4773,7 @@
         },
         {
           "id": "govee-smart-tower-fan",
-          "rank": 10,
+          "rank": 12,
           "score": 7.6,
           "scores": {
             "airflow": 7.6,
