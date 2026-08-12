@@ -13078,6 +13078,397 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-11",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.0,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Latest AI Model Releases — August 2026",
+          "url": "https://aireleasetracker.com/latest",
+          "source": "AI Release Tracker"
+        },
+        {
+          "title": "New AI Model Releases — August 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Kling 3.0 holds first, and this is the fastest moving category on the site right now. ByteDance shipped Seedance 2.5 on August 8 and Meta released Muse Glimmer on August 10, which means two of the five models in this top group have been superseded or challenged within a single week. I am keeping the order stable today because a release is not a result, and I want a week of real generations before moving anyone. What Kling still wins on is motion realism across shot lengths beyond five seconds, which is where most models fall apart as physics drift accumulates. Veo 3.1 sits second on audio and video synchronization, and Google's native audio generation remains the strongest reason to choose it for anything with dialogue. Seedance 2.0 holds third and its successor arriving this month suggests that position will be revisited shortly. Runway Gen-4.5 keeps fourth on editing control, which professionals value more than raw generation quality because it makes iteration possible. My practical advice for August is to budget generations rather than time. Every model here charges per second of output, and the working pattern that produces usable results is many short tests followed by one long final render. Plan for a ten to one ratio of discarded to kept footage, and choose the platform whose pricing survives that reality.",
+          "highlights": [
+            {
+              "title": "Motion realism past five seconds is the real test",
+              "body": "Most models hold together for a short clip and drift as physics errors accumulate. Kling 3.0 sustains coherent motion across longer shots, which is the axis that decides whether output is usable in an edit rather than as a demo."
+            },
+            {
+              "title": "Two challengers landed in one week",
+              "body": "Seedance 2.5 shipped August 8 and Muse Glimmer arrived August 10. I am holding the order today because a release announcement is not a verified result. Expect this ranking to move once there is a week of real generation data behind those launches."
+            },
+            {
+              "title": "Veo 3.1 is the dialogue choice",
+              "body": "Native audio generation and tight synchronization make it the correct pick for anything where characters speak. That capability is specific enough that it should override the ranking order whenever your project involves spoken lines."
+            },
+            {
+              "title": "Budget generations, not hours",
+              "body": "These platforms bill per second of output, and the workflow that produces usable footage is many short tests then one long render. Plan for roughly ten discarded clips per keeper and pick the pricing model that survives that ratio."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Kling 3.0 守住第一，而這是站上目前變動最快的一個品類。ByteDance 在 8 月 8 日推了 Seedance 2.5，Meta 在 8 月 10 日推了 Muse Glimmer，等於前五名裡有兩個位置在一週之內被挑戰或被自家新版取代。\n\n今天我先不動排序，因為發表不等於結果，我想累積一週的實際生成再決定要不要調整。Kling 現在贏在超過五秒之後的動態真實度，多數模型撐得住短片段，一旦物理誤差累積就開始走鐘，這一段它最穩。\n\nVeo 3.1 第二名靠的是影音同步，Google 的原生音訊生成到現在還是所有需要對白的專案最強的理由。Seedance 2.0 第三，它的後繼版本這個月剛出，這個名次應該很快就會重新檢視。Runway Gen-4.5 第四，強項是編輯控制力，專業使用者反而比生成品質更在意這個，因為它決定你能不能反覆修。\n\n八月給大家的實際建議是，預算要用生成次數去抓，不要用時間去抓。在場每一個平台都是按輸出秒數計費，而真正能生出堪用素材的工作模式是先跑很多次短測試，最後再算一次長的。抓十比一的丟棄率去規劃，然後挑一個在這個比例下還付得起的平台。",
+          "highlights": [
+            {
+              "title": "五秒之後的動態真實度才是真正的考題",
+              "body": "多數模型短片段都撐得住，時間一拉長物理誤差累積就崩。Kling 3.0 在長鏡頭維持得住連貫動態，這條軸線決定成品能不能真的剪進片子，而不是只能當展示。"
+            },
+            {
+              "title": "一週內兩個挑戰者落地",
+              "body": "Seedance 2.5 在 8 月 8 日、Muse Glimmer 在 8 月 10 日推出。今天先不動排序，因為發表公告不等於驗證過的結果。等這兩個累積一週實際生成數據，這份排名就會有變動。"
+            },
+            {
+              "title": "有對白就選 Veo 3.1",
+              "body": "原生音訊生成加上緊密的影音同步，讓它成為所有角色會講話的專案的正確選擇。這個能力夠specific，只要你的案子有台詞，就該蓋過排名順序直接選它。"
+            },
+            {
+              "title": "抓生成次數，不要抓工時",
+              "body": "這些平台按輸出秒數計費，而真正生得出堪用素材的流程是先跑很多短測試再算一次長的。用大約十比一的丟棄率去規劃，然後挑一個在這個比例下還撐得住的計價方案。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-08-12",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.0,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Video Generation News: 2026 Latest Models & Updates",
+          "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
+          "source": "WaveSpeed"
+        },
+        {
+          "title": "10 Best AI Video Generators (August 2026)",
+          "url": "https://www.unite.ai/best-ai-video-generators/",
+          "source": "Unite.AI"
+        },
+        {
+          "title": "AI video generation trends in 2026: what's actually changing",
+          "url": "https://www.renderforest.com/blog/ai-video-generation-trends",
+          "source": "Renderforest"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "This is the first ranking change I have made in this category for weeks, and it comes from a business event rather than a quality one. ByteDance suspended the global launch of Seedance 2.0 following copyright disputes, including allegations that copyrighted characters and identifiable celebrities were appearing in generated output. A model you cannot reliably access in your market is a model I cannot rank third, so Seedance drops to fourth and gives up two tenths.\n\nThe quality was never the issue. Seedance 2.0 accepts text, image, audio and video inputs with reference support across multiple sources, and its motion coherence is genuinely near the top. Availability is a legitimate ranking criterion, and right now Runway Gen-4.5 is the safer recommendation for anyone with a deadline.\n\nThe bigger story is regulatory. EU AI Act Article 50 enforcement began on August 2, requiring machine-readable marking on AI-generated video distributed to EU audiences. Seedance ships C2PA watermarking natively, and every serious model in this category is racing to match that. For any studio or agency delivering to European clients, provenance metadata just moved from a nice-to-have to a compliance requirement, and I now weigh it in these scores.\n\nKling 3.0 stays first on motion coherence across long shots, which is still the hardest thing to get right. Veo 3.1 sits a tenth behind and takes the crown for talking-head work, where its lip sync holds across multiple languages in a way nothing else matches. If your output is instructional or presenter-led video, choose Veo and stop comparing.",
+          "highlights": [
+            {
+              "title": "Seedance drops to fourth because you cannot ship what you cannot access",
+              "body": "ByteDance suspended the global launch of Seedance 2.0 after copyright disputes, including allegations that copyrighted characters and identifiable celebrities appeared in generated output. The model's quality was never the problem, and its motion coherence remains near the top of the category. Availability in your market is a legitimate criterion for a buying recommendation, so it moves to fourth and gives up two tenths until access stabilises."
+            },
+            {
+              "title": "EU AI Act Article 50 made provenance metadata a compliance requirement",
+              "body": "Enforcement began August 2, requiring machine-readable marking on AI-generated video distributed to EU audiences. Any studio or agency delivering to European clients now needs models that embed C2PA or equivalent provenance data natively. Seedance ships this already and the rest of the category is moving fast to match. I now weight native provenance support in these scores, because for commercial users it has become a gating factor."
+            },
+            {
+              "title": "Kling 3.0 holds first on the hardest problem in the category",
+              "body": "Motion coherence across a long shot is where generated video still falls apart most visibly, with limbs that drift, objects that change shape, and backgrounds that reorganise themselves mid-pan. Kling 3.0 maintains physical consistency further into a clip than anything else I have tested, and that single capability determines whether output is usable in a real edit or only as a three second social clip."
+            },
+            {
+              "title": "Choose Veo 3.1 for anything with a presenter in frame",
+              "body": "Veo 3.1 generates talking-head instructors with lip sync that holds accurately across multiple languages, which is a specific and genuinely difficult capability. For instructional content, course material, corporate explainers and anything where a person speaks to camera, this is the model to use and the comparison ends there. It sits a tenth behind Kling overall because broad cinematic motion is Kling's strength."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這是我這幾週在這個類別做的第一次排名變動，而且原因來自商業事件，跟品質無關。ByteDance 因為版權爭議暫停了 Seedance 2.0 的全球上線，爭議內容包括生成結果裡出現有版權的角色和可辨識的名人。一個你在自己市場上沒辦法穩定用到的模型，我沒辦法把它放第三名，所以 Seedance 掉到第四，扣零點二分。\n\n品質從來就不是問題。Seedance 2.0 支援文字、圖片、音訊、影片輸入，還能同時參考多個來源，動態連貫性確實接近頂標。但「拿不拿得到」本來就是排名該考慮的事，就現在來說，趕死線的人選 Runway Gen-4.5 比較安全。\n\n更大的事情在法規面。歐盟 AI 法案第 50 條的執法從 8 月 2 日開始，要求所有發布給歐盟受眾的 AI 生成影片必須帶有機器可讀的標記。Seedance 原生就內建 C2PA 浮水印，這個類別裡所有認真的模型現在都在趕著跟上。對於要交件給歐洲客戶的工作室和代理商，來源標記已經從加分項變成合規門檻，我現在會把這件事計入評分。\n\nKling 3.0 守住第一，靠的是長鏡頭的動態連貫性，這到現在還是最難的一關。Veo 3.1 差一個身位，但在講者出鏡的題材上它是王者，多語言唇形同步的準確度沒有對手。做教學或簡報型影片，直接選 Veo，不用再比了。",
+          "highlights": [
+            {
+              "title": "Seedance 掉到第四，因為拿不到的東西沒辦法交件",
+              "body": "ByteDance 因版權爭議暫停 Seedance 2.0 全球上線，爭議包含生成內容裡出現有版權的角色和可辨識的名人。它的品質從來不是問題，動態連貫性到現在還是接近頂標。但在你的市場拿不拿得到，本來就是購買建議該考慮的條件，所以它掉到第四、扣零點二分，等取得管道穩定再說。"
+            },
+            {
+              "title": "歐盟 AI 法案第 50 條，把來源標記變成合規門檻",
+              "body": "執法從 8 月 2 日開始，要求發布給歐盟受眾的 AI 生成影片必須帶機器可讀標記。任何要交件給歐洲客戶的工作室和代理商，現在都需要原生嵌入 C2PA 或同等來源資料的模型。Seedance 已經做到，其他家正在急起直追。我現在會把原生來源標記納入評分，因為對商用使用者來說，這已經是能不能過關的問題。"
+            },
+            {
+              "title": "Kling 3.0 守住第一，靠的是這個類別最難的那一關",
+              "body": "長鏡頭的動態連貫性，是生成影片目前最容易露餡的地方，四肢會飄、物件會變形、背景在鏡頭橫搖到一半自己重組。Kling 3.0 能把物理一致性維持到片段的更後面，這一個能力就決定了輸出是能進真正的剪輯時間軸，還是只能當三秒的社群短片。"
+            },
+            {
+              "title": "畫面裡有人在講話，就選 Veo 3.1",
+              "body": "Veo 3.1 生成講者出鏡的教學影片，唇形同步在多語言下都對得準，這是一個很具體而且真的很難的能力。教學內容、線上課程、企業說明影片，任何有人對著鏡頭講話的題材，用它就對了，比較到這裡結束。它整體差 Kling 一個身位，是因為大場面的電影感運鏡是 Kling 的強項。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

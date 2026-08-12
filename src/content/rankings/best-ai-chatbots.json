@@ -12465,6 +12465,393 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-11",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.3,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.9,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.9,
+            "realtime": 9.4,
+            "value": 9.7,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "reasoning": 9.0,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        },
+        {
+          "title": "Latest AI Model Releases — August 2026",
+          "url": "https://aireleasetracker.com/latest",
+          "source": "AI Release Tracker"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ChatGPT and Claude remain tied at the top, and I am comfortable leaving them level because they win on different axes that matter to different people. The current shortlist that serious users converge on is GPT-5.6, Claude Opus 5, Gemini 3.6 Flash, Grok 4.5 and Kimi K3, and the honest read is that the frontier has become a set of specialists rather than a single leader. Claude holds its position on long form reasoning and agentic work, where it sustains a task across many steps without losing the thread. ChatGPT holds its position on breadth, since the ecosystem around it now covers voice, images, data analysis and a genuinely useful memory layer, and for most people breadth is what daily usefulness means. Gemini stays third on the strength of its context window and native multimodal handling, which is decisive if you regularly feed it entire documents or video. Grok sits fourth on real time information, and Perplexity fifth for research work where citation quality is the product. My advice for August is to stop chasing benchmark deltas. The release cadence right now is fast enough that any leaderboard position is a few weeks from being stale, and the practical difference between the top three for everyday work is smaller than the difference made by learning to prompt one of them well. Pick the one whose interface you will open without thinking, and go deep on it.",
+          "highlights": [
+            {
+              "title": "The frontier is now specialists, not a single leader",
+              "body": "GPT-5.6, Claude Opus 5, Gemini 3.6 Flash, Grok 4.5 and Kimi K3 each own a different strength. Ranking them into one list is useful for orientation, and the honest guidance is to match the model to the job rather than to search for one universal winner."
+            },
+            {
+              "title": "Claude holds the top on sustained multi step work",
+              "body": "Where a task runs across many steps and requires holding context and intent throughout, Claude finishes more of them cleanly. That is why it stays level with ChatGPT rather than below it, and it is the axis that matters most for real work rather than demo prompts."
+            },
+            {
+              "title": "ChatGPT's breadth is the daily driver argument",
+              "body": "Voice, image handling, data analysis and a memory layer that actually improves repeat sessions add up to an assistant most people reach for by reflex. For anyone who wants one tool rather than five, that ecosystem depth is the strongest case here."
+            },
+            {
+              "title": "Stop chasing benchmark deltas this month",
+              "body": "Releases are landing weekly, so any leaderboard position ages within a few weeks. The gap between the top three for everyday tasks is smaller than the gap between a casual prompt and a well constructed one. Depth with one model beats switching between three."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ChatGPT 跟 Claude 今天還是並列第一，我讓它們平手是因為兩邊贏的軸線不同，而不同的人在意的軸線也不一樣。現在重度使用者會收斂到的名單是 GPT-5.6、Claude Opus 5、Gemini 3.6 Flash、Grok 4.5 跟 Kimi K3，說實話，前緣已經變成一群各有專長的選手，不再有單一王者。\n\nClaude 守住位置靠的是長篇推理跟代理式工作，一個任務跑很多步驟它還接得住，不會中途走鐘。ChatGPT 守住位置靠的是廣度，語音、圖片、資料分析加上真的有用的記憶功能，對多數人來說，廣度就等於日常實用性。\n\nGemini 第三，強項是脈絡長度跟原生多模態，你如果常常整份文件或整支影片丟進去，這一點就是決定性的。Grok 第四吃即時資訊，Perplexity 第五做研究，它的產品本體就是引用品質。\n\n八月給大家的建議是，別再追榜單上那幾分的差距了。現在改版速度快到任何排名幾週內就過期，而前三名在日常工作上的實際差異，比你把提示詞寫好所帶來的差異還小。挑一個你會不假思索就打開的介面，然後把它用深。",
+          "highlights": [
+            {
+              "title": "前緣是一群專家，不是一個王者",
+              "body": "GPT-5.6、Claude Opus 5、Gemini 3.6 Flash、Grok 4.5 跟 Kimi K3 各有各的強項。排成一份榜單是給你方向感用的，真正的建議是照任務去配模型，不要找什麼萬用冠軍。"
+            },
+            {
+              "title": "Claude 守住第一靠的是長流程任務",
+              "body": "一個任務要跑很多步驟、全程要記得脈絡跟目標的時候，Claude 完成得比較乾淨。這就是它跟 ChatGPT 平手而不是被壓下去的原因，也是實際工作最看重的軸線，不是展示用的一次性問答。"
+            },
+            {
+              "title": "ChatGPT 的廣度就是日常主力的理由",
+              "body": "語音、圖片、資料分析加上會讓重複使用越用越順的記憶層，加起來就是一個你反射性會打開的助理。只想用一個工具而不是五個的人，這個生態深度就是最強的理由。"
+            },
+            {
+              "title": "這個月別再追榜單分數",
+              "body": "新版本每週都在掉，任何排名幾週就過期。前三名在日常任務上的差距，比隨手打一句跟認真寫一段提示詞的差距還小。把一個模型用深，勝過在三個之間跳來跳去。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-08-12",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.3,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.9,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.3,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.0,
+            "writing": 8.9,
+            "realtime": 9.4,
+            "value": 9.7,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "reasoning": 9.0,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        },
+        {
+          "title": "New AI Model Releases — August 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        },
+        {
+          "title": "Claude (language model)",
+          "url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
+          "source": "Wikipedia"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Two events from the past fortnight shape this board. Anthropic shipped Claude Opus 5 on July 24, its fourth model release in under two months. OpenAI cut API pricing on the two cheaper GPT-5.6 tiers on July 30, dropping Luna eighty percent to $0.20 and $1.20 per million tokens. Those moves point in the same direction: frontier capability is arriving faster than most teams can evaluate it, and the price floor keeps falling.\n\nI hold ChatGPT and Claude tied at the top because they win different arguments and I refuse to fudge that into a false ordering. ChatGPT has the broader product surface. Voice mode, image generation, data analysis and the largest third-party integration ecosystem all live in one subscription, and for a general user that breadth is the deciding factor.\n\nClaude wins on sustained reasoning over long documents and on code. When I hand both a forty-page technical specification and ask for contradictions, Claude finds more of them and hallucinates fewer. For anyone whose work is writing, analysis or engineering, that reliability compounds daily.\n\nGemini at third has the strongest position nobody talks about enough: it is already inside Workspace, which means the adoption cost for a company on Google Docs and Gmail is close to zero. Capability alone does not decide enterprise outcomes. Distribution does.\n\nThe price cuts matter for everyone below the top three. When frontier-adjacent quality costs twenty cents per million tokens, the value calculation for the mid-tier assistants changes fundamentally, and I expect that to reshape ranks four through ten before the year is out.",
+          "highlights": [
+            {
+              "title": "ChatGPT and Claude are genuinely tied and I will not fake a winner",
+              "body": "These two models win different arguments. ChatGPT offers the broader product surface with voice, image generation, data analysis and the largest integration ecosystem under one subscription. Claude holds a measurable edge on sustained reasoning across long documents and on code generation quality. Forcing a single ordering would tell you less than the honest answer, which is that your choice depends entirely on whether you want breadth or depth."
+            },
+            {
+              "title": "The OpenAI price cut reshapes everything below third place",
+              "body": "On July 30 OpenAI dropped the GPT-5.6 Luna tier eighty percent to $0.20 and $1.20 per million tokens, with Terra falling twenty percent. When capability close to the frontier costs that little, the entire value proposition of the mid-tier assistants comes under pressure. I expect ranks four through ten on this board to look materially different by year end, and the pressure comes from pricing rather than from any new model."
+            },
+            {
+              "title": "Gemini's real advantage is distribution inside Workspace",
+              "body": "Gemini sits third on raw capability, and its strongest asset is being already present in Google Docs, Gmail and Drive for organisations that live there. The adoption cost for those teams is close to zero, with no new vendor, no new login and no procurement cycle. Enterprise outcomes get decided by distribution at least as often as by benchmark scores, and this is the clearest current example."
+            },
+            {
+              "title": "Release cadence has outrun evaluation capacity",
+              "body": "Anthropic shipped four models in under two months, closing with Claude Opus 5 on July 24. Most teams need longer than that just to run a proper evaluation suite against a new model and decide whether to migrate. My practical advice is to pick an assistant on the qualities that persist across versions, meaning reasoning reliability, ecosystem fit and price stability, and to stop chasing each week's leaderboard."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "過去兩週有兩件事決定了這張榜。Anthropic 在 7 月 24 日推出 Claude Opus 5，這是他們不到兩個月內的第四款模型。OpenAI 則在 7 月 30 日調降 GPT-5.6 兩個較便宜階層的 API 價格，Luna 直接砍八成，變成每百萬 token 進 0.2 美元、出 1.2 美元。這兩件事指向同一個方向：前沿能力推進的速度已經超過多數團隊能評估的速度，而價格地板還在往下掉。\n\n我讓 ChatGPT 和 Claude 並列第一，因為它們贏的是不同的論點，硬要排出高下反而是在騙人。ChatGPT 的產品面比較廣，語音模式、圖片生成、資料分析、最大的第三方整合生態，全部包在同一份訂閱裡，對一般使用者來說這個廣度就是決勝點。\n\nClaude 贏在長文件的持續推理和寫程式。我把同一份四十頁的技術規格丟給兩邊，要它們找出前後矛盾，Claude 找到的比較多，幻覺也比較少。工作內容是寫作、分析或工程的人，這個可靠度每天都在複利。\n\n第三名的 Gemini 有一個大家討論不夠多的優勢：它已經長在 Workspace 裡面。對一間本來就在用 Google 文件和 Gmail 的公司來說，導入成本幾乎是零。企業採用這件事，能力從來不是唯一的決定因素，通路才是。\n\n降價對前三名以下的所有人都是大事。當接近前沿的品質只要兩毛美金，中段班助理的性價比算式會整個重寫。",
+          "highlights": [
+            {
+              "title": "ChatGPT 和 Claude 就是平手，我不會硬排一個贏家",
+              "body": "這兩個模型贏的是不同的論點。ChatGPT 產品面更廣，語音、圖片生成、資料分析、最大的整合生態，一份訂閱全包。Claude 在長文件的持續推理和程式碼品質上有量得出來的優勢。硬排出單一順序，給你的資訊反而更少；誠實的答案是，選哪個完全看你要的是廣度還是深度。"
+            },
+            {
+              "title": "OpenAI 這波降價會重寫第三名以下的排序",
+              "body": "7 月 30 日 OpenAI 把 GPT-5.6 的 Luna 階層砍了八成，變成每百萬 token 進 0.2 美元、出 1.2 美元，Terra 也降了兩成。當接近前沿的能力便宜到這種程度，中段班助理的整個價值主張都會被擠壓。我預期年底之前，這張榜第四到第十名會長得很不一樣，而壓力來源是定價，跟有沒有出新模型無關。"
+            },
+            {
+              "title": "Gemini 真正的武器是 Workspace 這條通路",
+              "body": "Gemini 純論能力排第三，它最強的資產是已經內建在 Google 文件、Gmail 和雲端硬碟裡。對本來就住在這套工具裡的團隊來說，導入成本接近零，不用談新廠商、不用開新帳號、不用跑採購流程。企業最後用了什麼，通路的影響力至少不輸跑分，這是目前最清楚的例子。"
+            },
+            {
+              "title": "發布速度已經超過評估能力",
+              "body": "Anthropic 不到兩個月出了四款模型，7 月 24 日以 Claude Opus 5 收尾。多數團隊光是把評估流程跑完、決定要不要遷移，需要的時間都比這個久。我的務實建議是，挑助理要看那些跨版本都還成立的特質，也就是推理可靠度、跟你現有工具的契合度、還有價格穩定性，別再追每週的排行榜了。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

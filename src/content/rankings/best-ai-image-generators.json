@@ -11479,6 +11479,421 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-11",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 9.0,
+            "artisticQuality": 8.3,
+            "textRendering": 9.6,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.1,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "nano-banana-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 11,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Latest AI Model Releases — August 2026",
+          "url": "https://aireleasetracker.com/latest",
+          "source": "AI Release Tracker"
+        },
+        {
+          "title": "New AI Model Releases — August 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "GPT Image 2 keeps the top spot on the strength of prompt adherence and editing, where the current arena numbers put ChatGPT Images at roughly 1385 Elo for generation and 1463 for editing. Editing is the score that deserves more attention than it gets. Most real image work is iterative, and a model that can change one element while holding everything else stable saves more time than one that produces a slightly prettier first result. Midjourney V8.1 holds second because it still produces the most aesthetically resolved output when you want a finished look rather than a controlled one, and for illustration and mood work that is exactly the right trade. Nano Banana Pro and Flux 2 Pro sit level at third, with Flux earning its position on local deployment and licensing clarity, which matters for commercial work. Seedream 4.5 rounds out the top five and represents how quickly the open weight side is closing. Qwen Image 3.0 Pro landed this month and is worth testing if you are running your own infrastructure. My advice for August is to evaluate on your own reference prompts rather than gallery images. Every model here looks excellent in curated showcases, and the difference that matters is how each one handles the specific thing you need repeatedly, whether that is text rendering, hands, product accuracy or consistent characters across a set.",
+          "highlights": [
+            {
+              "title": "Editing score deserves more weight than generation score",
+              "body": "Real image work is iterative. ChatGPT Images sits around 1463 Elo on editing against 1385 on generation, and the ability to change one element while holding the rest stable saves more working time than a marginally prettier first output ever will."
+            },
+            {
+              "title": "Midjourney wins when you want finished, not controlled",
+              "body": "V8.1 still produces the most aesthetically resolved images in the group. For illustration, mood boards and editorial work where the look is the deliverable, that trade is correct, and it is why it holds second over models with better prompt precision."
+            },
+            {
+              "title": "Flux 2 Pro earns its rank on licensing and local deployment",
+              "body": "Commercial projects need clarity about rights and often need to run on infrastructure you control. Flux delivers both, which is why it sits level with Nano Banana Pro despite the arena scores, and why agencies keep choosing it."
+            },
+            {
+              "title": "Test on your own repeated prompts, not gallery images",
+              "body": "Every model here looks superb in a curated showcase. What matters is how each handles the one thing you need constantly, whether that is legible text, accurate product shapes or the same character across twenty frames. Run that test before subscribing."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "GPT Image 2 守住第一，靠的是提示遵循度跟編輯能力，目前競技場數據把 ChatGPT Images 的生成放在大約 1385 Elo、編輯放在 1463。編輯這個分數其實被嚴重低估了。真實的圖像工作幾乎都是反覆修改，一個能只改某一個元素、其他全部維持不動的模型，省下的時間遠超過一個第一次就生得比較漂亮的模型。\n\nMidjourney V8.1 排第二，你想要的是完成度而不是可控性的時候，它的成品還是最有美感的一個，插畫跟情境視覺這種工作，這個取捨完全正確。Nano Banana Pro 跟 Flux 2 Pro 並列第三，Flux 的位置是靠本地部署跟授權條款清楚拿到的，接商案的人最在意這個。\n\nSeedream 4.5 收在第五，代表開放權重那一側追得有多快。這個月 Qwen Image 3.0 Pro 也上線了，你如果自己有機器，值得測一下。\n\n八月的建議是，用你自己的常用提示詞去測，不要看官方作品集。在場每一個模型在精選展示裡都美得不得了，真正有差的是它處理你每天都要用的那件事的能力，可能是中文文字排版、可能是手指、可能是產品外型準確度，也可能是同一個角色跨多張圖的一致性。",
+          "highlights": [
+            {
+              "title": "編輯分數該比生成分數更受重視",
+              "body": "真實的圖像工作是反覆修改。ChatGPT Images 編輯約 1463 Elo、生成約 1385，而只改一個元素、其餘維持不動的能力，省下的工時遠超過第一張圖漂亮一點點。"
+            },
+            {
+              "title": "要完成度就選 Midjourney，要可控就別選",
+              "body": "V8.1 的成品在這群裡美感完成度還是最高。插畫、情緒板、編輯視覺這類以視覺調性交件的工作，這個取捨是對的，也是它壓過提示精準度更好的模型守住第二的原因。"
+            },
+            {
+              "title": "Flux 2 Pro 的名次是授權跟本地部署換來的",
+              "body": "商案需要授權條款清楚，也常常需要跑在自己控制的機器上。Flux 兩件都給了，這就是它在競技場分數之外仍與 Nano Banana Pro 並列的原因，也是接案公司一直選它的理由。"
+            },
+            {
+              "title": "用你自己的常用提示詞測，不要看官方作品集",
+              "body": "在場每個模型在精選展示裡都很美。有差的是它處理你每天都在做的那件事，中文文字、產品外型準確度，或是同一個角色跨二十張圖的一致性。訂閱之前先跑這個測試。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-08-12",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 9.0,
+            "artisticQuality": 8.3,
+            "textRendering": 9.6,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.1,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "nano-banana-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 11,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Video Generation News: 2026 Latest Models & Updates",
+          "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
+          "source": "WaveSpeed"
+        },
+        {
+          "title": "New AI Model Releases — August 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        },
+        {
+          "title": "New AI Model Releases News | August, 2026",
+          "url": "https://blog.mean.ceo/new-ai-model-releases-news-august-2026/",
+          "source": "Mean CEO"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Qwen Image 3.0 Pro landed this month, which keeps the pressure on from the open-weight side, and the EU AI Act Article 50 enforcement that began on August 2 now applies to generated stills distributed to European audiences. Commercial users should treat provenance metadata as a requirement rather than a feature.\n\nGPT-Image-2 stays first for the reason it has held all year: prompt adherence. When I write a specific instruction involving three objects, a spatial relationship and legible text, it produces what I asked for more consistently than anything else. That reliability is what makes a tool usable in production, because the alternative is generating forty variations hoping one matches the brief.\n\nMidjourney v8 at second produces the most beautiful images in the category and I will happily defend that. Its aesthetic default is stronger than any competitor, which is exactly why it sits second rather than first. When you need a specific composition, Midjourney's opinion about beauty asserts itself. For art direction and mood work it is unmatched. For executing a client brief precisely, GPT-Image-2 gets there faster.\n\nNano Banana Pro and Flux 2 Pro sit tied at third and fourth, and Flux deserves particular mention for anyone who needs to run generation locally or inside their own infrastructure. Open weights mean full control over data handling, which for agencies working under client confidentiality agreements is often the deciding factor rather than raw output quality.\n\nText rendering is now solved across the top four. That was the category's defining weakness two years ago and it is worth noting how completely it disappeared.",
+          "highlights": [
+            {
+              "title": "GPT-Image-2 wins on prompt adherence, which is what production work needs",
+              "body": "Write a prompt specifying three objects, a spatial relationship between them and a line of legible text, and GPT-Image-2 delivers what you asked for more consistently than anything else in the category. That reliability is the difference between generating two images and generating forty while hoping one matches the brief. For anyone producing work against a specification rather than exploring, this is the tool that respects your time."
+            },
+            {
+              "title": "Midjourney makes the most beautiful images, and that is why it is second",
+              "body": "Midjourney v8's aesthetic default is stronger than any competitor, producing images with a sense of light, composition and mood that the others reach for and miss. That same strong opinion asserts itself when you need a precise composition, which is exactly the trade-off. For art direction, mood boards and concept exploration it is the best tool available. For executing a client brief to specification, GPT-Image-2 arrives faster."
+            },
+            {
+              "title": "Flux 2 Pro's open weights are the deciding factor for confidential work",
+              "body": "Agencies operating under client confidentiality agreements often cannot send briefs and reference material to a third-party API at all. Flux 2 Pro's open weights mean generation runs inside your own infrastructure with complete control over where data goes. For those buyers the question of whether it produces marginally better images than a hosted competitor is secondary, because it is the only option that clears the legal requirement."
+            },
+            {
+              "title": "Text rendering went from the category's defining flaw to solved",
+              "body": "Two years ago every generated image with words in it produced garbled pseudo-letters, and it was the single most reliable way to identify AI output. All four models at the top of this board now render legible, correctly spelled text in specified fonts and positions. The speed of that resolution is worth noting, because it changed what these tools can be used for, opening up posters, packaging mockups and social graphics."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Qwen Image 3.0 Pro 這個月上線，開源權重那一側的壓力持續在，而 8 月 2 日開始執法的歐盟 AI 法案第 50 條，現在也適用於發布給歐洲受眾的生成靜態圖。商用使用者請直接把來源標記當成必要條件，不是加分項。\n\nGPT-Image-2 守住第一，理由跟它整年守住的理由一樣：指令服從度。當我寫一段包含三個物件、一組空間關係、還要有可讀文字的具體指令，它產出我要的東西的一致性比誰都高。這個可靠度就是一個工具能不能拿來上工的關鍵，不然你的替代方案就是生四十張，祈禱有一張符合需求。\n\n第二名的 Midjourney v8 產出的圖是這個類別裡最漂亮的，這點我很願意辯護。它的美學預設比任何對手都強，而這剛好就是它排第二不是第一的原因。當你需要一個很具體的指定構圖，Midjourney 對「什麼是美」的意見會自己冒出來。做美術指導和情緒板它無人能敵，但要精準執行客戶需求，GPT-Image-2 比較快到。\n\n第三第四名的 Nano Banana Pro 和 Flux 2 Pro 分數咬得很緊，Flux 特別值得提，如果你需要在自己的機器或內部基礎設施上跑生成的話。開源權重代表你對資料流向有完全的控制權，對於簽了保密協議的代理商來說，這往往比輸出品質更能決定選擇。\n\n文字渲染在前四名已經是解決狀態了。兩年前這還是這個類別最明顯的罩門，消失得這麼徹底值得記一筆。",
+          "highlights": [
+            {
+              "title": "GPT-Image-2 贏在指令服從度，這正是接案工作要的",
+              "body": "寫一段指定三個物件、彼此空間關係、還要有一行可讀文字的提示詞，GPT-Image-2 產出你要的東西的一致性比這個類別的任何對手都高。這個可靠度就是「生兩張」跟「生四十張祈禱有一張過」的差別。如果你是照著需求規格產出，而不是在探索靈感，這個工具最尊重你的時間。"
+            },
+            {
+              "title": "Midjourney 圖最漂亮，而這正是它排第二的原因",
+              "body": "Midjourney v8 的美學預設比任何對手都強，光線、構圖、氛圍的處理是其他家想追但追不太到的。同樣這個很強的意見，在你需要精準構圖時就會自己跑出來，這就是取捨所在。做美術指導、情緒板、概念探索，它是最好的工具；要照客戶需求精準執行，GPT-Image-2 比較快到終點。"
+            },
+            {
+              "title": "接保密案子的人，Flux 2 Pro 的開源權重就是決定因素",
+              "body": "簽了保密協議的代理商，很多時候根本不能把需求文件和參考素材送到第三方 API。Flux 2 Pro 的開源權重代表生成完全跑在你自己的基礎設施上，資料流向你完全掌握。對這類買家來說，它的圖有沒有比雲端對手好一點點是次要問題，因為它是唯一過得了法務那關的選項。"
+            },
+            {
+              "title": "文字渲染從最大罩門變成已解決",
+              "body": "兩年前只要生成的圖裡有字，出來就是一堆扭曲的偽字母，這也是辨識 AI 圖最可靠的方法。現在這張榜前四名都能在指定的字體和位置渲染出可讀、拼字正確的文字。這件事解決的速度值得記一筆，因為它直接改變了這些工具能做什麼，海報、包裝打樣、社群圖卡都開了。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -14131,6 +14131,168 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-12",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Top 100 Tech Trends in August 2026",
+          "url": "https://www.trendhunter.com/amp/slideshow/august-2026-tech",
+          "source": "Trend Hunter"
+        },
+        {
+          "title": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grok",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        },
+        {
+          "title": "New AI Model Releases — August 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Mullvad stays first and I will keep defending the position on one principle: it is the only major provider whose business model does not require knowing who you are. Flat pricing, account numbers with no email address, cash payment accepted by post, and audits that have repeatedly confirmed the no-logging claim. Every other privacy feature in this category is downstream of whether the provider holds identifying information in the first place, and Mullvad structurally holds almost none.\n\nProton VPN at second is the one I recommend more often in practice, because it balances that privacy posture against features people actually need. Swiss jurisdiction, open source clients across every platform, independent audits, and a free tier that is genuinely usable rather than a trap. If you want strong privacy with streaming support and a polished app, this is the answer.\n\nNordVPN at third has the fastest network I have measured and the widest server coverage. For someone whose primary use is streaming geo-restricted content or maintaining a stable connection on hotel wifi, raw performance is the right criterion and Nord wins it.\n\nA word on marketing in this category, because it is worse than most: no VPN makes you anonymous. It moves your traffic's exit point from your ISP to the VPN provider, which is a meaningful change in threat model and nothing more. Choose a provider based on whether you trust them more than your ISP and whether their jurisdiction protects that trust. That framing produces better decisions than any feature comparison table.",
+          "highlights": [
+            {
+              "title": "Mullvad's business model structurally avoids holding your identity",
+              "body": "Account numbers with no email required, flat pricing with no tiers, cash accepted by post, and repeated independent audits confirming the no-logging claim. Every other privacy feature in this category depends on whether the provider holds identifying information at all, and Mullvad is built so that it holds almost none. That structural choice is worth more than any list of protocol options, and it is why it holds first place."
+            },
+            {
+              "title": "Proton VPN is what I actually recommend to most people",
+              "body": "Swiss jurisdiction with meaningful legal protection, open source clients on every platform, independent audits, and a free tier that works rather than functioning as bait. It balances a serious privacy posture against the features people genuinely use, including reliable streaming support and an app that does not require configuration. For the overwhelming majority of buyers this is the right purchase, and second place understates how often it is the correct answer."
+            },
+            {
+              "title": "Buy NordVPN if speed and server coverage decide it",
+              "body": "Nord runs the fastest network I have measured and the widest server footprint in the category. If your primary use is streaming geo-restricted content or holding a stable connection on unreliable hotel wifi during travel, raw throughput and server availability are the criteria that matter, and Nord wins both. The privacy posture is solid without matching the top two, which is exactly the trade you are making."
+            },
+            {
+              "title": "No VPN makes you anonymous, so choose on trust and jurisdiction",
+              "body": "A VPN moves the exit point of your traffic from your ISP to the VPN provider. That is a genuine change in threat model and it is the entire scope of what these services do. The right question is whether you trust that provider more than your ISP and whether the jurisdiction they operate in protects that trust under legal pressure. Answering those two produces better decisions than any feature comparison."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Mullvad 守住第一，我會繼續用一個原則辯護：它是唯一一家商業模式本身就不需要知道你是誰的大型供應商。單一價格、帳號只有一組數字不用 email、可以寄現金付款、稽核也一再確認它的無紀錄政策。這個類別裡其他所有隱私功能，前提都是供應商到底有沒有握著你的身分資訊，而 Mullvad 的結構決定了它幾乎什麼都沒握。\n\n第二名的 Proton VPN 是我實際上更常推薦的，因為它在那樣的隱私立場和大家真正需要的功能之間取得平衡。瑞士司法管轄、全平台開源用戶端、獨立稽核，還有一個真的能用、不是釣魚用的免費方案。想要強隱私又要能看串流、App 又要好用，答案就是它。\n\n第三名的 NordVPN 是我實測過速度最快、伺服器覆蓋最廣的。如果你主要拿來看跨區串流，或出差時要在飯店 wifi 上維持穩定連線，那純效能就是對的標準，這一項 Nord 贏。\n\n關於這個類別的行銷話術我想講一句，因為它比多數產業都誇張：沒有任何 VPN 能讓你匿名。它做的事是把你流量的出口從 ISP 換成 VPN 業者，這是威脅模型上一個有意義的改變，僅此而已。挑供應商的標準應該是：你信任他們的程度有沒有超過信任你的 ISP，以及他們所在的司法管轄區保不保得住這份信任。用這個框架做決定，比看任何功能比較表都準。",
+          "highlights": [
+            {
+              "title": "Mullvad 的商業模式結構上就不握你的身分",
+              "body": "帳號只是一組數字、不用 email，單一價格沒有分級，可以寄現金付款，獨立稽核也一再確認無紀錄政策。這個類別裡其他所有隱私功能，前提都建立在供應商到底有沒有握著你的識別資訊，而 Mullvad 從結構上就讓自己幾乎什麼都沒有。這個結構性的選擇，價值高過任何協定選項清單，也是它守住第一的原因。"
+            },
+            {
+              "title": "大多數人我實際上都推 Proton VPN",
+              "body": "瑞士司法管轄有實質的法律保護，全平台開源用戶端，有獨立稽核，免費方案是真的能用而不是誘餌。它在認真的隱私立場和大家真正會用到的功能之間抓到平衡，串流支援穩定，App 也不需要你自己調設定。對絕大多數買家來說這就是正確答案，第二名這個位置其實低估了它有多常是對的選擇。"
+            },
+            {
+              "title": "看速度和伺服器覆蓋就買 NordVPN",
+              "body": "Nord 是我實測過速度最快、伺服器據點最廣的。如果你主要用途是看跨區串流，或出差時要在不太可靠的飯店 wifi 上維持穩定連線，那頻寬和伺服器可用性才是關鍵標準，這兩項 Nord 都贏。它的隱私立場很紮實，只是沒到前兩名的程度，這就是你在做的那個交換。"
+            },
+            {
+              "title": "沒有 VPN 讓你匿名，所以請用信任和管轄區來挑",
+              "body": "VPN 做的事是把你流量的出口從 ISP 換成 VPN 業者，這是威脅模型上真實的改變，而且就是它全部的作用範圍。該問的問題是：你信任這家業者的程度有沒有超過你的 ISP，以及它所在的司法管轄區在法律壓力下守不守得住這份信任。把這兩題想清楚，比看任何功能比較表都更能做出好決定。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
