@@ -211,6 +211,22 @@
           "priceRange": "NT$126,999"
         }
       }
+    },
+    {
+      "id": "nordictrack-commercial-2450",
+      "name": "Commercial 2450",
+      "brand": "NordicTrack",
+      "url": "https://www.nordictrack.com/treadmills/commercial-2450-treadmill",
+      "i18n": {
+        "en": {
+          "description": "NordicTrack's runner-focused flagship, with a 4.0 CHP motor, a 22-by-60-inch belt, 12% incline with -3% decline, and a 24-inch pivoting touchscreen.",
+          "priceRange": "$2,999"
+        },
+        "zh-tw": {
+          "description": "NordicTrack 給認真跑者的旗艦機種，4.0 CHP 馬達配 22×60 吋跑帶，12% 爬坡加 -3% 下坡，還有一台會轉的 24 吋觸控螢幕。",
+          "priceRange": "約 NT$95,000"
+        }
+      }
     }
   ],
   "history": [
@@ -13421,8 +13437,21 @@
           }
         },
         {
-          "id": "nordictrack-x24-incline",
+          "id": "nordictrack-commercial-2450",
           "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "motorPower": 9.5,
+            "deckSize": 9.5,
+            "techFeatures": 9.6,
+            "valuePricing": 7.4,
+            "buildQuality": 9.2,
+            "cushioning": 9.0
+          }
+        },
+        {
+          "id": "nordictrack-x24-incline",
+          "rank": 3,
           "score": 9.0,
           "scores": {
             "motorPower": 9.5,
@@ -13435,7 +13464,7 @@
         },
         {
           "id": "nordictrack-x16-incline",
-          "rank": 3,
+          "rank": 4,
           "score": 9.0,
           "scores": {
             "motorPower": 9.3,
@@ -13448,7 +13477,7 @@
         },
         {
           "id": "sole-f89",
-          "rank": 4,
+          "rank": 5,
           "score": 9.0,
           "scores": {
             "motorPower": 9.3,
@@ -13461,7 +13490,7 @@
         },
         {
           "id": "sole-f80",
-          "rank": 5,
+          "rank": 6,
           "score": 8.9,
           "scores": {
             "motorPower": 9.0,
@@ -13474,7 +13503,7 @@
         },
         {
           "id": "bowflex-treadmill-22",
-          "rank": 6,
+          "rank": 7,
           "score": 8.4,
           "scores": {
             "motorPower": 8.5,
@@ -13487,7 +13516,7 @@
         },
         {
           "id": "peloton-tread",
-          "rank": 7,
+          "rank": 8,
           "score": 8.1,
           "scores": {
             "motorPower": 8.0,
@@ -13500,7 +13529,7 @@
         },
         {
           "id": "aviron-victory-treadmill",
-          "rank": 8,
+          "rank": 9,
           "score": 8.1,
           "scores": {
             "motorPower": 9.0,
@@ -13513,7 +13542,7 @@
         },
         {
           "id": "proform-carbon-pro-9000",
-          "rank": 9,
+          "rank": 10,
           "score": 7.9,
           "scores": {
             "motorPower": 9.0,
@@ -13526,7 +13555,7 @@
         },
         {
           "id": "echelon-stride-6",
-          "rank": 10,
+          "rank": 11,
           "score": 7.5,
           "scores": {
             "motorPower": 7.0,
@@ -13539,7 +13568,7 @@
         },
         {
           "id": "life-fitness-t3",
-          "rank": 11,
+          "rank": 12,
           "score": 7.4,
           "scores": {
             "motorPower": 8.0,
@@ -13552,7 +13581,7 @@
         },
         {
           "id": "horizon-7-0-at",
-          "rank": 12,
+          "rank": 13,
           "score": 7.2,
           "scores": {
             "motorPower": 7.0,

@@ -39,14 +39,14 @@
       "id": "aquatru-carafe",
       "name": "AquaTru Carafe",
       "brand": "AquaTru",
-      "url": "https://aquatruwater.com/products/carafe-countertop",
+      "url": "https://aquatru.com/products/carafe-countertop",
       "i18n": {
         "en": {
-          "priceRange": "$399",
+          "priceRange": "$375",
           "description": "Countertop 4-stage reverse osmosis that removes 84 IAPMO-certified contaminants and collects water in a borosilicate glass carafe, with zero plumbing or drilling."
         },
         "zh-tw": {
-          "priceRange": "約 NT$12,800",
+          "priceRange": "約 NT$12,000",
           "description": "免安裝的檯面型四道逆滲透，IAPMO 認證實測除掉 84 種污染物，純水裝進玻璃壺而不是塑膠桶，少了塑化劑溶出的疑慮。租屋族不能動水管又想要逆滲透水質，這台幾乎是唯一解。"
         }
       }
@@ -192,6 +192,22 @@
         "zh-tw": {
           "description": "水質報告難看的時候，我會直接推這一台。拿到 NSF 42 和 372 認證，另外送 EPA 認可實驗室獨立實測 365 種以上污染物，PFAS、氟、鉛、砷都在名單裡，一支濾芯撐 100 加侖大約四個月。三千塊的濾水壺確實不算便宜，但過濾深度在壺型裡就是天花板。",
           "priceRange": "約 NT$3,000"
+        }
+      }
+    },
+    {
+      "id": "aquatru-classic",
+      "name": "AquaTru Classic",
+      "brand": "AquaTru",
+      "url": "https://aquatru.com/products/countertop-reverse-osmosis-water-purifier",
+      "i18n": {
+        "en": {
+          "description": "A four-stage countertop RO purifier that runs without plumbing, certified by IAPMO to NSF standards and rated for 84 contaminants including PFOA and PFOS.",
+          "priceRange": "$475"
+        },
+        "zh-tw": {
+          "description": "四段式桌上型 RO 淨水器，插電就能用免接水管，通過 IAPMO 依 NSF 標準認證，宣稱可處理 84 種污染物，包含 PFOA、PFOS。",
+          "priceRange": "約 NT$15,200"
         }
       }
     }
@@ -1544,8 +1560,20 @@
           }
         },
         {
-          "id": "apec-roes-50",
+          "id": "aquatru-classic",
           "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "contaminant_removal": 9.6,
+            "certification": 9.6,
+            "filter_life": 8.8,
+            "convenience": 9.5,
+            "value": 8.6
+          }
+        },
+        {
+          "id": "apec-roes-50",
+          "rank": 4,
           "score": 9.1,
           "scores": {
             "contaminant_removal": 9.4,
@@ -1557,7 +1585,7 @@
         },
         {
           "id": "waterdrop-g3p800",
-          "rank": 4,
+          "rank": 5,
           "score": 9.0,
           "scores": {
             "contaminant_removal": 9.5,
@@ -1569,7 +1597,7 @@
         },
         {
           "id": "aquasana-optimh2o-ro-claryum",
-          "rank": 5,
+          "rank": 6,
           "score": 8.8,
           "scores": {
             "contaminant_removal": 9.5,
@@ -1581,7 +1609,7 @@
         },
         {
           "id": "ispring-rcc7ak",
-          "rank": 6,
+          "rank": 7,
           "score": 8.6,
           "scores": {
             "contaminant_removal": 9.1,
@@ -1593,7 +1621,7 @@
         },
         {
           "id": "clearly-filtered-pitcher",
-          "rank": 7,
+          "rank": 8,
           "score": 8.5,
           "scores": {
             "contaminant_removal": 9.3,
@@ -1605,7 +1633,7 @@
         },
         {
           "id": "pur-plus-11cup",
-          "rank": 8,
+          "rank": 9,
           "score": 8.4,
           "scores": {
             "contaminant_removal": 7.8,
@@ -1617,7 +1645,7 @@
         },
         {
           "id": "zerowater-10cup",
-          "rank": 9,
+          "rank": 10,
           "score": 8.1,
           "scores": {
             "contaminant_removal": 8.6,
@@ -1629,7 +1657,7 @@
         },
         {
           "id": "frizzlife-mk99",
-          "rank": 10,
+          "rank": 11,
           "score": 7.9,
           "scores": {
             "contaminant_removal": 7.6,
@@ -1641,7 +1669,7 @@
         },
         {
           "id": "brita-elite-tahoe",
-          "rank": 11,
+          "rank": 12,
           "score": 7.6,
           "scores": {
             "contaminant_removal": 7.2,
