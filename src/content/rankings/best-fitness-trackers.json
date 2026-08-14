@@ -178,6 +178,38 @@
           "priceRange": "約 NT$1,590"
         }
       }
+    },
+    {
+      "id": "garmin-venu-4",
+      "name": "Garmin Venu 4",
+      "brand": "Garmin",
+      "url": "https://www.garmin.com/en-US/p/1613801/pn/010-03013-00/",
+      "i18n": {
+        "en": {
+          "description": "Adds a health status monitor that flags when heart rate, HRV or skin temperature drift from your own baseline, plus lifestyle logging that ties caffeine and alcohol to that night's sleep, on 12 days of battery and no subscription.",
+          "priceRange": "$499.99"
+        },
+        "zh-tw": {
+          "description": "新增的健康狀態監測會在心率、HRV 或體溫偏離你自己的基準線時主動提醒，生活紀錄還能把咖啡因跟酒精對當晚睡眠的影響直接對起來，續航 12 天，而且完全免月費。",
+          "priceRange": "NT$16,990"
+        }
+      }
+    },
+    {
+      "id": "oura-ring-5",
+      "name": "Oura Ring 5",
+      "brand": "Oura",
+      "url": "https://ouraring.com/store/rings/oura-ring-5",
+      "i18n": {
+        "en": {
+          "description": "Oura shrank the shell by 40 percent to build the smallest smart ring on the market, and the sleep and readiness scoring that made the Ring 4 worth wearing carries over intact.",
+          "priceRange": "$399"
+        },
+        "zh-tw": {
+          "description": "Oura 把戒身縮小了四成，做出目前市面上最小的智慧戒指，而且讓 Ring 4 值得戴的睡眠與恢復評分完整保留下來。",
+          "priceRange": "約 NT$13,900"
+        }
+      }
     }
   ],
   "history": [
@@ -185,8 +217,20 @@
       "date": "2026-08-11",
       "rankings": [
         {
-          "id": "garmin-venu-3",
+          "id": "garmin-venu-4",
           "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "accuracy": 9.6,
+            "batteryLife": 9.4,
+            "totalCost": 8.2,
+            "healthFeatures": 9.7,
+            "appExperience": 9.3
+          }
+        },
+        {
+          "id": "garmin-venu-3",
+          "rank": 2,
           "score": 9.3,
           "scores": {
             "accuracy": 9.5,
@@ -198,7 +242,7 @@
         },
         {
           "id": "fitbit-charge-6",
-          "rank": 2,
+          "rank": 3,
           "score": 9.1,
           "scores": {
             "accuracy": 8.9,
@@ -210,7 +254,7 @@
         },
         {
           "id": "fitbit-air",
-          "rank": 3,
+          "rank": 4,
           "score": 8.9,
           "scores": {
             "accuracy": 8.8,
@@ -222,7 +266,7 @@
         },
         {
           "id": "huawei-watch-fit-4",
-          "rank": 4,
+          "rank": 5,
           "score": 8.7,
           "scores": {
             "accuracy": 8.5,
@@ -234,7 +278,7 @@
         },
         {
           "id": "garmin-vivoactive-6",
-          "rank": 5,
+          "rank": 6,
           "score": 8.6,
           "scores": {
             "accuracy": 9.0,
@@ -245,8 +289,20 @@
           }
         },
         {
+          "id": "oura-ring-5",
+          "rank": 7,
+          "score": 8.5,
+          "scores": {
+            "accuracy": 9.1,
+            "batteryLife": 8.8,
+            "totalCost": 6.2,
+            "healthFeatures": 9.3,
+            "appExperience": 9.0
+          }
+        },
+        {
           "id": "whoop-5",
-          "rank": 6,
+          "rank": 8,
           "score": 8.3,
           "scores": {
             "accuracy": 9.2,
@@ -258,7 +314,7 @@
         },
         {
           "id": "oura-ring-4",
-          "rank": 7,
+          "rank": 9,
           "score": 8.2,
           "scores": {
             "accuracy": 9.3,
@@ -270,7 +326,7 @@
         },
         {
           "id": "amazfit-active-2",
-          "rank": 8,
+          "rank": 10,
           "score": 8.0,
           "scores": {
             "accuracy": 8.0,
@@ -282,7 +338,7 @@
         },
         {
           "id": "xiaomi-smart-band-10",
-          "rank": 9,
+          "rank": 11,
           "score": 7.7,
           "scores": {
             "accuracy": 7.6,
@@ -294,7 +350,7 @@
         },
         {
           "id": "amazfit-band-7",
-          "rank": 10,
+          "rank": 12,
           "score": 7.3,
           "scores": {
             "accuracy": 7.4,
@@ -345,15 +401,25 @@
           "title": "Xiaomi 手環 10 台灣官方售價",
           "url": "https://www.mi.com/tw/product/xiaomi-smart-band-10/",
           "source": "小米台灣"
+        },
+        {
+          "title": "Garmin announces the Venu 4 with new health & fitness features",
+          "url": "https://www.garmin.com/en-US/newsroom/press-release/sports-fitness/take-steps-towards-a-healthier-lifestyle-with-the-venu-4-from-garmin/",
+          "source": "Garmin Newsroom"
+        },
+        {
+          "title": "Oura unveils its Ring 5 with a thinner, lighter design starting at $399",
+          "url": "https://techcrunch.com/2026/05/28/oura-unveils-its-ring-5-with-a-thinner-lighter-design-starting-at-399/",
+          "source": "TechCrunch"
         }
       ],
       "i18n": {
         "en": {
-          "commentary": "The fitness tracker market split into two business models in 2026, and that split now decides more purchases than any sensor spec does. On one side sit devices you buy once. On the other sit devices whose price keeps arriving every month. I built this ranking around three-year total cost for exactly that reason, and the order changes noticeably once the membership fees are written into the price.\n\nGarmin Venu 3 takes the top spot. It posts the most accurate day-to-day numbers of anything here across steps, heart rate and sleep staging, runs 14 days per charge, and hands you Body Battery energy monitoring plus Sleep Coach for as long as the hardware survives. At $449.99 the three-year cost stays $449.99, and Garmin Connect keeps every metric open with zero paywall.\n\nFitbit Charge 6 is the one I recommend to most people at $159.95. Its sleep trend reporting is the easiest to act on that I have used, and it carries ECG heart rhythm assessment plus EDA stress sensing in a band you forget you are wearing.\n\nFitbit Air is the product of the year in this category. Google shipped it on May 26, 2026 at $99.99: 12 grams, a fabric band and a small sensor pebble, all data flowing into the Google Health app with a Gemini coach layered on top. Core sleep, heart rate and step tracking stay free permanently. In two-week independent testing its total sleep landed within about 13 minutes of Oura Ring 4 and resting heart rate within about 3 bpm, and a 2026 JMIR Formative Research study found Fitbit's optical heart rate more accurate than Oura's during activity.\n\nRun the three-year math and the picture sharpens. Fitbit Air costs $99.99 over three years. WHOOP Peak at $239 a year reaches $717. Oura Ring 4 at $349 plus $5.99 a month reaches roughly $565. Both of those earn their keep for a specific reader, and I say who below.",
+          "commentary": "The fitness tracker market split into two business models in 2026, and that split now decides more purchases than any sensor spec does. On one side sit devices you buy once. On the other sit devices whose price keeps arriving every month. I built this ranking around three-year total cost for exactly that reason, and the order changes noticeably once the membership fees are written into the price.\n\nGarmin Venu 4 takes the top spot. Its health status monitor learns where your own heart rate, HRV and skin temperature normally sit, then flags the moment one of them drifts away, and this is the first tracker at this price to key its alerts to you rather than to a population average. Lifestyle logging closes the loop by connecting last night's caffeine and alcohol to that night's sleep score. It runs 12 days per charge, Garmin Connect keeps every metric outside the paywall, and at $499.99 the three-year cost is still $499.99.\n\nGarmin Venu 3 holds second and stays the smarter buy at $449.99 for most readers. It matches the Venu 4 on day-to-day step, heart rate and sleep staging accuracy, runs 14 days per charge, and includes Body Battery and Sleep Coach for the life of the hardware. The extra $50 buys the health status layer and the lifestyle logging, so pay it only if you will actually read those screens.\n\nFitbit Charge 6 is the one I recommend to most people at $159.95. Its sleep trend reporting is the easiest to act on that I have used, and it carries ECG heart rhythm assessment plus EDA stress sensing in a band you forget you are wearing.\n\nFitbit Air is the product of the year in this category. Google shipped it on May 26, 2026 at $99.99: 12 grams, a fabric band and a small sensor pebble, all data flowing into the Google Health app with a Gemini coach layered on top. Core sleep, heart rate and step tracking stay free permanently. In two-week independent testing its total sleep landed within about 13 minutes of Oura Ring 4 and resting heart rate within about 3 bpm, and a 2026 JMIR Formative Research study found Fitbit's optical heart rate more accurate than Oura's during activity.\n\nOura Ring 5 shipped on June 4 at $399, 40 percent smaller than the Ring 4 and the smallest smart ring you can buy today. The sleep and readiness scoring that made the Ring 4 worth wearing carries over intact, and that size reduction is what moves it above the Ring 4 here.\n\nRun the three-year math and the picture sharpens. Fitbit Air costs $99.99 over three years. WHOOP Peak at $239 a year reaches $717. Oura Ring 5 at $399 plus $5.99 a month reaches roughly $615. Both of those earn their keep for a specific reader, and I say who below.",
           "highlights": [
             {
-              "title": "Garmin Venu 3 wins because accuracy and ownership arrive in the same box",
-              "body": "Venu 3 is the tracker I trust when the number itself has to be right. Its optical heart rate holds up during interval work where cheaper sensors drift, its sleep staging feeds a Sleep Coach that adjusts the next day's target, and Body Battery gives a single readable energy figure built from HRV, stress and activity. The 14-day battery means it stays on your wrist through the nights that actually generate the sleep data. Every one of those metrics is included in the $449.99, so year two and year three cost you nothing further."
+              "title": "Garmin Venu 4 wins because its alerts are keyed to your own baseline",
+              "body": "Health status monitoring is the feature that moved the Venu 4 past the Venu 3 for me. It learns where your resting heart rate, HRV and skin temperature normally sit and raises a flag when one of them starts moving, which catches the run-down day before you feel it. Lifestyle logging then shows what the caffeine and the wine did to that night's sleep, so the alert arrives with a cause attached. Twelve days of battery keeps it on your wrist overnight, where the sleep data actually comes from, and every one of these metrics is included in the $499.99 with nothing left to renew."
             },
             {
               "title": "Fitbit Air at $99.99 is the most important launch this category has seen in years",
@@ -374,11 +440,11 @@
           ]
         },
         "zh-tw": {
-          "commentary": "2026 年的健身手環市場，真正決定你該買哪一台的關鍵已經從感測器規格轉移到商業模式了。一邊是買斷制，錢付一次就結束。另一邊是訂閱制，帳單每個月都會再來一次。所以我這份排名直接用三年總持有成本當主軸，把月費全部算進去之後，順序跟一般評測站的結論會有明顯落差。\n\nGarmin Venu 3 拿第一。步數、心率、睡眠分期這三項的日常準確度是這份榜單裡最穩的，14 天續航，Body Battery 能量監測加睡眠教練全部包含在硬體價裡。台灣官方售價 NT$14,990，接近一台中階手機的錢，但三年後你還是只付了這一筆，Garmin Connect 沒有任何功能被鎖在付費牆後面。\n\nFitbit Charge 6 是我會推薦給大多數人的那一台，NT$5,190。睡眠趨勢報告的可讀性我用過最好，看完當下就知道明天該調整什麼，內建 ECG 心律偵測與 EDA 壓力感測，戴在手上輕到會忘記。\n\n說真的，今年這個品類最有意思的產品是 Fitbit Air。Google 在 5 月 26 日推出，售價 99.99 美元，12 公克，一條錶帶加一顆小感測石，數據全部進 Google Health App，上面再疊一個 Gemini AI 健康教練。核心的睡眠、心率、步數終身免費。實測數據撐得住這個定價，兩週對比測試中它的總睡眠時間跟 Oura Ring 4 平均只差十三分鐘左右，靜止心率差約 3 bpm，2026 年 JMIR Formative Research 的研究更指出 Fitbit 在運動當下的光學心率準確度領先 Oura。台灣目前沒有引進，要買得走代購，這是唯一的門檻。\n\n坦白講，把三年帳算出來最有感。Fitbit Air 三年約 NT$3,140。WHOOP Peak 一年 239 美元，三年約 NT$22,400。Oura Ring 4 硬體加月費三年約 NT$17,600。這兩台各自有值得買的人，我在下面說清楚。",
+          "commentary": "2026 年的健身手環市場，真正決定你該買哪一台的關鍵已經從感測器規格轉移到商業模式了。一邊是買斷制，錢付一次就結束。另一邊是訂閱制，帳單每個月都會再來一次。所以我這份排名直接用三年總持有成本當主軸，把月費全部算進去之後，順序跟一般評測站的結論會有明顯落差。\n\nGarmin Venu 4 拿第一。它的健康狀態監測會先摸清楚你自己的心率、HRV 跟體溫平常落在哪裡，其中一項開始偏離就主動提醒，這個價位帶第一次有手錶把警示的基準放在你本人身上。生活紀錄再把昨晚的咖啡因跟酒精連到當晚的睡眠分數，整個循環就閉起來了。續航 12 天，Garmin Connect 沒有任何功能被鎖在付費牆後面，台灣官方售價 NT$16,990，三年後你付的還是這一筆。\n\nGarmin Venu 3 第二，NT$14,990，對大多數人來說它才是更划算的那一台。步數、心率、睡眠分期的日常準確度跟 Venu 4 同級，14 天續航，Body Battery 跟睡眠教練一樣包在硬體價裡。多出來的那兩千塊買的是健康狀態監測跟生活紀錄這兩層，你會真的去看那兩頁的話才值得。\n\nFitbit Charge 6 是我會推薦給大多數人的那一台，NT$5,190。睡眠趨勢報告的可讀性我用過最好，看完當下就知道明天該調整什麼，內建 ECG 心律偵測與 EDA 壓力感測，戴在手上輕到會忘記。\n\n說真的，今年這個品類最有意思的產品是 Fitbit Air。Google 在 5 月 26 日推出，售價 99.99 美元，12 公克，一條錶帶加一顆小感測石，數據全部進 Google Health App，上面再疊一個 Gemini AI 健康教練。核心的睡眠、心率、步數終身免費。實測數據撐得住這個定價，兩週對比測試中它的總睡眠時間跟 Oura Ring 4 平均只差十三分鐘左右，靜止心率差約 3 bpm，2026 年 JMIR Formative Research 的研究更指出 Fitbit 在運動當下的光學心率準確度領先 Oura。台灣目前沒有引進，要買得走代購，這是唯一的門檻。\n\nOura Ring 5 六月四日開賣，399 美元，比 Ring 4 小了四成，是現在買得到最小的智慧戒指。讓 Ring 4 值得戴的睡眠與恢復評分完整保留下來，而這次的縮小就是我把它排在 Ring 4 前面的理由。台灣一樣沒有官方通路，要買得走代購。\n\n坦白講，把三年帳算出來最有感。Fitbit Air 三年約 NT$3,140。WHOOP Peak 一年 239 美元，三年約 NT$22,400。Oura Ring 5 硬體加月費三年約 NT$19,600。這兩台各自有值得買的人，我在下面說清楚。",
           "highlights": [
             {
-              "title": "Garmin Venu 3 第一名，因為準確度跟買斷制是同一筆錢買到的",
-              "body": "需要數字本身正確的時候，Venu 3 是我最信任的一台。間歇訓練那種心率劇烈變動的場景，便宜感測器會飄，它撐得住。睡眠分期餵給睡眠教練，隔天的訓練目標會跟著調整，Body Battery 把 HRV、壓力與活動量整合成一個一眼能懂的能量數字。14 天續航的實際意義在於，它會真的留在你手上過夜，而睡眠數據就是這樣累積出來的。NT$14,990 買下去之後，第二年第三年都不用再付錢。"
+              "title": "Garmin Venu 4 第一名，因為它的警示是對著你自己的基準線",
+              "body": "健康狀態監測是我把 Venu 4 放到 Venu 3 前面的關鍵。它會先摸清楚你的靜止心率、HRV 跟體溫平常落在哪裡，其中一項開始移動就跳提醒，等於在你自己有感覺之前，就先抓到那個快感冒的日子。生活紀錄接著告訴你咖啡因跟那杯酒對當晚睡眠做了什麼，警示就帶著原因一起出現。12 天續航的實際意義在於它會真的留在你手上過夜，而睡眠數據就是這樣累積出來的。這些功能全部含在 NT$16,990 裡面，沒有任何東西要續約。"
             },
             {
               "title": "Fitbit Air 是這個品類這幾年最重要的一次發表",
