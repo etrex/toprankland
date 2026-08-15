@@ -13469,6 +13469,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-15",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.0,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Video Models 2026: Veo, Runway, Kling, Sora",
+          "url": "https://www.teamday.ai/blog/best-ai-video-models-2026",
+          "source": "Teamday"
+        },
+        {
+          "title": "AI Video Generators for Ads in 2026: Veo, Sora, Kling or Runway?",
+          "url": "https://www.spaceads.agency/blog/ai-video-generators-veo-3-sora-2-kling-runway-ads-2026",
+          "source": "Space Ads"
+        },
+        {
+          "title": "AI Video Generation News 2026: Models and Impact",
+          "url": "https://thebriefscript.com/ai-video-generation-news/",
+          "source": "The Brief Script"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "There is a hard date approaching that anyone building on AI video needs on their calendar: the Sora API shuts down on September 24. The consumer app went away back in April, and the API is the last piece. If you have a pipeline calling it, you have six weeks to migrate, and the right replacement depends on what you were using it for. For cinematic realism the move is Veo 3.1, for a production workflow with editing tools attached it is Runway Gen-4.5, and for multi-shot sequences with synchronised audio it is Seedance 2.0 or Kling 3.0. I would start that migration now rather than in the second week of September, because prompt behaviour differs enough between models that a working prompt library does not transfer cleanly. Kling 3.0 holds first at 9.5 and native audio is the reason. This category stopped being judged on visual realism alone, and dialogue, ambience, timing, and lip sync are now core product rather than post-production work. Kling 3.0 Omni handles multi-shot sequences on a shared audio timeline with native dialogue in five languages, which is the most complete implementation of that idea currently shipping. Google Veo 3.1 stays second at 9.4 and remains my pick when the shot has to look like it came out of a camera. Runway Gen-4.5 third at 9.2 for teams who need the surrounding workflow rather than the single best clip. Seedance 2.0 shares 9.2 on audio and multi-shot strength. No rank or score changes today.",
+          "highlights": [
+            {
+              "title": "The Sora API shuts down September 24, so migrate now",
+              "body": "The consumer app ended in April and the API is the last piece to go. Six weeks sounds like plenty until you discover that a prompt library tuned for one model does not transfer cleanly to another. Start testing replacements this week: Veo 3.1 for cinematic realism, Runway Gen-4.5 for production workflow, Seedance 2.0 or Kling 3.0 for multi-shot with audio."
+            },
+            {
+              "title": "Native audio is now the axis this category competes on",
+              "body": "Dialogue, ambience, sound effects, lip sync, and audio-video alignment moved from post-production into the model itself. Kling 3.0 Omni runs multi-shot sequences on a shared audio timeline with native dialogue in five languages, which is the most complete version of this shipping today. That capability is the core of its 9.5."
+            },
+            {
+              "title": "Veo 3.1 is the pick when the shot must look like camera footage",
+              "body": "For work that has to sit alongside real footage in the same edit, Veo 3.1 produces the most convincing lighting behaviour and lens character on this board. That specific strength matters enormously for advertising and documentary-adjacent work and hardly at all for stylised content, which is why it holds second at 9.4 rather than first."
+            },
+            {
+              "title": "Pick Runway when you need the workflow, not the single best clip",
+              "body": "Generating one impressive clip and delivering a finished piece are different jobs. Runway Gen-4.5 wraps generation in the editing, versioning, and collaboration tools a team actually needs to ship on a deadline. For a studio with clients, that surrounding structure is worth more than a marginal quality edge, and it earns 9.2."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "有一個硬性期限，所有在 AI 影片上做開發的人都該記進行事曆，Sora API 將於 9 月 24 日關閉。消費者版 App 四月就收掉了，API 是最後一塊。如果你的流程裡有在呼叫它，剩六週可以搬家，而該搬去哪要看你原本拿它做什麼。要電影感的寫實就換 Veo 3.1，要有剪輯工具的生產流程就換 Runway Gen-4.5，要多鏡頭加同步音軌就換 Seedance 2.0 或 Kling 3.0。\n\n我會建議現在就開始搬，不要拖到九月第二週，因為各家模型對提示詞的反應差異大到，一套調好的提示詞庫是沒辦法直接平移過去的。\n\nKling 3.0 續坐第一 9.5，原生音訊就是理由。這個品類已經不再只用畫面寫實度評判，對白、環境音、節奏、對嘴現在都是產品核心而不是後製工作。Kling 3.0 Omni 能在共用音軌上處理多鏡頭序列，還支援五種語言的原生對白，是目前實際出貨的版本裡最完整的一套。\n\nGoogle Veo 3.1 第二 9.4，畫面必須看起來像真的用相機拍的時候，我選它。Runway Gen-4.5 第三 9.2，需要的是整套工作流而不是單一支最強片段的團隊選它。Seedance 2.0 同分 9.2，音訊與多鏡頭都很強。今天名次分數不動。",
+          "highlights": [
+            {
+              "title": "Sora API 9 月 24 日關閉，現在就開始搬",
+              "body": "消費者版 App 四月已經收掉，API 是最後一塊。六週聽起來很夠，直到你發現為某個模型調好的提示詞庫沒辦法乾淨地平移到另一個模型上。這週就開始測替代方案，電影感寫實選 Veo 3.1，生產流程選 Runway Gen-4.5，多鏡頭加音軌選 Seedance 2.0 或 Kling 3.0。"
+            },
+            {
+              "title": "原生音訊已經是這個品類的主戰場",
+              "body": "對白、環境音、音效、對嘴、影音同步，全部從後製搬進了模型本身。Kling 3.0 Omni 在共用音軌上跑多鏡頭序列，還支援五種語言的原生對白，是目前實際出貨的版本裡最完整的。這個能力就是 9.5 的核心。"
+            },
+            {
+              "title": "畫面必須像實拍的時候，選 Veo 3.1",
+              "body": "當作品要跟真實拍攝的素材放在同一條時間軸上剪，Veo 3.1 的光線行為與鏡頭質感是榜上最有說服力的。這個特定強項對廣告與紀實類製作影響巨大，對風格化內容則幾乎無關，所以它是第二名 9.4 而不是第一。"
+            },
+            {
+              "title": "需要的是工作流而不是單一支神片時，選 Runway",
+              "body": "生出一支厲害的片段，跟交出一個完成品，是兩件不同的工作。Runway Gen-4.5 把生成包在剪輯、版本控管、協作工具裡，那才是一個團隊在期限內交件真正需要的東西。對有客戶的工作室來說，這套外圍結構的價值高過畫質上那一點差距，9.2 拿得理直氣壯。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

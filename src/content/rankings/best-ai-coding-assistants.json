@@ -19140,6 +19140,228 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-15",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.5,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens",
+          "url": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/",
+          "source": "MarkTechPost"
+        },
+        {
+          "title": "Google Launches Gemini 3.7 Flash for Coding and Agents at Half the Price",
+          "url": "https://www.technobezz.com/news/google-launches-gemini-3-7-flash-for-coding-and-agents-at-half-the-price",
+          "source": "Technobezz"
+        },
+        {
+          "title": "Google launches Gemini 3.7 Flash for coding, AI agent projects",
+          "url": "https://siliconangle.com/2026/08/13/google-launches-gemini-3-7-flash-coding-ai-agent-projects/",
+          "source": "SiliconANGLE"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Google Antigravity moves to 8.4 today because the model underneath it changed. Gemini 3.7 Flash launched on August 13 explicitly positioned for coding and agents, priced at $0.75 per million input tokens and $3.75 per million output, roughly half the previous Flash tier, with Google claiming better debugging, higher first-pass code accuracy, and stronger production-ready output. In agentic coding, cost per token is not a footnote. An agent that reads a repository, runs tests, reads the failures, and iterates burns tokens in volume, and halving the rate directly changes how many iterations you can afford before the bill becomes a reason to stop. That is a genuine improvement to the value score, so Antigravity moves up a tenth while the rest of the board holds. Claude Code stays first at 9.5 and my reasoning is unchanged. It is the only tool here that reliably completes a multi-file change end to end, meaning it reads the surrounding code, matches the existing conventions, edits several files coherently, runs the test suite, and fixes what it broke. Everything else on this board still needs a human to stitch the steps together. That difference shows up in whether a task takes ten minutes or an afternoon. OpenAI Codex holds second at 9.1 for its strength on well-specified isolated tasks, and Cursor stays third at 9.0 as the best experience for developers who want to stay inside an editor rather than a terminal. No rank changes today.",
+          "highlights": [
+            {
+              "title": "Halved token pricing changes what an agent can afford to attempt",
+              "body": "Agentic coding burns tokens in volume, because reading a repository, running tests, reading failures, and iterating is a loop that repeats. Gemini 3.7 Flash at $0.75 per million input and $3.75 per million output is roughly half the previous Flash rate, which directly doubles how many iterations fit the same budget. That earns Google Antigravity a move to 8.4."
+            },
+            {
+              "title": "Claude Code holds first on completing multi-file changes end to end",
+              "body": "It reads surrounding code, matches existing conventions, edits several files coherently, runs the suite, and fixes what it broke. Every other tool on this board still needs a human to connect those steps. The practical result is the difference between a ten minute task and an afternoon, and that is what a 9.5 represents."
+            },
+            {
+              "title": "Judge these tools by convention matching, not code generation",
+              "body": "Any model on this list can write a working function. The one that matters is whether the output reads like the rest of your codebase, uses your error handling, and follows your naming. Code that looks foreign gets rewritten in review, which erases the time saved. Convention matching is the metric I weight most heavily and it separates the top two from the rest."
+            },
+            {
+              "title": "Cursor stays third because staying in the editor is a real workflow",
+              "body": "Plenty of developers think in terms of files and cursors rather than a terminal conversation, and Cursor gives that group agentic capability without leaving the environment they already know. That fit is worth more than a marginal benchmark difference for a large share of working developers, and it holds 9.0 comfortably."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Google Antigravity 今天升到 8.4，因為它底下的模型換了。\n\nGemini 3.7 Flash 在 8 月 13 日推出，定位明確就是給程式與代理任務用，每百萬輸入 token 0.75 美元、輸出 3.75 美元，大約是前一代 Flash 的一半，Google 宣稱除錯能力更好、首次產出的程式碼正確率更高、產出的東西也更接近可上線品質。\n\n在代理式編程裡，每 token 的成本絕對不是附註。一個要讀完整個 repo、跑測試、讀失敗訊息、然後反覆修正的代理，token 是用「量」在燒的，價格砍半直接決定你在帳單變成停手理由之前，能負擔幾輪迭代。這是價值分數的實質提升，所以 Antigravity 加一分，其他維持不動。\n\nClaude Code 續坐第一 9.5，理由沒變。它是榜上唯一能可靠地把跨檔案修改從頭做到尾的工具，也就是讀懂周邊程式碼、比對現有慣例、一致地改動好幾個檔案、跑完測試、再把自己弄壞的地方修回來。榜上其他工具都還需要一個人類把這些步驟串起來，而這個差別直接決定一件事是花十分鐘還是花一個下午。\n\nOpenAI Codex 第二 9.1，規格明確的獨立任務很強。Cursor 第三 9.0，想待在編輯器裡而不是終端機裡的開發者，體驗最好。今天名次不動。",
+          "highlights": [
+            {
+              "title": "token 價格砍半，改變的是代理敢不敢嘗試",
+              "body": "代理式編程是用「量」在燒 token 的，因為讀 repo、跑測試、讀失敗、再修正是一個會重複很多次的迴圈。Gemini 3.7 Flash 每百萬輸入 0.75 美元、輸出 3.75 美元，大約是前一代 Flash 的一半，等於同樣預算下能跑的迭代次數直接翻倍。這就是 Google Antigravity 升到 8.4 的理由。"
+            },
+            {
+              "title": "Claude Code 拿第一，靠的是把跨檔案修改一路做完",
+              "body": "它會讀周邊程式碼、比對既有慣例、一致地改好幾個檔案、跑完整個測試套件、再把自己弄壞的部分修好。榜上其他工具都還需要人類把這些步驟接起來。實務結果就是十分鐘跟一個下午的差別，9.5 代表的就是這件事。"
+            },
+            {
+              "title": "評判這類工具要看慣例契合度，不是看它會不會寫程式",
+              "body": "榜上任何一個模型都寫得出能跑的函式。真正有差的是產出讀起來像不像你這個 codebase 的一部分、有沒有用你的錯誤處理方式、命名有沒有照你的規則。看起來像外來品的程式碼在 code review 就會被重寫，省下的時間直接歸零。慣例契合度是我權重最高的指標，也是前兩名跟其他人的分界。"
+            },
+            {
+              "title": "Cursor 守住第三，因為待在編輯器裡是個真實的工作流",
+              "body": "很多開發者的思考單位是檔案跟游標，不是終端機裡的對話，而 Cursor 讓這群人不用離開熟悉的環境就取得代理能力。對相當比例的實務開發者來說，這個契合度的價值高過基準測試上那一點差距，9.0 站得很穩。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

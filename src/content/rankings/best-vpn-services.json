@@ -14293,6 +14293,168 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-15",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Proton VPN passes 5th annual external audit of no-logs policy",
+          "url": "https://protonvpn.com/blog/no-logs-audit",
+          "source": "Proton VPN"
+        },
+        {
+          "title": "NordVPN vs Proton VPN vs Mullvad (2026): Three Trust Models, No Universal Winner",
+          "url": "https://www.thevpnmatrix.com/blog/privacy-trinity",
+          "source": "The VPN Matrix"
+        },
+        {
+          "title": "Best No-Logs VPNs in 2026 (Only 7 Proven & Verified)",
+          "url": "https://cyberinsider.com/vpn/best/no-logs-vpn/",
+          "source": "CyberInsider"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Proton VPN moves to 9.2 and ties Mullvad, and I want to explain exactly what earned it. Proton has now passed a fifth consecutive annual external audit of its no-logs policy, with the report stating that the evidence reviewed showed no logging of browsing activity, DNS queries, destination services, traffic contents, or user-identifiable connection metadata. Five years of consecutive independent verification is a different kind of evidence from a single audit or a marketing page. A company can pass one audit by preparing for it. Passing five in a row means the architecture itself is built so there is nothing to find, and that is the only form of privacy claim I consider verified. Mullvad holds first at 9.2 on a complementary strength, which is account minimisation. It issues a random account number rather than requiring an email, accepts cash, and has survived a real police raid that produced no customer data. That raid is the strongest evidence any VPN has, because it tested the claim under conditions nobody chooses. Proton requires an email address, and that single difference is what still separates these two philosophically even at the same score. Choose Mullvad if your threat model includes linking your identity to your subscription, and choose Proton if you want audited no-logs plus a broader product suite and a genuinely usable app. NordVPN third at 8.8 remains the pick for consumer convenience and streaming reliability. For readers in Taiwan, my practical note stands: test the server you actually plan to use, since Japan and Singapore routes vary far more in real throughput than any global speed average suggests.",
+          "highlights": [
+            {
+              "title": "Five consecutive audits is a different claim from one audit",
+              "body": "Proton VPN has now passed its fifth annual external no-logs audit, with the report finding no logging of browsing activity, DNS queries, destinations, traffic contents, or identifiable connection metadata. Any company can prepare for a single audit. Passing five in a row means the architecture leaves nothing to find, and that moves Proton to 9.2."
+            },
+            {
+              "title": "Mullvad's raid is still the strongest evidence in this category",
+              "body": "A police raid that produced no customer data tested the no-logs claim under conditions no company would choose. Audits are scheduled and scoped. A raid is neither. That real-world verification, combined with random account numbers and cash payment, is why Mullvad holds first at 9.2 despite a smaller feature set."
+            },
+            {
+              "title": "The email requirement is the real philosophical split",
+              "body": "Mullvad issues a random account number and takes cash, so nothing links a subscription to an identity. Proton requires an email address and backs it with audited no-logs. If your threat model includes the link between who you are and what you paid for, that difference decides the choice regardless of the identical scores."
+            },
+            {
+              "title": "Test the Japan and Singapore routes before you commit",
+              "body": "Global average speed figures tell Taiwanese users almost nothing, because throughput on the routes you would actually use varies far more than the average suggests. Run your own test on a Japan and a Singapore endpoint during your normal evening usage hours, then decide. Every provider here offers a refund window long enough to do that properly."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Proton VPN 升到 9.2，跟 Mullvad 並列，我想把它憑什麼講清楚。\n\nProton 已經連續第五年通過外部獨立的無紀錄政策稽核，報告指出所檢視的證據顯示，它沒有記錄瀏覽活動、DNS 查詢、目的地服務、流量內容、或可識別使用者的連線後設資料。\n\n連續五年的獨立驗證，跟單次稽核或官網上的行銷頁面是完全不同層級的證據。一家公司可以為了單次稽核做準備，但連過五次代表架構本身就是設計成查無可查，而這是我唯一認可為「已驗證」的隱私主張形式。\n\nMullvad 守住第一 9.2，靠的是互補的另一項，帳號最小化。它發給你一組隨機帳號而不要求 email，收現金，而且真的被警方搜查過，結果沒有交出任何客戶資料。那次搜查是任何 VPN 手上最強的證據，因為它是在沒有人會主動選擇的條件下驗證了這個主張。\n\nProton 需要 email，光這一點就是這兩家在同分之下依然分屬不同哲學的原因。威脅模型包含「身份與訂閱之間的連結」的人選 Mullvad，想要經稽核的無紀錄政策加上完整產品線與真的好用的 App 的人選 Proton。\n\nNordVPN 第三 8.8，重視便利與串流穩定度的人選它。給台灣讀者的老提醒，測你真正會用的節點，日本跟新加坡線路的實際吞吐量差異，遠大於任何全球平均速度數字所暗示的。",
+          "highlights": [
+            {
+              "title": "連續五次稽核跟一次稽核是完全不同的主張",
+              "body": "Proton VPN 已通過第五次年度外部無紀錄稽核，報告未發現任何瀏覽活動、DNS 查詢、目的地、流量內容或可識別連線後設資料的記錄。任何公司都能為單次稽核做準備，連過五次則代表架構本身就查無可查，這讓 Proton 升到 9.2。"
+            },
+            {
+              "title": "Mullvad 那次搜查依然是這個品類最強的證據",
+              "body": "一次沒有交出任何客戶資料的警方搜查，是在沒有公司會主動選擇的條件下驗證了無紀錄主張。稽核是排定的、有範圍的，搜查兩者皆非。這種真實世界的驗證，加上隨機帳號與現金付款，就是 Mullvad 在功能較少的情況下仍守住第一名 9.2 的原因。"
+            },
+            {
+              "title": "要不要 email 才是真正的哲學分界",
+              "body": "Mullvad 發一組隨機帳號、收現金，訂閱跟身份之間沒有任何連結。Proton 需要 email，但用經稽核的無紀錄政策撐住。如果你的威脅模型包含「你是誰」跟「你付了什麼」之間的連結，這個差別就決定了選擇，跟兩家同分無關。"
+            },
+            {
+              "title": "下決定前先測日本跟新加坡節點",
+              "body": "全球平均速度數字對台灣使用者幾乎沒有參考價值，因為你真正會用的那幾條線路，吞吐量差異遠大於平均值所暗示的。在你平常晚上使用的時段，自己拿日本跟新加坡節點各測一次再決定。榜上每一家的退款期都夠長，足以讓你好好測完。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

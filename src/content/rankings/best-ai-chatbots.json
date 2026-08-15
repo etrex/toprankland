@@ -12852,6 +12852,202 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-15",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.3,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.9,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.4,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "reasoning": 9.0,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Google launches Gemini 3.7 Flash for coding, AI agent projects",
+          "url": "https://siliconangle.com/2026/08/13/google-launches-gemini-3-7-flash-coding-ai-agent-projects/",
+          "source": "SiliconANGLE"
+        },
+        {
+          "title": "Google's Gemini 3.7 Flash arrives before Gemini 3.5 Pro",
+          "url": "https://www.axios.com/2026/08/13/google-gemini-37-flash",
+          "source": "Axios"
+        },
+        {
+          "title": "Gemini 3.7 Flash launches three weeks after last model, live in Spark",
+          "url": "https://9to5google.com/2026/08/13/gemini-3-7-flash-launch/",
+          "source": "9to5Google"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Gemini moves to 9.4 today and the reason is Gemini 3.7 Flash, which Google shipped on August 13 at $0.75 per million input tokens and $3.75 per million output. That is roughly half the price of 3.6 Flash from three weeks earlier, with Google claiming wins over comparable Anthropic and OpenAI models across nine benchmarks. Price per token is the metric that decides which assistant people actually use all day, because a model you hesitate to query is a model you stop reaching for. Halving the cost of the workhorse tier while improving coding accuracy changes the daily calculus for anyone building on the API, and Gemini Spark, Google's always-on personal agent for AI Pro and Ultra subscribers across more than 160 countries, switched to run on it the same day. That is a large installed base moving to a better model overnight. ChatGPT and Claude stay tied at 9.5 and I want to be clear about why. ChatGPT holds first on breadth, because it is the only assistant here where voice, image generation, data analysis, and memory all work well enough that a general user never needs a second tool. Claude holds the same score on depth, since it remains my choice for long documents, careful reasoning, and anything where I need the model to say it is uncertain rather than produce a confident guess. Which one is better depends entirely on whether your work is wide or deep. Gemini's third place at 9.4 is now much closer than it was a month ago, and the delayed Gemini 3.5 Pro is the variable that could close it completely.",
+          "highlights": [
+            {
+              "title": "Gemini 3.7 Flash halved the price of the tier people actually use",
+              "body": "Google shipped 3.7 Flash on August 13 at $0.75 per million input tokens and $3.75 per million output, roughly half the cost of 3.6 Flash from three weeks earlier, with better coding accuracy. Cost per query decides how freely people use an assistant, and halving it changes daily behaviour more than a benchmark point does. That is why Gemini moves to 9.4."
+            },
+            {
+              "title": "Gemini Spark switching over moved a huge user base overnight",
+              "body": "Spark is Google's always-on personal agent for AI Pro and Ultra subscribers across more than 160 countries, and it started running on 3.7 Flash the same day the model launched. Model upgrades usually reach users gradually. This one arrived at scale immediately, which makes the improvement real for people rather than a benchmark table."
+            },
+            {
+              "title": "ChatGPT holds first on breadth, and that is a specific claim",
+              "body": "It is the only assistant here where voice, image generation, data analysis, and persistent memory all work well enough that a general user never opens a second tool. Breadth compounds, because every task that stays inside one interface saves the friction of context switching. That is the basis of the 9.5, not a benchmark average."
+            },
+            {
+              "title": "Claude ties at 9.5 for the opposite reason, which is depth",
+              "body": "For long documents, careful multi-step reasoning, and work where an honest statement of uncertainty matters more than a confident answer, Claude is what I reach for. A model that tells you it is unsure on an ambiguous contract clause saves more time than one that guesses well. Wide work or deep work decides which of these two you should be paying for."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Gemini 今天升到 9.4，原因是 Google 在 8 月 13 日推出的 Gemini 3.7 Flash，定價每百萬輸入 token 0.75 美元、輸出 3.75 美元，大約是三週前 3.6 Flash 的一半，而 Google 宣稱它在九項基準測試上勝過 Anthropic 與 OpenAI 的同級模型。\n\n說真的，決定一個助手你會不會整天用它的指標就是每次查詢的成本。一個你會猶豫要不要問的模型，就是一個你最後不會再打開的模型。把主力級距的價格砍半、同時把程式碼正確率拉高，這對任何在 API 上開發的人來說都是日常決策的改變。而 Google 那個橫跨 160 多國、給 AI Pro 與 Ultra 訂閱者的常駐個人代理 Gemini Spark，當天就切換到這個模型跑。這是一個巨大的既有用戶基數一夜之間換到更好的模型上。\n\nChatGPT 跟 Claude 維持並列 9.5，我想把理由講清楚。ChatGPT 守住第一靠的是廣度，它是榜上唯一語音、生圖、資料分析、記憶功能全都好用到一般使用者不需要開第二個工具的助手。Claude 拿同樣分數靠的是深度，長文件、需要謹慎推理的任務、還有那些我寧願模型說自己不確定也不要它自信亂猜的場合，我都用它。\n\n哪一個比較好，完全取決於你的工作是廣還是深。Gemini 第三名 9.4，跟一個月前比距離已經拉近很多，而延宕中的 Gemini 3.5 Pro 就是那個可能把差距完全補平的變數。",
+          "highlights": [
+            {
+              "title": "Gemini 3.7 Flash 把大家真正在用的那一階價格砍半",
+              "body": "Google 在 8 月 13 日推出 3.7 Flash，每百萬輸入 token 0.75 美元、輸出 3.75 美元，大約是三週前 3.6 Flash 的一半，程式碼正確率還更高。每次查詢的成本決定人們用得多自由，砍半對日常行為的影響大過基準測試上多那一分。這就是 Gemini 升到 9.4 的原因。"
+            },
+            {
+              "title": "Gemini Spark 一併切換，等於一夜之間搬動了龐大用戶基數",
+              "body": "Spark 是 Google 面向 160 多國 AI Pro 與 Ultra 訂閱者的常駐個人代理，模型發表當天就切換到 3.7 Flash 上跑。模型升級通常是慢慢分批推送，這次是立刻大規模到位，讓改進對真實使用者有感，而不只是留在基準測試表格裡。"
+            },
+            {
+              "title": "ChatGPT 守住第一靠的是廣度，這是一個具體的主張",
+              "body": "它是榜上唯一語音、生圖、資料分析、長期記憶全都好用到一般使用者不會去開第二個工具的助手。廣度會複利，因為每一件能留在同一個介面裡完成的事，都省下了切換情境的摩擦。9.5 是這樣來的，不是基準測試的平均值。"
+            },
+            {
+              "title": "Claude 並列 9.5 靠的是相反的東西，深度",
+              "body": "長文件、需要多步謹慎推理的任務、以及那些誠實說不確定比給出自信答案更重要的場合，我都用它。一個在模糊的合約條款上告訴你它不確定的模型，省下來的時間比一個猜得很準的模型還多。工作是廣還是深，決定你該為這兩個之中的哪一個付錢。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

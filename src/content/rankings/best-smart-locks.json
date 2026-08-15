@@ -4463,6 +4463,187 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-15",
+      "rankings": [
+        {
+          "id": "aqara-u400",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "security": 9.3,
+            "access": 9.7,
+            "smartHome": 9.7,
+            "value": 8.6,
+            "install": 8.8
+          }
+        },
+        {
+          "id": "schlage-encode-plus",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "security": 9.6,
+            "access": 8.6,
+            "smartHome": 9.0,
+            "value": 8.4,
+            "install": 9.0
+          }
+        },
+        {
+          "id": "yale-assure-lock-2-plus",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "security": 8.8,
+            "access": 8.8,
+            "smartHome": 9.1,
+            "value": 8.5,
+            "install": 8.9
+          }
+        },
+        {
+          "id": "ultraloq-u-bolt-pro-wifi",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "security": 8.6,
+            "access": 9.2,
+            "smartHome": 8.2,
+            "value": 8.8,
+            "install": 8.6
+          }
+        },
+        {
+          "id": "switchbot-lock-ultra",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "security": 8.0,
+            "access": 9.0,
+            "smartHome": 8.4,
+            "value": 9.2,
+            "install": 9.4
+          }
+        },
+        {
+          "id": "eufy-smart-lock-e130",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "security": 8.4,
+            "access": 8.6,
+            "smartHome": 8.2,
+            "value": 9.0,
+            "install": 8.4
+          }
+        },
+        {
+          "id": "level-lock-plus",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "security": 8.2,
+            "access": 7.6,
+            "smartHome": 8.8,
+            "value": 7.6,
+            "install": 8.6
+          }
+        },
+        {
+          "id": "august-wifi-smart-lock-4th-gen",
+          "rank": 8,
+          "score": 8.1,
+          "scores": {
+            "security": 7.8,
+            "access": 7.8,
+            "smartHome": 8.6,
+            "value": 8.4,
+            "install": 9.2
+          }
+        },
+        {
+          "id": "wyze-lock-bolt",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "security": 7.6,
+            "access": 8.4,
+            "smartHome": 7.2,
+            "value": 9.6,
+            "install": 8.4
+          }
+        },
+        {
+          "id": "lockly-vision-elite",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "security": 8.6,
+            "access": 8.8,
+            "smartHome": 7.4,
+            "value": 6.8,
+            "install": 7.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Smart Home Security in 2026: Ring, Nest, Smart Locks",
+          "url": "https://digitalshieldpro.com/posts/smart-home-security-2026/",
+          "source": "Digital Shield Pro"
+        },
+        {
+          "title": "The Ultimate Ring vs Nest vs Arlo Review",
+          "url": "https://www.penbrief.com/ring-vs-nest-arlo-review/",
+          "source": "PenBrief"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Aqara U400 holds first at 9.4 and the reason is that it covers every realistic entry method without compromising the mechanical lock underneath. Fingerprint, PIN, NFC card, app, Apple Home Key, and a physical key as the fallback, with Matter over Thread for local operation that does not depend on the internet. That last point deserves emphasis. A lock that requires a cloud service to open is a lock that fails when your router does, and local operation over Thread means the keypad and fingerprint reader work regardless of connectivity. For a device whose failure mode is being locked out of your own home, that architecture matters more than any feature count. Schlage Encode Plus second at 9.1 has the strongest mechanical security rating here, which is worth remembering because a smart lock is still fundamentally a lock and the electronics do not improve the deadbolt. Yale Assure Lock 2 Plus third at 8.9. My practical advice for Taiwan is specific and important: measure your door before ordering anything. Taiwanese door thickness, backset dimensions, and the prevalence of gate-and-inner-door arrangements mean many international smart locks do not fit without modification, and a lock that requires drilling a security door is a job for a locksmith. Confirm compatibility with a local dealer rather than assuming a standard fit. Also keep the physical key somewhere outside the house. No rank or score changes today.",
+          "highlights": [
+            {
+              "title": "Local operation over Thread means the lock works when the internet does not",
+              "body": "A lock depending on a cloud service fails when your router does, and for a device whose failure mode is being locked out of your own home, that is unacceptable. The Aqara U400 runs Matter over Thread so the keypad and fingerprint reader work regardless of connectivity, which is the core of first place at 9.4."
+            },
+            {
+              "title": "Measure your door before ordering anything",
+              "body": "Taiwanese door thickness, backset dimensions, and common gate-and-inner-door arrangements mean many international smart locks do not fit without modification, and drilling a security door is a locksmith job. Confirm compatibility with a local dealer rather than assuming a standard fit, because a returned lock costs shipping both ways."
+            },
+            {
+              "title": "A smart lock is still a lock, so check the mechanical rating",
+              "body": "The electronics do not improve the deadbolt, and Schlage Encode Plus carries the strongest mechanical security rating on this board. If the physical security of the door is your actual concern rather than convenience, that rating deserves more weight than the feature list, and 9.1 reflects genuine hardware quality."
+            },
+            {
+              "title": "Keep a physical key somewhere outside the house",
+              "body": "Every smart lock has a failure mode, whether that is a flat battery, a firmware problem, or a failed motor, and the recovery path is a physical key you cannot reach if it is inside. Leave one with a neighbour or in a secured location outside. This costs nothing and prevents the one genuinely bad outcome."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Aqara U400 續坐第一 9.4，理由是它涵蓋了所有實際會用到的開門方式，同時沒有犧牲底下那把機械鎖。\n\n指紋、密碼、NFC 卡、App、Apple Home Key，還有實體鑰匙當後備，並以 Matter over Thread 走本地運作，不依賴網際網路。\n\n最後這一點值得強調。一把要靠雲端服務才能開的鎖，就是一把在你路由器掛掉時會失效的鎖，而走 Thread 的本地運作代表鍵盤跟指紋辨識不管網路狀況如何都能用。對一個失效模式是「被鎖在自己家門外」的裝置來說，這個架構比任何功能數量都重要。\n\nSchlage Encode Plus 第二 9.1，機械安全等級是榜上最高的，這件事值得記住，因為智慧鎖本質上還是一把鎖，電子零件並不會讓門閂變得更堅固。Yale Assure Lock 2 Plus 第三 8.9。\n\n給台灣的建議很具體也很重要，下單前先量你家的門。台灣的門厚、鎖心距、以及很常見的鐵門加內門配置，讓不少國際品牌智慧鎖沒辦法不改裝就裝上去，而在防盜門上鑽孔是鎖匠的工作。跟本地經銷商確認相容性，不要假設標準尺寸。另外，實體鑰匙請放一把在家門外。今天名次分數不動。",
+          "highlights": [
+            {
+              "title": "走 Thread 的本地運作，代表網路掛了鎖還能用",
+              "body": "依賴雲端服務的鎖會在你路由器掛掉時失效，而對一個失效模式是被鎖在自家門外的裝置來說，這是不能接受的。Aqara U400 以 Matter over Thread 運作，鍵盤與指紋辨識不受網路狀況影響，這就是第一名 9.4 的核心。"
+            },
+            {
+              "title": "下單前先量你家的門",
+              "body": "台灣的門厚、鎖心距、以及常見的鐵門加內門配置，讓不少國際品牌智慧鎖不改裝就裝不上去，而在防盜門上鑽孔是鎖匠的工作。跟本地經銷商確認相容性，不要假設標準尺寸，因為退貨的來回運費不便宜。"
+            },
+            {
+              "title": "智慧鎖終究是一把鎖，機械等級要看",
+              "body": "電子零件並不會讓門閂變堅固，而 Schlage Encode Plus 的機械安全等級是榜上最高的。如果你真正在意的是門的實體防護而不是便利性，這個等級的權重該高過功能表，9.1 反映的是真實的硬體品質。"
+            },
+            {
+              "title": "在家門外放一把實體鑰匙",
+              "body": "每一把智慧鎖都有失效模式，可能是沒電、韌體出問題、或馬達壞掉，而復原的路徑是一把你在門外構不到的實體鑰匙。放一把在鄰居那裡或門外的安全處。這件事不花錢，卻能避開唯一真正糟糕的結果。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -904,6 +904,228 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-15",
+      "rankings": [
+        {
+          "id": "dexcom-stelo",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "accuracy": 9.2,
+            "wearTime": 9.3,
+            "dailyCost": 9.5,
+            "app": 8.5,
+            "coaching": 7.0
+          }
+        },
+        {
+          "id": "dexcom-g7-15-day",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "accuracy": 9.8,
+            "wearTime": 9.3,
+            "dailyCost": 7.8,
+            "app": 9.0,
+            "coaching": 8.5
+          }
+        },
+        {
+          "id": "abbott-lingo",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "accuracy": 9.0,
+            "wearTime": 8.8,
+            "dailyCost": 8.6,
+            "app": 9.2,
+            "coaching": 8.0
+          }
+        },
+        {
+          "id": "dexcom-g7",
+          "rank": 4,
+          "score": 8.9,
+          "scores": {
+            "accuracy": 9.6,
+            "wearTime": 8.5,
+            "dailyCost": 6.5,
+            "app": 9.0,
+            "coaching": 8.5
+          }
+        },
+        {
+          "id": "freestyle-libre-3-plus",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "accuracy": 9.3,
+            "wearTime": 9.3,
+            "dailyCost": 8.0,
+            "app": 8.5,
+            "coaching": 8.0
+          }
+        },
+        {
+          "id": "eversense-365",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "accuracy": 8.9,
+            "wearTime": 10.0,
+            "dailyCost": 7.6,
+            "app": 8.2,
+            "coaching": 8.0
+          }
+        },
+        {
+          "id": "levels",
+          "rank": 7,
+          "score": 8.5,
+          "scores": {
+            "accuracy": 8.8,
+            "wearTime": 8.8,
+            "dailyCost": 6.0,
+            "app": 9.4,
+            "coaching": 8.2
+          }
+        },
+        {
+          "id": "nutrisense",
+          "rank": 8,
+          "score": 8.4,
+          "scores": {
+            "accuracy": 8.8,
+            "wearTime": 8.5,
+            "dailyCost": 6.2,
+            "app": 8.8,
+            "coaching": 9.5
+          }
+        },
+        {
+          "id": "veri",
+          "rank": 9,
+          "score": 8.3,
+          "scores": {
+            "accuracy": 9.0,
+            "wearTime": 8.6,
+            "dailyCost": 8.2,
+            "app": 9.0,
+            "coaching": 7.6
+          }
+        },
+        {
+          "id": "signos",
+          "rank": 10,
+          "score": 8.2,
+          "scores": {
+            "accuracy": 8.6,
+            "wearTime": 8.5,
+            "dailyCost": 6.0,
+            "app": 8.9,
+            "coaching": 8.5
+          }
+        },
+        {
+          "id": "ultrahuman-m1",
+          "rank": 11,
+          "score": 8.0,
+          "scores": {
+            "accuracy": 8.4,
+            "wearTime": 8.2,
+            "dailyCost": 6.8,
+            "app": 8.8,
+            "coaching": 7.5
+          }
+        },
+        {
+          "id": "sibionics-gs3",
+          "rank": 12,
+          "score": 7.8,
+          "scores": {
+            "accuracy": 8.0,
+            "wearTime": 8.2,
+            "dailyCost": 8.8,
+            "app": 7.8,
+            "coaching": 6.5
+          }
+        },
+        {
+          "id": "january-ai",
+          "rank": 13,
+          "score": 7.5,
+          "scores": {
+            "accuracy": 7.0,
+            "wearTime": 7.0,
+            "dailyCost": 9.2,
+            "app": 8.6,
+            "coaching": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "FDA Clears First Over-the-Counter Continuous Glucose Monitor",
+          "url": "https://www.fda.gov/news-events/press-announcements/fda-clears-first-over-counter-continuous-glucose-monitor",
+          "source": "U.S. FDA"
+        },
+        {
+          "title": "Tech Watch: The Latest in Diabetes Tech News",
+          "url": "https://diatribe.org/diabetes-technology/tech-watch-diabetes-tech-news",
+          "source": "diaTribe"
+        },
+        {
+          "title": "Abbott and Dexcom are launching the first over-the-counter CGMs",
+          "url": "https://www.medtechdive.com/news/abbott-dexcom-over-the-counter-cgm-launch/719928/",
+          "source": "MedTech Dive"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Two things happened in this category this month that a buyer needs to know, and only one of them affects the ranking. The first is Dexcom's public warning that certain G7 sensor lots which were designated for destruction were stolen during the scrap process and resold through third-party sellers. That is a supply chain integrity problem, and my practical advice is direct: buy G7 and Stelo sensors from the pharmacy counter, Dexcom directly, or a named retail account, and check the lot number against Dexcom's notice before you apply one. A sensor that sat in an uncontrolled environment can read accurately for a day and then drift, which is the worst possible failure mode for something you dose or eat by. This does not change my scores, because the devices themselves are unaffected, and it should not push anyone off a platform that works for them. The second development is Abbott's CE Mark for Libre Duo, a dual glucose and ketone sensor measuring both every minute. Ketone visibility matters most for anyone on an insulin pump or a GLP-1, where rising ketones are the early signal of a problem that a glucose curve alone will show too late. That is a European clearance today, so it stays off this board until a US pathway is visible, but it tells you where Abbott is taking the platform. Stelo holds first at 9.3 because it remains the cheapest legitimate entry into continuous data with no prescription, 15 day wear, and readings every 15 minutes. Dexcom G7 15 Day stays second at 9.1 for anyone who needs one minute granularity and pump integration. Abbott Lingo third at 9.0. No changes to ranks or scores today.",
+          "highlights": [
+            {
+              "title": "Buy your G7 and Stelo sensors from a controlled channel this month",
+              "body": "Dexcom has warned that G7 sensor lots designated as scrap were stolen during destruction and sold on by third parties. A sensor stored outside spec can track well for a day and then drift, which is the failure mode that matters most when you are eating or dosing off the number. Pharmacy counter, Dexcom direct, or a named retail account, and check the lot against Dexcom's published notice."
+            },
+            {
+              "title": "Stelo is still the correct first CGM for a non-insulin user",
+              "body": "No prescription, 15 days of wear per sensor, a reading every 15 minutes, and the lowest cost per day of continuous data on this board. For someone whose goal is to learn how their own meals move their glucose, that resolution is sufficient and the price is what makes a full year of wearing it realistic. 9.3 stands."
+            },
+            {
+              "title": "Libre Duo signals where the platform is heading, and it is ketones",
+              "body": "Abbott's CE Mark for Libre Duo covers continuous glucose and ketone measurement every minute. For pump users and anyone on a GLP-1, rising ketones are an earlier and more actionable warning than the glucose curve alone. This is a European clearance, so it stays off the board until a US pathway is visible, but it is the most important product signal in this category right now."
+            },
+            {
+              "title": "The G7 15 Day still owns the case where minutes matter",
+              "body": "One minute sampling and direct pump integration are the two things that separate a management device from a learning device. Anyone dosing insulin against the curve needs the tighter sampling interval to catch a fast drop before it becomes a low. That is the whole reason the G7 15 Day sits at 9.1 above the cheaper options."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這個月這個品類發生兩件事，買家都該知道，但只有一件會影響排名。\n\n第一件是 Dexcom 公開警告，有部分原本要銷毀的 G7 感測器批號在報廢流程中被偷走，然後透過第三方賣家流入市面。這是供應鏈完整性的問題，我的建議很直接，G7 跟 Stelo 一律去藥局櫃檯、Dexcom 官方、或有名有姓的正規通路買，貼上去之前先把批號跟 Dexcom 的公告對一次。在失控環境放過的感測器，可能第一天讀數正常、第二天開始漂移，對一個你要照著它吃東西或打胰島素的裝置來說，這是最糟的失效模式。這件事不影響我的評分，因為裝置本身沒問題，也不該讓任何人放棄一個原本用得好好的平台。\n\n第二件是 Abbott 的 Libre Duo 拿到 CE 認證，血糖跟酮體每分鐘同時量測。酮體對用幫浦的人跟正在用 GLP-1 的人最有價值，酮體上升是問題的早期訊號，光看血糖曲線通常已經太晚。目前這是歐洲認證，美國路徑還沒明朗前不會進榜，不過它清楚說明 Abbott 要把平台帶去哪裡。\n\nStelo 續坐第一 9.3，免處方、單片 15 天、每 15 分鐘一筆，依然是取得連續數據最便宜的正規入口。G7 15 Day 第二 9.1，需要一分鐘解析度跟幫浦整合的人選它。Abbott Lingo 第三 9.0。今天名次分數都不動。",
+          "highlights": [
+            {
+              "title": "這個月買 G7 跟 Stelo，請認明正規通路",
+              "body": "Dexcom 已經公告，有原本要銷毀的 G7 批號在報廢過程被偷走並流入第三方賣家。存放條件失控的感測器可能第一天正常、之後開始漂移，而這正是你照著數字吃飯或打針時最危險的狀況。藥局櫃檯、Dexcom 官方、或有名有姓的正規通路，貼上去前先對一次批號。"
+            },
+            {
+              "title": "沒在打胰島素的人，第一台 CGM 就選 Stelo",
+              "body": "免處方、單片撐 15 天、每 15 分鐘一筆數據，每日成本是榜上最低。對目標是搞懂自己吃什麼會讓血糖怎麼跑的人來說，這個解析度完全夠用，而價格才是讓人真的能連續戴滿一年的關鍵。9.3 站得住。"
+            },
+            {
+              "title": "Libre Duo 講明了平台的下一步是酮體",
+              "body": "Abbott 的 Libre Duo 拿到 CE 認證，血糖與酮體每分鐘各量一次。對幫浦使用者跟正在用 GLP-1 的人來說，酮體上升比血糖曲線更早、也更可以行動。這是歐洲認證，美國路徑明朗前不進榜，但它是目前這個品類最重要的產品訊號。"
+            },
+            {
+              "title": "分秒必爭的情境，G7 15 Day 依然無可取代",
+              "body": "一分鐘取樣加上直接幫浦整合，這兩件事把管理型裝置跟學習型裝置分了開來。要照著曲線打胰島素的人，需要更密的取樣間隔才能在急降變成低血糖之前攔下來。這就是 G7 15 Day 能以 9.1 壓過那些更便宜選項的全部理由。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

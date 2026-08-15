@@ -13725,6 +13725,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-15",
+      "rankings": [
+        {
+          "id": "suno-v5",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "audioQuality": 9.7,
+            "vocalRealism": 9.4,
+            "editingControl": 9.6,
+            "commercialLicense": 7.5,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "elevenlabs-music",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "audioQuality": 9.3,
+            "vocalRealism": 9.7,
+            "editingControl": 8.7,
+            "commercialLicense": 9.8,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "lyria-3-pro",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 8.6,
+            "editingControl": 8.4,
+            "commercialLicense": 9.5,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "udio",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "audioQuality": 9.6,
+            "vocalRealism": 9.5,
+            "editingControl": 9.8,
+            "commercialLicense": 7.7,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 7.0,
+            "editingControl": 8.6,
+            "commercialLicense": 9.5,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "riffusion",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "audioQuality": 8.2,
+            "vocalRealism": 7.8,
+            "editingControl": 8.5,
+            "commercialLicense": 8.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "soundraw",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "audioQuality": 8.0,
+            "vocalRealism": 6.5,
+            "editingControl": 7.5,
+            "commercialLicense": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aiva",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 6.8,
+            "editingControl": 7.8,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "mubert",
+          "rank": 9,
+          "score": 7.3,
+          "scores": {
+            "audioQuality": 7.5,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "loudly",
+          "rank": 10,
+          "score": 7.0,
+          "scores": {
+            "audioQuality": 7.3,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "boomy",
+          "rank": 11,
+          "score": 6.8,
+          "scores": {
+            "audioQuality": 6.8,
+            "vocalRealism": 6.5,
+            "editingControl": 6.8,
+            "commercialLicense": 8.5,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Latest AI Model Releases: August 2026",
+          "url": "https://aireleasetracker.com/latest",
+          "source": "AI Release Tracker"
+        },
+        {
+          "title": "New AI Model Releases: August 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        },
+        {
+          "title": "Latest AI Developments: August 2026 Update",
+          "url": "https://local-ai-zone.github.io/blog/ai-updates-august-2026.html",
+          "source": "Local AI Zone"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Suno v5 keeps first at 9.4 and I want to explain the ranking through the lens that actually matters for anyone using these tools commercially, which is the licence rather than the audio. A generated track you cannot legally use in a client video is worth nothing regardless of how good it sounds, and the licensing terms across this board vary far more than the audio quality does. Suno's paid tiers grant commercial use of what you generate, and that clarity is a large part of why it stays on top. On the audio itself, v5 produces the most convincing full arrangements here, meaning a track where the drums, bass, and vocal actually sit together in a mix rather than sounding layered on top of each other. Vocal realism is where the gap is widest, and Suno's vocals hold pitch and phrasing through a full verse without the artefacts that give the game away in the first eight bars. ElevenLabs Music at 9.2 is the one I recommend for anyone who needs precise control over structure, since its editing tools let you regenerate a section without rebuilding the whole track. That workflow difference matters enormously when a client asks for a change to the bridge. Lyria 3 Pro third at 8.6 and Udio fourth at 8.5 both produce strong results with more restrictive terms, which is exactly why they sit where they do. My advice: read the licence for your specific tier before you generate anything you plan to publish. No rank or score changes today.",
+          "highlights": [
+            {
+              "title": "The licence decides the ranking more than the audio does",
+              "body": "A track you cannot legally place in a client video has no value regardless of how it sounds, and terms across this board vary far more than audio quality. Suno's paid tiers grant commercial use of your generations, and that clarity is a large part of why it holds 9.4. Read the terms for your specific tier before you generate anything you intend to publish."
+            },
+            {
+              "title": "Judge vocal realism across a full verse, not eight bars",
+              "body": "Almost every model here produces a convincing opening phrase. The artefacts appear when a vocal has to hold pitch and phrasing through an entire verse into a chorus. Suno v5 sustains it, and that endurance is what separates a usable track from a demo. Test any tool with a full-length generation before you subscribe."
+            },
+            {
+              "title": "ElevenLabs Music wins on section-level regeneration",
+              "body": "When a client asks to change the bridge, rebuilding the entire track wastes the parts that already worked. ElevenLabs lets you regenerate a section while keeping the rest intact, which changes revision from a gamble into an edit. For commissioned work with feedback rounds, that workflow is worth more than a marginal quality difference, and it earns 9.2."
+            },
+            {
+              "title": "Mix coherence is the tell that separates the top tier",
+              "body": "Weaker models produce drums, bass, and vocals that sound layered rather than performed together. Listen for whether the elements share a space, since that coherence is what makes a track pass as recorded rather than assembled. Suno v5 achieves it most consistently across genres, which is the technical basis of first place."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Suno v5 續坐第一 9.4，而我想用一個對商業使用者真正重要的角度來解釋這個排名，那就是授權，而不是音質。\n\n一首你不能合法放進客戶影片裡的曲子，聽起來再好也等於零，而榜上各家的授權條款差異，遠大於音質上的差異。Suno 的付費方案給予你生成內容的商業使用權，這份明確性佔了它續居榜首相當大的比重。\n\n回到聲音本身，v5 產出的完整編曲是榜上最有說服力的，意思是鼓、貝斯、人聲真的坐在同一個混音空間裡，而不是一層一層疊上去的感覺。人聲真實度是差距最大的一項，Suno 的人聲能撐完整段主歌都保持音準與咬字，不會在前八小節就露出破綻。\n\nElevenLabs Music 9.2，需要精確控制結構的人我推它，因為它的編輯工具可以只重生某一段而不用重建整首。客戶說「橋段幫我改一下」的時候，這個工作流差異的價值非常巨大。\n\nLyria 3 Pro 第三 8.6、Udio 第四 8.5，兩者的成品都不錯，但條款比較嚴格，這正是它們坐在那個位置的原因。\n\n我的建議是，在生成任何你打算發布的東西之前，先把你那一階方案的授權條款讀完。今天名次分數不動。",
+          "highlights": [
+            {
+              "title": "決定排名的是授權，不是音質",
+              "body": "一首不能合法放進客戶影片的曲子，聽起來再好也沒有價值，而榜上各家條款的差異遠大於音質差異。Suno 的付費方案給予生成內容的商業使用權，這份明確性佔了 9.4 相當大的比重。在生成任何你要發布的東西之前，先讀你那一階方案的條款。"
+            },
+            {
+              "title": "人聲真實度要用一整段主歌來評判，不是八小節",
+              "body": "榜上幾乎每個模型都做得出一句有說服力的開頭。破綻出現在人聲要撐完整段主歌、再進副歌的時候。Suno v5 撐得住，而這份耐力就是可用曲目跟試聽 demo 的分界。訂閱之前，請用完整長度生成測一次。"
+            },
+            {
+              "title": "ElevenLabs Music 贏在可以單獨重生某一段",
+              "body": "客戶說橋段要改的時候，重建整首等於把原本已經對的部分一起丟掉。ElevenLabs 讓你只重生某一段、其餘保持不變，把改稿從一次賭博變成一次編輯。對於有來回修改的委託案來說，這個工作流的價值高過音質上那一點差距，9.2 拿得很合理。"
+            },
+            {
+              "title": "混音一體感是分辨頂級與其他的關鍵",
+              "body": "較弱的模型產出的鼓、貝斯、人聲聽起來是疊上去的，不是一起演奏出來的。聽的時候注意各個元素有沒有共處在同一個空間裡，這份一體感才是讓一首曲子聽起來像錄出來的、而不是組出來的關鍵。Suno v5 跨曲風做得最穩定，這就是第一名的技術根據。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
