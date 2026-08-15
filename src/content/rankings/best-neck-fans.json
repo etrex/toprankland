@@ -183,7 +183,7 @@
       "id": "torras-coolite",
       "name": "Torras COOLiTE",
       "brand": "Torras",
-      "url": "https://coolify.torraslife.com/products/torras-coolite",
+      "url": "https://coolify.torraslife.com/products/coolite-portable-neck-fan",
       "i18n": {
         "en": {
           "description": "Torras's 2026 pure-fan pick: a 4-fan longitudinal-duct design pushing 3.0 m/s across 360 degrees, 290g and foldable, with 13 hours of runtime.",
@@ -192,6 +192,22 @@
         "zh-tw": {
           "description": "Torras 2026 純風扇路線的代表作，四風扇縱向導風設計吹出 3.0 m/s 的 360 度環繞風，機身只有 290 克還能對折收納，續航撐得住一整天 13 小時。",
           "priceRange": "約 NT$2,190"
+        }
+      }
+    },
+    {
+      "id": "ranvoo-aice-lite-max",
+      "name": "RANVOO AICE Lite Max",
+      "brand": "RANVOO",
+      "url": "https://ranvoo.com/products/aice-lite-max-wearable-neck-air-conditioner-personal-portable-cooling-neck-fan",
+      "i18n": {
+        "en": {
+          "description": "A true wearable AC with a 15,020mm2 cooling plate that holds around 59F against the neck, a 6000mAh cell good for up to 30 hours in fan mode, app control with AI auto-adjust, and a fit range from 8 to 24 inches.",
+          "priceRange": "$194"
+        },
+        "zh-tw": {
+          "description": "貨真價實的穿戴式冷氣，15,020 平方毫米的冷卻板貼著後頸維持在約 15 度，6000mAh 電池在純送風模式下最長 30 小時，App 連線加 AI 自動調溫，頸圍 8 到 24 吋都戴得下。",
+          "priceRange": "約 NT$6,090"
         }
       }
     }
@@ -4662,8 +4678,20 @@
           }
         },
         {
-          "id": "torras-coolify-2s-pro",
+          "id": "ranvoo-aice-lite-max",
           "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "cooling": 9.7,
+            "comfort": 8.6,
+            "battery": 9.8,
+            "noise": 8.4,
+            "value": 8.6
+          }
+        },
+        {
+          "id": "torras-coolify-2s-pro",
+          "rank": 4,
           "score": 8.9,
           "scores": {
             "cooling": 9.2,
@@ -4675,7 +4703,7 @@
         },
         {
           "id": "torras-coolify-air-2026",
-          "rank": 4,
+          "rank": 5,
           "score": 8.4,
           "scores": {
             "cooling": 8.4,
@@ -4687,7 +4715,7 @@
         },
         {
           "id": "torras-coolite",
-          "rank": 5,
+          "rank": 6,
           "score": 8.3,
           "scores": {
             "cooling": 8.2,
@@ -4699,7 +4727,7 @@
         },
         {
           "id": "gulaki-neck-fan",
-          "rank": 6,
+          "rank": 7,
           "score": 8.1,
           "scores": {
             "cooling": 7.6,
@@ -4711,7 +4739,7 @@
         },
         {
           "id": "jisulife-neck-fan-pro",
-          "rank": 7,
+          "rank": 8,
           "score": 7.9,
           "scores": {
             "cooling": 7.8,
@@ -4723,7 +4751,7 @@
         },
         {
           "id": "jisulife-neck-fan-3",
-          "rank": 8,
+          "rank": 9,
           "score": 7.5,
           "scores": {
             "cooling": 7.4,
@@ -4735,7 +4763,7 @@
         },
         {
           "id": "amacool-bladeless-neck-fan",
-          "rank": 9,
+          "rank": 10,
           "score": 7.1,
           "scores": {
             "cooling": 7.0,
@@ -4747,7 +4775,7 @@
         },
         {
           "id": "jisulife-neck-fan-life5",
-          "rank": 10,
+          "rank": 11,
           "score": 6.8,
           "scores": {
             "cooling": 6.8,
@@ -4759,7 +4787,7 @@
         },
         {
           "id": "civpower-neck-fan",
-          "rank": 11,
+          "rank": 12,
           "score": 6.4,
           "scores": {
             "cooling": 6.4,
