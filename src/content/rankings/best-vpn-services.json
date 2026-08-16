@@ -14455,6 +14455,168 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-16",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best No-Logs VPNs in 2026 (Only 7 Proven & Verified)",
+          "url": "https://cyberinsider.com/vpn/best/no-logs-vpn/",
+          "source": "CyberInsider"
+        },
+        {
+          "title": "A List Of VPN Providers With Public Audits In 2026",
+          "url": "https://greycoder.com/a-list-of-vpn-providers-with-public-audits/",
+          "source": "GreyCoder"
+        },
+        {
+          "title": "NordVPN vs Proton VPN vs Mullvad (2026): Three Trust Models, No Universal Winner",
+          "url": "https://www.thevpnmatrix.com/blog/privacy-trinity",
+          "source": "The VPN Matrix"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Mullvad and ProtonVPN both sit at 9.2, and the audit record published across 2026 explains why I keep them side by side rather than picking a winner. Proton has now completed five consecutive annual no-logs audits with Securitum covering 2022 through 2026, and it holds a SOC 2 Type II attestation on top of that. Five years in a row is the part that counts. A single audit proves a snapshot, an unbroken annual cadence proves a process, and a process is what survives staff turnover and infrastructure changes.\n\nMullvad keeps first place on a different theory of trust. It has been through eight or more independent audits from Cure53 and NCC Group, and the design goal behind them is that there is very little to find. Account numbers replace email addresses, cash payment is accepted, and the service never asks who you are. A 9.5 on price reflects the flat monthly rate that has not moved in years, which also means no renewal price jump waiting for you at month thirteen.\n\nNordVPN third at 8.8 has the deepest paper trail in the industry, with Deloitte running successive bare metal audits across 2022, 2023, and 2024 and publishing another milestone in February 2026. Six audits since 2018 is a genuine record, and combined with a 9.3 speed score it makes Nord the pick when throughput matters as much as policy.\n\nThe useful framing from this year's coverage is that these three represent distinct trust models. Mullvad minimises what exists, Proton verifies annually under Swiss jurisdiction, Nord proves scale and speed. Pick the model that matches your threat, then check that the audit is recent. No rank or score changes today.",
+          "highlights": [
+            {
+              "title": "Five consecutive audits proves a process, not a snapshot",
+              "body": "ProtonVPN has completed annual Securitum no-logs reviews every year from 2022 through 2026, plus a SOC 2 Type II attestation. Any provider can pass once. An unbroken five year cadence is evidence the internal controls survive staff and infrastructure change. That is why Proton holds 9.5 on privacy and second at 9.2."
+            },
+            {
+              "title": "Mullvad's defence is having nothing to hand over",
+              "body": "Account numbers instead of email addresses, cash accepted by post, and no identity ever requested. Eight or more audits from Cure53 and NCC Group keep confirming the same thing. First place at 9.2 with a 9.8 privacy score reflects a design where minimising collected data does more work than any policy promise."
+            },
+            {
+              "title": "NordVPN owns the throughput case",
+              "body": "Deloitte has run successive bare metal audits across 2022, 2023 and 2024 with a further milestone published in February 2026, making six audits since 2018. Combined with a 9.3 speed score and a 9.6 server network, Nord is the choice when you are moving large amounts of data and still want a documented policy behind it."
+            },
+            {
+              "title": "Pick the trust model, then check the date",
+              "body": "This year's comparisons converge on three distinct approaches: minimise the data, verify it annually, or prove it at scale. Each is legitimate and each suits a different user. Whichever you choose, confirm the most recent audit is from the current year, because an audit from four years ago describes a company that no longer exists."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Mullvad 跟 ProtonVPN 同樣 9.2，2026 年陸續公布的稽核紀錄，剛好解釋了我為什麼一直把這兩家並排放、不硬選一個冠軍。\n\nProton 現在已經完成第五次連續年度無紀錄稽核，由 Securitum 執行，涵蓋 2022 到 2026，另外還握有 SOC 2 Type II 認證。重點在「連續五年」這四個字。單一次稽核證明的是某個時間點的快照，年年不中斷才證明背後有一套流程在跑，而流程才是人員異動、機房換代之後還留得下來的東西。\n\nMullvad 守住第一，靠的是另一種信任邏輯：讓可以被查到的東西一開始就很少。用帳號編號取代 email，接受現金付款，全程不問你是誰，Cure53 跟 NCC Group 前後做過八次以上的獨立稽核也都指向同一件事。價格拿 9.5 是因為它多年來就是一個月一個固定價，講白了，第十三個月不會突然跳一個續約價出來咬你一口。\n\nNordVPN 第三 8.8，紙本證據是全業界最厚的一疊。Deloitte 在 2022、2023、2024 連續做了裸機稽核，2026 年二月又發了一份新的里程碑報告，從 2018 算起總共六次。搭配速度 9.3，你要的是大流量還要有白紙黑字的政策，選它很合理。\n\n今年這一輪報導最有用的一句話是：這三家代表三種不同的信任模型。挑跟你的威脅情境對得上的那一種，然後確認稽核日期夠新。今天名次分數都不動。",
+          "highlights": [
+            {
+              "title": "連續五年，證明的是流程",
+              "body": "ProtonVPN 從 2022 到 2026 每年都完成 Securitum 的無紀錄稽核，另外還有 SOC 2 Type II。任何一家業者都可能過一次，五年不中斷才代表內控撐得過人員異動跟基礎架構換代。這就是它隱私拿 9.5、總分 9.2 排第二的底氣。"
+            },
+            {
+              "title": "Mullvad 的防線是「手上根本沒東西可以交」",
+              "body": "用帳號編號取代 email，可以寄現金付款，全程不問你是誰。Cure53 跟 NCC Group 八次以上的獨立稽核反覆確認同一件事。第一名 9.2、隱私 9.8，靠的是把蒐集到的資料降到最低這個設計本身，比任何政策承諾都實在。"
+            },
+            {
+              "title": "要速度跟規模，NordVPN 這一票投得下去",
+              "body": "Deloitte 在 2022、2023、2024 連做裸機稽核，2026 年二月再發一份，從 2018 起算六次。配上速度 9.3、伺服器網路 9.6，你如果每天在搬大量資料又想要有稽核背書，它就是那個答案。"
+            },
+            {
+              "title": "先挑信任模型，再看日期",
+              "body": "今年各家比較文的共識是三條路線：把資料減到最少、每年驗一次、用規模證明。三種都成立，各自適合不同的人。無論你挑哪一種，記得確認最新稽核是今年的，四年前的報告描述的是一家已經不存在的公司了。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -19362,6 +19362,236 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-16",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Coding Agents (August 2026): Scored Leaderboard",
+          "url": "https://www.morphllm.com/best-ai-coding-agents-2026",
+          "source": "Morph"
+        },
+        {
+          "title": "Cursor, Claude Code, and Codex are merging into one AI coding stack nobody planned",
+          "url": "https://thenewstack.io/ai-coding-tool-stack/",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Best AI Coding Tools July 2026: Updated After Opus 5 and Fable 5 API-Only",
+          "url": "https://www.developersdigest.tech/blog/best-ai-coding-tools-june-2026-post-fable5",
+          "source": "Developers Digest"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Cursor moves up to 9.1 today on the back of v3.11, which added Side Chats for parallel agent conversations, Conversation Search across your history, and Cloud Agent Hooks. Side Chats is the one that changes daily practice. Running a refactor in the main thread while asking a second question about a different file, without losing either context, is the kind of ergonomic detail that compounds over a working week. IDE integration goes to 9.6 and the overall to 9.1, which ties it with Codex at third.\n\nClaude Code stays first at 9.5. Opus 5 shipped on July 24 and posts 89.1 percent on Terminal-Bench 2.1 at maximum effort, the highest figure in the current round of published leaderboards. What keeps it at the top for me is the harness rather than the raw number. Hooks, subagents, Agent Teams and the most mature MCP support mean the thing can be shaped around an existing codebase instead of the other way round. A 9.7 agentic score and 9.8 on code quality reflect that.\n\nOpenAI Codex holds second at 9.1 and now defaults to gpt-5.6-sol after GPT-5.6 went generally available on July 9, with the July 30 price cut making the cheaper tiers dramatically more attractive for high volume delegation. Codex is what I reach for when I want to hand off a well specified task and go do something else.\n\nThe New Stack made the point I keep making to teams, which is that these tools have merged into one stack nobody designed. Most engineers I know run an autocomplete tool and an agentic tool side by side. That is why Copilot at seventh still matters despite a 6.1 value score, and why Aider at eleventh keeps a 9.5 on value.",
+          "highlights": [
+            {
+              "title": "Cursor takes 9.1 on the v3.11 ergonomics",
+              "body": "Side Chats let you hold a parallel agent conversation without dropping the main thread, Conversation Search makes your own history queryable, and Cloud Agent Hooks close the automation loop. IDE integration goes to 9.6. These are small features individually and a meaningfully better working day collectively."
+            },
+            {
+              "title": "Claude Code holds first because of the harness",
+              "body": "Opus 5 shipped July 24 and posts 89.1 percent on Terminal-Bench 2.1 at maximum effort, the top published figure right now. The reason it stays first is hooks, subagents, Agent Teams and mature MCP support, which let the tool be shaped around an existing repository. That is what the 9.7 agentic score is measuring."
+            },
+            {
+              "title": "Codex is the delegation tool after the July price cut",
+              "body": "GPT-5.6 went GA on July 9 and Codex now defaults to gpt-5.6-sol, while the July 30 cut made the cheaper tiers far more attractive for volume work. When I have a task specified well enough to walk away from, Codex at second with a 9.5 agentic score is where it goes."
+            },
+            {
+              "title": "Nobody planned the stack, and that is fine",
+              "body": "The New Stack described Cursor, Claude Code and Codex converging into a single workflow nobody designed, and it matches what I see on real teams. Autocomplete and agentic tools solve different problems and most engineers run both. Plan your budget around two tools rather than agonising over picking one."
+            },
+            {
+              "title": "Copilot and Aider hold their places for opposite reasons",
+              "body": "GitHub Copilot keeps seventh on a 9.5 IDE integration score, still the smoothest inline experience in the most editors. Aider sits eleventh with a 9.5 on value, an open source terminal workflow that costs whatever your API key costs. Different ends of the market, both entirely defensible buys."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "今天 Cursor 加到 9.1，理由是 v3.11。這版加了 Side Chats（可以同時開平行的 agent 對話）、跨歷史紀錄的 Conversation Search，還有 Cloud Agent Hooks。\n\n真正改變日常操作的是 Side Chats。主執行緒跑重構的同時，另一邊問另一個檔案的問題，兩邊的脈絡都不會掉，這種人體工學細節在一週的工作量裡會不斷累加。IDE 整合拉到 9.6，總分 9.1，跟 Codex 並列第三。\n\nClaude Code 續坐第一 9.5。Opus 5 在 7 月 24 日推出，Terminal-Bench 2.1 在最大 effort 下拿到 89.1%，是目前公開排行榜上最高的數字。不過讓它坐穩第一的是外圍的架構。Hooks、子代理、Agent Teams，加上最成熟的 MCP 支援，代表你可以把工具捏成貼合現有專案的形狀。代理能力 9.7、程式品質 9.8，量的就是這件事。\n\nOpenAI Codex 守第二 9.1，GPT-5.6 在 7 月 9 日全面上線後，Codex 預設換成 gpt-5.6-sol，7 月 30 日的降價又讓便宜的層級在大量委派的場景下變得很有吸引力。我手上有一個規格寫得夠清楚、可以丟著去做別的事的任務時，就是丟給它。\n\nThe New Stack 講了一件我常跟團隊講的事，這些工具已經合成了一套沒有人設計過的工作流。我認識的工程師大多是自動補全工具跟代理工具兩套併用，所以 Copilot 性價比只有 6.1 還是穩坐第七，Aider 排第十一也守著 9.5 的性價比。",
+          "highlights": [
+            {
+              "title": "Cursor 加到 9.1，靠的是 v3.11 的手感",
+              "body": "Side Chats 讓你開平行對話又不用放掉主線，Conversation Search 讓自己的歷史紀錄變成可查詢的資料，Cloud Agent Hooks 把自動化的迴圈補起來。IDE 整合拉到 9.6。單看每一項都是小功能，加起來就是明顯比較順的一天。"
+            },
+            {
+              "title": "Claude Code 守第一，關鍵在外圍架構",
+              "body": "Opus 5 在 7 月 24 日推出，Terminal-Bench 2.1 最大 effort 下 89.1%，是現在公開的最高數字。但真正守住第一的是 hooks、子代理、Agent Teams 跟成熟的 MCP 支援，讓工具能貼著現有專案長。代理能力 9.7 量的就是這個。"
+            },
+            {
+              "title": "七月降價後，Codex 是委派用的工具",
+              "body": "GPT-5.6 在 7 月 9 日全面上線，Codex 預設改成 gpt-5.6-sol，7 月 30 日的降價讓便宜層級在大量任務下非常划算。當我的任務規格寫得夠清楚、清楚到可以走開去做別的事，就是丟給第二名這台，代理能力 9.5。"
+            },
+            {
+              "title": "這套工作流沒有人設計過，這樣也很好",
+              "body": "The New Stack 說 Cursor、Claude Code、Codex 正在合成一套沒人規劃過的流程，跟我在實際團隊裡看到的一模一樣。自動補全跟代理解決的是不同的問題，多數工程師兩套都開。編預算的時候就抓兩套，不用糾結只能選一個。"
+            },
+            {
+              "title": "Copilot 跟 Aider 各憑相反的理由留在榜上",
+              "body": "GitHub Copilot 靠 9.5 的 IDE 整合守第七，行內補全的順手程度跟支援的編輯器數量還是最強。Aider 排第十一、性價比 9.5，開源的終端機流程，花費就等於你的 API 金鑰帳單。市場的兩端，兩種買法都站得住。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

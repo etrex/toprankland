@@ -12104,6 +12104,224 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-16",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 9.0,
+            "artisticQuality": 8.3,
+            "textRendering": 9.6,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.1,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "nano-banana-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Image Generators August 2026 — Midjourney, Flux, DALL-E Compared",
+          "url": "https://aiflashreport.com/ai-image-generators.html",
+          "source": "AI Flash Report"
+        },
+        {
+          "title": "Best AI Image Generators July 2026: GPT Image 2, Nano Banana Pro & FLUX.2",
+          "url": "https://www.buildmvpfast.com/articles/best-llms-2026-guide/image-generation-ai",
+          "source": "BuildMVPFast"
+        },
+        {
+          "title": "Best AI Image Generator 2026: GPT Image 2 vs 4 Rivals",
+          "url": "https://tech-insider.org/best-ai-image-generator-2026/",
+          "source": "Tech Insider"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Imagen 4 shuts down tomorrow, August 17, so it moves to eleventh at 7.6 and Krea AI takes tenth. This is a housekeeping change with a real deadline attached. If you have a production pipeline calling Imagen 4, today is the day to finish the migration. The natural landing spot is Nano Banana Pro, which runs on Google's current image stack, sits third here at 9.2, and pushes to 4096 by 4096 output. Its 9.5 text rendering and 9.3 photorealism are both better than what you are leaving behind, so this is an upgrade wearing a deadline's clothing.\n\nGPT Image 2 keeps first at 9.4 and continues to lead the Artificial Analysis Image Arena. Its 9.8 prompt accuracy is the highest number on this board, and prompt accuracy is the score that actually predicts how many generations you burn before you get the image in your head. Pair that with 9.6 text rendering and it remains the safest default for commercial work.\n\nMidjourney V8.1 holds second at 9.3. It became the default model on June 10, renders native 2048 by 2048, and standard jobs now come back four to five times faster than the previous generation. Its 9.9 artistic quality is still the highest score anywhere in this category, and for concept art and mood boards nothing else gets close.\n\nFlux 2 Pro stays fourth at 9.2 with a 9.9 photorealism score and the best value figure in the top tier at 9.5. The Dev variant being open source is why it dominates self hosted workflows. Ideogram 4.0 keeps sixth on a 9.8 text rendering score, which is the pick when your image is mostly a poster.",
+          "highlights": [
+            {
+              "title": "Imagen 4 shuts down on August 17, so finish your migration today",
+              "body": "Google's deprecation lands tomorrow, which is why Imagen 4 moves to eleventh at 7.6 and Krea AI takes tenth. Anyone with an Imagen 4 call in production needs to have switched by the time this publishes. The clean landing spot is Nano Banana Pro on the same vendor's current stack."
+            },
+            {
+              "title": "Nano Banana Pro is the upgrade path, not a consolation prize",
+              "body": "Third here at 9.2, running to 4096 by 4096, with 9.5 text rendering and 9.3 photorealism. Every one of those numbers is better than the model being retired. If a deadline is forcing your hand this week, the destination is genuinely better than the origin, which does not happen often with deprecations."
+            },
+            {
+              "title": "GPT Image 2 keeps first on the score that predicts cost",
+              "body": "A 9.8 prompt accuracy is the highest figure on this board, and prompt accuracy is what determines how many generations you burn before you land the image you pictured. Add 9.6 text rendering and it stays my default for commercial work where a retry costs client time."
+            },
+            {
+              "title": "Midjourney V8.1 owns artistic quality at 9.9",
+              "body": "Default since June 10, native 2048 by 2048, and standard jobs return four to five times faster than the previous generation. The 9.9 artistic score is the highest number in this entire category. For concept art, mood boards and anything where the brief is a feeling, this is the tool."
+            },
+            {
+              "title": "Flux 2 Pro is where self hosted workflows live",
+              "body": "A 9.9 photorealism score with the best value figure in the top tier at 9.5, and the Dev variant is open source. That combination is why every self hosted or API integrated pipeline I look at ends up on Flux. Fourth at 9.2 with the lowest running cost of the leaders is a strong place to be."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Imagen 4 明天，也就是 8 月 17 日就要關掉，所以它移到第十一名 7.6，Krea AI 遞補第十。\n\n這是一次帶著死線的整理動作。你的正式環境裡如果還有在呼叫 Imagen 4，今天就是把遷移做完的日子。最自然的落點是 Nano Banana Pro，它跑在 Google 現行的影像堆疊上，在這張榜排第三 9.2，輸出能拉到 4096 x 4096。它的文字渲染 9.5、寫實度 9.3，兩項都比你要離開的那個模型更好，所以這其實是一次穿著死線外衣的升級。\n\nGPT Image 2 續坐第一 9.4，在 Artificial Analysis Image Arena 上也還是領先。它的提示詞準確度 9.8 是全榜最高，而這個分數才是真正決定「你要燒掉幾次生成才拿到腦中那張圖」的關鍵。再加上 9.6 的文字渲染，商用工作要選一個預設值，它最安全。\n\nMidjourney V8.1 守第二 9.3。6 月 10 日成為預設模型，原生 2048 x 2048，標準任務的回圖速度是上一代的四到五倍。它的藝術性 9.9 仍然是整個品類的最高分，概念美術跟情緒板這種活，沒有第二個接近的。\n\nFlux 2 Pro 第四名 9.2，寫實度 9.9，性價比 9.5 是頂端裡最好的。Dev 版本開源，這就是它在自架流程裡稱王的原因。\n\nIdeogram 4.0 守第六，文字渲染 9.8。當你的圖基本上就是一張海報，選它。",
+          "highlights": [
+            {
+              "title": "Imagen 4 明天關閉，今天就把遷移做完",
+              "body": "Google 的下架日就是 8 月 17 日，所以 Imagen 4 移到第十一名 7.6，Krea AI 遞補第十。正式環境裡還有 Imagen 4 呼叫的人，看到這篇的時候應該已經切完了。乾淨的落點是同一家的現行堆疊 Nano Banana Pro。"
+            },
+            {
+              "title": "Nano Banana Pro 是升級，不是將就",
+              "body": "在這張榜排第三 9.2，輸出可以拉到 4096 x 4096，文字渲染 9.5、寫實度 9.3。每一項都比要退場的那顆模型好。被死線推著走的這週，終點站確實比起點好，說真的，下架公告很少有這種待遇。"
+            },
+            {
+              "title": "GPT Image 2 守第一，靠的是決定成本的那個分數",
+              "body": "提示詞準確度 9.8 是全榜最高，而這項決定你要燒幾次生成才拿到腦中那張圖。再加上文字渲染 9.6，重試一次就等於吃掉客戶時間的商用場合，我的預設值還是它。"
+            },
+            {
+              "title": "藝術性 9.9，Midjourney V8.1 獨佔",
+              "body": "6 月 10 日起成為預設模型，原生 2048 x 2048，標準任務回圖速度是上一代的四到五倍。9.9 的藝術性是整個品類的最高分。概念美術、情緒板，以及任何需求本身就是一種「感覺」的案子，用它。"
+            },
+            {
+              "title": "自架流程的家在 Flux 2 Pro",
+              "body": "寫實度 9.9，性價比 9.5 是頂端最好的一個，Dev 版本還開源。這個組合就是我看到的自架或 API 串接流程最後都收斂到 Flux 的原因。第四名 9.2，同時是領先群裡跑起來最便宜的，位置很扎實。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
