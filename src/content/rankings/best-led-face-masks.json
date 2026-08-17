@@ -59,11 +59,11 @@
       "url": "https://www.sharkninja.com/shark-cryoglow-red-blue-infrared-iqled-face-mask-under-eye-cooling---blue-frost/FW312.html",
       "i18n": {
         "en": {
-          "description": "The most versatile mask of the year, combining red, blue, and infrared light with under-eye cooling plates that actively depuff while the LEDs run, solving the one complaint every other mask ignores.",
+          "description": "The most versatile mask of the year, combining red, blue, and infrared light with under-eye cooling plates that actively depuff while the LEDs run, so one session covers tone and morning puffiness together.",
           "priceRange": "$350"
         },
         "zh-tw": {
-          "description": "今年最多功能的一款，紅光、藍光、紅外光全到位，再加上眼下冷敷板，打光的同時直接消眼周浮腫，補上了其他面膜都忽略的那個痛點。",
+          "description": "今年最多功能的一款，紅光、藍光、紅外光全到位，再加上眼下冷敷板，打光的同時直接消眼周浮腫，一次就把膚色和早上的浮腫臉一起處理掉。",
           "priceRange": "約 NT$11,000"
         }
       }
@@ -171,12 +171,28 @@
       "url": "https://www.foreo.com/faq-swiss-202",
       "i18n": {
         "en": {
-          "description": "An ultra-light flexible silicone mask spreading eight wavelengths across 600 points of light, the most comfortable mask to wear though its price sits well above what its results justify.",
+          "description": "An ultra-light flexible silicone mask spreading eight wavelengths across 600 points of light, the most comfortable mask I have worn for a full session.",
           "priceRange": "$599"
         },
         "zh-tw": {
-          "description": "超輕柔性矽膠面膜，八段波長分布在 600 個出光點，戴起來最舒服，可惜定價遠高於它實際做得出來的效果。",
+          "description": "超輕柔性矽膠面膜，八段波長分布在 600 個出光點，老實說，這是我戴滿整場下來最舒服的一款。",
           "priceRange": "約 NT$18,900"
+        }
+      }
+    },
+    {
+      "id": "renpho-artemis-mask",
+      "name": "Artemis LED Light Therapy Mask",
+      "brand": "RENPHO",
+      "url": "https://renpho.com/products/artemis-led-light-therapy-mask",
+      "i18n": {
+        "en": {
+          "description": "A soft silicone mask carrying 324 medical-grade LEDs across 415nm blue, 630nm red, and 850nm near-infrared in three switchable modes, FDA Class II cleared with a two-year warranty at $199.99.",
+          "priceRange": "$199.99"
+        },
+        "zh-tw": {
+          "description": "柔性矽膠面膜，324 顆醫療級 LED，415nm 藍光、630nm 紅光、850nm 近紅外光三種模式隨你切，FDA Class II 認證再附兩年保固，台幣六千出頭就能入手。",
+          "priceRange": "約 NT$6,300"
         }
       }
     }
@@ -6697,8 +6713,21 @@
           }
         },
         {
-          "id": "dr-dennis-gross-faceware-pro",
+          "id": "renpho-artemis-mask",
           "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "clinical": 8.6,
+            "wavelengths": 9.0,
+            "comfort": 9.3,
+            "speed": 8.2,
+            "versatility": 9.2,
+            "value": 9.7
+          }
+        },
+        {
+          "id": "dr-dennis-gross-faceware-pro",
+          "rank": 5,
           "score": 8.9,
           "scores": {
             "clinical": 9.0,
@@ -6711,7 +6740,7 @@
         },
         {
           "id": "higherdose-red-light-mask",
-          "rank": 5,
+          "rank": 6,
           "score": 8.5,
           "scores": {
             "clinical": 8.8,
@@ -6724,7 +6753,7 @@
         },
         {
           "id": "solawave-wrinkle-retreat-pro",
-          "rank": 6,
+          "rank": 7,
           "score": 8.5,
           "scores": {
             "clinical": 8.8,
@@ -6737,7 +6766,7 @@
         },
         {
           "id": "therabody-theraface-mask-glo",
-          "rank": 7,
+          "rank": 8,
           "score": 8.1,
           "scores": {
             "clinical": 8.8,
@@ -6750,7 +6779,7 @@
         },
         {
           "id": "irestore-illumina-face-mask",
-          "rank": 8,
+          "rank": 9,
           "score": 8.0,
           "scores": {
             "clinical": 8.5,
@@ -6763,7 +6792,7 @@
         },
         {
           "id": "qure-q-rejuvalight-pro",
-          "rank": 9,
+          "rank": 10,
           "score": 7.7,
           "scores": {
             "clinical": 7.8,
@@ -6776,7 +6805,7 @@
         },
         {
           "id": "foreo-faq-202",
-          "rank": 10,
+          "rank": 11,
           "score": 6.9,
           "scores": {
             "clinical": 7.5,
@@ -6803,6 +6832,11 @@
           "title": "What LED Mask Should I Buy in 2026? My Top Recommendations",
           "url": "https://www.lighttherapyinsiders.com/what-led-mask-should-i-buy-in-2026-my-top-recommendations/",
           "source": "Light Therapy Insiders"
+        },
+        {
+          "title": "Renpho Artemis LED Light Soft Mask review",
+          "url": "https://www.t3.com/home-living/beauty/renpho-artemis-led-light-soft-mask",
+          "source": "T3"
         }
       ],
       "i18n": {
