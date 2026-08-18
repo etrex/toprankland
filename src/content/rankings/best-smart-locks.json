@@ -4830,6 +4830,192 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-17",
+      "rankings": [
+        {
+          "id": "aqara-u400",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "security": 9.3,
+            "access": 9.7,
+            "smartHome": 9.7,
+            "value": 8.6,
+            "install": 8.8
+          }
+        },
+        {
+          "id": "schlage-encode-plus",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "security": 9.6,
+            "access": 8.6,
+            "smartHome": 9.0,
+            "value": 8.4,
+            "install": 9.0
+          }
+        },
+        {
+          "id": "yale-assure-lock-2-plus",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "security": 8.8,
+            "access": 8.8,
+            "smartHome": 9.1,
+            "value": 8.5,
+            "install": 8.9
+          }
+        },
+        {
+          "id": "ultraloq-u-bolt-pro-wifi",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "security": 8.6,
+            "access": 9.2,
+            "smartHome": 8.2,
+            "value": 8.8,
+            "install": 8.6
+          }
+        },
+        {
+          "id": "switchbot-lock-ultra",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "security": 8.0,
+            "access": 9.0,
+            "smartHome": 8.4,
+            "value": 9.2,
+            "install": 9.4
+          }
+        },
+        {
+          "id": "eufy-smart-lock-e130",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "security": 8.4,
+            "access": 8.6,
+            "smartHome": 8.2,
+            "value": 9.0,
+            "install": 8.4
+          }
+        },
+        {
+          "id": "level-lock-plus",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "security": 8.2,
+            "access": 7.6,
+            "smartHome": 8.8,
+            "value": 7.6,
+            "install": 8.6
+          }
+        },
+        {
+          "id": "august-wifi-smart-lock-4th-gen",
+          "rank": 8,
+          "score": 8.1,
+          "scores": {
+            "security": 7.8,
+            "access": 7.8,
+            "smartHome": 8.6,
+            "value": 8.4,
+            "install": 9.2
+          }
+        },
+        {
+          "id": "wyze-lock-bolt",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "security": 7.6,
+            "access": 8.4,
+            "smartHome": 7.2,
+            "value": 9.6,
+            "install": 8.4
+          }
+        },
+        {
+          "id": "lockly-vision-elite",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "security": 8.6,
+            "access": 8.8,
+            "smartHome": 7.4,
+            "value": 6.8,
+            "install": 7.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best Matter over Thread Door Lock 2026",
+          "url": "https://eu.aqara.com/en-eu/blogs/news/best-matter-over-thread-door-lock",
+          "source": "Aqara"
+        },
+        {
+          "title": "Best Smart Locks of 2026 (Tested): Yale, Schlage, August & More",
+          "url": "https://smartlockmfg.com/best-smart-locks-of-2026-expert-testing-and-reviews/",
+          "source": "SmartLock Mfg"
+        },
+        {
+          "title": "5 Best Matter-Compatible Smart Locks in 2026: Buy Guide",
+          "url": "https://www.smarteyecctv.com/best-matter-smart-locks-2026/",
+          "source": "SmartEye CCTV"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The Aqara Smart Lock U400 holds 9.4 and I rank it first on a combination that is harder to assemble than it looks: reliable fingerprint recognition, a genuinely usable physical key backup, Matter support that works across platforms, and battery life measured in months rather than weeks.\n\nThat physical key backup deserves emphasis. Every smart lock will eventually have a dead battery or a firmware problem at an inconvenient moment. A lock that leaves you standing outside is a worse product than one with slightly slower fingerprint recognition, and I weight the failure case heavily.\n\nThe Schlage Encode Plus at 9.1 has the best physical security hardware here. If you are replacing a lock on a ground floor door or a house rather than an apartment, the deadbolt grade matters more than the app.\n\nThe Yale Assure Lock 2 Plus at 8.9 is the cleanest looking and integrates well with Apple Home.\n\nFor Taiwan apartments, the installation question is the first one to answer. Many doors here use a mortise lock body rather than the tubular deadbolt that most of these products are designed around. Measure your door before ordering, and if you rent, confirm the change is reversible.",
+          "highlights": [
+            {
+              "title": "The physical key backup is the feature you buy for",
+              "body": "Every smart lock eventually has a dead battery or a firmware problem at the wrong moment. A lock that leaves you outside is worse than one with marginally slower fingerprint recognition, and the U400 handles the failure case properly."
+            },
+            {
+              "title": "Buy Schlage for a ground floor door",
+              "body": "The Encode Plus has the best physical security hardware here. For a house or a ground floor entry rather than an apartment on the eighth floor, deadbolt grade matters far more than app polish, and at 9.1 this is the security-first pick."
+            },
+            {
+              "title": "Measure your door before you order",
+              "body": "Many Taiwanese doors use a mortise lock body rather than the tubular deadbolt these products are designed around. That mismatch is the most common reason a smart lock purchase gets returned, and five minutes with a tape measure prevents it."
+            },
+            {
+              "title": "Matter support keeps the lock useful across platforms",
+              "body": "Smart home platforms come and go, and a lock is a ten-year purchase. The U400's Matter implementation means it keeps working when you switch ecosystems, which is worth more than any single platform's current app quality."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Aqara Smart Lock U400 守住 9.4，我把它排第一是因為一個看起來簡單、其實很難湊齊的組合：穩定的指紋辨識、真的能用的實體鑰匙備援、跨平台可用的 Matter 支援，還有以月計算而不是以週計算的續航。\n\n實體鑰匙備援這點要特別強調。每一把電子鎖遲早都會在最不方便的時刻沒電或韌體出包。一把把你關在門外的鎖，是比一把指紋辨識慢零點五秒的鎖更爛的產品，我給失效情境的權重很重。\n\n9.1 分的 Schlage Encode Plus 實體防護硬體是這裡最強的。你如果換的是一樓大門或透天厝的門而不是公寓門，鎖芯等級的重要性遠高於 App。\n\n8.9 分的 Yale Assure Lock 2 Plus 外型最俐落，跟 Apple Home 整合得很好。\n\n給台灣公寓：第一個要回答的是安裝問題。這裡很多門用的是嵌入式鎖體，而不是這些產品預設的圓筒型門閂。訂貨前先量門，如果你是租的，先確認這個更動可以復原。",
+          "highlights": [
+            {
+              "title": "你買的其實是實體鑰匙備援",
+              "body": "每把電子鎖遲早會在最不對的時刻沒電或韌體出包。一把把你關在門外的鎖，比一把指紋慢一點的鎖更糟，而 U400 把失效情境處理得很好。"
+            },
+            {
+              "title": "一樓大門就買 Schlage",
+              "body": "Encode Plus 的實體防護硬體是這裡最強的。換的是透天厝或一樓出入口而不是八樓公寓門的話，鎖芯等級的重要性遠高過 App 精緻度，9.1 分，這是安全優先的選擇。"
+            },
+            {
+              "title": "下單前先量你家的門",
+              "body": "台灣很多門用嵌入式鎖體，而不是這些產品預設的圓筒型門閂。這個不合是電子鎖最常見的退貨原因，拿捲尺花五分鐘就能避免。"
+            },
+            {
+              "title": "Matter 支援讓這把鎖跨平台都活得下去",
+              "body": "智慧家庭平台來來去去，而一把鎖是十年的消費。U400 的 Matter 實作代表你換生態系之後它還會動，這個價值高過任何單一平台目前的 App 品質。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

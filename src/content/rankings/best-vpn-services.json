@@ -14617,6 +14617,168 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-17",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best No-Logs VPNs in 2026 (Only 7 Proven & Verified)",
+          "url": "https://cyberinsider.com/vpn/best/no-logs-vpn/",
+          "source": "CyberInsider"
+        },
+        {
+          "title": "A List Of VPN Providers With Public Audits In 2026",
+          "url": "https://greycoder.com/a-list-of-vpn-providers-with-public-audits/",
+          "source": "GreyCoder"
+        },
+        {
+          "title": "NordVPN vs Proton VPN vs Mullvad (2026): Three Trust Models, No Universal Winner",
+          "url": "https://www.thevpnmatrix.com/blog/privacy-trinity",
+          "source": "The VPN Matrix"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Mullvad and ProtonVPN stay tied at 9.2 and I keep them there because they represent the two honest answers to what a VPN should be. Mullvad wins on privacy architecture. It takes cash in an envelope, it issues you an account number instead of asking for an email, and its flat 5 euro per month pricing means there is no upsell funnel pulling the product in a bad direction. When the business model has no reason to know who you are, the privacy promise is structural rather than a policy you have to trust.\n\nProtonVPN matches it with audited no-logs infrastructure and a Swiss legal home, plus the practical advantage of a free tier that is genuinely usable and a bundle that includes mail and storage.\n\nNordVPN at 8.8 remains the right recommendation for anyone whose actual requirement is streaming access and speed rather than adversarial privacy. Its server network is the largest here and it unblocks regional catalogs more reliably than the privacy-first options.\n\nA note for readers in Taiwan: check whether your provider still operates local exit nodes before you commit to an annual plan. Server presence in the region shifts more often than the marketing pages suggest, and a nearby exit node is the difference between comfortable streaming and constant buffering.",
+          "highlights": [
+            {
+              "title": "Mullvad's privacy is structural, not promised",
+              "body": "It accepts cash in an envelope and issues an account number instead of asking for an email. The flat 5 euro pricing removes any upsell funnel. When the business has no commercial reason to know who you are, you are trusting an architecture rather than a policy document."
+            },
+            {
+              "title": "Proton wins on the complete package",
+              "body": "Audited no-logs infrastructure, Swiss jurisdiction, a free tier that is genuinely usable, and a bundle that includes mail and storage. At 9.2 it matches Mullvad, and for most people the bundled services make it the more practical of the two."
+            },
+            {
+              "title": "Pick Nord if streaming is the real requirement",
+              "body": "At 8.8 it has the largest server network here and unblocks regional catalogs more reliably than the privacy-first options. Be honest about what you actually need. If it is a Netflix library rather than adversarial privacy, this is the correct answer."
+            },
+            {
+              "title": "Verify local exit nodes before an annual plan",
+              "body": "Regional server presence shifts more often than the marketing pages let on. A nearby exit node is the difference between comfortable streaming and constant buffering, so confirm current coverage for your region before locking in twelve months."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Mullvad 跟 ProtonVPN 並列 9.2，我讓它們平手是因為它們代表了「VPN 應該是什麼」的兩個誠實答案。Mullvad 贏在隱私架構。它收信封裝現金，給你一組帳號而不是要你的 email，每月五歐元固定價代表沒有任何加購漏斗把產品拉往壞方向。當一門生意根本沒有理由知道你是誰，那個隱私承諾就是結構性的，不需要你去相信一份政策文件。\n\nProtonVPN 用經稽核的無紀錄架構和瑞士法域打平，加上一個真的能用的免費方案，還有含信箱和雲端空間的組合包。\n\nNordVPN 的 8.8 對「其實只是要看串流和速度、不是要對抗國家級監控」的人來說還是正確答案。它的伺服器網路是這裡最大的，解鎖各地區片庫也比隱私優先派穩定。\n\n給台灣讀者一個提醒：在你刷下去買年約之前，先確認你的供應商還有沒有在跑本地節點。這個地區的伺服器佈點變動比官網行銷頁寫的頻繁，有沒有近端節點，差別就在看片順不順和一直轉圈圈。",
+          "highlights": [
+            {
+              "title": "Mullvad 的隱私是結構性的，不是承諾",
+              "body": "它收信封裝現金，發給你一組帳號而不是問你 email，五歐元固定價把加購漏斗整個拿掉。當這門生意在商業上沒有理由知道你是誰，你信的是架構而不是一份政策文件。"
+            },
+            {
+              "title": "整體組合 Proton 贏面大",
+              "body": "經稽核的無紀錄架構、瑞士法域、真的能用的免費方案，加上含信箱和雲端空間的組合包。9.2 分跟 Mullvad 打平，對多數人來說綁進來的服務讓它更實用。"
+            },
+            {
+              "title": "只是要看串流就選 Nord",
+              "body": "8.8 分，伺服器網路是這裡最大的，解鎖各地片庫也比隱私優先那派穩。對自己誠實一點，你要的如果是 Netflix 的片單而不是對抗監控，這就是正確答案。"
+            },
+            {
+              "title": "買年約前先確認台灣有沒有節點",
+              "body": "各地區的伺服器佈點變動比官網寫的頻繁多了。有沒有近端節點，差別就在看片順暢跟一直緩衝之間，簽十二個月之前先確認一下目前的覆蓋狀況。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
