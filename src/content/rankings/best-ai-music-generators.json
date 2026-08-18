@@ -14129,6 +14129,394 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-17",
+      "rankings": [
+        {
+          "id": "suno-v5",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "audioQuality": 9.7,
+            "vocalRealism": 9.4,
+            "editingControl": 9.6,
+            "commercialLicense": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "elevenlabs-music",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "audioQuality": 9.3,
+            "vocalRealism": 9.7,
+            "editingControl": 8.7,
+            "commercialLicense": 9.8,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "lyria-3-pro",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 8.6,
+            "editingControl": 8.4,
+            "commercialLicense": 9.5,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 7.0,
+            "editingControl": 8.6,
+            "commercialLicense": 9.5,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "udio",
+          "rank": 5,
+          "score": 8.4,
+          "scores": {
+            "audioQuality": 9.6,
+            "vocalRealism": 9.5,
+            "editingControl": 9.8,
+            "commercialLicense": 7.7,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "riffusion",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "audioQuality": 8.2,
+            "vocalRealism": 7.8,
+            "editingControl": 8.5,
+            "commercialLicense": 8.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "soundraw",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "audioQuality": 8.0,
+            "vocalRealism": 6.5,
+            "editingControl": 7.5,
+            "commercialLicense": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aiva",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 6.8,
+            "editingControl": 7.8,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "mubert",
+          "rank": 9,
+          "score": 7.3,
+          "scores": {
+            "audioQuality": 7.5,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "loudly",
+          "rank": 10,
+          "score": 7.0,
+          "scores": {
+            "audioQuality": 7.3,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "boomy",
+          "rank": 11,
+          "score": 6.8,
+          "scores": {
+            "audioQuality": 6.8,
+            "vocalRealism": 6.5,
+            "editingControl": 6.8,
+            "commercialLicense": 8.5,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Music Generator Suno Inks Latest Music Label Licensing Deal",
+          "url": "https://www.forbes.com/sites/cathyolson/2026/08/12/ai-music-generator-suno-inks-latest-music-label-licensing-deal/",
+          "source": "Forbes"
+        },
+        {
+          "title": "AI Music Generator Suno Strikes Licensing Deal With BMG as It Preps New Label-Backed Models",
+          "url": "https://variety.com/2026/music/news/suno-ai-licensing-deal-bmg-1236832703/",
+          "source": "Variety"
+        },
+        {
+          "title": "What Do the Suno and Udio Licensing Deals Mean for the Future of AI Music?",
+          "url": "https://www.billboard.com/pro/what-suno-udio-licensing-deals-mean-future-ai-music/",
+          "source": "Billboard"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Suno V5 holds 9.4 and the gap to second place is real. What V5 does that the rest of the field still approximates is vocal coherence across a full arrangement. A generated song holds the same voice from verse to bridge to final chorus, and the mix sits at a level where you can drop it into a video without a mastering pass. That is the threshold that separates a demo toy from a production tool, and Suno crossed it first.\n\nEleven Music at 9.2 is the one I use when the brief is instrumental and specific. ElevenLabs built its reputation on voice, and the same attention to timbral detail shows up in its instrumental beds. For background music under a narration track it is my default.\n\nLyria 3 Pro at 8.6 benefits from Google's aggressive inference cost reductions, and if you are generating at volume the economics increasingly favor it.\n\nThe rights question is the one every professional user should be tracking. Licensing terms across these platforms differ meaningfully in what you can do commercially, and the differences matter far more to a working creator than a two tenths of a point quality gap. Read the terms for the platform you pick before you put its output into anything that earns money.",
+          "highlights": [
+            {
+              "title": "Suno V5 crossed the production threshold first",
+              "body": "It holds the same vocal identity from verse through bridge to final chorus, and the mix is clean enough to drop into a video without mastering. That is the line between a demo toy and a tool you can bill for, and Suno reached it before anyone else."
+            },
+            {
+              "title": "Eleven Music is my pick for instrumental beds",
+              "body": "ElevenLabs built its name on timbral detail in voice, and that same ear shows up in its instrumentals. At 9.2 it is what I reach for when music needs to sit under narration without fighting it, which is most of the commercial work I do."
+            },
+            {
+              "title": "Check the licensing before the quality",
+              "body": "Commercial terms differ meaningfully across these platforms, and those differences matter far more to a working creator than a two tenths of a point score gap. Read what you are allowed to do with the output before you put it into anything that earns money."
+            },
+            {
+              "title": "Lyria 3 Pro wins on generation economics",
+              "body": "At 8.6 it sits third on pure quality, and Google's continued inference cost reductions make it the sensible choice when you are generating at volume. For a library of dozens of variations rather than one hero track, the math favors it."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Suno V5 守住 9.4，跟第二名的差距是真的存在。V5 做到而其他家還在逼近的，是整首編曲的人聲一致性。生出來的歌從主歌、橋段到最後副歌都是同一個聲音，混音水準直接丟進影片裡也不用再過一次母帶。這就是玩具跟生產工具的分界線，Suno 第一個跨過去。\n\nEleven Music 的 9.2 是我在需求明確、要純樂器時會用的。ElevenLabs 的名聲是靠人聲建立的，同樣那種對音色細節的講究也出現在它的樂器襯底上。旁白底下要墊背景音樂，我預設就開它。\n\nLyria 3 Pro 8.6 分吃到 Google 大砍推理成本的紅利，如果你是要大量產出，成本結構會越來越偏向它。\n\n版權這件事是每個專業使用者都該盯著的。這幾個平台的授權條款在「你能拿去做什麼商業用途」上差很多，這個差異對接案的人來說，重要性遠超過零點二分的品質差距。在你把產出放進任何會賺錢的東西之前，先把選定平台的條款讀完。",
+          "highlights": [
+            {
+              "title": "Suno V5 第一個跨過生產線標準",
+              "body": "從主歌、橋段到最後副歌都維持同一個人聲身分，混音乾淨到可以直接丟進影片不用再處理。這是玩具跟能開發票的工具之間那條線，Suno 比所有人都早到。"
+            },
+            {
+              "title": "純樂器襯底我選 Eleven Music",
+              "body": "ElevenLabs 的招牌是人聲的音色細節，同一雙耳朵也用在它的樂器上。9.2 分，我需要音樂墊在旁白底下又不搶戲的時候就找它，而我接的商業案大部分都是這種。"
+            },
+            {
+              "title": "先看授權，再看品質",
+              "body": "這幾個平台的商業條款差異很大，對接案的人來說，這個差異的重要性遠超過零點二分的分數。把產出放進任何會賺錢的東西之前，先確認你被允許拿它做什麼。"
+            },
+            {
+              "title": "Lyria 3 Pro 贏在生成成本",
+              "body": "8.6 分在純品質上排第三，但 Google 持續砍推理成本讓它在大量產出時變成理性選擇。你要的是幾十個變化版的素材庫而不是一首主打歌，那算下來是它划算。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-08-18",
+      "rankings": [
+        {
+          "id": "suno-v5",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "audioQuality": 9.7,
+            "vocalRealism": 9.4,
+            "editingControl": 9.6,
+            "commercialLicense": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "elevenlabs-music",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "audioQuality": 9.3,
+            "vocalRealism": 9.7,
+            "editingControl": 8.7,
+            "commercialLicense": 9.8,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "lyria-3-pro",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 8.6,
+            "editingControl": 8.4,
+            "commercialLicense": 9.5,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 7.0,
+            "editingControl": 8.6,
+            "commercialLicense": 9.5,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "udio",
+          "rank": 5,
+          "score": 8.4,
+          "scores": {
+            "audioQuality": 9.6,
+            "vocalRealism": 9.5,
+            "editingControl": 9.8,
+            "commercialLicense": 7.7,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "riffusion",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "audioQuality": 8.2,
+            "vocalRealism": 7.8,
+            "editingControl": 8.5,
+            "commercialLicense": 8.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "soundraw",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "audioQuality": 8.0,
+            "vocalRealism": 6.5,
+            "editingControl": 7.5,
+            "commercialLicense": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aiva",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 6.8,
+            "editingControl": 7.8,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "mubert",
+          "rank": 9,
+          "score": 7.3,
+          "scores": {
+            "audioQuality": 7.5,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "loudly",
+          "rank": 10,
+          "score": 7.0,
+          "scores": {
+            "audioQuality": 7.3,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "boomy",
+          "rank": 11,
+          "score": 6.8,
+          "scores": {
+            "audioQuality": 6.8,
+            "vocalRealism": 6.5,
+            "editingControl": 6.8,
+            "commercialLicense": 8.5,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Music Generator Suno Inks Latest Music Label Licensing Deal",
+          "url": "https://www.forbes.com/sites/cathyolson/2026/08/12/ai-music-generator-suno-inks-latest-music-label-licensing-deal/",
+          "source": "Forbes"
+        },
+        {
+          "title": "AI Music Generator Suno Strikes Licensing Deal With BMG as It Preps New Label-Backed Models",
+          "url": "https://variety.com/2026/music/news/suno-ai-licensing-deal-bmg-1236832703/",
+          "source": "Variety"
+        },
+        {
+          "title": "What Do the Suno and Udio Licensing Deals Mean for the Future of AI Music?",
+          "url": "https://www.billboard.com/pro/what-suno-udio-licensing-deals-mean-future-ai-music/",
+          "source": "Billboard"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Suno V5 stays at number one because it is the only tool here that produces a finished record rather than a convincing sketch. The vocals sit in the mix properly, the arrangement has structure that resolves, and the master comes out loud enough to sit next to commercial tracks without further work. For anyone making background music for video, that end to end completeness is the entire value.\n\nEleven Music holds second and its strength is control. The stem separation and the ability to direct sections independently make it the better choice when you know exactly what you want and need to iterate on one part without disturbing the rest. Producers who already work in a DAW tend to prefer it for that reason.\n\nLyria 3 Pro sits third and is the most interesting one to watch. Google's audio quality is genuinely competitive and the integration path into the rest of the Gemini stack means it will keep improving on a fast cadence.\n\nMy honest guidance for anyone using these commercially: the licensing terms are the part that deserves your attention, and they differ meaningfully between these tools. Confirm what rights you hold over a generated track on your specific plan before you attach it to a client deliverable or monetized channel. That check takes five minutes and it is the difference between an asset and a liability.",
+          "highlights": [
+            {
+              "title": "Suno wins because the output is finished",
+              "body": "The vocals sit correctly in the mix, the arrangement resolves, and the master arrives at commercial loudness without another pass. For video creators who need a bed track today, that completeness is worth more than any individual quality metric. It is the only tool here where the first generation is frequently the one you ship."
+            },
+            {
+              "title": "Choose Eleven Music when you need to control one section",
+              "body": "Its stem separation and section level direction let you rework a chorus without disturbing the verse, which is how anyone who already works in a DAW expects to operate. If you arrive with a clear idea and need to iterate precisely, that control is worth more than a slightly better one shot generation."
+            },
+            {
+              "title": "Confirm your licensing before the track goes into paid work",
+              "body": "The rights you hold over a generated track vary meaningfully between these tools and between plan tiers within them. Read the current terms for your specific plan before attaching a track to a client deliverable or a monetized channel. Five minutes of reading is what separates an asset from a liability."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Suno V5 繼續第一，因為它是這裡唯一能產出成品而不是聽起來很像那麼一回事的草稿的工具。人聲在混音裡的位置擺得對，編曲有結構而且收得起來，母帶輸出的響度直接放在商業曲目旁邊也不會虛。對於幫影片配背景音樂的人來說，這種從頭到尾一次到位就是它全部的價值。\n\nEleven Music 守第二，強項是控制力。分軌能力加上可以獨立指揮各段落，讓你在知道自己要什麼的時候，能只改某一段而不動到其他部分。已經習慣在 DAW 裡工作的製作人通常偏好這一款，理由就在這裡。\n\nLyria 3 Pro 排第三，也是最值得盯著看的一款。Google 的音質是真的有競爭力，而且它接進 Gemini 整套系統的路徑代表迭代速度不會慢。\n\n給要商用的人一個誠實的建議：授權條款才是最該花時間看的部分，而且各家差異不小。在你把一首曲子掛到客戶交付物或有營利的頻道之前，先確認你在自己這個方案下對這首生成曲擁有哪些權利。這個確認花五分鐘，卻是資產和麻煩之間的分界線。",
+          "highlights": [
+            {
+              "title": "Suno 贏在產出是成品",
+              "body": "人聲在混音裡的位置是對的，編曲收得起來，母帶響度直接就是商業水準，不用再過一手。對於今天就要一段墊底音樂的影片創作者，這種完整度比任何單項指標都值錢。這也是唯一一款第一次生成就常常可以直接用的工具。"
+            },
+            {
+              "title": "要改某一段就選 Eleven Music",
+              "body": "它的分軌和段落層級的控制讓你可以只重做副歌而不動主歌，這正是習慣在 DAW 裡工作的人期待的操作方式。如果你帶著明確的想法進來、需要精準地一輪一輪改，這個控制力比稍微好一點的一次生成更有價值。"
+            },
+            {
+              "title": "曲子進入付費工作之前先確認授權",
+              "body": "各家工具、甚至同一家的不同方案，對生成曲目給你的權利差很多。在把曲子掛上客戶交付物或營利頻道之前，讀一下你目前方案的現行條款。五分鐘的閱讀，決定這首曲子是資產還是麻煩。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

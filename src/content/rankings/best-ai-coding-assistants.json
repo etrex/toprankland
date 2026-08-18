@@ -19592,6 +19592,427 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-17",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Model Release Tracker: New LLM Launches, Updated Weekly",
+          "url": "https://aiflashreport.com/model-releases.html",
+          "source": "AI Flash Report"
+        },
+        {
+          "title": "Best AI Models in August 2026: Updated Rankings and Comparisons",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code stays at 9.5 and I want to be precise about why, because the reason has shifted over the past two months. It used to win on raw code quality. Now it wins on agentic follow-through. Opus 5 leads the Artificial Analysis agentic index at 55.3, and that number describes exactly the thing that matters in a terminal: give it a multi-step task, walk away, and come back to work that is actually finished rather than half-attempted with an apology.\n\nCodex and Cursor both sit at 9.1 and they solve genuinely different problems. Codex is the better choice when your work is spread across a large repository and you want the model to reason about the whole thing before touching anything. Cursor is the better choice when you want to stay in an editor and feel every edit as it lands. I use both and I would not argue with someone who ranked them the other way around.\n\nGoogle Antigravity at 8.4 has improved faster than anything else on this list over the past quarter. It is the one to watch.\n\nThe practical shift I have noticed in August is that pricing is finally moving. OpenAI cut its cheaper GPT-5.6 tiers on July 30, with the Luna tier dropping 80 percent to 20 cents per million input tokens. That makes running a coding agent all day genuinely affordable for the first time, and it changes how aggressively I let these tools work in the background.",
+          "highlights": [
+            {
+              "title": "Agentic follow-through is now the deciding factor",
+              "body": "Opus 5 tops the agentic index at 55.3, and that translates directly into terminal work: multi-step tasks come back complete. Code quality across the top three is close enough that the real differentiator is whether the agent finishes the job without supervision."
+            },
+            {
+              "title": "Codex and Cursor solve different problems at the same score",
+              "body": "Both sit at 9.1 and I mean that literally as a tie. Codex reasons across a large repository before it edits. Cursor keeps you in the editor watching every change land. Pick by working style, and expect the choice to feel obvious within a day of trying both."
+            },
+            {
+              "title": "The July 30 price cut changes the economics",
+              "body": "OpenAI dropped its Luna tier 80 percent to $0.20 per million input tokens. Running an agent continuously in the background used to be a budget decision. At these prices it becomes a default, and that shifts how much work you hand off without thinking about it."
+            },
+            {
+              "title": "Google Antigravity is the fastest riser",
+              "body": "At 8.4 it sits fourth, and it has closed more ground in one quarter than anything else here. The Gemini 3.7 Flash release on August 13 gives it a cheaper, faster backbone. I expect it to be a genuine contender by the end of the year."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 維持 9.5，我想把理由講精確一點，因為這兩個月它贏的點已經變了。以前它贏在程式碼品質，現在它贏在代理任務的完成度。Opus 5 在 Artificial Analysis 代理指數拿下 55.3 分第一，這個數字描述的正是終端機裡最重要的那件事：丟一個多步驟任務給它，你去泡杯咖啡，回來看到的是真的做完的東西，而不是做一半加一句道歉。\n\nCodex 和 Cursor 同樣 9.1，它們解決的問題其實完全不同。工作散落在一個大型 repo、你希望模型先想清楚整體再動手，那就選 Codex。你想待在編輯器裡、每一行改動都親眼看著落地，那就選 Cursor。我兩個都在用，有人把順序倒過來排我也不會反對。\n\nGoogle Antigravity 8.4 分，是這份榜單過去一季進步最快的。這個要盯著看。\n\n八月我觀察到最實際的變化是價格終於動了。OpenAI 七月三十號調降 GPT-5.6 便宜的兩個級距，Luna 直接砍八成到每百萬輸入 token 兩毛美金。換算下來，讓一個 coding agent 整天跑在背景第一次變成真的負擔得起，這會改變你放手讓它做事的積極程度。",
+          "highlights": [
+            {
+              "title": "代理任務的完成度現在是勝負關鍵",
+              "body": "Opus 5 代理指數 55.3 分登頂，這直接反映在終端機工作上：多步驟任務丟出去，回來是完成品。前三名的程式碼品質已經接近到分不出來，真正的差異在於這個 agent 能不能沒人盯著就把事情做完。"
+            },
+            {
+              "title": "Codex 跟 Cursor 同分，但解決的問題不一樣",
+              "body": "兩個都是 9.1，我是真的當平手。Codex 會先把整個 repo 想過一遍才動手，Cursor 讓你留在編輯器裡看著每個改動落地。照你的工作習慣選就好，兩個都試一天你自然就知道要哪個。"
+            },
+            {
+              "title": "七月三十號那次降價改變了成本結構",
+              "body": "OpenAI 把 Luna 級距砍八成到每百萬輸入 token 兩毛美金。以前讓 agent 在背景一直跑是要算預算的，現在這個價格已經可以當成預設值，你會不假思索地把更多工作丟出去。"
+            },
+            {
+              "title": "Google Antigravity 是進步最快的一個",
+              "body": "8.4 分排第四，但它一季內追上的幅度是這裡最多的。八月十三號的 Gemini 3.7 Flash 給了它更便宜更快的底層。老實說，我認為它年底前會是真正的競爭者。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-08-18",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "New AI Model Releases — August 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code holds number one and I want to defend that with the specific thing that separates it. The gap in this category is no longer about which model writes the prettiest function. Every frontier model writes competent code. The gap is about what happens across a two hour session on a real repository: whether the agent keeps the architecture in mind, whether it runs the tests it wrote, whether it comes back and says a change failed rather than reporting success. Claude Code is the most reliable on that dimension and reliability over long sessions is what actually saves engineering hours.\n\nOpenAI Codex sits at second and has closed most of the raw capability gap. Its strength is breadth of language coverage, and teams working in less common stacks often find it handles their code better.\n\nCursor stays at third because the editor experience remains the best in class for developers who want to stay in an IDE rather than a terminal. The inline diff review flow is fast and the model routing means you can point different tasks at different providers.\n\nAugust pricing note. Anthropic's introductory rate on Sonnet 5 runs through August 31, and for teams that route bulk agentic work through the cheaper model tier, that is a meaningful line item. Benchmark your workload before the window closes.",
+          "highlights": [
+            {
+              "title": "Reliability across a long session beats benchmark scores",
+              "body": "Every frontier model writes competent individual functions, so that comparison stopped being useful. What separates tools now is what happens over two hours on a real repository: holding architecture in mind, actually running the tests it wrote, and reporting a failure honestly instead of claiming success. Claude Code is the most consistent on that axis, and that is where the engineering hours are saved."
+            },
+            {
+              "title": "Codex earns its place on language breadth",
+              "body": "OpenAI has closed most of the raw capability gap, and the practical edge now shows up in coverage. Teams working in less mainstream stacks consistently report better handling of their code, which matters more than a leaderboard position if your production system is written in something outside the top five languages."
+            },
+            {
+              "title": "Stay in the IDE if that is where you think",
+              "body": "Cursor remains the best experience for developers who want inline diff review inside an editor rather than a terminal agent loop. The routing layer also lets you point cheap mechanical edits at one provider and hard reasoning at another. For a lot of engineers that workflow fit outweighs a small difference in model quality."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 守住第一，我想用一個很具體的差異來說明為什麼。這個品類的勝負已經不在誰寫的單一函式比較漂亮了，前段班的模型寫出來的程式碼都夠格。真正的差距出現在一個真實專案上連續跑兩個小時之後：它有沒有把整體架構記在腦子裡、它有沒有真的去跑自己寫的測試、改壞了會不會老實回報而不是回一句「完成」。Claude Code 在這個維度上最穩，而長時間工作的穩定度才是真正省下工程時數的地方。\n\nOpenAI Codex 排第二，純能力上的差距已經追得差不多了。它的強項是語言覆蓋廣度，用比較冷門技術棧的團隊常常反映它處理得更好。\n\nCursor 維持第三，因為對於習慣待在 IDE 而不是終端機的開發者，它的編輯器體驗還是同級最好。行內 diff 審閱的流程很快，模型路由也讓你可以把不同任務丟給不同供應商。\n\n八月的價格提醒。Anthropic 的 Sonnet 5 優惠價到 8 月 31 日為止，對於把大量代理式工作丟給便宜模型層的團隊，這是一筆看得見的成本。要評估的話，請趕在窗口關閉前把自己的工作負載測完。",
+          "highlights": [
+            {
+              "title": "長時間工作的穩定度比跑分重要",
+              "body": "前段班模型寫單一函式都夠格，所以那個比較已經沒有參考價值了。現在分高下的是在真實專案上跑兩小時之後會發生什麼：架構有沒有記住、測試有沒有真的跑、改壞了會不會誠實講。Claude Code 在這條軸上最一致，工程時數就是省在這裡。"
+            },
+            {
+              "title": "Codex 的價值在語言覆蓋廣度",
+              "body": "OpenAI 已經把純能力的差距補得差不多，現在實際的優勢展現在覆蓋率上。用比較非主流技術棧的團隊持續回報它處理得更好，如果你的正式系統是用前五名以外的語言寫的，這件事比排行榜名次重要得多。"
+            },
+            {
+              "title": "習慣在 IDE 裡思考就留在 IDE",
+              "body": "對於想在編輯器裡看行內 diff、而不是跑終端機代理迴圈的開發者，Cursor 的體驗還是最好的。它的路由層還能讓你把便宜的機械性修改丟給一家、把困難的推理丟給另一家。對很多工程師來說，這個工作流的貼合度勝過模型品質上的細微差距。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

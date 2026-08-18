@@ -13252,6 +13252,375 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-17",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.3,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.9,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.4,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "reasoning": 9.0,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (August 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Best AI Models in August 2026: Updated Rankings and Comparisons",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Ten new models shipped in the first half of August alone, from six different providers, and the release cadence is now roughly one model every two days. That pace tells you something important about how to pick a chatbot: the model you subscribe to today will be materially better in six weeks without you doing anything. So I rank on the strength of the platform behind the model, not just this week's benchmark row.\n\nChatGPT holds the top spot because it converts capability into daily utility faster than anyone. Memory that actually persists across projects, a genuinely useful mobile app, and voice mode that works in a noisy room are what I use every day. Claude sits level with it on my scoring for a different reason: sustained reasoning over long documents and code remains its signature, and Opus 5 topping the Artificial Analysis intelligence index at 63 confirms what the writing quality already suggested.\n\nGemini at 9.4 earns its position through reach. Gemini 3.7 Flash landed on August 13 and pushes fast, cheap inference into Search, Android, and Workspace, which means most people will use it whether they choose it or not.\n\nMy practical advice for August: pick based on where your work already lives. Heavy document and code work goes to Claude. Everyday research, images, and voice go to ChatGPT. Deep Google ecosystem investment goes to Gemini. All three are excellent, and the gap between them matters less than the gap between using one well and using one casually.",
+          "highlights": [
+            {
+              "title": "The release cadence is now the product",
+              "body": "Six providers shipped ten models in two weeks. When the underlying model refreshes every few weeks, subscribing to a platform matters more than picking the best model on a given Tuesday. I weight ecosystem depth and update velocity heavily for exactly this reason."
+            },
+            {
+              "title": "Claude earns its 9.5 on sustained reasoning",
+              "body": "Opus 5 leads the Artificial Analysis intelligence index at 63 and the agentic index at 55.3. Those numbers match what I see in practice: it holds context across a 200-page document or a large codebase and keeps its answers coherent from the first page to the last."
+            },
+            {
+              "title": "Gemini 3.7 Flash makes cheap inference ubiquitous",
+              "body": "The August 13 release pushes fast inference directly into Search, Android, and Workspace. Google's advantage is distribution, and a model this cheap to run means Gemini shows up in places where you never explicitly chose it. That is worth a 9.4 on its own."
+            },
+            {
+              "title": "Perplexity remains the right answer for sourced research",
+              "body": "At 8.6 it sits below the big three on raw reasoning, and it beats all of them when I need citations I can click. For fact-checking and current events where I have to verify the source myself, it is still the tool I open first."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "光是八月上半個月，就有六家業者推出了十個新模型，平均兩天就冒出一個。這個節奏其實透露了一件很重要的事：你今天訂閱的模型，六週後會自己變強，你什麼都不用做。所以我排名的時候看的是模型背後那個平台的實力，而不是這禮拜的跑分表。\n\nChatGPT 排第一，因為它把能力轉換成日常好用度的速度最快。跨專案記憶真的留得住，手機 App 是真的能用，語音模式在捷運上這種吵雜環境還是聽得懂你講什麼。這些是我每天都在用的東西。\n\nClaude 拿到一樣的 9.5，理由完全不同。長文件和程式碼的持續推理一直是它的招牌，Opus 5 在 Artificial Analysis 智慧指數拿下 63 分登頂，剛好印證了我從文字品質就感覺到的事。\n\nGemini 拿 9.4 靠的是覆蓋率。Gemini 3.7 Flash 八月十三號上線，把又快又便宜的推理直接塞進搜尋、Android 和 Workspace，講白了，大部分人根本不用選就已經在用它了。\n\n八月的實用建議：看你的工作本來待在哪個生態系。文件和程式碼吃重就選 Claude，日常查資料、生圖、語音就 ChatGPT，Google 服務用很深的就 Gemini。三家都很強，它們之間的差距，遠小於「認真用一個」和「隨便用一個」之間的差距。",
+          "highlights": [
+            {
+              "title": "更新節奏本身就是產品力",
+              "body": "兩週內六家推十個模型。當底層模型每幾週就換一次，你選的其實是平台而不是某個星期二跑分最高的那個。我在評分時把生態系深度和更新速度的權重拉得很高，就是這個原因。"
+            },
+            {
+              "title": "Claude 的 9.5 是靠長脈絡推理拿的",
+              "body": "Opus 5 在 Artificial Analysis 智慧指數 63 分、代理指數 55.3 分都是第一。這些數字跟我實際使用的感受完全吻合，它讀兩百頁的文件或一整包程式碼時，從第一頁到最後一頁答案都還是連貫的。"
+            },
+            {
+              "title": "Gemini 3.7 Flash 讓便宜推理無所不在",
+              "body": "八月十三號這一版把快速推理直接推進搜尋、Android 和 Workspace。Google 的強項一直是通路，模型跑起來這麼便宜，代表 Gemini 會出現在你根本沒主動選它的地方。光這點就值 9.4。"
+            },
+            {
+              "title": "要查有出處的資料，Perplexity 還是首選",
+              "body": "8.6 分在純推理上確實低於前三強，但只要我需要可以點開來看的引用來源，它就贏過所有人。查證事實、追時事這種我得自己確認出處的場合，我還是第一個開它。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-08-18",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.3,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.9,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.4,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "reasoning": 9.0,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "New AI Model Releases — August 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Ten new models shipped from six providers in the first half of August, with Gemini 3.7 Flash arriving on August 13. That cadence tells you something important about how to choose a chatbot right now: the frontier is moving fast enough that a subscription decision is a three month decision, not a three year one. Pick the one that fits your work today and stay willing to move.\n\nChatGPT and Claude remain tied at the top of my list for different reasons and I want to be precise about the split. ChatGPT wins on breadth. It has the largest tool ecosystem, the best voice mode, and the widest coverage of everyday tasks from travel planning to spreadsheet cleanup. Claude wins on sustained reasoning and writing. When I hand a model a long document and ask it to hold the whole thing in mind while restructuring it, Claude produces work I need to edit less.\n\nGemini sits at third and its case is getting stronger on price. Google is pushing hard on free tier generosity and the Flash models are fast enough that the latency difference is noticeable in conversation. If you live inside Google Workspace, the integration advantage compounds daily.\n\nOne piece of concrete advice for August. Anthropic's introductory pricing on Sonnet 5 runs through August 31. If you are building on the API rather than using a consumer subscription, that window is worth planning around.",
+          "highlights": [
+            {
+              "title": "Treat your subscription as a three month decision",
+              "body": "Six providers shipped ten models in the first half of August alone, with Gemini 3.7 Flash landing on the 13th. At that cadence, the assistant that fits your work best today may not be the one that fits in a quarter. Pick for your current workload, keep your prompts portable, and stay willing to switch when the leaderboard moves."
+            },
+            {
+              "title": "ChatGPT for breadth, Claude for depth",
+              "body": "ChatGPT carries the largest tool ecosystem and the best voice mode, which makes it the stronger everyday generalist across travel planning, research and quick data work. Claude holds long documents in mind while restructuring them, and the output needs less editing on writing and analysis tasks. The right answer depends on which half of that describes your week."
+            },
+            {
+              "title": "API pricing is where the real August decision sits",
+              "body": "Anthropic's introductory rate on Sonnet 5 runs through August 31, which matters if you are building on the API rather than paying for a consumer seat. Anyone sizing a production workload should run their benchmarks inside that window. Consumer subscribers can wait, because the frontier will look different in a month regardless."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "八月上半就有六家業者推出十個新模型，Gemini 3.7 Flash 在 8 月 13 日到位。這個節奏其實告訴你一件很重要的事：現在選 AI 助理是一個三個月的決定，不是三年的決定。挑一個現在最適合你工作內容的，然後保持隨時換掉的彈性就好。\n\nChatGPT 和 Claude 在我這裡並列第一，但理由完全不同，我想講清楚這個分界。ChatGPT 贏在廣度，工具生態最大、語音模式最好用，從規劃日本自由行到整理試算表這類日常雜事覆蓋率最高。Claude 贏在長篇推理和文字品質，我丟一份很長的文件要它整個讀進去再重新組織，它產出的東西我要改的地方明顯比較少。\n\nGemini 排第三，它的價格論述越來越強。Google 在免費額度上給得很大方，Flash 系列的速度快到在對話中感覺得出延遲差異。如果你的公司整套跑 Google Workspace，整合帶來的優勢每天都在累積。\n\n八月有個具體建議。Anthropic 的 Sonnet 5 優惠定價到 8 月 31 日為止，如果你是接 API 開發而不是買消費者訂閱，這個時間窗值得排進計畫裡。",
+          "highlights": [
+            {
+              "title": "把訂閱當成三個月的決定",
+              "body": "光是八月上半，六家業者就推了十個模型，Gemini 3.7 Flash 在 13 號落地。這種節奏下，今天最適合你的助理，一季之後未必還是。照現在的工作內容挑，提示詞盡量寫得可以搬家，等排行榜變動的時候直接換，這才是務實的做法。"
+            },
+            {
+              "title": "廣度選 ChatGPT，深度選 Claude",
+              "body": "ChatGPT 的工具生態最完整、語音模式最好用，日常雜事的覆蓋率最高，行程規劃、查資料、簡單的資料整理都順。Claude 在處理長文件時能把整份內容記住再重組，文字和分析類的產出要改的地方少很多。答案取決於你的一週比較像哪一半。"
+            },
+            {
+              "title": "八月真正要做的決定在 API 這邊",
+              "body": "Anthropic 的 Sonnet 5 優惠價到 8 月 31 日截止，這對接 API 開發的人才有意義，買消費者訂閱的人不受影響。要評估正式上線工作負載的團隊，測試最好排在這個窗口內跑完。一般使用者可以慢慢等，反正一個月後前段班的樣子又會不一樣。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

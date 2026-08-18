@@ -13873,6 +13873,394 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-17",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.0,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Seedance 2.0 vs Kling 3.0 vs Sora 2 vs Veo 3.1: The Ultimate AI Video Showdown (2026)",
+          "url": "https://www.alphamatch.ai/blog/ai-video-generation-showdown-2026",
+          "source": "AlphaMatch"
+        },
+        {
+          "title": "AI Video Generation 2026: Sora 2 vs Veo 3.1 vs Kling 3.0 Compared",
+          "url": "https://lushbinary.com/blog/ai-video-generation-sora-veo-kling-seedance-comparison/",
+          "source": "Lushbinary"
+        },
+        {
+          "title": "AI Video Generation News 2026: Models and Impact",
+          "url": "https://thebriefscript.com/ai-video-generation-news/",
+          "source": "The Brief Script"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Kling 3.0 at 9.5 keeps the top spot on the strength of motion physics. Generated video fails most obviously when something moves wrong, a limb bending against a joint or an object drifting without weight, and Kling makes that mistake least often across the widest range of subjects. Veo 3.1 at 9.4 is close behind and beats it on one specific thing that matters commercially: native synchronized audio. If your deliverable needs sound, Veo saves you a whole production step.\n\nRunway Gen-4.5 and Seedance 2.0 both sit at 9.2 and both earn it differently. Runway remains the best integrated editing environment, which matters when the generation is one step in a longer edit. Seedance produces the most consistent character across multiple shots, which is what you need for anything narrative.\n\nHappyHorse 1.0 at 8.8 is the interesting entry. It is newer than everything above it and improving quickly.\n\nMy practical read for August: clip length is no longer the constraint people assume. The models above all handle enough duration for social and advertising work. What still costs you time is shot-to-shot consistency, and that is where Seedance and Runway earn their money. Pick based on whether your project is a single hero clip or a sequence.",
+          "highlights": [
+            {
+              "title": "Motion physics is what separates the top two",
+              "body": "Generated video fails most visibly when something moves wrong, a limb bending against a joint or an object drifting without weight. Kling 3.0 makes that mistake least often across the widest range of subjects, and that is what its 9.5 is measuring."
+            },
+            {
+              "title": "Veo 3.1 saves a whole production step",
+              "body": "Native synchronized audio means the clip arrives with sound already matched to what happens on screen. For advertising and social deliverables that ship with audio, that removes a pass from the pipeline, and at 9.4 it is the practical choice for a lot of commercial work."
+            },
+            {
+              "title": "Shot-to-shot consistency is the real remaining constraint",
+              "body": "Clip length stopped being the bottleneck months ago. What still costs you time is keeping a character looking like the same character across six shots. Seedance 2.0 and Runway Gen-4.5 both sit at 9.2 because they solve exactly this."
+            },
+            {
+              "title": "HappyHorse 1.0 is the one to watch",
+              "body": "At 8.8 it sits fifth, and it is the newest model on this list by a wide margin. The rate of improvement I have seen since launch suggests it will be competing with the top four rather than trailing them within a couple of releases."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Kling 3.0 以 9.5 守住第一，靠的是運動物理。生成影片最容易穿幫的地方就是動作不對，關節反折、物體飄起來沒有重量感，而 Kling 在最廣的題材範圍內犯這種錯的頻率最低。Veo 3.1 的 9.4 緊追在後，而且在一件商業上很關鍵的事情上贏它：原生同步音訊。如果你的交件需要聲音，Veo 直接幫你省掉一整道製作流程。\n\nRunway Gen-4.5 跟 Seedance 2.0 同樣 9.2，理由各自不同。Runway 還是整合度最好的剪輯環境，當生成只是整個剪接流程裡的一步時這很重要。Seedance 的多鏡頭角色一致性最穩，做敘事類的東西就需要這個。\n\nHappyHorse 1.0 的 8.8 是有趣的新面孔，比上面所有模型都年輕，進步速度很快。\n\n八月的實務判斷：影片長度已經不是大家以為的那個限制了，上面這幾家的秒數都夠應付社群和廣告需求。真正還在燒你時間的是鏡頭之間的一致性，這就是 Seedance 和 Runway 賺錢的地方。看你的案子是單支主視覺還是一整段連續鏡頭來選。",
+          "highlights": [
+            {
+              "title": "前兩名的差距在運動物理",
+              "body": "生成影片最容易被看出來的破綻就是動作不對，關節反折或物體飄浮沒重量。Kling 3.0 在最廣的題材範圍犯這種錯的次數最少，它的 9.5 量的就是這件事。"
+            },
+            {
+              "title": "Veo 3.1 幫你省掉一整道流程",
+              "body": "原生同步音訊代表片子出來時，聲音已經跟畫面上發生的事對好了。廣告和社群交件本來就要帶聲音，這等於從產線上拿掉一關，9.4 分讓它成為很多商業案的務實選擇。"
+            },
+            {
+              "title": "鏡頭一致性才是現在真正的瓶頸",
+              "body": "影片長度好幾個月前就不是瓶頸了。現在還在吃你時間的，是讓同一個角色在六個鏡頭裡看起來還是同一個人。Seedance 2.0 和 Runway Gen-4.5 同樣拿 9.2，就是因為它們解掉了這題。"
+            },
+            {
+              "title": "HappyHorse 1.0 值得盯著",
+              "body": "8.8 分排第五，是這份榜單上最新的模型，而且年輕很多。從上線到現在的進步速度來看，我覺得再過幾個版本它會是跟前四名對打，而不是跟在後面。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-08-18",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.0,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Seedance 2.0 vs Kling 3.0 vs Sora 2 vs Veo 3.1: The Ultimate AI Video Showdown (2026)",
+          "url": "https://www.alphamatch.ai/blog/ai-video-generation-showdown-2026",
+          "source": "AlphaMatch"
+        },
+        {
+          "title": "AI Video Generation 2026: Sora 2 vs Veo 3.1 vs Kling 3.0 Compared",
+          "url": "https://lushbinary.com/blog/ai-video-generation-sora-veo-kling-seedance-comparison/",
+          "source": "Lushbinary"
+        },
+        {
+          "title": "AI Video Generation News 2026: Models and Impact",
+          "url": "https://thebriefscript.com/ai-video-generation-news/",
+          "source": "The Brief Script"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Kling 3.0 holds number one on motion. That is the hardest problem in generated video and it is where most tools still betray themselves. Limbs that pass behind objects and come back wrong, water that moves like fabric, crowds where individual people slide rather than walk. Kling handles physical motion more convincingly than anything else here, and once you have used it on a shot with real movement the difference is impossible to unsee.\n\nVeo 3.1 sits at second with the strongest audio integration in the category. Generating synchronized sound alongside the picture removes an entire post production step, and for social content where the whole clip lives or dies in the first two seconds, having the audio arrive already matched is a real workflow advantage.\n\nRunway Gen-4.5 stays third on control. Its director tools and camera controls give you repeatable framing across shots, which is what you need when a sequence has to cut together rather than stand alone.\n\nA practical note on cost. This category burns credits faster than any other AI tool and the pricing structures make it hard to predict a monthly bill. Before you commit to a plan, generate a realistic week of work on the lowest tier and extrapolate from actual usage.",
+          "highlights": [
+            {
+              "title": "Motion realism is the hardest problem and Kling solves it best",
+              "body": "Generated video gives itself away in movement: limbs that reappear wrong from behind an object, water that behaves like fabric, crowds where people slide instead of walk. Kling 3.0 handles physical motion more convincingly than anything else in this list. On any shot with real movement in it, that advantage is immediately visible."
+            },
+            {
+              "title": "Veo removes an entire post production step",
+              "body": "Generating synchronized audio alongside the picture means the clip arrives ready to post rather than ready to edit. For social video where the first two seconds decide everything, having sound already matched to motion is worth more than a marginal gain in image fidelity. That workflow saving is why it holds second."
+            },
+            {
+              "title": "Model your credit burn before you pick a plan",
+              "body": "This category consumes credits faster than any other AI tool, and the pricing tiers make monthly costs genuinely hard to predict. Generate a realistic week of work on the cheapest tier first, then extrapolate from what you actually used. Choosing a plan from the marketing page is how people end up paying for capacity they never touch."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Kling 3.0 守第一，靠的是動態。那是生成影片裡最難的一題，也是多數工具露餡的地方。手臂從物體後面經過再出現時位置跑掉、水的流動像布料在飄、人群裡的人是用滑的而不是用走的。Kling 處理物理運動的說服力在這裡最強，你只要在一個真的有動作的鏡頭上用過一次，那個差別就再也看不下去別家了。\n\nVeo 3.1 排第二，音訊整合是這個品類最強的。畫面和聲音同步生成等於直接砍掉一整道後製工序，對於前兩秒決定生死的社群短影音來說，聲音一出來就對上動作是很實在的工作流優勢。\n\nRunway Gen-4.5 維持第三，強在控制。它的導演工具和運鏡控制讓你在不同鏡頭之間保持可重複的構圖，一段影片要剪得起來而不是單張成立的時候，這就是你需要的東西。\n\n關於成本的實務提醒。這個品類燒點數的速度比任何其他 AI 工具都快，而且定價結構讓月費很難預估。在你決定訂哪個方案之前，先用最低階方案跑完一週真實工作量，再用實際用量往上推。",
+          "highlights": [
+            {
+              "title": "動態真實感最難做，Kling 做得最好",
+              "body": "生成影片最容易露餡的地方就是動作：手臂從物體後面出來時位置不對、水流動得像布、人群裡的人用滑的不是用走的。Kling 3.0 處理物理運動的說服力在這份名單裡最強，只要鏡頭裡有真的動作，這個優勢一眼就看得出來。"
+            },
+            {
+              "title": "Veo 幫你砍掉一整道後製工序",
+              "body": "畫面和聲音同步生成，代表片段出來就是可以直接發，而不是可以開始剪。對於前兩秒定生死的社群影片，聲音一出來就對得上動作，價值遠高於畫質上那一點點提升。這個工作流上的節省就是它排第二的理由。"
+            },
+            {
+              "title": "選方案之前先算清楚點數怎麼燒",
+              "body": "這個品類燒點數的速度比其他 AI 工具都快，而且各階方案的結構讓月費真的很難預估。先用最便宜的方案跑完一週的真實工作量，再從實際用量往上推。照官網行銷頁挑方案，最後通常是付了一堆根本用不到的額度。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
