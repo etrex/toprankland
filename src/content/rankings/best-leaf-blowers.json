@@ -179,6 +179,38 @@
           "priceRange": "約 NT$8,400"
         }
       }
+    },
+    {
+      "id": "echo-dpb-2500",
+      "name": "eForce DPB-2500 549 CFM Blower",
+      "brand": "Echo",
+      "url": "https://www.echo-usa.com/blowers/dpb-2500",
+      "i18n": {
+        "en": {
+          "description": "A 549 CFM, 158 MPH handheld on Echo's 56V eForce platform that weighs 7.7lbs with the 2.5Ah pack and starts at $149.99 as a bare tool, the lowest entry price of any brand-name blower on this list.",
+          "priceRange": "$149 - $269"
+        },
+        "zh-tw": {
+          "description": "Echo 56V eForce 平台的手持機，549 CFM、158 MPH，裝 2.5Ah 電池是 7.7 磅，單機價 149.99 美元，是這張表上大廠機種裡最低的入手門檻。",
+          "priceRange": "約 NT$4,700 - NT$8,400"
+        }
+      }
+    },
+    {
+      "id": "milwaukee-2724-20",
+      "name": "M18 FUEL Blower 2724-20",
+      "brand": "Milwaukee",
+      "url": "https://www.milwaukeetool.com/Products/Power-Tools/Outdoor-Power-Equipment/Blowers/2724-20",
+      "i18n": {
+        "en": {
+          "description": "A 450 CFM, 120 MPH handheld on the M18 platform, so anyone already holding M18 batteries gets a blower for $199 as a bare tool. Brushless motor, variable speed trigger with a lock-on button, and a body light enough to hold at full throttle down a long driveway.",
+          "priceRange": "$199"
+        },
+        "zh-tw": {
+          "description": "450 CFM、120 MPH 的手持機，跑 M18 平台，家裡已經有 M18 電池的人單機 199 美元就能收。無刷馬達、變速板機附鎖定鈕，機身輕到整條車道全速吹完手也不會酸。",
+          "priceRange": "約 NT$6,200"
+        }
+      }
     }
   ],
   "history": [
@@ -875,8 +907,21 @@
           }
         },
         {
-          "id": "dewalt-dcbl772x1",
+          "id": "echo-dpb-2500",
           "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "power": 7.8,
+            "runtime": 8.2,
+            "noise": 8.0,
+            "handling": 9.0,
+            "platform": 8.2,
+            "value": 9.5
+          }
+        },
+        {
+          "id": "dewalt-dcbl772x1",
+          "rank": 8,
           "score": 8.2,
           "scores": {
             "power": 8.2,
@@ -889,7 +934,7 @@
         },
         {
           "id": "stihl-bga-200",
-          "rank": 8,
+          "rank": 9,
           "score": 8.1,
           "scores": {
             "power": 7.8,
@@ -901,8 +946,21 @@
           }
         },
         {
+          "id": "milwaukee-2724-20",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "power": 6.8,
+            "runtime": 7.6,
+            "noise": 8.4,
+            "handling": 9.4,
+            "platform": 9.6,
+            "value": 7.4
+          }
+        },
+        {
           "id": "makita-xbu02pt1",
-          "rank": 9,
+          "rank": 11,
           "score": 7.9,
           "scores": {
             "power": 7.2,
@@ -915,7 +973,7 @@
         },
         {
           "id": "husqvarna-320ib",
-          "rank": 10,
+          "rank": 12,
           "score": 7.6,
           "scores": {
             "power": 6.5,
