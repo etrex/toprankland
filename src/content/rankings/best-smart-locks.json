@@ -5016,6 +5016,192 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-20",
+      "rankings": [
+        {
+          "id": "aqara-u400",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "security": 9.3,
+            "access": 9.7,
+            "smartHome": 9.7,
+            "value": 8.6,
+            "install": 8.8
+          }
+        },
+        {
+          "id": "schlage-encode-plus",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "security": 9.6,
+            "access": 8.6,
+            "smartHome": 9.0,
+            "value": 8.4,
+            "install": 9.0
+          }
+        },
+        {
+          "id": "yale-assure-lock-2-plus",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "security": 8.8,
+            "access": 8.8,
+            "smartHome": 9.1,
+            "value": 8.5,
+            "install": 8.9
+          }
+        },
+        {
+          "id": "ultraloq-u-bolt-pro-wifi",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "security": 8.6,
+            "access": 9.2,
+            "smartHome": 8.2,
+            "value": 8.8,
+            "install": 8.6
+          }
+        },
+        {
+          "id": "switchbot-lock-ultra",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "security": 8.0,
+            "access": 9.0,
+            "smartHome": 8.4,
+            "value": 9.2,
+            "install": 9.4
+          }
+        },
+        {
+          "id": "eufy-smart-lock-e130",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "security": 8.4,
+            "access": 8.6,
+            "smartHome": 8.2,
+            "value": 9.0,
+            "install": 8.4
+          }
+        },
+        {
+          "id": "level-lock-plus",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "security": 8.2,
+            "access": 7.6,
+            "smartHome": 8.8,
+            "value": 7.6,
+            "install": 8.6
+          }
+        },
+        {
+          "id": "august-wifi-smart-lock-4th-gen",
+          "rank": 8,
+          "score": 8.1,
+          "scores": {
+            "security": 7.8,
+            "access": 7.8,
+            "smartHome": 8.6,
+            "value": 8.4,
+            "install": 9.2
+          }
+        },
+        {
+          "id": "wyze-lock-bolt",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "security": 7.6,
+            "access": 8.4,
+            "smartHome": 7.2,
+            "value": 9.6,
+            "install": 8.4
+          }
+        },
+        {
+          "id": "lockly-vision-elite",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "security": 8.6,
+            "access": 8.8,
+            "smartHome": 7.4,
+            "value": 6.8,
+            "install": 7.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Aqara Smart Lock U400, w/ Matter over Thread, HomeKey, Ultra Wideband (review)",
+          "url": "https://homekitnews.com/2026/02/10/aqara-smart-lock-u400-w-matter-over-thread-homekey-and-ultra-wideband/",
+          "source": "HomeKit News"
+        },
+        {
+          "title": "Aqara U400 Smart Lock Easily Replaced My Nest Smart Lock",
+          "url": "https://www.droid-life.com/2026/05/29/aqara-u400-smart-lock-review/",
+          "source": "Droid Life"
+        },
+        {
+          "title": "The Best Smart Lock of 2026 (So Far) Just Got Even Better!",
+          "url": "https://terrywhite.com/the-best-smart-lock-of-2026-so-far-just-got-even-better/",
+          "source": "Terry White's Tech Blog"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "I raised the Aqara U400 today because ultra wideband unlocking has proven itself over months of real use rather than a review week. UWB lets the lock open as you walk up with the phone still in your pocket or a watch on your wrist, and reviewers running it for two months past a firmware update report it working every single time. Precise ranging is what makes that safe. The lock knows you are at the door rather than merely nearby, so it does not open while you are inside the apartment. Anyone who has arrived home carrying groceries in both hands understands why this is the most useful smart lock feature shipped so far. The power design deserves credit too. A 4880mAh rechargeable pack can be pulled and charged over USB-C, or topped up in place from a power bank through a port on the lock itself, which means a dead battery becomes a five minute inconvenience. Lithium polymer also handles cold better than the alkaline AAs that Yale and Schlage still use. One practical warning before you buy. The U400 re-keys only to a 5 pin Schlage SC1 key, so Kwikset and 6 pin keys are outside its range, and that is worth confirming against your door before ordering.",
+          "highlights": [
+            {
+              "title": "UWB unlocking is the first smart lock feature that genuinely earns its price",
+              "body": "The door opens as you approach with the phone still in your pocket, and precise ranging means it knows you are at the door rather than sitting on the sofa inside. Two months of post-firmware reports show it working every time, which is why I raised its access score."
+            },
+            {
+              "title": "A rechargeable 4880mAh pack removes the battery anxiety",
+              "body": "Pull the pack and charge it over USB-C, or top it up in place from a power bank through the lock's own port. A dead battery becomes a five minute inconvenience instead of a hunt for four AAs at 11pm."
+            },
+            {
+              "title": "Lithium polymer handles temperature swings better than alkaline AAs",
+              "body": "Aqara and Nuki use lithium polymer while Yale and Schlage still rely on alkaline cells, and the chemistry difference shows up in cold weather performance. For an exterior door that sees real temperature swings, battery chemistry is worth checking."
+            },
+            {
+              "title": "Confirm your key type before you order",
+              "body": "The U400 re-keys only to a 5 pin Schlage SC1 key, so Kwikset and 6 pin cylinders fall outside what it supports. Checking your existing door hardware takes two minutes and saves a return shipment."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "今天我把 Aqara U400 往上調，因為 UWB 超寬頻解鎖已經經過好幾個月的真實使用驗證，不是只有評測那一週好用。\n\nUWB 讓你手機放口袋、或戴著手錶走近門口，門就自己開了。有評測在韌體更新後連續用了兩個多月，回報是每一次都成功。\n\n精準測距是它安全的關鍵。鎖知道你是「站在門口」而不是「在附近」，所以你人在屋裡的時候門不會自己開。雙手都提著全聯袋子回家的人，就懂為什麼這是目前最實用的智慧鎖功能。\n\n電源設計也值得肯定。4880mAh 可充電電池可以拆下來用 USB-C 充，也可以直接接行動電源從鎖上的孔位充，等於沒電只是五分鐘的小麻煩。\n\n鋰聚合物電池對溫度變化的耐受度也比 Yale 跟 Schlage 還在用的鹼性三號電池好。\n\n買之前有一個實務提醒。U400 只能配 5 針的 Schlage SC1 鑰匙，Kwikset 跟 6 針鑰匙都不支援。台灣的門鎖規格五花八門，下單前務必先確認你家的門。",
+          "highlights": [
+            {
+              "title": "UWB 解鎖是第一個真正對得起價格的智慧鎖功能",
+              "body": "手機放口袋走過去門就開，精準測距讓它分得出你在門口還是坐在屋裡沙發上。韌體更新後兩個多月的回報是每次都成功，所以我調高了它的門禁分數。"
+            },
+            {
+              "title": "4880mAh 可充電電池消除沒電焦慮",
+              "body": "拆下來用 USB-C 充，或直接接行動電源從鎖上的孔充。沒電變成五分鐘的小麻煩，不用半夜十一點跑去便利商店找三號電池。"
+            },
+            {
+              "title": "鋰聚合物比鹼性電池更耐溫差",
+              "body": "Aqara 跟 Nuki 用鋰聚合物，Yale 跟 Schlage 還在用鹼性電池，化學特性的差別在低溫下看得出來。裝在會直接曬到太陽或吹到寒流的大門上，電池材質值得確認。"
+            },
+            {
+              "title": "下單前先確認鑰匙規格",
+              "body": "U400 只能配 5 針的 Schlage SC1 鑰匙，Kwikset 跟 6 針鎖芯都不支援。花兩分鐘確認家裡現有的門鎖五金，可以省下一趟退貨。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -14779,6 +14779,168 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-20",
+      "rankings": [
+        {
+          "id": "mullvad",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "protonvpn",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "privacy": 9.7,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Mullvad vs NordVPN vs Proton VPN: Privacy Compared (2026)",
+          "url": "https://ifeeltech.com/blog/mullvad-vs-nordvpn-vs-proton-vpn",
+          "source": "iFeelTech"
+        },
+        {
+          "title": "The 3 Best VPNs of 2026",
+          "url": "https://www.rtings.com/vpn/reviews/best/vpn",
+          "source": "RTINGS"
+        },
+        {
+          "title": "NordVPN vs Proton VPN vs Mullvad (2026): Three Trust Models, No Universal Winner",
+          "url": "https://www.thevpnmatrix.com/blog/privacy-trinity",
+          "source": "The VPN Matrix"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "I raised ProtonVPN on privacy today because audit consistency deserves to be scored, and Proton now has the strongest public record in this field. Securitum's 2026 report marks its fifth consecutive annual no-logs audit, which is a pattern of accountability rather than a one time marketing exercise. A single audit tells you a company cleaned up before an inspection. Five in a row tells you the practice is built into how the company operates. Mullvad keeps first place on a different philosophy that I still find the most convincing. It minimizes what exists to leak in the first place. You get a random account number, no email address is required, and you can pay in cash. A provider that never collects your identity cannot be compelled to hand it over later, and that structural approach beats any promise about what a company chooses to delete. Mullvad has also passed more than eight audits from firms including Cure53 and NCC Group. NordVPN holds third as the strongest all rounder, with its sixth independent no-logs audit completed by Deloitte in December 2025 and by far the largest server network here. My advice: Mullvad if anonymity is the goal, Proton if you want audited privacy with a full feature set, NordVPN if speed and server coverage decide it.",
+          "highlights": [
+            {
+              "title": "Five consecutive annual no-logs audits is a pattern, not a press release",
+              "body": "Securitum's 2026 report marks Proton's fifth straight year of no-logs auditing. One audit shows a company prepared for an inspection. Five in a row shows the practice is structural, and that consistency is why I raised its privacy score today."
+            },
+            {
+              "title": "Mullvad wins by collecting nothing worth stealing",
+              "body": "A random account number, no required email, and the option to pay in cash mean there is no identity in the system to hand over. Data that was never collected cannot be subpoenaed, and that structural protection beats any deletion policy."
+            },
+            {
+              "title": "Audit volume matters as much as audit recency",
+              "body": "Mullvad has passed more than eight audits from firms including Cure53 and NCC Group. Repeated independent scrutiny across years and across different auditors is the closest thing to proof this industry offers."
+            },
+            {
+              "title": "NordVPN is the answer when speed and coverage decide it",
+              "body": "It completed its sixth independent no-logs audit with Deloitte in December 2025 and runs by far the largest server network in this list. For streaming across regions and for consistent speed from Taiwan, network size is the specification that matters."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "今天我把 ProtonVPN 的隱私分數往上調，因為稽核的「連續性」值得被計分，而 Proton 目前在這個領域的公開紀錄最完整。\n\nSecuritum 的 2026 年報告是它連續第五年通過無日誌稽核。這代表的是一種持續的問責機制，不是一次性的行銷動作。\n\n一次稽核只能告訴你這家公司在檢查前把東西整理乾淨了。連續五年，代表這件事已經寫進公司的運作方式裡。\n\nMullvad 守住第一，靠的是另一套哲學，而那套哲學我到現在還是覺得最有說服力。它的做法是，一開始就不要讓可以外洩的東西存在。\n\n註冊給你一組隨機帳號、不用電子郵件、甚至可以用現金付款。一家從來沒收集過你身分的服務商，之後也沒有東西可以被要求交出來。這種結構性的保護，勝過任何「我們保證會刪掉」的承諾。\n\nMullvad 也通過了八次以上的稽核，執行單位包含 Cure53 跟 NCC Group。\n\nNordVPN 排第三，是整體最均衡的選擇。2025 年 12 月由 Deloitte 完成第六次獨立無日誌稽核，伺服器數量遠超這份榜單上的其他家。",
+          "highlights": [
+            {
+              "title": "連續五年無日誌稽核是一種模式，不是一則新聞稿",
+              "body": "Securitum 的 2026 年報告是 Proton 連續第五年通過無日誌稽核。一次稽核代表公司為檢查做好準備，連續五次代表這件事是結構性的，這份一致性就是我今天調高它隱私分數的原因。"
+            },
+            {
+              "title": "Mullvad 靠的是「根本不收集值得偷的東西」",
+              "body": "隨機帳號、不用電子郵件、可以用現金付款，系統裡根本沒有身分可以交出去。從來沒被收集的資料，也沒辦法被調閱，這種結構性保護勝過任何刪除政策。"
+            },
+            {
+              "title": "稽核次數跟稽核時間一樣重要",
+              "body": "Mullvad 通過八次以上稽核，執行單位包含 Cure53 跟 NCC Group。跨越多年、由不同稽核公司反覆檢視，是這個產業能提供最接近證明的東西。"
+            },
+            {
+              "title": "看速度跟涵蓋率的話，答案是 NordVPN",
+              "body": "2025 年 12 月由 Deloitte 完成第六次獨立無日誌稽核，伺服器數量遠超榜單上其他家。要跨區看串流、或要從台灣連出去有穩定速度，節點數量就是最關鍵的規格。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
