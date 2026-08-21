@@ -194,6 +194,22 @@
           "priceRange": "約 NT$19,900"
         }
       }
+    },
+    {
+      "id": "petlibro-luma",
+      "name": "Luma Smart Litter Box",
+      "brand": "PETLIBRO",
+      "url": "https://petlibro.com/products/luma-smart-litter-box",
+      "i18n": {
+        "en": {
+          "description": "Weight, visual and infrared sensors plus anti-pinch protection all confirm the drum is clear before it turns, and a 1080p camera with AI waste analysis logs every visit for health tracking.",
+          "priceRange": "$599.99"
+        },
+        "zh-tw": {
+          "description": "重量、視覺、紅外線三組感測器加上防夾保護一起確認貓咪離開才啟動滾筒，1080p 鏡頭搭配 AI 排泄物分析會記錄每次如廁，健康變化看得出來。",
+          "priceRange": "約 NT$19,500"
+        }
+      }
     }
   ],
   "history": [
@@ -1546,8 +1562,20 @@
           }
         },
         {
-          "id": "petkit-purobot-max-pro-2",
+          "id": "petlibro-luma",
           "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "safety": 9.4,
+            "odor": 9.0,
+            "capacity": 8.8,
+            "health": 9.3,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "petkit-purobot-max-pro-2",
+          "rank": 5,
           "score": 8.6,
           "scores": {
             "safety": 8.8,
@@ -1558,8 +1586,20 @@
           }
         },
         {
+          "id": "litter-robot-evo",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "safety": 9.2,
+            "odor": 8.2,
+            "capacity": 7.5,
+            "health": 8.8,
+            "value": 8.6
+          }
+        },
+        {
           "id": "neakasa-m1",
-          "rank": 5,
+          "rank": 7,
           "score": 8.3,
           "scores": {
             "safety": 8.7,
@@ -1571,7 +1611,7 @@
         },
         {
           "id": "casa-leo-leos-loo-too",
-          "rank": 6,
+          "rank": 8,
           "score": 8.1,
           "scores": {
             "safety": 8.5,
@@ -1583,7 +1623,7 @@
         },
         {
           "id": "petkit-purobot-max-3",
-          "rank": 7,
+          "rank": 9,
           "score": 8.0,
           "scores": {
             "safety": 8.6,
@@ -1595,7 +1635,7 @@
         },
         {
           "id": "catlink-scooper-luxury-pro-x",
-          "rank": 8,
+          "rank": 10,
           "score": 7.7,
           "scores": {
             "safety": 8.4,
@@ -1607,7 +1647,7 @@
         },
         {
           "id": "petsafe-scoopfree-smartspin",
-          "rank": 9,
+          "rank": 11,
           "score": 7.5,
           "scores": {
             "safety": 7.9,
@@ -1619,25 +1659,13 @@
         },
         {
           "id": "meowant-mw-sc01",
-          "rank": 10,
+          "rank": 12,
           "score": 7.2,
           "scores": {
             "safety": 7.6,
             "odor": 7.3,
             "capacity": 7.2,
             "health": 6.9,
-            "value": 8.6
-          }
-        },
-        {
-          "id": "litter-robot-evo",
-          "rank": 11,
-          "score": 8.5,
-          "scores": {
-            "safety": 9.2,
-            "odor": 8.2,
-            "capacity": 7.5,
-            "health": 8.8,
             "value": 8.6
           }
         }

@@ -210,6 +210,22 @@
           "description": "專為 20 公斤以上大型犬設計，定位更新速度、心率和呼吸率監測跟 DOG 6 完全同級，電池在 Power Saving Zone 內能撐到六週，外殼是防咬的玻璃纖維、IP68 防水。老實說，養黃金獵犬或拉布拉多的飼主最常抱怨的就是追蹤器兩三週就要充電、項圈掛件還會被咬爛，這台把兩件事一次解決，重量 70 克掛在大型犬身上也感覺不出來。"
         }
       }
+    },
+    {
+      "id": "invoxia-biotracker-2026",
+      "name": "Invoxia Biotracker 2026 Edition",
+      "brand": "Invoxia",
+      "url": "https://www.invoxia.com/petcare/minitailz-dog-tracker",
+      "i18n": {
+        "en": {
+          "description": "A 37g IP67 collar tag that pushes live position every second over LTE-M, with resting heart rate, respiratory rate and HRV monitoring that stays free for the life of the device.",
+          "priceRange": "$99 + $12/mo for live GPS"
+        },
+        "zh-tw": {
+          "description": "37 克的 IP67 項圈追蹤器，透過 LTE-M 每秒回報一次即時位置，靜息心率、呼吸率和 HRV 這些健康數據終身免費，只有遠端即時 GPS 需要付月費。",
+          "priceRange": "約 NT$3,200 + 即時 GPS 月費約 NT$390"
+        }
+      }
     }
   ],
   "history": [
@@ -2221,8 +2237,20 @@
           }
         },
         {
-          "id": "halo-collar-5",
+          "id": "invoxia-biotracker-2026",
           "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "live_tracking": 9.3,
+            "battery_life": 9.2,
+            "coverage": 8.5,
+            "health_features": 9.6,
+            "value": 8.9
+          }
+        },
+        {
+          "id": "halo-collar-5",
+          "rank": 5,
           "score": 8.8,
           "scores": {
             "live_tracking": 9.5,
@@ -2234,7 +2262,7 @@
         },
         {
           "id": "cube-gps-pro",
-          "rank": 5,
+          "rank": 6,
           "score": 8.6,
           "scores": {
             "live_tracking": 8.4,
@@ -2246,7 +2274,7 @@
         },
         {
           "id": "spoton-gps-fence",
-          "rank": 6,
+          "rank": 7,
           "score": 8.5,
           "scores": {
             "live_tracking": 8.4,
@@ -2258,7 +2286,7 @@
         },
         {
           "id": "garmin-alpha-200i",
-          "rank": 7,
+          "rank": 8,
           "score": 8.4,
           "scores": {
             "live_tracking": 9.0,
@@ -2270,7 +2298,7 @@
         },
         {
           "id": "jiobit-life360",
-          "rank": 8,
+          "rank": 9,
           "score": 8.3,
           "scores": {
             "live_tracking": 8.6,
@@ -2282,7 +2310,7 @@
         },
         {
           "id": "pitpat-gps",
-          "rank": 9,
+          "rank": 10,
           "score": 8.2,
           "scores": {
             "live_tracking": 8.0,
@@ -2294,7 +2322,7 @@
         },
         {
           "id": "apple-airtag",
-          "rank": 10,
+          "rank": 11,
           "score": 8.0,
           "scores": {
             "live_tracking": 6.5,
@@ -2306,7 +2334,7 @@
         },
         {
           "id": "aorkuler-2",
-          "rank": 11,
+          "rank": 12,
           "score": 7.9,
           "scores": {
             "live_tracking": 8.0,
@@ -2318,7 +2346,7 @@
         },
         {
           "id": "petcube-gps",
-          "rank": 12,
+          "rank": 13,
           "score": 7.6,
           "scores": {
             "live_tracking": 7.0,
