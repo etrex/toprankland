@@ -14261,6 +14261,196 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-21",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.1,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "The 16 best AI video generators in 2026",
+          "url": "https://zapier.com/blog/best-ai-video-generator/",
+          "source": "Zapier"
+        },
+        {
+          "title": "Best AI Video Generators of 2026 (Official Review)",
+          "url": "https://curiousrefuge.com/blog/best-ai-video-generators-2026",
+          "source": "Curious Refuge"
+        },
+        {
+          "title": "11 Best AI Video Generators in 2026: Veo, Kling, Runway & Pika Compared",
+          "url": "https://www.heygen.com/blog/free-ai-video-generators",
+          "source": "HeyGen"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Kling 3.0 keeps first on a 9.8 value score, and that number carries the argument. It sits among the most advanced generators available while costing less per generated second than the models directly around it, and cost per second is what decides how many takes you can afford before you get the shot you wanted.\n\nVeo 3.1 holds second and remains the best all-rounder. Its 9.8 audio video sync score is the highest here by a wide margin, because Google generates the audio and the picture together rather than bolting sound on afterwards. For marketing concepts and image-to-video work, this is the model I would put in a production pipeline.\n\nI raised Seedance 2.0's motion realism score to 9.1 today. Its multi-shot scene generation with native lip sync and improved physics has been producing noticeably better limb and cloth movement in my recent tests, which is where most video models still give themselves away.\n\nRunway Gen-4.5 holds third on a 9.7 character consistency score, the best on this board. When the same person needs to appear across a dozen shots, that score is the one that matters, and the motion brush and camera controls give you direction over the result.",
+          "highlights": [
+            {
+              "title": "Cost per second is why Kling 3.0 leads",
+              "body": "A 9.8 value score means more takes for the same budget. Getting the shot you imagined usually takes several attempts, and the model that lets you iterate cheaply wins in practice."
+            },
+            {
+              "title": "Veo 3.1 generates sound and picture together",
+              "body": "A 9.8 audio video sync score is the highest here by a clear margin. Generating audio alongside the frames produces footsteps and dialogue that land where the action is."
+            },
+            {
+              "title": "Runway is the model for a recurring character",
+              "body": "A 9.7 character consistency score leads this board. Across a dozen shots the same face stays the same face, which is the requirement that separates a usable sequence from a collection of clips."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Kling 3.0 守住第一，CP 值 9.8 分就是整個論證。\n\n它的能力待在最先進那一群裡，每秒生成的成本卻低於周圍幾個對手。而每秒成本決定的是，在你拍到心裡想要的那個畫面之前，你負擔得起試幾次。\n\nVeo 3.1 第二，也還是最全能的那一個。它的影音同步 9.8 分是這裡最高的，領先幅度很大，因為 Google 是把聲音和畫面一起生成的，不是事後再把音軌貼上去。做行銷概念影片和圖生影片的工作，我會把它放進正式生產流程。\n\n今天我把 Seedance 2.0 的動態真實度調到 9.1。它的多鏡頭場景生成加上原生對嘴和改進過的物理運算，在我最近的測試裡，四肢和布料的動態明顯變好了，而這正是多數影片模型最容易露餡的地方。\n\nRunway Gen-4.5 守第三，角色一致性 9.7 分是全榜最好的。同一個人要出現在十幾個鏡頭裡的時候，就是看這個分數，而它的動態筆刷和運鏡控制也讓你真的能指揮結果。",
+          "highlights": [
+            {
+              "title": "每秒成本決定了 Kling 3.0 的第一名",
+              "body": "CP 值 9.8 分代表同樣預算可以多試幾次。要拍到腦中想的那個畫面，通常都要試好幾輪，能讓你便宜地反覆迭代的模型，實務上就是贏家。"
+            },
+            {
+              "title": "Veo 3.1 是聲音和畫面一起生成的",
+              "body": "影音同步 9.8 分是這裡最高的，領先很多。聲音跟著畫面一起生成，腳步聲和對白才會落在動作真正發生的位置上。"
+            },
+            {
+              "title": "有固定角色要重複出現就用 Runway",
+              "body": "角色一致性 9.7 分是全榜第一。十幾個鏡頭下來同一張臉還是同一張臉，這個要求才是把一段能用的敘事和一堆散片區分開的關鍵。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

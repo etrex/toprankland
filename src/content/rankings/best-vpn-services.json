@@ -14941,6 +14941,160 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-21",
+      "rankings": [
+        {
+          "id": "protonvpn",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "privacy": 9.7,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "mullvad",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Mullvad vs NordVPN vs Proton VPN: Privacy Compared (2026)",
+          "url": "https://ifeeltech.com/blog/mullvad-vs-nordvpn-vs-proton-vpn",
+          "source": "iFeelTech"
+        },
+        {
+          "title": "The 3 Best VPNs of 2026",
+          "url": "https://www.rtings.com/vpn/reviews/best/vpn",
+          "source": "RTINGS"
+        },
+        {
+          "title": "NordVPN vs Proton VPN vs Mullvad (2026): Three Trust Models, No Universal Winner",
+          "url": "https://www.thevpnmatrix.com/blog/privacy-trinity",
+          "source": "The VPN Matrix"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "I moved ProtonVPN to first today, and the change corrects an inconsistency I should have fixed sooner. Proton has been scoring 9.3 overall against Mullvad's 9.2 while sitting in second place. Looking at the factors again confirms the higher score is right. Proton posts a 9.9 network score against Mullvad's 8.0, and network breadth decides whether you can actually get a working connection in the country you need. Proton also carries a 9.0 usability score, which matters because a VPN you find annoying is a VPN you switch off.\n\nMullvad moves to second and keeps the highest privacy score on this board at 9.8. Its account model uses a random number with no email required, and it accepts cash by post. For anyone whose threat model is serious, that remains the strongest position in the industry, and I still recommend it on that basis.\n\nNordVPN holds third on a 9.3 speed score and a 9.6 network score. For streaming and large downloads, that combination performs.\n\nIVPN keeps fourth on a 9.5 privacy score, and ExpressVPN stays fifth on a 9.5 usability score for people who want the simplest possible setup.",
+          "highlights": [
+            {
+              "title": "ProtonVPN takes first because network breadth decides real-world use",
+              "body": "A 9.9 network score against 8.0 means far more countries and servers available when you need a specific location. Combined with a 9.0 usability score, it is the VPN most people should run."
+            },
+            {
+              "title": "Mullvad still holds the strongest privacy position in the industry",
+              "body": "A 9.8 privacy score comes from an account model that is a random number with no email, and payment accepted as cash by post. For a serious threat model, nothing else matches it."
+            },
+            {
+              "title": "NordVPN is the choice for streaming and large downloads",
+              "body": "A 9.3 speed score with a 9.6 network score. When throughput is what you care about, that pairing delivers consistently across regions."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "今天我把 ProtonVPN 移到第一，這個調整是在修正一個我早就該處理的不一致。\n\nProton 的總分一直是 9.3，Mullvad 是 9.2，但 Proton 卻排在第二。重新看過各項因素之後，我確認那個比較高的分數是對的。Proton 的網路涵蓋拿 9.9，Mullvad 是 8.0，而網路涵蓋度決定你在需要的那個國家到底連不連得上。Proton 的易用性也有 9.0，這件事很重要，因為你覺得煩的 VPN，就是你會關掉的 VPN。\n\nMullvad 移到第二，隱私 9.8 分還是全榜最高。它的帳號就是一組隨機數字，不用 email，還可以直接寄現金付款。威脅模型認真的人，這在業界仍然是最硬的立場，我也還是基於這一點推薦它。\n\nNordVPN 守第三，速度 9.3、網路 9.6。要看串流、下載大檔，這個組合跑得動。\n\nIVPN 第四，隱私 9.5 分。ExpressVPN 第五，易用性 9.5 分，適合想要設定越簡單越好的人。",
+          "highlights": [
+            {
+              "title": "ProtonVPN 拿下第一，因為網路涵蓋決定實際能不能用",
+              "body": "網路 9.9 分對上 8.0 分，代表你需要特定國家節點的時候，可選的國家和伺服器多太多了。配上 9.0 的易用性，多數人該用的就是它。"
+            },
+            {
+              "title": "Mullvad 的隱私立場在業界還是最硬的",
+              "body": "隱私 9.8 分來自於帳號只是一組隨機數字、不需要 email，還能直接寄現金付款。威脅模型認真的人，目前沒有第二家做到這個程度。"
+            },
+            {
+              "title": "看串流、下載大檔就選 NordVPN",
+              "body": "速度 9.3 配上網路 9.6。當你在意的是實際吞吐量，這個組合在各地區的表現都很穩定。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

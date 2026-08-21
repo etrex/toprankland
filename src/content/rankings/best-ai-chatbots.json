@@ -13621,6 +13621,202 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-21",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.9,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.4,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "LLM News Today (August 2026) – AI Model Releases",
+          "url": "https://llm-stats.com/ai-news",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "New AI Model Releases — August 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        },
+        {
+          "title": "Best AI Models in August 2026: Updated Rankings and Comparisons",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Eleven new models shipped in the first half of August from seven providers, with GLM-5.3 arriving on the 14th and Grok 4.6 on the 12th. The pace is relentless, and two changes this month are worth acting on.\n\nI raised ChatGPT's value score to 9.4. OpenAI cut API pricing on its two cheaper GPT-5.6 tiers on July 30, with the entry tier dropping 80 percent to $0.20 and $1.20 per million tokens. A price cut of that size changes who can afford to build on it, and it lands directly on the value factor.\n\nI also nudged Grok's reasoning score to 9.1 after the 4.6 release on August 12. SpaceXAI kept the 4.5 base and added longer supplemental training with regenerated fine-tuning trajectories and reinforcement learning, which shows up as steadier multi-step answers.\n\nChatGPT and Claude stay level at 9.5. I recommend ChatGPT when you want the broadest ecosystem and the most third-party integrations, and Claude when the work is writing or code, where its 9.9 coding score and 9.7 writing score lead this board. Gemini holds third on a 9.5 value score and the tightest integration with Google Workspace.",
+          "highlights": [
+            {
+              "title": "An 80 percent API price cut is why ChatGPT's value score went up",
+              "body": "OpenAI dropped its entry GPT-5.6 tier to $0.20 and $1.20 per million tokens on July 30. That reprices what an AI feature costs to run, and it directly changes who can build on the platform."
+            },
+            {
+              "title": "Pick Claude when the output is writing or code",
+              "body": "A 9.9 coding score and a 9.7 writing score lead this board. For long-form drafting and multi-file code work, this is the model I use, and the gap is visible in the output rather than only in benchmarks."
+            },
+            {
+              "title": "Grok 4.6 improved the part of Grok that needed it",
+              "body": "Longer supplemental training with regenerated fine-tuning trajectories produces steadier multi-step reasoning. Combined with the 9.8 realtime score, it is the model to use when the answer depends on what happened today."
+            },
+            {
+              "title": "Eleven model releases in two weeks is the real story",
+              "body": "Seven providers shipped eleven models in the first half of August. Anyone choosing an AI tool should assume the landscape looks different in a month and avoid locking into long contracts."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "八月上半個月，七家供應商總共推了十一個新模型，GLM-5.3 在十四號、Grok 4.6 在十二號。這個節奏真的沒在停，而這個月有兩件事值得反映到分數上。\n\n我把 ChatGPT 的 CP 值調到 9.4。OpenAI 在七月三十號調降了兩個較便宜的 GPT-5.6 級距的 API 價格，入門級直接砍八成，變成每百萬 token 輸入 0.2 美元、輸出 1.2 美元。這種幅度的降價會改變誰付得起用它來開發，直接落在 CP 值這一項。\n\n我也把 Grok 的推理分數往上推到 9.1，因為八月十二號的 4.6 版。SpaceXAI 保留 4.5 的底座，加上更長的補充訓練、重新生成的微調軌跡、和強化學習，實際感受就是多步驟回答比以前穩。\n\nChatGPT 和 Claude 同樣 9.5 分並列。要最廣的生態系和最多第三方整合，我推 ChatGPT。工作內容是寫作或寫程式的話，就是 Claude，它的程式 9.9 分和寫作 9.7 分都是全榜最高。Gemini 守第三，CP 值 9.5，跟 Google Workspace 的整合也最緊。",
+          "highlights": [
+            {
+              "title": "API 降價八成，是 ChatGPT 的 CP 值分數往上調的原因",
+              "body": "OpenAI 七月三十號把入門的 GPT-5.6 級距降到每百萬 token 輸入 0.2、輸出 1.2 美元。這重新定義了一個 AI 功能的營運成本，也直接改變了誰能在這個平台上開發。"
+            },
+            {
+              "title": "產出是文字或程式碼的話就選 Claude",
+              "body": "程式 9.9 分、寫作 9.7 分，兩項都是全榜最高。長篇撰稿和跨檔案的程式工作我自己用它，差距是在產出上看得出來，不是只在跑分上。"
+            },
+            {
+              "title": "Grok 4.6 補強的正好是 Grok 最需要補的地方",
+              "body": "更長的補充訓練加上重新生成的微調軌跡，讓多步驟推理穩了不少。配上 9.8 的即時性分數，答案取決於今天發生什麼事的時候，就用它。"
+            },
+            {
+              "title": "兩週十一個模型才是真正的重點",
+              "body": "八月上半七家供應商推了十一個模型。要選 AI 工具的人都該假設一個月後局勢完全不同，不要簽太長的約把自己綁住。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -20013,6 +20013,228 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-21",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "LLM News Today (August 2026) – AI Model Releases",
+          "url": "https://llm-stats.com/ai-news",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "New AI Model Releases — August 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        },
+        {
+          "title": "Best AI Models in August 2026: Updated Rankings and Comparisons",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code holds first with a 9.8 code quality score and a 9.7 agentic capability score, and the reason is architectural. It runs as a native CLI agent inside a terminal and inside VS Code, which means it operates on your actual repository with your actual toolchain rather than through a chat window that you paste into. That difference decides whether an assistant can finish a multi-file refactor or only suggest one.\n\nBenchmark results this month continue to show Anthropic's models leading software engineering and agentic coding evaluations, which matches what I see running them on real work.\n\nOpenAI Codex and Cursor sit level at 9.1. I recommend Codex when you want an agent that plans and executes long tasks, and Cursor when you want the assistant inside an editor you already know, where its 9.6 IDE integration score is the highest here.\n\nGoogle Antigravity holds fourth on a 8.8 value score, and it is the option I point developers toward when they want agentic behaviour without the flagship price.\n\nGitHub Copilot stays seventh on a 9.5 IDE integration score. It remains the smoothest autocomplete experience, and its 6.1 value score reflects how much stronger the competition has become at the same price.",
+          "highlights": [
+            {
+              "title": "Running as a CLI agent is why Claude Code leads",
+              "body": "It works on your real repository with your real toolchain rather than through a chat window. A 9.7 agentic capability score reflects an assistant that finishes multi-file refactors instead of suggesting them."
+            },
+            {
+              "title": "Cursor is the pick if you want to stay in your editor",
+              "body": "A 9.6 IDE integration score is the highest on this board. For developers who think in terms of files and tabs rather than terminal sessions, that familiarity is worth real productivity."
+            },
+            {
+              "title": "Google Antigravity is the value play for agentic work",
+              "body": "A 8.8 value score with a 9.0 agentic capability score. If you want an agent that plans and executes without paying flagship rates, this is where I would start."
+            },
+            {
+              "title": "Copilot's low value score is a statement about the competition",
+              "body": "A 9.5 IDE integration score alongside a 6.1 value score. The autocomplete is still smooth, and rivals now deliver considerably more capability for the same monthly spend."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 守住第一，程式品質 9.8、代理能力 9.7，理由在架構上。\n\n它是以原生 CLI 代理的形式跑在終端機和 VS Code 裡，意思是它直接在你真正的專案上、用你真正的工具鏈做事，不是透過一個要你複製貼上的聊天視窗。這個差別決定了一個助理能不能真的把跨檔案重構做完，還是只能建議你怎麼做。\n\n這個月的跑分結果也持續顯示 Anthropic 的模型在軟體工程和代理式程式任務上領先，這跟我拿它們處理真實工作的感受一致。\n\nOpenAI Codex 和 Cursor 同為 9.1 分。想要能規劃並執行長任務的代理，我推 Codex。想要助理待在你熟悉的編輯器裡，就選 Cursor，它的 IDE 整合 9.6 分是這裡最高的。\n\nGoogle Antigravity 守第四，CP 值 8.8。想要代理式行為又不想付旗艦價的開發者，我會叫他們先看這個。\n\nGitHub Copilot 維持第七，IDE 整合 9.5 分。它的自動補完到現在還是最順的，而 6.1 的 CP 值分數反映的是同樣價格下對手變強了多少。",
+          "highlights": [
+            {
+              "title": "以 CLI 代理的形式運作，是 Claude Code 領先的原因",
+              "body": "它在你真正的專案上、用你真正的工具鏈做事，不是隔著一個聊天視窗。代理能力 9.7 分反映的是一個能把跨檔案重構做完的助理，不是只會給建議的那種。"
+            },
+            {
+              "title": "想留在自己的編輯器裡就選 Cursor",
+              "body": "IDE 整合 9.6 分是全榜最高。對習慣用檔案和分頁思考、而不是用終端機工作的開發者來說，這種熟悉感換來的生產力是實在的。"
+            },
+            {
+              "title": "要代理式工作又想控成本就看 Google Antigravity",
+              "body": "CP 值 8.8 分配上代理能力 9.0 分。想要一個會規劃也會執行的代理，又不想付旗艦價格的話，我會從這裡開始。"
+            },
+            {
+              "title": "Copilot 偏低的 CP 值分數是在講對手有多強",
+              "body": "IDE 整合 9.5 分，CP 值卻只有 6.1 分。它的自動補完還是很順，但同樣的月費，對手現在給的能力多太多了。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
