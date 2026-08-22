@@ -26,11 +26,11 @@
       "url": "https://tractive.com/en/pd/gps-tracker-dog",
       "i18n": {
         "en": {
-          "priceRange": "$79 + $5/mo",
+          "priceRange": "$79 + $5-13/mo by plan length",
           "description": "The consensus top pick, with location updates every 2 to 3 seconds, 175-country LTE coverage, virtual-fence escape alerts and heart and respiratory-rate monitoring built in."
         },
         "zh-tw": {
-          "priceRange": "約 NT$2,500 + 月費約 NT$160 起",
+          "priceRange": "約 NT$2,500 + 月費約 NT$160-420（依綁約長度）",
           "description": "六家主流評測一致點名的整體首選，每 2 到 3 秒更新一次定位，內建 SIM 卡吃 175 國 LTE，逃脫警報、心率和呼吸率監測全都有。說真的，愛犬走失時最需要的就是這種即時性，這台把定位速度做成硬指標，我心中的第一名就是它。"
         }
       }
@@ -39,14 +39,14 @@
       "id": "fi-series-3",
       "name": "Fi Series 3+",
       "brand": "Fi",
-      "url": "https://tryfi.com/",
+      "url": "https://fitracking.com/",
       "i18n": {
         "en": {
-          "priceRange": "$99 + $9/mo",
+          "priceRange": "$19/mo membership, collar included",
           "description": "The battery champion, holding up to three months per charge with sub-10-second geofence alerts and a chew-resistant integrated collar that survives real dogs."
         },
         "zh-tw": {
-          "priceRange": "約 NT$3,200 + 月費約 NT$290",
+          "priceRange": "月費約 NT$600（含項圈）",
           "description": "續航之王，一次充電能撐將近三個月，逃脫警報十秒內就跳出來，整合式項圈防咬又耐操。坦白講，如果你最怕的是天天充電或項圈被大型犬咬爛，Fi 就是為你設計的，唯一的門檻是它主打美國本土覆蓋。"
         }
       }
@@ -202,11 +202,11 @@
       "url": "https://tractive.com/en/pd/gps-tracker-dog-xl",
       "i18n": {
         "en": {
-          "priceRange": "$89 + $5/mo",
+          "priceRange": "$89 + $5-13/mo by plan length",
           "description": "Built for dogs over 44 lb, carrying the same 2-to-3-second location updates and heart and respiratory-rate monitoring as the DOG 6 while stretching to six weeks of battery inside Power Saving Zones, in a bite-proof fiberglass shell rated IP68."
         },
         "zh-tw": {
-          "priceRange": "約 NT$2,800 + 月費約 NT$160 起",
+          "priceRange": "約 NT$2,800 + 月費約 NT$160-420（依綁約長度）",
           "description": "專為 20 公斤以上大型犬設計，定位更新速度、心率和呼吸率監測跟 DOG 6 完全同級，電池在 Power Saving Zone 內能撐到六週，外殼是防咬的玻璃纖維、IP68 防水。老實說，養黃金獵犬或拉布拉多的飼主最常抱怨的就是追蹤器兩三週就要充電、項圈掛件還會被咬爛，這台把兩件事一次解決，重量 70 克掛在大型犬身上也感覺不出來。"
         }
       }
@@ -224,6 +224,22 @@
         "zh-tw": {
           "description": "37 克的 IP67 項圈追蹤器，透過 LTE-M 每秒回報一次即時位置，靜息心率、呼吸率和 HRV 這些健康數據終身免費，只有遠端即時 GPS 需要付月費。",
           "priceRange": "約 NT$3,200 + 即時 GPS 月費約 NT$390"
+        }
+      }
+    },
+    {
+      "id": "pawfit-lite",
+      "name": "Pawfit Lite",
+      "brand": "Pawfit",
+      "url": "https://www.pawfit.com/en-us/product/pawfit-lite-gps-tracker-for-dogs.html",
+      "i18n": {
+        "en": {
+          "description": "At 17.6 grams this is the tracker a 6-pound Maltese will actually keep on its collar, and FIND mode drops a fresh fix every 5 seconds once the chase is on. Battery runs about three days, so it lives on the charging dock twice a week.",
+          "priceRange": "$49 + $4.75-8.35/mo"
+        },
+        "zh-tw": {
+          "description": "只有 17.6 公克，3 公斤的馬爾濟斯掛在項圈上真的不會想去甩掉，狗跑了開 FIND 模式每 5 秒回報一次位置。續航大約三天，一週要記得回充電座兩次。",
+          "priceRange": "約 NT$1,600 + 月費約 NT$150-270"
         }
       }
     }
@@ -2321,8 +2337,20 @@
           }
         },
         {
-          "id": "apple-airtag",
+          "id": "pawfit-lite",
           "rank": 11,
+          "score": 8.1,
+          "scores": {
+            "live_tracking": 8.6,
+            "battery_life": 6.8,
+            "coverage": 8.6,
+            "health_features": 7.2,
+            "value": 9.1
+          }
+        },
+        {
+          "id": "apple-airtag",
+          "rank": 12,
           "score": 8.0,
           "scores": {
             "live_tracking": 6.5,
@@ -2334,7 +2362,7 @@
         },
         {
           "id": "aorkuler-2",
-          "rank": 12,
+          "rank": 13,
           "score": 7.9,
           "scores": {
             "live_tracking": 8.0,
@@ -2346,7 +2374,7 @@
         },
         {
           "id": "petcube-gps",
-          "rank": 13,
+          "rank": 14,
           "score": 7.6,
           "scores": {
             "live_tracking": 7.0,
