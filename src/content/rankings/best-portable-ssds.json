@@ -1,0 +1,491 @@
+{
+  "slug": "best-portable-ssds",
+  "category": "Electronics",
+  "scoreFactors": {
+    "pricePerTb": "Price Per Terabyte",
+    "sustainedWrite": "Sustained Write After Cache",
+    "interface": "Interface & Host Compatibility",
+    "durability": "Durability & Ingress Rating",
+    "capacityValue": "Capacity Ladder Value",
+    "warranty": "Warranty & Endurance",
+    "portability": "Size & Weight"
+  },
+  "i18n": {
+    "en": {
+      "title": "Best Portable SSDs 2026",
+      "description": "Daily-updated rankings of the best portable SSDs, scored on price per terabyte, sustained write after the SLC cache fills, host interface compatibility, durability, capacity value, warranty and portability."
+    },
+    "zh-tw": {
+      "title": "最佳外接 SSD 2026",
+      "description": "每日更新的最佳外接固態硬碟排行榜，依每 TB 單價、SLC 快取寫滿後的持續寫入、主機端介面相容性、防護等級、容量級距划算度、保固與體積重量評分。"
+    }
+  },
+  "competitors": [
+    {
+      "id": "crucial-x9-pro",
+      "name": "Crucial X9 Pro",
+      "brand": "Crucial",
+      "url": "https://www.crucial.com/products/portable-ssd/crucial-x9-pro-portable-ssd",
+      "i18n": {
+        "en": {
+          "description": "A steel-bodied 10Gbps drive that holds roughly 1,050MB/s all the way through a 200GB transfer and still lands at the lowest cost per terabyte of any name-brand portable SSD I track.",
+          "priceRange": "$155 (1TB) / $285 (2TB)"
+        },
+        "zh-tw": {
+          "description": "鋁合金機身的 10Gbps 機種，實測連續倒 200GB 素材全程都咬在 1,050MB/s 左右，而且每 TB 單價是我追蹤的一線品牌裡最低的。",
+          "priceRange": "NT$4,990 起"
+        }
+      }
+    },
+    {
+      "id": "crucial-x10-pro",
+      "name": "Crucial X10 Pro",
+      "brand": "Crucial",
+      "url": "https://www.crucial.com/products/portable-ssd/crucial-x10-pro-portable-ssd",
+      "i18n": {
+        "en": {
+          "description": "2,100MB/s read and 2,000MB/s write over USB 3.2 Gen 2x2, with IP55 sealing and 7.5-foot drop protection, at a price that undercuts every Thunderbolt drive by a wide margin.",
+          "priceRange": "$185 (1TB) / $330 (2TB)"
+        },
+        "zh-tw": {
+          "description": "USB 3.2 Gen 2x2 跑到讀 2,100MB/s、寫 2,000MB/s，IP55 防塵防水加上 2.2 公尺落摔保護，價格比任何一台 Thunderbolt 機種便宜一大截。",
+          "priceRange": "NT$5,790 起"
+        }
+      }
+    },
+    {
+      "id": "samsung-t9",
+      "name": "Samsung T9",
+      "brand": "Samsung",
+      "url": "https://www.samsung.com/us/memory-storage/portable-ssd/portable-ssd-t9-usb-3-2-1tb-black-sku-mu-pg1t0b-am/",
+      "i18n": {
+        "en": {
+          "description": "The most consistent sustained write in the mainstream class, holding above 1,500MB/s through a full 200GB card dump, backed by a five-year warranty and Samsung's own controller.",
+          "priceRange": "$245 (1TB) / $430 (2TB)"
+        },
+        "zh-tw": {
+          "description": "主流價位帶裡持續寫入最穩的一台，整張 200GB 記憶卡一次倒完全程還在 1,500MB/s 以上，五年保固加三星自家主控。",
+          "priceRange": "NT$7,590 起"
+        }
+      }
+    },
+    {
+      "id": "sandisk-extreme-portable",
+      "name": "SanDisk Extreme Portable SSD",
+      "brand": "SanDisk",
+      "url": "https://www.sandisk.com/products/ssd/external-ssd/portable-ssd-sandisk-extreme-usb-3-2",
+      "i18n": {
+        "en": {
+          "description": "IP65 sealing, a carabiner loop and around 1,000MB/s in a drive that survives rain, dust and job-site abuse, at the friendliest entry price in the rugged tier.",
+          "priceRange": "$150 (1TB) / $270 (2TB)"
+        },
+        "zh-tw": {
+          "description": "IP65 防塵防水、機身直接有掛環，速度約 1,000MB/s，下雨天跟灰塵環境都能照用，是三防機種裡入手價最漂亮的一台。",
+          "priceRange": "NT$4,690 起"
+        }
+      }
+    },
+    {
+      "id": "corsair-ex400u",
+      "name": "Corsair EX400U",
+      "brand": "Corsair",
+      "url": "https://www.corsair.com/us/en/p/data-storage/cssd-ex400u2tb/ex400u-2tb-usb4-external-ssd-cssd-ex400u2tb",
+      "i18n": {
+        "en": {
+          "description": "USB4 at up to 4,000MB/s read and 3,600MB/s write, settling around 1,600 to 1,700MB/s once the SLC cache fills, with a MagSafe ring that clips it straight onto an iPhone.",
+          "priceRange": "$215 (1TB) / $370 (2TB)"
+        },
+        "zh-tw": {
+          "description": "USB4 介面，讀 4,000MB/s、寫 3,600MB/s，SLC 快取寫滿後穩在 1,600 到 1,700MB/s，機身有 MagSafe 磁吸環可以直接貼在 iPhone 背面。",
+          "priceRange": "約 NT$6,790 起"
+        }
+      }
+    },
+    {
+      "id": "samsung-t7-shield",
+      "name": "Samsung T7 Shield",
+      "brand": "Samsung",
+      "url": "https://www.samsung.com/us/memory-storage/portable-ssd/portable-ssd-t7-shield-usb-3-2-1tb-black-sku-mu-pe1t0s-am/",
+      "i18n": {
+        "en": {
+          "description": "1,050MB/s over plain USB 3.2 Gen 2, IP65 rated, rubber-armoured and rated for a three-metre drop, which makes it the safest pick for a drive that lives in a camera bag.",
+          "priceRange": "$225 (1TB) / $400 (2TB)"
+        },
+        "zh-tw": {
+          "description": "單純 USB 3.2 Gen 2 的 1,050MB/s，IP65 防護加橡膠包覆，三公尺落摔規格，長期丟在相機包裡跑外拍選它最安心。",
+          "priceRange": "NT$6,990 起"
+        }
+      }
+    },
+    {
+      "id": "crucial-x10",
+      "name": "Crucial X10",
+      "brand": "Crucial",
+      "url": "https://www.crucial.com/products/portable-ssd/crucial-x10-portable-ssd",
+      "i18n": {
+        "en": {
+          "description": "The only mainstream drive with an 8TB option, running 2,100MB/s reads with IP55 sealing, which makes it the archive drive for anyone shooting long-form video.",
+          "priceRange": "$170 (1TB) / $305 (2TB)"
+        },
+        "zh-tw": {
+          "description": "主流品牌裡唯一做到 8TB 的機種，讀取 2,100MB/s 加 IP55 防護，拍長片、要整包素材帶著走的人，用它當總倉庫最實在。",
+          "priceRange": "NT$5,290 起"
+        }
+      }
+    },
+    {
+      "id": "transcend-esd410c",
+      "name": "Transcend ESD410C",
+      "brand": "Transcend",
+      "url": "https://www.transcend-info.com/product/portable-ssd/esd410c",
+      "i18n": {
+        "en": {
+          "description": "A Taiwanese-brand 20Gbps drive with a built-in dual-head USB-C and USB-A connector, so it plugs into an older laptop or a phone with nothing else in the bag.",
+          "priceRange": "$165 (1TB) / $295 (2TB)"
+        },
+        "zh-tw": {
+          "description": "台灣品牌的 20Gbps 機種，機身直接內建 USB-C 加 USB-A 雙頭接口，插舊筆電或手機都不用另外帶線。",
+          "priceRange": "NT$5,190 起"
+        }
+      }
+    },
+    {
+      "id": "sandisk-extreme-pro-v3",
+      "name": "SanDisk Extreme PRO Portable SSD V3",
+      "brand": "SanDisk",
+      "url": "https://www.sandisk.com/products/ssd/external-ssd/sandisk-extreme-pro-portable-ssd-v3",
+      "i18n": {
+        "en": {
+          "description": "Up to 4,000MB/s with IP65 sealing, 3m drop protection and 256-bit AES, the fastest rugged drive on the market and priced accordingly.",
+          "priceRange": "$260 (1TB) / $460 (2TB)"
+        },
+        "zh-tw": {
+          "description": "速度上看 4,000MB/s，IP65 防護、三米落摔、256 位元 AES 加密全都有，市面上最快的三防機種，價格也跟著站上頂端。",
+          "priceRange": "約 NT$8,190 起"
+        }
+      }
+    },
+    {
+      "id": "lexar-armor-700",
+      "name": "Lexar ARMOR 700",
+      "brand": "Lexar",
+      "url": "https://www.lexar.com/product/lexar-armor-700-portable-ssd/",
+      "i18n": {
+        "en": {
+          "description": "IP66 sealing and a military-grade shell around a 2,000MB/s drive, with a detachable carabiner mount that actually stays put on a backpack strap.",
+          "priceRange": "$175 (1TB) / $310 (2TB)"
+        },
+        "zh-tw": {
+          "description": "IP66 防護加軍規外殼，速度 2,000MB/s，附的登山扣是真的扣得牢，掛在背包背帶上騎車跑一天不會掉。",
+          "priceRange": "NT$5,490 起"
+        }
+      }
+    },
+    {
+      "id": "kingston-xs2000",
+      "name": "Kingston XS2000",
+      "brand": "Kingston",
+      "url": "https://www.kingston.com/en/ssd/xs2000-external-ssd",
+      "i18n": {
+        "en": {
+          "description": "2,000MB/s in a 29-gram body the size of two stacked sticks of gum, with a removable rubber sleeve that adds IP55 protection when you need it.",
+          "priceRange": "$195 (1TB) / $350 (2TB)"
+        },
+        "zh-tw": {
+          "description": "2,000MB/s 塞在 29 公克、大概兩片口香糖疊起來的機身裡，附的橡膠套可拆，套上去就有 IP55 防護。",
+          "priceRange": "NT$6,090 起"
+        }
+      }
+    },
+    {
+      "id": "sandisk-extreme-pro-usb32",
+      "name": "SanDisk Extreme PRO (USB 3.2 Gen 2x2)",
+      "brand": "SanDisk",
+      "url": "https://www.sandisk.com/products/ssd/external-ssd/portable-ssd-sandisk-extreme-pro-usb-3-2",
+      "i18n": {
+        "en": {
+          "description": "An aluminium-shelled 2,000MB/s drive with IP55 sealing and a five-year warranty, the veteran choice for photographers who want a forged-metal heatsink doing the cooling.",
+          "priceRange": "$230 (1TB) / $410 (2TB)"
+        },
+        "zh-tw": {
+          "description": "鋁合金外殼的 2,000MB/s 機種，IP55 防護、五年保固，機身本體就是散熱片，攝影圈用很久的老面孔。",
+          "priceRange": "NT$7,190 起"
+        }
+      }
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-08-24",
+      "rankings": [
+        {
+          "id": "crucial-x9-pro",
+          "rank": 1,
+          "score": 9.0,
+          "scores": {
+            "pricePerTb": 9.5,
+            "sustainedWrite": 8.6,
+            "interface": 8.0,
+            "durability": 8.2,
+            "capacityValue": 8.8,
+            "warranty": 8.8,
+            "portability": 9.0
+          }
+        },
+        {
+          "id": "crucial-x10-pro",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "pricePerTb": 8.9,
+            "sustainedWrite": 8.8,
+            "interface": 9.0,
+            "durability": 8.8,
+            "capacityValue": 8.9,
+            "warranty": 8.8,
+            "portability": 8.6
+          }
+        },
+        {
+          "id": "samsung-t9",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "pricePerTb": 7.6,
+            "sustainedWrite": 9.6,
+            "interface": 8.8,
+            "durability": 8.0,
+            "capacityValue": 8.2,
+            "warranty": 9.2,
+            "portability": 8.6
+          }
+        },
+        {
+          "id": "sandisk-extreme-portable",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "pricePerTb": 9.3,
+            "sustainedWrite": 7.6,
+            "interface": 7.4,
+            "durability": 9.2,
+            "capacityValue": 8.4,
+            "warranty": 8.8,
+            "portability": 8.8
+          }
+        },
+        {
+          "id": "corsair-ex400u",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "pricePerTb": 8.2,
+            "sustainedWrite": 9.0,
+            "interface": 9.6,
+            "durability": 7.6,
+            "capacityValue": 8.0,
+            "warranty": 8.4,
+            "portability": 9.4
+          }
+        },
+        {
+          "id": "samsung-t7-shield",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "pricePerTb": 7.4,
+            "sustainedWrite": 8.4,
+            "interface": 7.4,
+            "durability": 9.4,
+            "capacityValue": 7.8,
+            "warranty": 9.2,
+            "portability": 8.8
+          }
+        },
+        {
+          "id": "crucial-x10",
+          "rank": 7,
+          "score": 8.1,
+          "scores": {
+            "pricePerTb": 8.6,
+            "sustainedWrite": 8.0,
+            "interface": 8.8,
+            "durability": 8.6,
+            "capacityValue": 9.4,
+            "warranty": 8.6,
+            "portability": 8.2
+          }
+        },
+        {
+          "id": "transcend-esd410c",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "pricePerTb": 8.8,
+            "sustainedWrite": 7.4,
+            "interface": 8.6,
+            "durability": 7.8,
+            "capacityValue": 7.6,
+            "warranty": 8.6,
+            "portability": 9.2
+          }
+        },
+        {
+          "id": "sandisk-extreme-pro-v3",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "pricePerTb": 6.4,
+            "sustainedWrite": 9.2,
+            "interface": 9.4,
+            "durability": 9.2,
+            "capacityValue": 7.2,
+            "warranty": 8.8,
+            "portability": 8.4
+          }
+        },
+        {
+          "id": "lexar-armor-700",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "pricePerTb": 8.4,
+            "sustainedWrite": 7.2,
+            "interface": 8.4,
+            "durability": 9.0,
+            "capacityValue": 7.4,
+            "warranty": 8.0,
+            "portability": 8.0
+          }
+        },
+        {
+          "id": "kingston-xs2000",
+          "rank": 11,
+          "score": 7.4,
+          "scores": {
+            "pricePerTb": 7.0,
+            "sustainedWrite": 6.8,
+            "interface": 8.6,
+            "durability": 8.0,
+            "capacityValue": 7.0,
+            "warranty": 8.2,
+            "portability": 9.6
+          }
+        },
+        {
+          "id": "sandisk-extreme-pro-usb32",
+          "rank": 12,
+          "score": 7.2,
+          "scores": {
+            "pricePerTb": 6.6,
+            "sustainedWrite": 8.2,
+            "interface": 8.6,
+            "durability": 8.6,
+            "capacityValue": 7.0,
+            "warranty": 8.8,
+            "portability": 8.2
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "SSD Price Tracker: $/TB History, Charts and Trends (August 2026)",
+          "url": "https://cheapestssd.com/ssd-price-tracker/",
+          "source": "CheapestSSD"
+        },
+        {
+          "title": "Crucial X10 Pro Portable SSD Review: USB Speed King",
+          "url": "https://www.tomshardware.com/reviews/crucial-x10-pro",
+          "source": "Tom's Hardware"
+        },
+        {
+          "title": "Crucial X10 Pro Portable SSD Review",
+          "url": "https://www.storagereview.com/review/crucial-x10-pro-portable-ssd-review",
+          "source": "StorageReview"
+        },
+        {
+          "title": "Corsair delivers a USB4 SSD that delivers on the technological promise",
+          "url": "https://www.techradar.com/pro/corsair-delivers-a-usb4-ssd-that-i-believe-delivers-on-that-technological-promise",
+          "source": "TechRadar Pro"
+        },
+        {
+          "title": "Crucial X10 portable SSD review, including the 8TB model",
+          "url": "https://www.techradar.com/pro/crucial-x10-portable-ssd-review",
+          "source": "TechRadar Pro"
+        },
+        {
+          "title": "SanDisk Extreme Portable SSD review: a good all-rounder at a good price",
+          "url": "https://www.macworld.com/article/2633199/sandisk-extreme-portable-ssd-review.html",
+          "source": "Macworld"
+        },
+        {
+          "title": "SanDisk Extreme Pro v2 Portable SSD Review",
+          "url": "https://www.tomshardware.com/reviews/sandisk-extreme-pro-v2-portable-ssd-review",
+          "source": "Tom's Hardware"
+        },
+        {
+          "title": "Portable SSD T9 1TB USB 3.2 official specifications",
+          "url": "https://www.samsung.com/us/memory-storage/portable-ssd/portable-ssd-t9-usb-3-2-1tb-black-sku-mu-pg1t0b-am/",
+          "source": "Samsung"
+        },
+        {
+          "title": "TrendForce memory and NAND flash market news",
+          "url": "https://www.trendforce.com/news/",
+          "source": "TrendForce"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "I have ranked portable SSDs by sequential read speed for years, and in 2026 that column stopped mattering. Price is now the only variable that moves week to week, so I rebuilt this list around dollars per terabyte and dated every figure. The numbers behind that decision are stark. A 1Tb TLC NAND die cost about $4.80 in July 2025 and runs roughly $10.70 today. A 2TB NVMe drive that sold for $175 in November 2025 hit $379 by March 2026. SanDisk repriced its entire line, some SKUs by 2.8x. The Samsung T9 1TB launched at $139.99 and now trades around $245. That is the same drive, same firmware, same box, at 1.75x the money.\n\nSo the Crucial X9 Pro takes first place, and it takes it on arithmetic. It holds about 1,050MB/s through a sustained 200GB write, wraps that in a steel shell rated for a 7.5-foot drop, and lands at the lowest cost per terabyte of any drive here. The Crucial X10 Pro sits second because doubling to 2,100MB/s costs about 20% more, which is the cleanest speed-per-dollar step on this list. The Samsung T9 is third and earns it on the one specification nobody publishes: it stays above 1,500MB/s after the SLC cache fills, while most drives here collapse to a third of their headline number on a long transfer.\n\nOn timing, I will give a direct answer. If you need the capacity, buy now. Consumer NAND fell from 45% of total output in 2024 to 32% in 2026 because wafer capacity moved to AI server parts, and that is a production allocation decision with multi-quarter lead times. TrendForce projects a further 10-15% contract price rise in Q3. Waiting for a sale is a losing trade when discounts run smaller than the monthly drift. If you can free up space on what you already own, do that first and revisit in 2027.\n\nOne old rule is now dead. Buying one capacity tier up used to lower your cost per terabyte reliably. In 2026 the large capacities absorbed the steepest increases, which flattens that curve and sometimes inverts it. Check the per-terabyte math on the exact two capacities in front of you before you reach for the bigger one.",
+          "highlights": [
+            {
+              "title": "The Crucial X9 Pro wins because cost per terabyte is the only column that matters in 2026",
+              "body": "The X9 Pro delivers about 1,050MB/s and holds it through a full 200GB write, which covers a card dump, a Lightroom catalogue and a game library equally well. It carries a steel body rated for a 7.5-foot drop, which is the toughest shell in the sub-$200 tier. When NAND costs have roughly doubled inside twelve months, the drive that gives you working speed at the lowest dollars per terabyte is the correct default, and that is the X9 Pro by a comfortable margin."
+            },
+            {
+              "title": "Sustained write after the SLC cache fills is the specification that decides whether a drive is worth owning",
+              "body": "Manufacturers quote peak speeds measured inside the SLC cache, which is a burst of a few dozen gigabytes at most. Dump a 200GB card and the cache runs dry, at which point many drives drop to a third of their advertised figure. The Samsung T9 holds above 1,500MB/s through that entire transfer, and the Corsair EX400U settles around 1,600 to 1,700MB/s. That is the number a video editor feels on deadline, and it appears on no spec sheet anywhere. I score it heavily here because it is the single largest gap between marketing and daily use in this category."
+            },
+            {
+              "title": "Buy now if you actually need the capacity, because waiting has no payoff before 2027",
+              "body": "Consumer NAND dropped from 45% of production in 2024 to 32% in 2026 as wafer capacity shifted toward AI server storage. That is an allocation decision with multi-quarter lead times, and industry consensus has moved from relief by year-end to no meaningful relief until 2027. TrendForce expects contract prices to climb another 10-15% in Q3. Holding out for Black Friday is a losing bet when the discount is smaller than the drift between now and then. If you can delete or archive your way out of the purchase, do that and revisit next year. If you cannot, today is cheaper than December."
+            },
+            {
+              "title": "USB 3.2 Gen 2x2 is a compatibility trap on a Mac and buyers keep walking into it",
+              "body": "The Samsung T9, Crucial X10 Pro and Kingston XS2000 reach 2,000MB/s only on a USB 3.2 Gen 2x2 host port. Apple never implemented Gen 2x2, so on any Mac those drives run at Gen 2 speeds, roughly 1,000MB/s, and you paid for headroom you will never see. Mac owners who want the full number need a USB4 or Thunderbolt drive, which is where the Corsair EX400U and the SanDisk Extreme PRO V3 earn their price. Check your host port before your drive, because the port sets the ceiling and no firmware update will raise it."
+            },
+            {
+              "title": "The buy-a-bigger-capacity rule stopped working this year",
+              "body": "For a decade the reliable advice was that stepping up one capacity tier lowered your cost per terabyte, so you bought more than you needed. The 2026 price surge hit high capacities hardest, which flattens that curve and in some product lines reverses it. Samsung T-series pricing currently runs $225 to $268 per terabyte at 1TB and around $200 per terabyte at 4TB, a much thinner gap than the 40% spread that used to be routine. The WD Black SN8100 8TB crossing $2,500 is the extreme version of the same effect. Run the division on the two capacities you are choosing between rather than assuming the larger one wins."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "外接 SSD 這種東西我排了很多年，一直都是拿循序讀取速度當第一欄。今年不能這樣排了，因為速度是固定的，價格每個禮拜都在動，所以我把整份榜單重寫成以每 TB 單價排序，而且每個數字都標日期。\n\n說真的，背後的數字看了會有點傻眼。1Tb TLC NAND 顆粒 2025 年 7 月大概 4.8 美元，現在要 10.7 美元左右。2TB NVMe 硬碟 2025 年 11 月賣 175 美元，2026 年 3 月變成 379 美元。SanDisk 全線調價，部分型號漲到 2.8 倍。Samsung T9 1TB 上市定價 139.99 美元，現在成交價落在 245 美元附近。同一台機器、同一版韌體、同一個盒子，價格變成 1.75 倍。\n\n所以第一名是 Crucial X9 Pro，理由是算出來的。它連續寫入 200GB 全程都在 1,050MB/s 左右，鋁合金機身撐得住兩公尺多的落摔，而每 TB 單價是這份榜單裡最低的，台灣通路 1TB 大概五千有找。第二名 Crucial X10 Pro，速度翻倍到 2,100MB/s 只多付兩成價錢，這是整份榜單裡最划算的一次升級。第三名 Samsung T9 贏在一個規格表上永遠找不到的數字，SLC 快取寫滿之後它還守得住 1,500MB/s 以上，而這裡多數機種在長時間傳輸時會掉到標示速度的三分之一。\n\n至於現在該不該買，我直接給結論。真的需要容量就現在買。消費級 NAND 產能佔比從 2024 年的 45% 掉到 2026 年的 32%，因為晶圓產能被 AI 伺服器吃走了，這是產能配置層級的決策，前置期以季為單位。TrendForce 推估第三季合約價還要再漲一到一成五。等特價這件事在今年是穩賠的，因為折扣幅度小於漲價速度，等到雙十一你反而付更多。手上還有空間可以清的人，先清，明年再回頭看。\n\n另外有一條老規矩今年失效了。以前買大一階容量一定比較划算，這條在 2026 年不成立，因為大容量的漲幅遠高於小容量，那條每 TB 遞減曲線被壓平了。站在架上要決定買 1TB 還是 2TB 的時候，把兩個價格各自除以容量算一次，不要直接假設買大的比較賺。",
+          "highlights": [
+            {
+              "title": "Crucial X9 Pro 拿第一，因為 2026 年只剩每 TB 單價這一欄有意義",
+              "body": "X9 Pro 給你 1,050MB/s，而且連續寫 200GB 全程守得住，倒記憶卡、搬 Lightroom 圖庫、放 Steam 遊戲庫都夠用。鋁合金機身撐得住兩公尺多的落摔，是六千元以下這一段最耐操的殼。在 NAND 顆粒一年內漲快一倍的環境下，能用最低每 TB 單價換到堪用速度的那一台就是正解，X9 Pro 領先幅度還不小，台灣通路 1TB 大概五千塊上下，是這份榜單裡最好入手的價位。"
+            },
+            {
+              "title": "SLC 快取寫滿之後的持續寫入，才是決定一台硬碟值不值得買的規格",
+              "body": "廠商標的峰值速度是在 SLC 快取內量的，那個快取通常只有幾十 GB。你倒一張 200GB 的記憶卡，快取一寫滿，很多機種直接掉到標示速度的三分之一。Samsung T9 整趟傳輸都守在 1,500MB/s 以上，Corsair EX400U 快取寫滿後穩在 1,600 到 1,700MB/s。這個數字是剪接師趕稿時真正會有感的東西，可是全世界沒有一張規格表會寫。我在這份榜單給它很高的權重，因為它是這個品類裡行銷數字跟實際體驗落差最大的地方。"
+            },
+            {
+              "title": "真的需要容量就現在買，等到 2027 年以前等待都沒有回報",
+              "body": "消費級 NAND 從 2024 年佔總產能 45% 掉到 2026 年的 32%，晶圓產能被 AI 伺服器儲存吃走了。這種產能配置的調整前置期是好幾季，產業共識已經從年底緩解修正成 2027 年才會有實質緩解。TrendForce 推估第三季合約價還要再漲一到一成五。想撐到雙十一或黑五的人要想清楚，折扣幅度打不過這段期間的漲幅，等下去只是付更多。手上硬碟還有東西可以清、可以搬去 NAS 的，那就先清，明年再說。真的清不出來的，今天買就是比十二月便宜。"
+            },
+            {
+              "title": "USB 3.2 Gen 2x2 在 Mac 上是個相容性陷阱，很多人買了才發現",
+              "body": "Samsung T9、Crucial X10 Pro 跟 Kingston XS2000 要跑到 2,000MB/s，主機端必須是 USB 3.2 Gen 2x2。Apple 從來沒有支援過 Gen 2x2，所以這三台插上任何一台 Mac 都只跑 Gen 2 的一千出頭，你多付的那筆錢一輩子看不到。用 Mac 又想吃到完整速度的人要選 USB4 或 Thunderbolt 機種，Corsair EX400U 跟 SanDisk Extreme PRO V3 的價差就是花在這裡。先確認自己的孔，再挑硬碟，因為天花板是主機端訂的，韌體更新救不了。"
+            },
+            {
+              "title": "買大一階容量比較划算，這條規矩今年不成立了",
+              "body": "過去十年的通則是往上買一階容量，每 TB 單價會下降，所以大家都買超過自己需要的容量。2026 年這波漲價對大容量下手最重，那條遞減曲線被壓平，某些產品線甚至反轉。Samsung T 系列目前 1TB 的每 TB 單價落在 225 到 268 美元，4TB 大概 200 美元，價差遠小於過去常見的四成。WD Black SN8100 8TB 突破 2,500 美元是同一件事的極端版本，一顆硬碟貴過一台不錯的電競桌機。站在架上猶豫 1TB 還 2TB 的時候，兩邊各除一次，算完再決定。"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
