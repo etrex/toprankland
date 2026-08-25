@@ -13817,6 +13817,202 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-24",
+      "rankings": [
+        {
+          "id": "claude",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.7,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "chatgpt",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.4,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "New AI Model Releases, August 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        },
+        {
+          "title": "Best AI Models in August 2026: Updated Rankings and Comparisons",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        },
+        {
+          "title": "AI Release Tracker, Complete LLM Timeline 2022-2026",
+          "url": "https://aireleasetracker.com/",
+          "source": "AI Release Tracker"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "August produced twelve new model releases from seven providers, and two of them justify a change at the top of this list. Claude Opus 5 shipped this month and GPT-5.6 now runs across the Sol, Terra and Luna tiers in ChatGPT. I moved Claude to first, and the reason is specific rather than general enthusiasm. On extended coding work and on tasks that require holding a large amount of context coherently, Opus 5 produces output I need to correct less often. That is the axis where the difference is measurable in time saved rather than in benchmark points.\n\nChatGPT sits at second and remains the right default for most people. Its ecosystem breadth is unmatched, the voice mode is the best implemented, and the tier structure means casual users get capable output without thinking about model selection. For a general assistant that handles everything reasonably, it is still the answer.\n\nGemini at 9.4 made the most interesting pricing move of the month. Gemini 3.7 Flash landed on August 13 as Google's workhorse tier for coding and agent workloads at as little as 0.75 dollars per million input tokens. That price point changes what is economically viable to build, and anyone running high-volume automation should be looking at it seriously.\n\nOne observation about the category as a whole. Multimodal understanding is now baseline in every August release, and text-only models have become legacy tiers. Choose based on what you do most rather than on leaderboard position, because the top three are close enough that workflow fit decides more than capability does.",
+          "highlights": [
+            {
+              "title": "Claude takes first on extended coding and long-context work",
+              "body": "Opus 5 shipped this month and the difference shows up on tasks that run long, where output needs correcting less often. That is a time-saved measurement rather than a benchmark point, and for anyone whose main use is code or complex document work it is the axis that matters. That is why I moved it above ChatGPT this week."
+            },
+            {
+              "title": "ChatGPT remains the right default for general use",
+              "body": "Ecosystem breadth is unmatched, voice mode is the best implemented in the category, and the tier structure means casual users get strong output without choosing a model. For someone who wants one assistant that handles everything reasonably well, this is still the answer, and it stays at 9.5 on that strength."
+            },
+            {
+              "title": "Gemini 3.7 Flash pricing changes what is viable to build",
+              "body": "Released August 13 at as little as 0.75 dollars per million input tokens for coding and agent workloads, this reprices high-volume automation. Anyone running a pipeline that processes thousands of documents should be evaluating it on cost per task rather than on capability alone, because at that price the economics of several workflows change entirely."
+            },
+            {
+              "title": "Multimodal is now baseline, so choose on workflow fit",
+              "body": "Every major August release includes multimodal understanding as standard and text-only models have become legacy tiers. The top three are close enough on raw capability that the deciding factor is which one fits how you actually work. Pick based on your daily tasks rather than leaderboard position, because that is where the real difference shows up."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "八月出現了七家供應商的十二個新模型，其中兩個足以讓這份榜單的頂端換位。Claude Opus 5 這個月上線，ChatGPT 則全面跑在 GPT-5.6 的 Sol、Terra、Luna 三個層級上。\n\n我把 Claude 移到第一，理由很具體，不是籠統的好感。在長時間的程式工作、以及需要連貫地抓住大量上下文的任務上，Opus 5 的輸出我需要回頭修正的次數比較少。這個差距是用「省下的時間」量出來的，不是跑分上的幾分。\n\nChatGPT 排第二，對多數人來說仍然是正確的預設值。它的生態系廣度沒有對手，語音模式是實作得最好的，分層設計讓一般使用者不用思考選哪個模型也能拿到不錯的輸出。想要一個什麼都處理得還可以的通用助理，它還是答案。\n\nGemini 9.4 分，做了這個月最有意思的定價動作。Gemini 3.7 Flash 在 8 月 13 日上線，定位是 Google 面向程式與代理工作負載的主力層級，輸入價格低到每百萬 token 0.75 美元。這個價格改變了什麼東西在經濟上做得起來，跑大量自動化的人真的該認真評估。\n\n關於這個品類整體有一個觀察，八月的每一個發表都把多模態理解當成基本配備，純文字模型已經變成舊層級。選擇的依據應該是你最常做什麼，而不是排行榜名次，因為前三名已經接近到「跟你工作流程合不合」比「能力高低」更有決定性。",
+          "highlights": [
+            {
+              "title": "Claude 拿下第一，靠的是長程式與長上下文",
+              "body": "Opus 5 這個月上線，差距出現在跑得比較長的任務上，輸出需要回頭修正的次數變少。那是用省下的時間量出來的，不是跑分。主要用途是寫程式或處理複雜文件的人，這就是關鍵那條軸，所以我這週把它移到 ChatGPT 之上。"
+            },
+            {
+              "title": "通用用途的正確預設值仍然是 ChatGPT",
+              "body": "生態系廣度沒有對手，語音模式是這個品類實作得最好的，分層設計讓一般使用者不用選模型也能拿到好輸出。想要一個什麼都做得還不錯的助理，它還是答案，9.5 分守得住。"
+            },
+            {
+              "title": "Gemini 3.7 Flash 的價格改變了什麼做得起來",
+              "body": "8 月 13 日上線，面向程式與代理工作負載，輸入低到每百萬 token 0.75 美元，這把大量自動化的成本結構重寫了一次。跑一條每天處理上千份文件的流程的人，應該用每個任務的成本而不是單看能力來評估，因為在這個價格上，好幾種工作流的經濟性整個改變。"
+            },
+            {
+              "title": "多模態已經是基本配備，所以用工作流程來選",
+              "body": "八月的主要發表全部把多模態理解列為標配，純文字模型變成舊層級。前三名在原始能力上已經接近到，決定因素是哪一個貼合你實際的工作方式。用你每天做的事來挑，不要用排行榜名次，真正的差別出現在那裡。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -15095,6 +15095,163 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-24",
+      "rankings": [
+        {
+          "id": "protonvpn",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "privacy": 9.7,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "mullvad",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "A List Of VPN Providers With Public Audits In 2026",
+          "url": "https://greycoder.com/a-list-of-vpn-providers-with-public-audits/",
+          "source": "GreyCoder"
+        },
+        {
+          "title": "Best VPN Services: Testing the Top Performers for 2026",
+          "url": "https://cyberinsider.com/vpn/best/",
+          "source": "CyberInsider"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The 2026 audit round is now complete enough to draw a conclusion, and the conclusion is that a published audit has stopped being a differentiator. NordVPN went through PwC, ExpressVPN through Deloitte, Surfshark and Proton through Cure53, Mullvad through SEC Consult, Windscribe through NCC Group, IVPN through Trail of Bits. When every mainstream provider has one, the badge tells you almost nothing about which to buy.\n\nSo I judge on what an audit cannot cover: what the company is structurally able to log, and what happens to your account identity. Proton VPN holds first because the Swiss jurisdiction, the open-source clients, and a business model funded by paid Mail and Drive subscriptions all point the same direction. Mullvad stays at 9.2 for the cleanest identity story in the industry, an account number with no email attached and cash accepted by post. That design means a subpoena reaches a number rather than a person.\n\nThe research finding that deserves more attention this month came out of a study of 281 popular free Android VPNs, where 88 percent showed at least one security or privacy failure, 61 transmitted data in plain text, and 246 contacted advertising or tracking domains. That is the actual comparison worth making. A five dollar a month paid provider with a published audit and a real corporate address sits in a different universe from the free app at the top of the store listings.\n\nOn price, NordVPN at 3.49 dollars a month on a long term plan is the most aggressive offer among the audited providers, and it earns its third place on speed and server count.",
+          "highlights": [
+            {
+              "title": "An audit is now table stakes, so judge on structure instead",
+              "body": "PwC, Deloitte, Cure53, SEC Consult, NCC Group and Trail of Bits have all signed off on major providers this year. Since everyone has a report, the useful questions are what data the provider is architecturally capable of holding, which jurisdiction can compel it, and how the account is tied to a human identity. Those three answers separate this list far better than the audit column does."
+            },
+            {
+              "title": "Mullvad's account model is the strongest privacy design available",
+              "body": "Mullvad issues a random account number, asks for no email, and accepts cash sent by post. A legal demand therefore lands on a number with no attached identity. Proton edges it out overall on speed and app polish, and for anyone whose threat model involves being individually identified, Mullvad's signup flow is the single best engineering decision in this category."
+            },
+            {
+              "title": "The free VPN research is the comparison that actually matters",
+              "body": "Across 281 popular free Android VPNs, 88 percent had at least one security or privacy failure, 61 sent data in plain text and 246 talked to advertising or tracking domains. Anyone weighing a paid provider against a free app should treat that study as the deciding evidence. Paying three to five dollars a month buys an audited codebase and a company with an address."
+            },
+            {
+              "title": "NordVPN at 3.49 a month is the best price among audited providers",
+              "body": "Nord's long term pricing lands at 3.49 dollars a month, with the Advanced tier at 4.49. Among providers that have published third party audits, that is the most aggressive number on the board, and Nord backs it with the largest server network here. It sits third because Proton and Mullvad answer the structural questions better, and on pure cost per country it wins."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "2026 年這一輪稽核報告出得差不多了，可以下一個結論，那就是「有做第三方稽核」已經不再是差異化條件。\n\nNordVPN 找 PwC，ExpressVPN 找 Deloitte，Surfshark 跟 Proton 都是 Cure53，Mullvad 是 SEC Consult，Windscribe 是 NCC Group，IVPN 是 Trail of Bits。每一家主流業者都有報告的時候，這個徽章對你選誰幾乎沒有參考價值。\n\n所以我改看稽核蓋不到的東西，也就是這家公司「在架構上有能力記錄什麼」，以及你的帳號跟真實身分綁多緊。Proton VPN 守第一，瑞士司法管轄、客戶端開源、靠付費 Mail 與 Drive 訂閱養活公司，三件事指向同一個方向。\n\nMullvad 維持 9.2，它的帳號設計是整個產業最乾淨的，一組隨機帳號、不用 email、可以寄現金付款。這種設計代表就算收到法院命令，對方拿到的也只是一組號碼。\n\n這個月更該被看見的是那份免費 VPN 研究，281 款熱門 Android 免費 VPN 裡，88% 至少有一項安全或隱私缺陷，61 款明文傳輸資料，246 款會連向廣告與追蹤網域。這才是真正該做的比較。一個月一百多塊台幣、有公開稽核、有實體公司地址的付費服務，跟商店排行榜第一名那個免費 App 根本是兩個世界。\n\n價格上，NordVPN 長約每月 3.49 美元，換算大概一百一十元台幣，是有稽核的業者裡最狠的一個數字。",
+          "highlights": [
+            {
+              "title": "稽核已經是基本盤，要看的是架構",
+              "body": "今年 PwC、Deloitte、Cure53、SEC Consult、NCC Group、Trail of Bits 全都替主流業者背書過。既然大家都有報告，有用的問題就變成三個：這家公司在技術上能留下什麼資料、哪個司法管轄可以強制它交出來、帳號跟真人綁得多緊。這三個答案對榜單排序的解釋力遠高於稽核欄位。"
+            },
+            {
+              "title": "Mullvad 的帳號設計是市面上最強的隱私工程",
+              "body": "Mullvad 給你一組隨機帳號，不要 email，甚至可以寄現金付款。法律要求送到它面前時，能對應到的只有一組沒有身分的號碼。Proton 在速度與 App 完成度上小勝所以排第一，而如果你的威脅模型是「不能被指認出是我」，Mullvad 的註冊流程就是這個品類最漂亮的一個決定。"
+            },
+            {
+              "title": "免費 VPN 那份研究才是真正該看的對照組",
+              "body": "281 款熱門 Android 免費 VPN 裡，88% 至少有一項安全或隱私問題，61 款明文傳資料，246 款會連上廣告追蹤網域。正在猶豫要不要花錢的人，把這份研究當成決定性證據就好。一個月一百多塊買到的是有稽核的程式碼跟一家找得到人的公司。"
+            },
+            {
+              "title": "有稽核的業者裡，NordVPN 3.49 美元是最漂亮的價格",
+              "body": "Nord 長約落在每月 3.49 美元，進階方案 4.49 美元，換算台幣大約一百一到一百四。在所有公布過第三方稽核的業者中，這是檯面上最積極的價格，而且它的伺服器網路是這份榜單裡最大的。排第三是因為 Proton 與 Mullvad 在結構性問題上答得更好，單論每個國家節點的成本，Nord 贏。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -12936,6 +12936,211 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-24",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 9.0,
+            "artisticQuality": 8.3,
+            "textRendering": 9.6,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.1,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "nano-banana-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "New AI Model Releases, August 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        },
+        {
+          "title": "AI Release Tracker, Complete LLM Timeline 2022-2026",
+          "url": "https://aireleasetracker.com/",
+          "source": "AI Release Tracker"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Twelve new models landed in August across seven providers and the pattern is consistent: multimodal generation is now baseline and the interesting competition has moved from raw image quality to instruction following. Every model in my top five produces images that look good. What separates them is whether you get the image you asked for.\n\nGPT Image 2 holds first at 9.4 on exactly that axis. Give it a long prompt with spatial relationships, specific counts and text content, and it respects all of them. That reliability is what makes it usable for production work rather than for exploration, because production means matching a brief rather than finding a happy accident.\n\nMidjourney v8 at 9.3 remains the strongest aesthetic model and I want to be clear that this is a genuine and separate strength. Its default output has a compositional and lighting sensibility the others approximate, and for anyone whose goal is a striking image rather than a specified one, it is the better tool.\n\nNano Banana Pro and FLUX 2 Pro tie at 9.2. FLUX is the pick for anyone who needs to run models locally or fine-tune on their own material.\n\nOne practical note on text rendering. This used to be the reliable failure mode of image models and it has largely been solved in the top tier. Test it yourself with a long string rather than a single word, because the difference between models still shows up at length.",
+          "highlights": [
+            {
+              "title": "Instruction following is where the competition moved",
+              "body": "Every model in the top five makes good-looking images, so image quality has stopped separating them. What differs is whether a long prompt with spatial relationships, specific counts and text content comes back respected in full. That is the axis to test when you evaluate, because it decides whether the tool is usable for briefed work."
+            },
+            {
+              "title": "GPT Image 2 leads because it does what you asked",
+              "body": "Long prompts with spatial relationships and specific counts come back correct, and that reliability is what makes a model usable for production rather than exploration. Production means matching a brief, and a model that produces a beautiful image of the wrong thing has failed the task. That is why it holds 9.4."
+            },
+            {
+              "title": "Midjourney v8 is the better tool for a striking image",
+              "body": "Its default output carries a compositional and lighting sensibility that the others approximate, and that is a genuine separate strength rather than a consolation. If your goal is an image that stops someone scrolling rather than one that matches a specification, this is the model to use. It earns 9.3 on aesthetic judgment alone."
+            },
+            {
+              "title": "FLUX 2 Pro is the pick for local and fine-tuned work",
+              "body": "Running models on your own hardware and fine-tuning on your own material are capabilities the hosted-only options cannot offer at any price. For a studio building a consistent house style or anyone with content that cannot leave their infrastructure, that access is the deciding factor, and it shares 9.2 for exactly that reason."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "八月有七家供應商推出十二個新模型，趨勢很一致，多模態生成已經是基本盤，而有意思的競爭從純畫質轉移到指令遵循。\n\n我前五名的每一個模型畫出來都好看。分野在於你有沒有拿到你要求的那張圖。\n\nGPT Image 2 守第一，9.4 分，就是贏在這條軸上。給它一段包含空間關係、明確數量與文字內容的長提示詞，它全部照做。這份可靠度讓它可以用在正式產出而不只是探索，因為正式產出的意思是符合需求說明，不是碰到一個美麗的意外。\n\nMidjourney v8 9.3 分，仍然是美感最強的模型，我想講清楚這是一個真實而且獨立的強項。它的預設輸出在構圖與光線上的品味是其他家在逼近的，而如果你的目標是一張抓得住眼睛的圖而不是一張符合規格的圖，它是更好的工具。\n\nNano Banana Pro 與 FLUX 2 Pro 並列 9.2。需要在本地端跑模型、或想用自己的素材微調的人選 FLUX。\n\n文字渲染上一個實用提醒。這曾經是影像模型穩定的失效模式，頂級這一段已經大致解決了。自己用一段長字串測，不要只測一個單字，模型之間的差別在長度拉開之後才會顯現。中文字的渲染差距又比英文大，這點台灣使用者要自己實測。",
+          "highlights": [
+            {
+              "title": "競爭已經移到指令遵循",
+              "body": "前五名畫出來都好看，畫質已經分不出高下。差別在於一段包含空間關係、明確數量與文字內容的長提示詞，回來之後是不是全部照做。評估的時候就測這條軸，因為它決定這個工具能不能用在有需求說明的工作上。"
+            },
+            {
+              "title": "GPT Image 2 第一名，因為它照你說的做",
+              "body": "含空間關係與明確數量的長提示詞回來是對的，而這份可靠度讓模型可以用於正式產出而不只是探索。正式產出的意思是符合需求，一張很美但畫錯東西的圖等於任務失敗。9.4 分。"
+            },
+            {
+              "title": "要一張抓眼睛的圖，Midjourney v8 是更好的工具",
+              "body": "它的預設輸出帶著其他家在逼近的構圖與光線品味，這是一個真實而獨立的強項，不是安慰獎。目標是讓人停止滑動的那張圖而不是符合規格的那張圖時，就用它。9.3 分單憑美感判斷就拿得到。"
+            },
+            {
+              "title": "本地部署與微調選 FLUX 2 Pro",
+              "body": "在自己的硬體上跑模型、用自己的素材微調，這些是純託管服務再多錢也給不了的能力。要建立一致視覺風格的工作室，或素材不能離開自家基礎架構的人，這個存取權就是決定因素，9.2 分正是為此。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

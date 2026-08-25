@@ -20235,6 +20235,223 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-24",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "New AI Model Releases, August 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        },
+        {
+          "title": "AI Release Tracker, Complete LLM Timeline 2022-2026",
+          "url": "https://aireleasetracker.com/",
+          "source": "AI Release Tracker"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Opus 5 shipped this month and it strengthens the position Claude Code already held at the top of this list. The gap shows up on the work that actually consumes a developer's day, which is multi-file refactoring, tracing a bug across a codebase you did not write, and holding architectural context across a session that runs for hours. Benchmark suites measure single-function generation and that is the least valuable thing these tools do.\n\nClaude Code stays first at 9.5 for a reason that has more to do with the harness than the model. It operates in a terminal against your actual repository, running tests, reading files and iterating on failures without you copying anything between windows. That loop is what turns a model into a tool.\n\nOpenAI Codex and Cursor are tied at 9.1 and they represent different bets. Codex is the strongest option for people who want an autonomous agent working through a task queue. Cursor remains the best editor-native experience, and for developers who want AI inside the editing flow rather than delegating whole tasks, it is the right shape.\n\nOne piece of advice for anyone adopting these seriously. Write the tests first and let the agent iterate against them. The failure mode with agentic coding is confident code that does the wrong thing, and a test suite is the only feedback loop that catches that reliably without you reading every line.",
+          "highlights": [
+            {
+              "title": "Opus 5 widens the lead on multi-file work",
+              "body": "The difference shows up on refactoring across files, tracing a bug through unfamiliar code, and holding architectural context across a long session. Benchmarks measure single-function generation, which is the least valuable thing these tools do. Judge on the work that actually fills your day, and Claude Code holds 9.5 on that basis."
+            },
+            {
+              "title": "The harness matters as much as the model",
+              "body": "Claude Code runs in a terminal against your real repository, executing tests, reading files and iterating on failures without you moving text between windows. That loop is what converts a capable model into a usable tool. Two products on the same model can differ enormously depending on how tightly they close that loop."
+            },
+            {
+              "title": "Codex and Cursor represent two different bets",
+              "body": "Codex is the strongest choice if you want an autonomous agent working through a task queue while you do something else. Cursor is the best editor-native experience for developers who want assistance inside the editing flow rather than delegated wholesale. They tie at 9.1 because both execute their chosen shape well, so pick by working style."
+            },
+            {
+              "title": "Write the tests first and let the agent iterate against them",
+              "body": "The characteristic failure of agentic coding is confident code that does the wrong thing, and reading every generated line defeats the purpose of using the tool. A test suite written before the agent starts is the only feedback loop that reliably catches that failure. This practice matters more than which assistant you choose."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Opus 5 這個月上線，強化了 Claude Code 原本就在榜首的位置。差距出現在真正吃掉開發者一天的那些工作上，跨檔案重構、在別人寫的程式碼裡追一個 bug、以及在一個跑好幾小時的工作階段裡持續抓住架構脈絡。跑分測的是單一函式生成，而那是這類工具最沒有價值的一件事。\n\nClaude Code 守第一，9.5 分，理由跟模型的關係其實不如跟「外殼」的關係大。它在終端機裡直接對著你真正的 repository 工作，跑測試、讀檔案、根據失敗結果反覆修正，你不需要在視窗之間複製貼上任何東西。那個迴圈才是把模型變成工具的東西。\n\nOpenAI Codex 與 Cursor 並列 9.1，代表兩種不同的賭注。Codex 適合想要一個自主代理照著任務佇列跑的人。Cursor 仍然是編輯器原生體驗最好的，想要 AI 在編輯流程裡協助而不是整包委派出去的開發者，它的形狀是對的。\n\n給認真要導入這些工具的人一個建議。先寫測試，再讓代理對著測試迭代。代理式開發的典型失效模式是「很有自信但做錯事」的程式碼，而測試套件是唯一能可靠抓到這件事、又不用你逐行讀完的回饋迴圈。",
+          "highlights": [
+            {
+              "title": "Opus 5 把跨檔案工作的領先拉開",
+              "body": "差距出現在跨檔案重構、在陌生程式碼裡追 bug、以及長時間工作階段裡維持架構脈絡。跑分測的是單一函式生成，那是這類工具最沒價值的部分。用真正佔掉你一天的工作來評斷，Claude Code 就是這樣守住 9.5。"
+            },
+            {
+              "title": "外殼跟模型一樣重要",
+              "body": "Claude Code 在終端機裡對著你真實的 repository 工作，跑測試、讀檔案、根據失敗迭代，你不用在視窗之間搬文字。這個迴圈才把一個有能力的模型變成一個可用的工具。同一個模型的兩個產品，差別可以非常大，取決於這個迴圈收得多緊。"
+            },
+            {
+              "title": "Codex 與 Cursor 是兩種不同的賭注",
+              "body": "想要一個自主代理照任務佇列跑、你同時做別的事，選 Codex。想要 AI 在編輯流程裡協助而不是整包委派，Cursor 是編輯器原生體驗最好的。兩者並列 9.1，因為各自把選定的形狀做得很好，用工作習慣來挑就好。"
+            },
+            {
+              "title": "先寫測試，讓代理對著測試迭代",
+              "body": "代理式開發的典型失效是「很有自信卻做錯事」的程式碼，而逐行讀完生成內容等於抵銷了使用工具的意義。在代理開始之前先寫好的測試套件，是唯一能可靠抓到這種失效的回饋迴圈。這個習慣比你選哪一個助理更重要。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
