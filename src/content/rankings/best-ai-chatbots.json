@@ -14013,6 +14013,189 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-25",
+      "rankings": [
+        {
+          "id": "claude",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.7,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "chatgpt",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.5,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (August 2026) - Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "New AI Model Releases - August 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "August has been the busiest month for model releases I have tracked this year, and the top three held their positions through all of it. Google shipped Gemini 3.7 Flash on August 13, OpenAI made the GPT-5.6 Luna track the ChatGPT free-tier default, and Z.AI released GLM-5.2 Turbo on August 17. That cadence tells you how compressed the release cycle has become.\n\nClaude stays at number one for me on the strength of a 9.7 coding score and a 9.7 writing score, the highest marks in both columns. When I hand it a large codebase and ask for a change that spans several files, it holds the whole shape in mind and comes back with something I can merge. For long-form writing it produces prose that needs editing for taste rather than for correctness.\n\nChatGPT sits at number two with the best ecosystem score at 9.7. The Luna free tier change matters because it puts a genuinely strong model in front of people who pay nothing, and the surrounding tooling for custom GPTs and connectors remains the deepest available.\n\nGemini stays at number three with the highest reasoning score at 9.7. I raised its realtime score to 9.5 after the 3.7 Flash release, which brings latency down noticeably in voice and search-grounded queries.\n\nFor budget users, DeepSeek holds a perfect 10.0 on value and an 8.7 reasoning score, which is remarkable for what it costs.",
+          "highlights": [
+            {
+              "title": "Claude leads because it holds a whole codebase in its head",
+              "body": "A 9.7 coding score reflects behaviour I can measure: multi-file refactors that compile, tests that pass, and edits that respect conventions already present in the repository. Combined with a 9.6 reasoning score, it is the model I reach for when the task requires holding many constraints at once rather than answering one question."
+            },
+            {
+              "title": "Gemini 3.7 Flash tightened the latency gap",
+              "body": "Google shipped 3.7 Flash on August 13, and the practical effect is faster responses in voice conversation and search-grounded answers. I moved the realtime score to 9.5 to reflect that. With a 9.7 reasoning score already the highest in this ranking, Gemini is now strong on both depth and speed."
+            },
+            {
+              "title": "DeepSeek is the best value in AI right now",
+              "body": "A perfect 10.0 value score alongside 8.7 reasoning and 8.5 coding is a combination nothing else here matches. For high-volume tasks where you are paying per token, running a summarisation or classification pipeline on DeepSeek costs a fraction of the frontier options and gets most of the way there."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "八月是我今年追蹤到模型發布最密集的一個月，而前三名在整個月的洗禮下位置都沒變。\n\nGoogle 在 8 月 13 日推出 Gemini 3.7 Flash，OpenAI 把 GPT-5.6 的 Luna 線設成 ChatGPT 免費版預設，Z.AI 則在 8 月 17 日發布 GLM-5.2 Turbo。這個節奏就告訴你現在的發布週期壓縮到什麼程度了。\n\nClaude 對我來說還是第一，靠的是 9.7 分程式碼跟 9.7 分寫作，兩欄都是全榜最高。我丟一個大型專案給它，要求做跨多個檔案的修改，它能把整體結構記在腦子裡，回來的東西是我可以直接合併的。長文寫作方面，它產出的文字我需要改的是品味，而不是正確性。\n\nChatGPT 排第二，生態系 9.7 分是最高的。Luna 進免費版這件事很重要，因為它把一個真正強的模型放到完全不付錢的人面前，而周邊的自訂 GPT 跟連接器工具也還是最深的。\n\nGemini 維持第三，推理 9.7 分全榜最高。3.7 Flash 發布之後我把它的即時性調到 9.5，語音跟結合搜尋的查詢延遲有明顯下降。\n\n預算取向的話，DeepSeek 的 CP 值是滿分 10.0，推理還有 8.7 分，以它的價格來說很誇張。",
+          "highlights": [
+            {
+              "title": "Claude 第一，因為它能把整個專案記在腦子裡",
+              "body": "9.7 分的程式碼分數反映的是我量得出來的行為：跨檔案重構能編譯過、測試會過、而且改出來的東西尊重專案裡既有的慣例。搭配 9.6 分推理，需要同時抓住很多限制條件的任務，我就是找它。"
+            },
+            {
+              "title": "Gemini 3.7 Flash 把延遲差距補上了",
+              "body": "Google 在 8 月 13 日推出 3.7 Flash，實際感受就是語音對話跟結合搜尋的回答變快了，所以我把即時性調到 9.5。它的推理 9.7 分本來就是全榜最高，現在深度跟速度兩邊都站得住。"
+            },
+            {
+              "title": "現在 AI 界最超值的就是 DeepSeek",
+              "body": "滿分 10.0 的 CP 值加上 8.7 推理跟 8.5 程式碼，這個組合這裡沒有第二家做得到。大量按 token 計費的任務，例如跑摘要或分類的批次流程，用 DeepSeek 的成本只有前沿模型的零頭，效果卻追得上七八成。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

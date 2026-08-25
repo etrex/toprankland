@@ -227,6 +227,22 @@
           "priceRange": "約 NT$5,200"
         }
       }
+    },
+    {
+      "id": "sensibo-air-pro",
+      "name": "Sensibo Air Pro",
+      "brand": "Sensibo",
+      "url": "https://sensibo.com/products/sensibo-air-pro",
+      "i18n": {
+        "en": {
+          "description": "Turns any split, window, or portable AC with a remote into a scheduled, geofenced smart thermostat across 10,000+ supported models, and its onboard CO2, TVOC, temperature, and humidity sensors fire PureBoost when air quality slips.",
+          "priceRange": "$139"
+        },
+        "zh-tw": {
+          "description": "台灣家裡幾乎都是分離式冷氣，這台的價值就在這裡：只要冷氣有紅外線遙控器就能變智慧恆溫器，支援一萬多種機型，排程、地理圍欄、HomeKit 直連全都給。內建 CO2、TVOC 與溫濕度感測，空氣一變差就自動催 PureBoost 加強送風。裝機大概一分鐘，完全不用碰電線。",
+          "priceRange": "NT$4,490"
+        }
+      }
     }
   ],
   "history": [
@@ -14951,7 +14967,7 @@
         },
         {
           "id": "aqara-thermostat-hub-w200",
-          "rank": 5,
+          "rank": 6,
           "score": 8.0,
           "scores": {
             "autoScheduling": 7.5,
@@ -14964,7 +14980,7 @@
         },
         {
           "id": "emerson-sensi-touch-2",
-          "rank": 6,
+          "rank": 7,
           "score": 7.8,
           "scores": {
             "autoScheduling": 7.5,
@@ -14977,7 +14993,7 @@
         },
         {
           "id": "ecobee-smart-thermostat-enhanced",
-          "rank": 7,
+          "rank": 8,
           "score": 7.5,
           "scores": {
             "autoScheduling": 8.0,
@@ -14990,7 +15006,7 @@
         },
         {
           "id": "google-nest-thermostat-2020",
-          "rank": 8,
+          "rank": 9,
           "score": 7.2,
           "scores": {
             "autoScheduling": 7.0,
@@ -15003,7 +15019,7 @@
         },
         {
           "id": "honeywell-t6-pro-smart",
-          "rank": 9,
+          "rank": 10,
           "score": 7.0,
           "scores": {
             "autoScheduling": 6.5,
@@ -15016,7 +15032,7 @@
         },
         {
           "id": "amazon-smart-thermostat",
-          "rank": 10,
+          "rank": 11,
           "score": 6.6,
           "scores": {
             "autoScheduling": 6.0,
@@ -15029,7 +15045,7 @@
         },
         {
           "id": "ecobee-smart-thermostat-essential",
-          "rank": 11,
+          "rank": 12,
           "score": 7.9,
           "scores": {
             "autoScheduling": 7.5,
@@ -15042,7 +15058,7 @@
         },
         {
           "id": "honeywell-home-x2s",
-          "rank": 12,
+          "rank": 13,
           "score": 7.4,
           "scores": {
             "autoScheduling": 7.2,
@@ -15055,7 +15071,7 @@
         },
         {
           "id": "mysa-baseboard-v2",
-          "rank": 13,
+          "rank": 14,
           "score": 7.8,
           "scores": {
             "autoScheduling": 7.4,
@@ -15064,6 +15080,19 @@
             "energySavings": 8.8,
             "installation": 7.2,
             "displayDesign": 7.8
+          }
+        },
+        {
+          "id": "sensibo-air-pro",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "autoScheduling": 7.8,
+            "multiRoomSupport": 6.8,
+            "smartHomeIntegration": 9.2,
+            "energySavings": 8.6,
+            "installation": 9.8,
+            "displayDesign": 7.0
           }
         }
       ],
