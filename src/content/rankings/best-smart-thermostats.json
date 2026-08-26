@@ -243,6 +243,22 @@
           "priceRange": "NT$4,490"
         }
       }
+    },
+    {
+      "id": "wyze-thermostat",
+      "name": "Wyze Thermostat",
+      "brand": "Wyze",
+      "url": "https://www.wyze.com/products/wyze-thermostat",
+      "i18n": {
+        "en": {
+          "description": "A sub-$80 DIY smart thermostat that ships with a C-wire adapter in the box and covers scheduling, geofencing, and Alexa and Google voice control.",
+          "priceRange": "$79.98"
+        },
+        "zh-tw": {
+          "description": "不到三千塊就能入手的 DIY 智慧溫控器，C-wire 轉接器直接附在盒子裡，排程、地理圍欄、Alexa 跟 Google 語音都有。",
+          "priceRange": "約 NT$2,600"
+        }
+      }
     }
   ],
   "history": [
@@ -14966,6 +14982,19 @@
           }
         },
         {
+          "id": "sensibo-air-pro",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "autoScheduling": 7.8,
+            "multiRoomSupport": 6.8,
+            "smartHomeIntegration": 9.2,
+            "energySavings": 8.6,
+            "installation": 9.8,
+            "displayDesign": 7.0
+          }
+        },
+        {
           "id": "aqara-thermostat-hub-w200",
           "rank": 6,
           "score": 8.0,
@@ -14979,8 +15008,21 @@
           }
         },
         {
-          "id": "emerson-sensi-touch-2",
+          "id": "ecobee-smart-thermostat-essential",
           "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "autoScheduling": 7.5,
+            "multiRoomSupport": 6.5,
+            "smartHomeIntegration": 9.0,
+            "energySavings": 8.0,
+            "installation": 8.5,
+            "displayDesign": 8.0
+          }
+        },
+        {
+          "id": "emerson-sensi-touch-2",
+          "rank": 8,
           "score": 7.8,
           "scores": {
             "autoScheduling": 7.5,
@@ -14992,8 +15034,21 @@
           }
         },
         {
+          "id": "mysa-baseboard-v2",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "autoScheduling": 7.4,
+            "multiRoomSupport": 7.0,
+            "smartHomeIntegration": 8.6,
+            "energySavings": 8.8,
+            "installation": 7.2,
+            "displayDesign": 7.8
+          }
+        },
+        {
           "id": "ecobee-smart-thermostat-enhanced",
-          "rank": 8,
+          "rank": 10,
           "score": 7.5,
           "scores": {
             "autoScheduling": 8.0,
@@ -15005,8 +15060,21 @@
           }
         },
         {
+          "id": "honeywell-home-x2s",
+          "rank": 11,
+          "score": 7.4,
+          "scores": {
+            "autoScheduling": 7.2,
+            "multiRoomSupport": 5.6,
+            "smartHomeIntegration": 8.8,
+            "energySavings": 7.0,
+            "installation": 8.6,
+            "displayDesign": 7.4
+          }
+        },
+        {
           "id": "google-nest-thermostat-2020",
-          "rank": 9,
+          "rank": 12,
           "score": 7.2,
           "scores": {
             "autoScheduling": 7.0,
@@ -15018,8 +15086,21 @@
           }
         },
         {
+          "id": "wyze-thermostat",
+          "rank": 13,
+          "score": 7.1,
+          "scores": {
+            "autoScheduling": 6.8,
+            "multiRoomSupport": 4.0,
+            "smartHomeIntegration": 7.0,
+            "energySavings": 7.2,
+            "installation": 8.8,
+            "displayDesign": 7.0
+          }
+        },
+        {
           "id": "honeywell-t6-pro-smart",
-          "rank": 10,
+          "rank": 14,
           "score": 7.0,
           "scores": {
             "autoScheduling": 6.5,
@@ -15032,7 +15113,7 @@
         },
         {
           "id": "amazon-smart-thermostat",
-          "rank": 11,
+          "rank": 15,
           "score": 6.6,
           "scores": {
             "autoScheduling": 6.0,
@@ -15041,58 +15122,6 @@
             "energySavings": 7.0,
             "installation": 7.5,
             "displayDesign": 6.2
-          }
-        },
-        {
-          "id": "ecobee-smart-thermostat-essential",
-          "rank": 12,
-          "score": 7.9,
-          "scores": {
-            "autoScheduling": 7.5,
-            "multiRoomSupport": 6.5,
-            "smartHomeIntegration": 9.0,
-            "energySavings": 8.0,
-            "installation": 8.5,
-            "displayDesign": 8.0
-          }
-        },
-        {
-          "id": "honeywell-home-x2s",
-          "rank": 13,
-          "score": 7.4,
-          "scores": {
-            "autoScheduling": 7.2,
-            "multiRoomSupport": 5.6,
-            "smartHomeIntegration": 8.8,
-            "energySavings": 7.0,
-            "installation": 8.6,
-            "displayDesign": 7.4
-          }
-        },
-        {
-          "id": "mysa-baseboard-v2",
-          "rank": 14,
-          "score": 7.8,
-          "scores": {
-            "autoScheduling": 7.4,
-            "multiRoomSupport": 7.0,
-            "smartHomeIntegration": 8.6,
-            "energySavings": 8.8,
-            "installation": 7.2,
-            "displayDesign": 7.8
-          }
-        },
-        {
-          "id": "sensibo-air-pro",
-          "rank": 5,
-          "score": 8.2,
-          "scores": {
-            "autoScheduling": 7.8,
-            "multiRoomSupport": 6.8,
-            "smartHomeIntegration": 9.2,
-            "energySavings": 8.6,
-            "installation": 9.8,
-            "displayDesign": 7.0
           }
         }
       ],
@@ -15111,6 +15140,11 @@
           "title": "Ecobee Premium vs. Google Nest Learning (2026): Which Saves More Money?",
           "url": "https://www.nestalpha.com/post/ecobee-vs-nest-smart-thermostat-review",
           "source": "Nest Alpha"
+        },
+        {
+          "title": "Major Smart Thermostat Brands Ranked Worst To Best",
+          "url": "https://www.slashgear.com/1749832/major-smart-thermostat-brands-ranked-worst-best/",
+          "source": "SlashGear"
         }
       ],
       "i18n": {

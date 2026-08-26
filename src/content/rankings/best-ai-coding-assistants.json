@@ -20656,6 +20656,215 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-26",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Cursor, Claude Code, and Codex are merging into one AI coding stack nobody planned",
+          "url": "https://thenewstack.io/ai-coding-tool-stack/",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Best AI Coding Agents (August 2026): Scored Leaderboard",
+          "url": "https://www.morphllm.com/best-ai-coding-agents-2026",
+          "source": "Morph"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The most useful thing I read this month is that developers have stopped picking one coding agent and started running two or three together. The New Stack calls it a composable stack, with orchestration, execution and review as separate layers, and that matches what I see in real teams. Claude Code stays at 9.5 because it is the strongest single agent when the task is genuinely hard. Multi-file refactors, tracing a bug through three services, rewriting a build system: these are where it separates from everything else, and where I have watched it finish work that other agents abandon halfway. OpenAI Codex at 9.1 wins on friction. If your team already lives in ChatGPT, Codex is the shortest path from intent to a working patch, and the CLI keeps running when you throw long sessions at it. Cursor at 9.1 earns its score on the editor experience, and the parallel agent orchestration it shipped this spring turned it into a genuine control plane for other agents. SpaceX closing a $60B purchase of Cursor in mid-August confirms how strategically valuable that layer has become. Grok 4.6 landed on August 12 and is already selectable inside Cursor, which is exactly the model-agnostic direction I expect the whole category to take. Below the leaders, Google Antigravity at 8.4 and Jules at 8.2 are improving steadily and remain the best free-tier entry points.",
+          "highlights": [
+            {
+              "title": "Claude Code stays the best agent for hard problems",
+              "body": "I judge coding agents on what happens at the point where a task stops being mechanical. Claude Code is the one that keeps going: it reads more of the codebase before editing, it holds a refactor plan across dozens of files, and it recovers when a test fails instead of guessing. That reliability on difficult work is what a 9.5 represents, and nothing this month challenged it."
+            },
+            {
+              "title": "Running two agents together is now the mainstream setup",
+              "body": "The composable stack pattern is real. Teams use Cursor to orchestrate and review, Claude Code to execute the deep work, and Codex for quick in-ChatGPT patches. Because these tools now plug into each other, the question shifted from which one to buy to which combination fits your workflow. That is a healthier market than a single winner would be."
+            },
+            {
+              "title": "Cursor's $60B valuation reflects where the value sits",
+              "body": "SpaceX closing a $60B purchase of Cursor in mid-August tells you the orchestration and review layer is worth more than any individual model. Cursor scores 9.1 on the strength of its editor and its parallel agent management, and its willingness to add Grok 4.6 within days of release shows it intends to stay model-agnostic. That neutrality is a durable advantage."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這個月我看到最有意思的觀察是，工程師已經不再只挑一套 coding agent，而是同時跑兩三套。The New Stack 把它叫做可組合的堆疊，把調度、執行、審查拆成三層，這跟我在實際團隊看到的用法一模一樣。\n\nClaude Code 守在 9.5，理由很單純：遇到真的難的任務，它是最強的單一 agent。跨檔案重構、把 bug 追過三個服務、整包改寫 build 系統，這些場景它跟其他工具就拉開了。我看過太多次別的 agent 做到一半放棄，它還在往下走。\n\nOpenAI Codex 9.1 贏在摩擦力低。團隊本來就住在 ChatGPT 裡的話，從想法到可用的 patch 這條路它最短，CLI 丟長工作進去也不會斷。\n\nCursor 同樣 9.1，強在編輯器體驗，加上今年春天推的平行 agent 調度，它現在變成別人 agent 的控制台。八月中 SpaceX 用 600 億美金把 Cursor 買下來，這個價格已經說明調度層有多值錢了。\n\nGrok 4.6 在 8 月 12 日發布，Cursor 幾天內就把它加進可選模型，這種模型中立的走向我認為會是整個類別的共識。再往下，Google Antigravity 8.4 跟 Jules 8.2 進步穩定，免費額度也是入門最好的起點。",
+          "highlights": [
+            {
+              "title": "難題交給 Claude Code，這點還沒有對手",
+              "body": "我評 coding agent 的標準是，任務從機械性變成需要判斷的那一刻會發生什麼事。Claude Code 是會繼續往下做的那個：動手改之前先讀更多程式碼、重構計畫能跨幾十個檔案維持一致、測試掛掉會回頭修而不是亂猜。9.5 分代表的就是這種難題上的可靠度，這個月沒有東西撼動它。"
+            },
+            {
+              "title": "同時跑兩套 agent 已經是主流做法",
+              "body": "可組合堆疊這件事是真的在發生。團隊用 Cursor 做調度跟審查，用 Claude Code 執行硬工作，用 Codex 在 ChatGPT 裡快速改小東西。這些工具現在互相插得進去，問題就從「該買哪一套」變成「哪種組合最適合你的流程」。對使用者來說，這個局面比一家獨大健康多了。"
+            },
+            {
+              "title": "Cursor 那個 600 億估值說明了價值在哪一層",
+              "body": "八月中 SpaceX 完成對 Cursor 的 600 億美金收購，這告訴你調度跟審查層比任何單一模型都值錢。Cursor 拿 9.1 靠的是編輯器體驗跟平行 agent 管理，而且 Grok 4.6 發布沒幾天它就接了進去，擺明要走模型中立路線。這種中立性是很難被複製的長期優勢。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

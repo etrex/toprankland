@@ -13338,6 +13338,203 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-26",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 9.0,
+            "artisticQuality": 8.3,
+            "textRendering": 9.6,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.1,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "nano-banana-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "New AI Model Releases, August 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        },
+        {
+          "title": "AI Release Tracker, Complete LLM Timeline 2022-2026",
+          "url": "https://aireleasetracker.com/",
+          "source": "AI Release Tracker"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "This ranking has been stable for two weeks and I am comfortable leaving it that way, because the differences at the top are now about house style rather than capability. GPT-Image-2 at 9.4 holds first on the strength of instruction following. When I give it a layout with specific text, specific positions and a specific mood, it delivers that layout, and the text renders cleanly enough to use in a real design. Midjourney v8 at 9.3 remains the one I choose when I want an image that looks intentional. Its aesthetic default is still the strongest in the category, and v8 finally made prompt control precise enough that you can steer it without fighting. Nano Banana Pro and Flux 2 Pro tie at 9.2 from different angles: Nano Banana Pro is the fastest path to a good result with minimal prompt engineering, and Flux 2 Pro gives the most control to people who want to tune every parameter. Seedream 4.5 at 8.7 continues to be the value pick, producing photoreal output at prices that make high-volume work practical. Ideogram v3 at 8.6 stays the specialist for typography-heavy work like posters and packaging mockups. My guidance is unchanged: if you produce marketing assets with text, start with GPT-Image-2, and if you produce art, start with Midjourney.",
+          "highlights": [
+            {
+              "title": "GPT-Image-2 wins because it does what you asked",
+              "body": "Photorealism is close to solved across the top four, so the differentiator is whether the model respects a detailed brief. GPT-Image-2 handles layout instructions, positions elements where I put them, and renders text clean enough to ship. That reliability is worth more in commercial work than another half point of realism, which is why it holds 9.4."
+            },
+            {
+              "title": "Midjourney v8 still has the best default taste",
+              "body": "Give any of these models a vague prompt and Midjourney returns the most compelling image. That aesthetic instinct is difficult to replicate and it is why art directors keep a subscription even when they have API access to everything else. v8 added enough prompt precision that steering it no longer feels like a negotiation."
+            },
+            {
+              "title": "Seedream 4.5 makes high-volume work affordable",
+              "body": "At 8.7 it sits below the leaders on the hardest compositions, and for product shots, backgrounds and social variants it produces output I would happily publish. When you need hundreds of images a week, the per-image cost becomes the deciding factor, and this is where that math works out best."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這份榜單穩了兩週，我打算就讓它這樣放著，因為前段的差別現在是風格取向，能力上已經拉不開了。\n\nGPT-Image-2 的 9.4 靠的是聽指令。我給它一個版面配置，指定文字內容、位置跟氛圍，它就給我那個版面，而且文字算得夠乾淨，可以直接進設計稿。這在商案裡比多零點五分的擬真度值錢多了。\n\nMidjourney v8 拿 9.3，我想要一張「看起來就是有人設計過」的圖時還是開它。它的美感預設值仍然是全類別最強的，v8 之後控制精度也夠了，不用再跟它拉扯。\n\nNano Banana Pro 跟 Flux 2 Pro 並列 9.2，路線完全不同。前者是幾乎不用寫 prompt 就能拿到好結果的捷徑，後者把每個參數都開給你調。\n\nSeedream 4.5 的 8.7 是 CP 值選擇，擬真輸出加上便宜的價格，量大的案子才做得下去。Ideogram v3 8.6 則是排版重的活兒的專門解，海報、包裝視覺打樣特別合適。\n\n結論跟上週一樣：做帶文字的行銷素材從 GPT-Image-2 開始，做藝術創作從 Midjourney 開始。",
+          "highlights": [
+            {
+              "title": "GPT-Image-2 贏在它真的照你說的做",
+              "body": "前四名的擬真度都已經逼近天花板，差別就在模型會不會尊重一份寫得很細的需求。GPT-Image-2 處理版面指令很穩，元素放我指定的位置，文字算得乾淨到能直接交稿。商業案子裡這種可靠度比多零點五分的真實感有價值得多，9.4 分守得住。"
+            },
+            {
+              "title": "隨手丟一句話，Midjourney v8 的品味還是最好",
+              "body": "同一句模糊的 prompt 丟給這幾家，Midjourney 回你的那張最耐看。這種美感直覺很難複製，也是為什麼美術指導手上明明有一堆 API，還是會留一份 Midjourney 訂閱。v8 之後控制精度也補上來了，調整它不再像在談判。"
+            },
+            {
+              "title": "量大的活兒，Seedream 4.5 讓預算算得出來",
+              "body": "8.7 分代表它在最刁鑽的構圖上輸給前段班，但拿來做商品圖、背景、社群素材的各種尺寸變體，產出我是敢直接發的。一週要幾百張圖的時候，單張成本就是決定因素，這一格的數學算起來最漂亮。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

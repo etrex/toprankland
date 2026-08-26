@@ -14641,6 +14641,191 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-26",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.1,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Video Generator 2026: Veo 3.1 vs Sora 2 vs Kling",
+          "url": "https://tech-insider.org/best-ai-video-generator-2026/",
+          "source": "Tech Insider"
+        },
+        {
+          "title": "How to Choose the Best AI Video Generator in 2026",
+          "url": "https://kling.ai/blog/best-ai-video-generator-2026-kling-ai",
+          "source": "Kling AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The story of this category in August 2026 is that OpenAI walked away from it. Sora's web and app experiences shut down on April 26, and the API follows on September 24, which leaves a leaderboard dominated by Chinese labs and Google. Kling 3.0 holds the top spot at 9.5 and deserves it. The AI Director feature and multi-shot storyboard mode changed what a single prompt can produce, because you now get a sequence of cuts with audio that stays in sync across them. That is a production workflow rather than a clip generator. Google Veo 3.1 at 9.4 remains the strongest choice on prompt adherence and native audio, and 4K output in both landscape and portrait matters more than it sounds when you are making the same piece for YouTube and for vertical feeds. Runway Gen-4.5 at 9.2 keeps its place on editing control, and Seedance 2.0 matches it on raw motion realism. Below that, the interesting shift is how narrow the quality gap has become. A $9.99 prosumer plan now produces footage that would have needed an enterprise contract eighteen months ago. My practical advice: use Kling when you need a multi-shot sequence, Veo when the prompt is complicated and the audio has to land, and Runway when you plan to keep editing afterwards.",
+          "highlights": [
+            {
+              "title": "Kling 3.0's AI Director earns the number one spot",
+              "body": "Multi-shot storyboard mode is the first feature in this category that changes the unit of work. Instead of generating one clip and stitching manually, you describe a sequence and get cuts with audio that stays synchronised across them. For anyone making ads or short narrative pieces, that removes the most tedious part of the job, which is why Kling sits at 9.5."
+            },
+            {
+              "title": "Veo 3.1 is still the best at doing what you actually asked",
+              "body": "Prompt adherence is the quality that separates a usable generator from a slot machine. Veo 3.1 lands complicated prompts more consistently than anything else I have tested, and its native audio arrives properly timed rather than bolted on. Add 4K in landscape and portrait from the same prompt and it covers both YouTube and vertical feeds without a second render."
+            },
+            {
+              "title": "Sora's shutdown reshaped the whole leaderboard",
+              "body": "OpenAI discontinued the Sora web and app experiences on April 26 and will switch off the API on September 24. A frontier player leaving mid-cycle is rare, and it handed momentum to Kling, Seedance and Veo. If you built a workflow on Sora, September 24 is a hard deadline, and I would migrate to Veo for prompt fidelity or Kling for multi-shot work."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "八月這個類別最大的事情是 OpenAI 退出了。Sora 的網頁跟 App 在 4 月 26 日就關掉，API 也會在 9 月 24 日停掉，剩下的戰場基本上是中國實驗室加上 Google。\n\nKling 3.0 拿 9.5 坐穩第一，我覺得實至名歸。AI Director 加上多鏡頭分鏡模式，直接改寫了「一段 prompt 能產出什麼」這件事，現在你拿到的是一連串剪好的鏡頭，音軌還能跨鏡頭對得上。這已經是製作流程，不只是產片段的工具。\n\nGoogle Veo 3.1 拿 9.4，強在照著你的指令做，而且原生音訊到位。橫向跟直向都能出 4K 這點比聽起來重要，同一支片要上 YouTube 又要上短影音，你不用再算一次。\n\nRunway Gen-4.5 的 9.2 靠剪輯控制守住，Seedance 2.0 則在動態真實度上追平。\n\n更有趣的是價差跟品質差已經拉不開了，現在一個月台幣三百多的方案，產出的畫面在一年半前得簽企業約才拿得到。\n\n實務建議很簡單：要多鏡頭找 Kling，指令複雜又要聲音準就用 Veo，後面還要繼續剪的話選 Runway。",
+          "highlights": [
+            {
+              "title": "Kling 3.0 的 AI Director 撐得起第一名",
+              "body": "多鏡頭分鏡是這個類別第一個改變工作單位的功能。以前你產一段、再手動接起來，現在你描述一整個段落，拿到的是剪好的鏡頭，而且音軌跨鏡頭都對得上。做廣告或短劇的人最煩的就是這段接合工作，這功能直接拿掉，9.5 分我給得很甘願。"
+            },
+            {
+              "title": "要它照做，Veo 3.1 還是最聽話的那個",
+              "body": "指令遵循度是「能用的工具」跟「吃角子老虎」的分水嶺。複雜 prompt 我測下來 Veo 3.1 的命中率最穩，原生音訊的時間點也是對的，不是事後貼上去。同一段 prompt 橫向直向都給你 4K，YouTube 跟直式短影音一次搞定，省掉一輪算圖。"
+            },
+            {
+              "title": "Sora 收攤把整個排名洗過一次",
+              "body": "OpenAI 4 月 26 日關掉 Sora 網頁跟 App，9 月 24 日連 API 都要停。第一線玩家中途退場很罕見，動能直接讓給 Kling、Seedance 跟 Veo。如果你的流程建在 Sora 上，9 月 24 日就是硬期限，我會建議指令精準度優先就轉 Veo，需要多鏡頭就轉 Kling。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -15093,6 +15093,203 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-26",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.4,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "fish-audio-openaudio-s1",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.1,
+            "emotionalRange": 8.8,
+            "languageSupport": 8.0,
+            "latency": 8.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 9.8,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 8,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 8.3,
+            "emotionalRange": 7.7,
+            "languageSupport": 8.6,
+            "latency": 7.8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "LLM News Today (August 2026) – AI Model Releases",
+          "url": "https://llm-stats.com/ai-news",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Best AI Models in August 2026: Updated Rankings and Comparisons",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Voice synthesis reached the point this year where the interesting comparisons are about latency and emotional range, since raw naturalness is now table stakes across the top eight. ElevenLabs and Inworld TTS-1.5-Max share the lead at 9.4 for different reasons. ElevenLabs remains the most complete product: the widest voice library, the best cloning workflow, and a licensing story that a business can actually sign off on. Inworld matches it on quality and beats it on cost per character at volume, which matters enormously if you are generating hours of audio per week. Cartesia Sonic 3 and Fish Audio OpenAudio S1 tie at 9.0, and both are built around low latency. Cartesia in particular is what I recommend for real-time conversational agents, where anything above 200ms breaks the illusion of a conversation. Hume AI Octave 2 at 8.9 is the specialist for emotional delivery. When a line needs to land with a specific feeling rather than just be intelligible, it produces reads the others do not reach. MiniMax Speech 02 HD at 8.8 is the strongest multilingual option, and its Mandarin output in particular is good enough that I would use it for Taiwanese market work without hesitation. Murf at 8.7 remains the easiest tool for a non-technical team to adopt.",
+          "highlights": [
+            {
+              "title": "ElevenLabs and Inworld are separated by cost, not quality",
+              "body": "Both sit at 9.4 because both produce reads I would put in a commercial project. ElevenLabs wins on library breadth, cloning workflow and clear commercial licensing. Inworld TTS-1.5-Max matches the audio quality and costs meaningfully less per character at volume. If you generate a few minutes a week, pick ElevenLabs. If you generate hours, run the numbers on Inworld."
+            },
+            {
+              "title": "Latency is the feature that decides real-time projects",
+              "body": "For a voice agent that talks with a customer, response time governs whether the experience feels like a conversation. Cartesia Sonic 3 is built for that constraint and consistently lands under the threshold where a pause becomes noticeable. That focus is why it scores 9.0 despite a smaller voice library than the leaders."
+            },
+            {
+              "title": "MiniMax Speech 02 HD is the pick for Mandarin work",
+              "body": "Multilingual claims are cheap and Mandarin output is where most of them fall apart, usually on tone and on the rhythm of mixed English terms. MiniMax handles both well enough that I would ship its output for Taiwan-facing content. At 8.8 it is the best combination of language coverage and per-language quality in this list."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "語音合成今年已經走到一個階段，前八名的自然度都是基本盤，真正值得比的是延遲跟情緒表現力。\n\nElevenLabs 跟 Inworld TTS-1.5-Max 並列 9.4，理由不一樣。ElevenLabs 是最完整的產品，聲音庫最廣、複製流程最順，商用授權條款也是公司法務簽得下去的那種。Inworld 品質追平，量大的時候每字成本便宜有感，一週要產好幾個小時音檔的話這差距很可觀。\n\nCartesia Sonic 3 跟 Fish Audio OpenAudio S1 並列 9.0，兩邊都是低延遲取向。做即時對話 agent 我特別推 Cartesia，超過 200 毫秒對話感就破功了，它守得住。\n\nHume AI Octave 2 的 8.9 是情緒專門解。一句話要帶特定情緒而不只是聽得懂的時候，它讀出來的味道其他家做不到。\n\nMiniMax Speech 02 HD 8.8 是多語系最強的，中文輸出的水準我拿來做台灣市場的內容不會猶豫，中英夾雜的節奏也處理得不錯。Murf 8.7 則是非技術團隊最容易上手的那一個。",
+          "highlights": [
+            {
+              "title": "ElevenLabs 跟 Inworld 差在成本，品質是打平的",
+              "body": "兩家都 9.4，因為兩家產出我都敢放進商案。ElevenLabs 贏在聲音庫廣、複製流程順、商用授權寫得清楚。Inworld TTS-1.5-Max 音質追平，量大時每字成本便宜一截。一週只產幾分鐘就選 ElevenLabs，一週產好幾小時就認真算一下 Inworld 的帳。"
+            },
+            {
+              "title": "即時專案的成敗就看延遲",
+              "body": "語音 agent 要跟客人對話的時候，回應速度決定這件事感不感覺像對話。Cartesia Sonic 3 就是照這個限制設計的，穩定壓在讓人察覺到停頓的門檻以下。聲音庫比前段班小，還是拿得到 9.0，靠的就是這個專注。"
+            },
+            {
+              "title": "中文內容我會選 MiniMax Speech 02 HD",
+              "body": "多語系這種話講起來很便宜，中文輸出才是照妖鏡，多數家在聲調跟中英夾雜的節奏上就露餡了。MiniMax 這兩點都處理得夠好，做台灣市場的內容我敢直接用。8.8 分是這份榜單裡語言覆蓋跟單一語言品質配得最好的組合。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

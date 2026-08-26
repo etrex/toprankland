@@ -14196,6 +14196,189 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-26",
+      "rankings": [
+        {
+          "id": "claude",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.7,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "chatgpt",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.5,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Claude 5, GPT-5.6, and Gemini 3.7: The State of AI Model Releases in August 2026",
+          "url": "https://af.net/realtime/claude-5-gpt-5-6-and-gemini-3-7-the-state-of-ai-model-releases-in-august-2026/",
+          "source": "AIFOD"
+        },
+        {
+          "title": "New AI Model Releases — August 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "August 2026 has been the busiest release month I can remember, with 12 new models from 7 providers landing in under four weeks, and the top of this ranking has absorbed all of it without moving. Claude and ChatGPT stay tied at 9.5 because they win on different axes and both keep those wins. Claude Opus 5 has held its lead on long multi-step reasoning since late July, and I still get the cleanest answers from it when a question requires holding a dozen constraints in mind at once. GPT-5.6 Luna and Sol split OpenAI's lineup into a fast conversational tier and a heavier reasoning tier, which makes ChatGPT the most flexible single subscription on the market. Gemini at 9.4 earns that number on breadth. Gemini 3.7 Flash arrived on August 13 and it is genuinely quick, and the Workspace and Android integration means it shows up where people already work. Below the top three, the gaps are about consistency rather than peak capability. Grok at 8.8 delivers sharp answers on live events because of its feed access. Perplexity at 8.6 remains my pick when I want sourced answers I can audit. DeepSeek at 8.2 is the value story, delivering frontier-adjacent quality at a fraction of the cost. My advice today is unchanged: pick based on what you do most, because all three leaders will answer your everyday questions well.",
+          "highlights": [
+            {
+              "title": "Claude and ChatGPT deserve the shared top spot",
+              "body": "A tie at the top looks like a cop-out until you use both daily. Claude Opus 5 holds the edge on sustained reasoning across long documents and multi-constraint problems, which is why I reach for it on research and analysis work. ChatGPT's GPT-5.6 split into Luna and Sol gives you a fast tier and a deep tier under one subscription, which covers more real situations than any single model does. Both are 9.5 because both are the best choice for a large group of people."
+            },
+            {
+              "title": "Gemini 3.7 Flash makes speed a real feature again",
+              "body": "Google shipped Gemini 3.7 Flash on August 13 and the latency difference is obvious in ordinary use. When a model answers in under two seconds, you ask it more questions, and that changes how much value you actually extract over a week. Combined with the way Gemini sits inside Gmail, Docs and Android, this is the assistant that requires the least effort to adopt."
+            },
+            {
+              "title": "DeepSeek is the best value in the entire list",
+              "body": "DeepSeek-V4-Pro landed on August 13 and continues the pattern of delivering near-frontier quality at a small fraction of the price. At 8.2 it sits below the leaders on the hardest reasoning tasks, and for summarising, drafting, and code explanation it produces work I would happily ship. For anyone paying per token at volume, this is where the money goes furthest."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "八月是我印象中發布最密集的一個月，四週內七家廠商推了十二個新模型，結果這份榜單的前段一動也沒動。\n\nClaude 跟 ChatGPT 並列 9.5 我覺得很合理，兩邊贏的地方不一樣，而且都守住了。Claude Opus 5 從七月底就在長鏈推理上領先，遇到那種要同時記住十幾個條件的問題，它給我的答案最乾淨。ChatGPT 這邊把 GPT-5.6 拆成 Luna 跟 Sol，一個快、一個重推理，同一份訂閱涵蓋的情境最廣，這點很實用。\n\nGemini 拿 9.4 靠的是廣度。8 月 13 日上線的 Gemini 3.7 Flash 真的快，加上它直接長在 Gmail、Google 文件跟 Android 裡面，對台灣多數上班族來說，這是導入成本最低的一個。\n\n再往下就是穩定度的差別了。Grok 8.8 在即時事件上答得最準，畢竟它有社群動態可以吃。Perplexity 8.6 我拿來查有出處的東西，每句話都能點回原文，這點很值錢。DeepSeek 8.2 則是價格屠夫，品質貼近第一線但成本只有零頭。\n\n說真的，今天的建議跟上週一樣：挑你最常做的事情來選，前三名處理日常提問都不會讓你失望。",
+          "highlights": [
+            {
+              "title": "Claude 跟 ChatGPT 並列第一是我實際用出來的結論",
+              "body": "並列看起來像和稀泥，實際兩個都天天用你就知道差在哪。Claude Opus 5 在長文件、多條件的推理上比較穩，我做研究跟資料分析都開它。ChatGPT 把 GPT-5.6 拆成快版跟深版，一份訂閱兩種需求都吃得下，涵蓋的情境比任何單一模型都多。兩邊都是 9.5，因為對很大一群人來說，它們各自就是最佳解。"
+            },
+            {
+              "title": "Gemini 3.7 Flash 讓「快」重新變成賣點",
+              "body": "8 月 13 日上線的 Gemini 3.7 Flash，日常用起來延遲差距很明顯。模型兩秒內回你，你就會願意多問幾次，一週累積下來拿到的價值完全不同。加上它本來就住在 Gmail、Google 文件跟 Android 裡，你不用改工作習慣就能開始用。"
+            },
+            {
+              "title": "DeepSeek 是整份榜單裡最划算的選擇",
+              "body": "DeepSeek-V4-Pro 8 月 13 日發布，延續一貫路線，品質貼近第一線但價格只要零頭。8.2 分代表它在最難的推理題上還是輸給前三名，但拿來做摘要、寫草稿、解釋程式碼，產出我是敢直接交出去的。如果你是按 token 計費而且用量大，錢花在這裡效益最高。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
