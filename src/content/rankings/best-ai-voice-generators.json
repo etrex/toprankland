@@ -15290,6 +15290,211 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-27",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.4,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "fish-audio-openaudio-s1",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.1,
+            "emotionalRange": 8.8,
+            "languageSupport": 8.0,
+            "latency": 8.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 9.8,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 8,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 8.3,
+            "emotionalRange": 7.7,
+            "languageSupport": 8.6,
+            "latency": 7.8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "LLM News Today (August 2026) – AI Model Releases",
+          "url": "https://llm-stats.com/ai-news",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Best AI Models in August 2026: Updated Rankings and Comparisons",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs and Inworld TTS 1.5 Max are tied at 9.4 and I am leaving them tied because they win on genuinely different axes. ElevenLabs has the deeper voice library and the cloning quality that makes it the default for audiobook and narration work. Inworld delivers stronger emotional range in dialogue, which matters for game characters and anything conversational. Cartesia Sonic 3 and Fish Audio's OpenAudio S1 share 9.0 and both earn it through latency. If you are building a voice agent that has to respond in real time, start with these two, because a two-hundred-millisecond gap is the difference between a conversation and a phone tree. Hume's Octave 2 at 8.9 remains the most interesting model here conceptually, since it adjusts delivery based on the emotional content of the text rather than requiring you to tag it. MiniMax Speech 02 HD is the value pick and its multilingual output is strong enough for most localisation work. My advice for anyone starting a project is to test with your actual script rather than the demo text, because these models diverge most on domain vocabulary, proper nouns, and numbers. That is where a voice either sounds professional or falls apart.",
+          "highlights": [
+            {
+              "title": "The tie at the top splits by use case",
+              "body": "ElevenLabs has the deeper voice library and the better cloning, making it right for audiobooks and narration. Inworld delivers stronger emotional range in dialogue, which suits game characters and conversational agents. Both deserve 9.4."
+            },
+            {
+              "title": "Latency decides voice agents",
+              "body": "Cartesia Sonic 3 and Fish Audio OpenAudio S1 both respond fast enough to feel like conversation. For any real-time agent that responsiveness outweighs a small edge in voice character, because the delay is what makes users hang up."
+            },
+            {
+              "title": "Hume reads emotion from the text itself",
+              "body": "Octave 2 adjusts delivery based on what the writing means rather than requiring explicit tags. That approach produces natural results on long-form content where manually marking every line would be impractical."
+            },
+            {
+              "title": "Test with your own script",
+              "body": "These models diverge most on domain vocabulary, proper nouns, and numbers, and demo text hides all of it. Run your actual copy through every candidate before committing, because that is where a voice either holds up or falls apart."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ElevenLabs 跟 Inworld TTS 1.5 Max 並列 9.4，我刻意讓它們平手，因為兩邊贏的方向真的不一樣。ElevenLabs 的聲音庫更深、複製品質更好，有聲書跟旁白這類工作它是預設選項。Inworld 則是在對話的情緒起伏上更強，遊戲角色跟任何對話型應用會更適合。\n\nCartesia Sonic 3 跟 Fish Audio OpenAudio S1 同拿 9.0，兩個都是靠延遲拿分的。你如果在做需要即時回應的語音 agent，從這兩個開始測，因為兩百毫秒的差距就是「像在對話」跟「像在跟語音客服選單講話」的分界。\n\nHume Octave 2 拿 8.9，概念上是這裡最有意思的一個，它會根據文字本身的情緒內容調整語氣，不用你自己去標記。\n\nMiniMax Speech 02 HD 是 CP 值選擇，多語輸出的水準應付大部分在地化工作沒問題。\n\n給要開案子的人一個實際建議：拿你自己的稿去測，不要用官方 demo。這些模型差最多的地方在專業術語、專有名詞跟數字，而那正是一個聲音聽起來專業或直接崩掉的分水嶺。",
+          "highlights": [
+            {
+              "title": "第一名平手，照用途分就好",
+              "body": "ElevenLabs 聲音庫更深、複製更準，有聲書跟旁白選它。Inworld 的對話情緒起伏更強，遊戲角色跟對話型 agent 選它。兩邊都撐得起 9.4 這個分數。"
+            },
+            {
+              "title": "語音 agent 的勝負在延遲",
+              "body": "Cartesia Sonic 3 跟 Fish Audio OpenAudio S1 的回應速度快到有對話感。即時應用場景下，這份反應速度比一點點音色優勢重要，因為讓使用者掛斷的從來都是那個等待。"
+            },
+            {
+              "title": "Hume 是直接從文字讀情緒",
+              "body": "Octave 2 會依照文字本身的語意調整語氣，不用你逐句標記。做長篇內容時這個做法很實用，畢竟一句一句手動標情緒根本不可行。"
+            },
+            {
+              "title": "用你自己的稿子測",
+              "body": "這些模型差最多的是專業術語、專有名詞跟數字，官方 demo 文本剛好都把這些藏起來。決定之前把你真正要唸的稿丟進每個候選跑一次，那才看得出誰撐得住。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

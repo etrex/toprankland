@@ -15401,6 +15401,163 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-27",
+      "rankings": [
+        {
+          "id": "protonvpn",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "privacy": 9.7,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "mullvad",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "A List Of VPN Providers With Public Audits In 2026",
+          "url": "https://greycoder.com/a-list-of-vpn-providers-with-public-audits/",
+          "source": "GreyCoder"
+        },
+        {
+          "title": "Best VPN Services: Testing the Top Performers for 2026",
+          "url": "https://cyberinsider.com/vpn/best/",
+          "source": "CyberInsider"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Proton VPN holds first because it combines a proven no-logs record with Swiss jurisdiction and open source clients that anyone can audit, and in a category where every provider claims privacy, verifiable claims are the only ones worth anything. Its free tier is also the only genuinely usable free VPN, which matters for people who need protection and cannot pay. Mullvad at 9.2 goes further on anonymity by accepting cash and requiring no email address, and for anyone whose threat model involves account linkage that approach is the correct one. NordVPN at 8.8 has the largest server network and the fastest speeds, which suits streaming and large downloads. IVPN at 8.6 shares Mullvad's philosophy with a smaller network. ExpressVPN at 8.5 offers the simplest experience. My practical guidance: a VPN protects traffic between you and the VPN server and it does nothing about tracking through cookies, browser fingerprinting, or accounts you log into. Understand what problem you are solving, because a VPN chosen for the wrong reason provides a false sense of security rather than actual protection.",
+          "highlights": [
+            {
+              "title": "Verifiable claims are the only ones worth anything",
+              "body": "Every provider claims privacy, and Proton backs it with Swiss jurisdiction, a proven no-logs record, and open source clients anyone can audit. That verifiability is what separates a claim from a guarantee."
+            },
+            {
+              "title": "Mullvad removes account linkage entirely",
+              "body": "Accepting cash with no email address required means there is nothing connecting a subscription to a person. For anyone whose threat model involves that linkage, this approach is the correct one."
+            },
+            {
+              "title": "Proton's free tier is genuinely usable",
+              "body": "It is the only free VPN worth running, with no data caps and no advertising model behind it. For people who need protection and cannot pay, that availability matters more than any speed comparison."
+            },
+            {
+              "title": "Know what a VPN actually protects",
+              "body": "It secures traffic between you and the server and does nothing about cookies, browser fingerprinting, or accounts you log into. A VPN chosen for the wrong reason provides false confidence rather than protection."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Proton VPN 守第一，因為它把經過驗證的無紀錄政策、瑞士司法管轄，跟任何人都能稽核的開源客戶端結合在一起。在一個每家都宣稱重視隱私的品類裡，只有可驗證的宣稱才有價值。它的免費方案也是唯一真的堪用的免費 VPN，對需要保護卻付不出錢的人來說很重要。\n\nMullvad 9.2 在匿名性上走得更遠，接受現金付款、不需要 email。威脅模型包含「帳號被關聯」的人，這個做法才是正解。\n\nNordVPN 8.8 的伺服器網路最大、速度最快，適合串流跟大檔下載。IVPN 8.6 理念跟 Mullvad 相近但網路較小。ExpressVPN 8.5 使用體驗最單純。\n\n實用建議：VPN 保護的是你到 VPN 伺服器之間的流量，它對 cookie 追蹤、瀏覽器指紋、以及你登入的那些帳號完全無能為力。請搞清楚你要解決的是什麼問題，因為為了錯誤理由挑的 VPN 給你的是虛假的安全感，不是真的保護。",
+          "highlights": [
+            {
+              "title": "只有可驗證的宣稱才有價值",
+              "body": "每家都說重視隱私，而 Proton 用瑞士管轄、經驗證的無紀錄政策，以及任何人都能稽核的開源客戶端去支撐它。可驗證性就是宣稱跟保證之間的分界。"
+            },
+            {
+              "title": "Mullvad 徹底切斷帳號關聯",
+              "body": "接受現金、不需要 email，代表沒有任何東西把訂閱連到一個人身上。威脅模型包含這種關聯的人，這才是正確的做法。"
+            },
+            {
+              "title": "Proton 的免費方案是真的能用",
+              "body": "它是唯一值得跑的免費 VPN，沒有流量上限，背後也沒有廣告商業模式。需要保護卻付不出錢的人，這份可及性比任何速度比較都重要。"
+            },
+            {
+              "title": "搞清楚 VPN 到底保護什麼",
+              "body": "它保護的是你到伺服器之間的流量，對 cookie、瀏覽器指紋、你登入的帳號完全沒作用。為了錯誤理由挑的 VPN，給的是虛假信心而非保護。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

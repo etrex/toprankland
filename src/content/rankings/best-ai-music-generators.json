@@ -15072,6 +15072,199 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-27",
+      "rankings": [
+        {
+          "id": "suno-v5",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "audioQuality": 9.7,
+            "vocalRealism": 9.4,
+            "editingControl": 9.6,
+            "commercialLicense": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "elevenlabs-music",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "audioQuality": 9.3,
+            "vocalRealism": 9.7,
+            "editingControl": 8.7,
+            "commercialLicense": 9.8,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "lyria-3-pro",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 8.6,
+            "editingControl": 8.4,
+            "commercialLicense": 9.5,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 7.0,
+            "editingControl": 8.6,
+            "commercialLicense": 9.5,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "udio",
+          "rank": 5,
+          "score": 8.4,
+          "scores": {
+            "audioQuality": 9.6,
+            "vocalRealism": 9.5,
+            "editingControl": 9.8,
+            "commercialLicense": 7.7,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "riffusion",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "audioQuality": 8.2,
+            "vocalRealism": 7.8,
+            "editingControl": 8.5,
+            "commercialLicense": 8.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "soundraw",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "audioQuality": 8.0,
+            "vocalRealism": 6.5,
+            "editingControl": 7.5,
+            "commercialLicense": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aiva",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 6.8,
+            "editingControl": 7.8,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "mubert",
+          "rank": 9,
+          "score": 7.3,
+          "scores": {
+            "audioQuality": 7.5,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "loudly",
+          "rank": 10,
+          "score": 7.0,
+          "scores": {
+            "audioQuality": 7.3,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "boomy",
+          "rank": 11,
+          "score": 6.8,
+          "scores": {
+            "audioQuality": 6.8,
+            "vocalRealism": 6.5,
+            "editingControl": 6.8,
+            "commercialLicense": 8.5,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "LLM News Today (August 2026) – AI Model Releases",
+          "url": "https://llm-stats.com/ai-news",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Best AI Models in August 2026: Updated Rankings and Comparisons",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Suno v5 keeps first place because it delivers the one thing that decides whether a generated track is usable: a coherent song structure. Verse, chorus, bridge, and an ending that resolves. Most competitors still hand you a loop that fades. ElevenLabs Music at 9.2 has the better vocal engine and I would pick it for anything where a lyric has to carry emotion, since its phrasing lands closer to a real take. Lyria 3 Pro at 8.6 sits where it does because Google built it for instrumental beds and it is excellent at that specific job, scoring video and podcast underlay without fighting the dialogue. Stable Audio 2.5 remains the choice for people who want to control the process rather than roll the dice, and its editing hooks let you fix a section instead of regenerating the whole track. Udio holds fifth on genre range. The commercial licensing question is where I want buyers to be careful, because the terms differ sharply across this list and several platforms restrict use in monetised video. Read the tier you are actually on. My practical recommendation for anyone producing content weekly is to pair Suno for full songs with Lyria for instrumental beds, since that combination covers almost every brief without paying for four subscriptions.",
+          "highlights": [
+            {
+              "title": "Song structure is what makes a track usable",
+              "body": "Suno v5 delivers verse, chorus, bridge, and a resolved ending, which is the difference between a track you can drop into a project and a loop that fades out. That structural competence keeps it at the top."
+            },
+            {
+              "title": "ElevenLabs owns the vocal",
+              "body": "Its phrasing lands closer to a real take, so any brief where a lyric has to carry emotion should start here. For singer-led work the vocal engine matters more than the arrangement, and this is where it is strongest."
+            },
+            {
+              "title": "Lyria is built for underscore",
+              "body": "Google tuned it for instrumental beds, and it excels at video and podcast underlay that sits below dialogue without competing. For that specific job it outperforms models with higher overall scores."
+            },
+            {
+              "title": "Read your licensing tier before you monetise",
+              "body": "Commercial terms vary sharply across this list, and several platforms restrict use in monetised video on lower tiers. Confirm the plan you are actually on covers your distribution channel before you build a workflow around it."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Suno v5 續居第一，因為它給得出決定一首生成曲能不能用的關鍵：完整的歌曲結構。主歌、副歌、橋段，最後還會收得乾淨。其他家很多到現在還是丟給你一段淡出的 loop。\n\nElevenLabs Music 拿 9.2，人聲引擎更強，任何需要靠歌詞把情緒撐起來的案子我會選它，咬字跟斷句聽起來比較接近真人唱的那一 take。\n\nLyria 3 Pro 8.6 的位置很合理，Google 是照著配樂床的用途去做的，這件事它做得非常好，影片跟 podcast 的底墊不會跟旁白打架。\n\nStable Audio 2.5 適合想要控制過程而不是碰運氣的人，它的編輯掛勾讓你可以只修一段，不用整首重生。Udio 第五是靠曲風廣度。\n\n商用授權這塊我希望大家買之前看清楚，這份榜單各家的條款差很多，有幾個平台在低階方案是限制你用在有營利的影片上的。請確認你實際訂的那一階寫了什麼。\n\n給每週都要產內容的人一個實際建議：Suno 做完整歌曲，Lyria 做器樂底墊，這兩個搭起來幾乎可以吃下所有需求，不用同時養四個訂閱。",
+          "highlights": [
+            {
+              "title": "有結構，這首歌才真的能用",
+              "body": "Suno v5 給你主歌、副歌、橋段還有收得乾淨的結尾，這就是「可以直接放進專案」跟「一段淡出的 loop」之間的差別。結構這件事做得好，第一名就穩。"
+            },
+            {
+              "title": "人聲這塊 ElevenLabs 拿下",
+              "body": "它的咬字斷句比較接近真人錄的那一 take，任何需要歌詞扛情緒的案子從這裡開始就對了。以歌手為主體的作品，人聲引擎比編曲重要，而這正是它最強的地方。"
+            },
+            {
+              "title": "Lyria 是為配樂床而生的",
+              "body": "Google 針對器樂底墊調校過，影片跟 podcast 需要墊在旁白底下又不能搶戲的那種音樂，它做得比總分更高的模型還好。專門用途就該用專門工具。"
+            },
+            {
+              "title": "要靠內容賺錢前先看授權階級",
+              "body": "這份榜單各家的商用條款差異很大，有幾個平台在低階方案會限制營利影片的使用。在把工作流建立起來之前，先確認你訂的那一階涵蓋你的散布通路。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

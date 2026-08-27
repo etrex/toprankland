@@ -13535,6 +13535,211 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-27",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 9.0,
+            "artisticQuality": 8.3,
+            "textRendering": 9.6,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.1,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "nano-banana-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "New AI Model Releases, August 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        },
+        {
+          "title": "AI Release Tracker, Complete LLM Timeline 2022-2026",
+          "url": "https://aireleasetracker.com/",
+          "source": "AI Release Tracker"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "GPT Image 2 keeps first place on the strength of the one thing that actually blocks commercial work: it renders text correctly. Ask for a poster with a headline and a subhead and you get readable type at the right weight, and every hour that saves in Photoshop is an hour you bill for something else. Midjourney v8 stays second and it is still the model I reach for when the brief is aesthetic rather than literal. Nothing else produces that quality of light and composition without a long prompt. Nano Banana Pro and Flux 2 Pro tie at 9.2 and I keep them there deliberately, because they win in opposite directions. Nano Banana Pro edits an existing image with a precision that makes it the better production tool, while Flux 2 Pro generates from scratch with more raw fidelity. Seedream 4.5 at 8.7 is the value story worth taking seriously, since its output at typical social media sizes is close enough to the leaders that the price difference decides it. Ideogram remains the specialist pick for logo and typography exploration. Adobe Firefly 4 sits at 8.2 and its rank reflects a trade many teams still choose: fully licensed training data matters more than a point of image quality when legal has to sign off.",
+          "highlights": [
+            {
+              "title": "Correct text rendering is the commercial unlock",
+              "body": "GPT Image 2 produces readable headlines and subheads at the right weight, which removes an entire Photoshop step from poster and ad work. That saved hour per asset is the most concrete advantage in this ranking."
+            },
+            {
+              "title": "Midjourney still owns the aesthetic brief",
+              "body": "When the request is a mood rather than a specification, v8 delivers light and composition that the competition needs a long prompt to approach. For editorial and concept work that instinct is worth the second slot."
+            },
+            {
+              "title": "Editing and generating are different jobs",
+              "body": "Nano Banana Pro modifies an existing image with precision that makes it the stronger production tool, while Flux 2 Pro creates from nothing with more raw fidelity. They tie because most teams need both, and which one leads depends on your pipeline."
+            },
+            {
+              "title": "Firefly's licensing is the feature",
+              "body": "Adobe trains on fully licensed data, and for teams whose legal department signs off on every asset that certainty outweighs a point of image quality. Its rank reflects a trade that is entirely rational for enterprise work."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "GPT Image 2 續居第一，靠的是真正卡住商業案的那一項：它把文字算對。你要一張有主標跟副標的海報，出來的字是可讀的、字重也對，省下來的每一小時 Photoshop 時間，都能拿去做別的計費工作。\n\nMidjourney v8 第二，當案子的需求是美感而非精確描述時，我還是先開它。光線跟構圖那個質感，其他家沒下很長的 prompt 追不上。\n\nNano Banana Pro 跟 Flux 2 Pro 並列 9.2，我是刻意讓它們同分的，因為兩邊贏的方向完全相反。Nano Banana Pro 改圖的精準度讓它更像生產工具，Flux 2 Pro 則是從零生成時的原始細節更強。\n\nSeedream 4.5 拿 8.7，這個 CP 值故事值得認真看。在社群常用的尺寸下，它的成品跟前段班已經接近到讓價差成為決定因素。Ideogram 繼續是做 logo 跟字體探索的專門選擇。\n\nAdobe Firefly 4 掛 8.2，這個名次反映的是很多團隊仍然會做的取捨：當法務要簽字的時候，訓練資料全數授權這件事，比一分畫質重要得多。",
+          "highlights": [
+            {
+              "title": "把文字算對，才真的能接商業案",
+              "body": "GPT Image 2 生出來的主標副標是可讀的、字重也對，海報跟廣告稿因此少掉一整道 Photoshop 工序。每張圖省下的那一小時，是這份榜單裡最具體的優勢。"
+            },
+            {
+              "title": "講美感的案子還是 Midjourney",
+              "body": "當需求是一種氛圍而非一份規格，v8 給的光線跟構圖，其他家要寫很長的 prompt 才追得到。做編輯視覺跟概念稿，這份直覺撐得起第二名。"
+            },
+            {
+              "title": "改圖跟生圖是兩種工作",
+              "body": "Nano Banana Pro 修既有圖片的精準度讓它更適合放進生產線，Flux 2 Pro 從零生成的原始細節則更強。並列是因為多數團隊兩種都要，誰排前面看你的流程長什麼樣。"
+            },
+            {
+              "title": "Firefly 的授權本身就是功能",
+              "body": "Adobe 用全數授權的資料訓練，對每張素材都要法務簽核的團隊來說，這份確定性勝過一分畫質。它的名次反映的是一個對企業案來說完全理性的取捨。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

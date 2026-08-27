@@ -14379,6 +14379,197 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-27",
+      "rankings": [
+        {
+          "id": "claude",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.7,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "chatgpt",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.5,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (August 2026) - Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "New AI Model Releases - August 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude and ChatGPT sit tied at the top and I am comfortable leaving them there, because they win on different axes and the tie is honest. Claude produces the writing I would actually publish without a rewrite pass, and it holds a long document in its head across a multi-hour session better than anything else here. ChatGPT wins on breadth: image generation, voice, and a tool ecosystem that reaches further into everyday software. Gemini at 9.4 is closer than that gap suggests, and August made the point clearly. Google shipped Gemini 3.7 Flash on the thirteenth, and the interesting part is the price. Fast, cheap models are now good enough that most people's daily questions never need a frontier model at all. That reshapes the value column more than any benchmark did this month. Grok holds fourth on live search integration, which remains genuinely useful for anything happening right now. Perplexity stays fifth and I keep recommending it for research where you need to check the source, because its citation discipline is the best in this list. The Chinese open-weight models deserve attention: Z.ai shipped GLM-5.3 on the fourteenth and GLM-5.2 Turbo on the seventeenth, and DeepSeek at 8.2 already offers frontier-adjacent reasoning at a price that makes API budgets irrelevant. My advice remains to pick based on what you do most, then keep a cheap second option for volume work.",
+          "highlights": [
+            {
+              "title": "The tie at the top is real, so choose by task",
+              "body": "Claude wins on long-document coherence and publishable prose, ChatGPT wins on breadth of tools and modalities. Both earn 9.5 because they lead in different columns, and the right pick depends on whether your week is writing or everything else."
+            },
+            {
+              "title": "Cheap fast models changed the value equation this month",
+              "body": "Gemini 3.7 Flash arrived on August 13 with pricing that makes frontier models unnecessary for routine questions. Most daily use never touches the ceiling of what these systems can do, and that reality now favours the cheaper tier."
+            },
+            {
+              "title": "Perplexity is the right tool for checkable research",
+              "body": "Its citation discipline is the strongest here, and every claim links to a source you can open. For work where being wrong has a cost, that traceability beats a slightly smarter answer you cannot verify."
+            },
+            {
+              "title": "Open-weight Chinese models are closing fast",
+              "body": "Z.ai shipped GLM-5.3 on August 14 and GLM-5.2 Turbo on August 17, while DeepSeek already delivers strong reasoning at a price that removes API budgets from the conversation. For high-volume automated work these are now serious options."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude 跟 ChatGPT 並列第一，我覺得這個平手很誠實，因為兩邊贏的地方根本不同。Claude 寫出來的東西我敢直接發，不用再重寫一輪，而且長文件跨好幾小時的對話它記得住，這點目前沒有對手。ChatGPT 贏在廣度，生圖、語音、還有一整套伸進日常軟體的工具鏈。\n\nGemini 拿 9.4，其實比這個分差看起來更接近，八月這件事講得很清楚。Google 在 13 號推了 Gemini 3.7 Flash，重點在價格。便宜又快的模型已經好到讓一般人日常問的問題根本用不到旗艦模型，這對 value 這一欄的衝擊比這個月任何跑分都大。\n\nGrok 守第四靠即時搜尋，查「現在正在發生的事」它還是很好用。Perplexity 第五，我一直推薦它做那種需要回頭查來源的研究，引用紀律是這份榜單裡最好的。\n\n中國的開源權重模型值得盯著看，Z.ai 14 號出 GLM-5.3、17 號出 GLM-5.2 Turbo，DeepSeek 拿 8.2 也已經是接近前沿的推理能力，價格低到讓 API 預算這件事不存在。\n\n我的建議沒變：照你最常做的事挑一個主力，再留一個便宜的當量產用。",
+          "highlights": [
+            {
+              "title": "第一名的平手是真的，照用途挑就對了",
+              "body": "Claude 贏在長文件的連貫性跟可以直接發表的文字品質，ChatGPT 贏在工具跟模態的廣度。兩邊都拿 9.5 是因為各自在不同欄位領先，要看你一週的時間主要花在寫東西還是別的。"
+            },
+            {
+              "title": "便宜快模型改寫了這個月的 CP 值算式",
+              "body": "Gemini 3.7 Flash 在 8 月 13 日推出，價格低到讓日常問題根本沒必要動用旗艦模型。大多數人的實際使用從來沒逼近過這些系統的天花板，這個現實現在對便宜那一層有利。"
+            },
+            {
+              "title": "要能查證的研究就用 Perplexity",
+              "body": "它的引用紀律是這裡最扎實的，每個說法都連得到可以點開的來源。做那種答錯要付代價的工作，可追溯性比一個你無法驗證的聰明答案有價值得多。"
+            },
+            {
+              "title": "中國開源權重模型追得很快",
+              "body": "Z.ai 8 月 14 日推 GLM-5.3、17 日推 GLM-5.2 Turbo，DeepSeek 的推理能力也已經很有份量，而價格低到 API 預算不再是考量。要跑大量自動化工作，這些現在是真的可以列入評估。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

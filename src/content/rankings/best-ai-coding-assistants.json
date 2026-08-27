@@ -20865,6 +20865,218 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-27",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (August 2026) - Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code holds first and the reason has narrowed to one thing: it finishes multi-file tasks without needing to be re-steered halfway through. Give it a migration across forty files and come back to a working tree that builds. Every competitor here still asks me to intervene somewhere in the middle of a job that size. Codex at 9.1 has closed most of the quality gap on single-file work and its review pass catches things I miss, so anyone already inside the OpenAI ecosystem loses very little by staying there. Cursor ties it on a different strength, which is that the editing experience remains the most fluid for people who want to stay in an IDE and drive. Google's Antigravity at 8.4 is the one I would watch, because the browser-integrated agent loop is a genuinely different shape and it handles front-end work in a way terminal-first tools cannot match. Jules is quietly good at the boring stuff, batch dependency bumps and lint sweeps, and that is worth real money on a large repo. My practical advice this month concerns cost. Agentic coding burns tokens fast, and the cheap fast models that shipped in August are now good enough to handle scaffolding and test generation. Route the easy work to a cheaper model and reserve the frontier model for design and debugging, because that single change cuts most teams' bills roughly in half.",
+          "highlights": [
+            {
+              "title": "Finishing without re-steering is the whole game",
+              "body": "Claude Code completes a forty-file migration and leaves a tree that builds. That reliability across long agentic runs is the metric that separates first place from the rest, and it is why the ranking has stayed stable."
+            },
+            {
+              "title": "Codex is the right answer inside the OpenAI stack",
+              "body": "It has closed most of the single-file quality gap and its review pass reliably catches issues a human skims past. Teams already committed to OpenAI tooling give up very little by staying, which earns it a clear second."
+            },
+            {
+              "title": "Antigravity's browser loop solves front-end work differently",
+              "body": "Google built an agent that sees the rendered page, which lets it iterate on layout and interaction in a way terminal-first tools cannot. For UI-heavy projects this shape is worth trying even at its current score."
+            },
+            {
+              "title": "Route cheap work to cheap models",
+              "body": "Agentic coding burns tokens fast, and August's fast models handle scaffolding and test generation well. Sending routine work to a cheaper tier and reserving the frontier model for design and debugging cuts a typical team's bill roughly in half."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 守第一，理由現在收斂到一件事：跨多檔案的任務它能自己做完，中途不用你回頭校正方向。丟一個要動四十個檔案的重構給它，回來時 working tree 是編得過的。這個規模的工作，其他工具到現在還是會在某個環節需要我介入。\n\nCodex 拿 9.1，單檔品質的差距已經追得差不多，而且它的 review 那一輪抓到過我漏看的東西。你如果本來就在 OpenAI 的生態系裡，留著幾乎沒有損失。Cursor 同分但贏在另一件事，對想待在 IDE 裡自己開車的人來說，它的編輯體驗還是最順的。\n\nGoogle Antigravity 8.4 是我會持續盯的一個。它把瀏覽器整進 agent 迴圈裡，形狀跟其他工具真的不一樣，處理前端的方式是純終端機工具做不到的。Jules 則是很會做無聊的事，批次升相依套件、掃 lint，這在大 repo 上是真的省錢。\n\n這個月我最想給的實用建議是成本。Agentic coding 燒 token 很兇，而八月出的那批便宜快模型，做 scaffolding 跟生測試已經夠好了。把簡單的工作丟給便宜模型，旗艦模型留給設計跟除錯，光這一招大多數團隊的帳單就能砍掉快一半。",
+          "highlights": [
+            {
+              "title": "能自己做完、不用回頭校正，才是關鍵",
+              "body": "Claude Code 能跑完四十個檔案的重構，而且留下一個編得過的 working tree。長時間 agentic 執行的可靠度，就是第一名跟其他人之間的那條線，這也是名次一直沒動的原因。"
+            },
+            {
+              "title": "在 OpenAI 生態系裡，Codex 就是正解",
+              "body": "單檔品質的差距已經補得差不多，review 那一輪也很穩地抓到人眼會滑過去的問題。已經押在 OpenAI 工具鏈上的團隊繼續留著幾乎沒損失，這個第二名它站得住。"
+            },
+            {
+              "title": "Antigravity 用不同的方式解前端問題",
+              "body": "Google 做了一個看得到渲染結果的 agent，所以它可以針對版面跟互動一輪一輪修，這是純終端機工具做不到的。UI 比重高的專案，即使它現在分數還沒到頂，也值得試。"
+            },
+            {
+              "title": "簡單的活丟給便宜模型",
+              "body": "Agentic coding 燒 token 很快，而八月那批快模型處理 scaffolding 跟生測試已經夠用。把例行工作分流到便宜那一層，旗艦模型專心做設計跟除錯，一般團隊的帳單大概能砍一半。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
