@@ -15495,6 +15495,216 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-28",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.4,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "fish-audio-openaudio-s1",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.1,
+            "emotionalRange": 8.8,
+            "languageSupport": 8.0,
+            "latency": 8.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 9.8,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 8,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 8.3,
+            "emotionalRange": 7.7,
+            "languageSupport": 8.6,
+            "latency": 7.8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "ElevenLabs News, August 2026",
+          "url": "https://blog.mean.ceo/elevenlabs-news-august-2026/",
+          "source": "Mean CEO"
+        },
+        {
+          "title": "Inside ElevenLabs: What Modern Text-to-Speech Looks Like in 2026",
+          "url": "https://apix-drive.com/en/blog/useful/elevenlabs",
+          "source": "ApiX-Drive"
+        },
+        {
+          "title": "ElevenLabs Review 2026: The Most Realistic AI Voice Generator?",
+          "url": "https://ucstrategies.com/news/elevenlabs-review-2026-the-most-realistic-ai-voice-generator/",
+          "source": "UC Strategies"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs and Inworld TTS-1.5 Max are still tied at the top on my scoring, and they stay there for different reasons. ElevenLabs wins on breadth: the Eleven v3 line covers 70 plus languages, and since the May update the emotional performance of the source read carries across the dub instead of flattening into a neutral delivery. That single behavior is what makes it usable for localized video work, where a flattened Spanish or Japanese track means a re-record.\n\nInworld holds its rank on latency and cost discipline. When I am wiring a voice into a live agent, the number that decides the project is time to first audio chunk, and Inworld and Cartesia Sonic 3 are the two I reach for when the loop has to feel conversational.\n\nThe platform story around ElevenLabs is worth naming because it changes what you are buying. It now spans text to speech, dubbing, transcription, voice agents and music under one API surface, it raised 500 million dollars at an 11 billion dollar valuation this year, and roughly 41 percent of Fortune 500 companies use it. For a team picking a vendor to build on for the next two years, that stability is part of the product.\n\nMy advice is unchanged. Pick ElevenLabs for polished narration and multilingual dubbing, pick Cartesia or Inworld for real-time agents, and pick OpenAudio S1 when you want strong realism on a hobby budget.",
+          "highlights": [
+            {
+              "title": "ElevenLabs carries emotion across languages",
+              "body": "Since the May model update the source performance survives the dub, which is what makes localized video work shippable without a re-record."
+            },
+            {
+              "title": "Latency decides the real-time picks",
+              "body": "Cartesia Sonic 3 and Inworld TTS-1.5 Max lead on time to first audio, the number that determines whether a live voice agent feels conversational."
+            },
+            {
+              "title": "Buying a platform, not a model",
+              "body": "ElevenLabs now covers TTS, dubbing, transcription, agents and music on one API, and roughly 41 percent of Fortune 500 companies are already on it."
+            },
+            {
+              "title": "OpenAudio S1 is the value pick",
+              "body": "It scores 9.1 on voice realism while holding the highest value rating in the list, which is why it stays my recommendation for hobby budgets."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ElevenLabs 跟 Inworld TTS-1.5 Max 在我的評分上還是並列第一，但兩台上榜的理由完全不同。ElevenLabs 贏在廣度，Eleven v3 這條線支援七十幾種語言，而且五月那次更新之後，原聲的情緒能跟著配音一起過去，不會翻成西班牙文或日文就整個變平。這件事聽起來很小，但做多語言影片的人都知道，語氣一平掉就是整條重錄。\n\nInworld 守住位置靠的是延遲跟成本。我在接即時語音 agent 的時候，真正決定專案能不能做的數字是「第一段聲音多久出來」，這塊我會先試 Inworld 跟 Cartesia Sonic 3。\n\n另外 ElevenLabs 的平台化這件事值得講，因為它改變了你到底買到什麼。現在 TTS、配音、轉錄、語音 agent、音樂全部收在同一套 API 底下，今年募到五億美金、估值一百一十億美金，財星五百大裡面大概四成都在用。如果你是要挑一家撐兩年的供應商，這種穩定度本身就是產品的一部分。\n\n結論還是老樣子。要做精緻旁白跟多語配音就選 ElevenLabs，要做即時對話就 Cartesia 或 Inworld，預算是玩票性質、又想要擬真度的話，OpenAudio S1 拿去用就對了。",
+          "highlights": [
+            {
+              "title": "ElevenLabs 情緒跨語言不掉",
+              "body": "五月更新後原聲語氣能跟著配音過去，多語言影片可以直接出片，省掉整條重錄的工。"
+            },
+            {
+              "title": "即時應用看的是延遲",
+              "body": "Cartesia Sonic 3 跟 Inworld TTS-1.5 Max 的首段音訊最快，這個數字直接決定語音 agent 聊起來順不順。"
+            },
+            {
+              "title": "你買的是平台",
+              "body": "TTS、配音、轉錄、agent、音樂收在同一套 API，財星五百大約四成已經在用，供應商穩定度本身就有價值。"
+            },
+            {
+              "title": "小資首選 OpenAudio S1",
+              "body": "擬真度拿到 9.1，同時是全榜 CP 值最高的一個，預算有限就直接從這台開始試。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

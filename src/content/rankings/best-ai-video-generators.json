@@ -15019,6 +15019,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-28",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.1,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI for Video Generation in 2026 — Ranked by Blind Human Votes",
+          "url": "https://llm-stats.com/leaderboards/best-ai-for-video-generation",
+          "source": "LLM-Stats"
+        },
+        {
+          "title": "Best AI Video Generator 2026: Veo 3.1 vs Sora 2 vs Kling",
+          "url": "https://tech-insider.org/best-ai-video-generator-2026/",
+          "source": "Tech Insider"
+        },
+        {
+          "title": "How to Choose the Best AI Video Generator in 2026",
+          "url": "https://kling.ai/blog/best-ai-video-generator-2026-kling-ai",
+          "source": "Kling AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Kling 3.0 holds first and the blind-vote numbers back it up. On the human-preference text-to-video leaderboard it sits at 1934, ahead of HappyHorse 1.0 at 1816 and Seedance 2.0 Fast at 1747. What earns that in practice is the multi-shot storyboard mode with native audio carried across cuts, which is the difference between a pile of five-second clips and something you can actually assemble into a sequence.\n\nVeo 3.1 at 9.4 stays my pick for client work. Prompt adherence and native audio are where it leads, and 4K output in both landscape and portrait means one render serves a horizontal cut and a vertical cut, saving a reframing pass every single time.\n\nRunway Gen-4.5 at 9.2 earns the highest character consistency score here at 9.7, and that is the number that matters when one character has to look like the same person across twelve shots. Seedance 2.0 at 9.2 delivers motion close to Kling at a token price that makes iteration cheap, and iteration is most of the work.\n\nHappyHorse 1.0 at 8.8 has the strongest raw motion physics in the list at 9.6 and sits second on the leaderboard. It ranks fifth here on cost, since its 7.4 on value reflects a per-second price that punishes the twenty failed generations it takes to land one keeper.\n\nThe calendar item worth acting on: OpenAI has confirmed the Sora 2 API sunsets on 24 September 2026, following the consumer app closing in April. Anyone with that endpoint in a production pipeline has under a month to migrate. I would move narrative work to Veo 3.1 and anything motion-heavy to Kling 3.0.",
+          "highlights": [
+            {
+              "title": "Kling 3.0 leads the blind-vote leaderboard",
+              "body": "It scores 1934 on the human-preference text-to-video board, ahead of HappyHorse 1.0 at 1816. The multi-shot storyboard mode with audio carried across cuts is what makes that lead useful rather than academic."
+            },
+            {
+              "title": "Move off the Sora 2 API before 24 September",
+              "body": "OpenAI has confirmed the API sunset date after closing the consumer app in April. Production pipelines calling that endpoint have under a month, and Veo 3.1 is the closest drop-in for narrative work."
+            },
+            {
+              "title": "Character consistency is its own skill",
+              "body": "Runway Gen-4.5 posts 9.7 there, the highest in this list. When one character has to carry twelve shots, that single number decides whether the edit holds together."
+            },
+            {
+              "title": "Value scores set your iteration budget",
+              "body": "HappyHorse 1.0 has the best raw physics at 9.6 and lands fifth because value sits at 7.4. You pay for every failed generation, and getting one keeper often takes twenty."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Kling 3.0 守住第一，盲測票數也站得住腳。人類偏好的文字轉影片排行榜上它拿 1934 分，領先 HappyHorse 1.0 的 1816。真正拉開差距的是多鏡頭分鏡加上音訊跨剪接點延續，這決定了你手上是一堆五秒散片，還是能丟進時間軸的序列。\n\nVeo 3.1 9.4 分，接案我還是選它。提示詞遵循度跟原生音訊是它領先的地方，橫直式都出 4K，一次算圖同時餵橫版剪輯跟直版短影音。\n\n老實說，Runway Gen-4.5 9.2 分的角色一致性 9.7 是全榜最高，同一個角色要撐十二顆鏡頭還像同一個人，看的就是這個數字。HappyHorse 1.0 8.8 分的物理動態 9.6 全榜最強，排第五是因為 7.4 的性價比，你得跑二十次失敗才撈得到一支能用的。\n\n這個月最該排進行事曆的是：OpenAI 已確認 Sora 2 API 在 9 月 24 日停止服務。產線上還在呼叫那個端點的人剩不到一個月，敘事類轉 Veo 3.1，動態重的上 Kling 3.0。",
+          "highlights": [
+            {
+              "title": "Kling 3.0 在盲測排行榜領先",
+              "body": "人類偏好的文字轉影片排行榜上它 1934 分，領先 HappyHorse 1.0 的 1816。多鏡頭分鏡加上音訊跨剪接點延續，才讓這個領先在實務上有意義。"
+            },
+            {
+              "title": "9 月 24 日前把 Sora 2 API 換掉",
+              "body": "OpenAI 四月關掉消費者版之後，已經確認 API 停止服務的日期。產線上還在打那個端點的人剩不到一個月，敘事類工作最接近的替代品是 Veo 3.1。"
+            },
+            {
+              "title": "角色一致性是另一項獨立技術",
+              "body": "Runway Gen-4.5 這項拿 9.7，全榜最高。一個角色要撐十二顆鏡頭的時候，這個數字直接決定剪出來的東西能不能看。"
+            },
+            {
+              "title": "性價比分數決定你能重跑幾次",
+              "body": "HappyHorse 1.0 物理表現 9.6 全榜最好，排第五是因為性價比只有 7.4。每一次失敗的生成都要付錢，而撈到一支能用的通常要跑二十次。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

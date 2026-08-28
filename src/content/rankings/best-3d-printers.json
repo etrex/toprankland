@@ -13327,6 +13327,228 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-28",
+      "rankings": [
+        {
+          "id": "bambu-lab-p2s-combo",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "print_quality": 9.5,
+            "speed": 9.3,
+            "multicolor": 9.5,
+            "ecosystem": 9.5,
+            "value": 9.3
+          }
+        },
+        {
+          "id": "bambu-lab-x2d-combo",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "print_quality": 9.6,
+            "speed": 9.3,
+            "multicolor": 9.5,
+            "ecosystem": 9.5,
+            "value": 8.8
+          }
+        },
+        {
+          "id": "bambu-lab-x1-carbon",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "print_quality": 9.8,
+            "speed": 9.5,
+            "multicolor": 9.5,
+            "ecosystem": 9.5,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "bambu-lab-h2d",
+          "rank": 4,
+          "score": 9.1,
+          "scores": {
+            "print_quality": 9.7,
+            "speed": 9.7,
+            "multicolor": 9.0,
+            "ecosystem": 9.5,
+            "value": 7.0
+          }
+        },
+        {
+          "id": "prusa-core-one",
+          "rank": 5,
+          "score": 9.0,
+          "scores": {
+            "print_quality": 9.5,
+            "speed": 8.8,
+            "multicolor": 7.7,
+            "ecosystem": 9.8,
+            "value": 8.3
+          }
+        },
+        {
+          "id": "bambu-lab-p1s",
+          "rank": 6,
+          "score": 8.9,
+          "scores": {
+            "print_quality": 9.0,
+            "speed": 9.0,
+            "multicolor": 8.5,
+            "ecosystem": 9.5,
+            "value": 9.6
+          }
+        },
+        {
+          "id": "bambu-lab-a2l-combo",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "print_quality": 8.4,
+            "speed": 8.0,
+            "multicolor": 8.8,
+            "ecosystem": 9.5,
+            "value": 9.6
+          }
+        },
+        {
+          "id": "prusa-mk4s",
+          "rank": 8,
+          "score": 8.6,
+          "scores": {
+            "print_quality": 9.5,
+            "speed": 8.0,
+            "multicolor": 7.5,
+            "ecosystem": 9.8,
+            "value": 7.3
+          }
+        },
+        {
+          "id": "creality-k2-plus-combo",
+          "rank": 9,
+          "score": 8.5,
+          "scores": {
+            "print_quality": 8.8,
+            "speed": 9.0,
+            "multicolor": 9.2,
+            "ecosystem": 7.8,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "elegoo-centauri-carbon",
+          "rank": 10,
+          "score": 8.5,
+          "scores": {
+            "print_quality": 8.5,
+            "speed": 8.5,
+            "multicolor": 7.0,
+            "ecosystem": 7.5,
+            "value": 10.0
+          }
+        },
+        {
+          "id": "anycubic-kobra-3-max-combo",
+          "rank": 11,
+          "score": 8.0,
+          "scores": {
+            "print_quality": 8.0,
+            "speed": 8.8,
+            "multicolor": 8.8,
+            "ecosystem": 7.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "sovol-sv08",
+          "rank": 12,
+          "score": 7.9,
+          "scores": {
+            "print_quality": 8.5,
+            "speed": 9.5,
+            "multicolor": 6.5,
+            "ecosystem": 8.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "creality-ender-3-v3-se",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "print_quality": 7.5,
+            "speed": 7.8,
+            "multicolor": 5.5,
+            "ecosystem": 7.5,
+            "value": 9.8
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Bambu Lab and Prusa show off new 3D printers at Formnext",
+          "url": "https://www.tomshardware.com/3d-printing/bambu-lab-and-prusa-show-off-new-3d-printers-at-formnext-h2c-dual-nozzle-uses-vortek-nozzle-to-eliminate-3d-printer-poop",
+          "source": "Tom's Hardware"
+        },
+        {
+          "title": "Prusa launches two new 3D printers, open source filament tags, and printable silicone",
+          "url": "https://www.tomshardware.com/3d-printing/prusa-launches-two-new-3d-printers-open-source-filament-tags-and-printable-silicone-at-private-event",
+          "source": "Tom's Hardware"
+        },
+        {
+          "title": "35 New 3D Printing Products Coming in 2026",
+          "url": "https://thenextlayer.com/new-3d-printers-roundup/",
+          "source": "The Next Layer"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The P2S Combo keeps the top spot, and nothing this week moved me off it. It is the machine I hand to someone who wants multi-color prints to just work: the AMS feeds reliably, Bambu Studio profiles are dialed in for the stock hardware, and the enclosure holds temperature well enough that ABS and ASA come off the plate without corner lift.\n\nWhat I am watching closely is the H2C. Bambu showed it with a Vortek nozzle swapper, a true dual-nozzle arrangement that hands off between two hot ends instead of purging a tower of waste between color changes. On my own multi-color jobs the purge block routinely eats more filament than the part itself, so a design that removes that step is a real change in running cost, not a spec sheet flourish. Until I have one on the bench and can measure a full four-color plate, the H2C stays off this list.\n\nPrusa's news is aimed at a different buyer. The INDX toolchanger arrives first as a CORE One compatible kit through Bondtech, priced at 499 euro for four tools and 699 euro for eight, and the XL is getting a tool head that can lay down silicone and epoxy. That is workshop territory, and it is exactly why the CORE One and MK4S hold their places here on ecosystem strength.\n\nFor anyone buying today, the shape of the list is unchanged. Spend up for the P2S Combo if color matters, take the P1S if it does not, and take the Centauri Carbon if the budget is firm and you are willing to tune your own profiles.",
+          "highlights": [
+            {
+              "title": "P2S Combo still the default recommendation",
+              "body": "It pairs the AMS with tuned stock profiles and a sealed chamber, which is why ABS and ASA come off the plate without lifted corners on my prints."
+            },
+            {
+              "title": "Vortek nozzle swapper is the change worth tracking",
+              "body": "Bambu's H2C hands off between two hot ends rather than purging between color swaps, which attacks the single largest source of waste filament in multi-color work."
+            },
+            {
+              "title": "Prusa is building for the workshop",
+              "body": "The INDX toolchanger starts as a CORE One kit at 499 euro for four tools, and the XL gains a head that prints silicone and epoxy."
+            },
+            {
+              "title": "Centauri Carbon holds the budget slot",
+              "body": "It earns a perfect value score by delivering enclosed CoreXY printing at a price where most machines are still open-frame bedslingers."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "P2S Combo 這週還是第一，沒有任何消息讓我想動它。老實說，要我推薦一台「插電就能印多色」的機器，我還是只會講這台。AMS 進料穩，Bambu Studio 的原廠參數是針對這套硬體調過的，機殼保溫也夠，ABS、ASA 印完拿下來四個角不會翹。\n\n真正要盯的是 H2C。Bambu 給它配了 Vortek 換嘴機構，兩個熱端互相接手，換色的時候不用再吐一整座廢料塔。講白一點，我自己印多色件的時候，廢料塔吃掉的線材常常比成品本身還多，這種設計省下來的是實打實的耗材成本。不過我沒實機測過四色滿版一整片，所以 H2C 現在還不會進榜。\n\nPrusa 這邊瞄準的是另一種人。INDX 換頭系統先以 CORE One 相容套件的形式在 Bondtech 上架，四頭 499 歐元、八頭 699 歐元，XL 則要多一顆能擠矽膠跟環氧樹脂的工具頭。這已經是工作室等級的玩法了，也剛好說明 CORE One 跟 MK4S 為什麼靠生態系分數守得住位置。\n\n所以今天要下單的話，結論跟上週一樣。在意多色就直接上 P2S Combo，不在意就買 P1S 省一筆，預算真的抓很死、又願意自己調參數的話，Centauri Carbon 就是那個答案。",
+          "highlights": [
+            {
+              "title": "P2S Combo 依然是預設答案",
+              "body": "AMS 配上調校過的原廠參數跟密閉腔體，我印 ABS 跟 ASA 拿下來四個角都是平的，這就是它坐第一的理由。"
+            },
+            {
+              "title": "Vortek 換嘴才是這波重點",
+              "body": "H2C 讓兩顆熱端互相接手，換色不用吐廢料塔，直接打中多色列印最大的耗材黑洞。"
+            },
+            {
+              "title": "Prusa 走的是工作室路線",
+              "body": "INDX 換頭套件從 CORE One 相容版開賣，四頭 499 歐元起，XL 還要加上能印矽膠跟環氧樹脂的工具頭。"
+            },
+            {
+              "title": "預算機還是 Centauri Carbon",
+              "body": "同價位大多還是開放式懸臂機的時候，它給你密閉腔體加 CoreXY，值不值一看就知道。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -21077,6 +21077,228 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-28",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Coding Assistants 2026: Cursor vs Copilot vs Claude Code",
+          "url": "https://scrimba.com/articles/best-ai-coding-assistants-2026/",
+          "source": "Scrimba"
+        },
+        {
+          "title": "Best AI Coding Agents (August 2026): Scored Leaderboard",
+          "url": "https://www.morphllm.com/best-ai-coding-agents-2026",
+          "source": "Morph"
+        },
+        {
+          "title": "Best AI Coding Agents for 2026: Real-World Developer Reviews",
+          "url": "https://www.faros.ai/blog/best-ai-coding-agents-2026",
+          "source": "Faros AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code stays first at 9.5, and the 9.7 agentic score is the number that explains the position. Hand it a refactor that spans a dozen files across two packages and it reads the surrounding code, writes a plan, then executes the whole thing while keeping the build green. Sustained multi step work is a genuinely different capability from good autocomplete, and in 2026 it is the capability that decides how much a tool actually saves you.\n\nCursor at 9.1 owns the everyday loop. Its 9.6 IDE score comes from the editor being rebuilt around the model from the ground up, so tab completion, inline chat and agent runs all live on one surface with no context switching. SpaceX acquiring Cursor in June for roughly 60 billion dollars tells you how the market values that position. OpenAI Codex matches it at 9.1 on the strength of long autonomous runs in the cloud.\n\nGitHub Copilot sits at 7.9 and still holds roughly 42 percent of the market, which makes sense given it has the widest IDE support of anything here and a free tier with 2,000 completions a month. That free tier remains the cheapest way to find out whether AI assistance fits how you actually work.\n\nMy practical advice has been the same for months and this week's coverage reinforces it. Run two tools. Keep a fast in editor assistant for the ninety percent of your day that is small edits, tests and boilerplate, then reach for a deep agent when the task is an architecture change, a nasty debugging session or a multi file migration. That combination lands around forty dollars a month for most developers, and the gap between running one tool and running two is bigger than the gap between any two products on this board.",
+          "highlights": [
+            {
+              "title": "Agentic depth decides the top spot",
+              "body": "A 9.7 agentic score means Claude Code can hold a plan across a dozen files and finish it. That sustained execution is what separates the top of this board from very good autocomplete."
+            },
+            {
+              "title": "Cursor owns the everyday loop",
+              "body": "The 9.6 IDE score comes from an editor rebuilt around the model, so completion, chat and agent runs share one surface. SpaceX paying roughly 60 billion dollars in June confirms how valuable that position is."
+            },
+            {
+              "title": "Copilot's free tier is the cheapest entry",
+              "body": "Two thousand completions a month plus the widest IDE support in the category makes it the lowest risk way to test whether AI assistance fits your workflow before paying anything."
+            },
+            {
+              "title": "Two tools beat one",
+              "body": "A fast in editor assistant for daily edits plus a deep agent for migrations costs around forty dollars a month. That pairing delivers more than switching between any two individual products here."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 守住第一 9.5，關鍵是 9.7 的自主代理分數。你丟一個橫跨兩個套件、動到十幾個檔案的重構給它，它會先把周邊程式碼讀過、擬出計畫，然後一路做完，過程中 build 還維持綠燈。撐得住多步驟長工作，跟補全寫得漂亮是兩種能力，而 2026 年決定一個工具幫你省多少時間的就是前者。\n\nCursor 9.1 掌握日常那一圈。IDE 整合 9.6，因為編輯器從底層就繞著模型重建，補全、對話、代理全在同一個介面。六月 SpaceX 用大約六百億美元把它買下來，市場對這個位置的評價講得很清楚。\n\nGitHub Copilot 7.9，市佔仍有四成二，IDE 支援全場最廣，免費方案每月兩千次補全，老實說那還是最省錢的試水溫方式。\n\n我的建議幾個月沒變：同時用兩套。快速的編輯器內助手處理九成小修改，深度代理留給架構調整跟跨檔案搬遷。加起來一個月大概台幣一千二，而用一套跟用兩套的差距，比榜上任兩個產品之間的差距還大。",
+          "highlights": [
+            {
+              "title": "自主代理深度決定第一名",
+              "body": "9.7 的代理分數代表 Claude Code 能把一個計畫撐過十幾個檔案並且收尾。這種持續執行力，就是榜首跟「補全寫得很好」之間的分界。"
+            },
+            {
+              "title": "Cursor 掌握日常那一圈",
+              "body": "IDE 整合 9.6 來自編輯器從底層繞著模型重建，補全、對話、代理共用同一個介面。六月 SpaceX 約六百億美元的收購，替這個位置標了價。"
+            },
+            {
+              "title": "Copilot 免費額度是最省的入口",
+              "body": "每月兩千次補全加上全場最廣的 IDE 支援，讓它成為你在付錢之前，風險最低的測試方式。"
+            },
+            {
+              "title": "兩套工具的組合最划算",
+              "body": "編輯器內助手處理日常修改，深度代理處理跨檔案搬遷，加起來一個月大約台幣一千二。這個組合帶來的效益，超過在任兩個單一產品之間換來換去。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

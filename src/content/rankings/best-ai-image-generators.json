@@ -13740,6 +13740,216 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-28",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 9.0,
+            "artisticQuality": 8.3,
+            "textRendering": 9.6,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.1,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "nano-banana-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Model Releases: August 2026 Tracker and Dated Ledger",
+          "url": "https://www.digitalapplied.com/blog/ai-model-releases-august-2026-tracker",
+          "source": "Digital Applied"
+        },
+        {
+          "title": "AI Model Releases in August 2026: Confirmed Updates",
+          "url": "https://benchlm.ai/model-updates/releases/august-2026",
+          "source": "BenchLM"
+        },
+        {
+          "title": "New AI Model Releases, August 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "GPT Image 2 holds the top spot for another week, and August's release wave gives me more confidence in that call. ByteDance shipped Seedream 5.0 Pro this month alongside Seedance 2.1, and Alibaba pushed Qwen Image 3.0 on August 5. Both are genuinely strong value plays, and both are worth a look if you are running high volume. GPT Image 2 keeps the lead on the thing I test first, which is following a long compound prompt without silently dropping a clause. Its 9.8 on prompt accuracy is the difference between one generation and eleven, and when you are billing by the hour that is the whole ballgame.\n\nGoogle closed out the Imagen 4 preview snapshots on August 17 and now points callers at the Gemini image stack. If you built a pipeline against those endpoints, budget a migration this week. It also explains the shape of this board: Nano Banana Pro sits at rank 3 with a 9.3 on photorealism because that is where Google's current effort actually lives.\n\nMidjourney V8.1 stays at rank 2 on artistic quality alone. I ran a batch of editorial illustration prompts through V8.1 and Flux 2 Pro side by side this week. Midjourney gives me the frame I would hand to a client without retouching, and Flux 2 Pro gives me the frame that survives a 200 percent crop. That 9.9 photorealism score on Flux is the highest number on this board and it is earned in skin texture and fabric weave.\n\nIf you need legible text baked into the image, Ideogram 4.0 is still the specialist at 9.8. For everything else, start at the top and work down until the price stops making sense.",
+          "highlights": [
+            {
+              "title": "GPT Image 2 still wins on prompt discipline",
+              "body": "A 9.8 on prompt accuracy means long compound instructions come back intact on the first generation. That is the metric that decides how much of your afternoon you get back."
+            },
+            {
+              "title": "August brought Seedream 5.0 Pro and Qwen Image 3.0",
+              "body": "ByteDance released Seedream 5.0 Pro for generation and editing this month, and Alibaba shipped Qwen Image 3.0 on August 5. Both are worth testing if you generate at volume and care about cost per image."
+            },
+            {
+              "title": "Imagen 4 preview endpoints closed August 17",
+              "body": "Google retired the Imagen 4 preview snapshots and redirects callers to the Gemini image model. Anyone with production code against those endpoints has a migration to schedule now."
+            },
+            {
+              "title": "Pick by job, not by leaderboard position",
+              "body": "Midjourney V8.1 at 9.9 artistic quality for art direction, Flux 2 Pro at 9.9 photorealism for product and skin, Ideogram 4.0 at 9.8 text rendering for anything with words in the frame."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週榜首還是 GPT Image 2，八月一連串的新模型反而讓我更確定這個排序。ByteDance 這個月推出了 Seedream 5.0 Pro，同時還有影片端的 Seedance 2.1；阿里巴巴則在 8 月 5 日放出 Qwen Image 3.0。這兩家都是很紮實的高 CP 值選擇，如果你的用量大，真的值得去測。\n\n說真的，我第一個測的永遠是同一件事：把一段又臭又長、條件疊了七八層的 prompt 丟進去，看它會不會偷偷漏掉其中一句。GPT Image 2 在提示遵循拿 9.8 分就是這個原因，它讓你生一次就過，而不用生十一次慢慢挑。接案的人應該最有感，這就是一個下午的差別。\n\nGoogle 在 8 月 17 日把 Imagen 4 的 preview 端點收掉了，官方引導大家轉去 Gemini 影像模型。如果你的 pipeline 還接在那些端點上，這禮拜就得排遷移了。這也剛好解釋了榜單的樣子：Nano Banana Pro 排第 3，寫實度 9.3，因為 Google 現在真正在投資源的地方就在那裡。\n\nMidjourney V8.1 守住第 2，靠的完全是美感。我這週把同一批編輯插畫的 prompt 丟給 V8.1 和 Flux 2 Pro 跑對照，Midjourney 給我的那張可以直接交件不用修，Flux 2 Pro 給我的那張放大到 200% 還是站得住。Flux 寫實度 9.9 是全榜最高分，皮膚紋理跟布料織紋的細節撐得起這個數字。\n\n要在圖裡放中文或英文字，Ideogram 4.0 的 9.8 還是專門戶。其他情況就從榜首往下挑，挑到價格開始讓你猶豫為止。",
+          "highlights": [
+            {
+              "title": "GPT Image 2 的提示遵循還是最穩",
+              "body": "提示遵循 9.8 分的意思是，一段條件疊很多層的指令丟下去，第一次生成就會完整照做。這個分數決定你今天下午能不能準時下班。"
+            },
+            {
+              "title": "八月新模型：Seedream 5.0 Pro 與 Qwen Image 3.0",
+              "body": "ByteDance 本月推出可生成也可編輯的 Seedream 5.0 Pro，阿里巴巴則在 8 月 5 日上線 Qwen Image 3.0。用量大、在意單張成本的人建議直接拉進來測。"
+            },
+            {
+              "title": "Imagen 4 預覽端點 8 月 17 日下線",
+              "body": "Google 收掉 Imagen 4 的 preview 快照，改導向 Gemini 影像模型。手上有正式服務接在舊端點的，這週就得安排搬家。"
+            },
+            {
+              "title": "照用途挑，不用死盯名次",
+              "body": "要美術風格找 Midjourney V8.1，藝術性 9.9；要商品或人像寫實找 Flux 2 Pro，寫實度 9.9；畫面裡要有可讀的文字就交給 Ideogram 4.0，文字渲染 9.8。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

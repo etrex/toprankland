@@ -14570,6 +14570,210 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-28",
+      "rankings": [
+        {
+          "id": "claude",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.7,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "chatgpt",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.5,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "New AI Model Releases — August 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        },
+        {
+          "title": "AI Updates Today (August 2026) - Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Which AI Model Should You Actually Use in August 2026",
+          "url": "https://seedandsociety.com/blog/which-ai-model-to-use-august-2026",
+          "source": "Seed and Society"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "August has been the busiest month of the year for model releases, with twelve new models from seven providers landing in four weeks, and my top three are still the same three. That stability tells you something. The releases that shipped this month were mostly capability extensions rather than new frontiers: Z.AI's GLM-5.2 Turbo on the 17th, Qwen3.8-Max arriving as the largest open-weight model yet at 2.4 trillion parameters, and Meta returning to open weights with Muse Spark 1.2. Impressive engineering, and none of it changes which chatbot I open when I need a real answer.\n\nClaude holds first place for me because of how it behaves on long documents and multi-file code, where its 9.7 coding score reflects hundreds of hours of my own use rather than a leaderboard snapshot. ChatGPT is right alongside it and got the more interesting consumer update this month, opening unlimited free-tier text chats and adding a reasoning-depth slider on the Sol tier so you can dial effort up for a hard problem and down for a quick one. That slider is the single most useful interface idea I have seen in a chatbot this year, and I expect everyone to copy it.\n\nGemini keeps third on price-to-performance, and its 9.7 reasoning score is the highest in the table. If your work lives in Google Docs and Gmail, that ecosystem score of 9.7 is doing real work for you every day.\n\nOne genuinely new thing worth watching: OpenAI announced Jalapeño, its first custom inference chip, aimed at faster responses and better power efficiency. Custom silicon takes years to show up in your latency numbers, so I am filing it under 2027 news.",
+          "highlights": [
+            {
+              "title": "Twelve models, zero rank changes",
+              "body": "Seven providers shipped twelve models in August 2026, and the top three chatbots held their positions. Capability extensions arrived, frontiers did not move."
+            },
+            {
+              "title": "ChatGPT's reasoning slider is the best new idea",
+              "body": "The Sol tier now lets you dial reasoning depth per response. I use it constantly, cranking it up for architecture questions and down for quick lookups."
+            },
+            {
+              "title": "Claude stays first on long-form and code",
+              "body": "Its 9.7 coding score reflects sustained real work on multi-file repositories and long documents, which is where I keep reaching for it over anything else."
+            },
+            {
+              "title": "Gemini owns the value line",
+              "body": "A 9.7 reasoning score and a 9.5 value score in the same row is the best price-to-performance combination in the table, especially inside the Google ecosystem."
+            },
+            {
+              "title": "Custom silicon is a 2027 story",
+              "body": "OpenAI's Jalapeño inference chip targets throughput and power efficiency. Real latency gains from custom silicon arrive after deployment scales, so I am not scoring it yet."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "八月大概是今年模型發表最密集的一個月，四週內七家廠商推了十二個新模型，結果我心中的前三名一個都沒動。這件事本身就很有訊息量。\n\n這個月出來的東西，多半是把既有能力往外延伸。Z.AI 在 17 號推 GLM-5.2 Turbo，Qwen3.8-Max 用 2.4 兆參數成為目前最大的開放權重模型，Meta 也帶著 Muse Spark 1.2 回到開放權重陣營。工程實力確實很猛，但我真的要問問題的時候，開的還是那幾個。\n\nClaude 我還是放第一，理由很具體：長文件跟多檔案程式碼的表現。它 9.7 的程式分數是我自己用了幾百個小時累積下來的印象，不是排行榜截圖。\n\nChatGPT 緊追在後，而且這個月的消費端更新更有看頭，免費版文字對話變成無限量，Sol 方案還加了推理深度滑桿，難題就往上拉，查個小東西就往下降。老實講，這是我今年看到最實用的介面設計，我猜其他家很快就會跟進。\n\nGemini 守住第三，靠的是性價比，它 9.7 的推理分數是全表最高。如果你的工作本來就長在 Google Docs 跟 Gmail 裡面，那個 9.7 的生態整合分每天都在幫你省時間。\n\n真正值得記一筆的新消息是 OpenAI 公布了自研推理晶片 Jalapeño，主打回應速度跟能耗效率。自研晶片要真的反映在你感受得到的延遲上，通常要等部署規模拉起來，所以我先把它歸類成 2027 年的新聞。",
+          "highlights": [
+            {
+              "title": "十二個新模型，名次零變動",
+              "body": "八月七家廠商推了十二個模型，前三名原封不動。能力有往外長，天花板沒有被推開。"
+            },
+            {
+              "title": "ChatGPT 的推理滑桿最實用",
+              "body": "Sol 方案可以逐題調整推理深度，我幾乎天天在用，問架構問題就拉滿，查個小資料就調低。"
+            },
+            {
+              "title": "Claude 靠長文件跟程式碼守住第一",
+              "body": "9.7 的程式分數來自長期實際跑多檔案專案跟長文件的手感，這塊我目前還是優先開它。"
+            },
+            {
+              "title": "Gemini 是性價比那條線",
+              "body": "9.7 推理分搭 9.5 價值分，是全表最漂亮的組合，尤其你本來就住在 Google 生態裡面。"
+            },
+            {
+              "title": "自研晶片是明年的故事",
+              "body": "OpenAI 的 Jalapeño 推理晶片主打吞吐量跟能耗，這種東西要等部署鋪開才會反映在延遲上，現在還不到給分的時候。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
