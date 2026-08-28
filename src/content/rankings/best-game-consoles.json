@@ -1,0 +1,436 @@
+{
+  "slug": "best-game-consoles",
+  "category": "Electronics",
+  "scoreFactors": {
+    "priceAfterHikes": "Price After the Hikes",
+    "threeYearCost": "Three-Year Total Cost",
+    "exclusives": "Exclusive Lineup",
+    "performance": "Performance",
+    "subscriptionValue": "Subscription Value",
+    "library": "Library & Backward Compatibility",
+    "priceStability": "Price Stability Outlook"
+  },
+  "i18n": {
+    "en": {
+      "title": "Best Game Consoles 2026",
+      "description": "Daily-updated rankings of every current game console, scored on price after the 2026 memory-driven hikes, three-year total cost including subscriptions and games, exclusive lineup, performance, library depth and where each price is heading next."
+    },
+    "zh-tw": {
+      "title": "最佳遊戲主機 2026",
+      "description": "每日更新的遊戲主機排行榜，依 2026 記憶體漲價潮後的實際售價、含訂閱與遊戲的三年總持有成本、獨佔陣容、效能、遊戲庫深度與後續價格走向評分。"
+    }
+  },
+  "competitors": [
+    {
+      "id": "playstation-5-slim",
+      "name": "PlayStation 5 Slim (Disc)",
+      "brand": "Sony",
+      "url": "https://www.playstation.com/en-us/ps5/",
+      "i18n": {
+        "en": {
+          "description": "Sony rolled this back to $549.99 on August 21, undoing the entire April hike, which makes it the one console on this page that costs less today than it did last month.",
+          "priceRange": "$549.99"
+        },
+        "zh-tw": {
+          "description": "美國 8 月 21 日整個降回 549.99 美元，四月那次漲價全數收回，台灣目前仍是 5 月調漲後的 NT$19,989，還沒跟上這波調降。",
+          "priceRange": "NT$19,989"
+        }
+      }
+    },
+    {
+      "id": "nintendo-switch-2",
+      "name": "Nintendo Switch 2",
+      "brand": "Nintendo",
+      "url": "https://www.nintendo.com/us/gaming-systems/switch-2/",
+      "i18n": {
+        "en": {
+          "description": "Priced at $449.99 through August 31 and $499.99 from September 1, with the cheapest three-year subscription bill of any console here at $49.99 a year for Switch Online plus the Expansion Pack.",
+          "priceRange": "$449.99 through Aug 31 / $499.99 from Sept 1"
+        },
+        "zh-tw": {
+          "description": "台灣 8 月 31 日前 NT$14,380，9 月 1 日起調整為 NT$15,880，線上服務年費是這一票主機裡最便宜的，Switch Online 加擴充包一年約 NT$1,500 有找。",
+          "priceRange": "NT$14,380（8/31 前）／NT$15,880（9/1 起）"
+        }
+      }
+    },
+    {
+      "id": "xbox-series-x",
+      "name": "Xbox Series X (1TB, Disc)",
+      "brand": "Microsoft",
+      "url": "https://www.xbox.com/en-US/consoles/xbox-series-x",
+      "i18n": {
+        "en": {
+          "description": "The $799.99 sticker went into effect August 1 and Microsoft still loses about $150 on each one, and pairing it with Game Pass Ultimate at $22.99 a month gives it the lowest three-year cost for anyone who plays more than a couple of new releases a year.",
+          "priceRange": "$799.99"
+        },
+        "zh-tw": {
+          "description": "8 月 1 日起 799.99 美元，換算約 NT$24,900，微軟每賣一台仍虧約 150 美元，搭 Game Pass Ultimate 每月 22.99 美元，一年玩超過兩三片新作的人三年總花費反而最低。",
+          "priceRange": "約 NT$24,900"
+        }
+      }
+    },
+    {
+      "id": "playstation-5-digital",
+      "name": "PlayStation 5 Digital Edition",
+      "brand": "Sony",
+      "url": "https://direct.playstation.com/en-us/consoles",
+      "i18n": {
+        "en": {
+          "description": "Back to $499.99 as of August 21, which puts the same GPU and the same exclusive lineup as the disc model into the price bracket the Switch 2 moves into on September 1.",
+          "priceRange": "$499.99"
+        },
+        "zh-tw": {
+          "description": "美國 8 月 21 日回到 499.99 美元，跟光碟版同一顆 GPU、同一套獨佔陣容，台灣目前定價 NT$17,989。",
+          "priceRange": "NT$17,989"
+        }
+      }
+    },
+    {
+      "id": "xbox-series-x-digital",
+      "name": "Xbox Series X Digital (1TB)",
+      "brand": "Microsoft",
+      "url": "https://www.xbox.com/en-US/consoles",
+      "i18n": {
+        "en": {
+          "description": "Identical silicon to the $799.99 disc model for $749.99, so the $50 gap is the price of physical media and the ability to resell or lend a game.",
+          "priceRange": "$749.99"
+        },
+        "zh-tw": {
+          "description": "跟 799.99 美元光碟版同樣的晶片，749.99 美元，換算約 NT$23,300，那 50 美元的差價買的就是實體片跟二手轉賣、借朋友的權利。",
+          "priceRange": "約 NT$23,300"
+        }
+      }
+    },
+    {
+      "id": "valve-steam-machine",
+      "name": "Valve Steam Machine",
+      "brand": "Valve",
+      "url": "https://store.steampowered.com/steammachine",
+      "i18n": {
+        "en": {
+          "description": "Valve prices this at cost, so the $1,049 entry configuration is effectively a published receipt for what mid-2026 silicon costs, and it runs the entire Steam library at roughly six times Steam Deck performance.",
+          "priceRange": "$1,049 (512GB) / $1,349 (2TB)"
+        },
+        "zh-tw": {
+          "description": "Valve 說是成本價出貨，1,049 美元約 NT$32,500，等於把 2026 年中的真實零件成本攤開給大家看，效能大約是 Steam Deck 的六倍，整個 Steam 遊戲庫直接能玩。",
+          "priceRange": "約 NT$32,500 起"
+        }
+      }
+    },
+    {
+      "id": "playstation-5-pro",
+      "name": "PlayStation 5 Pro",
+      "brand": "Sony",
+      "url": "https://www.playstation.com/en-us/ps5/ps5-pro/",
+      "i18n": {
+        "en": {
+          "description": "Came back down to $749.99 on August 21 from $899.99, and it remains the fastest way to run PS5 exclusives at 4K with ray tracing held at 60fps.",
+          "priceRange": "$749.99"
+        },
+        "zh-tw": {
+          "description": "美國 8 月 21 日從 899.99 美元降回 749.99 美元，台灣現行 NT$27,478，想在 4K 開光追還維持 60fps 跑 PS5 獨佔，這台目前最快。",
+          "priceRange": "NT$27,478"
+        }
+      }
+    },
+    {
+      "id": "nintendo-switch-oled",
+      "name": "Nintendo Switch OLED",
+      "brand": "Nintendo",
+      "url": "https://www.nintendo.com/us/store/products/nintendo-switch-oled-model-white-set/",
+      "i18n": {
+        "en": {
+          "description": "Holding at $349.99 with a 155-million-unit software library behind it, and Nintendo keeps building it for North America and Japan after European supply ends in mid-February 2027.",
+          "priceRange": "$349.99"
+        },
+        "zh-tw": {
+          "description": "維持 349.99 美元，台灣約 NT$9,780，背後是賣破 1.55 億台累積下來的遊戲庫，歐洲 2027 年 2 月中停止供貨之後，北美與日本還會繼續生產。",
+          "priceRange": "約 NT$9,780"
+        }
+      }
+    },
+    {
+      "id": "xbox-series-s-1tb",
+      "name": "Xbox Series S (1TB)",
+      "brand": "Microsoft",
+      "url": "https://www.xbox.com/en-US/consoles/xbox-series-s",
+      "i18n": {
+        "en": {
+          "description": "Now $599.99 after the August 1 increase, up 71% from its $349.99 launch price, and it plays every Game Pass title at 1440p in the smallest box Microsoft makes.",
+          "priceRange": "$499.99 (512GB) / $599.99 (1TB)"
+        },
+        "zh-tw": {
+          "description": "8 月 1 日調漲後 1TB 版 599.99 美元，換算約 NT$18,600，比上市時的 349.99 美元漲了 71%，機身是微軟最小的一台，Game Pass 所有遊戲都能跑 1440p。",
+          "priceRange": "約 NT$15,500（512GB）／約 NT$18,600（1TB）"
+        }
+      }
+    },
+    {
+      "id": "steam-deck-oled",
+      "name": "Steam Deck OLED",
+      "brand": "Valve",
+      "url": "https://store.steampowered.com/steamdeck",
+      "i18n": {
+        "en": {
+          "description": "Went to $789 for the 512GB model and $949 for the 1TB in May, which leaves exactly $100 between a top-spec Deck and an entry Steam Machine running the same SteamOS and the same library.",
+          "priceRange": "$789 (512GB) / $949 (1TB)"
+        },
+        "zh-tw": {
+          "description": "5 月漲到 512GB 版 789 美元、1TB 版 949 美元，換算 1TB 約 NT$29,400，頂規掌機跟入門 Steam Machine 之間現在只差 100 美元，兩台跑的是同一套 SteamOS 跟同一個遊戲庫。",
+          "priceRange": "約 NT$24,500（512GB）／約 NT$29,400（1TB）"
+        }
+      }
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-08-28",
+      "rankings": [
+        {
+          "id": "playstation-5-slim",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "priceAfterHikes": 9.5,
+            "threeYearCost": 9.0,
+            "exclusives": 9.3,
+            "performance": 8.6,
+            "subscriptionValue": 8.8,
+            "library": 9.0,
+            "priceStability": 9.6
+          }
+        },
+        {
+          "id": "nintendo-switch-2",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "priceAfterHikes": 9.0,
+            "threeYearCost": 9.6,
+            "exclusives": 9.8,
+            "performance": 7.2,
+            "subscriptionValue": 9.2,
+            "library": 8.8,
+            "priceStability": 8.0
+          }
+        },
+        {
+          "id": "xbox-series-x",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "priceAfterHikes": 6.5,
+            "threeYearCost": 8.8,
+            "exclusives": 7.2,
+            "performance": 9.4,
+            "subscriptionValue": 9.7,
+            "library": 9.6,
+            "priceStability": 7.4
+          }
+        },
+        {
+          "id": "playstation-5-digital",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "priceAfterHikes": 9.2,
+            "threeYearCost": 8.8,
+            "exclusives": 9.3,
+            "performance": 8.6,
+            "subscriptionValue": 8.8,
+            "library": 7.4,
+            "priceStability": 9.4
+          }
+        },
+        {
+          "id": "xbox-series-x-digital",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "priceAfterHikes": 6.9,
+            "threeYearCost": 8.6,
+            "exclusives": 7.2,
+            "performance": 9.4,
+            "subscriptionValue": 9.7,
+            "library": 7.6,
+            "priceStability": 7.4
+          }
+        },
+        {
+          "id": "valve-steam-machine",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "priceAfterHikes": 7.0,
+            "threeYearCost": 8.4,
+            "exclusives": 6.0,
+            "performance": 9.0,
+            "subscriptionValue": 7.0,
+            "library": 9.8,
+            "priceStability": 8.6
+          }
+        },
+        {
+          "id": "playstation-5-pro",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "priceAfterHikes": 6.8,
+            "threeYearCost": 7.2,
+            "exclusives": 9.3,
+            "performance": 9.6,
+            "subscriptionValue": 8.8,
+            "library": 9.0,
+            "priceStability": 9.2
+          }
+        },
+        {
+          "id": "nintendo-switch-oled",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "priceAfterHikes": 8.8,
+            "threeYearCost": 9.2,
+            "exclusives": 8.0,
+            "performance": 5.0,
+            "subscriptionValue": 8.6,
+            "library": 8.4,
+            "priceStability": 6.0
+          }
+        },
+        {
+          "id": "xbox-series-s-1tb",
+          "rank": 9,
+          "score": 6.7,
+          "scores": {
+            "priceAfterHikes": 5.2,
+            "threeYearCost": 8.0,
+            "exclusives": 7.2,
+            "performance": 6.6,
+            "subscriptionValue": 9.7,
+            "library": 7.4,
+            "priceStability": 6.8
+          }
+        },
+        {
+          "id": "steam-deck-oled",
+          "rank": 10,
+          "score": 6.4,
+          "scores": {
+            "priceAfterHikes": 5.0,
+            "threeYearCost": 6.8,
+            "exclusives": 6.0,
+            "performance": 6.4,
+            "subscriptionValue": 7.0,
+            "library": 9.8,
+            "priceStability": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Price Revision for Nintendo Switch 2 System",
+          "url": "https://www.nintendo.com/us/whatsnew/price-revision-for-nintendo-switch-2-system/",
+          "source": "Nintendo"
+        },
+        {
+          "title": "Xbox Price Hike for X and S Series, Discontinuing 2TB Model",
+          "url": "https://variety.com/2026/gaming/news/xbox-price-hike-x-s-consoles-discontinue-2-tb-model-1236790767/",
+          "source": "Variety"
+        },
+        {
+          "title": "Sony hikes PS5 prices by up to $150 citing pressures in global economy",
+          "url": "https://www.cnbc.com/2026/03/27/sony-playstation-5-ps5-price-rise.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Sony Slashes PS5 Prices by $125 Despite Recent Price Hike",
+          "url": "https://www.techbuzz.ai/articles/sony-slashes-ps5-prices-by-125-despite-recent-price-hike",
+          "source": "TechBuzz"
+        },
+        {
+          "title": "Xbox Series X Price Increase: Microsoft Still Loses $150 Per Console",
+          "url": "https://www.techtimes.com/articles/322098/20260729/xbox-series-x-price-increase-microsoft-still-loses-150-per-console-even-after-saturdays-800-tag.htm",
+          "source": "Tech Times"
+        },
+        {
+          "title": "Valve Raises Steam Deck Prices by Nearly 50%, 1TB OLED Model Now $949",
+          "url": "https://www.ghacks.net/2026/05/28/valve-raises-steam-deck-prices-by-nearly-50-1tb-oled-model-now-949/",
+          "source": "gHacks"
+        },
+        {
+          "title": "Nintendo Switch Online + Expansion Pack pricing and library",
+          "url": "https://www.nintendo.com/us/online/nintendo-switch-online/expansion-pack/",
+          "source": "Nintendo"
+        },
+        {
+          "title": "任天堂宣布台灣 Switch 2 調漲 1,500 元，九月起新價格 15,880 元",
+          "url": "https://www.techbang.com/posts/130644-nintendo-switch-2-taiwan-price-increase",
+          "source": "T客邦"
+        },
+        {
+          "title": "有關 Nintendo Switch 2 的建議售價變更",
+          "url": "https://www.nintendo.tw/support/releasenotes/2026-06-29",
+          "source": "任天堂台灣"
+        },
+        {
+          "title": "台灣 PS5、PS5 Pro 再次宣佈漲價 新價格 5 月開跑",
+          "url": "https://www.4gamers.com.tw/news/detail/78012/taiwan-ps5-ps5-pro-repeat-announcement",
+          "source": "4Gamers"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Sony dropped the PS5 back to $549.99 on August 21. Nintendo takes the Switch 2 to $499.99 on September 1. Eleven days apart, moving in opposite directions, and that single pair of facts decides this ranking.\n\nThe PS5 Slim takes first place because it is the one console here that costs less today than it did in July. Sony reversed the entire April hike: the disc model went from $649.99 back to $549.99, the Digital Edition from $599.99 to $499.99, and the Pro from $899.99 to $749.99. US PS5 unit sales fell 58% year over year in May, the worst May in 26 years, and Sony read that number correctly. A price cut delivered in the middle of a memory shortage tells you what Sony expects demand to look like through the holidays, and it hands buyers the best hardware value on this page.\n\nThe Switch 2 at $449.99 is the sharpest deal on this page for four more days. On September 1 it becomes $499.99 in the US and NT$15,880 in Taiwan, up from NT$14,380. My advice is to buy now and treat $499.99 as the floor for the rest of this console's life. Micron's new capacity arrives in Q3 2028, and Counterpoint expects DRAM supply to stay tight through the end of 2027.\n\nThen there is the Xbox arithmetic, which genuinely surprised me. A $799.99 Series X plus 36 months of Game Pass Ultimate at $22.99 comes to $1,627.63. A $549.99 PS5 plus PS Plus Extra at $16.99 comes to $1,161.63 before a single game. Seven full-price games at $69.99 closes that $466 gap. Buy three new releases a year and the most expensive console on this page is your cheapest three-year path.",
+          "highlights": [
+            {
+              "title": "Buy the Switch 2 this week, because $499.99 is the floor for the rest of its life",
+              "body": "Nintendo confirmed the US MSRP moves from $449.99 to $499.99 on September 1, and Taiwan moves from NT$14,380 to NT$15,880 the same day. President Shuntaro Furukawa attributed it to permanent increases in memory component costs, exchange rates and oil prices, and the demo kiosks in retail have been advertising the change since mid-August. I say buy now, and the reason is supply timing. Micron's new fab capacity comes online in Q3 2028, and Counterpoint expects DRAM to stay tight through the end of 2027. Anyone holding out for a cheaper Switch 2 is waiting on a market that gets tighter first. Treat this week's $449.99 as the last time this console is available at its launch price."
+            },
+            {
+              "title": "Sony's August 21 rollback makes the PS5 the only console that got cheaper in 2026",
+              "body": "Every other manufacturer on this page moved in one direction this year. Sony went the other way, and it did it on the exact anniversary of its first-ever PS5 price increase. All three SKUs returned to their pre-April numbers: $549.99 disc, $499.99 Digital, $749.99 Pro. The trigger was demand destruction. May US PS5 unit sales were down 58% year over year and revenue was down 43%, the worst May in 26 years. This reads as a durable buy signal because Sony absorbed the cut while memory contract prices were still climbing 80% to 95% quarter over quarter. That is a company choosing installed base over margin going into the holidays, and buyers get the benefit right now."
+            },
+            {
+              "title": "At three new games a year, the $799.99 Xbox Series X is the cheapest three-year plan here",
+              "body": "Run the numbers before you judge the sticker. Series X at $799.99 plus Game Pass Ultimate at $22.99 for 36 months totals $1,627.63, and that figure includes the games. PS5 at $549.99 plus PS Plus Extra at $16.99 for 36 months totals $1,161.63, and that figure includes zero purchased games. The gap is $466, which is 6.7 full-price games at $69.99. So the break-even sits at roughly 2.2 new releases a year. Below that, the PS5 wins on total cost and I would take it. Above it, the console with the highest sticker price on this page delivers the lowest three-year bill, and it is worth saying plainly because no other ranking I have read puts that number in front of readers."
+            },
+            {
+              "title": "The 512GB Series S at $499.99 is the Xbox I would actually recommend at this price level",
+              "body": "Microsoft's August 1 increase pushed the 1TB Series S to $599.99, up 71% from its $349.99 launch price, which puts it $200 below a full Series X while sitting a performance tier down. The 512GB model at $499.99 is where this machine still makes complete sense: it plays every Game Pass title at 1440p, it is the smallest console Microsoft builds, and Game Pass Ultimate means the smaller SSD matters less because you cycle titles in and out. For a second TV, a dorm room or a kid's setup, this is the right Xbox, and if you want the bigger drive, that extra $200 goes further toward a Series X."
+            },
+            {
+              "title": "The Steam Machine at $1,049 is the most honest price tag in this entire market",
+              "body": "Valve sells hardware at cost and says so, which makes the $1,049 entry configuration a published receipt for what mid-2026 silicon actually costs. Set that against Microsoft losing roughly $150 on every $799.99 Series X and you can see the real shape of console economics right now: the subsidised boxes have been repriced toward their true cost, and the gap between a loss-leader console and an at-cost PC has closed to about $250. The Steam Machine also runs roughly six times the graphics performance of a Steam Deck and opens the entire Steam library with its sale pricing, which changes the software cost side of the equation as much as the hardware side."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "先講結論，這四天是台灣玩家用原價買 Switch 2 的最後機會。9 月 1 日起台灣建議售價從 NT$14,380 調整為 NT$15,880，一次多 1,500 元，差不多就是一片大作的錢。\n\n老實說，2026 年的主機價格走向整個反過來了。Sony 在 8 月 21 日把美國 PS5 全線降回去，光碟版從 649.99 美元回到 549.99 美元，數位版回到 499.99 美元，Pro 從 899.99 回到 749.99。原因很直接，5 月美國 PS5 銷量年減 58%，是 26 年來最慘的五月，Sony 看懂了這個數字，而且是在記憶體合約價還在季增 80% 到 95% 的時候做這個決定，等於選了裝機量放掉毛利。\n\n台灣這邊還沒跟進。SIE 台灣 5 月 1 日才調漲，光碟版 NT$19,989、數位版 NT$17,989、Pro NT$27,478，到今天都還是這個價。所以我的建議是，本來就想買 PS5 的人先觀望，看 SIE 台灣會不會在耶誕檔期前跟上美國的調降，這個等待成本很低。\n\nXbox 這邊我實際算了一下，結果跟直覺相反。Series X 光碟版 799.99 美元，加上 36 個月 Game Pass Ultimate 每月 22.99 美元，三年是 1,627.63 美元，而且遊戲全含在裡面。PS5 549.99 加 PS Plus 進階版每月 16.99 美元，三年 1,161.63 美元，這個數字裡面一片遊戲都還沒買。差距 466 美元，換算 69.99 美元一片，等於七片。三年買超過七片新遊戲的人，標價最貴的那台才是總花費最低的那一條路。\n\n最後補一個台灣專屬的算法，公司貨跟水貨的價差。漲價前後水貨的價差會被放大，日版機的帳號區域跟中文化支援是實際會踩到的坑，保固更是只有公司貨進得了台灣任天堂的維修體系。這 1,500 元的漲幅，跟一次送修的來回運費加上等待時間比起來，其實划算得多。",
+          "highlights": [
+            {
+              "title": "Switch 2 這週就要下手，NT$15,880 會是接下來的地板價",
+              "body": "任天堂已經公告美國建議售價 9 月 1 日從 449.99 美元調整為 499.99 美元，台灣同日從 NT$14,380 調整為 NT$15,880，社長古川俊太郎把原因講得很白，記憶體零件成本、匯率跟油價的上升是長期性的。八月中開始各大通路的試玩機台就已經在跑漲價告知了。我建議這週就下手，理由是供給時程。美光的新產能要到 2028 年第三季才開出，Counterpoint 推估 DRAM 供給緊到 2027 年底都不會實質緩解。想等 Switch 2 變便宜的人，等到的會是更緊的市場。這個禮拜的 NT$14,380 就是這台主機最後一次用上市價買到。"
+            },
+            {
+              "title": "Sony 8 月 21 日的調降，讓 PS5 成為 2026 年唯一變便宜的主機",
+              "body": "這一頁上其他廠商今年全部往上走，Sony 往下走，而且挑在自己第一次 PS5 漲價的整整一年後動手。三個型號全部回到四月漲價前的數字，光碟版 549.99 美元、數位版 499.99 美元、Pro 749.99 美元。觸發點是需求崩掉，5 月美國 PS5 銷量年減 58%、金額年減 43%，26 年來最差的五月。說真的，這個動作值得注意的地方在於時機，Sony 是在記憶體合約價還在季增 80% 到 95% 的時候吃下這個成本，代表它把耶誕檔期的裝機量看得比毛利重要。台灣讀者要注意的是，這波調降目前只發生在美國，台灣還停在 5 月的 NT$19,989，想買的人可以再等一下看看。"
+            },
+            {
+              "title": "一年買三片新遊戲，799.99 美元的 Series X 就是三年最省的那條路",
+              "body": "這題要算過才有答案，光看標價會判斷錯。Series X 799.99 美元加 Game Pass Ultimate 每月 22.99 美元乘 36 個月，總共 1,627.63 美元，遊戲全含。PS5 549.99 美元加 PS Plus 進階版每月 16.99 美元乘 36 個月，總共 1,161.63 美元，這裡面一片遊戲都沒買。差 466 美元，用 69.99 美元一片去除，等於 6.7 片，換算下來損益兩平點大約在一年 2.2 片新作。低於這個量，PS5 的總成本比較低，我也會直接推 PS5。高於這個量，標價最高的那台反而是三年帳單最低的選擇。這個數字我沒在任何一份中文榜單上看過，但它才是這個決策真正的關鍵。"
+            },
+            {
+              "title": "512GB 版 Series S 賣 499.99 美元，這才是這個價位帶我會推的 Xbox",
+              "body": "微軟 8 月 1 日調漲之後，1TB 版 Series S 來到 599.99 美元，比上市時的 349.99 美元漲了 71%，跟完整版 Series X 只差 200 美元。512GB 版 499.99 美元，換算約 NT$15,500，這個配置的定位還是很清楚，Game Pass 上所有遊戲都能跑 1440p，機身是微軟做過最小的一台，而且訂閱制的玩法本來就是玩完換下一片，SSD 容量的影響會比想像中小。放在客廳第二台電視、租屋處或小孩房，這台就是正確答案。想要 1TB 的人，那 200 美元的差額直接往 Series X 加上去更划算。"
+            },
+            {
+              "title": "Steam Machine 賣 1,049 美元，是整個市場現在最誠實的一個價格",
+              "body": "Valve 直說硬體是成本價出貨，所以 1,049 美元這個入門配置等於把 2026 年中的真實零件成本公開給所有人看。把它跟微軟每賣一台 799.99 美元 Series X 就虧約 150 美元放在一起看，現在主機經濟學的樣貌就很清楚了，補貼型主機的售價已經被重新校正到接近真實成本，而虧本主機跟成本價 PC 之間的差距縮到大約 250 美元。Steam Machine 的效能大約是 Steam Deck 的六倍，而且直接開整個 Steam 遊戲庫，Steam 的特價幅度在軟體端省下來的錢，影響不會比硬體端小。台灣目前沒有官方代理，得走代購，換算約 NT$32,500 起。"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
