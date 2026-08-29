@@ -13950,6 +13950,208 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-29",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 9.0,
+            "artisticQuality": 8.3,
+            "textRendering": 9.6,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.1,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "nano-banana-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Model Releases: August 2026 Tracker and Dated Ledger",
+          "url": "https://www.digitalapplied.com/blog/ai-model-releases-august-2026-tracker",
+          "source": "Digital Applied"
+        },
+        {
+          "title": "AI Model Releases in August 2026: Confirmed Updates",
+          "url": "https://benchlm.ai/model-updates/releases/august-2026",
+          "source": "BenchLM"
+        },
+        {
+          "title": "New AI Model Releases, August 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "GPT Image 2 holds first at 9.4 and the reason is prompt adherence, which is the quality that separates a tool you can work with from one you negotiate with. When I specify that a person should be holding a specific object in their left hand against a particular background, it produces that. Iterating toward a result you already have in mind is the actual job of an image generator in commercial work, and this is where the top position is earned. Midjourney V8.1 at 9.3 remains the one I use when the goal is a beautiful image rather than a specific one. Its aesthetic default is still the strongest in the category and its output has a coherence of style that others achieve only with heavy prompting. Nano Banana Pro at 9.2 is exceptional at editing existing images, and its ability to preserve a subject while changing everything around it is the most useful practical capability added this year. Flux 2 Pro at 9.2 is the choice for anyone who wants to run models locally or needs commercial licensing clarity. Seedream 4.5 at 8.7 handles Chinese language text rendering better than any Western model, which matters for anyone producing material for Taiwanese audiences.",
+          "highlights": [
+            {
+              "title": "Prompt adherence is the professional requirement",
+              "body": "Commercial work means producing the image in your head, not a beautiful surprise. GPT Image 2 places specified objects, poses and backgrounds where you asked, and that reliability is what makes it usable on a deadline. It holds 9.4 for that reason."
+            },
+            {
+              "title": "Midjourney still wins when beauty is the brief",
+              "body": "Its aesthetic default produces images with a coherence of style that other models reach only through elaborate prompting. When the assignment is to make something striking rather than something specific, 9.3 understates how much time it saves."
+            },
+            {
+              "title": "Seedream matters for Chinese language output",
+              "body": "Text rendering in Traditional Chinese is where most Western models still produce broken characters. Seedream 4.5 handles it properly, and for anyone making posters, social graphics or advertising for a Taiwanese audience, that single capability decides the tool."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "GPT Image 2 以 9.4 分守第一，關鍵是指令服從度，這正是「可以拿來工作的工具」跟「要一直跟它談判的工具」之間的差別。\n\n我指定人物左手拿著某個特定物件、背景是某種樣子，它就給我那個結果。商業案子裡，生圖工具真正的工作是把你腦中已經想好的畫面迭代出來，第一名就是在這裡賺到的。\n\nMidjourney V8.1 9.3 分，是我在目標為「一張漂亮的圖」而非「一張精確的圖」時會用的。它的美學預設值還是這個級距最強的，輸出的風格一致性別家要靠大量提示詞才追得上。\n\nNano Banana Pro 9.2 分，改圖能力非常突出，保留主體、把周圍全部換掉的能力是今年新增最實用的一項。\n\nFlux 2 Pro 9.2 分，適合想在本機跑模型、或需要商業授權條款清楚的人。\n\nSeedream 4.5 8.7 分，中文文字渲染比任何西方模型都好，對要做給台灣受眾看的素材來說，這件事很關鍵。",
+          "highlights": [
+            {
+              "title": "指令服從度是專業使用的門檻",
+              "body": "商業案要的是你腦中那張圖，不是一個漂亮的意外。GPT Image 2 會把你指定的物件、姿勢、背景放到你要的位置，這份可靠度就是趕稿時能用的關鍵，9.4 分守得住。"
+            },
+            {
+              "title": "當任務是「要好看」，Midjourney 還是贏",
+              "body": "它的美學預設能產出風格一致的畫面，別的模型要靠很繁複的提示詞才做得到。當交付要求是做出一張搶眼的圖而不是一張精確的圖，9.3 分其實低估了它省下的時間。"
+            },
+            {
+              "title": "中文輸出的話，Seedream 很重要",
+              "body": "繁體中文的文字渲染，是多數西方模型還在產出亂碼字的地方。Seedream 4.5 處理得起來，對要做海報、社群圖、廣告給台灣受眾的人來說，光這一項就決定了要用哪個工具。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

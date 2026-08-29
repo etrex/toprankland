@@ -21299,6 +21299,220 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-29",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Coding Assistants 2026: Cursor vs Copilot vs Claude Code",
+          "url": "https://scrimba.com/articles/best-ai-coding-assistants-2026/",
+          "source": "Scrimba"
+        },
+        {
+          "title": "Best AI Coding Agents (August 2026): Scored Leaderboard",
+          "url": "https://www.morphllm.com/best-ai-coding-agents-2026",
+          "source": "Morph"
+        },
+        {
+          "title": "Best AI Coding Agents for 2026: Real-World Developer Reviews",
+          "url": "https://www.faros.ai/blog/best-ai-coding-agents-2026",
+          "source": "Faros AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code holds first at 9.5 and my reasoning has become clearer over months of daily use. The thing that separates it is that it operates on a whole repository rather than on the file in front of you. When I ask it to change how authentication works, it reads the files that matter, understands the existing patterns, makes the edits across all of them, and runs the tests. That is a different activity from autocomplete, and it is why the productivity difference is measured in tasks completed rather than in keystrokes saved. OpenAI Codex at 9.1 and Cursor at 9.1 approach the same problem from different directions. Cursor remains the best experience for developers who want an editor that feels familiar while gaining agentic capability, and its inline diff review flow is genuinely well designed. Codex has strong task delegation for work you want running while you do something else. Google Antigravity at 8.4 is worth watching for teams already in the Google ecosystem. My honest guidance for anyone choosing: the deciding question is whether you want an assistant inside your editor or an agent that works across your project. Those are different tools, and picking the wrong category matters more than picking the wrong brand.",
+          "highlights": [
+            {
+              "title": "Repository scope is what separates the leader",
+              "body": "Changing how authentication works means editing files you have not opened, following patterns you did not write, and verifying nothing broke. Claude Code does that as one task, and that scope is why the productivity gain shows up as tasks finished rather than characters typed."
+            },
+            {
+              "title": "Cursor is the right answer for editor-first developers",
+              "body": "If you want your existing workflow enhanced rather than replaced, Cursor at 9.1 delivers agentic capability inside an editor that already feels like home. The inline diff review is the best implementation of that pattern I have used."
+            },
+            {
+              "title": "Choose the category before the brand",
+              "body": "An in-editor assistant and a project-wide agent solve different problems. Deciding which one fits how you work determines whether the tool feels essential or intrusive, and that choice matters far more than small differences between competing products."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 以 9.5 分守第一，天天用了好幾個月之後，我的理由變得更清楚了。\n\n它跟別人的差別在於，它是對整個 repository 工作，而不是對你眼前那個檔案工作。我叫它改認證機制的實作方式，它會去讀該讀的檔案、理解既有的寫法、跨檔案改完、然後跑測試。\n\n這跟自動補完是完全不同的活動，也是為什麼生產力差距要用「完成幾個任務」來衡量，而不是「省下幾個按鍵」。\n\nOpenAI Codex 跟 Cursor 都是 9.1 分，從不同方向切入同一個問題。Cursor 對「想要熟悉的編輯器再加上代理能力」的開發者來說體驗最好，它的 inline diff 審查流程設計得真的不錯。Codex 在你想丟出去背景跑、自己去做別的事的任務委派上很強。\n\nGoogle Antigravity 8.4 分，已經在 Google 生態系裡的團隊值得盯著。\n\n給正在選的人一句真心話：真正的決策問題是你想要編輯器裡的助手，還是跨專案工作的代理。這是兩種工具，選錯類別比選錯品牌嚴重得多。",
+          "highlights": [
+            {
+              "title": "拉開差距的是 repository 層級的作業範圍",
+              "body": "改認證機制代表要動你沒開過的檔案、跟隨不是你寫的既有寫法、還要驗證沒改壞。Claude Code 把這件事當成一個任務處理，這個作業範圍就是為什麼效益反映在「完成幾件事」而不是「打了幾個字」。"
+            },
+            {
+              "title": "編輯器優先的開發者，答案是 Cursor",
+              "body": "如果你要的是既有工作流被強化而不是被取代，9.1 分的 Cursor 在一個你早就習慣的編輯器裡給你代理能力。它的 inline diff 審查是我用過這個模式最好的實作。"
+            },
+            {
+              "title": "先選類別，再選品牌",
+              "body": "編輯器內的助手跟跨專案的代理，解的是不同的問題。想清楚哪一種符合你的工作方式，決定了這個工具是必需品還是干擾，而這個選擇的重要性遠大於各家產品之間那些細微差異。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

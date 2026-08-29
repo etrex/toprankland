@@ -15720,6 +15720,160 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-29",
+      "rankings": [
+        {
+          "id": "protonvpn",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "mullvad",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "ProtonVPN No-Logs Audit 2026: What 4 Securitum Reports Found",
+          "url": "https://criticnest.com/protonvpn-keep-logs-browsing/",
+          "source": "CriticNest"
+        },
+        {
+          "title": "A List Of VPN Providers With Public Audits In 2026",
+          "url": "https://greycoder.com/a-list-of-vpn-providers-with-public-audits/",
+          "source": "GreyCoder"
+        },
+        {
+          "title": "NordVPN vs Proton VPN vs Mullvad (2026): Three Trust Models, No Universal Winner",
+          "url": "https://www.thevpnmatrix.com/blog/privacy-trinity",
+          "source": "The VPN Matrix"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ProtonVPN holds first at 9.3 and the reason is that its claims are backed by structure rather than marketing. Swiss jurisdiction, open source applications across every platform, independent audits published in full, and a free tier that carries no data cap. That last point deserves emphasis, because a free VPN that does not sell your traffic is genuinely rare and Proton funds it from paid subscriptions rather than from your data. Mullvad at 9.2 goes further on privacy design than anyone. You get an account number rather than an email address, you can pay in cash, and there is nothing linking the service to your identity. If threat modelling drives your decision, Mullvad is where I would go. NordVPN at 8.8 has the largest server network and the most consistent speeds for streaming, which is what most people actually want a VPN for. My honest position on this category: be clear about why you want a VPN. If it is for accessing content from another region, speed and server count matter most. If it is genuine privacy from surveillance, jurisdiction and audit history are what count, and those two goals point to different services.",
+          "highlights": [
+            {
+              "title": "Structure beats marketing claims",
+              "body": "Swiss jurisdiction, fully open source apps, published independent audits and a no-cap free tier funded by subscriptions rather than data sales. Proton backs its privacy position with things you can verify, and that is why it holds 9.3 in a category full of unverifiable promises."
+            },
+            {
+              "title": "Mullvad is the answer when threat modelling drives the choice",
+              "body": "An account number instead of an email address, cash payment accepted, and nothing linking the service to your identity. If your reason for wanting a VPN is serious rather than convenient, 9.2 understates how thoroughly this design holds up."
+            },
+            {
+              "title": "Name your actual reason before comparing services",
+              "body": "Streaming access rewards server count and raw speed. Privacy from surveillance rewards jurisdiction and audit history. These lead to different products, and choosing without deciding which you need leaves you paying for the wrong strengths."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ProtonVPN 以 9.3 分守第一，因為它的說法是用制度支撐的，不是用行銷話術。\n\n瑞士法域、全平台開源的應用程式、完整公開的獨立稽核報告，加上一個沒有流量上限的免費方案。最後這點值得強調，因為一個不賣你流量的免費 VPN 真的很罕見，而 Proton 是用付費訂閱在補貼它，不是拿你的資料去換錢。\n\nMullvad 9.2 分，在隱私設計上走得比任何人都遠。你拿到的是一組帳號編號而不是要填 email，可以用現金付款，整個服務跟你的身份之間沒有連結。如果你的決策是由威脅模型驅動的，我會去 Mullvad。\n\nNordVPN 8.8 分，伺服器網路最大、串流速度最穩，而這其實才是多數人想要 VPN 的原因。\n\n我對這個品類的真心話：先搞清楚你為什麼要 VPN。要看其他地區的內容，速度跟伺服器數量最重要；要的是對抗監控的真隱私，那就要看法域跟稽核紀錄。這兩個目標指向不同的服務。",
+          "highlights": [
+            {
+              "title": "制度勝過行銷宣稱",
+              "body": "瑞士法域、完全開源的應用程式、公開的獨立稽核、以及靠訂閱而非賣資料撐起來的無上限免費版。Proton 用可以驗證的東西支撐它的隱私立場，在一個滿是無法查證的承諾的品類裡，這就是 9.3 分的理由。"
+            },
+            {
+              "title": "由威脅模型驅動決策的話，答案是 Mullvad",
+              "body": "用帳號編號取代 email、接受現金付款、服務跟你的身份之間沒有任何連結。如果你想要 VPN 的理由是嚴肅的而不是圖方便，9.2 分其實低估了這套設計的徹底程度。"
+            },
+            {
+              "title": "比較服務之前，先講清楚你的真實理由",
+              "body": "看串流看重伺服器數量跟原始速度，對抗監控看重法域跟稽核紀錄。這兩者導向不同的產品，沒想清楚就選，結果是你為了用不到的長處在付錢。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

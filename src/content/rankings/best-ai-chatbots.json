@@ -14774,6 +14774,194 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-29",
+      "rankings": [
+        {
+          "id": "claude",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.7,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "chatgpt",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.5,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "New AI Model Releases — August 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        },
+        {
+          "title": "AI Updates Today (August 2026) - Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Which AI Model Should You Actually Use in August 2026",
+          "url": "https://seedandsociety.com/blog/which-ai-model-to-use-august-2026",
+          "source": "Seed and Society"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude and ChatGPT stay tied at 9.5, and I have stopped treating that tie as a temporary state waiting to be resolved. After a year of using both daily, my conclusion is that they have specialised into genuinely different strengths and the tie is the honest answer. Claude is what I reach for when the task involves long documents, careful reasoning through a complex argument, or writing that needs to hold a consistent voice across thousands of words. Its handling of nuance in extended context is what keeps me there. ChatGPT wins on breadth of integration and on the maturity of its ecosystem, and if you need image generation, voice conversation, data analysis and web browsing in one place, it is the most complete package available. Gemini at 9.4 has closed most of the capability gap and pulls ahead decisively for anyone inside Google Workspace, where reading your own documents and mail without copying and pasting is a real workflow advantage. Grok at 8.8 is strongest on real-time information from social feeds. Perplexity at 8.6 remains the right tool when you need sourced answers with citations you can check. My practical advice: pick based on where your documents already live.",
+          "highlights": [
+            {
+              "title": "The tie at the top is the honest answer",
+              "body": "Claude and ChatGPT have specialised rather than converged. Long document reasoning and sustained writing voice go one way, ecosystem breadth and integrated tools go the other. Declaring a winner would require pretending one set of strengths matters universally, and it does not."
+            },
+            {
+              "title": "Gemini wins the Workspace question outright",
+              "body": "Reading your own Drive documents and Gmail without copying anything into a chat window removes a friction step from every task. If your work already lives in Google tools, that integration at 9.4 beats a small capability advantage elsewhere."
+            },
+            {
+              "title": "Perplexity earns its place on verifiable sourcing",
+              "body": "When the answer needs to be checked rather than trusted, citations you can click matter more than fluency. At 8.6 it is the tool I use for research where being wrong has consequences, and that specialisation deserves respect."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude 跟 ChatGPT 繼續並列 9.5，而我已經不再把這個平手當成「暫時還沒分出勝負」的狀態。\n\n兩邊都天天用了一年之後，我的結論是它們已經各自長成不同的專長，平手就是最誠實的答案。\n\n長文件、需要一路推敲的複雜論證、或是要在好幾千字裡維持一致語氣的寫作，我會找 Claude。它在長脈絡裡處理細微差異的能力就是我留下來的原因。\n\nChatGPT 贏在整合的廣度跟生態系的成熟度。你如果需要生圖、語音對話、資料分析、網頁瀏覽全部在同一個地方，它是目前最完整的一包。\n\nGemini 9.4 分已經把能力差距補得差不多，而且對在用 Google Workspace 的人來說是壓倒性領先，不用複製貼上就能讀你自己的文件跟信件，這是實打實的工作流優勢。\n\nGrok 8.8 分在社群即時資訊上最強。Perplexity 8.6 分，需要有出處、而且你要去點開驗證的答案時，它就是對的工具。\n\n實務建議：照你的文件現在放在哪裡來選。",
+          "highlights": [
+            {
+              "title": "頂端平手就是最誠實的答案",
+              "body": "Claude 跟 ChatGPT 是各自分化，不是往中間收斂。長文件推理跟持續一致的寫作語氣走一邊，生態系廣度跟整合工具走另一邊。硬要選一個贏家，等於假裝其中一組長處對所有人都比較重要，事實不是這樣。"
+            },
+            {
+              "title": "Workspace 這一題，Gemini 完勝",
+              "body": "不用把東西複製進對話框就能讀你自己的雲端硬碟文件跟 Gmail，等於每個任務都少一道摩擦。工作本來就在 Google 工具裡的話，9.4 分的這個整合，勝過別家在能力上那一點小優勢。"
+            },
+            {
+              "title": "Perplexity 的位置來自可驗證的出處",
+              "body": "當答案是需要被查證而不是被相信的時候，能點開的引用比流暢度重要。8.6 分的它，是我在「答錯會有後果」的研究情境下會用的工具，這個專精值得尊重。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
