@@ -243,6 +243,22 @@
           "priceRange": "NT$6,990"
         }
       }
+    },
+    {
+      "id": "haworth-fern",
+      "name": "Fern",
+      "brand": "Haworth",
+      "url": "https://www.haworth.com/na/en/products/seating/task-chairs/fern.html",
+      "i18n": {
+        "en": {
+          "description": "Wave Suspension backrest built from flexible fronds on a central spine, covered by a 12-year warranty, with lateral flex that follows your torso when you twist.",
+          "priceRange": "$1,299 - $1,599"
+        },
+        "zh-tw": {
+          "description": "椅背用中央脊柱連接彈性葉片的 Wave Suspension 結構，轉身拿東西時椅背會跟著側向扭轉，保固 12 年。",
+          "priceRange": "約 NT$46,000"
+        }
+      }
     }
   ],
   "history": [
@@ -2322,8 +2338,21 @@
           }
         },
         {
-          "id": "branch-ergonomic-chair-pro",
+          "id": "haworth-fern",
           "rank": 6,
+          "score": 8.7,
+          "scores": {
+            "ergonomics": 8.7,
+            "comfort": 9.1,
+            "build": 9.2,
+            "warranty": 9.5,
+            "fit": 8.2,
+            "value": 7.6
+          }
+        },
+        {
+          "id": "branch-ergonomic-chair-pro",
+          "rank": 7,
           "score": 8.5,
           "scores": {
             "ergonomics": 8.5,
@@ -2336,7 +2365,7 @@
         },
         {
           "id": "herman-miller-cosm",
-          "rank": 7,
+          "rank": 8,
           "score": 8.4,
           "scores": {
             "ergonomics": 8.0,
@@ -2349,7 +2378,7 @@
         },
         {
           "id": "steelcase-karman",
-          "rank": 8,
+          "rank": 9,
           "score": 8.3,
           "scores": {
             "ergonomics": 8.2,
@@ -2362,7 +2391,7 @@
         },
         {
           "id": "humanscale-freedom",
-          "rank": 9,
+          "rank": 10,
           "score": 8.2,
           "scores": {
             "ergonomics": 8.0,
@@ -2375,7 +2404,7 @@
         },
         {
           "id": "herman-miller-sayl",
-          "rank": 10,
+          "rank": 11,
           "score": 8.0,
           "scores": {
             "ergonomics": 7.8,
@@ -2388,7 +2417,7 @@
         },
         {
           "id": "sihoo-doro-c300-pro",
-          "rank": 11,
+          "rank": 12,
           "score": 8.0,
           "scores": {
             "ergonomics": 8.2,
@@ -2401,7 +2430,7 @@
         },
         {
           "id": "ergohuman-elite",
-          "rank": 12,
+          "rank": 13,
           "score": 7.7,
           "scores": {
             "ergonomics": 8.3,
@@ -2414,7 +2443,7 @@
         },
         {
           "id": "autonomous-chair-ultra-2",
-          "rank": 13,
+          "rank": 14,
           "score": 7.5,
           "scores": {
             "ergonomics": 7.4,
@@ -2427,7 +2456,7 @@
         },
         {
           "id": "ikea-markus",
-          "rank": 14,
+          "rank": 15,
           "score": 7.0,
           "scores": {
             "ergonomics": 6.2,
