@@ -21513,6 +21513,223 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-30",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (August 2026) - Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "New AI Model Releases News | August 2026",
+          "url": "https://blog.mean.ceo/new-ai-model-releases-news-august-2026/",
+          "source": "Mean CEO"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Meta shipping Muse Code in beta on August 5 was the most interesting thing to happen in this category this month, and it tells you exactly where the fight has moved. Muse Code leads with multi-agent coordination, persistent subagents and full auditability. Three years ago the pitch was autocomplete quality. Now the pitch is whether you can hand a coding tool a whole task, walk away, and later reconstruct what it did and why. That is the correct thing to be competing on.\n\nClaude Code stays at 9.5 because it is furthest along on exactly that axis. It holds a coherent plan across a long session, it edits across many files without losing the thread, and when it finishes I can read back what it changed. That last part is what turns an agent from a demo into a tool I trust on a real repository.\n\nOpenAI Codex and Cursor stay tied at 9.1, and I want to be clear about why. Codex wins on raw model quality inside a task. Cursor wins on the editing experience around the task, which for a lot of developers is the thing they touch a hundred times a day. Both are excellent, and the tie reflects genuine parity.\n\nGemini 3.7 Flash landing on August 13 with coding and debugging gains feeds directly into Google Antigravity and Jules. I nudged Antigravity up a tenth on that basis. It sits at 8.5 now, still a tier below the leaders, and the trajectory is worth watching if you are already inside Google's stack.",
+          "highlights": [
+            {
+              "title": "Auditability is now the real battleground",
+              "body": "Meta's Muse Code beta on August 5 leads its pitch with persistent subagents and full auditability. That is the tell. The hard problem is no longer generating plausible code, it is letting a developer reconstruct what an agent did across a forty minute run. Claude Code holds 9.5 because it solves that today, on real repositories, not in a demo."
+            },
+            {
+              "title": "Codex and Cursor are genuinely tied, and that is the honest answer",
+              "body": "Codex wins on model quality inside the task. Cursor wins on the editor loop wrapped around it, which is the surface a working developer touches constantly. Both sit at 9.1 because each is clearly better at one half of the job. Pick Cursor if the editing experience is what slows you down, pick Codex if raw problem-solving is."
+            },
+            {
+              "title": "Google Antigravity gets a tenth from the August Gemini release",
+              "body": "Gemini 3.7 Flash shipped on August 13 with specific gains in coding and debugging, and Antigravity inherits that directly. I moved it to 8.5. It remains a tier below the leaders on agent reliability over long tasks, and it is now the most improved option for anyone already committed to Google's tooling."
+            },
+            {
+              "title": "Judge these tools on hour two, not minute two",
+              "body": "Every assistant here looks good on a fresh file. The separation shows up ninety minutes into a session, when the context is full, the plan has changed twice, and the tool has to remember why it made a decision it made forty minutes ago. That is the test I run, and it is the test that produced this order."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這個月這個類別最值得看的一件事，是 Meta 在 8/5 推出 Muse Code beta。它主打的是多代理協調、常駐子代理、還有完整的可稽核性。\n\n這個賣點本身就說明了戰場往哪裡移動。三年前大家比的是自動補完準不準，現在比的是「你敢不敢把一整個任務丟給它，然後走開，回來還能還原它做了什麼、為什麼這樣做」。這個方向是對的。\n\nClaude Code 維持 9.5，因為它在這條軸線上跑最前面。長時間工作它的計畫不會走鐘，跨十幾個檔案改動也接得住上下文，做完之後我可以整段回讀它改了什麼。最後這件事，才是把一個 agent 從展示品變成我敢放到正式 repo 上的工具。\n\nCodex 跟 Cursor 並列 9.1，我想講清楚原因。Codex 贏在任務內的模型硬實力，Cursor 贏在包在任務外面的編輯體驗，而編輯體驗是很多工程師一天要碰一百次的東西。兩邊各拿下一半，並列是誠實的結果。\n\n8/13 的 Gemini 3.7 Flash 對程式碼和除錯都有加強，這股力量會直接灌進 Google Antigravity 跟 Jules，所以我幫 Antigravity 加了零點一到 8.5。它離領先群還有一段，但如果你本來就在 Google 生態裡，這條線值得盯著。",
+          "highlights": [
+            {
+              "title": "可稽核性才是現在真正的戰場",
+              "body": "Meta 的 Muse Code 在 8/5 開 beta，第一句話講的就是常駐子代理跟完整稽核紀錄。這個訊號很清楚。難的已經不是生出看起來合理的程式碼，難的是讓工程師還原一個 agent 在四十分鐘裡到底做了哪些事。Claude Code 拿 9.5，是因為它現在就在真實 repo 上做到這件事。"
+            },
+            {
+              "title": "Codex 和 Cursor 真的打平，這是誠實的答案",
+              "body": "Codex 贏在任務內的模型能力，Cursor 贏在外圈的編輯循環，那是工程師整天都在摸的介面。兩個都是 9.1，因為各自明顯拿下工作的一半。如果拖慢你的是編輯流程，選 Cursor；如果卡住你的是解題本身，選 Codex。"
+            },
+            {
+              "title": "Google Antigravity 靠八月的 Gemini 更新加了零點一",
+              "body": "Gemini 3.7 Flash 在 8/13 上線，程式碼與除錯都有明確進步，Antigravity 直接吃到這波紅利，我把它調到 8.5。它在長任務的 agent 穩定度上還落後一個級距，不過對已經全套用 Google 工具的人來說，它是這個月進步最明顯的選項。"
+            },
+            {
+              "title": "要看第二個小時，不是第二分鐘",
+              "body": "在一個乾淨的新檔案上，這裡每一個工具看起來都很強。差距是在開工九十分鐘後才顯現的，那時候上下文塞滿了、計畫改過兩輪了，工具得記得自己四十分鐘前為什麼做了那個決定。我就是這樣測的，這張排名也是這樣排出來的。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

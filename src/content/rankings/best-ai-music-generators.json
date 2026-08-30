@@ -15653,6 +15653,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-30",
+      "rankings": [
+        {
+          "id": "suno-v5",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "audioQuality": 9.7,
+            "vocalRealism": 9.4,
+            "editingControl": 9.6,
+            "commercialLicense": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "elevenlabs-music",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "audioQuality": 9.3,
+            "vocalRealism": 9.7,
+            "editingControl": 8.7,
+            "commercialLicense": 9.8,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "lyria-3-pro",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 8.6,
+            "editingControl": 8.4,
+            "commercialLicense": 9.5,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 7.0,
+            "editingControl": 8.6,
+            "commercialLicense": 9.5,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "udio",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "audioQuality": 9.6,
+            "vocalRealism": 9.5,
+            "editingControl": 9.8,
+            "commercialLicense": 7.5,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "riffusion",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "audioQuality": 8.2,
+            "vocalRealism": 7.8,
+            "editingControl": 8.5,
+            "commercialLicense": 8.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "soundraw",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "audioQuality": 8.0,
+            "vocalRealism": 6.5,
+            "editingControl": 7.5,
+            "commercialLicense": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aiva",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 6.8,
+            "editingControl": 7.8,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "mubert",
+          "rank": 9,
+          "score": 7.3,
+          "scores": {
+            "audioQuality": 7.5,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "loudly",
+          "rank": 10,
+          "score": 7.0,
+          "scores": {
+            "audioQuality": 7.3,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "boomy",
+          "rank": 11,
+          "score": 6.8,
+          "scores": {
+            "audioQuality": 6.8,
+            "vocalRealism": 6.5,
+            "editingControl": 6.8,
+            "commercialLicense": 8.5,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Music Generators 2026: Suno, Udio & Alternatives",
+          "url": "https://www.tldl.io/resources/ai-music-generators-suno-udio-2026",
+          "source": "TLDL"
+        },
+        {
+          "title": "Best AI Music Generators 2026: Ranked, Tested & Compared",
+          "url": "https://felloai.com/best-ai-music-generators/",
+          "source": "Fello AI"
+        },
+        {
+          "title": "AI Music Generator Comparison 2026: Suno vs Udio + 3 More",
+          "url": "https://www.chartlex.com/blog/marketing/ai-music-generator-comparison-2026",
+          "source": "Chartlex"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Suno V5 keeps first at 9.4 and the gap to everything else in full-song generation is still wide enough that I have stopped hedging about it. Give Suno a genre, a mood and a lyric sheet and it returns something with an actual arc: an intro that sets up, a chorus that lands, a bridge that changes the energy. Structure over three minutes is the hard problem in this category, and Suno is the only tool I use that solves it consistently rather than occasionally.\n\nEleven Music at 9.2 is the one I recommend to people whose real need is a music bed under a video. Its output is cleaner, its loops are more usable, and its vocal quality inherits everything ElevenLabs learned in speech. For a sixty second product video, Eleven Music is more likely to give you something usable on the first generation, and first-generation usability is worth a lot when you are on a deadline.\n\nThe August context that matters here is MiniMax H3, described as the first fully open omni-modal model and capable of generating 2K video with native audio. Native audio generated alongside video is a direct challenge to the whole music-bed use case. It does not threaten Suno's songwriting position at all. It does suggest that within a year, the reason to open a dedicated music generator may narrow to actual songs rather than background beds. I am watching that, and for now the ranking stands as it is.",
+          "highlights": [
+            {
+              "title": "Suno V5 is still the only one that gets three-minute structure right",
+              "body": "Intro, chorus, bridge, a change in energy where you want one. Holding a coherent arc across a full song is the genuinely hard problem here and Suno solves it consistently. Everything else produces good sixty second stretches and then loses the plot. That is why 9.4 and first place are not close."
+            },
+            {
+              "title": "Eleven Music is the pick for video beds",
+              "body": "Cleaner output, more usable loops, and vocal quality carried over from ElevenLabs speech work. For a sixty second product video it hands you something usable on the first generation more often than anything else here. On a deadline, first-generation hit rate matters more than peak ceiling."
+            },
+            {
+              "title": "MiniMax H3 native audio is the shot across the bow",
+              "body": "August's MiniMax H3 generates 2K video with native audio in one pass. That aims squarely at the background-music use case rather than at songwriting. Suno's position on actual songs looks safe. The market for generic beds under video looks like it is about to get absorbed into video tools."
+            },
+            {
+              "title": "Judge these on the third generation, not the first",
+              "body": "Anything here can get lucky once. The real question is whether you can steer it, whether a specific note about the chorus produces a changed chorus and leaves the verse alone. Suno responds to direction better than the rest, and that steerability is most of what separates the top two from the field."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Suno V5 守住第一，9.4 分，它在完整歌曲生成上的領先幅度大到我已經不想再客氣了。\n\n給 Suno 一個曲風、一個情緒、一份歌詞，它回你的東西是有起承轉合的，前奏有鋪陳、副歌有記憶點、橋段的能量會變。三分鐘的結構掌控是這個類別真正難的地方，而 Suno 是我用過唯一穩定解決這件事的工具，不是偶爾發揮好。\n\nEleven Music 9.2 分，是我會推薦給「其實只是要一段影片配樂」的人。它的輸出更乾淨，loop 更好用，人聲品質直接繼承 ElevenLabs 在語音上累積的底子。一支六十秒的產品影片，Eleven Music 第一次生成就能用的機率比較高，趕稿的時候，第一次就能用的價值非常高。\n\n八月真正相關的消息是 MiniMax H3，號稱第一個完全開放的全模態模型，可以生成帶原生音訊的 2K 影片。影片跟音訊一起生，這件事直接打的就是「配樂」這個需求。它完全威脅不到 Suno 的寫歌地位，但這暗示一年之內，你打開專門音樂生成器的理由可能會縮到只剩下「真的要一首歌」。這條線我會盯著，目前排名不動。",
+          "highlights": [
+            {
+              "title": "三分鐘的結構，Suno V5 還是唯一做對的",
+              "body": "前奏、副歌、橋段，該轉能量的地方就轉。撐住一整首歌的敘事弧線是這裡真正難的題目，Suno 穩定解掉了。其他工具都能做出好聽的六十秒，然後就開始跑掉。9.4 分跟第一名，差距一點都不接近。"
+            },
+            {
+              "title": "要配樂就選 Eleven Music",
+              "body": "輸出更乾淨，loop 更好用，人聲品質是從 ElevenLabs 的語音技術延伸過來的。一支六十秒產品影片，它第一次生成就堪用的機率比這裡任何一個都高。趕死線的時候，首發命中率比天花板重要多了。"
+            },
+            {
+              "title": "MiniMax H3 的原生音訊是一記警告",
+              "body": "八月的 MiniMax H3 一次生成帶原生音訊的 2K 影片。這一槍瞄準的是背景配樂，不是寫歌。Suno 在「歌」這一塊還很安全，但影片底下那段通用配樂的市場，看起來快要被影片工具整碗端走了。"
+            },
+            {
+              "title": "看第三次生成，不要看第一次",
+              "body": "這裡每個工具都可能運氣好一次。真正的問題是你能不能操控它，你針對副歌下一個具體指令，副歌會改而主歌不動嗎。Suno 對指令的反應最好，而這個可操控性，就是前兩名跟其他人拉開距離的主因。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

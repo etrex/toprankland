@@ -14962,6 +14962,202 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-30",
+      "rankings": [
+        {
+          "id": "claude",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.7,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "chatgpt",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.5,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.8,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (August 2026) - Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "New AI Model Releases News | August 2026",
+          "url": "https://blog.mean.ceo/new-ai-model-releases-news-august-2026/",
+          "source": "Mean CEO"
+        },
+        {
+          "title": "AI Model Release Tracker",
+          "url": "https://www.evertune.ai/resources/ai-model-tracker",
+          "source": "Evertune"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "August closed with the most crowded release calendar this category has seen all year, and my top three hold because the churn happened underneath them rather than above them. Google shipped Gemini 3.7 Flash on August 13 with real gains in coding, debugging and document understanding, which is exactly the kind of update that moves a mid-tier tier-two model up. DeepSeek graduated V4-Pro out of preview on August 12 after roughly four months of testing. Both matter, and neither one changes who I hand a hard problem to at 11pm.\n\nI keep Claude and ChatGPT tied at 9.5 because they win on different axes and I use both daily. Claude holds its lead on long-document reasoning and on staying coherent across a conversation that runs for hours. ChatGPT holds its lead on breadth: it has the widest tool surface, the deepest ecosystem, and the most reliable behavior when you throw an unusual request at it cold. Gemini at 9.4 is closer than that gap suggests, and the August Flash release is why I nudged its reasoning score up a tenth.\n\nWhat I would tell a reader picking one this week: the gap between the top three is now smaller than the gap between how any of them behaves on your specific workload versus a benchmark. Try your actual hardest task on all three. The winner will be obvious within twenty minutes, and it will not necessarily match this ranking. That is a healthy state for the category to be in.",
+          "highlights": [
+            {
+              "title": "Claude and ChatGPT stay tied because they win on different ground",
+              "body": "Claude is the one I reach for when a task involves a hundred pages of context and a chain of reasoning that has to hold together end to end. ChatGPT is the one I reach for when I need breadth, tool access, and predictable behavior on a request I have never made before. Both earn 9.5. Picking between them is a question about your workload, and I would rather say that plainly than manufacture a winner."
+            },
+            {
+              "title": "Gemini 3.7 Flash earned a real score bump on August 13",
+              "body": "Google's August release focused on coding, debugging and PDF and document understanding, which happen to be three of the highest-frequency real tasks people bring to a chatbot. I moved Gemini's reasoning score up a tenth on the strength of it. At 9.4 overall it sits close enough to the leaders that a reader with a Google Workspace stack should start there."
+            },
+            {
+              "title": "DeepSeek graduating V4-Pro is a signal about pricing pressure",
+              "body": "V4-Pro came out of a four-month preview on August 12. The open-weight tier keeps closing on frontier quality for ordinary tasks, and that pressure shows up as better free tiers and cheaper API rates across the whole board. Readers benefit from this fight even when they never touch a DeepSeek model directly."
+            },
+            {
+              "title": "Run your own hardest task before you commit",
+              "body": "The top three are separated by a tenth of a point, which is smaller than the variance you will see between them on any single real workload. Take the task you actually struggle with, run it through all three in one sitting, and let the result decide. Twenty minutes of testing beats any ranking, including mine."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "八月是今年發表最密集的一個月，但我前三名維持不動，因為變動都發生在中段班，沒有動到頂端。\n\nGoogle 在 8/13 推出 Gemini 3.7 Flash，程式碼、除錯、PDF 文件理解都有實質進步，這種更新確實會把一個模型往上推。DeepSeek 也在 8/12 讓 V4-Pro 正式脫離預覽，前後測了大概四個月。這兩件事都值得記，但都還沒改變我半夜遇到難題時會打開哪個視窗。\n\nClaude 跟 ChatGPT 我還是給一樣的 9.5，因為它們強的地方不同，而我兩個每天都在用。Claude 的優勢在長文件推理，還有一段對話拉到好幾個小時之後邏輯還接得起來。ChatGPT 的優勢在廣度，工具生態最完整，你丟一個很奇怪的需求給它，它的表現最穩。\n\nGemini 9.4 看起來差一點，實際體感比這個分差更接近，八月這次 Flash 更新就是我幫它加零點一分的原因。\n\n說真的，現在前三名之間的差距，已經小於「同一個模型在你的工作內容上」跟「在跑分表上」的差距。我的建議很簡單，把你手上最難搞的那個任務，同一個下午丟給三個模型跑一次。二十分鐘內你就會知道誰適合你，而且結果不一定跟我這張表一樣。這對整個市場來說是好事。",
+          "highlights": [
+            {
+              "title": "Claude 和 ChatGPT 並列，是因為它們贏在不同的地方",
+              "body": "遇到要吃進上百頁資料、推理鏈要一路撐到底的任務，我開 Claude。遇到需要廣度、需要工具、或是一個我從來沒做過的奇怪需求，我開 ChatGPT。兩個都是 9.5 分。要選哪一個其實取決於你的工作內容，我寧願直接講清楚，也不想硬湊出一個冠軍。"
+            },
+            {
+              "title": "Gemini 3.7 Flash 在 8/13 拿到了實質加分",
+              "body": "Google 這次更新主打程式碼、除錯、文件理解，剛好就是一般人丟給聊天機器人最高頻的三件事。我因此把 Gemini 的推理分數往上調了零點一。9.4 分已經貼著領先群，如果你公司本來就吃 Google Workspace 那套，直接從 Gemini 開始用就對了。"
+            },
+            {
+              "title": "DeepSeek V4-Pro 轉正，代表價格戰還在打",
+              "body": "V4-Pro 在 8/12 結束四個月預覽正式上線。開源權重這一層在日常任務上的品質越追越近，而這股壓力會直接反映成整個市場的免費額度變大、API 單價變便宜。就算你從來沒碰過 DeepSeek，你也在享受這場仗的紅利。"
+            },
+            {
+              "title": "自己跑一次最難的任務再決定",
+              "body": "前三名只差零點一分，這個差距比它們在任何一個真實工作上的表現落差都還小。把你真正卡關的那個任務拿出來，三個模型一次跑完，答案自己會浮出來。花二十分鐘實測，比看任何排行榜都準，包括我這張。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

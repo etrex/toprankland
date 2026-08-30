@@ -15874,6 +15874,168 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-30",
+      "rankings": [
+        {
+          "id": "protonvpn",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "mullvad",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "ProtonVPN No-Logs Audit 2026: What 4 Securitum Reports Found",
+          "url": "https://criticnest.com/protonvpn-keep-logs-browsing/",
+          "source": "CriticNest"
+        },
+        {
+          "title": "A List Of VPN Providers With Public Audits In 2026",
+          "url": "https://greycoder.com/a-list-of-vpn-providers-with-public-audits/",
+          "source": "GreyCoder"
+        },
+        {
+          "title": "NordVPN vs Proton VPN vs Mullvad (2026): Three Trust Models, No Universal Winner",
+          "url": "https://www.thevpnmatrix.com/blog/privacy-trinity",
+          "source": "The VPN Matrix"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ProtonVPN holds first at 9.3 and the reasoning is structural rather than about speed. Proton operates under Swiss jurisdiction, publishes independently audited no-logs claims, open sources its client applications, and runs a free tier that does not compromise the privacy of the people using it. In a category where the entire product is a promise about what a company does not retain, verifiability is what separates a service from a marketing claim.\n\nMullvad at 9.2 goes further on privacy architecture and it deserves attention for it. It requires no email address to sign up, accepts cash sent by post, and identifies accounts by number rather than by identity. That is the most privacy-preserving design available, and if anonymity from the provider itself is your requirement, Mullvad is the correct answer regardless of the ranking order.\n\nNordVPN at 8.8 has the largest server network and the fastest speeds in most testing, which matters if streaming performance is your actual use case.\n\nOne thing worth stating plainly: a VPN protects traffic between you and the VPN server. It does not make you anonymous, it does not stop websites identifying you through browser fingerprinting or your logged-in accounts, and it does not substitute for good security practice. Choose one for the specific threat it addresses rather than for a general feeling of protection.",
+          "highlights": [
+            {
+              "title": "Verifiability is the entire product in this category",
+              "body": "The service is a promise about what a company does not retain. Independently audited no-logs claims, open source clients and Swiss jurisdiction turn that promise into something checkable. At 9.3 that is what separates ProtonVPN from services making identical claims without evidence."
+            },
+            {
+              "title": "Mullvad is correct if you need anonymity from the provider",
+              "body": "No email required to sign up, cash accepted by post, accounts identified by number rather than identity. At 9.2 it has the most privacy-preserving architecture available, and if that specific requirement is yours, it is the right choice regardless of what sits above it."
+            },
+            {
+              "title": "A VPN does not make you anonymous",
+              "body": "It protects traffic between you and the VPN server. It does not stop browser fingerprinting, it does not help if you are logged into accounts that identify you, and it does not substitute for good security practice. Choose one for a specific threat rather than a general feeling."
+            },
+            {
+              "title": "NordVPN wins on speed if streaming is your actual use",
+              "body": "At 8.8 it has the largest server network and the fastest speeds in most testing. If your real reason for wanting a VPN is streaming performance rather than privacy architecture, that practical advantage matters more to your daily experience than the audit story above it."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ProtonVPN 守住第一 9.3 分，理由是結構性的，跟速度無關。\n\nProton 在瑞士司法管轄權下營運、公開經獨立稽核的無紀錄政策、用戶端程式開源，而且它的免費方案不會拿使用者的隱私去交換。在一個「整個產品就是一家公司對自己不保留什麼的承諾」的類別裡，可驗證性就是「服務」跟「行銷話術」之間的分野。\n\nMullvad 9.2 分，在隱私架構上走得更遠，這一點值得注意。註冊不需要 email、接受用郵寄現金付款、帳號用編號而不是身分識別。那是目前最保護隱私的設計，如果你的需求是「對服務商本身也保持匿名」，那不管排名怎麼排，Mullvad 就是正確答案。\n\nNordVPN 8.8 分，伺服器網路最大，在多數測試中速度最快，如果串流表現才是你的真實使用情境，這件事很重要。\n\n有一句話要直說：VPN 保護的是你跟 VPN 伺服器之間的流量。它不會讓你匿名、不會阻止網站透過瀏覽器指紋或你已登入的帳號認出你、也不能取代良好的資安習慣。請針對它實際處理的那個威脅去選，不要為了一種籠統的安全感去選。",
+          "highlights": [
+            {
+              "title": "在這個類別，可驗證性就是整個產品",
+              "body": "這項服務本質上是一家公司對「自己不保留什麼」的承諾。經獨立稽核的無紀錄政策、開源用戶端、瑞士司法管轄，把那個承諾變成可以查證的東西。9.3 分，這就是 ProtonVPN 跟那些講一樣的話卻沒有證據的服務之間的差別。"
+            },
+            {
+              "title": "需要對服務商本身匿名，就選 Mullvad",
+              "body": "註冊不用 email、接受郵寄現金、帳號用編號而非身分識別。9.2 分，這是目前最保護隱私的架構，如果那正是你的需求，不管上面排著誰，它就是對的選擇。"
+            },
+            {
+              "title": "VPN 不會讓你匿名",
+              "body": "它保護的是你跟 VPN 伺服器之間的流量。它擋不住瀏覽器指紋、你登入著會暴露身分的帳號時它幫不上忙、它也不能取代良好的資安習慣。針對具體威脅去選，不要為了籠統的安全感去選。"
+            },
+            {
+              "title": "串流才是真實需求的話，NordVPN 贏在速度",
+              "body": "8.8 分，伺服器網路最大，多數測試中速度最快。如果你想要 VPN 的真實原因是串流表現而不是隱私架構，那這個實務優勢對你日常體驗的影響，大過上面那些稽核故事。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
