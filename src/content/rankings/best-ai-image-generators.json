@@ -14362,6 +14362,198 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-31",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 9.0,
+            "artisticQuality": 8.3,
+            "textRendering": 9.6,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.1,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "nano-banana-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (August 2026) - Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "GPT Image 2 holds first on text rendering, and I want to be direct about why that single capability carries so much weight. Most commercial image work involves words somewhere in the frame: a product label, a sign, a title card, a UI mock. A model that renders legible typography on the first attempt saves you an entire round of retouching, and across a week of production work that adds up to hours. Midjourney V8.1 stays second on artistic quality, which remains its genuine advantage. When the brief is mood and composition rather than literal accuracy, it produces images with an aesthetic point of view the others still approximate. Nano Banana Pro sits third and ties Flux 2 Pro on score, with its strength being prompt adherence on complex multi subject scenes. Flux 2 Pro earns its position on photorealism, particularly skin and fabric texture where other models go plastic. Seedream 4.5 rounds out the top five as the value option. August delivered fourteen model releases across the AI field, and image generation absorbed several of them without the leaderboard shifting, which tells you the top tier has reached a plateau where iteration is refinement rather than leap. I am keeping the order steady. Pick on your dominant use case, since these five have genuinely different personalities.",
+          "highlights": [
+            {
+              "title": "Legible typography is worth an hour a day",
+              "body": "Most commercial image work has words in the frame. GPT Image 2 renders them correctly on the first attempt, which removes an entire retouching pass. Over a production week that saved time is the whole argument for the top spot."
+            },
+            {
+              "title": "Midjourney still owns aesthetic point of view",
+              "body": "When the brief is mood and composition rather than literal accuracy, V8.1 produces images with a coherent visual sensibility. That quality is difficult to specify in a prompt and it is why the model keeps its second place."
+            },
+            {
+              "title": "Flux 2 Pro handles skin and fabric best",
+              "body": "Photorealism succeeds or fails on texture, and skin and cloth are where models typically go plastic. Flux 2 Pro holds detail in exactly those materials, so it is my pick for product and portrait work."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "GPT Image 2 靠文字渲染守住第一，我想直接講清楚為什麼這一項能力份量這麼重。商業用途的圖，畫面裡幾乎一定有字，可能是產品標籤、招牌、標題卡、或是介面稿。一個模型能第一次就把字排對、而且看得懂，等於幫你省掉整輪修圖，一週的產出量累積下來就是好幾個小時。\n\nMidjourney V8.1 第二名靠美感，這一直是它的真本事。當需求是氛圍跟構圖而不是精確還原的時候，它出的圖有一種明確的視覺主張，其他家目前還在逼近。\n\nNano Banana Pro 第三，分數跟 Flux 2 Pro 並列，強項是複雜多主體場景的提示詞遵從度，畫面裡要塞三四個人物又要各自做不同動作的時候特別明顯。\n\nFlux 2 Pro 靠寫實度站住位置，尤其是皮膚跟布料質感，其他模型常常在這裡糊成塑膠，它守得住。Seedream 4.5 補上前五，是性價比選擇。\n\n八月整個 AI 圈推了十四個模型，影像這塊吸收了其中幾個之後排行榜沒有翻動，這其實在告訴你頂端已經進入高原期，接下來是打磨而不是跳躍。順位維持不動。選的時候看你最常做的是哪一種圖，這五個的個性差異是真的很大。",
+          "highlights": [
+            {
+              "title": "字排得對，一天就省下一小時",
+              "body": "商業用圖畫面裡幾乎都有字。GPT Image 2 第一次就能把字渲染正確，等於砍掉整輪修圖。以一週的產出量來算，省下的時間就是它排第一的全部理由。"
+            },
+            {
+              "title": "美感這件事還是 Midjourney 說了算",
+              "body": "當需求是氛圍跟構圖而不是精確還原，V8.1 出的圖有一致的視覺主張。這種特質很難用提示詞描述出來，也是它守住第二名的原因。"
+            },
+            {
+              "title": "皮膚跟布料交給 Flux 2 Pro",
+              "body": "寫實度的成敗在質感，而皮膚跟布料正是模型最容易糊成塑膠的地方。Flux 2 Pro 在這兩種材質上守得住細節，商品攝影跟人像類的需求我都推它。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

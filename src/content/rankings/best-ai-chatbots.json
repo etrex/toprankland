@@ -15158,6 +15158,184 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-31",
+      "rankings": [
+        {
+          "id": "claude",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.7,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "chatgpt",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.5,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.9,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (August 2026) - Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "August was one of the densest release months this category has seen, with fourteen new models shipping from eight providers, and the top of my list survived all of it. Claude holds first because its answers hold up under scrutiny on long, ambiguous problems where the correct move is to ask a clarifying question rather than produce a confident wrong answer. ChatGPT stays tied on score and second on ordering because its breadth across modalities and its tooling depth make it the most generally useful single subscription for someone who does a bit of everything. Gemini at third earns its position on context length, and the two million token window remains genuinely differentiating when your task is reading an entire codebase or a full case file at once. Grok moves up a tenth of a point this week. Grok 4.6 shipped built for long running agent work, and in my testing the improvement on multi step tasks that run for tens of minutes is real enough to register. Perplexity holds fifth as the tool I still reach for when the question is factual and current and I want citations attached. My guidance for anyone choosing one subscription has not changed: pick based on what your hardest weekly task looks like, because all five handle the easy queries fine and only the hard ones separate them.",
+          "highlights": [
+            {
+              "title": "Claude leads because it asks before it guesses",
+              "body": "On long ambiguous problems, the valuable behavior is recognizing that the prompt is underspecified and saying so. That instinct is what keeps Claude at the top for me, since a confident wrong answer costs more time than a clarifying question."
+            },
+            {
+              "title": "Grok 4.6 earns a bump on long agent runs",
+              "body": "The new release targets long running agent work, and multi step tasks that execute over tens of minutes hold together noticeably better. That is a specific, measurable improvement, so I moved the score up a tenth."
+            },
+            {
+              "title": "Choose based on your hardest weekly task",
+              "body": "All five models handle routine queries competently. The differences only appear on the one genuinely difficult thing you do each week, so pick the subscription that wins on that task rather than on a general benchmark average."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "八月是這個類別有史以來最密集的發布月之一，八家業者總共推了十四個新模型，而我榜單的前段班全部撐過來了。\n\nClaude 保持第一，因為它的答案在長篇、條件模糊的問題上禁得起檢驗。遇到題目本身沒講清楚的時候，正確的動作是回頭問一句，而不是很有自信地給你一個錯的答案，這個本能是它排第一的核心理由。\n\nChatGPT 分數並列、順位第二，它跨模態的廣度加上工具生態的深度，讓它成為那種「什麼都做一點」的人最划算的單一訂閱。\n\nGemini 第三名靠的是上下文長度，兩百萬 token 的視窗在你要一次讀完整個專案原始碼或整份卷宗的時候，差異是真的存在的。\n\nGrok 這週我加了 0.1。Grok 4.6 主打長時間運行的 agent 工作，實測下來那種跑幾十分鐘的多步驟任務，穩定度確實有感提升，這種具體的改善值得反映在分數上。\n\nPerplexity 守第五，問題是事實性又要求時效、而且我想要引用來源的時候，我還是會開它。\n\n給只想訂一個的人，我的建議沒變，看你每週最難的那件事是什麼再決定。簡單的問題這五個都做得好，只有難題才分得出高下。",
+          "highlights": [
+            {
+              "title": "Claude 領先，是因為它會先問再答",
+              "body": "面對又長又模糊的問題，有價值的行為是認出題目條件不足並且講出來。這個本能讓 Claude 在我這裡穩坐第一，畢竟一個很有自信的錯答案，花掉的時間比多問一句多太多。"
+            },
+            {
+              "title": "Grok 4.6 在長時間 agent 任務上值得加分",
+              "body": "這一版針對長時間運行的 agent 工作，實測跑幾十分鐘的多步驟任務，前後一致性明顯變好。這是具體可測的改善，所以我把分數往上調了 0.1。"
+            },
+            {
+              "title": "用你每週最難的那件事來選",
+              "body": "日常查詢這五個都處理得不錯，差異只會出現在你每週真正困難的那一件事上。挑在那件事上贏的訂閱，不要看綜合跑分平均。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -16117,6 +16117,198 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-31",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.4,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "fish-audio-openaudio-s1",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.1,
+            "emotionalRange": 8.8,
+            "languageSupport": 8.0,
+            "latency": 8.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 9.8,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 8,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 8.3,
+            "emotionalRange": 7.7,
+            "languageSupport": 8.6,
+            "latency": 7.8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (August 2026) - Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs and Inworld TTS-1.5 Max sit tied at the top and they win on different things, which is why I keep both at 9.4. ElevenLabs owns voice realism and language coverage, and if your project needs the same character speaking convincingly in eight languages, nothing else is close. Inworld matches it on quality while pushing emotional range further, giving you performance direction rather than flat narration. For anything with a character in it, that control is the difference between usable and uncanny. Cartesia Sonic 3 holds third and ties OpenAudio S1 on score, with Cartesia's argument being latency. Under a hundred milliseconds to first audio makes real time conversational applications feel like a conversation instead of a walkie talkie exchange. OpenAudio S1 earns its rank on open weights and self hosting, which matters when your content cannot leave your infrastructure. Hume AI Octave 2 at fifth is built around emotional interpretation of text and suits narrative work. August was a dense month across AI releases and speech synthesis improved industry wide without any single launch reordering the leaders. I am holding the list. Choose on your dominant constraint: realism, latency, or where the audio is allowed to be processed.",
+          "highlights": [
+            {
+              "title": "Emotional range is what makes a character usable",
+              "body": "Inworld TTS-1.5 Max gives you performance direction rather than flat narration, and for anything with a character in it that control is the line between usable and uncanny. Raw clarity was solved a while ago."
+            },
+            {
+              "title": "Sub hundred millisecond latency changes the interaction",
+              "body": "Cartesia Sonic 3 gets to first audio fast enough that a real time application feels conversational. Anything slower reads as a walkie talkie exchange, and users notice that gap immediately even if they cannot name it."
+            },
+            {
+              "title": "Self hosting is a hard requirement for some teams",
+              "body": "OpenAudio S1 ships open weights, so audio never leaves your infrastructure. If you work in health, legal, or anything with strict data residency terms, that capability outranks a marginal quality difference."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ElevenLabs 跟 Inworld TTS-1.5 Max 並列榜首，兩者贏在不同的地方，所以我讓它們都停在 9.4。\n\nElevenLabs 的強項是聲音真實度加上語言涵蓋範圍，如果你的專案需要同一個角色用八種語言講話而且都要像真人，目前沒有對手。中文的處理也是這兩年進步最明顯的一家。\n\nInworld 在品質上追平，然後把情緒幅度再往前推，它給你的是表演指導而不是平板的旁白。只要作品裡有角色，這種控制力就是「能用」跟「很詭異」的分界線。\n\nCartesia Sonic 3 第三名，分數跟 OpenAudio S1 並列，Cartesia 的賣點是延遲。第一個聲音在一百毫秒內出來，即時對話應用才會像在對話，而不是像在用對講機輪流講。\n\nOpenAudio S1 靠開放權重跟自架能力站住位置，當你的內容不能離開自己的機房時，這件事的優先度高過一切。Hume AI Octave 2 第五名，圍繞文字情緒詮釋設計，做敘事類內容很適合。\n\n八月 AI 發布密度很高，語音合成整體都在進步，但沒有單一發表足以重排前段班。榜單維持。選的時候看你最硬的那個限制是什麼：真實度、延遲、還是音訊允許在哪裡被處理。",
+          "highlights": [
+            {
+              "title": "情緒幅度決定角色能不能用",
+              "body": "Inworld TTS-1.5 Max 給的是表演指導，不是平板旁白。作品裡只要有角色，這種控制力就是能用跟詭異之間的分界。單純的清晰度早就被解決了。"
+            },
+            {
+              "title": "延遲壓進一百毫秒，互動感完全不同",
+              "body": "Cartesia Sonic 3 第一個聲音出來得夠快，即時應用才會有對話的感覺。再慢一點就變成對講機式的輪流發言，使用者說不出原因但立刻會感覺到卡。"
+            },
+            {
+              "title": "有些團隊自架是硬需求",
+              "body": "OpenAudio S1 提供開放權重，音訊完全不用離開自己的機房。做醫療、法務、或任何有資料落地要求的產業，這個能力的優先度高過品質上那一點點差距。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

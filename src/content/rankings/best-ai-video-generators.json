@@ -15605,6 +15605,186 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-31",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.1,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (August 2026) - Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Kling 3.0 holds first on motion realism, and motion is the axis where generated video still gets caught. Limbs that slide instead of plant, cloth that ignores momentum, hair that moves as a solid mass. Kling handles physical continuity across a shot better than the alternatives, which means more of its output survives into a finished edit instead of getting cut. Veo 3.1 sits second and it is the model I recommend when audio matters, because native synchronized sound removes an entire production step. Getting dialogue and footstep timing to land without manual alignment is a genuine workflow saving. Runway Gen-4.5 at third earns its place on the surrounding toolset, since generation is one part of the job and its editing environment covers the rest. Seedance 2.0 ties on score at fourth with strong character consistency across shots, which is what you need if you are building anything longer than a single clip. HappyHorse 1.0 rounds out the top five. August brought a heavy wave of model releases across the AI field and video absorbed several without reordering the top, which suggests the leaders have converged on quality and are now competing on workflow. I am holding the ranking. Test on your own shot list, because these models have distinct failure modes.",
+          "highlights": [
+            {
+              "title": "Motion is where generated video still gets caught",
+              "body": "Sliding feet, cloth that ignores momentum, hair moving as one solid mass. Kling 3.0 maintains physical continuity through a shot better than the field, so more of its output survives into a finished edit."
+            },
+            {
+              "title": "Native audio removes a whole production step",
+              "body": "Veo 3.1 generates synchronized sound with the footage, so dialogue and footstep timing land without manual alignment. If you are producing at volume, that saved step compounds across every clip."
+            },
+            {
+              "title": "Character consistency decides if you can go past one clip",
+              "body": "Seedance 2.0 holds a character's appearance across separate shots, which is the prerequisite for anything with a narrative. Single beautiful clips are easy, and a coherent sequence is the actual test."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Kling 3.0 靠動態真實度守住第一，而動態正是生成影片目前最容易被抓包的地方。腳踩下去用滑的而不是踩實、布料完全不理慣性、頭髮整團像一塊固體在動，這些都是破綻。Kling 在一顆鏡頭裡維持物理連續性的能力比其他家好，直接的結果是它的素材有更高比例能留到成片，而不是剪掉重生。\n\nVeo 3.1 第二名，需要聲音的時候我會直接推它，原生同步音訊等於砍掉一整個製作環節。對白跟腳步聲不用手動對時間就能落點正確，這在流程上省下的功夫是實打實的。\n\nRunway Gen-4.5 第三名靠的是周邊工具鏈，生成只是工作的一部分，它的編輯環境把剩下那部分接起來了。\n\nSeedance 2.0 分數並列排第四，強項是跨鏡頭的角色一致性，只要你要做的東西超過一支單鏡頭片段，這件事就是必要條件。HappyHorse 1.0 補上前五。\n\n八月整個 AI 圈發布很兇，影片這塊吸收了幾個新模型但前段班沒有重排，這說明領先群在品質上已經收斂，接下來是比工作流程。排序維持不動。建議拿你自己的分鏡去測，這幾個模型各自壞掉的方式很不一樣。",
+          "highlights": [
+            {
+              "title": "動態是生成影片最容易露餡的地方",
+              "body": "腳滑、布料不理慣性、頭髮整團一起動，這些都是破綻。Kling 3.0 在整顆鏡頭裡維持物理連續性的能力領先，素材能留進成片的比例因此高很多。"
+            },
+            {
+              "title": "原生音訊等於少掉一整個環節",
+              "body": "Veo 3.1 生成影像的同時就產出同步聲音，對白跟腳步聲不用手動對軌。如果你是量產型的產出，這一步省下來會在每一支片子上累積。"
+            },
+            {
+              "title": "角色一致性決定你能不能做超過一支片段",
+              "body": "Seedance 2.0 能在不同鏡頭之間守住同一個角色的外觀，這是敘事類作品的前提。單支漂亮片段很好做，能串起來的序列才是真正的考題。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

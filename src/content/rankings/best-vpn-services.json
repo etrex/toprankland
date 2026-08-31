@@ -16036,6 +16036,160 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-08-31",
+      "rankings": [
+        {
+          "id": "protonvpn",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "mullvad",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "ProtonVPN No-Logs Audit 2026: What 4 Securitum Reports Found",
+          "url": "https://criticnest.com/protonvpn-keep-logs-browsing/",
+          "source": "CriticNest"
+        },
+        {
+          "title": "A List Of VPN Providers With Public Audits In 2026",
+          "url": "https://greycoder.com/a-list-of-vpn-providers-with-public-audits/",
+          "source": "GreyCoder"
+        },
+        {
+          "title": "NordVPN vs Proton VPN vs Mullvad (2026): Three Trust Models, No Universal Winner",
+          "url": "https://www.thevpnmatrix.com/blog/privacy-trinity",
+          "source": "The VPN Matrix"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ProtonVPN holds first on privacy posture, which is the only criterion that genuinely matters when choosing a VPN. Speed differences among the top providers are marginal on a modern connection, and what actually differs is whether the company keeps logs, where it is legally based, and whether independent auditors have verified those claims. Proton operates under Swiss jurisdiction with published no logs audits and open source clients, and that combination is the strongest position available. Mullvad at second matches it on privacy philosophy and goes further on anonymity by accepting cash payment and requiring no account identifier beyond a number. If you want the least possible link between your identity and your traffic, Mullvad is the answer. NordVPN at third has the largest server network and the best streaming compatibility, which is the practical reason many people subscribe. IVPN at fourth is another privacy focused option with a strong track record, and ExpressVPN at fifth rounds out the list. Nothing changed this week. A necessary caution: a VPN protects traffic in transit and does not make you anonymous to services you log into, so be clear about which problem you are solving.",
+          "highlights": [
+            {
+              "title": "Jurisdiction and audits matter more than speed",
+              "body": "Speed differences among top providers are marginal on a modern connection. Where the company is legally based, whether it keeps logs, and whether auditors verified that claim are the criteria that actually differ."
+            },
+            {
+              "title": "Mullvad goes furthest on anonymity",
+              "body": "Cash payment and an account number with no personal identifier attached means the least possible link between you and your traffic. If that is your specific goal, it outranks a larger server network."
+            },
+            {
+              "title": "A VPN does not make you anonymous",
+              "body": "It protects traffic in transit and does nothing about services you log into with your own account. Be clear about which problem you are solving, because the marketing in this category consistently blurs that line."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ProtonVPN 靠隱私立場排第一，而在選 VPN 這件事上，這是唯一真正重要的標準。\n\n頂尖業者之間的速度差異，在現代網路連線下其實很小。真正有差別的是這家公司留不留日誌、法律上設在哪個管轄區、還有這些宣稱有沒有被獨立稽核驗證過。Proton 在瑞士管轄下營運，有公開的無日誌稽核報告，客戶端也是開源的，這個組合是目前最強的位置。\n\nMullvad 第二名在隱私哲學上打平，而且在匿名性上走得更遠，它接受現金付款，帳號除了一組數字之外不需要任何識別資訊。如果你要的是「你的身分」跟「你的流量」之間連結最少，答案就是 Mullvad。\n\nNordVPN 第三名伺服器網路最大、串流相容性最好，而這正是很多人訂閱的實際理由。\n\nIVPN 第四名是另一個以隱私為核心、紀錄良好的選擇，ExpressVPN 第五名補上榜單。\n\n這週沒有變動。一個必要的提醒：VPN 保護的是傳輸中的流量，它不會讓你對「用自己帳號登入的服務」變得匿名。搞清楚你在解決哪個問題。",
+          "highlights": [
+            {
+              "title": "管轄區跟稽核比速度重要",
+              "body": "頂尖業者之間的速度差異在現代連線下很小。公司設在哪個法律管轄區、留不留日誌、有沒有被稽核驗證，這三件事才是真正有差別的。"
+            },
+            {
+              "title": "匿名性 Mullvad 走得最遠",
+              "body": "接受現金付款、帳號只是一組沒有個人識別的數字，代表你跟你的流量之間連結最少。如果那是你的具體目標，它勝過更大的伺服器網路。"
+            },
+            {
+              "title": "VPN 不會讓你變匿名",
+              "body": "它保護傳輸中的流量，對你用自己帳號登入的服務完全沒有作用。搞清楚你在解決哪個問題，因為這個類別的行銷一直在模糊這條線。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
