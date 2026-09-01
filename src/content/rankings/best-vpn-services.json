@@ -16190,6 +16190,168 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-01",
+      "rankings": [
+        {
+          "id": "protonvpn",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "mullvad",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "ProtonVPN No-Logs Audit 2026: What 4 Securitum Reports Found",
+          "url": "https://criticnest.com/protonvpn-keep-logs-browsing/",
+          "source": "CriticNest"
+        },
+        {
+          "title": "A List Of VPN Providers With Public Audits In 2026",
+          "url": "https://greycoder.com/a-list-of-vpn-providers-with-public-audits/",
+          "source": "GreyCoder"
+        },
+        {
+          "title": "NordVPN vs Proton VPN vs Mullvad (2026): Three Trust Models, No Universal Winner",
+          "url": "https://www.thevpnmatrix.com/blog/privacy-trinity",
+          "source": "The VPN Matrix"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The most useful thing I can tell you about VPNs is to be clear about what you want one for, because the marketing promises far more than the technology delivers. A VPN moves the point at which your traffic enters the open internet. That is genuinely useful for keeping your browsing away from your internet provider, for accessing services from a different location, and for using untrusted networks. It does not make you anonymous, and any provider suggesting otherwise has told you something about its honesty. Given that, judge providers on three things: an independently audited no-logs policy, jurisdiction and ownership transparency, and payment options that do not require identifying yourself. ProtonVPN holds first at 9.3 because it publishes audits, operates from Switzerland with clear ownership, runs its own infrastructure, and offers a free tier with no data cap that is genuinely usable. Mullvad at 9.2 has the strongest privacy architecture here, using account numbers with no email requirement and accepting cash by post. NordVPN at 8.8 is the fastest and the best choice if streaming access is your main use case. Match the provider to the reason you are buying.",
+          "highlights": [
+            {
+              "title": "Be clear that a VPN relocates trust",
+              "body": "A VPN moves where your traffic enters the open internet, which is genuinely useful against your internet provider, for location-based access, and on untrusted networks. Any provider marketing anonymity has told you something about its honesty. Buying with accurate expectations leads you to the right provider."
+            },
+            {
+              "title": "Require an independently audited no-logs policy",
+              "body": "A no-logs claim is worth exactly as much as the audit backing it. Providers publishing regular independent audits have submitted to verification they cannot control. Those that only assert the policy are asking for trust on their own word. This is the single strongest filter available in this category."
+            },
+            {
+              "title": "ProtonVPN wins on audits, jurisdiction, and a usable free tier",
+              "body": "Published audits, Swiss jurisdiction with transparent ownership, self-operated infrastructure, and a free tier with no data cap that genuinely works. At 9.3 it delivers verifiable privacy alongside a way to evaluate the service properly before paying, which very few competitors offer."
+            },
+            {
+              "title": "Mullvad has the strongest privacy architecture available",
+              "body": "Account numbers with no email requirement, cash accepted by post, and a flat price with no tiered upsells. At 9.2 it is designed so the provider knows as little about you as technically possible. If minimising what your VPN provider can know is the goal, nothing here matches it."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "關於 VPN，我能告訴你最有用的一件事，是先搞清楚你為什麼要用，因為行銷承諾的東西遠多於技術實際能給的。\n\nVPN 做的是把你的流量進入公開網際網路的那個點搬到別處。這對於避免你的網路業者看到你的瀏覽紀錄、從不同地區存取服務，以及在不可信的網路環境下使用，都是真的有用。它並不會讓你變成匿名，而任何暗示相反結論的業者，已經告訴了你一些關於它誠信的事。\n\n既然如此，就用三件事來評判業者：經獨立稽核的無紀錄政策、司法管轄與股權透明度，以及不需要暴露身分的付款方式。\n\nProtonVPN 以 9.3 守住第一，因為它公布稽核報告、註冊在瑞士且股權清楚、自營基礎設施，還提供一個沒有流量上限、真的能用的免費方案。\n\n9.2 分的 Mullvad 擁有這裡最強的隱私架構，使用帳號編號、不需要 email，還接受郵寄現金付款。8.8 分的 NordVPN 速度最快，主要用途是串流解鎖的話選它。",
+          "highlights": [
+            {
+              "title": "搞清楚 VPN 搬動的是信任對象，它給不了匿名",
+              "body": "VPN 移動的是你的流量進入公開網路的位置，這對於防範網路業者、跨區存取服務跟不可信網路都真的有用。任何主打匿名的業者，已經告訴了你一些關於它誠信的事。帶著準確的期待去買，才會走到正確的業者。"
+            },
+            {
+              "title": "要求經獨立稽核的無紀錄政策",
+              "body": "一個無紀錄宣稱的價值，完全等於支撐它的那份稽核報告。定期公布獨立稽核的業者，接受了一套自己控制不了的驗證。只是口頭主張政策的，則是在要求你相信它的片面說法。這是這個類別最強的一道篩選。"
+            },
+            {
+              "title": "ProtonVPN 贏在稽核、管轄地，跟一個真的能用的免費方案",
+              "body": "公開的稽核報告、股權透明的瑞士管轄、自營基礎設施，加上一個沒有流量上限、真的能用的免費方案。9.3 分，它在提供可驗證隱私的同時，也讓你能在付錢之前好好評估這個服務，而這是極少對手做得到的。"
+            },
+            {
+              "title": "Mullvad 擁有目前最強的隱私架構",
+              "body": "帳號編號註冊、不需要 email、接受郵寄現金，單一價格沒有分級加購。9.2 分，它的設計就是讓業者在技術上盡可能少知道關於你的事。如果你的目標是把 VPN 業者能掌握的資訊壓到最低，這裡沒有對手。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
