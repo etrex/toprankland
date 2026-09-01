@@ -16031,6 +16031,199 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-01",
+      "rankings": [
+        {
+          "id": "suno-v5",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "audioQuality": 9.7,
+            "vocalRealism": 9.4,
+            "editingControl": 9.6,
+            "commercialLicense": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "elevenlabs-music",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "audioQuality": 9.3,
+            "vocalRealism": 9.7,
+            "editingControl": 8.7,
+            "commercialLicense": 9.8,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "lyria-3-pro",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 8.6,
+            "editingControl": 8.4,
+            "commercialLicense": 9.5,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 7.0,
+            "editingControl": 8.6,
+            "commercialLicense": 9.5,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "udio",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "audioQuality": 9.6,
+            "vocalRealism": 9.5,
+            "editingControl": 9.8,
+            "commercialLicense": 7.5,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "riffusion",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "audioQuality": 8.2,
+            "vocalRealism": 7.8,
+            "editingControl": 8.5,
+            "commercialLicense": 8.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "soundraw",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "audioQuality": 8.0,
+            "vocalRealism": 6.5,
+            "editingControl": 7.5,
+            "commercialLicense": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aiva",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 6.8,
+            "editingControl": 7.8,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "mubert",
+          "rank": 9,
+          "score": 7.3,
+          "scores": {
+            "audioQuality": 7.5,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "loudly",
+          "rank": 10,
+          "score": 7.0,
+          "scores": {
+            "audioQuality": 7.3,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "boomy",
+          "rank": 11,
+          "score": 6.8,
+          "scores": {
+            "audioQuality": 6.8,
+            "vocalRealism": 6.5,
+            "editingControl": 6.8,
+            "commercialLicense": 8.5,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (August 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "AI Model Release Tracker",
+          "url": "https://www.evertune.ai/resources/ai-model-tracker",
+          "source": "Evertune"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Suno V5 holds first at 9.4 and the gap to everything else is still about vocals. Generated singing is the hardest part of this problem and the part listeners notice fastest, and V5 produces vocal lines that hold pitch, phrasing, and character across a full song structure. Eleven Music sits second at 9.2 with the cleanest instrumental production and the most reliable commercial licensing story, which is why I recommend it first to anyone putting generated music into a product they sell. Lyria 3 Pro at 8.6 holds third and benefits from Google's broader August momentum, though its editing controls still lag the top two. What I want readers to weigh this month is licensing. The top of this category is now good enough that the practical risk has shifted from output sounding wrong to output being unusable commercially. Eleven Music and Suno have the clearest terms. Several entries lower down have terms that change depending on subscription tier in ways that catch people out after they have built something around the tool. Ranks stay unchanged this week. My guidance: Suno V5 for songs with vocals, Eleven Music for instrumental beds and anything commercial, Stable Audio 2.5 if you need to self-host and control the pipeline yourself.",
+          "highlights": [
+            {
+              "title": "Vocals are the whole game and Suno V5 wins them decisively",
+              "body": "Generated singing is where these models break first and where listeners notice fastest. V5 holds pitch, phrasing, and vocal character across a complete song structure from start to finish. That is the single largest quality gap in this category and it is why 9.4 and first place are not close."
+            },
+            {
+              "title": "Buy Eleven Music when the output has to be commercially safe",
+              "body": "Its licensing terms are the clearest of anything here and its instrumental production is the cleanest. If you are putting generated music into something you sell, that combination is worth more than a marginal edge in vocal realism. Second place at 9.2 reflects a tool that wins on the axis professionals care about most."
+            },
+            {
+              "title": "Licensing is now the real risk to manage",
+              "body": "The top of this list sounds good enough for real use, which moves the practical danger from bad audio to unusable rights. Several lower-ranked entries change commercial terms by subscription tier, and people discover that after building a workflow around the tool. Read the terms before the trial ends."
+            },
+            {
+              "title": "Stable Audio 2.5 remains the answer for a controlled pipeline",
+              "body": "At 8.5 it earns its place on control. It is the one you can run inside your own infrastructure with your own guarantees about what goes in and what comes out. For studios and agencies with client confidentiality requirements, that makes it the only viable pick on the list."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Suno V5 以 9.4 守住第一，而它跟其他人的差距，關鍵還是在人聲。AI 唱歌是這個問題裡最難的部分，也是聽眾最快能察覺不對勁的地方，而 V5 產出的人聲能在一整首歌的結構裡穩住音準、咬字跟音色個性，整首聽下來都站得住。\n\nEleven Music 以 9.2 排第二，器樂製作最乾淨，商用授權條款也最清楚。如果你要把生成的音樂放進要拿去賣的產品裡，我會先推薦它。\n\nLyria 3 Pro 8.6 分守住第三，也吃到 Google 八月整體的聲勢，不過編輯控制力還是落後前兩名一截。\n\n這個月我更想請讀者衡量的是授權這一關。這個類別的前段班已經好到，實際風險從「聽起來怪怪的」轉移到「做完才發現不能商用」。Eleven Music 跟 Suno 的條款最清楚。榜單再往下有幾家的條款會隨訂閱層級改變，而且常常是使用者已經圍著這個工具建好流程之後才踩到。\n\n這週排名不動。我的建議是：要有人聲的歌選 Suno V5，要器樂墊底或任何商用選 Eleven Music，需要自架、自己掌握整條管線就選 Stable Audio 2.5。",
+          "highlights": [
+            {
+              "title": "人聲決定一切，Suno V5 在這一項壓倒性獲勝",
+              "body": "AI 唱歌是這些模型最先崩掉的地方，也是聽眾最快聽出來的地方。V5 能在完整的歌曲結構裡守住音準、咬字跟音色個性，整首歌從頭到尾都撐得住。這是這個類別裡最大的品質落差，也是 9.4 拿第一完全沒有懸念的原因。"
+            },
+            {
+              "title": "成品必須在商業上安全，就買 Eleven Music",
+              "body": "它的授權條款是這裡最清楚的，器樂製作也最乾淨。如果你要把生成音樂放進拿去賣的東西裡，這個組合的價值超過人聲擬真度上那一點點差距。9.2 排第二，反映的是一個在專業使用者最在意的軸線上獲勝的工具。"
+            },
+            {
+              "title": "現在真正的風險在授權這一關",
+              "body": "這份榜單前段的聲音品質已經足以實際使用，所以危險從音檔難聽轉移到權利不能用。榜單中後段有幾家會依訂閱層級改變商用條款，而使用者往往是圍著工具把流程建好之後才發現。試用期結束前先把條款看完。"
+            },
+            {
+              "title": "需要可控管線，Stable Audio 2.5 仍然是答案",
+              "body": "8.5 分，它靠的是掌控力。它是你可以放進自己基礎架構裡跑，自己保證進去什麼、出來什麼的那一個。對於有客戶保密要求的工作室跟代理商，這讓它成為榜單上唯一可行的選項。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

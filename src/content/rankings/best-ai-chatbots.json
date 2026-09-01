@@ -15336,6 +15336,197 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-01",
+      "rankings": [
+        {
+          "id": "claude",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.7,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "chatgpt",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.5,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.9,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (August 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "AI Model Release Tracker",
+          "url": "https://www.evertune.ai/resources/ai-model-tracker",
+          "source": "Evertune"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "August closed with sixteen new models from eight providers, and the shape of that flood tells you exactly where the chatbot race now sits. The frontier tier has stopped moving on raw intelligence and started moving on speed and price. Gemini 3.7 Flash landed on August 13 as the fastest frontier-class model available, Grok 4.6 arrived the day before, and Alibaba closed the month with Qwen3.8 Flash on August 26. Every one of those is a latency and cost play. I keep Claude and ChatGPT tied at the top because the work I actually give a chatbot, long reasoning chains, careful writing, code that has to run, still separates on quality, and tokens per second barely enters into it. Claude Opus 5 has held that position since late July while costing roughly half what the previous flagship tier did, and that price move matters more to a daily user than another benchmark point. Gemini stays a very close third on the strength of its real-time grounding and the Flash tier being genuinely quick enough to change how you use it. The interesting movement this month is at the bottom. Qwen Chat moves up to ninth on the back of Qwen3.8 Flash, which gives the free tier a materially faster default model than Le Chat currently offers. If you are choosing today, pick on the work you do most: Claude for sustained reasoning and writing, ChatGPT for breadth of tooling, Gemini for anything that needs live web grounding.",
+          "highlights": [
+            {
+              "title": "The frontier race has moved from intelligence to latency",
+              "body": "Gemini 3.7 Flash on August 13 and Qwen3.8 Flash on August 26 are both speed-tier releases, and Grok 4.6 landed the day before Gemini. Three of the month's most visible launches optimize response time and cost. That tells me the top labs believe the quality gap at the frontier is now small enough that the winning move is making a very good model feel instant."
+            },
+            {
+              "title": "Claude Opus 5 at half the old flagship price is the value story of the quarter",
+              "body": "Anthropic shipped Opus 5 on July 24 at roughly half the cost of the prior flagship tier for comparable intelligence. For anyone paying per token, that single change did more for practical usability than any benchmark movement in August. It is why Claude holds a 9.5 here alongside ChatGPT, with cost now counting in its favour."
+            },
+            {
+              "title": "Qwen Chat earns ninth place because its free tier just got faster",
+              "body": "Qwen3.8 Flash arrived on August 26 and became the default for Alibaba's consumer chat surface. A free user now gets noticeably quicker responses there than on Le Chat, which is the whole reason I move Qwen Chat ahead this month. At the bottom of this list, response speed on the free tier is the thing people actually feel."
+            },
+            {
+              "title": "Pick by workload, and the top three separate cleanly",
+              "body": "Claude wins sustained reasoning and long-form writing. ChatGPT wins breadth: images, voice, data analysis, and the widest third-party tooling. Gemini wins anything that needs live grounding in current web results. Those are three different jobs and the 9.5, 9.5, 9.4 spread reflects how close they are once you match the tool to the task."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "八月一口氣有八家業者推出十六個新模型，光看這個數字的組成，就能知道聊天機器人這場競賽現在到底在比什麼。老實說，前段班已經不太在拚純智力了，改成拚速度跟價格。Gemini 3.7 Flash 八月十三號上線，是目前最快的前沿等級模型；Grok 4.6 早一天推出；阿里巴巴則在八月二十六號用 Qwen3.8 Flash 收尾。這三個全部都是延遲跟成本導向的產品。\n\n我還是把 Claude 跟 ChatGPT 並列第一，理由很直接。我平常真的會丟給聊天機器人做的事情，長串推理、需要斟酌的文案、跑得起來的程式碼，這些拉開差距的還是品質。每秒吐幾個字這件事，在這裡影響很小。Claude Opus 5 從七月底就守住這個位置，價格大概只有前一代旗艦的一半，這個降價對每天在用的人來說，比多一個跑分數字有感太多了。\n\nGemini 穩穩排第三，靠的是即時網路查證的能力，加上 Flash 這一層真的快到會改變你的使用習慣。這個月比較有意思的變化在後段。Qwen Chat 因為 Qwen3.8 Flash 上場，免費版的預設模型明顯比 Le Chat 快，所以我把它往前挪到第九。\n\n如果你今天要選，就照你最常做的事情挑：需要長時間推理跟寫作選 Claude，需要工具生態夠廣選 ChatGPT，需要抓即時網路資料選 Gemini。",
+          "highlights": [
+            {
+              "title": "前沿競賽的主戰場，已經從智力換成延遲",
+              "body": "八月十三號的 Gemini 3.7 Flash 跟八月二十六號的 Qwen3.8 Flash 都是速度取向的版本，Grok 4.6 也就早一天上線。這個月最受矚目的三個發表，比的都是回應時間跟成本。推理天花板這一項，這個月幾乎沒人動。這代表各家實驗室自己也認為，頂端的品質差距已經小到，讓一個夠好的模型「感覺瞬間就回」才是勝負關鍵。"
+            },
+            {
+              "title": "Claude Opus 5 用一半價格提供旗艦智力，是這一季最實在的價值變化",
+              "body": "Anthropic 七月二十四號推出 Opus 5，同等智力下的成本大約是前一代旗艦的一半。對於按 token 計費的使用者來說，光是這一件事，實際好用程度的提升就超過八月任何一個跑分變動。這也是我讓 Claude 拿到 9.5 跟 ChatGPT 並列的原因，成本這一項現在算它的加分。"
+            },
+            {
+              "title": "Qwen Chat 排到第九，靠的是免費版真的變快了",
+              "body": "Qwen3.8 Flash 八月二十六號上線，直接成為阿里巴巴消費端聊天服務的預設模型。免費使用者在那邊得到的回應速度，現在明顯比 Le Chat 快，這就是我這個月把 Qwen Chat 往前挪的全部理由。講白了，排在後段的服務，免費版反應速度才是使用者真正會感覺到的東西。"
+            },
+            {
+              "title": "照工作型態選，前三名其實分得很乾淨",
+              "body": "長時間推理跟長文寫作，Claude 贏。要廣度，圖片、語音、資料分析加上最完整的第三方工具生態，ChatGPT 贏。需要根據當下網路資料回答，Gemini 贏。這是三種不同的工作，9.5、9.5、9.4 這個接近的分數分布，反映的就是只要你把工具配對到任務上，它們的差距其實很小。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

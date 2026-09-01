@@ -17622,6 +17622,223 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-01",
+      "rankings": [
+        {
+          "id": "granola",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "transcriptionQuality": 9.2,
+            "integrations": 8.5,
+            "userExperience": 9.5,
+            "privacy": 9.1,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "fathom",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "transcriptionQuality": 8.9,
+            "integrations": 8,
+            "userExperience": 9.2,
+            "privacy": 8.7,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "fireflies",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 9.9,
+            "userExperience": 8.4,
+            "privacy": 8.2,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "otter-ai",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "transcriptionQuality": 9.1,
+            "integrations": 8.6,
+            "userExperience": 8.6,
+            "privacy": 8,
+            "valueForMoney": 8.3
+          }
+        },
+        {
+          "id": "fellow",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 8.8,
+            "userExperience": 8,
+            "privacy": 9.5,
+            "valueForMoney": 9
+          }
+        },
+        {
+          "id": "tldv",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 7.8,
+            "userExperience": 8.5,
+            "privacy": 8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "read-ai",
+          "rank": 7,
+          "score": 8.1,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 8.2,
+            "userExperience": 8.8,
+            "privacy": 8,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "krisp",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "transcriptionQuality": 8,
+            "integrations": 7.5,
+            "userExperience": 9,
+            "privacy": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "zoom-ai-companion",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "transcriptionQuality": 8,
+            "integrations": 7.5,
+            "userExperience": 8.5,
+            "privacy": 8,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "avoma",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "transcriptionQuality": 8,
+            "integrations": 8.5,
+            "userExperience": 7.5,
+            "privacy": 8,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "circleback",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "transcriptionQuality": 8.2,
+            "integrations": 8.5,
+            "userExperience": 8,
+            "privacy": 8,
+            "valueForMoney": 6.8
+          }
+        },
+        {
+          "id": "microsoft-365-copilot",
+          "rank": 12,
+          "score": 7.6,
+          "scores": {
+            "transcriptionQuality": 8,
+            "integrations": 9.5,
+            "userExperience": 7,
+            "privacy": 8.5,
+            "valueForMoney": 6.2
+          }
+        },
+        {
+          "id": "gong",
+          "rank": 13,
+          "score": 7.3,
+          "scores": {
+            "transcriptionQuality": 9,
+            "integrations": 9,
+            "userExperience": 7.5,
+            "privacy": 8.5,
+            "valueForMoney": 4.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (August 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "AI Model Release Tracker",
+          "url": "https://www.evertune.ai/resources/ai-model-tracker",
+          "source": "Evertune"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Granola keeps first place and the reason is the same one I have been giving for months: it treats your own typed notes as the spine of the summary and uses the transcript to fill in around them. That design choice survives every model upgrade underneath it, which matters in a month like August where sixteen models shipped from eight providers and transcription quality across this whole category moved up together. When the underlying speech models improve for everyone, product design is what separates the list, and Granola's is the best. Fathom stays second at 9.1 and remains the one I recommend to anyone who wants a genuinely capable free tier before committing money. Fireflies and Otter hold third and fourth on integration breadth and on sheer number of supported meeting platforms. The cheap fast model tiers that dominated August releases matter here more than in most categories, because a meeting assistant makes one very long transcription call plus many small summarization calls per meeting, and the small calls are where cost accumulates across a busy calendar. That pressure should push list prices down across the middle of this list over the next quarter. I am leaving ranks unchanged this week. Nothing shipped that changes the answer, which is Granola if you take notes during calls, Fathom if you want the best free option, and Fireflies if your requirement is that it connects to everything your company already runs.",
+          "highlights": [
+            {
+              "title": "Granola wins because it builds on the notes you already type",
+              "body": "Granola starts from what you actually typed during the call and uses the transcript to fill the gaps around it. That is a product design decision, not a model advantage, which is why it keeps first place through every round of underlying model upgrades including August's."
+            },
+            {
+              "title": "When transcription improves for everyone, design is the differentiator",
+              "body": "August brought sixteen new models from eight providers and lifted speech quality broadly across this category. When the shared foundation gets better for every vendor at once, the ranking stops being about accuracy and becomes about what the product does with an accurate transcript. That is exactly why the order at the top of this list has been so stable."
+            },
+            {
+              "title": "Fathom is the honest recommendation for anyone not ready to pay",
+              "body": "Its free tier is genuinely usable on its own terms, and the paid step up is priced sensibly for individuals. At 9.1 it sits just behind Granola, and for a large share of readers it is the correct first install because you can evaluate it properly without a credit card."
+            },
+            {
+              "title": "Expect price pressure through the middle of this list next quarter",
+              "body": "A meeting assistant runs one long transcription plus many short summarization calls per meeting, and August's wave of cheap fast tiers cuts the marginal cost of exactly that pattern. Vendors from Fellow through Read.ai will feel that in their pricing before you see it in their feature lists."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Granola 繼續第一，理由跟我講了好幾個月的一樣：它把你自己打的筆記當成摘要的骨架，再用逐字稿把周圍補滿。這個設計選擇不會因為底層模型換代而失效，這點在八月特別重要，因為這個月八家業者推了十六個模型，整個類別的轉錄品質是一起往上走的。\n\n當底層語音模型對所有廠商同時變好，能拉開差距的就只剩產品設計，而 Granola 的設計是最好的。\n\nFathom 穩在第二 9.1 分，也還是我會推薦給「還不想先掏錢」的人的選擇。它的免費版是真的能用，額度也給得夠大方。Fireflies 跟 Otter 拿下三、四名，靠的是整合廣度跟支援的會議平台數量。\n\n八月那批便宜又快的模型層，對這個類別的影響比大多數類別都直接。原因是會議助理每場會議會打一次很長的轉錄請求，加上很多次小型的摘要請求，而成本真正累積的地方就是那些小請求，尤其當你的行事曆整天都是會的時候。這個壓力接下來一季應該會讓榜單中段的定價往下走。\n\n這週排名不動。沒有任何新東西改變答案：開會時會自己打字就選 Granola，想要最好的免費方案選 Fathom，要求它能接上公司現有系統就選 Fireflies。",
+          "highlights": [
+            {
+              "title": "Granola 贏在它疊在你已經打好的筆記上",
+              "body": "這個類別的其他產品，出發點都是假設你在會議中是被動的。Granola 的出發點是你實際打了什麼，再用逐字稿去補洞。這來自產品設計上的決定，所以它才能撐過一輪又一輪的底層模型更新，包含八月這一輪，還是穩坐第一。"
+            },
+            {
+              "title": "當轉錄品質對所有人一起變好，設計就變成唯一的差異化",
+              "body": "八月八家業者推出十六個新模型，整個類別的語音品質被一起拉上去。當共用的地基對每一家同時變好，排名就不再是比準確度，而是比拿到準確逐字稿之後產品做了什麼。這正是這份榜單前段順序一直很穩的原因。"
+            },
+            {
+              "title": "還不想付錢的人，Fathom 是最誠實的推薦",
+              "body": "它的免費版是真的可以拿來用，額度撐得住日常的會議量。付費那一階對個人使用者來說定價也算合理。9.1 分緊跟在 Granola 後面，對相當一部分讀者來說，它才是正確的第一個安裝對象，因為你可以不掏信用卡就完整評估。"
+            },
+            {
+              "title": "接下來一季，榜單中段會先感受到降價壓力",
+              "body": "會議助理每場會的用量結構是一次長轉錄加上很多次短摘要，而八月這批便宜又快的模型層，砍的剛好就是這個模式的邊際成本。從 Fellow 到 Read.ai 這一段的廠商，會先在定價上感受到，你才會在功能表上看到。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
