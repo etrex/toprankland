@@ -6292,6 +6292,187 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-01",
+      "rankings": [
+        {
+          "id": "aqara-u400",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "security": 9.3,
+            "access": 9.7,
+            "smartHome": 9.7,
+            "value": 8.6,
+            "install": 8.8
+          }
+        },
+        {
+          "id": "schlage-encode-plus",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "security": 9.6,
+            "access": 8.6,
+            "smartHome": 9.0,
+            "value": 8.4,
+            "install": 9.0
+          }
+        },
+        {
+          "id": "yale-assure-lock-2-plus",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "security": 8.8,
+            "access": 8.8,
+            "smartHome": 9.1,
+            "value": 8.5,
+            "install": 8.9
+          }
+        },
+        {
+          "id": "ultraloq-u-bolt-pro-wifi",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "security": 8.6,
+            "access": 9.2,
+            "smartHome": 8.2,
+            "value": 8.8,
+            "install": 8.6
+          }
+        },
+        {
+          "id": "switchbot-lock-ultra",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "security": 8.0,
+            "access": 9.0,
+            "smartHome": 8.4,
+            "value": 9.2,
+            "install": 9.4
+          }
+        },
+        {
+          "id": "eufy-smart-lock-e130",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "security": 8.4,
+            "access": 8.6,
+            "smartHome": 8.2,
+            "value": 9.0,
+            "install": 8.4
+          }
+        },
+        {
+          "id": "level-lock-plus",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "security": 8.2,
+            "access": 7.6,
+            "smartHome": 8.8,
+            "value": 7.6,
+            "install": 8.6
+          }
+        },
+        {
+          "id": "august-wifi-smart-lock-4th-gen",
+          "rank": 8,
+          "score": 8.1,
+          "scores": {
+            "security": 7.8,
+            "access": 7.8,
+            "smartHome": 8.6,
+            "value": 8.4,
+            "install": 9.2
+          }
+        },
+        {
+          "id": "wyze-lock-bolt",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "security": 7.6,
+            "access": 8.4,
+            "smartHome": 7.2,
+            "value": 9.6,
+            "install": 8.4
+          }
+        },
+        {
+          "id": "lockly-vision-elite",
+          "rank": 10,
+          "score": 7.7,
+          "scores": {
+            "security": 8.6,
+            "access": 8.8,
+            "smartHome": 7.4,
+            "value": 6.8,
+            "install": 7.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "IFA 2026: Here's what to expect from the tech show",
+          "url": "https://www.androidauthority.com/what-to-expect-ifa-2026-3701444/",
+          "source": "Android Authority"
+        },
+        {
+          "title": "What the FCC Ban on Foreign-Made Robot Vacuums Means for U.S. Consumers",
+          "url": "https://www.consumerreports.org/appliances/vacuum-cleaners/foreign-made-robot-vacuums-fcc-ban-a9842224597/",
+          "source": "Consumer Reports"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "A smart lock has to be a good lock first, and that is the part most buying guides skip past on the way to app features. Check the ANSI/BHMA grade before anything else. Grade 1 is commercial duty, Grade 2 covers residential use well, and a lock without a stated grade has told you what it is. Then check the mechanical override, because every smart lock eventually faces a dead battery, a failed radio, or a phone you left somewhere, and a physical key or a keypad backup is what stops that from being a locksmith call. The regulatory environment around connected home devices in the US has tightened noticeably this year, with the FCC citing the risk of networked home devices being used for surveillance or remote control when it restricted foreign-made mobile robots. For a lock, that argues for choosing products that work locally through Matter or Thread without depending on a manufacturer's cloud staying online. The Aqara Smart Lock U400 holds first at 9.5 because it combines a solid mechanical lock body with Matter support, local operation, and multiple entry methods including a physical key. The Schlage Encode Plus at 9.1 is the strongest on lock hardware pedigree.",
+          "highlights": [
+            {
+              "title": "Check the ANSI/BHMA grade before you look at any app feature",
+              "body": "Grade 1 is commercial duty and Grade 2 covers residential use well. A lock without a stated grade has answered the question by omission. Smart features are worth nothing on a lock body that fails a basic force test, and this specification is the one that determines whether it is actually securing your door."
+            },
+            {
+              "title": "Confirm the mechanical override before you buy",
+              "body": "Every smart lock eventually meets a dead battery, a failed radio, or a phone left somewhere. A physical key or a reliable keypad backup is what turns that from a locksmith call into a minor annoyance. Verify what happens in each of those three failure cases before you commit."
+            },
+            {
+              "title": "Prefer local operation through Matter or Thread",
+              "body": "The FCC cited the risk of networked home devices being used for surveillance or remote control when restricting foreign-made mobile robots this year. A lock that operates locally keeps working regardless of a manufacturer's cloud, its business decisions, or policy changes. That independence is worth prioritising on a device securing your door."
+            },
+            {
+              "title": "Aqara U400 combines a real lock body with local Matter control",
+              "body": "A solid mechanical lock, Matter support, local operation without cloud dependence, and multiple entry methods including a physical key. At 9.5 it gets both halves right, and getting both halves right is genuinely uncommon in this category. This is the lock I recommend most often."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "智慧鎖首先必須是一把好鎖，而這正是多數購買指南急著跳過、直接去講 App 功能的部分。\n\n任何事情之前，先看 ANSI/BHMA 等級。Grade 1 是商用等級，Grade 2 足以涵蓋住宅使用，而一把不標示等級的鎖，已經用省略回答了這個問題。\n\n接著確認機械備援，因為每一把智慧鎖遲早都會遇到電池沒電、無線模組故障，或手機忘在某處，而一把實體鑰匙或可靠的密碼鍵盤備援，就是讓這件事不必變成叫鎖匠的關鍵。\n\n美國對連網家用裝置的法規環境今年明顯收緊，FCC 在限制外國製造移動機器人時，就引述了連網家用裝置可能被用於監視或遠端控制的風險。對一把鎖來說，這意味著應該選擇能透過 Matter 或 Thread 在本地運作、不依賴廠商雲端持續上線的產品。\n\nAqara Smart Lock U400 以 9.5 守住第一，因為它把紮實的機械鎖體、Matter 支援、本地運作，以及包含實體鑰匙在內的多種進入方式結合在一起。\n\n9.1 分的 Schlage Encode Plus 在鎖具本業的血統上最強。",
+          "highlights": [
+            {
+              "title": "看任何 App 功能之前，先看 ANSI/BHMA 等級",
+              "body": "Grade 1 是商用等級，Grade 2 足以涵蓋住宅使用。一把不標示等級的鎖，已經用省略回答了這個問題。當鎖體通不過基本破壞測試時，智慧功能一文不值，而這項規格才決定它到底有沒有在保護你家大門。"
+            },
+            {
+              "title": "買之前先確認機械備援方式",
+              "body": "每一把智慧鎖遲早會遇到電池沒電、無線模組故障，或手機忘在某處。一把實體鑰匙或可靠的密碼鍵盤備援，能把這件事從叫鎖匠變成小小的麻煩。下手之前，把這三種故障情境分別會發生什麼事都確認清楚。"
+            },
+            {
+              "title": "優先選擇透過 Matter 或 Thread 本地運作的產品",
+              "body": "FCC 今年在限制外國製造移動機器人時，引述了連網家用裝置可能被用於監視或遠端控制的風險。一把能在本地運作的鎖，不管廠商雲端、商業決策或政策怎麼變，都繼續運作。在一台守著你家大門的裝置上，這份獨立性值得優先考量。"
+            },
+            {
+              "title": "Aqara U400 把真正的鎖體跟本地 Matter 控制結合在一起",
+              "body": "紮實的機械鎖、Matter 支援、不依賴雲端的本地運作，加上包含實體鑰匙在內的多種進入方式。9.5 分，它兩半都做對了，而在這個類別裡兩半都做對其實很罕見。這是我最常推薦的一把鎖。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
