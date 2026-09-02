@@ -116,6 +116,22 @@
       }
     },
     {
+      "id": "1md-livermd",
+      "name": "1MD Nutrition LiverMD",
+      "brand": "1MD Nutrition",
+      "url": "https://1md.org/product/livermd",
+      "i18n": {
+        "en": {
+          "description": "A six-active liver stack led by Siliphos silybin phytosome, paired with NAC, alpha lipoic acid, tocotrienols, selenium and 15 mg zinc in a 30-day bottle.",
+          "priceRange": "$49 / 60 capsules"
+        },
+        "zh-tw": {
+          "description": "一瓶包辦六種護肝成分，主打 Siliphos 水飛薊賓磷脂複合物，再搭 NAC、硫辛酸、生育三烯酚、硒跟 15 mg 鋅，60 顆吃一個月。",
+          "priceRange": "約 NT$1,540"
+        }
+      }
+    },
+    {
       "id": "bodybio-tudca",
       "name": "BodyBio TUDCA",
       "brand": "BodyBio",
@@ -2657,8 +2673,20 @@
           }
         },
         {
-          "id": "bodybio-tudca",
+          "id": "1md-livermd",
           "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "actives": 8.6,
+            "bioavailability": 9.2,
+            "evidence": 8.4,
+            "testing": 8.2,
+            "value": 7.4
+          }
+        },
+        {
+          "id": "bodybio-tudca",
+          "rank": 8,
           "score": 8.2,
           "scores": {
             "actives": 8.8,
@@ -2670,7 +2698,7 @@
         },
         {
           "id": "life-extension-nac-600",
-          "rank": 8,
+          "rank": 9,
           "score": 8.1,
           "scores": {
             "actives": 8.4,
@@ -2682,7 +2710,7 @@
         },
         {
           "id": "nutricost-milk-thistle-250",
-          "rank": 9,
+          "rank": 10,
           "score": 7.8,
           "scores": {
             "actives": 7.8,
@@ -2694,7 +2722,7 @@
         },
         {
           "id": "toniiq-milk-thistle",
-          "rank": 10,
+          "rank": 11,
           "score": 7.6,
           "scores": {
             "actives": 8.0,
@@ -2706,7 +2734,7 @@
         },
         {
           "id": "wowmd-liver-support",
-          "rank": 11,
+          "rank": 12,
           "score": 6.8,
           "scores": {
             "actives": 6.4,
