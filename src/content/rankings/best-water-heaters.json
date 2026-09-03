@@ -1,0 +1,540 @@
+{
+  "slug": "best-water-heaters",
+  "category": "Home Appliances",
+  "scoreFactors": {
+    "whoBuildsIt": "Manufacturer Transparency",
+    "installedCost": "Installed Cost After the 25C Credit Expired",
+    "runningCost": "Annual Operating Cost",
+    "serviceability": "Parts Availability & Serviceability",
+    "warranty": "Warranty & Tank Protection",
+    "recovery": "Recovery Rate & Household Fit",
+    "retrofit": "Retrofit Difficulty",
+    "leakProtection": "Leak Detection & Water-Damage Protection"
+  },
+  "i18n": {
+    "en": {
+      "title": "Best Water Heaters 2026: Ranked by Who Actually Builds Each Label",
+      "description": "Thirteen tank, hybrid and tankless units ranked on manufacturer transparency, real installed cost now that the 25C credit is gone, and the emergency premium you skip by replacing early."
+    },
+    "zh-tw": {
+      "title": "2026 最佳熱水器排行榜：先看誰真的在造這台機器",
+      "description": "13 款儲熱式、熱泵與即熱式熱水器，比製造商透明度、抵稅額失效後的真實安裝總價，還有提前換機能省下的急件溢價。"
+    }
+  },
+  "competitors": [
+    {
+      "id": "rheem-proterra-hybrid-50",
+      "name": "ProTerra Hybrid Electric 50 Gal (XE50T10HS45U1)",
+      "brand": "Rheem",
+      "url": "https://www.rheem.com/products/residential/water-heating/heat-pump-water-heaters/",
+      "i18n": {
+        "en": {
+          "description": "A 50 gallon heat pump tank with a built-in leak sensor and automatic water shutoff, a 10 year warranty, and a compressor that carries the whole load in efficiency mode while two 4,500 watt elements cover a run of back-to-back showers.",
+          "priceRange": "$1,500-$2,100"
+        },
+        "zh-tw": {
+          "description": "50 加侖熱泵儲熱桶，內建漏水偵測會自動關掉進水，保固 10 年，平常單靠壓縮機加熱，家裡連續洗澡時再由兩支 4,500 瓦電熱管補上。",
+          "priceRange": "約 NT$47,000-66,000"
+        }
+      }
+    },
+    {
+      "id": "ao-smith-signature-900-hybrid",
+      "name": "Signature 900 Smart Hybrid 50 Gal",
+      "brand": "A.O. Smith",
+      "url": "https://www.aosmithatlowes.com/products/water-heaters/hybrid-electric-heat-pumps/",
+      "i18n": {
+        "en": {
+          "description": "A.O. Smith rates this one to cut annual water heating energy by up to 76 percent against a standard electric tank, roughly $385 a year, and ships it grid capable with leak detection, automatic shutoff and a 10 year warranty.",
+          "priceRange": "$1,800-$2,300"
+        },
+        "zh-tw": {
+          "description": "A.O. Smith 官方標示比一般電熱水器省下最多 76% 的加熱電費，一年約 385 美元，機器支援電網調度，附漏水偵測與自動斷水，保固 10 年。",
+          "priceRange": "約 NT$56,000-72,000"
+        }
+      }
+    },
+    {
+      "id": "bradford-white-aerotherm-re2h50",
+      "name": "AeroTherm RE2H50 Heat Pump 50 Gal",
+      "brand": "Bradford White",
+      "url": "https://www.bradfordwhite.com/heat-pump-water-heaters/",
+      "i18n": {
+        "en": {
+          "description": "The heat pump tank Bradford White sells only through licensed plumbers, with a Vitraglas lining carrying a Microban additive on the tank surface, efficiency up to 3.1 EF and optional Bradford White Connect for scheduling and energy tracking.",
+          "priceRange": "$2,100-$2,800"
+        },
+        "zh-tw": {
+          "description": "Bradford White 只透過有牌照的水電師傅賣的熱泵桶，內膽 Vitraglas 玻璃襯裡加了 Microban 添加劑，能效最高 3.1 EF，可加購 Bradford White Connect 做排程與用電追蹤。",
+          "priceRange": "約 NT$65,000-87,000"
+        }
+      }
+    },
+    {
+      "id": "rheem-performance-platinum-gas",
+      "name": "Performance Platinum 50 Gal Natural Gas (XG50T12HN38U2)",
+      "brand": "Rheem",
+      "url": "https://www.rheem.com/products/residential/water-heating/tank/",
+      "i18n": {
+        "en": {
+          "description": "The 12 year 38,000 BTU ultra low NOx gas tank that Home Depot stocks in volume, which is exactly why a plumber can put one in your basement the same morning you call.",
+          "priceRange": "$900-$1,200"
+        },
+        "zh-tw": {
+          "description": "12 年保固、38,000 BTU 的超低氮氧化物瓦斯儲熱式熱水器，Home Depot 常態備貨量很大，所以你早上打電話，師傅當天就裝得到。",
+          "priceRange": "約 NT$28,000-37,000"
+        }
+      }
+    },
+    {
+      "id": "rinnai-rsc199in",
+      "name": "SENSEI RSC199iN Smart-Circ Condensing Tankless",
+      "brand": "Rinnai",
+      "url": "https://www.rinnai.us/residential/product-detail/rsc199in",
+      "i18n": {
+        "en": {
+          "description": "A 199,000 BTU condensing tankless rated at 0.93 UEF and 11 GPM, with a built-in recirculation pump, thermal bypass valve and a 15 year heat exchanger warranty in residential use.",
+          "priceRange": "$1,500-$2,100"
+        },
+        "zh-tw": {
+          "description": "199,000 BTU 冷凝式即熱型，UEF 0.93、最大 11 GPM，內建循環泵與熱旁通閥，家用熱交換器保固 15 年。",
+          "priceRange": "約 NT$47,000-66,000"
+        }
+      }
+    },
+    {
+      "id": "bradford-white-defender-gas",
+      "name": "Defender Safety System Atmospheric Vent Gas 50 Gal",
+      "brand": "Bradford White",
+      "url": "https://www.bradfordwhite.com/gas-water-heaters/",
+      "i18n": {
+        "en": {
+          "description": "The plain atmospheric vent gas tank plumbers keep on the truck, built around the Defender flammable vapor sensor and a Vitraglas lined tank, sold through wholesale only.",
+          "priceRange": "$1,100-$1,600"
+        },
+        "zh-tw": {
+          "description": "水電師傅車上常備的自然排氣瓦斯儲熱桶，主打 Defender 可燃氣體感測與 Vitraglas 玻璃襯裡內膽，只走批發通路。",
+          "priceRange": "約 NT$34,000-50,000"
+        }
+      }
+    },
+    {
+      "id": "ao-smith-proline-xe-voltex",
+      "name": "ProLine XE Voltex Hybrid 50 Gal",
+      "brand": "A.O. Smith",
+      "url": "https://www.hotwater.com/residential/water-heaters/hybrid-electric-heat-pump/",
+      "i18n": {
+        "en": {
+          "description": "The wholesale-channel twin of the Signature 900, rated by A.O. Smith at more than three times the efficiency of a standard electric tank and sold through plumbing supply houses with contractor warranty terms.",
+          "priceRange": "$1,900-$2,600"
+        },
+        "zh-tw": {
+          "description": "Signature 900 的批發通路孿生機種，A.O. Smith 標示能效是一般電熱水器的三倍以上，走水電材料行通路，保固條款按承包商版本走。",
+          "priceRange": "約 NT$59,000-81,000"
+        }
+      }
+    },
+    {
+      "id": "navien-npe-240a2",
+      "name": "NPE-240A2 Condensing Tankless",
+      "brand": "Navien",
+      "url": "https://www.navieninc.com/products/npe-240a2",
+      "i18n": {
+        "en": {
+          "description": "A 199,000 BTU condensing tankless rated at 0.95 UEF and 11.2 GPM, with a built-in recirculation pump and buffer tank that shortens the wait at the tap on a dedicated return line.",
+          "priceRange": "$1,200-$2,300"
+        },
+        "zh-tw": {
+          "description": "199,000 BTU 冷凝式即熱型，UEF 0.95、最大 11.2 GPM，內建循環泵與緩衝水箱，配專用回水管時出水等待時間會明顯縮短。",
+          "priceRange": "約 NT$37,000-72,000"
+        }
+      }
+    },
+    {
+      "id": "rinnai-ru199in",
+      "name": "SENSEI RU199iN Condensing Tankless",
+      "brand": "Rinnai",
+      "url": "https://www.rinnai.us/residential/product-detail/ru199in",
+      "i18n": {
+        "en": {
+          "description": "The same 199,000 BTU SENSEI chassis without the onboard recirculation hardware, which makes it the right pick when the fixtures sit close to the unit.",
+          "priceRange": "$1,200-$1,700"
+        },
+        "zh-tw": {
+          "description": "同一具 199,000 BTU SENSEI 機體，拿掉內建循環泵那組硬體，衛浴離機器很近的房子選這台剛剛好。",
+          "priceRange": "約 NT$37,000-53,000"
+        }
+      }
+    },
+    {
+      "id": "stiebel-eltron-accelera-300e",
+      "name": "Accelera 300 E 80 Gal",
+      "brand": "Stiebel Eltron",
+      "url": "https://www.stiebel-eltron-usa.com/products/accelera-heat-pump-water-heaters",
+      "i18n": {
+        "en": {
+          "description": "An 80 gallon heat pump tank with an energy factor of 3.39, the highest number on this list, sized so the compressor covers a full day of household demand with the elements idle.",
+          "priceRange": "$2,200-$2,600"
+        },
+        "zh-tw": {
+          "description": "80 加侖熱泵桶，能效係數 3.39，這份榜單裡最高的一台，桶容設計成讓壓縮機單獨扛完一整天的熱水量，電熱管幾乎不用出手。",
+          "priceRange": "約 NT$69,000-81,000"
+        }
+      }
+    },
+    {
+      "id": "state-proline-gas",
+      "name": "ProLine Atmospheric Vent Gas 50 Gal",
+      "brand": "State",
+      "url": "https://www.statewaterheaters.com/residential/water-heaters/gas-tank/",
+      "i18n": {
+        "en": {
+          "description": "A.O. Smith builds this one and sells it under the State name through wholesale, which is the cheapest way to get an A.O. Smith gas tank with a licensed plumber attached to it.",
+          "priceRange": "$800-$1,200"
+        },
+        "zh-tw": {
+          "description": "這台由 A.O. Smith 製造、掛 State 品牌走批發通路，是把 A.O. Smith 瓦斯儲熱桶連同持照師傅一起買回家最便宜的路徑。",
+          "priceRange": "約 NT$25,000-37,000"
+        }
+      }
+    },
+    {
+      "id": "ao-smith-proline-electric",
+      "name": "ProLine Standard Electric 50 Gal",
+      "brand": "A.O. Smith",
+      "url": "https://www.hotwater.com/residential/water-heaters/electric-tank/",
+      "i18n": {
+        "en": {
+          "description": "A plain two-element electric tank with no compressor, no app and no clearance requirements, which is what a tight utility closet with 30 inches of headroom actually accepts.",
+          "priceRange": "$600-$900"
+        },
+        "zh-tw": {
+          "description": "最單純的雙電熱管儲熱桶，沒有壓縮機、沒有 App、也沒有進氣空間要求，機房只有 76 公分淨高的那種格局就只塞得下這種機器。",
+          "priceRange": "約 NT$19,000-28,000"
+        }
+      }
+    },
+    {
+      "id": "ecosmart-eco-27",
+      "name": "ECO 27 Electric Tankless",
+      "brand": "EcoSmart",
+      "url": "https://www.ecosmartus.com/product/ecosmart-ECO-27-27-kW-Electric-Tankless-Water-Heater",
+      "i18n": {
+        "en": {
+          "description": "A 27 kilowatt electric tankless from Rheem-owned EcoSmart that delivers 2.7 to 6.5 GPM depending on inlet temperature and carries a lifetime limited warranty on the unit.",
+          "priceRange": "$330-$500"
+        },
+        "zh-tw": {
+          "description": "Rheem 旗下 EcoSmart 的 27 千瓦電熱即熱機，依進水溫度不同出水量落在每分鐘 2.7 到 6.5 加侖，機體本身給終身有限保固。",
+          "priceRange": "約 NT$10,000-16,000"
+        }
+      }
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-09-03",
+      "rankings": [
+        {
+          "id": "rheem-proterra-hybrid-50",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "whoBuildsIt": 9.4,
+            "installedCost": 8.8,
+            "runningCost": 9.7,
+            "serviceability": 9.4,
+            "warranty": 9.0,
+            "recovery": 8.6,
+            "retrofit": 8.0,
+            "leakProtection": 9.6
+          }
+        },
+        {
+          "id": "ao-smith-signature-900-hybrid",
+          "rank": 2,
+          "score": 8.9,
+          "scores": {
+            "whoBuildsIt": 8.8,
+            "installedCost": 8.4,
+            "runningCost": 9.6,
+            "serviceability": 9.0,
+            "warranty": 9.0,
+            "recovery": 8.8,
+            "retrofit": 7.9,
+            "leakProtection": 9.4
+          }
+        },
+        {
+          "id": "bradford-white-aerotherm-re2h50",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "whoBuildsIt": 9.8,
+            "installedCost": 7.6,
+            "runningCost": 9.5,
+            "serviceability": 9.2,
+            "warranty": 9.2,
+            "recovery": 8.8,
+            "retrofit": 7.8,
+            "leakProtection": 8.4
+          }
+        },
+        {
+          "id": "rheem-performance-platinum-gas",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "whoBuildsIt": 9.2,
+            "installedCost": 9.4,
+            "runningCost": 7.2,
+            "serviceability": 9.5,
+            "warranty": 9.0,
+            "recovery": 9.0,
+            "retrofit": 9.4,
+            "leakProtection": 7.0
+          }
+        },
+        {
+          "id": "rinnai-rsc199in",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "whoBuildsIt": 9.3,
+            "installedCost": 7.2,
+            "runningCost": 8.8,
+            "serviceability": 8.6,
+            "warranty": 9.4,
+            "recovery": 9.6,
+            "retrofit": 6.6,
+            "leakProtection": 8.6
+          }
+        },
+        {
+          "id": "bradford-white-defender-gas",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "whoBuildsIt": 9.8,
+            "installedCost": 8.6,
+            "runningCost": 7.2,
+            "serviceability": 8.6,
+            "warranty": 8.0,
+            "recovery": 8.8,
+            "retrofit": 9.2,
+            "leakProtection": 7.0
+          }
+        },
+        {
+          "id": "ao-smith-proline-xe-voltex",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "whoBuildsIt": 9.0,
+            "installedCost": 7.0,
+            "runningCost": 9.5,
+            "serviceability": 8.8,
+            "warranty": 8.6,
+            "recovery": 8.6,
+            "retrofit": 7.2,
+            "leakProtection": 7.8
+          }
+        },
+        {
+          "id": "navien-npe-240a2",
+          "rank": 8,
+          "score": 8.2,
+          "scores": {
+            "whoBuildsIt": 8.6,
+            "installedCost": 7.6,
+            "runningCost": 8.8,
+            "serviceability": 7.8,
+            "warranty": 8.8,
+            "recovery": 9.5,
+            "retrofit": 6.6,
+            "leakProtection": 8.2
+          }
+        },
+        {
+          "id": "rinnai-ru199in",
+          "rank": 9,
+          "score": 8.1,
+          "scores": {
+            "whoBuildsIt": 9.3,
+            "installedCost": 8.0,
+            "runningCost": 8.4,
+            "serviceability": 8.6,
+            "warranty": 9.0,
+            "recovery": 9.2,
+            "retrofit": 6.0,
+            "leakProtection": 6.4
+          }
+        },
+        {
+          "id": "stiebel-eltron-accelera-300e",
+          "rank": 10,
+          "score": 7.9,
+          "scores": {
+            "whoBuildsIt": 9.2,
+            "installedCost": 6.6,
+            "runningCost": 9.8,
+            "serviceability": 6.8,
+            "warranty": 8.8,
+            "recovery": 8.4,
+            "retrofit": 6.2,
+            "leakProtection": 7.0
+          }
+        },
+        {
+          "id": "state-proline-gas",
+          "rank": 11,
+          "score": 7.8,
+          "scores": {
+            "whoBuildsIt": 7.6,
+            "installedCost": 9.0,
+            "runningCost": 7.0,
+            "serviceability": 8.4,
+            "warranty": 7.0,
+            "recovery": 8.4,
+            "retrofit": 9.2,
+            "leakProtection": 6.0
+          }
+        },
+        {
+          "id": "ao-smith-proline-electric",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "whoBuildsIt": 8.4,
+            "installedCost": 9.6,
+            "runningCost": 5.4,
+            "serviceability": 8.6,
+            "warranty": 7.2,
+            "recovery": 6.6,
+            "retrofit": 9.4,
+            "leakProtection": 6.0
+          }
+        },
+        {
+          "id": "ecosmart-eco-27",
+          "rank": 13,
+          "score": 6.2,
+          "scores": {
+            "whoBuildsIt": 6.0,
+            "installedCost": 8.6,
+            "runningCost": 6.2,
+            "serviceability": 6.4,
+            "warranty": 7.0,
+            "recovery": 4.6,
+            "retrofit": 3.8,
+            "leakProtection": 6.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Energy Efficient Home Improvement Credit",
+          "url": "https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit",
+          "source": "IRS"
+        },
+        {
+          "title": "Federal 25C Heat Pump Water Heater Tax Credits",
+          "url": "https://homes.rewiringamerica.org/federal-incentives/25c-heat-pump-water-heater-tax-credits",
+          "source": "Rewiring America"
+        },
+        {
+          "title": "About Rheem",
+          "url": "https://www.rheem.com/about/",
+          "source": "Rheem Manufacturing"
+        },
+        {
+          "title": "Rheem Manufacturing Company",
+          "url": "https://en.wikipedia.org/wiki/Rheem_Manufacturing_Company",
+          "source": "Wikipedia"
+        },
+        {
+          "title": "AO Smith Raises Water Heater Prices 7% on June 22",
+          "url": "https://www.thehardwirenews.com/ao-smith-water-heater-price-increase-june-22-2026/",
+          "source": "The Hardwire News"
+        },
+        {
+          "title": "Heat Pump Water Heaters",
+          "url": "https://www.bradfordwhite.com/heat-pump-water-heaters/",
+          "source": "Bradford White"
+        },
+        {
+          "title": "Water Heaters",
+          "url": "https://www.energystar.gov/products/water_heaters",
+          "source": "ENERGY STAR"
+        },
+        {
+          "title": "A. O. Smith Recalls Ultra Low NOx Water Heaters Due to Fire Hazard",
+          "url": "https://www.cpsc.gov/Recalls/2019/A-O-Smith-Recalls-Ultra-Low-NOx-Water-Heaters-Due-to-Fire-Hazard",
+          "source": "U.S. CPSC"
+        },
+        {
+          "title": "SENSEI RSC199iN Tankless Water Heater",
+          "url": "https://www.rinnai.us/residential/product-detail/rsc199in",
+          "source": "Rinnai America"
+        },
+        {
+          "title": "Federal Tax Credit for Gas Tankless Water Heaters",
+          "url": "https://www.hotwater.com/water-heater-rebates/federal-tax-credit-for-gas-tankless-water-heaters.html",
+          "source": "A. O. Smith"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "I rank water heaters around the day you will actually buy one, and for most households that is the day the old one fails. That single fact sets my top recommendation: replace a tank past ten years old on a weekday morning of your own choosing. Emergency dispatch carries a 25 to 50 percent premium on labor, and on a standard 50 gallon swap that works out to roughly $300 to $1,000 of pure timing penalty. Same day replacement runs $1,500 to $3,500, while a planned job sits closer to the $1,347 national average. The pages that rank highest for this search belong to plumbing companies whose revenue comes from that 2 a.m. call, so I will say the cheap version out loud.\n\nThe second thing that moved this year is federal money. Section 25C expired on December 31, 2025 under the One Big Beautiful Bill Act signed on July 4, 2025, with no transition period. Heat pump water heaters carried the highest cap in that program, 30 percent of project cost up to $2,000. Work completed through the end of 2025 remains claimable. Anything installed in 2026 pays full freight, which pulls gas tanks back into contention for households that were on the fence. HEEHRA point of sale rebates still operate in the states that launched them, so check your state energy office before you write off the incentive entirely.\n\nPrices climbed on top of that. A.O. Smith raised water heater prices 7 percent effective June 22, 2026, citing steel running about 15 percent above 2025 levels and Section 301 tariff exposure.\n\nThird, know who built the thing. A.O. Smith owns State, American, Reliance and U.S. Craftmaster and also owns Lochinvar. Rheem owns Ruud, Richmond, EcoSense, Eemax and EcoSmart. Bradford White builds under its own name and sells through licensed plumbers. While researching this I hit two published brand charts that disagreed about who builds State and American, which is a fair measure of how much the retail label tells you. Buy the label the manufacturer signs.",
+          "highlights": [
+            {
+              "title": "Replacing early is worth $300 to $1,000, and every plumbing site has a reason to stay quiet about it",
+              "body": "Emergency dispatch adds 25 to 50 percent to labor rates, and same day replacement of a standard 50 gallon tank runs $1,500 to $3,500 against a planned national average around $1,347. Weekday business hours land at $1,200 to $2,500, weekends at $1,500 to $3,200, and a holiday or after midnight call starts at $1,800. Those spreads are the whole argument. A water heater in its eleventh year is a scheduling decision you still control, and the moment it lets go you are paying whatever the first available truck charges. I would rather you spend a Tuesday morning on this than a Sunday night."
+            },
+            {
+              "title": "The Rheem ProTerra takes first place for what it does at the moment the tank gives out",
+              "body": "Water heater failure is a leading source of indoor water damage, average claims run around $4,444, and about 69 percent of failures show up as a slow leak or a burst tank. On units past ten years old, 60 to 70 percent of failures come with visible water. The ProTerra ships with a leak sensor and automatic water shutoff as standard equipment on a 10 year warranty, in the cheapest widely stocked hybrid on the market at $1,500 to $2,100. A.O. Smith matches that feature set on the Signature 900 for a few hundred dollars more. Both of those beat paying for a hardwood floor."
+            },
+            {
+              "title": "Bradford White earns its premium by keeping its name off everyone else's product",
+              "body": "A.O. Smith and Rheem both run large private label operations, which is why the GE and Kenmore units on a retail floor trace back to one of them and why published ownership charts contradict each other on the details. Bradford White sells only Bradford White, only through licensed plumbers and wholesale supply houses. That policy is the reason a Bradford White model number resolves cleanly to one factory, one spec sheet and one warranty. The AeroTherm RE2H50 carries a Vitraglas lining with a Microban additive and efficiency up to 3.1 EF, and the Defender gas tank is what your plumber already keeps on the truck."
+            },
+            {
+              "title": "With 25C dead, a gas tank is the honest answer for a lot of households in 2026",
+              "body": "A heat pump water heater used to arrive with up to $2,000 of federal money behind it, which closed the gap against a $900 gas tank almost entirely. That credit expired on December 31, 2025 with no phase out. Today the Rheem Performance Platinum gas tank installs for $900 to $1,200 in the box, drops into the same footprint and vent as the unit you are pulling, and a plumber can source one the same morning. If your utility still runs an electrification rebate the hybrid math holds. If it does not, and your electric rate is high, I rank the gas tank fourth on this list for a reason."
+            },
+            {
+              "title": "EcoSmart ECO 27 is a Rheem product, and it needs a service upgrade most homes will not do",
+              "body": "Rheem acquired Eemax in December 2015, and EcoSmart sits in the same portfolio, so the $330 tankless on Amazon and the $2,000 ProTerra come from the same parent company. The price gap is real, and so is the reason for it. A 27 kilowatt unit at 240 volts pulls about 112 amps, which means three double pole 40 amp breakers and, in practice, a 150 amp or larger service with panel space to spare. Add $1,500 to $4,000 for a panel upgrade and the cheapest unit on this list stops being cheap. It earns its place at the bottom on retrofit difficulty alone."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "熱水器這題我的排序邏輯很直接，你要在它還會動的時候把它換掉。\n\n美國急件更換的工錢比預約多收 25% 到 50%，一台標準 50 加侖的更換換算下來要多付 300 到 1,000 美元，大概就是一萬到三萬台幣，這筆錢純粹是買一個今天就有熱水。同一件工程排時間做，全美均價落在 1,347 美元，當天急件則是 1,500 到 3,500 美元。\n\n老實說，這個關鍵字搜尋結果前幾名幾乎都是水電行自己經營的部落格，他們的營收就靠那通半夜打進來的電話，所以提前換比較便宜這句話，由我來講比較合適。\n\n第二件今年變動最大的事是補助。美國聯邦的 25C 抵稅額在 2025 年 12 月 31 日到期，法源是 2025 年 7 月 4 日簽署的 One Big Beautiful Bill Act，完全沒有過渡條款。熱泵熱水器原本可以抵工程款的 30%、上限 2,000 美元，是整個方案裡額度最高的一級。2025 年底前完工的安裝還能申報，2026 年裝的就是付原價，這讓瓦斯儲熱式在原本猶豫的家庭那邊重新變得有競爭力。HEEHRA 的銷售點折抵在有開辦的州仍然運作，決定之前先查一下你所在州的能源辦公室。\n\n價格本身也在漲。A.O. Smith 自 2026 年 6 月 22 日起全線調漲 7%，理由是鋼材比 2025 年貴了大約 15%，再加上 Section 301 關稅。\n\n第三件事，先搞清楚這台機器到底是誰做的。A.O. Smith 旗下有 State、American、Reliance 與 U.S. Craftmaster，另外還有 Lochinvar。Rheem 旗下有 Ruud、Richmond、EcoSense、Eemax 跟 EcoSmart。Bradford White 只掛自己的名字，只透過持照水電與批發商賣。我查資料的時候撞到兩份互相矛盾的品牌歸屬表，光是 State 跟 American 歸誰就寫得不一樣，這件事本身就說明了零售標籤能給你多少資訊。買原廠自己簽名的那張標籤。\n\n最後給台灣讀者一句話，這份榜單看的是美規機型。台灣家庭主流仍然是瓦斯即熱式，林內在兩邊市場都是主力品牌，榜上那幾台熱泵桶在台灣沒有官方代理，價格欄位是換算後的估值。",
+          "highlights": [
+            {
+              "title": "提前換值一萬到三萬台幣，而每一家水電行的部落格都有理由不告訴你",
+              "body": "急件出勤的工錢會往上加 25% 到 50%，標準 50 加侖當天換是 1,500 到 3,500 美元，排時間做的全美均價則在 1,347 美元左右。平日上班時段 1,200 到 2,500 美元，週末 1,500 到 3,200 美元，遇到假日或半夜叫人 1,800 美元起跳。這個價差就是全部的論點。用到第 11 年的熱水器，換機時間還握在你手上，等它自己爆掉那天，你就只能付第一台趕到的車開出來的價錢。我會建議你花一個平日早上處理這件事，週日晚上處理的版本貴很多。"
+            },
+            {
+              "title": "Rheem ProTerra 拿第一，靠的是水桶破掉那一刻它做了什麼",
+              "body": "熱水器故障是室內水損的主要來源之一，每件理賠均值大約 4,444 美元，約 69% 的故障是慢漏或爆裂，用超過十年的機組出事時有 60% 到 70% 伴隨明顯漏水。ProTerra 標配漏水感測與自動斷水，保固 10 年，而它同時是市面上常態備貨的熱泵機裡最便宜的一台，1,500 到 2,100 美元。A.O. Smith 的 Signature 900 有同一組功能，多花幾百美元。這兩台的價差，怎麼算都比重鋪一次木地板划算。"
+            },
+            {
+              "title": "Bradford White 貴得有道理，因為它不幫別人做貼牌",
+              "body": "A.O. Smith 跟 Rheem 都有龐大的貼牌代工業務，所以你在零售賣場看到的 GE 與 Kenmore 機型追根究柢都出自這兩家，網路上流傳的品牌歸屬表也才會互相打架。Bradford White 只賣 Bradford White，只走持照水電與批發材料行。這個政策帶來的好處很具體，一組 Bradford White 型號可以乾淨地對應到一座工廠、一份規格表、一份保固條款。AeroTherm RE2H50 用的是加了 Microban 添加劑的 Vitraglas 玻璃襯裡內膽，能效最高 3.1 EF，而 Defender 瓦斯桶就是你家師傅車上本來就有的那台。"
+            },
+            {
+              "title": "25C 抵稅額消失之後，2026 年瓦斯儲熱式對很多家庭是誠實的答案",
+              "body": "熱泵熱水器過去背後有最高 2,000 美元的聯邦補助，這幾乎完全填平了它跟一台 900 美元瓦斯桶之間的價差。那筆抵稅額在 2025 年 12 月 31 日直接結束，沒有遞減期。現在 Rheem Performance Platinum 瓦斯桶裸機 900 到 1,200 美元，可以沿用你拆掉那台的擺放位置與排氣管，師傅當天早上就調得到貨。如果你家電力公司還有電氣化補助，熱泵的帳仍然算得過去。如果沒有而且電價又高，那我把瓦斯桶排在第四是有原因的。"
+            },
+            {
+              "title": "EcoSmart ECO 27 是 Rheem 的產品，而它要的電力升級大多數家庭不會做",
+              "body": "Rheem 在 2015 年 12 月併購 Eemax，EcoSmart 在同一個集團裡，所以 Amazon 上那台 330 美元的即熱機跟 2,000 美元的 ProTerra 出自同一家母公司。價差是真的，價差的理由也是真的。27 千瓦的機器在 240 伏特下電流大約 112 安培，代表要拉三組 40 安培雙極斷路器，實務上需要 150 安培以上的總電源而且配電箱還要有空位。加上 1,500 到 4,000 美元的配電箱升級，全榜最便宜的那台就不便宜了。它排最後一名，光是安裝難度這一項就足夠。"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
