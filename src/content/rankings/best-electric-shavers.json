@@ -135,6 +135,22 @@
       }
     },
     {
+      "id": "philips-shaver-7600",
+      "name": "Norelco Shaver 7600 (S7886/84)",
+      "brand": "Philips",
+      "url": "https://www.usa.philips.com/c-p/S7886_84/shaver-series-7000-wet-dry-electric-shaver",
+      "i18n": {
+        "en": {
+          "description": "The mid-price rotary that runs the same SH71 head cassette as Philips models costing twice as much.",
+          "priceRange": "$150-$180"
+        },
+        "zh-tw": {
+          "description": "中價位旋轉式，用的刀頭跟價格兩倍的 Philips 機種是同一顆 SH71。",
+          "priceRange": "約 NT$5,500"
+        }
+      }
+    },
+    {
       "id": "braun-nevo",
       "name": "NEVO",
       "brand": "Braun",
@@ -622,8 +638,23 @@
           }
         },
         {
-          "id": "braun-nevo",
+          "id": "philips-shaver-7600",
           "rank": 8,
+          "score": 8.1,
+          "scores": {
+            "closeness": 8.0,
+            "skinComfort": 9.0,
+            "fiveYearCost": 8.8,
+            "headCost": 8.5,
+            "battery": 8.4,
+            "wetDry": 8.8,
+            "trimmer": 7.6,
+            "build": 8.2
+          }
+        },
+        {
+          "id": "braun-nevo",
+          "rank": 9,
           "score": 8.0,
           "scores": {
             "closeness": 9.5,
@@ -638,7 +669,7 @@
         },
         {
           "id": "panasonic-arc3",
-          "rank": 9,
+          "rank": 10,
           "score": 7.9,
           "scores": {
             "closeness": 8.4,
@@ -653,7 +684,7 @@
         },
         {
           "id": "philips-shaver-5300",
-          "rank": 10,
+          "rank": 11,
           "score": 7.4,
           "scores": {
             "closeness": 7.4,
@@ -668,7 +699,7 @@
         },
         {
           "id": "philips-oneblade-360",
-          "rank": 11,
+          "rank": 12,
           "score": 7.1,
           "scores": {
             "closeness": 7.0,
@@ -683,7 +714,7 @@
         },
         {
           "id": "remington-f5-5800",
-          "rank": 12,
+          "rank": 13,
           "score": 6.9,
           "scores": {
             "closeness": 7.2,
@@ -712,11 +743,21 @@
           "title": "Press releases | IFA Berlin 2026",
           "url": "https://www.ifa-berlin.com/press-releases",
           "source": "IFA Berlin"
+        },
+        {
+          "title": "Best Electric Razor for Men of 2026",
+          "url": "https://www.techgearlab.com/topics/health-fitness/best-electric-razor",
+          "source": "TechGearLab"
+        },
+        {
+          "title": "Norelco Shaver series 7000 Wet & Dry electric shaver S7886/84",
+          "url": "https://www.usa.philips.com/c-p/S7886_84/shaver-series-7000-wet-dry-electric-shaver",
+          "source": "Philips"
         }
       ],
       "i18n": {
         "en": {
-          "commentary": "The Braun Series 9 Pro+ 9577cc holds first at 9.2 and this category deserves a scoring approach nobody else applies: the five-year cost. A shaver is a razor plus a subscription to replacement heads, and a head that costs a substantial amount every eighteen months changes which product is actually cheaper. Braun wins on closeness and skin comfort, and its head replacement cost sits in a reasonable band. The Series 9 also handles a three-day beard without pulling, which is where most foil shavers struggle. Panasonic ARC5 Pro at 8.9 has the fastest motor here and the sharpest blades in the category, and for anyone with coarse hair it delivers the closest shave of any foil shaver. It is slightly less forgiving on sensitive skin, which is why it sits second. The ARC6 at 8.7 adds a sixth blade and I score it below the ARC5 Pro because the additional element adds weight and cost without a proportional improvement. Philips Norelco i9000 Prestige Ultra at 8.6 is the rotary answer and it is the right pick for anyone shaving a jawline with significant contours or shaving a head. Braun Series 7 at 8.5 is the value choice and it is the shaver I recommend most often. Buy replacement heads when they go on offer, because that is where the real spending happens.",
+          "commentary": "The Braun Series 9 Pro+ 9577cc holds first at 9.2 and this category deserves a scoring approach nobody else applies: the five-year cost. A shaver is a razor plus a subscription to replacement heads, and a head that costs a substantial amount every eighteen months changes which product is actually cheaper. Braun wins on closeness and skin comfort, and its head replacement cost sits in a reasonable band. The Series 9 also handles a three-day beard without pulling, which is where most foil shavers struggle. Panasonic ARC5 Pro at 8.9 has the fastest motor here and the sharpest blades in the category, and for anyone with coarse hair it delivers the closest shave of any foil shaver. It is slightly less forgiving on sensitive skin, which is why it sits second. The ARC6 at 8.7 adds a sixth blade and I score it below the ARC5 Pro because the additional element adds weight and cost without a proportional improvement. Philips Norelco i9000 Prestige Ultra at 8.6 is the rotary answer and it is the right pick for anyone shaving a jawline with significant contours or shaving a head. Braun Series 7 at 8.5 is the value choice and it is the shaver I recommend most often. Buy replacement heads when they go on offer, because that is where the real spending happens.\n\nI am adding the Philips Norelco Shaver 7600 at number eight. This list has had an open stretch between the $80 tier and the $200 tier, and the 7600 fills it at $160 with 360-degree flexing heads, SkinIQ motion guidance, and the same SH71 head cassette the pricier Philips models use. That last detail earns it the slot. A cassette costs about $50 and lasts two years, so five years of ownership lands near $270 all in. For a rotary shaver that is the number I care about most, because rotary heads are where the money quietly goes.",
           "highlights": [
             {
               "title": "Five-year cost is the number to compare, not the purchase price",
@@ -733,11 +774,15 @@
             {
               "title": "The Series 7 is the shaver I recommend most often",
               "body": "It delivers most of the Series 9's comfort and closeness at a considerably lower price, with cheaper replacement heads. For a daily shaver on normal skin, spending the difference elsewhere is the better decision."
+            },
+            {
+              "title": "The $160 rotary is now the smartest buy in the Philips line",
+              "body": "The 7600 shares the SH71 head cassette with Philips models that cost twice as much, and cassettes are where a rotary shaver's lifetime cost is decided. Buy the cheaper body, feed it the same heads, and you keep most of the shave quality while spending far less across five years."
             }
           ]
         },
         "zh-tw": {
-          "commentary": "Braun Series 9 Pro+ 9577cc 守第一，9.2 分，而這個類別值得用一個別人不太用的評分角度，五年總成本。\n\n電動刮鬍刀是一台機器加上一份刀頭訂閱，而一顆每一年半就要換、單價不低的刀頭，會直接改變哪一款「其實比較便宜」。Braun 在剃淨度和肌膚舒適度上勝出，刀頭更換成本也落在合理區間。Series 9 對付三天沒刮的鬍子不會扯，而這正是多數網式刮鬍刀會卡住的地方。\n\nPanasonic ARC5 Pro 的 8.9 馬達最快、刀片最銳利，鬍子粗硬的人用它，剃淨度是所有網式機種裡最好的。它對敏感肌比較不寬容，所以排第二。\n\nARC6 的 8.7 多了第六片刀網，我把它排在 ARC5 Pro 之下，因為多出來的那片增加了重量和售價，改善卻不成比例。\n\nPhilips Norelco i9000 Prestige Ultra 的 8.6 是旋轉式的答案，下顎輪廓明顯或要剃光頭的人選它是對的。Braun Series 7 的 8.5 是性價比選擇，也是我最常推薦的那一支。\n\n刀頭有優惠就囤，錢真正花掉的地方是那裡。",
+          "commentary": "Braun Series 9 Pro+ 9577cc 守第一，9.2 分，而這個類別值得用一個別人不太用的評分角度，五年總成本。\n\n電動刮鬍刀是一台機器加上一份刀頭訂閱，而一顆每一年半就要換、單價不低的刀頭，會直接改變哪一款「其實比較便宜」。Braun 在剃淨度和肌膚舒適度上勝出，刀頭更換成本也落在合理區間。Series 9 對付三天沒刮的鬍子不會扯，而這正是多數網式刮鬍刀會卡住的地方。\n\nPanasonic ARC5 Pro 的 8.9 馬達最快、刀片最銳利，鬍子粗硬的人用它，剃淨度是所有網式機種裡最好的。它對敏感肌比較不寬容，所以排第二。\n\nARC6 的 8.7 多了第六片刀網，我把它排在 ARC5 Pro 之下，因為多出來的那片增加了重量和售價，改善卻不成比例。\n\nPhilips Norelco i9000 Prestige Ultra 的 8.6 是旋轉式的答案，下顎輪廓明顯或要剃光頭的人選它是對的。Braun Series 7 的 8.5 是性價比選擇，也是我最常推薦的那一支。\n\n刀頭有優惠就囤，錢真正花掉的地方是那裡。\n\n今天加一台 Philips Norelco Shaver 7600，我放第八。\n\n這份榜單在台幣兩千五到七千之間一直空著一段，7600 剛好補上，台幣五千五上下，360 度浮動刀頭、SkinIQ 動作感應，刀頭用的是跟上面貴機種同一顆 SH71。\n\n老實說，讓我願意給它位置的就是最後那一點。一顆 SH71 大約台幣一千五、撐得住兩年，五年下來機身加刀頭大概台幣九千，這在旋轉式裡算很好看的數字。旋轉式的錢最後都是花在刀頭上，這筆帳先算清楚，用個三五年才不會覺得後面越養越貴。",
           "highlights": [
             {
               "title": "真正該比的數字是五年總成本",
@@ -754,6 +799,10 @@
             {
               "title": "Series 7 是我最常推薦的那一支",
               "body": "用低不少的價格給你 Series 9 大部分的舒適度和剃淨度，刀頭也比較便宜。一般膚質每天刮的人，把差價花在別的地方是更好的決定。"
+            },
+            {
+              "title": "台幣五千五這台，現在是 Philips 線上最聰明的選擇",
+              "body": "7600 用的刀頭跟價格兩倍的 Philips 機種是同一顆 SH71，而旋轉式刮鬍刀一輩子的花費就是由刀頭決定的。買便宜的機身、餵一樣的刀頭，剃鬚體驗你留住了大部分，五年下來的支出卻少一大截。"
             }
           ]
         }
