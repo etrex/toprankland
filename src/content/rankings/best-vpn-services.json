@@ -16352,6 +16352,163 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-04",
+      "rankings": [
+        {
+          "id": "protonvpn",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "mullvad",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (September 2026) — Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "What to expect at IFA 2026: AI everywhere, robots, laptops evolved, smarter homes and more",
+          "url": "https://www.tomsguide.com/tech-events/ifa-2026-what-to-expect",
+          "source": "Tom's Guide"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ProtonVPN holds first at 9.3 and the reason is a combination of properties that very few services can claim together: Swiss jurisdiction with strong privacy law, open source clients that researchers can audit, independently verified no-logs claims, and a free tier with no data cap that is genuinely usable. Most free VPNs monetise your traffic, and Proton funds the free tier from paid subscriptions, which is a fundamentally different business model. Mullvad at 9.2 sits very close and it does one thing better than anyone: it does not want to know who you are. You get an account number in place of an email address, you can pay in cash, and there is no personal information to hand over even if compelled. For anyone whose threat model includes a subpoena, that architecture matters more than server count. NordVPN at 8.8 is the fastest here with the largest network, and its audits are credible. IVPN at 8.6 has excellent transparency. ExpressVPN at 8.5 has the easiest apps. Guidance worth stating clearly: a VPN protects your traffic from your internet provider and from an untrusted network, and it does not make you anonymous. Your logged-in accounts identify you regardless of your IP address. Choose one for the actual threat you are addressing.",
+          "highlights": [
+            {
+              "title": "A VPN hides traffic from your provider and does not make you anonymous",
+              "body": "Your logged-in accounts identify you regardless of your IP address. Choosing a service for the specific threat you actually face produces a better decision than picking whichever markets anonymity hardest."
+            },
+            {
+              "title": "Mullvad holds no personal information at all",
+              "body": "An account number in place of an email, and cash payment accepted, means there is nothing to hand over even under legal compulsion. For anyone whose threat model includes a subpoena, that architecture beats server count."
+            },
+            {
+              "title": "Proton funds its free tier from subscriptions",
+              "body": "Most free VPNs monetise the traffic they carry, which inverts the entire point of using one. Proton pays for its unlimited free tier from paid plans, and that business model is the reason it can be trusted."
+            },
+            {
+              "title": "Independent audits are the only verification available",
+              "body": "A no-logs claim is unverifiable without a third party examining the infrastructure. Every service I rank highly has published audits, and a provider that has never submitted to one is asking for trust it has not earned."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ProtonVPN 守第一，9.3 分，理由是一組很少有服務能同時具備的特質，瑞士法域加上嚴格的隱私法、研究者可稽核的開源用戶端、經獨立驗證的無紀錄政策，還有一個沒有流量上限、真的能用的免費方案。\n\n多數免費 VPN 靠你的流量賺錢，而 Proton 是用付費訂閱補貼免費方案，這是根本不同的商業模式。\n\nMullvad 的 9.2 咬得很近，而且有一件事它做得比誰都好，它不想知道你是誰。你拿到的是一組帳號編號，電子信箱完全不用給，可以用現金付款，就算被強制要求，也沒有個人資料可以交出去。威脅模型包含法院調閱的人，這個架構比伺服器數量重要得多。\n\nNordVPN 的 8.8 是這裡最快的，網路規模最大，稽核報告也可信。IVPN 的 8.6 透明度極佳。ExpressVPN 的 8.5 App 最好上手。\n\n值得講清楚的建議，VPN 保護的是你的流量不被網路業者和不受信任的網路看到，它無法讓你匿名。你登入的帳號本身就會識別你，跟 IP 位址無關。照你實際要處理的威脅來挑。",
+          "highlights": [
+            {
+              "title": "VPN 遮住的是流量，它無法讓你匿名",
+              "body": "你登入的帳號本身就會識別你，跟 IP 位址無關。照你實際面對的威脅來選服務，會做出比「誰的匿名行銷喊得最大聲」更好的決定。"
+            },
+            {
+              "title": "Mullvad 手上完全沒有你的個人資料",
+              "body": "用一組帳號編號取代電子信箱，還接受現金付款，就算面對法律強制也沒有東西可以交出去。威脅模型包含法院調閱的人，這個架構勝過伺服器數量。"
+            },
+            {
+              "title": "Proton 用訂閱收入養免費方案",
+              "body": "多數免費 VPN 靠它承載的流量賺錢，那等於把使用 VPN 的意義整個顛倒過來。Proton 用付費方案支撐無上限免費層，這個商業模式就是它值得信任的理由。"
+            },
+            {
+              "title": "獨立稽核是唯一可得的驗證",
+              "body": "沒有第三方檢視基礎設施，無紀錄政策就是無法驗證的宣稱。我給高分的每一家都有公開稽核報告，而從未接受稽核的業者，是在索取它還沒賺到的信任。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
