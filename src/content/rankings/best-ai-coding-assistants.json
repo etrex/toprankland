@@ -22151,6 +22151,223 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-04",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (September 2026) — Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "What to expect at IFA 2026: AI everywhere, robots, laptops evolved, smarter homes and more",
+          "url": "https://www.tomsguide.com/tech-events/ifa-2026-what-to-expect",
+          "source": "Tom's Guide"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Anthropic released Claude Fable 5.1 on September 1, calling it their most advanced model for coding and knowledge work, explicitly tuned for agentic tool use and shipped with much cheaper cache reads. That last detail is the one that matters for this category, and it is why Claude Code holds first at 9.5. Long agentic coding sessions replay enormous amounts of context on every turn, and the cost of that replay is what has kept teams from letting an agent work unsupervised for an hour. Cutting cache read pricing changes the economics of the whole workflow. Claude Code stays first on the same three strengths I have argued all year: it reads a large repository properly before editing, its edits survive code review, and it recovers from its own mistakes without a human restarting the session. OpenAI Codex at 9.1 remains the better pick inside the ChatGPT ecosystem and its cloud task execution is genuinely useful for parallel work. Cursor at 9.1 is still the best pure editor experience, and for a developer who wants tab completion and inline diffs over a terminal agent, it is the right tool. Google Antigravity at 8.5 has improved fast and its browser-aware debugging is a real differentiator for front-end work. Jules at 8.2 is the free option worth using. My verdict for September: pick your assistant by where you want the agent to live. Terminal-first developers should be on Claude Code, editor-first developers on Cursor, and everyone should be checking their monthly token spend now that long sessions are affordable.",
+          "highlights": [
+            {
+              "title": "Cheaper cache reads change what is worth automating",
+              "body": "The September 1 Fable 5.1 release paired capability gains with substantially lower cache read pricing. Long agentic sessions replay context constantly, so this cut moves multi-hour autonomous refactors from a costly experiment into a routine workflow."
+            },
+            {
+              "title": "Claude Code holds first because its edits pass review",
+              "body": "Reading the repository properly before touching it produces changes that respect existing patterns and conventions. That is the difference between an assistant that saves time and one that generates a review queue, and it keeps Claude Code at 9.5."
+            },
+            {
+              "title": "Cursor is still the best editor-native experience",
+              "body": "Inline diffs, tab completion and multi-file context inside a familiar editor suit developers who want to stay in the code. At 9.1 it matches Codex, and the choice between them comes down to whether you work in a terminal or an IDE."
+            },
+            {
+              "title": "Watch your token spend now that sessions run long",
+              "body": "Affordable context replay encourages hour-long autonomous runs, and monthly bills grow quietly. Set a budget alert before you hand an agent a large refactor, because the cost profile of this category changed in the last week."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Anthropic 在 9 月 1 日推出 Claude Fable 5.1，官方說法是他們最先進的程式與知識工作模型，明確針對代理式工具呼叫調校，而且快取讀取費用降很多。最後這一項才是這個類別真正的重點，也是 Claude Code 守住 9.5 第一名的原因。\n\n長時間的代理式寫程式，每一輪都要重播大量上下文，而這個重播成本，就是一直以來大家不敢讓 agent 自己跑一小時的原因。快取讀取降價，等於把整個工作流的經濟性重算一次。\n\nClaude Code 的第一名靠的還是我整年都在講的三件事，動手改之前會先好好讀完整個 repo、改出來的東西過得了 code review、自己出錯自己救得回來，不用人重開一次 session。\n\nOpenAI Codex 的 9.1，在 ChatGPT 生態裡還是比較順的選擇，雲端任務執行拿來平行處理很實用。Cursor 的 9.1 仍然是純編輯器體驗的天花板，如果你要的是 Tab 補全和行內 diff 而不用終端機 agent，它就是對的工具。\n\nGoogle Antigravity 的 8.5 進步很快，瀏覽器感知除錯對前端來說是真的有差。Jules 的 8.2 是值得用的免費選項。\n\n我 9 月的結論很簡單，照你希望 agent 待在哪裡來選。習慣終端機的用 Claude Code，習慣編輯器的用 Cursor，然後所有人現在都該去看一下每月 token 花費，因為長時間跑變便宜了。",
+          "highlights": [
+            {
+              "title": "快取讀取變便宜，值得自動化的範圍就變了",
+              "body": "9 月 1 日 Fable 5.1 這版，能力提升同時大幅調降快取讀取價格。代理式長任務一直在重播上下文，這一刀砍下去，好幾小時的自動重構從燒錢實驗變成日常工作流。"
+            },
+            {
+              "title": "Claude Code 第一名是因為它改的東西過得了 review",
+              "body": "動手之前先把 repo 讀懂，產出的改動才會尊重既有的架構與慣例。這就是「幫你省時間的助手」和「幫你製造一堆待審 PR 的助手」的差別，9.5 分是這樣來的。"
+            },
+            {
+              "title": "Cursor 還是編輯器原生體驗最好的那個",
+              "body": "行內 diff、Tab 補全、多檔案上下文全部在熟悉的編輯器裡完成，適合想一直待在程式碼裡的開發者。9.1 分跟 Codex 打平，選哪個就看你平常在終端機還是在 IDE。"
+            },
+            {
+              "title": "長任務變便宜之後，記得盯自己的用量",
+              "body": "上下文重播便宜了，大家就會放心讓 agent 跑一小時，帳單也就默默長大。丟大型重構給 agent 之前先設好預算警示，這個類別的成本結構這一週真的變了。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

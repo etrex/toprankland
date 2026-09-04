@@ -15978,6 +15978,199 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-04",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.1,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (September 2026) — Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Live Updates From IFA 2026 in Berlin",
+          "url": "https://gizmodo.com/live-updates-from-ifa-2026-in-berlin-2000800025",
+          "source": "Gizmodo"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Kling 3.0 stays first at 9.5 and motion physics is why. The category's remaining weakness is what happens when something in frame moves fast: cloth, hair, water and limbs. Kling handles all four with a consistency the rest still approach, and for anyone producing footage that a paying client will watch on a large screen, that is the difference between usable and uncanny. Veo 3.1 at 9.4 is extremely close and I would pick it for anything where synchronised dialogue audio matters, because generating video and matched speech together in one pass removes an entire post-production step. That capability is genuinely reshaping how short-form ads get made. Runway Gen-4.5 at 9.2 remains the professional's tool because of control: motion brush, camera path specification and the editing suite around the model mean a director can express intent instead of rerolling prompts. Seedance 2.0 at 9.2 delivers the best cost per usable second in the list, and for volume social content that metric wins. HappyHorse 1.0 at 8.8 holds on character consistency across shots. My guidance heading into the autumn campaign season: budget for rerolls. Every model here still produces unusable takes, and teams that plan for a three-to-one generation ratio finish on schedule while teams that assume one-shot success do not.",
+          "highlights": [
+            {
+              "title": "Fast motion is where these models still separate",
+              "body": "Cloth, hair, water and limbs under rapid movement expose the weakest link in every generator. Kling 3.0 holds physical consistency through all four, and on a large screen that is the difference between footage a client accepts and footage that feels wrong."
+            },
+            {
+              "title": "Veo 3.1 removing the audio pass changes short-form production",
+              "body": "Generating synchronised dialogue alongside the video in a single pass deletes an entire post step. For social ads on a tight turnaround, that saved day matters more than a marginal quality difference in the frame."
+            },
+            {
+              "title": "Runway is the tool for directors who need control",
+              "body": "Motion brushes, specified camera paths and a real editing suite let someone express a shot instead of rerolling prompts until something lands. For professional work with a storyboard to match, that control is the product."
+            },
+            {
+              "title": "Budget three generations for every usable shot",
+              "body": "Every model in this list still produces takes you throw away. Teams that plan a three-to-one ratio hit their deadlines, and teams that assume the first generation ships consistently run over on both time and cost."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Kling 3.0 守第一，9.5 分，關鍵在動態物理。這個類別剩下的弱點，就是畫面裡有東西快速移動的時候，布料、頭髮、水和四肢。Kling 這四樣都處理得穩，其他家還在追，而如果你的成品是要放大螢幕給付錢的客戶看，這就是「能用」和「怪怪的」之間的差別。\n\nVeo 3.1 的 9.4 咬得非常近，需要對白同步音訊的案子我會選它，影片和配音一次生成，直接砍掉一整道後製流程，這個能力正在改變短影音廣告的做法。\n\nRunway Gen-4.5 的 9.2 是專業工具，贏在控制力，動態筆刷、指定運鏡路徑，加上模型外圍那整套剪輯介面，導演可以表達意圖而不用一直重骰。\n\nSeedance 2.0 的 9.2 每一秒可用素材的成本最低，量產社群內容的話這個指標就是全部。HappyHorse 1.0 的 8.8 守在跨鏡頭的角色一致性。\n\n秋季檔期要開跑了，我的建議是，把重骰的預算先編進去。這裡每個模型都還是會生出不能用的鏡頭，抓三比一生成比例的團隊都準時收工，以為一次到位的團隊沒有。",
+          "highlights": [
+            {
+              "title": "快速動態才是這些模型現在分得出高下的地方",
+              "body": "布料、頭髮、水、四肢在快速移動下，會把每個生成器最弱的那一環暴露出來。Kling 3.0 四樣都撐得住物理一致性，放大螢幕看，那就是客戶收不收件的差別。"
+            },
+            {
+              "title": "Veo 3.1 省掉配音那一關，短影音的做法就變了",
+              "body": "影片和同步對白一次生成，直接刪掉一整道後製。趕檔期的社群廣告，省下的那一天比畫面上那一點點品質差距重要多了。"
+            },
+            {
+              "title": "需要控制力的導演選 Runway",
+              "body": "動態筆刷、指定運鏡路徑、加上真正能用的剪輯介面，讓人可以把一顆鏡頭講清楚，而不用一直重骰到有一顆能用。有分鏡要對的專業案子，這個控制力本身就是產品。"
+            },
+            {
+              "title": "每一顆能用的鏡頭，先編三次生成的預算",
+              "body": "這份清單裡每個模型都還是會生出要丟掉的素材。抓三比一的團隊都趕得上死線，以為第一次生成就能上的團隊，時間和成本兩邊都會爆。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

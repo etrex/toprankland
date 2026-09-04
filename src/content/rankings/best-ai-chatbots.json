@@ -15527,6 +15527,197 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-04",
+      "rankings": [
+        {
+          "id": "claude",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.7,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "chatgpt",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.5,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.9,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (September 2026) — Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "What to expect at IFA 2026: AI everywhere, robots, laptops evolved, smarter homes and more",
+          "url": "https://www.tomsguide.com/tech-events/ifa-2026-what-to-expect",
+          "source": "Tom's Guide"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The top of this list moved this week and I want to be precise about why. Anthropic shipped Claude Fable 5.1 on September 1, positioned as its strongest model for coding and knowledge work, tuned specifically for agentic tool use and paired with much cheaper cache reads. Google followed on September 2 with Gemini 3.8 Flash reaching stable general availability. Claude and ChatGPT stay tied at 9.5 and I am comfortable defending that tie, because they now win on different axes and most readers should pick based on what they do all day. Claude takes long-document reasoning, code that has to survive review, and anything where the model needs to hold a large codebase in working memory. The cheaper cache reads in the 5.1 release matter enormously for anyone running long agentic sessions, since that is where API bills quietly balloon. ChatGPT holds its 9.5 on breadth: the widest tool ecosystem, the strongest consumer app polish, and voice mode that remains the most natural of the three. Gemini at 9.4 has the best real-time grounding and the tightest integration with Workspace, and the Flash 3.8 general availability makes the cheap tier genuinely usable for production tasks. Grok at 8.9 stays where it is on real-time social data. Perplexity at 8.6 is still the one I open when I want an answer with its sources attached. My practical verdict for September: subscribe to one flagship and use the free tiers of the others for cross-checking. Paying for two is a waste at these capability levels.",
+          "highlights": [
+            {
+              "title": "Fable 5.1 makes long agentic sessions affordable",
+              "body": "Anthropic paired the September 1 release with substantially cheaper cache reads. Anyone running multi-hour tool-using sessions knows that repeated context is where the bill grows, and cutting that cost changes which workflows are economically sensible to automate."
+            },
+            {
+              "title": "The Claude and ChatGPT tie is real, and the split is by task",
+              "body": "Claude takes long-context reasoning and code that has to pass review. ChatGPT takes ecosystem breadth, app polish and voice. At 9.5 each, the right pick depends entirely on which of those you touch daily."
+            },
+            {
+              "title": "Gemini 3.8 Flash makes the cheap tier production-ready",
+              "body": "Reaching stable general availability on September 2 matters more than a benchmark point. A fast, cheap, generally available model with solid grounding is what most real applications actually deploy against."
+            },
+            {
+              "title": "Paying for two flagship subscriptions is a waste right now",
+              "body": "The capability gap between the top three is small enough that a second subscription buys very little. Pick the one that fits your daily work, then use free tiers elsewhere when you want a second opinion."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週榜單前段真的有動，我把原因講清楚。Anthropic 在 9 月 1 日推出 Claude Fable 5.1，定位是它最強的程式與知識工作模型，專門針對代理式工具呼叫調校，而且快取讀取便宜很多。Google 隔天 9 月 2 日跟上，Gemini 3.8 Flash 進入穩定的正式版。\n\nClaude 和 ChatGPT 並列 9.5，這個平手我守得住，因為它們現在贏的軸線不一樣，多數讀者應該照自己每天在做什麼來選。\n\nClaude 拿下長文件推理、要通過 code review 的程式碼，還有需要把整個專案塞進工作記憶的任務。5.1 這版快取讀取變便宜，對跑長時間代理任務的人影響超大，因為 API 帳單就是在重複上下文這裡默默膨脹的。\n\nChatGPT 的 9.5 贏在廣度，工具生態最完整、消費端 App 打磨最細、語音模式也是三家裡最自然的。\n\nGemini 的 9.4 靠即時性和 Workspace 整合，Flash 3.8 轉正式版之後，便宜的那一層終於能拿來跑正式任務。Grok 的 8.9 守在即時社群資料。Perplexity 的 8.6，還是我想要一個附上出處的答案時會開的那個。\n\n我 9 月的實用建議，訂一個旗艦就好，其他家用免費版交叉驗證。以現在的能力差距，訂兩個純粹是浪費錢。",
+          "highlights": [
+            {
+              "title": "Fable 5.1 讓長時間代理任務變得付得起",
+              "body": "Anthropic 在 9 月 1 日這版同時大幅調降快取讀取費用。跑過好幾小時工具鏈的人都知道，帳單就是在重複上下文那邊長起來的，這個成本一砍，值得自動化的工作範圍就跟著變了。"
+            },
+            {
+              "title": "Claude 和 ChatGPT 的平手是真的，差別在任務類型",
+              "body": "Claude 吃長脈絡推理和要過 review 的程式碼，ChatGPT 吃生態廣度、App 完成度和語音。兩邊都 9.5 分，選哪個完全看你每天碰的是哪一種。"
+            },
+            {
+              "title": "Gemini 3.8 Flash 讓便宜那層可以上線了",
+              "body": "9 月 2 日轉成穩定正式版，這件事比多幾分跑分重要。又快又便宜、正式可用、接地能力也不錯的模型，才是多數實際應用真正會部署的東西。"
+            },
+            {
+              "title": "現在同時訂兩家旗艦是浪費錢",
+              "body": "前三名的能力差距已經小到第二個訂閱買不到什麼。挑一個貼合你日常工作的訂下去，想要第二意見的時候用其他家的免費版就夠了。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
