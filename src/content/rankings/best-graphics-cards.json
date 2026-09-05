@@ -1,0 +1,422 @@
+{
+  "slug": "best-graphics-cards",
+  "category": "Electronics",
+  "scoreFactors": {
+    "pricePerFrame": "Street Price Per Frame",
+    "availability": "Real-World Availability",
+    "vramHeadroom": "VRAM Headroom Through 2028",
+    "raster1440p": "1440p Rasterization",
+    "rayTracing": "Ray Tracing & Path Tracing",
+    "upscaling": "Upscaling & Frame Generation",
+    "efficiency": "Power Draw & PSU Fit",
+    "creatorAi": "Creator & Local AI Work"
+  },
+  "i18n": {
+    "en": {
+      "title": "Best Graphics Cards 2026: Ranked by Street Price, Not MSRP",
+      "description": "Ten GPUs from the RTX 5090 to the Arc B580 ranked on what they actually cost this week, plus what the cancelled 50 SUPER refresh means for how much VRAM you should buy today."
+    },
+    "zh-tw": {
+      "title": "2026 最佳顯示卡排行榜：用實際街價排，建議售價已經沒意義",
+      "description": "從 RTX 5090 到 Arc B580 共 10 張卡，以這週的實際成交價排序，並說明 50 SUPER 改款取消後你今天該買多少 VRAM。"
+    }
+  },
+  "competitors": [
+    {
+      "id": "rx-9070-xt",
+      "name": "Radeon RX 9070 XT 16GB",
+      "brand": "AMD",
+      "url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9070xt.html",
+      "i18n": {
+        "en": {
+          "description": "A 16GB RDNA 4 card that lands within single digits of the RTX 5070 Ti in 1440p rasterized averages while selling for $300 to $400 less, and it is the one high-end part that stays in stock week to week.",
+          "priceRange": "$690-$800"
+        },
+        "zh-tw": {
+          "description": "16GB RDNA 4，1440p 純光柵表現咬到 RTX 5070 Ti 只差個位數百分比，價差卻是一萬多塊，而且它是這個級距裡少數每週都還買得到現貨的卡。",
+          "priceRange": "NT$22,990-28,990"
+        }
+      }
+    },
+    {
+      "id": "rtx-5070-ti",
+      "name": "GeForce RTX 5070 Ti 16GB",
+      "brand": "NVIDIA",
+      "url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+      "i18n": {
+        "en": {
+          "description": "The strongest 16GB ray tracing and CUDA card in the mainstream tier, carrying a $749 official price that no retailer honors and a street price that has settled between $880 and $1,233.",
+          "priceRange": "$880-$1,233"
+        },
+        "zh-tw": {
+          "description": "主流級距裡光追和 CUDA 最強的 16GB 卡，官方價 749 美元現在只是個紙上數字，實際掛牌落在三萬到四萬五之間。",
+          "priceRange": "NT$30,890-44,990"
+        }
+      }
+    },
+    {
+      "id": "rx-9060-xt-16gb",
+      "name": "Radeon RX 9060 XT 16GB",
+      "brand": "AMD",
+      "url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9060xt.html",
+      "i18n": {
+        "en": {
+          "description": "The cheapest 16GB card on this page and the best 1080p to 1440p value in 2026, holding $400 to $450 while every 16GB NVIDIA part above it doubled.",
+          "priceRange": "$400-$450"
+        },
+        "zh-tw": {
+          "description": "這頁最便宜的 16GB 卡，1080p 到 1440p 的 CP 值王，在 NVIDIA 同容量產品翻倍漲的這一年還守在一萬四上下。",
+          "priceRange": "約 NT$13,500-15,500"
+        }
+      }
+    },
+    {
+      "id": "rx-9070",
+      "name": "Radeon RX 9070 16GB",
+      "brand": "AMD",
+      "url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9070.html",
+      "i18n": {
+        "en": {
+          "description": "The quiet 220W sibling of the 9070 XT with the same 16GB buffer, running near its $549 launch price at the low end of listings and around $700 at the high end.",
+          "priceRange": "$549-$700"
+        },
+        "zh-tw": {
+          "description": "9070 XT 的 220 瓦安靜版本，同樣 16GB，運氣好還能用接近上市價買到，貴的時候要兩萬三。",
+          "priceRange": "約 NT$18,000-23,000"
+        }
+      }
+    },
+    {
+      "id": "rtx-5080",
+      "name": "GeForce RTX 5080 16GB",
+      "brand": "NVIDIA",
+      "url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+      "i18n": {
+        "en": {
+          "description": "A 16GB flagship-adjacent card running about 55 percent over its $999 launch price at roughly $1,550, delivering around 17 percent more frames than the 5070 Ti.",
+          "priceRange": "$1,500-$1,600"
+        },
+        "zh-tw": {
+          "description": "16GB 的次旗艦，現在比上市價貴了五成五左右，效能大約比 5070 Ti 多一七%，價格卻是另一個世界。",
+          "priceRange": "約 NT$50,000-58,000"
+        }
+      }
+    },
+    {
+      "id": "arc-b580",
+      "name": "Arc B580 12GB",
+      "brand": "Intel",
+      "url": "https://www.intel.com/content/www/us/en/products/sku/241598/intel-arc-b580-graphics/specifications.html",
+      "i18n": {
+        "en": {
+          "description": "A 12GB 1080p card holding $250 to $300 through the entire memory crisis, which makes it the only entry-level part on this page still priced the way entry level is supposed to be priced.",
+          "priceRange": "$250-$300"
+        },
+        "zh-tw": {
+          "description": "12GB 的 1080p 卡，整波記憶體風暴打下來還守在九千上下，是這頁唯一一張還維持入門價的入門卡。",
+          "priceRange": "約 NT$8,500-10,000"
+        }
+      }
+    },
+    {
+      "id": "rtx-5070",
+      "name": "GeForce RTX 5070 12GB",
+      "brand": "NVIDIA",
+      "url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/",
+      "i18n": {
+        "en": {
+          "description": "A 12GB card with strong DLSS 4 frame generation and CUDA support, now selling around $800 to $900 against a $549 launch price, which puts it into 16GB territory on cost.",
+          "priceRange": "$800-$900"
+        },
+        "zh-tw": {
+          "description": "12GB，DLSS 4 生成幀和 CUDA 都在，但現在要價兩萬五以上，等於用 16GB 的預算買 12GB 的容量。",
+          "priceRange": "約 NT$25,000-29,000"
+        }
+      }
+    },
+    {
+      "id": "rtx-5060-ti-16gb",
+      "name": "GeForce RTX 5060 Ti 16GB",
+      "brand": "NVIDIA",
+      "url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+      "i18n": {
+        "en": {
+          "description": "A 16GB mid-range card with full DLSS 4 and NVENC support whose street price climbed from $569 in June to about $805 in August 2026.",
+          "priceRange": "$575-$805"
+        },
+        "zh-tw": {
+          "description": "16GB 中階卡，DLSS 4 和 NVENC 都完整，六月還五百多美元，八月已經衝到八百，漲得比誰都兇。",
+          "priceRange": "約 NT$19,000-26,000"
+        }
+      }
+    },
+    {
+      "id": "rtx-5090",
+      "name": "GeForce RTX 5090 32GB",
+      "brand": "NVIDIA",
+      "url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/",
+      "i18n": {
+        "en": {
+          "description": "The fastest consumer GPU on the planet and the most distorted price on this page, trading between $4,900 and $5,800 against a $1,999 launch price because the GB202 die competes with data-center demand.",
+          "priceRange": "$4,900-$5,800"
+        },
+        "zh-tw": {
+          "description": "地表最快的消費級顯示卡，也是這頁價格扭曲最嚴重的一張，上市價六萬多，現在十五萬起跳，因為同一顆晶片正在被 AI 資料中心搶。",
+          "priceRange": "約 NT$155,000-185,000"
+        }
+      }
+    },
+    {
+      "id": "rtx-5060-8gb",
+      "name": "GeForce RTX 5060 8GB",
+      "brand": "NVIDIA",
+      "url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/",
+      "i18n": {
+        "en": {
+          "description": "A $339 8GB card with DLSS 4 multi frame generation, priced close to launch while the 8GB buffer already limits texture settings in 2026 releases at 1080p.",
+          "priceRange": "$299-$339"
+        },
+        "zh-tw": {
+          "description": "八千多的 8GB 卡，DLSS 4 生成幀有，價格也接近上市價，可惜 8GB 在 2026 年的新作跑 1080p 就已經要往下調材質了。",
+          "priceRange": "約 NT$10,500-12,000"
+        }
+      }
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-09-05",
+      "rankings": [
+        {
+          "id": "rx-9070-xt",
+          "rank": 1,
+          "score": 9.0,
+          "scores": {
+            "pricePerFrame": 9.6,
+            "availability": 9.2,
+            "vramHeadroom": 8.8,
+            "raster1440p": 9.0,
+            "rayTracing": 7.6,
+            "upscaling": 8.4,
+            "efficiency": 7.9,
+            "creatorAi": 7.2
+          }
+        },
+        {
+          "id": "rtx-5070-ti",
+          "rank": 2,
+          "score": 8.5,
+          "scores": {
+            "pricePerFrame": 7.4,
+            "availability": 7.0,
+            "vramHeadroom": 8.8,
+            "raster1440p": 9.3,
+            "rayTracing": 9.2,
+            "upscaling": 9.5,
+            "efficiency": 8.2,
+            "creatorAi": 9.3
+          }
+        },
+        {
+          "id": "rx-9060-xt-16gb",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "pricePerFrame": 9.4,
+            "availability": 9.0,
+            "vramHeadroom": 8.6,
+            "raster1440p": 7.4,
+            "rayTracing": 6.8,
+            "upscaling": 8.2,
+            "efficiency": 9.0,
+            "creatorAi": 6.8
+          }
+        },
+        {
+          "id": "rx-9070",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "pricePerFrame": 8.9,
+            "availability": 8.4,
+            "vramHeadroom": 8.8,
+            "raster1440p": 8.5,
+            "rayTracing": 7.4,
+            "upscaling": 8.4,
+            "efficiency": 8.6,
+            "creatorAi": 7.0
+          }
+        },
+        {
+          "id": "rtx-5080",
+          "rank": 5,
+          "score": 8.0,
+          "scores": {
+            "pricePerFrame": 6.6,
+            "availability": 6.4,
+            "vramHeadroom": 8.6,
+            "raster1440p": 9.6,
+            "rayTracing": 9.5,
+            "upscaling": 9.5,
+            "efficiency": 7.4,
+            "creatorAi": 9.5
+          }
+        },
+        {
+          "id": "arc-b580",
+          "rank": 6,
+          "score": 7.8,
+          "scores": {
+            "pricePerFrame": 9.2,
+            "availability": 8.8,
+            "vramHeadroom": 7.4,
+            "raster1440p": 6.4,
+            "rayTracing": 6.2,
+            "upscaling": 7.4,
+            "efficiency": 8.4,
+            "creatorAi": 6.0
+          }
+        },
+        {
+          "id": "rtx-5070",
+          "rank": 7,
+          "score": 7.5,
+          "scores": {
+            "pricePerFrame": 6.4,
+            "availability": 7.2,
+            "vramHeadroom": 6.2,
+            "raster1440p": 8.2,
+            "rayTracing": 8.6,
+            "upscaling": 9.4,
+            "efficiency": 8.4,
+            "creatorAi": 8.8
+          }
+        },
+        {
+          "id": "rtx-5060-ti-16gb",
+          "rank": 8,
+          "score": 7.3,
+          "scores": {
+            "pricePerFrame": 6.2,
+            "availability": 7.6,
+            "vramHeadroom": 8.4,
+            "raster1440p": 7.0,
+            "rayTracing": 7.6,
+            "upscaling": 9.3,
+            "efficiency": 8.8,
+            "creatorAi": 8.6
+          }
+        },
+        {
+          "id": "rtx-5090",
+          "rank": 9,
+          "score": 7.1,
+          "scores": {
+            "pricePerFrame": 3.4,
+            "availability": 4.2,
+            "vramHeadroom": 9.8,
+            "raster1440p": 10.0,
+            "rayTracing": 10.0,
+            "upscaling": 9.6,
+            "efficiency": 5.2,
+            "creatorAi": 10.0
+          }
+        },
+        {
+          "id": "rtx-5060-8gb",
+          "rank": 10,
+          "score": 6.4,
+          "scores": {
+            "pricePerFrame": 7.0,
+            "availability": 8.4,
+            "vramHeadroom": 4.4,
+            "raster1440p": 6.2,
+            "rayTracing": 6.6,
+            "upscaling": 9.2,
+            "efficiency": 8.8,
+            "creatorAi": 7.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "No NVIDIA GeForce RTX 50 \"SUPER\" GPUs This Year, RTX 60-Series Also Pushed Back",
+          "url": "https://www.techpowerup.com/346010/no-nvidia-geforce-rtx-50-super-gpus-this-year-rtx-60-series-also-pushed-back",
+          "source": "TechPowerUp"
+        },
+        {
+          "title": "GDDR7 Shortage Could Stop NVIDIA GeForce RTX 50-Series SUPER Rollout",
+          "url": "https://www.techpowerup.com/342705/gddr7-shortage-could-stop-nvidia-geforce-rtx-50-series-super-rollout",
+          "source": "TechPowerUp"
+        },
+        {
+          "title": "GPU price tracking 2026: lowest price on every graphics card from Nvidia, AMD and Intel today",
+          "url": "https://www.tomshardware.com/pc-components/gpus/lowest-gpu-prices-tracking",
+          "source": "Tom's Hardware"
+        },
+        {
+          "title": "AMD Radeon RX 9000 GPUs See Official Price Increase of Up To 20%",
+          "url": "https://wccftech.com/amd-radeon-rx-9000-gpus-official-price-increase-up-to-20-percent-9070-xt-over-1000-usd/",
+          "source": "Wccftech"
+        },
+        {
+          "title": "漲價玩家不買單，AMD RX 9070 XT、NVIDIA RTX 5070 Ti 跌出暢銷榜",
+          "url": "https://news.xfastest.com/others/158382/amd-rx-9070-xt-nvidia-rtx-5070-ti/",
+          "source": "XFastest News"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The Radeon RX 9070 XT takes first at 9.0, and I can show you the arithmetic behind that in one line. It sells for $690 to $800 today, it lands within roughly 5 percent of the RTX 5070 Ti in 1440p rasterized averages, and the 5070 Ti sells for $880 at the very best with typical listings between $1,099 and $1,233. That is a 40 to 60 percent price gap covering a single-digit performance gap, and it holds in Taiwan too, where the 9070 XT sits at NT$22,990 to NT$28,990 while the 5070 Ti runs NT$30,890 to NT$44,990. I rank by the price a card actually transacts at, which is why this list reads differently from every other one you will find. NVIDIA has raised board-partner pricing three times in 2026, about 10 to 15 percent in January, a narrower adjustment on the 5090 in May, and roughly 20 to 30 percent in August. The $749 figure printed on the RTX 5070 Ti is a historical record of a market that closed. Any ranking sorted by that number is telling you how much performance per dollar you get at a dollar figure you cannot pay. The second thing that changed this year is the refresh. Gamescom 2026 confirmed that the RTX 50 SUPER series is cancelled, killed by a shortage of 3GB-density GDDR7 modules and by NVIDIA moving capacity toward AI server silicon. The 18GB RTX 5070 SUPER and the 24GB RTX 5070 Ti SUPER and RTX 5080 SUPER are gone, and the RTX 60 generation has slipped as well. For two years the standard advice in this category was to wait for the refresh. That advice expired in August. The 12GB or 16GB you buy this month is your ceiling for several years, so I weight VRAM headroom heavily and I would take 16GB over a faster 12GB part at the same money. Waiting also costs you now: DRAM rose about 95 percent in the first quarter with another 63 percent expected in the second, Gartner projects DRAM and SSD up 130 percent combined by the end of 2026, and Omdia puts real supply relief deep into 2027.",
+          "highlights": [
+            {
+              "title": "The RX 9070 XT is the card I would buy with my own money at 1440p",
+              "body": "Sixteen gigabytes, roughly 95 percent of RTX 5070 Ti rasterized performance, and a street price $300 to $400 lower. Availability is the part reviewers keep underselling: through August the 9070 XT stayed on shelves week after week while the 5070 Ti went scarce enough that Taiwanese listings stretched from NT$30,890 to NT$44,990 for the same silicon. A card you can buy at a stable price beats a marginally faster one you have to hunt for. The trade you accept is ray tracing, where the 5070 Ti holds a meaningful lead, and CUDA, which matters if you render or run local models. For pure gaming at 1440p, the 9070 XT wins the value argument by a margin wide enough that I do not consider it close."
+            },
+            {
+              "title": "MSRP became fiction in 2026 and every list sorted by it is giving wrong advice",
+              "body": "NVIDIA raised board-partner pricing three separate times this year, roughly 10 to 15 percent in January, a targeted 5090 adjustment in May, and another 20 to 30 percent in August. The RTX 5070 costs around $800 to $900 against a $549 launch price. The RTX 5060 Ti 16GB climbed from $569 in June to about $805 in August. AMD pushed official Radeon RX 9000 pricing up by as much as 20 percent. Every one of those moves breaks the per-dollar math in articles written last year, and most of those articles are still ranking on launch prices. I re-check street prices weekly and treat the official figure as a footnote."
+            },
+            {
+              "title": "With the 50 SUPER refresh cancelled, the VRAM you buy today is the VRAM you keep",
+              "body": "Gamescom 2026 confirmed the cancellation, and the cause is specific: the SUPER lineup depended on 3GB-density GDDR7 modules that NVIDIA now needs elsewhere, with fab capacity redirected toward AI server parts. The 18GB RTX 5070 SUPER and the 24GB 5070 Ti SUPER and 5080 SUPER will never ship, and RTX 60 has slipped further out. This collapses the entire wait-for-the-refresh strategy that dominated buying guides for two years. It also reshapes my rankings: the RX 9060 XT 16GB at $400 to $450 climbs to third because it is the cheapest way to own a 16GB frame buffer that will still be adequate in 2028, and the 8GB RTX 5060 falls to last because that buffer already forces texture compromises at 1080p."
+            },
+            {
+              "title": "The RTX 5090 is the fastest card here and the worst purchase on this page",
+              "body": "It trades between $4,900 and $5,800 against a $1,999 launch price, which is a 145 percent premium, and in Taiwan it has been spotted above NT$150,000. The cause is structural: the GB202 die shares production lines with data-center products, so gamers bid against buyers with far deeper budgets. At 3.4 on price per frame it earns ninth place despite perfect marks in raster, ray tracing and creator work. I recommend it for exactly one buyer, the person running large local models who needs 32GB of VRAM and has a professional workload that pays the card back. Everyone else buys two 9070 XTs worth of performance for a quarter of the money."
+            },
+            {
+              "title": "The Arc B580 is the only entry-level card still priced like entry level",
+              "body": "It has held $250 to $300 through the entire memory crisis while NVIDIA and AMD parts around it climbed 50 to 100 percent, and its 12GB buffer is generous for the tier. Intel driver quality has improved substantially since Alchemist, with modern titles running cleanly and older DirectX 11 games now the main soft spot. Note that the Arc B770 gaming variant has been redirected toward workstation and AI products, so the B580 is where Intel's consumer lineup effectively tops out. For a 1080p build under $700 total, this is the part that makes the budget work, and it earns sixth on this list purely on the honesty of its pricing."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Radeon RX 9070 XT 拿下第一，9.0 分，理由我一句話就能算給你看。它現在台灣掛牌 NT$22,990 到 NT$28,990，1440p 純光柵平均只落後 RTX 5070 Ti 大約 5%，而 5070 Ti 在台灣要 NT$30,890 到 NT$44,990。五個百分點的效能差，換來一萬到兩萬的價差，這筆帳怎麼算都是 9070 XT 贏。\n\n老實說，我這份榜單跟你在別的地方看到的排序會長得很不一樣，原因是我用實際成交價排，而市面上絕大多數榜單還在用建議售價分層。NVIDIA 今年對板卡廠調漲了三次供貨價，一月漲一成到一成五，五月針對 5090 小幅調整，八月又漲了兩成到三成。RTX 5070 Ti 印在官網上的 749 美元，現在只是一個歷史紀錄。任何一篇拿 749 去算 CP 值的文章，它給你的結論建立在一個你付不到的金額上。\n\n今年第二件變了的事情是改款。Gamescom 2026 已經確認 RTX 50 SUPER 全系列取消，原因是 3GB 顆粒的 GDDR7 缺貨，加上 NVIDIA 把產能挪去做 AI 伺服器晶片。原本規劃 18GB 的 5070 SUPER、24GB 的 5070 Ti SUPER 和 5080 SUPER 全部沒了，RTX 60 世代也再往後延。\n\n講白了，過去兩年所有攻略的標準答案都是「等改款」，這個答案在八月正式失效。你這個月買到的 12GB 或 16GB，就是你未來好幾年的天花板。所以我把 VRAM 餘裕的權重拉得很高，同樣預算下我會選 16GB，把速度稍微讓出去。\n\n至於「再等等會不會比較便宜」，今年這題的答案很反常。DRAM 第一季漲了約 95%，第二季預期再漲 63%，Gartner 估到年底 DRAM 加 SSD 合計漲幅 130%，Omdia 認為供給要到 2027 年後段才會鬆。等下去的代價，比現在買貴。",
+          "highlights": [
+            {
+              "title": "1440p 這一段，RX 9070 XT 是我自己會掏錢買的那張",
+              "body": "16GB、光柵效能咬到 RTX 5070 Ti 的九成五，價格便宜一萬到兩萬。真正被低估的是供貨，八月一整個月 9070 XT 都還買得到現貨，而 5070 Ti 缺到同一顆晶片在台灣掛牌可以從 NT$30,890 一路拉到 NT$44,990。買得到、價格穩，這件事本身就是價值。要讓的是光追，5070 Ti 在這一項確實領先明顯，還有 CUDA，如果你會算圖或跑本地模型那就得認真考慮。純打遊戲的話，9070 XT 的價值差距大到我覺得沒什麼好猶豫的。"
+            },
+            {
+              "title": "建議售價在 2026 年已經失去意義，照它排的榜單都在給錯建議",
+              "body": "NVIDIA 今年調漲三次，一月一成到一成五，五月針對 5090，八月再兩成到三成。RTX 5070 上市價 549 美元，現在要八百到九百。RTX 5060 Ti 16GB 六月還 569 美元，八月變成八百出頭。AMD 這邊官方定價也調升了最多兩成。這幾波下來，去年寫的每一篇 CP 值分析，分母全部錯了，而那些文章到現在還掛在搜尋結果第一頁用上市價排名次。我的做法是每週重新核對街價，把官方價當參考欄位放旁邊。"
+            },
+            {
+              "title": "50 SUPER 取消之後，你今天買到多少 VRAM 就是往後幾年的上限",
+              "body": "Gamescom 2026 確認取消，原因很具體，SUPER 系列要用的 3GB 高密度 GDDR7 顆粒被挪去別的地方，晶圓產能轉向 AI 伺服器。18GB 的 5070 SUPER、24GB 的 5070 Ti SUPER 和 5080 SUPER 永遠不會出貨，RTX 60 也再往後延。這一刀直接砍掉了整個等改款的策略。它也改變了我的排序邏輯，RX 9060 XT 16GB 在一萬四上下衝到第三名，因為它是現在最便宜、能買到 16GB framebuffer 的方式，而這個容量到 2028 年還撐得住。8GB 的 RTX 5060 掉到最後一名，因為它在 1080p 跑 2026 年的新作就已經要往下調材質。"
+            },
+            {
+              "title": "RTX 5090 是這頁最快的卡，同時是最不該買的一張",
+              "body": "上市價 1,999 美元，現在 4,900 到 5,800 美元，溢價 145%，台灣甚至被抓到破十五萬。這個價格買一台 125cc 機車還有找。原因是結構性的，GB202 這顆晶片跟資料中心產品共用產線，玩家要跟預算深度完全不同級的買家搶貨。它在每幀成本這一項只有 3.4 分，所以即使光柵、光追、創作工作三項滿分，總排名還是第九。我只推薦給一種人，跑大型本地模型、真的需要 32GB VRAM、而且這張卡會替他賺回來的專業用戶。其他人拿四分之一的錢就能買到兩張 9070 XT 的效能。"
+            },
+            {
+              "title": "Arc B580 是這頁唯一還維持入門價的入門卡",
+              "body": "整波記憶體風暴打下來，它守在 250 到 300 美元，換算台幣九千上下，旁邊的 N 卡 A 卡漲了五成到一倍。12GB 的容量在這個級距算大方。Intel 的驅動從 Alchemist 那代之後進步很多，新遊戲跑起來乾淨，比較弱的地方剩下老一點的 DirectX 11 遊戲。另外要提醒，Arc B770 的遊戲版已經轉去做工作站和 AI 產品線，所以 B580 實際上就是 Intel 消費級的天花板。如果你要組一台總預算兩萬出頭的 1080p 機器，這張卡是讓預算成立的關鍵，它排第六純粹是因為定價誠實。"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
