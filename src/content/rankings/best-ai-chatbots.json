@@ -15718,6 +15718,202 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-05",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.6,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.7,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.5,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 8.9,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (September 2026) — Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "AI Model Releases: September 2026 Tracker and Dated Ledger",
+          "url": "https://www.digitalapplied.com/blog/ai-model-releases-september-2026-tracker",
+          "source": "Digital Applied"
+        },
+        {
+          "title": "New AI Model Releases — September 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The tie broke this week. OpenAI shipped GPT-6 Astra, staged to general availability at $10 in and $50 out per million tokens with a 1.05M context window, and it is the first model the company has flagged as reaching its critical-cyber safeguard threshold. Self-reported numbers put it at 57.7 on Terminal-Bench 4.0, 74.1 on DeepSWE and 96.0 on GPQA. That is a genuine capability step, and I am moving ChatGPT to 9.6 and first place on the strength of it. Claude drops to second at 9.5, which is a ranking change and not a criticism: Anthropic's Fable 5.1 landed September 1 with cache reads down to $0.25, and for anyone running long agentic sessions that price cut is still the most consequential release of the week. Claude keeps my recommendation for long-document reasoning and code that has to pass review. Gemini holds 9.4 after 3.8 Flash reached stable general availability on September 2, and the cheap tier is now genuinely production-ready with grounding good enough for real applications. Grok at 8.9 keeps its lead on real-time social data. Perplexity at 8.6 is still what I open when I want cited answers. My practical read for September: the safeguard flag on Astra is the story worth watching, because a frontier lab publicly gating a model on cyber capability changes what enterprise procurement asks for. Subscribe to one flagship, use free tiers elsewhere for a second opinion.",
+          "highlights": [
+            {
+              "title": "GPT-6 Astra takes first place at 9.6",
+              "body": "Staged general availability at $10/$50 per million tokens with a 1.05M context window and self-reported 57.7 on Terminal-Bench 4.0 and 96.0 on GPQA. That combination of context, price and measured capability is what moves a ranking."
+            },
+            {
+              "title": "The critical-cyber safeguard flag is the real news",
+              "body": "Astra is the first model OpenAI has publicly identified as reaching that threshold. When a frontier lab gates a release on cyber capability, enterprise procurement questionnaires change, and every competitor now has to answer the same question."
+            },
+            {
+              "title": "Fable 5.1 keeps Claude at 9.5 on economics",
+              "body": "Cache reads dropping to $0.25 changes which long agentic workflows are affordable to run, since repeated context is where API bills grow. For multi-hour tool-using sessions Claude remains my recommendation."
+            },
+            {
+              "title": "Gemini 3.8 Flash made the cheap tier production-ready",
+              "body": "Stable general availability on September 2 matters more than another benchmark point. A fast, inexpensive, generally available model with solid grounding is what most real deployments actually run on."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週平手局破了。OpenAI 推出 GPT-6 Astra，分階段開放正式使用，每百萬 token 輸入 10 美元、輸出 50 美元，脈絡長度 1.05M，而且這是該公司第一次公開標示某個模型觸及關鍵網路安全防護門檻。官方自評 Terminal-Bench 4.0 拿 57.7、DeepSWE 74.1、GPQA 96.0。\n\n這是真的能力躍進，所以我把 ChatGPT 拉到 9.6 分並且排第一。\n\nClaude 退到第二，9.5 分，這是名次調整，不代表它變差了。Anthropic 的 Fable 5.1 在 9 月 1 日推出，快取讀取降到 0.25 美元，對跑長時間代理任務的人來說，這仍然是這週影響最大的發布。長文件推理和要通過 code review 的程式碼，我還是推 Claude。\n\nGemini 維持 9.4，3.8 Flash 在 9 月 2 日進入穩定正式版，便宜那一層現在真的能上線，接地能力也夠實際應用用。\n\nGrok 的 8.9 守住即時社群資料這塊。Perplexity 的 8.6，想要有出處的答案時我還是開它。\n\n九月我的實際判讀是這樣，Astra 那個安全門檻標記才是值得追的事。前沿實驗室公開用網路攻擊能力去卡一個模型的釋出，企業採購問卷的內容就會跟著改，而且每一家競爭者現在都得回答同一個問題。訂一個旗艦就好，其他家用免費版做交叉驗證。",
+          "highlights": [
+            {
+              "title": "GPT-6 Astra 以 9.6 分拿下第一",
+              "body": "分階段正式開放，每百萬 token 收 10 美元進、50 美元出，脈絡 1.05M，官方自評 Terminal-Bench 4.0 拿 57.7、GPQA 拿 96.0。脈絡、價格、實測能力三者兜在一起，才動得了排名。"
+            },
+            {
+              "title": "真正的新聞是那個網路安全防護門檻",
+              "body": "Astra 是 OpenAI 第一個公開認定觸及該門檻的模型。前沿實驗室開始用網路攻擊能力當釋出的閘門，企業採購問卷就會改寫，而所有競爭者現在都得回答同一題。"
+            },
+            {
+              "title": "Fable 5.1 用經濟性替 Claude 守住 9.5",
+              "body": "快取讀取降到 0.25 美元，直接改變哪些長時間代理流程跑得起。帳單就是在重複上下文那邊長出來的，好幾小時的工具鏈任務我還是推 Claude。"
+            },
+            {
+              "title": "Gemini 3.8 Flash 讓便宜那層可以上線了",
+              "body": "9 月 2 日轉穩定正式版，比多幾分跑分重要得多。又快又便宜、正式可用、接地也不錯的模型，才是多數實際部署真正在跑的東西。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

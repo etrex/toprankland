@@ -16417,6 +16417,199 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-05",
+      "rankings": [
+        {
+          "id": "suno-v5",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "audioQuality": 9.7,
+            "vocalRealism": 9.4,
+            "editingControl": 9.6,
+            "commercialLicense": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "elevenlabs-music",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "audioQuality": 9.3,
+            "vocalRealism": 9.7,
+            "editingControl": 8.7,
+            "commercialLicense": 9.8,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "lyria-3-pro",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 8.6,
+            "editingControl": 8.4,
+            "commercialLicense": 9.5,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 7.0,
+            "editingControl": 8.6,
+            "commercialLicense": 9.5,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "udio",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "audioQuality": 9.6,
+            "vocalRealism": 9.5,
+            "editingControl": 9.8,
+            "commercialLicense": 7.5,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "riffusion",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "audioQuality": 8.2,
+            "vocalRealism": 7.8,
+            "editingControl": 8.5,
+            "commercialLicense": 8.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "soundraw",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "audioQuality": 8.0,
+            "vocalRealism": 6.5,
+            "editingControl": 7.5,
+            "commercialLicense": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aiva",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 6.8,
+            "editingControl": 7.8,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "mubert",
+          "rank": 9,
+          "score": 7.3,
+          "scores": {
+            "audioQuality": 7.5,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "loudly",
+          "rank": 10,
+          "score": 7.0,
+          "scores": {
+            "audioQuality": 7.3,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "boomy",
+          "rank": 11,
+          "score": 6.8,
+          "scores": {
+            "audioQuality": 6.8,
+            "vocalRealism": 6.5,
+            "editingControl": 6.8,
+            "commercialLicense": 8.5,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (September 2026) — Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "New AI Model Releases — September 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Suno v5 holds first at 9.4 and the gap over everything else in this list is still the largest of any AI category I track. What Suno gets right is song structure. It writes a verse that leads somewhere, a chorus that lands, and a bridge that earns its place, and that architectural sense is far harder to build than good audio fidelity. Every competitor here can produce forty seconds that sound convincing. Suno produces three minutes that hold together. ElevenLabs Music at 9.2 is closing on production quality and its stem separation is the cleanest available, which makes it the right choice when the output has to go into a real mix and get edited by a person. Lyria 3 Pro at 8.6 has the best instrumental realism, and I recommend it for scoring work where no vocal is needed. Stable Audio 2.5 at 8.5 remains the pick if you need to run locally or need a licence you fully control. Udio at 8.3 is fine and consistently a step behind. The thing I keep telling people in September: the legal position on training data has not settled, and if you are putting generated music into something commercial, read the licence terms on whichever tool you pick before the project starts. That takes fifteen minutes and it is the cheapest insurance in this category.",
+          "highlights": [
+            {
+              "title": "Suno wins on song structure, which is the hard part",
+              "body": "A verse that leads somewhere, a chorus that lands and a bridge that earns its place are architectural problems, and they are much harder than audio fidelity. Everything here can do forty convincing seconds. Suno does three coherent minutes."
+            },
+            {
+              "title": "ElevenLabs Music is the pick when a human edits the output",
+              "body": "Its stem separation is the cleanest available, so the generated track can go into a real session and be reworked. For anyone whose output feeds a professional mix, that matters more than a marginal quality difference."
+            },
+            {
+              "title": "Lyria 3 Pro owns instrumental realism",
+              "body": "For scoring work where no vocal is required, the instrument modelling holds up under close listening better than anything else here. At 8.6 it is the specialist recommendation for a specific and common job."
+            },
+            {
+              "title": "Read the licence before the project, not after",
+              "body": "Training-data law is unsettled and terms differ sharply between these tools. Fifteen minutes with the licence page before a commercial project starts is the cheapest risk management available in this category."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Suno v5 守第一，9.4 分，而且它跟後面的差距，仍然是我在追蹤的所有 AI 品類裡最大的。\n\nSuno 真正做對的是歌曲結構。主歌會往某個地方走、副歌落得下來、橋段站得住腳，這種架構感比音質難做太多了。這裡每個競品都能生出四十秒聽起來很像回事的東西，Suno 生得出三分鐘還撐得住的完整結構。\n\nElevenLabs Music 的 9.2，製作品質正在追上來，而且它的分軌是目前最乾淨的，所以產出要進真實混音、要給人再編輯的時候，它才是對的選擇。\n\nLyria 3 Pro 的 8.6，樂器擬真度最好，不需要人聲的配樂工作我推它。\n\nStable Audio 2.5 的 8.5，需要本地跑或需要完全掌握授權的話就選它。Udio 的 8.3 沒什麼問題，就是一直差一步。\n\n九月我一直在提醒大家的一件事，訓練資料的法律狀態還沒定案。如果你要把生成的音樂放進商業用途，開案前先把你選的那個工具的授權條款讀完。這件事花你十五分鐘，是這個品類裡最便宜的保險。",
+          "highlights": [
+            {
+              "title": "Suno 贏在歌曲結構，那才是難的部分",
+              "body": "主歌有去向、副歌落得下來、橋段有存在理由，這些是架構問題，比音質難得多。這裡每個工具都能做四十秒像樣的東西，Suno 做得出三分鐘完整的。"
+            },
+            {
+              "title": "產出要給人再編輯，就選 ElevenLabs Music",
+              "body": "它的分軌是目前最乾淨的，生成的曲子可以直接丟進真實工作階段重做。作品要進專業混音的人，這件事比那一點點品質差距重要得多。"
+            },
+            {
+              "title": "Lyria 3 Pro 在樂器擬真這塊最強",
+              "body": "不需要人聲的配樂工作，它的樂器建模在細聽之下撐得比這裡任何一個都好。8.6 分，是針對一個具體而且很常見的需求的專門推薦。"
+            },
+            {
+              "title": "授權要在開案前就讀完",
+              "body": "訓練資料的法律狀態未定，而這些工具的條款差很多。商業案開始前花十五分鐘看授權頁，是這個品類最便宜的風險控管。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

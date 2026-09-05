@@ -14964,6 +14964,216 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-05",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 9.0,
+            "artisticQuality": 8.3,
+            "textRendering": 9.6,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.1,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "nano-banana-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "New AI Model Releases — September 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        },
+        {
+          "title": "AI Updates Today (September 2026) — Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "IFA 2026: Top AI, Robotics, and Tech Announcements from Berlin",
+          "url": "https://www.archyde.com/ifa-2026-top-ai-robotics-and-tech-announcements-from-berlin/",
+          "source": "Archyde"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The image side of the frontier stayed quiet while the text models made all the noise this week, and the ranking reflects a market that has settled into clear lanes. GPT-Image-2 holds first at 9.4 on instruction following, which remains the property that decides whether you get the picture in your head or a beautiful picture of something else. When a brief has six specific constraints, this is the model that respects all six. Midjourney v8 at 9.3 still produces the most immediately striking output of anything here, and for anyone whose work is judged on aesthetic impact it is the correct default. Nano Banana Pro and FLUX.2 Pro tie at 9.2 for different reasons: Nano Banana Pro is the best at editing an existing image without destroying everything around the edit, and FLUX.2 Pro gives you the most control if you are willing to learn its parameters and run it yourself. Seedream 4.5 at 8.7 remains the value pick and the one I recommend to people generating at volume. What I would watch through September: every IFA keynote this week has been about local NPUs running models on-device, and image generation is the workload that benefits most obviously from that shift. The first genuinely good on-device generator changes the pricing conversation for this entire list.",
+          "highlights": [
+            {
+              "title": "Instruction following is what keeps GPT-Image-2 first",
+              "body": "Give it six specific constraints in one brief and it respects all six. Every other model here will trade one of them for a prettier composition, and that trade costs you a revision cycle every time."
+            },
+            {
+              "title": "Midjourney v8 is correct when aesthetics are the brief",
+              "body": "The output has the strongest immediate visual impact of anything on this list. For work judged on how a piece looks in a feed, v8 remains the right default at 9.3."
+            },
+            {
+              "title": "Nano Banana Pro owns targeted editing",
+              "body": "Changing one element of an existing image without disturbing the rest is a genuinely different problem from generating from scratch, and this is the model that solves it cleanly. That capability earns its 9.2 independently of raw generation quality."
+            },
+            {
+              "title": "On-device generation is the shift to watch this autumn",
+              "body": "Every IFA keynote this week centred on local NPUs running models without a cloud round trip. Image generation is the workload with the clearest benefit, and the first good on-device model resets pricing across this whole category."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週前沿的聲量全被文字模型吃掉，影像這邊很安靜，而排名也剛好反映出一個已經各自站好位置的市場。\n\nGPT-Image-2 守第一，9.4 分，贏在指令遵循。這件事決定你拿到的是腦中那張圖，還是一張很漂亮但畫錯東西的圖。一個 brief 裡有六個具體限制的時候，它是那個六個都照做的模型。\n\nMidjourney v8 的 9.3，出圖的第一眼衝擊力還是全場最強。工作成果用視覺感染力評斷的人，它就是正確的預設值。\n\nNano Banana Pro 和 FLUX.2 Pro 並列 9.2，理由各自不同。Nano Banana Pro 最會改一張既有圖片而不破壞周圍，FLUX.2 Pro 則是你願意學參數、自己跑的話控制度最高。\n\nSeedream 4.5 的 8.7 是 CP 值選項，要大量產圖的我都推它。\n\n九月我會盯的是這件事，本週 IFA 每一場主題演講都在講本地 NPU 在裝置上跑模型，而影像生成剛好是最明顯受惠的工作負載。第一個真的好用的裝置端生成模型出現，整份清單的定價邏輯都會被重寫。",
+          "highlights": [
+            {
+              "title": "指令遵循是 GPT-Image-2 守住第一的原因",
+              "body": "一個 brief 給它六個具體限制，它六個都照做。這裡其他模型多半會犧牲其中一個去換更好看的構圖，而那個犧牲每次都讓你多跑一輪修改。"
+            },
+            {
+              "title": "美感就是需求的時候，Midjourney v8 是對的",
+              "body": "出圖的第一眼衝擊力是這份清單最強的。作品看的是在動態牆上好不好看，這種工作 v8 的 9.3 就是正確預設。"
+            },
+            {
+              "title": "Nano Banana Pro 在局部編輯這塊沒有對手",
+              "body": "改既有圖片的其中一個元素又不動到周圍，跟從零生成完全是兩回事，而它把這件事解得很乾淨。這個能力本身就撐得起 9.2，跟純生成畫質無關。"
+            },
+            {
+              "title": "今年秋天要盯的是裝置端生成",
+              "body": "本週 IFA 每場主題演講都在講本地 NPU 不用連雲端就能跑模型。影像生成是受惠最明顯的工作負載，第一個好用的裝置端模型出現，整個品類的定價都要重來。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

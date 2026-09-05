@@ -16719,6 +16719,211 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-05",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.4,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "fish-audio-openaudio-s1",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.1,
+            "emotionalRange": 8.8,
+            "languageSupport": 8.0,
+            "latency": 8.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 9.8,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 8,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 8.3,
+            "emotionalRange": 7.7,
+            "languageSupport": 8.6,
+            "latency": 7.8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (September 2026) — Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "New AI Model Releases — September 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs and Inworld TTS 1.5 Max stay tied at 9.4 and I am keeping that tie because they win on genuinely different axes. ElevenLabs has the deepest voice library and the most reliable cloning from a short sample, which is what most people actually need. Inworld TTS 1.5 Max has lower latency under load and better emotional range on a single take, which is what matters when the voice is part of a live product. Pick by whether your voice is recorded or streamed. Cartesia Sonic 3 and Fish Audio OpenAudio S1 tie at 9.0, and Cartesia is the one I recommend for real-time conversational agents because its time-to-first-audio is the shortest here by a clear margin. Hume AI Octave 2 at 8.9 remains the most interesting product on the list for anyone building something where the voice needs to respond to the emotional content of what it is saying. What I want readers in Taiwan to test specifically: Mandarin output quality varies enormously across these tools, and tone accuracy on Taiwanese Mandarin is a different problem from mainland Mandarin. The English demos on every one of these homepages are excellent and tell you almost nothing about how a Chinese script will sound. Generate a paragraph of your own copy before you commit to a plan, because the ranking above reflects overall capability and your language is the constraint that will actually decide it.",
+          "highlights": [
+            {
+              "title": "The tie at the top is a real split by use case",
+              "body": "ElevenLabs has the deepest library and the most reliable cloning from short samples. Inworld holds lower latency under load with better single-take emotional range. Recorded work goes one way, live products go the other."
+            },
+            {
+              "title": "Cartesia is the answer for real-time agents",
+              "body": "Time-to-first-audio is the shortest in this list by a clear margin, and in a conversational product that number is the entire user experience. At 9.0 it is the specialist pick for anything interactive."
+            },
+            {
+              "title": "Hume Octave 2 is doing something genuinely different",
+              "body": "Modulating delivery based on the emotional content of the text is a distinct capability from reading it accurately. For narrative or companion products that responsiveness is the feature people actually notice."
+            },
+            {
+              "title": "Test Mandarin output yourself before you subscribe",
+              "body": "The English demos on these homepages are uniformly excellent and predict very little about Chinese output. Tone accuracy on Taiwanese Mandarin varies enormously across these tools, so generate your own paragraph first."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ElevenLabs 和 Inworld TTS 1.5 Max 維持並列 9.4，我打算讓這個平手繼續下去，因為它們贏的軸線真的不一樣。\n\nElevenLabs 的聲音庫最深，用一小段樣本做聲音複製的穩定度最高，這是多數人實際需要的。Inworld TTS 1.5 Max 在高負載下延遲更低，單次錄製的情緒幅度更好，這是聲音要嵌進即時產品時才會在意的事。看你的聲音是預錄還是串流，答案就出來了。\n\nCartesia Sonic 3 和 Fish Audio OpenAudio S1 並列 9.0，即時對話代理我推 Cartesia，它的首音延遲明顯是這裡最短的。\n\nHume AI Octave 2 的 8.9，對於要做「聲音會回應內容情緒」這種產品的人，它是這份清單上最有意思的。\n\n台灣讀者有一件事一定要自己測，中文輸出品質在這些工具之間差非常多，而且台灣國語的聲調正確性跟對岸普通話是兩個不同的問題。這些工具首頁的英文 demo 全部都很棒，而那幾乎無法告訴你中文稿唸出來會是什麼樣子。\n\n訂閱前先拿自己的一段文案生一次。上面的排名反映的是整體能力，你的語言才是真正決定勝負的限制條件。",
+          "highlights": [
+            {
+              "title": "榜首的平手是真的依使用情境分家",
+              "body": "ElevenLabs 聲音庫最深、短樣本複製最穩。Inworld 在高負載下延遲更低、單次錄製的情緒幅度更好。預錄工作走一邊，即時產品走另一邊。"
+            },
+            {
+              "title": "即時代理的答案是 Cartesia",
+              "body": "首音延遲明顯是這份清單裡最短的，而在對話型產品裡，這個數字就是整個使用體驗。9.0 分，是所有互動情境的專門推薦。"
+            },
+            {
+              "title": "Hume Octave 2 在做真正不一樣的事",
+              "body": "依照文字的情緒內容調整唸法，跟把字唸準是兩種不同的能力。敘事型或陪伴型產品，這種回應性才是使用者真的會注意到的功能。"
+            },
+            {
+              "title": "訂閱前自己測中文輸出",
+              "body": "這些首頁的英文 demo 一律很棒，對中文輸出的預測力卻很低。台灣國語的聲調正確度在各家之間差距很大，先拿自己的一段稿子生一次再說。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

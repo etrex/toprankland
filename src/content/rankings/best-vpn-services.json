@@ -16509,6 +16509,168 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-05",
+      "rankings": [
+        {
+          "id": "protonvpn",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "mullvad",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Model Releases: September 2026 Tracker and Dated Ledger",
+          "url": "https://www.digitalapplied.com/blog/ai-model-releases-september-2026-tracker",
+          "source": "Digital Applied"
+        },
+        {
+          "title": "AI Updates Today (September 2026) — Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "IFA 2026: Key announcements so far",
+          "url": "https://www.techdigest.tv/2026/09/ifa-2026-key-announcements-so-far.html",
+          "source": "Tech Digest"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "OpenAI flagging GPT-6 Astra as the first model to reach its critical-cyber safeguard threshold is the security story of the week, and it belongs in a VPN discussion for a specific reason. Capable models lower the cost of scanning, phishing and credential stuffing at scale, which raises the value of every layer that hides your traffic and reduces your exposure. It also raises the value of a provider whose no-logs claim has been tested. Proton VPN holds first at 9.3 because it operates from Switzerland under favourable privacy law, publishes independent audits, open sources its clients, and its no-logs position has survived legal scrutiny. That combination is what a VPN promise should actually mean. Mullvad at 9.2 goes further on anonymity, accepting cash and requiring no email address to create an account, and for anyone whose threat model is genuinely serious it is the right choice. NordVPN at 8.8 has the fastest speeds and the most server locations, which matters for streaming and for anyone connecting from a congested network. Practical advice for Taiwan: test your provider's performance on your actual connection during evening peak, because international routing from here varies enormously by provider and a VPN that benchmarks well in Europe may be slow on your line.",
+          "highlights": [
+            {
+              "title": "Capable models raise the value of hiding your traffic",
+              "body": "Frontier models lower the cost of scanning, phishing and credential stuffing at scale. That shift raises the value of every layer that reduces your exposure, and a tested no-logs provider is the baseline."
+            },
+            {
+              "title": "A no-logs claim means something once it survives scrutiny",
+              "body": "Proton operates under Swiss privacy law, publishes independent audits and open sources its clients, and its position has been tested legally. That combination is what the promise should actually mean."
+            },
+            {
+              "title": "Mullvad is the answer for a serious threat model",
+              "body": "Accepting cash and requiring no email address removes the identity link that every other provider retains. At 9.2 it is the correct choice for anyone whose privacy need is concrete and specific."
+            },
+            {
+              "title": "Test on your own line during evening peak",
+              "body": "International routing from Taiwan varies enormously by provider, and a VPN that benchmarks well in Europe can be slow here. Use the trial period to test during the hours you will actually use it."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "OpenAI 標示 GPT-6 Astra 是第一個觸及關鍵網路安全防護門檻的模型，這是本週的資安大事，而它出現在 VPN 的討論裡有一個具體理由。\n\n能力更強的模型降低了大規模掃描、釣魚和帳密填充的成本，這也提高了每一層「隱藏你的流量、降低你曝險」的價值，同時提高了一家「無紀錄宣稱經得起檢驗」的服務商的價值。\n\nProton VPN 守第一，9.3 分，因為它在隱私法規友善的瑞士營運、公開獨立稽核、用戶端開源，而且它的無紀錄立場經過法律層面的檢驗。這個組合才是一個 VPN 承諾該有的意思。\n\nMullvad 的 9.2 在匿名這條路走得更遠，接受現金付款、開帳號不需要 email，威脅模型真的嚴肅的人選它。\n\nNordVPN 的 8.8 速度最快、節點最多，看串流或從壅塞網路連線的人有感。\n\n台灣的實務建議，用你自己的線路在晚上尖峰時段測。從這裡出去的國際路由，各家服務商差距非常大，一家在歐洲跑分漂亮的 VPN，在你的線路上可能很慢。",
+          "highlights": [
+            {
+              "title": "模型變強，隱藏流量的價值就變高",
+              "body": "前沿模型降低了大規模掃描、釣魚和帳密填充的成本。這個轉變提高了每一層降低曝險的價值，而一家經得起檢驗的無紀錄服務商是基本盤。"
+            },
+            {
+              "title": "無紀錄宣稱要經得起檢驗才有意義",
+              "body": "Proton 在瑞士隱私法下營運、公開獨立稽核、用戶端開源，而且立場經過法律檢驗。這個組合才是這個承諾該有的份量。"
+            },
+            {
+              "title": "威脅模型嚴肅的人選 Mullvad",
+              "body": "接受現金付款、開帳號不用 email，移除了其他服務商都保留的身分連結。9.2 分，隱私需求具體明確的人，它就是正確選擇。"
+            },
+            {
+              "title": "用自己的線路在晚上尖峰測",
+              "body": "從台灣出去的國際路由各家差距很大，在歐洲跑分好的 VPN 在這裡可能很慢。用試用期在你實際會用的時段測一次。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

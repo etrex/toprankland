@@ -16171,6 +16171,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-05",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.1,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "New AI Model Releases — September 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        },
+        {
+          "title": "AI Updates Today (September 2026) — Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "AI Model Releases: September 2026 Tracker and Dated Ledger",
+          "url": "https://www.digitalapplied.com/blog/ai-model-releases-september-2026-tracker",
+          "source": "Digital Applied"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Kling 3.0 holds first at 9.5 on the strength of motion coherence, which remains the property that separates a usable clip from a clip you have to explain. Limbs stay attached, objects keep their mass through a camera move, and a person walking across frame arrives where physics says they should. Every model here produces beautiful individual frames. Kling produces sequences that survive being watched twice. Google Veo 3.1 at 9.4 has the best native audio generation and the tightest prompt adherence, and for anyone building inside Google's stack it is the practical default. Runway Gen-4.5 at 9.2 keeps the best editing controls, and the ability to direct a specific change without regenerating the whole shot is worth a lot when a client is giving notes. Seedance 2.0 ties at 9.2 with the best value per generation. Alibaba's HappyHorse 1.0 at 8.8 is the one improving fastest. The frontier text releases this week do not change this list directly, and I want to flag why they might soon: longer context windows make multi-shot consistency tractable, which is the last genuinely unsolved problem here. Holding a character's face stable across eight cuts is what stands between these tools and real production work, and I expect that to be the headline within two quarters.",
+          "highlights": [
+            {
+              "title": "Motion coherence is what keeps Kling at 9.5",
+              "body": "Limbs stay attached, objects keep their mass through a camera move, and a walking figure lands where physics says. Beautiful single frames are table stakes now. Sequences that survive a second viewing are the actual product."
+            },
+            {
+              "title": "Veo 3.1 is the default inside the Google stack",
+              "body": "Native audio generation plus the tightest prompt adherence in the category make it the practical pick for teams already working in Workspace and Vertex. At 9.4 the integration advantage is real and worth weighing."
+            },
+            {
+              "title": "Runway earns its place on directed edits",
+              "body": "Changing one element of a shot without regenerating everything is what client work actually requires. When notes come back on a single detail, that control saves a full generation cycle every round."
+            },
+            {
+              "title": "Multi-shot character consistency is the last real problem",
+              "body": "Holding a face stable across eight cuts is what separates these tools from production work. Longer context windows make it tractable, and I expect it to be the headline capability within two quarters."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Kling 3.0 守第一，9.5 分，靠的是動態連貫性，這仍然是「可以用的片段」跟「你還得幫它解釋的片段」之間的分水嶺。四肢不會脫離身體、物體在運鏡過程中保有重量感、一個人走過畫面會落在物理上該落的位置。\n\n這裡每個模型都生得出漂亮的單張畫面，Kling 生得出禁得起看第二次的序列。\n\nGoogle Veo 3.1 的 9.4，原生音訊生成最強，提示遵循度也最緊，在 Google 生態系裡做事的團隊，它就是實務上的預設。\n\nRunway Gen-4.5 的 9.2，編輯控制最好，能指定改一個地方而不用整顆重生，客戶在給修改意見的時候這件事價值很高。\n\nSeedance 2.0 同樣 9.2，每次生成的 CP 值最好。阿里的 HappyHorse 1.0 拿 8.8，進步速度最快。\n\n這週的前沿文字模型發布沒有直接改變這份清單，但我想標記一下為什麼它們很快會有影響。脈絡視窗變長，讓多鏡頭一致性變得可解，而那是這裡最後一個真正沒解決的問題。一張臉能不能在八個鏡頭之間保持穩定，就是這些工具跟真正製作案之間的距離，我預期兩季內這會變成頭條。",
+          "highlights": [
+            {
+              "title": "動態連貫性是 Kling 守住 9.5 的原因",
+              "body": "四肢不會脫落、物體在運鏡中保有重量、走動的人落在物理上該在的位置。漂亮的單張畫面現在是基本盤，禁得起看第二次的序列才是產品本身。"
+            },
+            {
+              "title": "Google 生態系裡的預設是 Veo 3.1",
+              "body": "原生音訊生成加上這個品類裡最緊的提示遵循度，讓已經在用 Workspace 和 Vertex 的團隊直接選它。9.4 分裡，整合優勢是真的，值得納入考量。"
+            },
+            {
+              "title": "Runway 靠指定式編輯站住位置",
+              "body": "改一個鏡頭裡的一個元素而不用整顆重生，這正是接案工作真正需要的。客戶回一個細節意見的時候，這個控制每一輪都幫你省掉一次完整生成。"
+            },
+            {
+              "title": "多鏡頭角色一致性是最後一道關卡",
+              "body": "一張臉能不能撐過八個剪接點，就是這些工具跟正式製作之間的距離。脈絡視窗變長讓它變得可解，我預期兩季內這會是主要賣點。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

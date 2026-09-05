@@ -22368,6 +22368,228 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-05",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.6,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Model Releases: September 2026 Tracker and Dated Ledger",
+          "url": "https://www.digitalapplied.com/blog/ai-model-releases-september-2026-tracker",
+          "source": "Digital Applied"
+        },
+        {
+          "title": "AI Updates Today (September 2026) — Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "New AI Model Releases — September 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Two frontier releases in five days and the ranking barely moves, which tells you something important about this category. Claude Code holds first at 9.5 because the product is the harness, and the harness is what determines whether a coding agent finishes a task or leaves you a half-refactored repo. Anthropic's Fable 5.1 on September 1 was tuned specifically for agentic tool use and shipped with cache reads at $0.25, and long autonomous sessions are exactly where that pricing lands. OpenAI Codex at 9.1 gets the more interesting week, because GPT-6 Astra reports 57.7 on Terminal-Bench 4.0 and 74.1 on DeepSWE, which are the two benchmarks that actually correlate with finishing real engineering tickets. I want to see those numbers hold up in a working repo before I move Codex above 9.1, and I expect to revisit this within a fortnight. Cursor stays at 9.1 as the best answer for developers who want an editor first and an agent second, and the multi-file edit flow remains the most legible in the category. Google Antigravity at 8.5 is improving faster than anything else on this list. My honest advice: the model underneath these tools now changes every few weeks, so pick your assistant on how well its harness recovers from a failed step, because that is the property that does not churn.",
+          "highlights": [
+            {
+              "title": "The harness matters more than the model underneath",
+              "body": "Every tool here can call a frontier model. What separates them is what happens when a step fails, a test breaks, or a file conflicts. Claude Code holds 9.5 because its recovery behaviour is the most reliable I have used."
+            },
+            {
+              "title": "Astra's DeepSWE number is the one to watch",
+              "body": "Terminal-Bench 4.0 at 57.7 and DeepSWE at 74.1 are the benchmarks that track finishing real engineering tickets. If Codex reproduces those in a working repo, this ranking changes inside a month."
+            },
+            {
+              "title": "Cheaper cache reads change what is worth automating",
+              "body": "Fable 5.1's $0.25 cache reads cut the running cost of multi-hour agentic sessions, where repeated context dominates the bill. Whole classes of long refactors became economically sensible on September 1."
+            },
+            {
+              "title": "Cursor remains the pick for editor-first developers",
+              "body": "The multi-file edit review flow is the clearest in the category and keeps a human in the loop on every diff. For teams where a person signs off on each change, that legibility is worth more than raw autonomy."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "五天內兩個前沿模型發布，排名幾乎沒動，這件事本身就說明了這個品類的重點在哪。\n\nClaude Code 守第一，9.5 分，因為產品本體是那層外殼，而外殼決定了一個 coding agent 是把任務做完，還是留給你一個重構到一半的專案。Anthropic 的 Fable 5.1 在 9 月 1 日推出，專門針對代理式工具呼叫調校，快取讀取 0.25 美元，長時間自主任務剛好就吃在這個價格上。\n\nOpenAI Codex 的 9.1 這週故事比較精彩，GPT-6 Astra 自評 Terminal-Bench 4.0 拿 57.7、DeepSWE 拿 74.1，這兩個剛好是跟「真的把工程票做完」相關性最高的指標。我要看到這些數字在真實專案裡站得住，才會把 Codex 拉過 9.1，兩週內我會再看一次。\n\nCursor 維持 9.1，適合把編輯器擺第一、代理擺第二的開發者，多檔案編輯的審閱流程還是這個品類裡最好讀的。\n\nGoogle Antigravity 的 8.5，進步速度是這份清單裡最快的。\n\n說真的，底下那顆模型現在幾週就換一次，所以挑工具要看它的外殼在某一步失敗之後怎麼收拾，因為那才是不會一直變的東西。",
+          "highlights": [
+            {
+              "title": "外殼比底下那顆模型重要",
+              "body": "這裡每個工具都能呼叫前沿模型，真正的差別在某一步失敗、測試爆掉、檔案衝突的時候會發生什麼事。Claude Code 守住 9.5，是因為它的復原行為是我用過最可靠的。"
+            },
+            {
+              "title": "Astra 的 DeepSWE 分數是重點",
+              "body": "Terminal-Bench 4.0 的 57.7 和 DeepSWE 的 74.1，是跟真的把工程票做完最相關的兩個指標。Codex 如果能在真實專案裡重現，這份排名一個月內就會變。"
+            },
+            {
+              "title": "快取變便宜，值得自動化的範圍就變了",
+              "body": "Fable 5.1 的 0.25 美元快取讀取，直接砍掉好幾小時代理任務的執行成本，因為帳單大頭就是重複上下文。9 月 1 日之後，整類長篇重構在經濟上才說得通。"
+            },
+            {
+              "title": "編輯器優先的開發者還是選 Cursor",
+              "body": "多檔案編輯的審閱流程是這個品類裡最清楚的，每個 diff 都留人在迴圈裡。團隊如果規定每次改動都要有人簽核，這種可讀性比純自主性值錢。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
