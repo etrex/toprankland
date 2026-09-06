@@ -1,0 +1,486 @@
+{
+  "slug": "best-ssds",
+  "category": "Electronics",
+  "scoreFactors": {
+    "pricePerTb": "Price Per Terabyte This Week",
+    "nandSource": "Traceable NAND & Controller",
+    "specStability": "Spec Stability Across Revisions",
+    "sustainedWrite": "Sustained Write After Cache",
+    "randomIo": "Random I/O & Game Load",
+    "thermals": "Thermals & Power Draw",
+    "endurance": "Endurance & Warranty",
+    "twAvailability": "Taiwan Retail Availability"
+  },
+  "i18n": {
+    "en": {
+      "title": "Best SSDs 2026: Ranked by Price Per Terabyte",
+      "description": "Twelve 2TB NVMe drives ranked on what a terabyte actually costs at retail this week, plus which of the world's five NAND fabs made the flash inside each one."
+    },
+    "zh-tw": {
+      "title": "2026 最佳固態硬碟排行榜：用每 TB 實際售價排",
+      "description": "12 款 2TB NVMe，用 9 月 6 日原價屋掛牌價換算成每 TB 多少錢排名，並標出每一顆的 NAND 出自全球五家晶圓廠的哪一家。"
+    }
+  },
+  "competitors": [
+    {
+      "id": "crucial-p510",
+      "name": "Crucial P510 2TB",
+      "brand": "Micron",
+      "url": "https://www.crucial.com/ssd/p510/ct2000p510ssd8",
+      "i18n": {
+        "en": {
+          "description": "The cheapest PCIe 5.0 drive with real TLC flash on this page, reading 11,000 MB/s and coming straight from Micron's own fab with the NAND source printed on the box.",
+          "priceRange": "$150-$190"
+        },
+        "zh-tw": {
+          "description": "這頁最便宜的 Gen5 TLC，讀取 11,000 MB/s，顆粒直接來自美光自家晶圓廠，你買的是哪家的 NAND 盒子上就寫著。",
+          "priceRange": "NT$9,500"
+        }
+      }
+    },
+    {
+      "id": "kioxia-exceria-plus-g4",
+      "name": "KIOXIA EXCERIA PLUS G4 2TB",
+      "brand": "KIOXIA",
+      "url": "https://apac.kioxia.com/en-apac/personal/ssd/exceria-plus-g4-nvme-ssd.html",
+      "i18n": {
+        "en": {
+          "description": "A PCIe 5.0 drive at 10,000 MB/s built on Kioxia's own BiCS FLASH TLC, and the coolest-running Gen5 part I would put in a cramped mini-ITX case.",
+          "priceRange": "$210-$230"
+        },
+        "zh-tw": {
+          "description": "Gen5 讀取 10,000 MB/s，用鎧俠自家 BiCS FLASH TLC，是我最敢塞進 ITX 小機殼的 Gen5 顆粒，發熱控制真的漂亮。",
+          "priceRange": "NT$10,300"
+        }
+      }
+    },
+    {
+      "id": "zhitai-tiplus-9100",
+      "name": "ZhiTai TiPlus 9100 2TB",
+      "brand": "YMTC",
+      "url": "https://www.ymtc.com/en/products/zhitai/",
+      "i18n": {
+        "en": {
+          "description": "YMTC's own consumer brand running a Maxio MAP1802 controller on 267-layer YMTC TLC, hitting 12,000 MB/s reads in a single-sided DRAM-less design.",
+          "priceRange": "約 $200"
+        },
+        "zh-tw": {
+          "description": "長江存儲自家的消費品牌，Maxio MAP1802 主控配 267 層自家 TLC，讀取衝到 12,000 MB/s，單面無 DRAM 設計，筆電也塞得下。",
+          "priceRange": "NT$10,999"
+        }
+      }
+    },
+    {
+      "id": "crucial-t500",
+      "name": "Crucial T500 2TB",
+      "brand": "Micron",
+      "url": "https://www.crucial.com/ssd/t500/ct2000t500ssd8",
+      "i18n": {
+        "en": {
+          "description": "A Gen4 drive with a real DRAM cache, which is what holds its write speed up long after an HMB drive has fallen back to native flash speed.",
+          "priceRange": "$160-$200"
+        },
+        "zh-tw": {
+          "description": "Gen4 但有真的 DRAM 快取，這就是它在長時間大檔寫入時還能撐住速度的原因，剪片的人會很有感。",
+          "priceRange": "NT$11,500"
+        }
+      }
+    },
+    {
+      "id": "crucial-t705",
+      "name": "Crucial T705 2TB",
+      "brand": "Micron",
+      "url": "https://www.crucial.com/ssd/t705/ct2000t705ssd3",
+      "i18n": {
+        "en": {
+          "description": "The Gen5 drive that made 14,500 MB/s normal, with a DRAM cache and Micron 232-layer TLC, and it now sells for less than several Gen4 flagships.",
+          "priceRange": "$180-$240"
+        },
+        "zh-tw": {
+          "description": "把 14,500 MB/s 變成日常規格的那張卡，有 DRAM 快取加美光 232 層 TLC，現在的價格比好幾張 Gen4 旗艦還低。",
+          "priceRange": "NT$11,700"
+        }
+      }
+    },
+    {
+      "id": "samsung-990-evo-plus",
+      "name": "Samsung 990 EVO Plus 2TB",
+      "brand": "Samsung",
+      "url": "https://www.samsung.com/us/memory-storage/nvme-ssd/990-evo-plus-gen4-nvme-ssd-2tb-sku-mz-v9s2t0b-am/",
+      "i18n": {
+        "en": {
+          "description": "Samsung's own V-NAND at 7,250 MB/s in a drive that runs on either a Gen4 x4 or a Gen5 x2 lane, which makes it the most flexible upgrade for an older board.",
+          "priceRange": "$190-$230"
+        },
+        "zh-tw": {
+          "description": "三星自家 V-NAND，讀取 7,250 MB/s，Gen4 x4 或 Gen5 x2 都能跑，舊主機板升級時它的相容彈性最大。",
+          "priceRange": "NT$11,999"
+        }
+      }
+    },
+    {
+      "id": "crucial-t710",
+      "name": "Crucial T710 2TB",
+      "brand": "Micron",
+      "url": "https://www.crucial.com/ssd/t710/ct2000t710ssd3",
+      "i18n": {
+        "en": {
+          "description": "Micron's Gen5 flagship at 14,500 MB/s read and 13,800 MB/s write on 276-layer TLC, and the fastest drive here that stays under NT$13,000.",
+          "priceRange": "$180-$280"
+        },
+        "zh-tw": {
+          "description": "美光的 Gen5 旗艦，讀 14,500 寫 13,800，用 276 層 TLC，是這頁一萬三以內最快的一顆。",
+          "priceRange": "NT$12,700"
+        }
+      }
+    },
+    {
+      "id": "samsung-990-pro",
+      "name": "Samsung 990 PRO 2TB",
+      "brand": "Samsung",
+      "url": "https://www.samsung.com/us/computing/memory-storage/solid-state-drives/990-pro-pcie-4-0-nvme-ssd-2tb-mz-v9p2t0b-am/",
+      "i18n": {
+        "en": {
+          "description": "Four years on, still the Gen4 drive with the best random read latency I have measured, and the version with the heatsink currently sells for NT$3,000 less than the bare one.",
+          "priceRange": "$390-$430"
+        },
+        "zh-tw": {
+          "description": "上市四年了，隨機讀取延遲還是我實測過 Gen4 裡最漂亮的，而且現在含散熱片的版本比裸卡便宜三千塊。",
+          "priceRange": "NT$13,999"
+        }
+      }
+    },
+    {
+      "id": "crucial-p310",
+      "name": "Crucial P310 2TB",
+      "brand": "Micron",
+      "url": "https://www.crucial.com/ssd/p310/ct2000p310ssd8",
+      "i18n": {
+        "en": {
+          "description": "The lowest price per terabyte on this page at NT$4,250, in a single-sided 2280 or 2230 QLC drive that fits a Steam Deck or ROG Ally.",
+          "priceRange": "$140-$170"
+        },
+        "zh-tw": {
+          "description": "這頁每 TB 最便宜的一顆，NT$4,250，單面 QLC，2230 版本 Steam Deck 跟 ROG Ally 都能直上。",
+          "priceRange": "NT$8,500"
+        }
+      }
+    },
+    {
+      "id": "samsung-9100-pro",
+      "name": "Samsung 9100 PRO 2TB",
+      "brand": "Samsung",
+      "url": "https://www.samsung.com/us/memory-storage/nvme-ssd/9100-pro-nvme-ssd-sku-mz-vap2t0b-am/",
+      "i18n": {
+        "en": {
+          "description": "Samsung's Gen5 flagship at 14,700 MB/s read and 13,400 MB/s write, with the highest random IOPS figures Samsung has published for a consumer drive.",
+          "priceRange": "$349-$400"
+        },
+        "zh-tw": {
+          "description": "三星的 Gen5 旗艦，讀 14,700 寫 13,400，隨機 IOPS 是三星消費級目前公布過最高的數字。",
+          "priceRange": "NT$19,999"
+        }
+      }
+    },
+    {
+      "id": "wd-black-sn8100",
+      "name": "WD_BLACK SN8100 2TB",
+      "brand": "SanDisk",
+      "url": "https://www.sandisk.com/company/newsroom/press-releases/2025/2025-05-13-sandisk-raises-the-bar-with-worlds-fastest-pcie-gen-5-nvme-ssd-wd_black-sn8100-nvme-ssd",
+      "i18n": {
+        "en": {
+          "description": "The fastest drive on this page at 14,900 MB/s read and 2.3 million IOPS, and it does that at an average operating draw of 7W or less.",
+          "priceRange": "$300-$400"
+        },
+        "zh-tw": {
+          "description": "這頁最快的一顆，讀取 14,900 MB/s、230 萬 IOPS，而且平均耗電壓在 7W 以內，效率是真的強。",
+          "priceRange": "NT$20,500"
+        }
+      }
+    },
+    {
+      "id": "wd-black-sn850x",
+      "name": "WD_BLACK SN850X 2TB",
+      "brand": "SanDisk",
+      "url": "https://www.westerndigital.com/products/internal-drives/wd-black-sn850x-nvme-ssd",
+      "i18n": {
+        "en": {
+          "description": "The Gen4 gaming drive that defined the category in 2022, running BiCS TLC at 7,300 MB/s with a Game Mode 2.0 profile that pre-loads assets.",
+          "priceRange": "$355-$380"
+        },
+        "zh-tw": {
+          "description": "2022 年定義電競 SSD 這個類別的那顆，BiCS TLC 跑 7,300 MB/s，Game Mode 2.0 會預先載入遊戲資源。",
+          "priceRange": "NT$19,100"
+        }
+      }
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-09-06",
+      "rankings": [
+        {
+          "id": "crucial-p510",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "pricePerTb": 9.6,
+            "nandSource": 9.4,
+            "specStability": 8.8,
+            "sustainedWrite": 7.6,
+            "randomIo": 8.4,
+            "thermals": 8.8,
+            "endurance": 8.2,
+            "twAvailability": 9.2
+          }
+        },
+        {
+          "id": "kioxia-exceria-plus-g4",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "pricePerTb": 9.3,
+            "nandSource": 9.8,
+            "specStability": 9.2,
+            "sustainedWrite": 7.8,
+            "randomIo": 8.0,
+            "thermals": 9.5,
+            "endurance": 8.4,
+            "twAvailability": 8.8
+          }
+        },
+        {
+          "id": "zhitai-tiplus-9100",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "pricePerTb": 9.0,
+            "nandSource": 9.6,
+            "specStability": 8.6,
+            "sustainedWrite": 7.4,
+            "randomIo": 8.6,
+            "thermals": 8.6,
+            "endurance": 8.0,
+            "twAvailability": 8.6
+          }
+        },
+        {
+          "id": "crucial-t500",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "pricePerTb": 8.6,
+            "nandSource": 9.4,
+            "specStability": 8.6,
+            "sustainedWrite": 9.0,
+            "randomIo": 8.2,
+            "thermals": 8.8,
+            "endurance": 8.4,
+            "twAvailability": 9.0
+          }
+        },
+        {
+          "id": "crucial-t705",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "pricePerTb": 8.5,
+            "nandSource": 9.4,
+            "specStability": 8.4,
+            "sustainedWrite": 9.2,
+            "randomIo": 9.0,
+            "thermals": 6.8,
+            "endurance": 8.6,
+            "twAvailability": 9.0
+          }
+        },
+        {
+          "id": "samsung-990-evo-plus",
+          "rank": 6,
+          "score": 8.1,
+          "scores": {
+            "pricePerTb": 8.4,
+            "nandSource": 9.2,
+            "specStability": 7.6,
+            "sustainedWrite": 7.4,
+            "randomIo": 8.2,
+            "thermals": 8.8,
+            "endurance": 8.0,
+            "twAvailability": 9.4
+          }
+        },
+        {
+          "id": "crucial-t710",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "pricePerTb": 8.0,
+            "nandSource": 9.4,
+            "specStability": 8.4,
+            "sustainedWrite": 9.4,
+            "randomIo": 9.4,
+            "thermals": 7.2,
+            "endurance": 8.8,
+            "twAvailability": 9.0
+          }
+        },
+        {
+          "id": "samsung-990-pro",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "pricePerTb": 7.2,
+            "nandSource": 9.2,
+            "specStability": 7.0,
+            "sustainedWrite": 8.8,
+            "randomIo": 9.2,
+            "thermals": 8.0,
+            "endurance": 8.6,
+            "twAvailability": 9.6
+          }
+        },
+        {
+          "id": "crucial-p310",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "pricePerTb": 9.8,
+            "nandSource": 9.4,
+            "specStability": 8.2,
+            "sustainedWrite": 5.4,
+            "randomIo": 6.8,
+            "thermals": 9.0,
+            "endurance": 6.2,
+            "twAvailability": 9.0
+          }
+        },
+        {
+          "id": "samsung-9100-pro",
+          "rank": 10,
+          "score": 7.0,
+          "scores": {
+            "pricePerTb": 5.8,
+            "nandSource": 9.2,
+            "specStability": 8.0,
+            "sustainedWrite": 9.2,
+            "randomIo": 9.6,
+            "thermals": 7.0,
+            "endurance": 8.8,
+            "twAvailability": 9.2
+          }
+        },
+        {
+          "id": "wd-black-sn8100",
+          "rank": 11,
+          "score": 6.6,
+          "scores": {
+            "pricePerTb": 5.2,
+            "nandSource": 8.8,
+            "specStability": 8.2,
+            "sustainedWrite": 9.0,
+            "randomIo": 9.8,
+            "thermals": 9.2,
+            "endurance": 8.6,
+            "twAvailability": 8.0
+          }
+        },
+        {
+          "id": "wd-black-sn850x",
+          "rank": 12,
+          "score": 6.3,
+          "scores": {
+            "pricePerTb": 5.0,
+            "nandSource": 8.8,
+            "specStability": 7.4,
+            "sustainedWrite": 8.4,
+            "randomIo": 8.8,
+            "thermals": 7.8,
+            "endurance": 8.4,
+            "twAvailability": 9.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Phison CEO confirms NAND prices have more than doubled and will continue to rise, all 2026 production already sold out",
+          "url": "https://www.tomshardware.com/pc-components/ssds/phison-ceo-confirms-nand-prices-have-more-than-doubled-and-will-continue-to-rise-all-2026-production-already-sold-out-ssds-facing-pricing-apocalypse-throughout-2027",
+          "source": "Tom's Hardware"
+        },
+        {
+          "title": "AI Server Demand Continues to Support Memory Prices in 3Q26, but Gains Moderate as Consumer Demand Weakens",
+          "url": "https://www.trendforce.com/presscenter/news/20260703-13134.html",
+          "source": "TrendForce"
+        },
+        {
+          "title": "Samsung's slower version of the 990 Pro SSD costs way more than the original",
+          "url": "https://www.engadget.com/2215064/samsungs-slower-version-of-the-990-pro-ssd-costs-way-more-than-the-original/",
+          "source": "Engadget"
+        },
+        {
+          "title": "Adata Switches to Slower Controller, NAND on SX8200 Pro (2020-2021)",
+          "url": "https://www.tomshardware.com/news/adata-xpg-sx8200-pro-controller-change",
+          "source": "Tom's Hardware"
+        },
+        {
+          "title": "Sandisk crushes wallets with up to 2.8X SSD price hikes as NAND shortage strangles the market",
+          "url": "https://www.tomshardware.com/pc-components/ssds/sandisk-crushes-wallets-with-up-to-2-8x-ssd-price-hikes-as-nand-shortage-strangles-the-market-wd-black-sn8100-8tb-skyrockets-past-usd2-500-more-than-a-high-end-gaming-pc",
+          "source": "Tom's Hardware"
+        },
+        {
+          "title": "Zhitai TiPlus 9100 Review: MAP1802 controller with YMTC 267-layer TLC",
+          "url": "https://www.techpowerup.com/review/zhitai-tiplus-9100-1-tb/",
+          "source": "TechPowerUp"
+        },
+        {
+          "title": "原價屋 Coolpc 線上估價單（每 TB 售價換算來源）",
+          "url": "https://www.coolpc.com.tw/evaluate.php",
+          "source": "原價屋 Coolpc"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The Crucial P510 takes first place at 9.1, and the arithmetic is the entire argument. On the Coolpc price list this morning, 6 September 2026, the 2TB P510 sits at NT$9,500. That is NT$4,750 per terabyte for a PCIe 5.0 drive with genuine TLC flash. On the same list, on the same day, the 2TB WD_BLACK SN8100 is NT$20,500, or NT$10,250 per terabyte. One shop, one morning, the same capacity, and a terabyte costs 2.2 times as much depending on which box you pick up. I rank by price per terabyte because in 2026 that is the number that moved, and it moved further than any other spec on the shelf. Here is what pushed it. Phison's chief executive confirmed that TLC 1-terabit NAND contract pricing climbed from $4.80 to $10.70 in six months, that essentially all of 2026 production is already committed, and that the pressure runs through 2027. TrendForce has third-quarter 2026 NAND contract prices rising another 10 to 15 percent quarter on quarter and notes that consumer buyers have reached their affordability limit. AI datacentre demand is taking the wafers, enterprise drives are absorbing close to half of global NAND bit shipments, and consumer parts get what is left. The second thing to understand is that the model number on the box has stopped being a promise. Samsung shipped a 990 in 2026 that reads 7,250 MB/s and writes 6,450 MB/s with 850K random read IOPS, sitting alongside a 990 PRO rated at 7,450 and 6,900 with 1,400K. The 990 launched at $530 for 2TB, which is more than the 990 PRO cost at its own 2022 launch. Buyers who pattern-match on the family name will pay more for less throughput. The precedent goes back further: in 2020 and 2021 Adata shipped the XPG SX8200 Pro with a changed controller and changed NAND under an unchanged model number and unchanged spec sheet, and Tom's Hardware measured a 41 percent drop in file-copy performance on the revised units. So I score every drive on where its NAND actually comes from, and I favour drives sold by the companies that own the fab. Micron sells Crucial, Kioxia sells EXCERIA, Samsung sells Samsung, and YMTC sells ZhiTai. When the fab owner puts its own name on the retail box, the flash inside is traceable and the revision history is public. On buy or wait: buy. Supply relief arrives in 2027, contract prices are still climbing this quarter, and every month you wait costs you roughly the discount you were hoping to find.",
+          "highlights": [
+            {
+              "title": "The Crucial P510 at NT$4,750 per terabyte is the drive I would buy with my own money",
+              "body": "NT$9,500 for 2TB of PCIe 5.0 with TLC flash is the cleanest deal on the Taiwanese shelf right now. It reads 11,000 MB/s and writes 9,500 MB/s, which saturates any Gen5 game load you will realistically throw at it, and it comes from Micron's own fab so you know exactly whose flash you bought. The trade you accept is the HMB design, which borrows system RAM for its mapping table, so very long sequential writes settle down to native flash speed once the SLC cache fills. For a boot drive, a game library, or a photo archive, that ceiling never gets touched. Spend the NT$11,000 you saved against an SN8100 on something you will actually notice."
+            },
+            {
+              "title": "Buy from the company that owns the fab, because there are only five or six of them",
+              "body": "Samsung, SK hynix with Solidigm, Kioxia, Micron, and YMTC produce essentially all of the world's NAND wafers, and more than fifty brands sell drives built from that output. Four of those producers put their own name on retail drives, and those are the four I rank at the top: Crucial is Micron, EXCERIA is Kioxia, ZhiTai is YMTC, and Samsung is Samsung. Buying from the fab owner gives you a traceable flash source, a published revision history, and a warranty backed by the company that made the cells. It also explains the price spread on this page, because a brand that buys wafers on the open market in 2026 is paying the same contract prices that doubled in six months, then adding its own margin on top."
+            },
+            {
+              "title": "The Samsung 990 PRO with a heatsink costs NT$3,000 less than the bare one, and I checked it three times",
+              "body": "Coolpc lists the bare 2TB 990 PRO at NT$16,999 and the heatsink version at NT$13,999 this morning. Same controller, same V-NAND, same 7,450 MB/s rating, and the one with more metal on it is cheaper. This happens because the two SKUs draw on separate import batches with separate landed costs, and in a market moving this fast nobody bothers to reconcile them. It is worth checking on every drive you shortlist, because the SKU-level spread inside a single model is now wide enough to change which drive is the better buy. Grab the heatsink version, pull the heatsink off if your motherboard already has one, and keep the NT$3,000."
+            },
+            {
+              "title": "Waiting for prices to fall is the one strategy that reliably loses money this year",
+              "body": "Phison has told the market that 2026 output is committed and that pricing pressure extends through 2027. TrendForce has NAND contract prices up another 10 to 15 percent this quarter. New fab capacity is scheduled for late 2027 at the earliest. Put those three together and the expected value of waiting six months is negative: you pay more, and you spend six months on the drive you already have. If you need storage, buy the capacity you need today at the best price per terabyte you can find, and make it a single 2TB drive, because on this page 2TB is consistently the cheaper tier per terabyte."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "第一名我給 Crucial P510，9.1 分，理由用一行算式就講完了。今天 2026 年 9 月 6 日，原價屋掛牌 P510 2TB 是 NT$9,500，換算下來每 TB NT$4,750，而且是有真 TLC 顆粒的 PCIe 5.0。同一張報價單、同一個早上，WD_BLACK SN8100 2TB 掛 NT$20,500，每 TB NT$10,250。同一家店同一天同樣容量，你手伸向哪個盒子，一 TB 的成本就差 2.2 倍。\n\n我用每 TB 售價排名，因為 2026 年真正在動的就是這個數字，而且它動的幅度比規格表上任何一欄都大。\n\n講一下為什麼會這樣。群聯執行長已經公開講明，TLC 1Tb 的 NAND 合約價半年內從 4.8 美元漲到 10.7 美元，2026 年的產能幾乎全部被預訂走，壓力會一路延續到 2027 年。TrendForce 則預估 2026 年第三季 NAND 合約價還要再季增 10% 到 15%，同時直白地寫說消費端買家已經到了負擔上限。AI 資料中心把晶圓吃走，企業級 SSD 吞掉接近一半的全球 NAND 位元出貨，剩下的才輪到我們這些自己組機的。\n\n第二件你一定要知道的事：盒子上的型號現在已經不能當承諾看。三星 2026 年推出的 990，讀 7,250、寫 6,450、隨機讀取 85 萬 IOPS，旁邊擺的 990 PRO 是 7,450、6,900、140 萬 IOPS。而 990 的 2TB 上市價 530 美元，比 990 PRO 自己在 2022 年上市時還貴。看到家族名稱就直接下單的人，會用更高的價格換到更低的效能。\n\n這種事其實有前例。2020 到 2021 年，威剛的 XPG SX8200 Pro 在型號和規格表都沒改的情況下換掉主控和顆粒，Tom's Hardware 實測改版後的檔案複製效能掉了 41%。這件事發生在五、六年前，但它建立的規矩到今天還在用。\n\n所以我給每一顆打分數時，都會看它的 NAND 到底出自誰家，而且我明顯偏好由晶圓廠自己掛名販售的產品。美光賣 Crucial，鎧俠賣 EXCERIA，三星賣三星，長江存儲賣致態。晶圓廠把自己的名字印在零售盒上時，裡面是哪批顆粒查得到，改版紀錄也是公開的。\n\n最後是該買還是該等：買。供給要到 2027 年才會鬆，這一季的合約價還在往上走，你多等一個月，付出的金額大概就等於你原本想省下的那個折扣。",
+          "highlights": [
+            {
+              "title": "每 TB NT$4,750 的 Crucial P510，是我會自己掏錢買的那一顆",
+              "body": "NT$9,500 買到 2TB 的 PCIe 5.0 加真 TLC 顆粒，這是現在台灣貨架上最乾淨的一筆帳。讀 11,000、寫 9,500，你實際會遇到的 Gen5 遊戲載入場景它都吃得下，而且顆粒直接出自美光自家晶圓廠，你買到誰家的 NAND 一清二楚。\n\n它的取捨在 HMB 設計，靠系統記憶體當快取，所以 SLC 快取寫滿之後，超長時間的連續寫入會掉回原生顆粒速度。當開機碟、遊戲庫、相片備份，這個天花板你一輩子碰不到。\n\n跟 SN8100 比省下來的那一萬一，拿去換你真的感覺得到的東西比較實在。"
+            },
+            {
+              "title": "買晶圓廠自己掛名的，因為全世界就只有五、六家在做 NAND",
+              "body": "三星、SK 海力士（含 Solidigm）、鎧俠、美光、長江存儲，全球的 NAND 晶圓基本上就這幾家產，而市面上掛牌賣 SSD 的品牌超過五十個。這五、六家裡有四家自己掛名做零售，而我排在前面的正好就是這四家：Crucial 是美光、EXCERIA 是鎧俠、致態是長江存儲、三星就是三星。\n\n跟晶圓廠買的好處很具體，顆粒來源查得到、改版紀錄是公開的、保固由親手做出這些記憶胞的公司扛。\n\n這也解釋了這頁的價差為什麼拉這麼開。2026 年在公開市場買晶圓的品牌，付的就是那個半年翻倍的合約價，然後再往上加自己的毛利。"
+            },
+            {
+              "title": "三星 990 PRO 含散熱片版本比裸卡便宜三千，我看了三次確認過",
+              "body": "今天早上原價屋的掛牌，990 PRO 2TB 裸卡 NT$16,999，含散熱片版本 NT$13,999。同一顆主控、同樣的 V-NAND、同樣標 7,450 MB/s，多一塊金屬的那個反而便宜三千。\n\n會這樣是因為這兩個料號走的是不同批進口，落地成本各自算，而在這種波動速度下沒人有空回頭把價格對齊。\n\n這件事值得你在每一顆候選上都查一次，因為同一個型號底下不同料號的價差，現在已經大到會直接改變哪一顆才是划算的選擇。\n\n我的做法是直接拿含散熱片的那個，主機板本來就有散熱片的話把它拆掉就好，三千塊留在自己口袋裡。"
+            },
+            {
+              "title": "今年最穩定會賠錢的策略，就是等降價",
+              "body": "群聯已經對市場講明 2026 年的產能被訂光，價格壓力延續到 2027。TrendForce 預估這一季 NAND 合約價還要再漲 10% 到 15%。新增晶圓產能最快也要 2027 年下半才會開出來。\n\n這三件事擺在一起，等半年的期望值是負的，你會付更多錢，而且這半年你還是在用手上那顆舊硬碟。\n\n真的需要空間就今天買，挑每 TB 最便宜的那個級距下手。另外一個具體建議是直接上 2TB，這頁的每一個品牌都是 2TB 那一階的每 TB 單價最低。"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
