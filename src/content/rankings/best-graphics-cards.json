@@ -417,6 +417,222 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-07",
+      "rankings": [
+        {
+          "id": "rx-9070-xt",
+          "rank": 1,
+          "score": 9.0,
+          "scores": {
+            "pricePerFrame": 9.6,
+            "availability": 9.2,
+            "vramHeadroom": 8.8,
+            "raster1440p": 9.0,
+            "rayTracing": 7.6,
+            "upscaling": 8.4,
+            "efficiency": 7.9,
+            "creatorAi": 7.2
+          }
+        },
+        {
+          "id": "rtx-5070-ti",
+          "rank": 2,
+          "score": 8.5,
+          "scores": {
+            "pricePerFrame": 7.4,
+            "availability": 7.0,
+            "vramHeadroom": 8.8,
+            "raster1440p": 9.3,
+            "rayTracing": 9.2,
+            "upscaling": 9.5,
+            "efficiency": 8.2,
+            "creatorAi": 9.3
+          }
+        },
+        {
+          "id": "rx-9060-xt-16gb",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "pricePerFrame": 9.4,
+            "availability": 9.0,
+            "vramHeadroom": 8.6,
+            "raster1440p": 7.4,
+            "rayTracing": 6.8,
+            "upscaling": 8.2,
+            "efficiency": 9.0,
+            "creatorAi": 6.8
+          }
+        },
+        {
+          "id": "rx-9070",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "pricePerFrame": 8.9,
+            "availability": 8.4,
+            "vramHeadroom": 8.8,
+            "raster1440p": 8.5,
+            "rayTracing": 7.4,
+            "upscaling": 8.4,
+            "efficiency": 8.6,
+            "creatorAi": 7.0
+          }
+        },
+        {
+          "id": "rtx-5080",
+          "rank": 5,
+          "score": 8.0,
+          "scores": {
+            "pricePerFrame": 6.6,
+            "availability": 6.4,
+            "vramHeadroom": 8.6,
+            "raster1440p": 9.6,
+            "rayTracing": 9.5,
+            "upscaling": 9.5,
+            "efficiency": 7.4,
+            "creatorAi": 9.5
+          }
+        },
+        {
+          "id": "arc-b580",
+          "rank": 6,
+          "score": 7.8,
+          "scores": {
+            "pricePerFrame": 9.2,
+            "availability": 8.8,
+            "vramHeadroom": 7.4,
+            "raster1440p": 6.4,
+            "rayTracing": 6.2,
+            "upscaling": 7.4,
+            "efficiency": 8.4,
+            "creatorAi": 6.0
+          }
+        },
+        {
+          "id": "rtx-5070",
+          "rank": 7,
+          "score": 7.5,
+          "scores": {
+            "pricePerFrame": 6.4,
+            "availability": 7.2,
+            "vramHeadroom": 6.2,
+            "raster1440p": 8.2,
+            "rayTracing": 8.6,
+            "upscaling": 9.4,
+            "efficiency": 8.4,
+            "creatorAi": 8.8
+          }
+        },
+        {
+          "id": "rtx-5060-ti-16gb",
+          "rank": 8,
+          "score": 7.3,
+          "scores": {
+            "pricePerFrame": 6.2,
+            "availability": 7.6,
+            "vramHeadroom": 8.4,
+            "raster1440p": 7.0,
+            "rayTracing": 7.6,
+            "upscaling": 9.3,
+            "efficiency": 8.8,
+            "creatorAi": 8.6
+          }
+        },
+        {
+          "id": "rtx-5090",
+          "rank": 9,
+          "score": 7.1,
+          "scores": {
+            "pricePerFrame": 3.4,
+            "availability": 4.2,
+            "vramHeadroom": 9.8,
+            "raster1440p": 10.0,
+            "rayTracing": 10.0,
+            "upscaling": 9.6,
+            "efficiency": 5.2,
+            "creatorAi": 10.0
+          }
+        },
+        {
+          "id": "rtx-5060-8gb",
+          "rank": 10,
+          "score": 6.4,
+          "scores": {
+            "pricePerFrame": 7.0,
+            "availability": 8.4,
+            "vramHeadroom": 4.4,
+            "raster1440p": 6.2,
+            "rayTracing": 6.6,
+            "upscaling": 9.2,
+            "efficiency": 8.8,
+            "creatorAi": 7.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "DDR5 RAM Prices 2026: $400 for 32GB as Costs Soar 485%",
+          "url": "https://tech-insider.org/ddr5-ram-prices-2026-pc-builders/",
+          "source": "Tech Insider"
+        },
+        {
+          "title": "Memory price increase timeline QoQ in 2026",
+          "url": "https://sourceability.com/post/tracking-memory-price-increases-across-the-last-several-quarters",
+          "source": "Sourceability"
+        },
+        {
+          "title": "Why Are RAM and SSD Prices Rising in 2026?",
+          "url": "https://acemagic.com/blogs/tips-tricks/why-ssd-and-ram-prices-are-rising",
+          "source": "ACEMAGIC"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The memory situation now dominates this category and I want to be explicit about how it changes the advice. GDDR and system DRAM pull from the same fabs that are being reallocated to high bandwidth memory for AI datacentres. TrendForce forecasts conventional DRAM contract prices rising thirteen to eighteen percent quarter over quarter in Q3 2026, and a 32GB DDR5 kit that cost around ninety dollars a year ago now sits between three hundred seventy five and four hundred.\n\nThat has two consequences for a graphics card buyer. The first is that card prices carry a memory component that is still climbing, and cards with larger frame buffers absorb more of it. The second is that anyone buying a card as part of a full build now faces a system memory bill that has quadrupled, which changes the sensible split of a fixed budget.\n\nThe RX 9070 XT holds first place at 9.0 on price per frame. AMD's pricing has stayed closer to where it launched than the competition, and at 1440p it delivers the frame rate most buyers are actually shopping for. The RTX 5070 Ti at 8.5 remains the pick if ray tracing and DLSS matter to the titles you play.\n\nThe RX 9060 XT 16GB at 8.4 is the card I recommend most often right now. Sixteen gigabytes of VRAM at its price point is the configuration that ages best, and in a market where memory is the constrained resource, buying the card with headroom is buying time.\n\nMy advice for September is to buy the card and delay the RAM upgrade if you have to choose. Graphics card pricing has been more stable than DDR5 this year.",
+          "highlights": [
+            {
+              "title": "DDR5 has quadrupled and it changes how you split a build budget",
+              "body": "A 32GB DDR5 kit sat around ninety dollars a year ago and now runs three hundred seventy five to four hundred, with TrendForce forecasting another thirteen to eighteen percent contract increase this quarter. Anyone buying a graphics card as part of a full build is facing a memory bill four times what they planned. If the budget is fixed, buy the graphics card now and run on your existing RAM, because card pricing has held far better than DDR5 through 2026."
+            },
+            {
+              "title": "RX 9070 XT keeps first place on price per frame at 1440p",
+              "body": "AMD has held pricing closer to launch than the competition through this cycle, and at 1440p the 9070 XT delivers the frame rate most buyers are actually shopping for. Price per frame is the heaviest factor in this ranking because it is the number that survives contact with a real budget. At 9.0 it remains the card I would put in a build for someone who plays at 1440p and wants their money to go into frames."
+            },
+            {
+              "title": "The 9060 XT 16GB is the configuration that ages best",
+              "body": "Sixteen gigabytes of VRAM at this price point is the single best hedge available in a market where memory is the constrained resource. Games are pushing frame buffer requirements up while memory supply moves toward datacentres, so a card with headroom today is a card still usable in three years. At 8.4 this is the recommendation I make most often, especially to buyers who upgrade infrequently."
+            },
+            {
+              "title": "Ray tracing still decides in favour of the RTX 5070 Ti",
+              "body": "If the titles you actually play implement ray tracing meaningfully and you want DLSS quality upscaling, the RTX 5070 Ti at 8.5 is the correct purchase. I score raster performance per dollar heavily because that is what most libraries use, and buyers whose libraries lean the other way should weight this ranking accordingly. Look at your five most played games before you decide."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "記憶體行情現在主宰了這個品類，我想把它怎麼改變建議說清楚。GDDR 跟系統 DRAM 搶的是同一批晶圓廠產能，而這些產能正被重新配置給 AI 資料中心用的高頻寬記憶體。TrendForce 預估傳統 DRAM 合約價在 2026 年第三季季增百分之十三到十八，一年前約 90 美元的 32GB DDR5 套裝，現在落在 375 到 400 美元之間。\n\n這對顯卡買家有兩個後果。第一，顯卡售價裡有一塊記憶體成分還在往上爬，而幀緩衝越大的卡吸收得越多。第二，任何把顯卡當作整機一部分來買的人，現在面對的是一張翻了四倍的系統記憶體帳單，這會改變固定預算的合理分配。\n\nRX 9070 XT 以 9.0 靠每幀成本守住第一。AMD 的定價比對手更貼近上市時的水準，而在 1440p 它交出的是大多數買家真正在找的幀數。RTX 5070 Ti 的 8.5 仍然是光線追蹤與 DLSS 對你玩的遊戲有意義時的選擇。\n\nRX 9060 XT 16GB 的 8.4 是我現在推薦次數最多的一張。這個價位帶配 16GB 顯示記憶體，是最耐放的組合，而在記憶體是稀缺資源的市場裡，買有餘裕的那張就是在買時間。\n\n九月的建議是，如果一定要二選一，先買顯卡、緩一緩記憶體升級。今年顯卡定價比 DDR5 穩定得多。",
+          "highlights": [
+            {
+              "title": "DDR5 漲了四倍，這會改變你整機預算的分配",
+              "body": "32GB DDR5 套裝一年前約 90 美元，現在要 375 到 400 美元，而 TrendForce 預估本季合約價還要再漲百分之十三到十八。任何把顯卡當作整機一部分來買的人，面對的是原本規劃四倍的記憶體帳單。預算固定的話，先買顯卡、先用現有記憶體撐著，因為 2026 年整年顯卡定價撐得比 DDR5 好太多。"
+            },
+            {
+              "title": "RX 9070 XT 靠 1440p 的每幀成本守住第一",
+              "body": "AMD 在這一輪把定價守在比對手更貼近上市價的位置，而在 1440p，9070 XT 交出的是大多數買家真正在找的幀數。每幀成本在這份排名裡權重最重，因為它是唯一撐得過真實預算檢驗的數字。9.0 讓它維持在我會裝進一台給 1440p 玩家的機器裡、讓每一塊錢都變成幀數的那個位置。"
+            },
+            {
+              "title": "9060 XT 16GB 是最耐放的那個組合",
+              "body": "在記憶體是稀缺資源的市場裡，這個價位帶配 16GB 顯示記憶體是目前最好的避險。遊戲對幀緩衝的需求持續往上，記憶體供給卻往資料中心移動，所以今天有餘裕的卡就是三年後還能用的卡。8.4 讓它成為我推薦次數最多的一張，尤其是給那些不常升級的買家。"
+            },
+            {
+              "title": "在意光線追蹤的話答案還是 RTX 5070 Ti",
+              "body": "如果你實際在玩的遊戲有認真實作光線追蹤，而且你想要 DLSS 的畫質升頻，RTX 5070 Ti 的 8.5 就是正確的購買。我把每一塊錢的光柵效能權重壓得重，因為大多數遊戲庫用的是這個，遊戲庫偏另一邊的買家應該自行調整這份排名的權重。決定之前先看你玩最多的那五款。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

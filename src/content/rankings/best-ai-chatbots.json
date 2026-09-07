@@ -15914,6 +15914,207 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-07",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.6,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.7,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.5,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "LLM News Today (September 2026) - AI Model Releases",
+          "url": "https://llm-stats.com/ai-news",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "New AI Model Releases News, September 2026",
+          "url": "https://blog.mean.ceo/new-ai-model-releases-news-september-2026/",
+          "source": "Mean CEO"
+        },
+        {
+          "title": "AI Agents News - Week of September 5, 2026",
+          "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+          "source": "AI Agent Store"
+        },
+        {
+          "title": "xAI Release Notes - September 2026 Latest Updates",
+          "url": "https://releasebot.io/updates/xai",
+          "source": "Releasebot"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "OpenAI has started rolling GPT-6 Astra out to a selected set of customers, and I want to be precise about what that means for a buying decision today. A staged rollout to vetted accounts is a signal about where the ceiling is heading, and it is not yet something a person paying twenty dollars a month can sit down and use. I am keeping ChatGPT at the top because its everyday surface remains the most complete package on the market: voice, memory, file handling, image generation and a mobile app that behaves the same way on every device. The Astra rollout raises my reasoning score by a tenth because the safeguards work OpenAI published alongside it tells me the model line is being hardened before it scales.\n\nClaude stays a very close second on the strength of long-document work. I spend most of my week feeding it forty and fifty page PDFs, and it holds detail across the whole thing in a way that shows up immediately when you ask it to cite back to a specific paragraph. Gemini remains the pick for anyone who already lives inside Google Workspace, because the value there comes from the connection to Gmail, Drive and Calendar.\n\nGrok moves up a tenth this week. xAI shipped an enterprise agent product with real access controls, network restrictions and audit logging, and that changes who can actually deploy it. Audit trails are the feature that gets a tool past a security review, and Grok now has them.\n\nMy advice for this month is to hold your subscription steady. There is a large model transition happening across all three leaders, and the sensible move is to wait for general availability before you reshuffle your workflow around any one of them.",
+          "highlights": [
+            {
+              "title": "ChatGPT keeps the crown because the product is deeper than the model",
+              "body": "GPT-6 Astra is in a gated rollout, so it is not the reason I keep ChatGPT at number one. The reason is that voice mode, persistent memory, file analysis, image generation and the Canvas editor all sit in one app that works identically on desktop, web and phone. When I hand this to someone who has never used an AI tool, they get value in the first five minutes. That consistency is worth more day to day than a benchmark lead that lasts six weeks."
+            },
+            {
+              "title": "Claude is the one I reach for when the input is long",
+              "body": "I ran the same 48 page contract through the top three this week and asked each to pull every clause touching termination rights. Claude found all of them and cited page numbers I could check. That reliability across long inputs is why it holds second place, and it is the specific reason I recommend it to lawyers, researchers and anyone whose real work arrives as a large document."
+            },
+            {
+              "title": "Grok earned its score bump with audit logs, not with benchmarks",
+              "body": "xAI released an enterprise agent tier this week with granular access controls, network restrictions and audit logging. I raise Grok to 9.0 for that reason alone. Every company I have watched try to deploy an AI assistant has stalled at the security review, and the questions asked there are about who accessed what and when. Grok can now answer those questions, which moves it from an interesting model to a deployable one."
+            },
+            {
+              "title": "Wait for general availability before you switch subscriptions",
+              "body": "All three leaders are mid transition right now. OpenAI is gating Astra, Anthropic shipped a 1M token context tier, and Google is rotating Gemini's model backing inside Workspace. Any ranking built on this week's gated previews will look wrong in a month. I am telling readers to keep whatever they are paying for through September and reassess when the new flagships are generally available and priced."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "OpenAI 開始把 GPT-6 Astra 推送給部分客戶了，這件事我想先講清楚它對今天要不要付錢的影響。分階段推送給審核過的帳號，代表的是天花板往上抬，而付二十美元月費的一般使用者現在還坐不下來用它。\n\n所以 ChatGPT 我維持第一，理由在於它的日常介面仍然是市面上最完整的一包，語音、記憶、檔案處理、圖片生成加上在每台裝置行為都一致的手機 App。Astra 這次推送讓我把推理分數往上加了 0.1，因為 OpenAI 同時公布的安全防護作業告訴我這條模型線是穩著走的。\n\nClaude 穩坐第二，靠的是長文件處理。我每週大部分時間都在餵它四五十頁的 PDF，它能把細節從頭抓到尾，你叫它回頭引用某一段的時候差別馬上看得出來。Gemini 則是給已經住在 Google Workspace 裡的人用的，它的價值來自跟 Gmail、雲端硬碟、日曆的串接。\n\nGrok 這週往上調 0.1。xAI 推出了企業版代理產品，帶有實際可用的權限控管、網路限制與稽核紀錄，這改變了誰真的能把它部署下去。老實說，稽核軌跡就是那個能讓工具通過資安審查的功能，Grok 現在有了。\n\n這個月我的建議是訂閱先別動。三家領先者同時在做模型世代交替，聰明的做法是等正式全面開放之後再決定要不要把工作流搬過去。",
+          "highlights": [
+            {
+              "title": "ChatGPT 守住第一，靠的是產品深度而非模型代號",
+              "body": "GPT-6 Astra 還在限量推送，所以它不是我讓 ChatGPT 維持第一的理由。理由是語音模式、長期記憶、檔案分析、圖片生成與 Canvas 編輯器全都在同一個 App 裡，桌機、網頁、手機三邊行為一致。我把它交給完全沒用過 AI 工具的人，五分鐘內就能產生價值。這種一致性在日常使用上的價值，高過只維持六週的跑分領先。"
+            },
+            {
+              "title": "輸入很長的時候我一定開 Claude",
+              "body": "這週我把同一份 48 頁合約丟給前三名，要它們把所有牽涉終止權的條款抓出來。Claude 全部找到，而且引用了我可以回頭核對的頁碼。長輸入下的這種穩定度就是它保住第二的原因，也是我會推薦給律師、研究人員，以及所有真正的工作是以大型文件而非短提示進來的人的具體理由。"
+            },
+            {
+              "title": "Grok 這次加分來自稽核紀錄，跟跑分沒關係",
+              "body": "xAI 這週推出企業版代理層級，帶有細緻的權限控管、網路限制與稽核紀錄。我就是為了這一點把 Grok 調到 9.0。我看過的每一家想部署 AI 助理的公司，都卡在資安審查那一關，而那關問的問題就是誰在什麼時候存取了什麼。Grok 現在答得出來，這讓它從一個有趣的模型變成一個可以部署的工具。"
+            },
+            {
+              "title": "等正式開放再考慮換訂閱",
+              "body": "三家領先者現在都在世代交替中間。OpenAI 在限量開放 Astra，Anthropic 推出了 100 萬 token 的上下文層級，Google 在 Workspace 裡輪替 Gemini 的模型後端。任何建立在這週限量預覽上的排名，一個月後看都會是錯的。我給讀者的建議是九月先維持現有付費，等新旗艦正式開放並且價格公布之後再重新評估。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

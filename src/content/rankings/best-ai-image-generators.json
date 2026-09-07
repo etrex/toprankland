@@ -15174,6 +15174,216 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-07",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 9.0,
+            "artisticQuality": 8.3,
+            "textRendering": 9.6,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.1,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "nano-banana-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "LLM News Today (September 2026) - AI Model Releases",
+          "url": "https://llm-stats.com/ai-news",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "New AI Model Releases News, September 2026",
+          "url": "https://blog.mean.ceo/new-ai-model-releases-news-september-2026/",
+          "source": "Mean CEO"
+        },
+        {
+          "title": "AI Agents News - Week of September 5, 2026",
+          "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+          "source": "AI Agent Store"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "This is a quiet week in image generation and I am leaving the order alone. That is a deliberate call. The interesting movement in AI right now is happening in language and agents, with OpenAI gating GPT-6 Astra to selected customers and xAI shipping enterprise agent tooling. Image models are between releases, and moving ranks without a release behind them would be noise.\n\nGPT Image 2 keeps first place on prompt accuracy. I test these by writing prompts with four or five specific constraints, things like a particular camera angle plus a specific colour of jacket plus text on a sign plus a time of day, and counting how many survive into the output. GPT Image 2 holds four out of five consistently. That is the metric that decides whether you get a usable asset on the first generation or spend twenty minutes rerolling.\n\nMidjourney v8 stays second and remains the one I recommend for anything where the picture needs to look intentionally composed. Its lighting and depth choices still read as decisions made by someone with an eye.\n\nNano Banana Pro and FLUX.2 Pro are tied at 9.2 and I keep them there because they win on different axes. Nano Banana Pro is the strongest at editing an existing image while preserving everything you did not ask it to change. FLUX.2 Pro gives the most control to people willing to work with parameters.\n\nOne practical note for buyers this month. Several of these tools price per generation, so the reroll rate matters more than the headline subscription. A model that lands the shot on attempt two costs you half what a model that lands it on attempt four does.",
+          "highlights": [
+            {
+              "title": "I rank on constraint survival, not on which output looks prettiest",
+              "body": "My test is a prompt carrying four or five specific constraints at once: a stated camera angle, a specific jacket colour, readable text on a sign, and a time of day. I then count how many constraints made it into the image. GPT Image 2 holds four out of five consistently, which is why it is first. Prettiness is subjective and constraint survival is countable, so that is what I measure."
+            },
+            {
+              "title": "Midjourney v8 still composes like a person",
+              "body": "Give v8 an open brief and it makes a decision about where the light comes from and what falls out of focus. Those choices read as intentional. For album art, editorial illustration and anything where the image carries mood, that is worth more than a point of prompt accuracy. I recommend it to art directors and to anyone whose brief is a feeling."
+            },
+            {
+              "title": "Nano Banana Pro is the editing pick, FLUX.2 Pro is the control pick",
+              "body": "These two are tied at 9.2 and they earn it differently. Nano Banana Pro is the best I have used at changing one element of an existing image while leaving the rest untouched, which is the entire job in product photography retouching. FLUX.2 Pro exposes more parameters and rewards people who want to dial in guidance and sampling themselves. Pick based on which of those two jobs you actually do."
+            },
+            {
+              "title": "Count your rerolls before you compare subscription prices",
+              "body": "Most of these tools bill per generation in one form or another. A model that gives you a usable image on the second attempt costs half as much in practice as one that takes four attempts, regardless of the sticker price. I would run each candidate against ten of your own real prompts and record the attempt count before committing to an annual plan."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週圖片生成很安靜，我決定順序不動。這是刻意的判斷。AI 圈現在有動靜的地方在語言模型跟代理，OpenAI 把 GPT-6 Astra 限量推給部分客戶，xAI 推出企業代理工具。圖片模型正好卡在兩代之間，沒有實際發布卻動排名，那就只是雜訊。\n\nGPT Image 2 靠提示準確度守住第一。我測這類工具的方法是寫一個帶四五個具體限制的提示，比方指定的鏡頭角度加上特定顏色的外套加上招牌上的文字加上一天當中的時段，然後數有幾個限制活到輸出裡。GPT Image 2 穩定守住五個中的四個。這個數字決定了你是第一次生成就拿到能用的素材，還是花二十分鐘一直重骰。\n\nMidjourney v8 維持第二，只要畫面需要看起來是刻意構圖的，我還是推它。它的光線與景深選擇讀起來像是有眼光的人做的決定，而非訓練資料的平均值。\n\nNano Banana Pro 與 FLUX.2 Pro 並列 9.2，我讓它們留在原位，因為它們贏在不同軸線。Nano Banana Pro 在修改既有圖片時最能保住你沒要它改的部分。FLUX.2 Pro 則把最多控制權交給願意調參數的人。\n\n這個月給買家一個實用提醒。這幾個工具多半按生成次數計費，所以重骰率比訂閱牌價更重要。第二次就中的模型，實際花費只有第四次才中的一半。",
+          "highlights": [
+            {
+              "title": "我排的是限制存活率，不是哪張圖比較漂亮",
+              "body": "我的測試是一個同時帶四到五個具體限制的提示，指定鏡頭角度、特定外套顏色、招牌上看得懂的文字、一天當中的時段，然後數有幾個限制真的進到圖裡。GPT Image 2 穩定守住五個中的四個，這就是它第一的理由。好看與否很主觀，限制存活率可以數，所以我量的是後者。"
+            },
+            {
+              "title": "Midjourney v8 的構圖還是像人做的",
+              "body": "給 v8 一個開放的命題，它會決定光從哪裡來、什麼東西要失焦。這些選擇讀起來是刻意的。做專輯封面、編輯插畫，或任何需要靠畫面帶情緒的東西，這比多一分提示準確度更值錢。我會推薦給美術總監，以及所有命題是一種感覺而非一份規格的人。"
+            },
+            {
+              "title": "要修圖選 Nano Banana Pro，要控制選 FLUX.2 Pro",
+              "body": "這兩個並列 9.2，靠的是不同本事。Nano Banana Pro 是我用過在改既有圖片單一元素、同時完整保留其餘部分上最強的，而這正是商品攝影修圖的全部工作。FLUX.2 Pro 開放更多參數，會回報那些想自己調引導強度與取樣方式的人。照你實際在做的是哪一種工作來選就對了。"
+            },
+            {
+              "title": "比訂閱價之前先算你的重骰次數",
+              "body": "這些工具多半以某種形式按生成次數計費。第二次就給你能用圖片的模型，實際成本是要四次才成功的一半，跟牌價無關。我會建議拿你自己真實會用的十個提示各跑一輪，記下平均嘗試次數，再決定要不要簽年約。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

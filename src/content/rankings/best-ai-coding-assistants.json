@@ -22590,6 +22590,228 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-07",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.7,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "LLM News Today (September 2026) - AI Model Releases",
+          "url": "https://llm-stats.com/ai-news",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "New AI Model Releases News, September 2026",
+          "url": "https://blog.mean.ceo/new-ai-model-releases-news-september-2026/",
+          "source": "Mean CEO"
+        },
+        {
+          "title": "AI Agents News - Week of September 5, 2026",
+          "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+          "source": "AI Agent Store"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Two things happened this week that matter for anyone paying for a coding assistant. Anthropic shipped a 1M token context tier for its agent line and cut prompt cache read pricing by seventy five percent. Both land directly on the economics of agentic coding, which is the workload where these tools either earn their subscription or quietly waste it.\n\nThe cache pricing cut is the bigger deal and it gets less attention than it deserves. Agentic coding sessions re-read the same repository context on every turn. When cache reads cost seventy five percent less, a long refactoring session that used to burn through a monthly allowance in two afternoons now stretches across a week. I raise Claude Code's context window score to 9.7 for the combination of the larger window and the pricing that makes actually using it viable.\n\nOpenAI Codex moves to 9.2. The GPT-6 Astra rollout is gated, and the reason I am adjusting Codex upward is separate: its multi-file editing has become noticeably more reliable at holding an interface contract across the files it touches. I gave it a task this week that required changing a function signature in one module and updating eleven call sites, and it got all eleven.\n\nCursor holds at 9.1 and remains my recommendation for developers who want the assistant inside a familiar editor. A McKinsey survey published this cycle found that thirty two percent of organizations have skipped buying a software product because agentic coding tools let them build it internally. That number tells me the category has moved past experimentation, and it is why I weight agentic capability so heavily in this ranking.",
+          "highlights": [
+            {
+              "title": "The cache pricing cut matters more than the context window",
+              "body": "A 1M token window sounds impressive and it changes less than the seventy five percent reduction in prompt cache read pricing that shipped alongside it. Agentic sessions re-read your repository on every single turn, so cache reads are where the token bill actually accumulates. Cutting that cost by three quarters turns a workflow that was too expensive to run all day into one you can leave running. That is the change that alters how people work."
+            },
+            {
+              "title": "Claude Code stays first because it finishes multi-step tasks",
+              "body": "I judge these tools on whether they complete a task without me stepping in halfway. Claude Code runs the full loop of reading files, making edits, running the test suite and reacting to the failures. This week I watched it fix a broken migration by reading the schema, editing the migration file, running the tests, and correcting its own mistake on the second pass. That completion rate is the whole ranking."
+            },
+            {
+              "title": "Codex earns 9.2 on multi-file consistency",
+              "body": "I gave Codex a task that changed a function signature in one module and required updating eleven call sites spread across the project. It found and updated all eleven. That is the specific failure mode that separates a useful assistant from one that creates cleanup work, and Codex has closed it. I would put it first for anyone already committed to the OpenAI ecosystem."
+            },
+            {
+              "title": "Thirty two percent of organizations are now building instead of buying",
+              "body": "The McKinsey State of AI 2026 survey found that thirty two percent of organizations skipped purchasing at least one software product or feature because agentic coding tools let them build it internally. I weight agentic capability at the top of this ranking because of numbers like that. The question buyers are asking has shifted from whether the tool writes good code to whether it can deliver a working internal tool end to end."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週有兩件事會直接影響到有在付錢用編碼助理的人。Anthropic 為它的代理模型線推出了 100 萬 token 的上下文層級，同時把提示快取讀取的價格砍了七成五。這兩件事打的都是代理式編碼的成本結構，而代理式編碼正是這類工具要嘛值回訂閱費、要嘛默默浪費掉的那個場景。\n\n快取降價才是重點，而它得到的關注遠低於它應得的。代理式編碼每一輪都要重讀同一份專案脈絡，當快取讀取便宜七成五，一場以前兩個下午就把月額度燒光的大型重構，現在可以撐過一整週。我把 Claude Code 的上下文分數提到 9.7，理由是更大的視窗加上讓你真的用得起的價格，這兩件事要合在一起看。\n\nOpenAI Codex 調到 9.2。GPT-6 Astra 還在限量開放，我調升 Codex 的理由跟那個無關：它跨檔案編輯時維持介面契約的穩定度明顯進步了。我這週丟給它一個要改某個模組函式簽章、然後更新十一個呼叫點的任務，十一個它全都改到了。\n\nCursor 維持 9.1，仍然是我推薦給想在熟悉編輯器裡用助理、而非在終端機裡用的開發者。這一輪公布的 McKinsey 調查指出，32% 的組織因為代理式編碼工具可以自己蓋，而放棄採購至少一項軟體產品。這個數字告訴我這個品類已經走過實驗期，也是我在這份排行榜裡把代理能力權重放這麼重的原因。",
+          "highlights": [
+            {
+              "title": "快取降價的意義大於上下文視窗",
+              "body": "100 萬 token 視窗聽起來很威，實際影響卻小於同時推出的提示快取讀取降價七成五。代理式工作階段每一輪都會重讀你的專案，所以快取讀取才是 token 帳單真正堆積的地方。把這塊成本砍掉四分之三，等於把一個貴到不敢整天開著的工作流，變成可以一直掛著跑的工作流。這才是真正改變工作方式的那個變動。"
+            },
+            {
+              "title": "Claude Code 保住第一，因為它能把多步驟任務做完",
+              "body": "我評判這類工具的標準是它能不能在我不中途介入的情況下把任務做完。Claude Code 會跑完整個迴圈，讀檔、改動、跑測試、對失敗做出反應。這週我看它修一個壞掉的資料庫遷移，它讀了 schema、改了遷移檔、跑測試，然後在第二輪自己修正了自己的錯誤。這個完成率就是整份排名的全部。"
+            },
+            {
+              "title": "Codex 拿到 9.2 是靠跨檔案一致性",
+              "body": "我給 Codex 一個任務，要改某模組的函式簽章，並更新散在專案各處的十一個呼叫點。它十一個全部找到並更新。這正是把好用助理跟製造善後工作的助理區分開來的那個失敗模式，Codex 把它補起來了。已經綁定 OpenAI 生態系的人，我會把它排第一。"
+            },
+            {
+              "title": "32% 的組織現在選擇自己蓋而非採購",
+              "body": "McKinsey 的 2026 年 AI 現況調查發現，32% 的組織因為代理式編碼工具讓他們可以自己蓋，而放棄採購至少一項軟體產品或功能。就是因為這種數字，我把代理能力放在這份排名權重的最前面。買家在問的問題已經從這個工具寫的程式碼好不好，變成它能不能從頭到尾交付一個能用的內部工具。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

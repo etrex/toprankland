@@ -16671,6 +16671,163 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-07",
+      "rankings": [
+        {
+          "id": "protonvpn",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "mullvad",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "SplitVPN Data Breach",
+          "url": "https://haveibeenpwned.com/Breach/SplitVPN",
+          "source": "Have I Been Pwned"
+        },
+        {
+          "title": "VPN Data Breaches 2026: Which VPNs Were Hacked",
+          "url": "https://www.zerotovpn.com/blog/vpn-data-breaches-2026-which-vpns-hacked",
+          "source": "ZeroToVPN"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The SplitVPN breach disclosed this cycle is the story I want readers to take away, and the lesson from it changes nothing about my top three.\n\nSplitVPN, previously operating as NotVPN, exposed millions of customer records including 865,000 unique email addresses, IP addresses, country, and partial payment card data covering the first six and last four digits plus expiry. Read that list again. A VPN provider was holding customer IP addresses in a form that could be exposed. That is the entire thing you are paying a VPN to not do.\n\nProton VPN stays first at 9.3 and Mullvad stays second at 9.2 because both are built so that this specific breach could not produce the same list. Mullvad does not ask for an email address to create an account. There is no email list to leak because there is no email list. Proton operates under Swiss jurisdiction with published no logs audits. When I score privacy in this category I am scoring what the provider could hand over or lose, and both of these have deliberately arranged to hold very little.\n\nNordVPN at 8.8 and ExpressVPN at 8.5 stay where they are. Both have independent audits and both hold more account data than the top two, which is the gap in the score.\n\nMy practical advice this month is to check what your provider knows about you. Log into your account page and look at what is stored: email, payment method, connection history. Whatever is listed there is what exists to be exposed. If that list is longer than you expected, that is your answer about whether to renew.",
+          "highlights": [
+            {
+              "title": "The SplitVPN breach exposed exactly what a VPN exists to hide",
+              "body": "The disclosed records included 865,000 unique email addresses, IP addresses, country, and partial card data with the first six and last four digits plus expiry. A VPN provider was retaining customer IP addresses in a recoverable form. That is the specific thing the product is sold to prevent. This is why I score data minimisation ahead of server count and connection speed in this ranking."
+            },
+            {
+              "title": "Mullvad cannot leak an email list because it never collects one",
+              "body": "Mullvad issues an account number and asks for nothing else. No email, no name. When a breach happens at a provider built this way, the recoverable customer data is close to nothing because nothing was recorded. That design choice is worth more than any audit report, and it is why Mullvad holds 9.2 despite a smaller server network than several competitors below it."
+            },
+            {
+              "title": "Proton VPN leads on jurisdiction plus published audits",
+              "body": "Proton operates under Swiss law and publishes independent no logs audits. The combination matters because jurisdiction determines what a provider can be compelled to produce and audits determine whether the no logs claim survives contact with an auditor. Proton is the one I recommend to readers who want strong privacy without managing an account number they can lose."
+            },
+            {
+              "title": "Open your account page and look at what your provider stores",
+              "body": "This is a five minute exercise that tells you more than any review. Log in and read what is on file: email address, payment method, connection or session history. Everything listed there is what exists to be exposed in a breach. If that list surprises you, you now know whether to renew, and you learned it before an incident."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這一輪揭露的 SplitVPN 資料外洩是我想讓讀者帶走的重點，而它的教訓完全沒有改變我的前三名。\n\nSplitVPN，之前叫 NotVPN，外洩了數百萬筆客戶記錄，包含 865,000 個不重複電子郵件地址、IP 位址、所在國家，以及信用卡前六碼後四碼加到期日的部分資料。這份清單再讀一次。一家 VPN 業者手上握著可以被外洩的客戶 IP 位址。而你付錢給 VPN 就是要它別做這件事。\n\nProton VPN 以 9.3 守住第一，Mullvad 以 9.2 維持第二，因為這兩家的架構讓這個特定的外洩產不出同樣一份清單。Mullvad 開帳號根本不跟你要電子郵件。沒有郵件清單可以外洩，因為根本沒有郵件清單。Proton 在瑞士司法管轄下營運，並公開無紀錄稽核報告。我在這個品類評隱私的時候，評的是這家業者有什麼東西可以交出去或弄丟，而這兩家都刻意安排成手上握得很少。\n\nNordVPN 的 8.8 與 ExpressVPN 的 8.5 維持原位。兩家都有獨立稽核，也都比前兩名握有更多帳號資料，這就是分數的落差。\n\n這個月的實務建議是去看看你的業者知道你多少事。登入帳號頁面，看看存了什麼：電子郵件、付款方式、連線紀錄。列在那裡的每一項，就是外洩時會存在的東西。如果那份清單比你以為的長，那就是你要不要續約的答案。",
+          "highlights": [
+            {
+              "title": "SplitVPN 外洩的正好是 VPN 存在的目的要藏起來的東西",
+              "body": "揭露的記錄包含 865,000 個不重複電子郵件地址、IP 位址、所在國家，以及卡號前六碼後四碼加到期日。一家 VPN 業者以可還原的形式保留了客戶 IP 位址。這正是這個產品被賣來要防止的那件事。所以我在這份排名裡把資料最小化的權重放在伺服器數量與連線速度之前。"
+            },
+            {
+              "title": "Mullvad 洩不出郵件清單，因為它從來不收",
+              "body": "Mullvad 只發給你一組帳號編號，其他什麼都不問。沒有信箱，沒有姓名。這樣架構的業者發生外洩時，可還原的客戶資料接近於零，因為根本沒記錄過。這個設計選擇比任何稽核報告都值錢，也是 Mullvad 在伺服器數量少於好幾家排在它下面的競品的情況下，仍守住 9.2 的原因。"
+            },
+            {
+              "title": "Proton VPN 領先靠的是司法管轄加上公開稽核",
+              "body": "Proton 在瑞士法律下營運，並且公開獨立的無紀錄稽核報告，而非在行銷文案裡宣稱。這個組合很重要，因為司法管轄決定了業者可以被強制交出什麼，稽核則決定了無紀錄這個宣稱能不能撐過稽核員的檢驗。想要強隱私、又不想管理一組可能弄丟的帳號編號的讀者，我推 Proton。"
+            },
+            {
+              "title": "打開帳號頁面看看你的業者存了什麼",
+              "body": "這是個五分鐘的動作，告訴你的比任何評測都多。登入，讀一下檔案裡有什麼：電子郵件地址、付款方式、連線或工作階段紀錄。列在那裡的每一項，就是外洩時會存在的東西。如果那份清單讓你意外，你現在就知道要不要續約了，而且是在事故發生之前就知道，不是之後。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

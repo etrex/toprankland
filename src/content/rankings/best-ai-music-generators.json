@@ -16610,6 +16610,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-07",
+      "rankings": [
+        {
+          "id": "suno-v5",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "audioQuality": 9.7,
+            "vocalRealism": 9.4,
+            "editingControl": 9.6,
+            "commercialLicense": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "elevenlabs-music",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "audioQuality": 9.3,
+            "vocalRealism": 9.7,
+            "editingControl": 8.7,
+            "commercialLicense": 9.8,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "lyria-3-pro",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 8.6,
+            "editingControl": 8.4,
+            "commercialLicense": 9.5,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 7.0,
+            "editingControl": 8.6,
+            "commercialLicense": 9.5,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "udio",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "audioQuality": 9.6,
+            "vocalRealism": 9.5,
+            "editingControl": 9.8,
+            "commercialLicense": 7.5,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "riffusion",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "audioQuality": 8.2,
+            "vocalRealism": 7.8,
+            "editingControl": 8.5,
+            "commercialLicense": 8.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "soundraw",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "audioQuality": 8.0,
+            "vocalRealism": 6.5,
+            "editingControl": 7.5,
+            "commercialLicense": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aiva",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 6.8,
+            "editingControl": 7.8,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "mubert",
+          "rank": 9,
+          "score": 7.3,
+          "scores": {
+            "audioQuality": 7.5,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "loudly",
+          "rank": 10,
+          "score": 7.0,
+          "scores": {
+            "audioQuality": 7.3,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "boomy",
+          "rank": 11,
+          "score": 6.8,
+          "scores": {
+            "audioQuality": 6.8,
+            "vocalRealism": 6.5,
+            "editingControl": 6.8,
+            "commercialLicense": 8.5,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "LLM News Today (September 2026) - AI Model Releases",
+          "url": "https://llm-stats.com/ai-news",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "New AI Model Releases News, September 2026",
+          "url": "https://blog.mean.ceo/new-ai-model-releases-news-september-2026/",
+          "source": "Mean CEO"
+        },
+        {
+          "title": "AI Agents News - Week of September 5, 2026",
+          "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+          "source": "AI Agent Store"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The music generator ranking holds this week. Suno v5 stays first and ElevenLabs Music stays second, and I want to explain why the gap between them is smaller than the scores suggest.\n\nSuno v5 wins on vocal realism. The specific thing it does better is breath. Listen closely to a Suno v5 vocal and you hear the singer take air before a long phrase, and the phrase ends where a real set of lungs would run out. Models that skip this produce vocals that sound technically clean and emotionally flat. That single detail is worth the top spot for anyone making music where a voice carries the song.\n\nElevenLabs Music wins on editing control. If you need to keep a track and change one section, ElevenLabs gives you the finest handle on that operation of anything in this list. For production work where you are iterating with a client, that control is often more valuable than a better first generation.\n\nLyria 3 Pro at 8.6 remains the strongest option for instrumental beds, and I recommend it to video editors who need something that sits under a voiceover.\n\nThe commercial licence question applies here even more sharply than it does in video, because music rights are enforced by organisations that actively look for infringement. Before you put generated music in anything monetised, confirm the current commercial terms for your specific subscription tier. Several of these services grant different rights at different price points, and the free tier almost never carries commercial rights.",
+          "highlights": [
+            {
+              "title": "Suno v5 leads because it models breathing",
+              "body": "Put on a Suno v5 vocal and listen for the intake of air before a long phrase, then notice that the phrase resolves where real lungs would run out. That single behaviour is what makes a generated vocal sound performed. Models that produce technically accurate pitch without breath sound clean and empty. For any track where a voice carries the song, this is the deciding factor and it is why Suno holds 9.4."
+            },
+            {
+              "title": "ElevenLabs Music wins the client revision workflow",
+              "body": "Client work is a sequence of small changes to something that already mostly works. ElevenLabs Music gives the finest control over regenerating one section while keeping the rest, which is exactly the operation that workflow demands. If you are producing to a brief with revision rounds, I would rank it first regardless of the raw quality comparison, because the revision cost dominates the total time."
+            },
+            {
+              "title": "Lyria 3 Pro is the right tool for beds under voiceover",
+              "body": "Music that sits under narration has a different job from music people listen to directly. It needs to stay out of the vocal range, avoid sudden dynamic changes, and loop cleanly at arbitrary lengths. Lyria 3 Pro is built around those constraints and delivers them consistently. Video editors should start here."
+            },
+            {
+              "title": "Check commercial rights by subscription tier, not by brand",
+              "body": "Music rights get enforced by organisations that actively scan for infringement, so this matters more here than in any other generative category. Several services in this ranking grant different commercial rights at different price points, and free tiers almost never include them. Confirm the terms attached to the exact tier you pay for before generated music appears in anything monetised."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "音樂生成這週排名不動。Suno v5 維持第一，ElevenLabs Music 維持第二，我想說明為什麼兩者的差距比分數看起來的更小。\n\nSuno v5 贏在人聲擬真度。它做得特別好的地方是換氣。你仔細聽 Suno v5 的人聲，會聽到歌手在長樂句前吸氣，而樂句結束在真實肺活量會用完的地方。跳過這件事的模型產出的人聲技術上很乾淨，情感上很平。光這一個細節，就值得讓它坐在需要靠人聲撐起整首歌的使用者心中的第一名。\n\nElevenLabs Music 贏在編輯控制。如果你要保留一首曲子只改其中一段，ElevenLabs 給你的操作把手是這份清單裡最細的。對那種要跟客戶反覆修改的製作工作來說，這種控制往往比第一次生成得更好更有價值。\n\nLyria 3 Pro 的 8.6 讓它仍是配樂墊底的最強選項，我會推薦給需要在旁白底下放東西、而非要做一首讓人單獨聽的歌的影片剪輯師。\n\n商用授權的問題在這裡比在影片那邊更尖銳，因為音樂版權有組織會主動去找侵權。在你把生成音樂放進任何有營利的內容之前，先確認你那個訂閱層級現行的商用條款。這幾家服務在不同價位給的權利不一樣，而免費層幾乎從來不含商用權。",
+          "highlights": [
+            {
+              "title": "Suno v5 領先是因為它把呼吸模擬出來了",
+              "body": "放一段 Suno v5 的人聲，聽長樂句前的那口吸氣，然後注意樂句結束在真實肺活量會用完的地方。就是這個行為讓生成人聲聽起來像有人在唱。只做到音準精確而沒有呼吸的模型，聽起來乾淨又空洞。任何靠人聲撐起整首歌的曲子，這就是決定性因素，也是 Suno 守住 9.4 的原因。"
+            },
+            {
+              "title": "ElevenLabs Music 贏在客戶改稿的工作流",
+              "body": "接案工作就是對一個大致上已經可用的東西做一連串小修改。ElevenLabs Music 在重新生成單一段落、同時保留其餘部分上給的控制最細，這正是那種工作流需要的操作。如果你在照命題製作並且有好幾輪修改，我會把它排第一，跟原始品質比較無關，因為改稿成本才是總工時的大宗。"
+            },
+            {
+              "title": "旁白底下的配樂墊選 Lyria 3 Pro 才對",
+              "body": "墊在旁白底下的音樂跟給人直接聽的音樂工作不一樣。它得避開人聲頻段、避免突然的動態變化、還要能在任意長度乾淨循環。Lyria 3 Pro 就是繞著這些限制做的，而且交付得很穩定。影片剪輯師應該從這裡開始，而非從分數更高的歌曲生成器開始。"
+            },
+            {
+              "title": "商用權要看訂閱層級，不要看品牌",
+              "body": "音樂版權有組織會主動掃描侵權，所以這件事在這裡比任何其他生成品類都重要。這份排名裡好幾家服務在不同價位給的商用權不一樣，免費層幾乎都不含。在生成音樂出現在任何有營利的內容之前，先確認你實際付費的那個層級所附帶的條款。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
