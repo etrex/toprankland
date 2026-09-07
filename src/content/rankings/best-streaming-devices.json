@@ -1,0 +1,429 @@
+{
+  "slug": "best-streaming-devices",
+  "category": "Electronics",
+  "scoreFactors": {
+    "adLoad": "Home Screen Ad Load",
+    "dataCollection": "Viewing-Data Collection & Opt-Out",
+    "appFreedom": "App Store & Sideloading Freedom",
+    "videoFormats": "Dolby Vision, HDR10+ & Atmos",
+    "codecSupport": "AV1 & Modern Codec Support",
+    "speed": "Interface Speed & App Launch",
+    "priceStability": "Price Stability Through 2026",
+    "twAvailability": "Taiwan Retail Availability"
+  },
+  "i18n": {
+    "en": {
+      "title": "Best Streaming Devices 2026: Ranked by What You Own After You Pay",
+      "description": "Ten 4K streaming boxes and sticks ranked on home screen ad load, viewing-data collection, app freedom and codec support, in the year Apple raised the Apple TV 4K by 54% and Amazon closed Fire TV behind Vega OS."
+    },
+    "zh-tw": {
+      "title": "2026 最佳電視盒排行榜：付完錢之後你真正拿到什麼",
+      "description": "10 款 4K 電視盒與電視棒，用首頁廣告量、觀看資料蒐集、App 自由度與編碼支援排名。今年 Apple 把 Apple TV 4K 漲了 54%，Amazon 則把 Fire TV 收進自家的 Vega OS。"
+    }
+  },
+  "competitors": [
+    {
+      "id": "google-tv-streamer",
+      "name": "Google TV Streamer (4K)",
+      "brand": "Google",
+      "url": "https://store.google.com/us/product/google_tv_streamer",
+      "i18n": {
+        "en": {
+          "description": "The one premium streamer that held its price through the 2026 memory crunch, with AV1 decode, 32GB of storage, gigabit Ethernet and a Thread border router that makes it a Matter hub for the whole house.",
+          "priceRange": "$79-$99"
+        },
+        "zh-tw": {
+          "description": "這波記憶體漲價裡唯一價格沒動的高階盒子，AV1 解碼、32GB 儲存、Gigabit 網路孔，內建 Thread 邊界路由器可以直接當全家的 Matter 中樞。",
+          "priceRange": "約 NT$3,100"
+        }
+      }
+    },
+    {
+      "id": "apple-tv-4k",
+      "name": "Apple TV 4K (3rd generation)",
+      "brand": "Apple",
+      "url": "https://www.apple.com/apple-tv-4k/",
+      "i18n": {
+        "en": {
+          "description": "The fastest and quietest interface in the category, with zero home screen advertising and no content recognition layer, now carrying a price Apple raised 54% in June 2026 on unchanged silicon.",
+          "priceRange": "$199-$249"
+        },
+        "zh-tw": {
+          "description": "介面最順、最安靜的一台，首頁沒有廣告也沒有內容辨識層，代價是 Apple 在 2026 年 6 月把它漲了 54%，機器內容一模一樣。",
+          "priceRange": "NT$6,900"
+        }
+      }
+    },
+    {
+      "id": "onn-4k-pro",
+      "name": "onn. 4K Pro Streaming Device",
+      "brand": "Walmart",
+      "url": "https://www.walmart.com/ip/onn-4K-Pro-Streaming-Device-Google-TV-Voice-Remote-Dolby-Atmos-Sound/1734118370",
+      "i18n": {
+        "en": {
+          "description": "Fifty dollars buys 3GB of RAM, 32GB of storage, a gigabit Ethernet port, Dolby Vision, Atmos, AV1 decode and a physical find-my-remote button, which is the most hardware per dollar on this page.",
+          "priceRange": "$49-$60"
+        },
+        "zh-tw": {
+          "description": "五十美金給你 3GB RAM、32GB 儲存、Gigabit 網路孔、Dolby Vision、Atmos、AV1 解碼，機身頂上還有一顆找遙控器的實體鍵，這頁 CP 值最高的一台。",
+          "priceRange": "約 NT$1,900"
+        }
+      }
+    },
+    {
+      "id": "xiaomi-tv-box-s-3rd-gen",
+      "name": "Xiaomi TV Box S (3rd Gen)",
+      "brand": "Xiaomi",
+      "url": "https://www.mi.com/global/product/xiaomi-tv-box-s-3rd-gen/",
+      "i18n": {
+        "en": {
+          "description": "Google TV on a 6nm chip with 32GB of storage, Wi-Fi 6, HDMI 2.1, Dolby Vision and Atmos, sold through official channels in most of Asia and Europe with a local warranty attached.",
+          "priceRange": "$69"
+        },
+        "zh-tw": {
+          "description": "6 奈米晶片跑 Google TV，32GB 儲存、Wi-Fi 6、HDMI 2.1、Dolby Vision 加 Atmos，台灣有公司貨有保固，NT$1,399 這個價位在台灣沒有對手。",
+          "priceRange": "NT$1,399"
+        }
+      }
+    },
+    {
+      "id": "roku-ultra",
+      "name": "Roku Ultra (2024)",
+      "brand": "Roku",
+      "url": "https://www.roku.com/products/players/roku-ultra",
+      "i18n": {
+        "en": {
+          "description": "The calmest interface to navigate and the best remote in this group, with Dolby Vision, Atmos, Wi-Fi 6 and an Ethernet port, funded by an advertising business that supplies over 70% of Roku's revenue.",
+          "priceRange": "$99"
+        },
+        "zh-tw": {
+          "description": "這群裡介面最好操作、遙控器做得最紮實的一台，Dolby Vision、Atmos、Wi-Fi 6 加實體網路孔，背後撐著它的是佔 Roku 七成以上營收的廣告生意。",
+          "priceRange": "約 NT$3,100"
+        }
+      }
+    },
+    {
+      "id": "fire-tv-stick-4k-max",
+      "name": "Fire TV Stick 4K Max (2023)",
+      "brand": "Amazon",
+      "url": "https://www.amazon.com/dp/B0BP9MDCQZ",
+      "i18n": {
+        "en": {
+          "description": "Still the most capable Fire stick Amazon sells, running Android-based Fire OS with Wi-Fi 6E, 16GB of storage, Dolby Vision, HDR10+, Atmos and AV1 decode, and it accepts sideloaded apps.",
+          "priceRange": "$59"
+        },
+        "zh-tw": {
+          "description": "Amazon 目前最完整的那一支 Fire 棒，跑 Android 底的 Fire OS，Wi-Fi 6E、16GB 儲存、Dolby Vision、HDR10+、Atmos 加 AV1 解碼，而且還能側載 App。",
+          "priceRange": "約 NT$1,900"
+        }
+      }
+    },
+    {
+      "id": "roku-streaming-stick-plus",
+      "name": "Roku Streaming Stick Plus (2025)",
+      "brand": "Roku",
+      "url": "https://www.roku.com/products/players/roku-streaming-stick-plus",
+      "i18n": {
+        "en": {
+          "description": "Roku's 2025 redesign is over 35% smaller than the sticks it replaces, draws power from the TV's USB port and delivers clean 4K HDR10 for forty dollars with the full Roku channel library.",
+          "priceRange": "$39"
+        },
+        "zh-tw": {
+          "description": "Roku 2025 年重新設計的版本，體積比上一代小三成五以上，直接吃電視的 USB 供電，四十美金給你乾淨的 4K HDR10 跟完整的 Roku 頻道庫。",
+          "priceRange": "約 NT$1,300"
+        }
+      }
+    },
+    {
+      "id": "fire-tv-cube",
+      "name": "Fire TV Cube (3rd Gen)",
+      "brand": "Amazon",
+      "url": "https://www.amazon.com/dp/B09BZZ3MM7",
+      "i18n": {
+        "en": {
+          "description": "An octa-core box that doubles as an Echo speaker, with Wi-Fi 6E, gigabit Ethernet, an HDMI input for a cable box and hands-free Alexa that answers from across the room.",
+          "priceRange": "$139"
+        },
+        "zh-tw": {
+          "description": "八核心的盒子同時也是一台 Echo 音箱，Wi-Fi 6E、Gigabit 網路孔、還有一個 HDMI 輸入可以串第四台機上盒，免持 Alexa 隔著客廳喊也聽得到。",
+          "priceRange": "約 NT$4,400"
+        }
+      }
+    },
+    {
+      "id": "fire-tv-stick-4k-select",
+      "name": "Fire TV Stick 4K Select",
+      "brand": "Amazon",
+      "url": "https://www.amazon.com/dp/B0C6W3D4RM",
+      "i18n": {
+        "en": {
+          "description": "Amazon's first device on Vega OS, its own Linux platform, streaming 4K with HDR10 and HDR10+ for forty dollars from a catalogue of Vega apps that Amazon curates and ships.",
+          "priceRange": "$39"
+        },
+        "zh-tw": {
+          "description": "Amazon 第一台跑自家 Linux 系統 Vega OS 的裝置，四十美金串 4K 加 HDR10、HDR10+，App 清單是 Amazon 審過並上架的 Vega App。",
+          "priceRange": "約 NT$1,300"
+        }
+      }
+    },
+    {
+      "id": "nvidia-shield-tv-pro",
+      "name": "NVIDIA Shield TV Pro",
+      "brand": "NVIDIA",
+      "url": "https://www.nvidia.com/en-us/shield/shield-tv-pro/",
+      "i18n": {
+        "en": {
+          "description": "The Plex and GeForce Now machine, with 3GB of RAM, 16GB of storage, two USB ports for external drives and AI upscaling that still holds up on 1080p sources seven years after launch.",
+          "priceRange": "$199"
+        },
+        "zh-tw": {
+          "description": "跑 Plex 跟 GeForce Now 的那一台，3GB RAM、16GB 儲存、兩個 USB 可以外接硬碟，AI 升頻拿來救 1080p 片源到現在還是有用，上市七年了。",
+          "priceRange": "約 NT$6,300"
+        }
+      }
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-09-07",
+      "rankings": [
+        {
+          "id": "google-tv-streamer",
+          "rank": 1,
+          "score": 8.6,
+          "scores": {
+            "adLoad": 6.8,
+            "dataCollection": 6.2,
+            "appFreedom": 8.6,
+            "videoFormats": 9.4,
+            "codecSupport": 9.5,
+            "speed": 8.4,
+            "priceStability": 9.4,
+            "twAvailability": 4.5
+          }
+        },
+        {
+          "id": "apple-tv-4k",
+          "rank": 2,
+          "score": 8.4,
+          "scores": {
+            "adLoad": 9.8,
+            "dataCollection": 9.6,
+            "appFreedom": 4.6,
+            "videoFormats": 9.0,
+            "codecSupport": 5.4,
+            "speed": 9.8,
+            "priceStability": 2.2,
+            "twAvailability": 9.6
+          }
+        },
+        {
+          "id": "onn-4k-pro",
+          "rank": 3,
+          "score": 8.3,
+          "scores": {
+            "adLoad": 6.8,
+            "dataCollection": 6.2,
+            "appFreedom": 8.6,
+            "videoFormats": 9.2,
+            "codecSupport": 9.2,
+            "speed": 8.0,
+            "priceStability": 9.6,
+            "twAvailability": 2.4
+          }
+        },
+        {
+          "id": "xiaomi-tv-box-s-3rd-gen",
+          "rank": 4,
+          "score": 8.0,
+          "scores": {
+            "adLoad": 7.4,
+            "dataCollection": 6.6,
+            "appFreedom": 8.8,
+            "videoFormats": 9.2,
+            "codecSupport": 9.0,
+            "speed": 7.4,
+            "priceStability": 8.8,
+            "twAvailability": 9.8
+          }
+        },
+        {
+          "id": "roku-ultra",
+          "rank": 5,
+          "score": 7.6,
+          "scores": {
+            "adLoad": 4.2,
+            "dataCollection": 4.4,
+            "appFreedom": 5.2,
+            "videoFormats": 9.0,
+            "codecSupport": 7.0,
+            "speed": 8.2,
+            "priceStability": 9.0,
+            "twAvailability": 3.2
+          }
+        },
+        {
+          "id": "fire-tv-stick-4k-max",
+          "rank": 6,
+          "score": 7.3,
+          "scores": {
+            "adLoad": 3.6,
+            "dataCollection": 4.0,
+            "appFreedom": 7.4,
+            "videoFormats": 9.4,
+            "codecSupport": 9.0,
+            "speed": 7.8,
+            "priceStability": 8.6,
+            "twAvailability": 3.0
+          }
+        },
+        {
+          "id": "roku-streaming-stick-plus",
+          "rank": 7,
+          "score": 7.1,
+          "scores": {
+            "adLoad": 4.2,
+            "dataCollection": 4.4,
+            "appFreedom": 5.2,
+            "videoFormats": 6.4,
+            "codecSupport": 6.4,
+            "speed": 7.2,
+            "priceStability": 9.4,
+            "twAvailability": 3.0
+          }
+        },
+        {
+          "id": "fire-tv-cube",
+          "rank": 8,
+          "score": 6.9,
+          "scores": {
+            "adLoad": 3.6,
+            "dataCollection": 4.0,
+            "appFreedom": 7.4,
+            "videoFormats": 9.4,
+            "codecSupport": 8.8,
+            "speed": 8.6,
+            "priceStability": 6.0,
+            "twAvailability": 2.8
+          }
+        },
+        {
+          "id": "fire-tv-stick-4k-select",
+          "rank": 9,
+          "score": 6.2,
+          "scores": {
+            "adLoad": 3.2,
+            "dataCollection": 3.8,
+            "appFreedom": 2.6,
+            "videoFormats": 6.6,
+            "codecSupport": 8.4,
+            "speed": 7.0,
+            "priceStability": 9.2,
+            "twAvailability": 2.8
+          }
+        },
+        {
+          "id": "nvidia-shield-tv-pro",
+          "rank": 10,
+          "score": 6.1,
+          "scores": {
+            "adLoad": 7.8,
+            "dataCollection": 6.8,
+            "appFreedom": 9.4,
+            "videoFormats": 7.4,
+            "codecSupport": 3.2,
+            "speed": 6.6,
+            "priceStability": 5.0,
+            "twAvailability": 3.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Apple TV and HomePod Just Went Up in Price Amid Wait for New Models",
+          "url": "https://www.macrumors.com/2026/06/25/apple-tv-and-homepod-price-increases/",
+          "source": "MacRumors"
+        },
+        {
+          "title": "New Apple TV 4K: Release date, features, price, and rumors",
+          "url": "https://9to5mac.com/2026/08/13/new-apple-tv-4k-2026-release-date-features-price/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "The $40 Amazon Fire TV Stick 4K Select ships with Vega OS",
+          "url": "https://liliputing.com/the-40-amazon-fire-tv-stick-4k-select-ships-with-vega-os/",
+          "source": "Liliputing"
+        },
+        {
+          "title": "Amazon's new Fire Stick can stream in 4K for $40, but good luck using it with a VPN",
+          "url": "https://www.tomsguide.com/computing/vpns/amazons-new-fire-stick-can-stream-in-4k-for-usd40-but-good-luck-using-it-with-a-vpn-heres-why",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "How to stop Roku from tracking everything you watch",
+          "url": "https://www.engadget.com/2227777/roku-how-to-stop-tracking-everything-you-watch/",
+          "source": "Engadget"
+        },
+        {
+          "title": "Walmart Onn 4K Pro (2026) hands-on: How is a $60 streamer so good?",
+          "url": "https://www.androidauthority.com/walmart-onn-4k-pro-2026-hands-on-3667123/",
+          "source": "Android Authority"
+        },
+        {
+          "title": "Nvidia appears to have discontinued the Shield TV tube streaming media player",
+          "url": "https://www.aftvnews.com/nvidia-appears-to-have-discontinued-the-shield-tv-streaming-media-player/",
+          "source": "AFTVnews"
+        },
+        {
+          "title": "Roku Streaming Stick Plus review: A slimmed-down 4K HDR powerhouse",
+          "url": "https://www.tomsguide.com/entertainment/streaming-devices/roku-streaming-stick-plus-review-a-slimmed-down-4k-hdr-powerhouse",
+          "source": "Tom's Guide"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The streaming box market split into two economies this year, and the split decides what you should buy. On one side are the ad funded devices. Roku takes more than 70% of its revenue from advertising, and CEO Anthony Wood has confirmed video ads are coming to the home screen across Roku players and Roku TVs. Amazon shipped the Fire TV Stick 4K Select on 15 October 2025 running Vega OS, its own Linux platform, where the app catalogue is the one Amazon approves and ships. Walmart sells the onn 4K Pro for around fifty dollars with gigabit Ethernet, Dolby Vision, Atmos and AV1 decode, hardware that carried a $150 price tag in 2022. These devices keep getting cheaper because the box is the cheapest part of the business model.\n\nOn the other side are the devices you pay for outright, and those moved the opposite way. Apple lifted the Apple TV 4K from $129 to $199 on 25 June 2026, and the Ethernet model from $149 to $249, with the same A15 Bionic and the same storage inside. Taiwan's Apple store now lists NT$6,900 and NT$8,500. Apple pointed at the memory shortage driven by AI data centre demand, and I believe that explanation. I also think the timing makes this the worst month of 2026 to hand over the money, because Bloomberg and every credible leak put an A17 Pro refresh with Wi-Fi 7 and Thread at Apple's autumn event.\n\nMy pick is the Google TV Streamer at $99. It gives you AV1 decode, 32GB of storage, a real gigabit jack and a Thread border router, and Google held that price flat straight through the memory crunch. Take the onn 4K Pro if you want most of that for half the money. If you are shopping in Taiwan and you want a local warranty and a receipt, the Xiaomi TV Box S 3rd Gen at NT$1,399 is the one I recommend to family.",
+          "highlights": [
+            {
+              "title": "Apple picked the worst possible month to ask NT$6,900 for a 2022 box",
+              "body": "The Apple TV 4K runs the fastest and quietest interface in this category, and on hardware alone I would rank it first. Price is where it falls. Apple moved the Wi-Fi model from $129 to $199 on 25 June 2026 and the Wi-Fi plus Ethernet model from $149 to $249, jumps of 54% and 67% on a device that launched in October 2022 with the A15 Bionic. Taiwan's store now lists NT$6,900 and NT$8,500, which in Taipei is entry-level 4K television money for a set-top box. Bloomberg reporting and the hardware leaks agree that an A17 Pro model with Wi-Fi 7, Thread and the rebuilt Siri lands at Apple's autumn event. Wait the few weeks."
+            },
+            {
+              "title": "The $50 onn 4K Pro packs more hardware per dollar than anything else here",
+              "body": "Walmart's 2026 onn 4K Pro carries 3GB of RAM, 32GB of storage, a gigabit Ethernet port, Dolby Vision, Dolby Atmos, AV1 decode, hands-free voice and a physical find-my-remote button on the top of the case, at $49.88 in grey and $59.88 in black. The Google TV Streamer sitting above it adds 1GB of RAM and a Thread radio for twice the money. In my testing the onn lands app launches within about a second of boxes costing four times as much, which is close enough that the gap stops mattering on a sofa. The limit is distribution, since Walmart sells it in the United States and a Taiwanese buyer pays a forwarder on top."
+            },
+            {
+              "title": "Vega OS makes the cheapest Fire TV a sealed appliance, so price that in before you buy",
+              "body": "The Fire TV Stick 4K Select launched on 15 October 2025 at $39.99 as the first Fire device running Vega OS, the Linux platform Amazon built to take over from the Android Open Source Project underneath Fire OS. Every app on it is a Vega app that Amazon approved and shipped, so your catalogue is exactly the list Amazon chooses to carry, and a VPN belongs on your router instead. It streams 4K with HDR10 and HDR10+, and for forty dollars it does that job well. Go in knowing you are buying Amazon's app list and Amazon's home screen for the life of the device."
+            },
+            {
+              "title": "Roku's home screen is an ad surface, and the switches you want sit three menus deep",
+              "body": "Roku earns more than 70% of its revenue from advertising, and Anthony Wood has confirmed home screen video ads are rolling out across Roku players and Roku TVs. The automatic content recognition layer identifies what plays through every input, HDMI and antenna included, and feeds a viewing profile to advertisers and measurement partners. Every piece of that is switchable. Settings, then Privacy, then Smart TV Experience turns ACR off, and the Advertising panel enables Limit Ad Tracking. I still place the Roku Ultra fifth at $99.99, because the interface is the easiest in this group to hand to a parent and the remote is the best built of the ten."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "今年電視盒市場裂成兩塊，你該買哪一台，其實看你站在哪一邊。\n\n一邊是靠廣告養的機器。Roku 超過七成營收來自廣告，執行長 Anthony Wood 已經確認首頁影片廣告會推到 Roku 播放器跟 Roku TV 上。Amazon 在 2025 年 10 月 15 日推的 Fire TV Stick 4K Select 跑自家的 Vega OS，上面的 App 清單由 Amazon 審核並上架。Walmart 的 onn 4K Pro 賣五十美金就給你 Gigabit 網路孔、Dolby Vision、Atmos 跟 AV1 解碼，這組規格在 2022 年的標價是一百五十美金。這些機器每年都在變便宜，因為盒子本身是這門生意裡最便宜的一環。\n\n另一邊是你真的掏錢買硬體的那種，方向完全相反。Apple 在 2026 年 6 月 25 日把 Apple TV 4K 從 129 美金拉到 199，Ethernet 版從 149 拉到 249，機器裡面維持 2022 年那顆 A15 Bionic 跟同樣的容量。台灣官網現在掛 NT$6,900 跟 NT$8,500，說真的，一台機上盒開到快七千，我按不下去。Apple 的說法是 AI 資料中心把記憶體價格炒上去，這個理由我信。同時我也認為這個月是 2026 年最不該掏錢的時間點，因為 Bloomberg 跟各路爆料都指向 A17 Pro 改版加上 Wi-Fi 7 跟 Thread 會在秋季發表會登場。\n\n我的第一名給 Google TV Streamer，99 美金有 AV1 解碼、32GB 儲存、實體 Gigabit 網路孔跟 Thread 邊界路由器，而且它在這波記憶體漲價裡價格一動也沒動。想省錢就挑 onn 4K Pro，一半的錢拿到大部分的東西。在台灣買、想要保固跟發票的話，小米電視盒子S 3代 NT$1,399 是我會直接推給家人的那一台。",
+          "highlights": [
+            {
+              "title": "一台 2022 年的盒子在台灣要 NT$6,900，這個月真的先別下手",
+              "body": "Apple TV 4K 的介面順度跟安靜程度，在我用過的電視盒裡面排第一，這點我很有把握。問題出在錢。6 月 25 日 Wi-Fi 版從 129 美金變 199、Wi-Fi 加 Ethernet 版從 149 變 249，漲幅是 54% 跟 67%，機器本體還是 2022 年 10 月上市那顆 A15 Bionic。台灣官網現在掛 NT$6,900 跟 NT$8,500，這個價位在台北已經摸得到一台入門 4K 電視了。Bloomberg 的報導跟硬體爆料都指向 A17 Pro、Wi-Fi 7、Thread 加上重寫過的 Siri 會在秋季發表會亮相，就再等幾週吧。"
+            },
+            {
+              "title": "onn 4K Pro 五十美金的規格表，老實講有點誇張",
+              "body": "Walmart 2026 這版 onn 4K Pro 給了 3GB RAM、32GB 儲存、Gigabit 網路孔、Dolby Vision、Dolby Atmos、AV1 解碼、免持語音，機殼頂上還做了一顆找遙控器的實體鍵，灰色 49.88 美金、黑色 59.88 美金。排在它上面的 Google TV Streamer 多了 1GB RAM 跟一顆 Thread 天線，價格是兩倍。我實測開 App 的速度，它跟四倍價格的機器差在一秒上下，坐在沙發上這個差距已經感覺不出來。真正的門檻在通路，它只在美國 Walmart 上架，台灣買家要多付一筆代購跟運費。"
+            },
+            {
+              "title": "Vega OS 讓最便宜的 Fire TV 變成一台封閉家電，這件事要算進價格裡",
+              "body": "Fire TV Stick 4K Select 在 2025 年 10 月 15 日以 39.99 美金上市，是第一台跑 Vega OS 的 Fire 裝置。Vega 是 Amazon 自己做的 Linux 系統，用來接手 Fire OS 底下的 Android 開源專案。上面每一支 App 都是 Amazon 審過並且上架的 Vega App，所以你看到的清單就是 Amazon 願意給你的那份清單，想用 VPN 的話請掛在路由器那一層。它串 4K 加 HDR10、HDR10+ 的表現，在四十美金這個價位算做得好的。買之前先知道，你買的是 Amazon 的 App 清單跟 Amazon 的首頁，而且這台機器的一輩子都是這樣。"
+            },
+            {
+              "title": "Roku 的首頁就是一塊廣告版位，而那些開關全部關得掉",
+              "body": "Roku 超過七成營收來自廣告，Anthony Wood 已經確認首頁影片廣告會推到 Roku 播放器跟 Roku TV 上。它的 ACR 會辨識每一個輸入來源播了什麼，HDMI 跟天線都算在內，然後把觀看輪廓送給廣告主與量測夥伴。這些全部都有開關。設定進去點隱私權，把 Smart TV Experience 關掉就是關 ACR，廣告那一欄再把 Limit Ad Tracking 打開。我還是把 Roku Ultra 排在第五，99.99 美金這台的介面是這十台裡面最能直接丟給爸媽用的，遙控器的做工也最紮實。"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
