@@ -119,15 +119,31 @@
       "id": "winix-5500-2",
       "name": "5500-2",
       "brand": "Winix",
-      "url": "https://the-winix.com/winix-5500-2/",
+      "url": "https://www.winixamerica.com/product-spotlight-the-5500-2-air-purifier-by-winix/",
       "i18n": {
         "en": {
           "priceRange": "$200",
-          "description": "Pet-owner favorite with washable carbon filter and PlasmaWave technology, covering up to 360 sq ft with exceptional odor control."
+          "description": "Pet-owner favorite with a washable carbon filter and PlasmaWave technology, covering up to 360 sq ft. Winix discontinued it across the US and Canada in May 2025 and committed to supplying filters through 2032, so units already in homes stay serviceable for years."
         },
         "zh-tw": {
           "priceRange": "NT$6,400",
-          "description": "養寵物的族群看過來，可水洗碳濾網搭配 PlasmaWave 技術，適用 360 平方英尺，台幣約六千五。碳濾網可以直接洗，省去每季花一千多換濾網的費用，三年算下來省非常多。"
+          "description": "養寵物族群長年推薦的機種，可水洗碳濾網搭配 PlasmaWave 技術，適用 360 平方英尺。Winix 已經在 2025 年 5 月於美加市場停產這台，不過原廠承諾濾網供應到 2032 年，手上有這台的人可以放心用到壽命終了。想買新機的話，接棒的 5510 是現在的答案。"
+        }
+      }
+    },
+    {
+      "id": "winix-5510",
+      "name": "5510",
+      "brand": "Winix",
+      "url": "https://www.winixamerica.com/product/5510/",
+      "i18n": {
+        "en": {
+          "priceRange": "$260",
+          "description": "The Wi-Fi successor to the 5500-2, keeping True HEPA and PlasmaWave while raising CADR to 253 CFM and adding a built-in air quality monitor with app scheduling."
+        },
+        "zh-tw": {
+          "priceRange": "約 NT$8,400",
+          "description": "5500-2 停產後接棒的型號，True HEPA 加 PlasmaWave 的組合完整保留，CADR 拉到 253 CFM，再補上 Wi-Fi 連線、內建空氣品質偵測和 App 排程。坦白說這台最實際的價值，在於把智慧功能帶進台幣八千出頭的價位帶。要留意的是它改用 Filter Q 濾網，一年濾網成本大約台幣兩千五，這筆錢建議先算進預算。"
         }
       }
     },
@@ -208,6 +224,22 @@
         "zh-tw": {
           "priceRange": "NT$4,200",
           "description": "Levoit 2026 年的破圈新品，三段式 True HEPA 加 APP 智慧控制，台幣四千出頭卻能覆蓋 1,875 平方英尺。多家主流評測站評為「最多人適合的選擇」，這個評價看過規格之後很容易理解。"
+        }
+      }
+    },
+    {
+      "id": "levoit-everestair-p",
+      "name": "EverestAir-P",
+      "brand": "Levoit",
+      "url": "https://www.levoit.com/products/everestair-smart-true-hepa-air-purifier",
+      "i18n": {
+        "en": {
+          "priceRange": "$399",
+          "description": "Levoit's flagship moves 354 CFM and holds 549 sq ft at 4.8 air changes per hour, with a three-channel laser sensor that reports PM1.0, PM2.5, and PM10 as separate readings."
+        },
+        "zh-tw": {
+          "priceRange": "約 NT$12,800",
+          "description": "Levoit 現行旗艦，CADR 354 CFM，在每小時換氣 4.8 次的嚴格標準下適用 549 平方英尺，大概就是台灣常見客廳加開放式餐廳的範圍。我最欣賞的其實是那顆三通道雷射感測器，PM1.0、PM2.5、PM10 分開讀數，自動模式調整風速的依據精準很多。HouseFresh 實測它的 VOC 去除速度排進旗艦組前段，這個成績配上這個價格很有說服力。"
         }
       }
     },
@@ -17335,8 +17367,32 @@
           }
         },
         {
-          "id": "iqair-atem-earth",
+          "id": "levoit-everestair-p",
           "rank": 6,
+          "score": 8.7,
+          "scores": {
+            "cadr": 9.2,
+            "filtration": 8.8,
+            "smart_features": 9.4,
+            "noise": 8.9,
+            "value": 8.6
+          }
+        },
+        {
+          "id": "airdoctor-4000",
+          "rank": 7,
+          "score": 8.6,
+          "scores": {
+            "cadr": 8.7,
+            "filtration": 9.4,
+            "smart_features": 7.8,
+            "noise": 8.3,
+            "value": 8.2
+          }
+        },
+        {
+          "id": "iqair-atem-earth",
+          "rank": 8,
           "score": 8.5,
           "scores": {
             "cadr": 8.0,
@@ -17348,7 +17404,7 @@
         },
         {
           "id": "levoit-core-600s",
-          "rank": 7,
+          "rank": 9,
           "score": 8.5,
           "scores": {
             "cadr": 8.6,
@@ -17360,7 +17416,7 @@
         },
         {
           "id": "levoit-vital-200s",
-          "rank": 8,
+          "rank": 10,
           "score": 8.4,
           "scores": {
             "cadr": 8.0,
@@ -17372,7 +17428,7 @@
         },
         {
           "id": "alen-breathesmart-45i",
-          "rank": 9,
+          "rank": 11,
           "score": 8.3,
           "scores": {
             "cadr": 9.0,
@@ -17383,15 +17439,15 @@
           }
         },
         {
-          "id": "airdoctor-4000",
-          "rank": 10,
-          "score": 8.6,
+          "id": "winix-5510",
+          "rank": 12,
+          "score": 8.2,
           "scores": {
-            "cadr": 8.7,
-            "filtration": 9.4,
-            "smart_features": 7.8,
-            "noise": 8.3,
-            "value": 8.2
+            "cadr": 8.3,
+            "filtration": 8.4,
+            "smart_features": 8.6,
+            "noise": 7.2,
+            "value": 8.8
           }
         }
       ],
@@ -17410,6 +17466,16 @@
           "title": "The best gadgets and gizmos at IFA 2026",
           "url": "https://www.pocket-lint.com/best-of-ifa-2026/",
           "source": "Pocket-lint"
+        },
+        {
+          "title": "Levoit EverestAir review",
+          "url": "https://housefresh.com/levoit-everestair-review/",
+          "source": "HouseFresh"
+        },
+        {
+          "title": "Winix 5510 Review: The 5500-2 Successor, Now With Wi-Fi",
+          "url": "https://airpurifierranked.com/winix-5510-review/",
+          "source": "Air Purifier Ranked"
         }
       ],
       "i18n": {
