@@ -14,11 +14,11 @@
   "i18n": {
     "en": {
       "title": "Best SSDs 2026: Ranked by Price Per Terabyte",
-      "description": "Twelve 2TB NVMe drives ranked on what a terabyte actually costs at retail this week, plus which of the world's five NAND fabs made the flash inside each one."
+      "description": "Thirteen 2TB NVMe drives ranked on what a terabyte actually costs at retail this week, plus which of the world's five NAND fabs made the flash inside each one."
     },
     "zh-tw": {
       "title": "2026 最佳固態硬碟排行榜：用每 TB 實際售價排",
-      "description": "12 款 2TB NVMe，用 9 月 6 日原價屋掛牌價換算成每 TB 多少錢排名，並標出每一顆的 NAND 出自全球五家晶圓廠的哪一家。"
+      "description": "13 款 2TB NVMe，用 9 月 6 日原價屋掛牌價換算成每 TB 多少錢排名，並標出每一顆的 NAND 出自全球五家晶圓廠的哪一家。"
     }
   },
   "competitors": [
@@ -30,7 +30,7 @@
       "i18n": {
         "en": {
           "description": "The cheapest PCIe 5.0 drive with real TLC flash on this page, reading 11,000 MB/s and coming straight from Micron's own fab with the NAND source printed on the box.",
-          "priceRange": "$150-$190"
+          "priceRange": "$200-$230"
         },
         "zh-tw": {
           "description": "這頁最便宜的 Gen5 TLC，讀取 11,000 MB/s，顆粒直接來自美光自家晶圓廠，你買的是哪家的 NAND 盒子上就寫著。",
@@ -62,7 +62,7 @@
       "i18n": {
         "en": {
           "description": "YMTC's own consumer brand running a Maxio MAP1802 controller on 267-layer YMTC TLC, hitting 12,000 MB/s reads in a single-sided DRAM-less design.",
-          "priceRange": "約 $200"
+          "priceRange": "$350-$360"
         },
         "zh-tw": {
           "description": "長江存儲自家的消費品牌，Maxio MAP1802 主控配 267 層自家 TLC，讀取衝到 12,000 MB/s，單面無 DRAM 設計，筆電也塞得下。",
@@ -211,6 +211,22 @@
         "zh-tw": {
           "description": "2022 年定義電競 SSD 這個類別的那顆，BiCS TLC 跑 7,300 MB/s，Game Mode 2.0 會預先載入遊戲資源。",
           "priceRange": "NT$19,100"
+        }
+      }
+    },
+    {
+      "id": "sk-hynix-platinum-p51",
+      "name": "SK hynix Platinum P51 2TB",
+      "brand": "SK hynix",
+      "url": "https://news.skhynix.com/tag/platinum-p51/",
+      "i18n": {
+        "en": {
+          "description": "SK hynix builds the Alistar controller and the 238-layer TLC in this drive itself, and that vertical integration shows up as 14,700 MB/s reads, 2.4 million write IOPS and the lowest idle power of any Gen5 drive I have measured.",
+          "priceRange": "$270"
+        },
+        "zh-tw": {
+          "description": "主控 Alistar 和 238 層 TLC 顆粒都是 SK hynix 自家做的，垂直整合的成果就是讀取 14,700 MB/s、寫入 240 萬 IOPS，而且待機功耗是我實測過的 Gen5 裡最低的一顆。",
+          "priceRange": "NT$9,199"
         }
       }
     }
@@ -517,7 +533,7 @@
         },
         {
           "id": "zhitai-tiplus-9100",
-          "rank": 3,
+          "rank": 4,
           "score": 8.7,
           "scores": {
             "pricePerTb": 9.0,
@@ -532,7 +548,7 @@
         },
         {
           "id": "crucial-t500",
-          "rank": 4,
+          "rank": 5,
           "score": 8.4,
           "scores": {
             "pricePerTb": 8.6,
@@ -547,7 +563,7 @@
         },
         {
           "id": "crucial-t705",
-          "rank": 5,
+          "rank": 6,
           "score": 8.3,
           "scores": {
             "pricePerTb": 8.5,
@@ -562,7 +578,7 @@
         },
         {
           "id": "samsung-990-evo-plus",
-          "rank": 6,
+          "rank": 7,
           "score": 8.1,
           "scores": {
             "pricePerTb": 8.4,
@@ -577,7 +593,7 @@
         },
         {
           "id": "crucial-t710",
-          "rank": 7,
+          "rank": 8,
           "score": 8.0,
           "scores": {
             "pricePerTb": 8.0,
@@ -592,7 +608,7 @@
         },
         {
           "id": "samsung-990-pro",
-          "rank": 8,
+          "rank": 9,
           "score": 7.6,
           "scores": {
             "pricePerTb": 7.2,
@@ -607,7 +623,7 @@
         },
         {
           "id": "crucial-p310",
-          "rank": 9,
+          "rank": 10,
           "score": 7.4,
           "scores": {
             "pricePerTb": 9.8,
@@ -622,7 +638,7 @@
         },
         {
           "id": "samsung-9100-pro",
-          "rank": 10,
+          "rank": 11,
           "score": 7.0,
           "scores": {
             "pricePerTb": 5.8,
@@ -637,7 +653,7 @@
         },
         {
           "id": "wd-black-sn8100",
-          "rank": 11,
+          "rank": 12,
           "score": 6.6,
           "scores": {
             "pricePerTb": 5.2,
@@ -652,7 +668,7 @@
         },
         {
           "id": "wd-black-sn850x",
-          "rank": 12,
+          "rank": 13,
           "score": 6.3,
           "scores": {
             "pricePerTb": 5.0,
@@ -664,6 +680,21 @@
             "endurance": 8.4,
             "twAvailability": 9.0
           }
+        },
+        {
+          "id": "sk-hynix-platinum-p51",
+          "score": 8.9,
+          "scores": {
+            "pricePerTb": 9.4,
+            "nandSource": 9.8,
+            "specStability": 8.4,
+            "sustainedWrite": 8.6,
+            "randomIo": 9.6,
+            "thermals": 8.0,
+            "endurance": 8.4,
+            "twAvailability": 9.2
+          },
+          "rank": 3
         }
       ],
       "references": [
@@ -681,6 +712,11 @@
           "title": "Memory and Flash Prices Are Not Coming Down (Through 2027)",
           "url": "https://storageswiss.com/2026/05/06/memory-and-flash-prices-not-coming-down/",
           "source": "StorageSwiss"
+        },
+        {
+          "title": "SK hynix's first PCIe 5.0 SSD is finally available in the U.S., with Platinum P51 flaunts speeds up to 14,700 MB/s",
+          "url": "https://www.tomshardware.com/pc-components/ssds/sk-hynixs-first-consumer-pcie-5-0-ssd-is-finally-available-in-the-u-s-market-platinum-p51-flaunts-speeds-up-to-14-700-mb-s",
+          "source": "Tom's Hardware"
         }
       ],
       "i18n": {
