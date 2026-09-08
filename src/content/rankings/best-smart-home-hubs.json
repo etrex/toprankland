@@ -1,0 +1,447 @@
+{
+  "slug": "best-smart-home-hubs",
+  "category": "Electronics",
+  "scoreFactors": {
+    "offlineSurvival": "What Still Works After the Cloud Shuts Down",
+    "localAutomation": "Local Automation Engine",
+    "radios": "Built-in Zigbee, Z-Wave & Thread Radios",
+    "matterVersion": "Matter Version Actually Shipping",
+    "apiPolicy": "API Access & Subscription Policy",
+    "setupEffort": "Setup Effort for a Normal Household",
+    "value": "Price Against What You Actually Own",
+    "twAvailability": "Taiwan Retail Availability"
+  },
+  "i18n": {
+    "en": {
+      "title": "Best Smart Home Hubs 2026: Ranked by What Survives the Shutdown",
+      "description": "Ten smart home hubs ranked on what keeps working after the vendor closes the cloud, which Matter version actually ships, and who charges for their own API, in the year Belkin killed Wemo and Samsung put SmartThings API access behind a $4.99 monthly fee."
+    },
+    "zh-tw": {
+      "title": "2026 最佳智慧家庭中樞排行榜：斷了雲之後還剩下什麼",
+      "description": "10 台智慧家庭中樞，用原廠關掉雲端之後還能跑的功能、實際出貨的 Matter 版本與 API 收費政策排名。今年 Belkin 關掉了 Wemo，Samsung 則把 SmartThings API 改成每月 4.99 美元。"
+    }
+  },
+  "competitors": [
+    {
+      "id": "home-assistant-green",
+      "name": "Home Assistant Green",
+      "brand": "Nabu Casa",
+      "url": "https://www.home-assistant.io/green/",
+      "i18n": {
+        "en": {
+          "description": "The open source hub that runs every automation on the box in your own house, with no vendor account required to arm a single one of them. Nabu Casa raised it from $99 to $199 on 8 January 2026 and published the RAM cost breakdown behind the increase.",
+          "priceRange": "$199"
+        },
+        "zh-tw": {
+          "description": "開源中樞，所有自動化都跑在你家那台機器上，設定任何一條規則都不需要原廠帳號。Nabu Casa 在 2026 年 1 月 8 日把價格從 99 美元調到 199 美元，並且把記憶體漲價的成本結構公開寫出來。",
+          "priceRange": "約 NT$6,500"
+        }
+      }
+    },
+    {
+      "id": "hubitat-c8-pro",
+      "name": "Hubitat Elevation C-8 Pro",
+      "brand": "Hubitat",
+      "url": "https://hubitat.com/products/7194320273451",
+      "i18n": {
+        "en": {
+          "description": "A fully local automation engine with Z-Wave 800 Long Range, Zigbee 3.0, Matter 1.5 and Wi-Fi radios all inside the case, priced at $179.95 direct from Hubitat.",
+          "priceRange": "$179.95-$199.95"
+        },
+        "zh-tw": {
+          "description": "純本地運算的自動化引擎，Z-Wave 800 Long Range、Zigbee 3.0、Matter 1.5 跟 Wi-Fi 天線全部包在同一個殼裡，官網直售 179.95 美元。",
+          "priceRange": "約 NT$5,900"
+        }
+      }
+    },
+    {
+      "id": "homey-pro-2026",
+      "name": "Homey Pro (2026)",
+      "brand": "Homey",
+      "url": "https://homey.app/en-us/homey-pro/",
+      "i18n": {
+        "en": {
+          "description": "Seven radios in one puck, Z-Wave Plus, Zigbee, Thread, Matter, Wi-Fi, Bluetooth and infrared, with the Flow automation engine executing on-device. Launched December 2025 with double the memory at the same €399.",
+          "priceRange": "$399-$449"
+        },
+        "zh-tw": {
+          "description": "一顆機器塞七種無線電，Z-Wave Plus、Zigbee、Thread、Matter、Wi-Fi、藍牙加紅外線，Flow 自動化引擎直接在機器上跑。2025 年 12 月改版，記憶體翻倍而價格維持 399 歐元。",
+          "priceRange": "約 NT$13,000"
+        }
+      }
+    },
+    {
+      "id": "aqara-hub-m3",
+      "name": "Aqara Hub M3",
+      "brand": "Aqara",
+      "url": "https://www.aqara.com/en/product/hub-m3",
+      "i18n": {
+        "en": {
+          "description": "A Matter controller and Thread border router with a Zigbee 3.0 radio, an IR blaster and Power over Ethernet, and it keeps a stored set of local automations running when the internet drops.",
+          "priceRange": "$109-$149.99"
+        },
+        "zh-tw": {
+          "description": "Matter 控制器加 Thread 邊界路由器，內建 Zigbee 3.0 天線、紅外線發射器跟 PoE 供電，網路斷掉時已經存進機器裡的本地自動化照樣會跑。",
+          "priceRange": "約 NT$3,600-4,900"
+        }
+      }
+    },
+    {
+      "id": "switchbot-hub-3",
+      "name": "SwitchBot Hub 3",
+      "brand": "SwitchBot",
+      "url": "https://us.switch-bot.com/products/switchbot-hub-3",
+      "i18n": {
+        "en": {
+          "description": "A $99.99 control panel with a 2.4-inch IPS screen and a physical dial, a ±0.2°C temperature sensor, an IR blaster for air conditioners, and a Matter bridge that exposes 30 secondary devices to any Matter platform.",
+          "priceRange": "$99.99"
+        },
+        "zh-tw": {
+          "description": "99.99 美元的控制面板，2.4 吋 IPS 螢幕加實體旋鈕，±0.2°C 溫度感測、可打冷氣的紅外線發射器，Matter 橋接一次能把 30 台子裝置丟給任何 Matter 平台。",
+          "priceRange": "約 NT$3,300"
+        }
+      }
+    },
+    {
+      "id": "aeotec-smart-home-hub",
+      "name": "Aeotec Smart Home Hub",
+      "brand": "Aeotec",
+      "url": "https://aeotec.com/products/smart-home-hub/",
+      "i18n": {
+        "en": {
+          "description": "The hardware Samsung handed to Aeotec after retiring its own hub line, carrying Zigbee, Z-Wave, Thread and Matter radios and running SmartThings Edge drivers locally for up to 100 Zigbee and 100 Z-Wave devices.",
+          "priceRange": "$127-$149.99"
+        },
+        "zh-tw": {
+          "description": "Samsung 收掉自家中樞產品線之後把硬體交給 Aeotec 繼續做的機器，Zigbee、Z-Wave、Thread 與 Matter 天線都有，SmartThings Edge 驅動在本地執行，Zigbee 跟 Z-Wave 各可接到 100 台。",
+          "priceRange": "約 NT$4,200-4,900"
+        }
+      }
+    },
+    {
+      "id": "smartthings-station",
+      "name": "SmartThings Station",
+      "brand": "Samsung",
+      "url": "https://www.samsung.com/us/smartthings/",
+      "i18n": {
+        "en": {
+          "description": "A 15W wireless charger that doubles as a Matter controller and Thread border router, and the cheapest way into SmartThings if your appliances are already Samsung.",
+          "priceRange": "$59.99-$79.99"
+        },
+        "zh-tw": {
+          "description": "15W 無線充電座兼 Matter 控制器與 Thread 邊界路由器，家裡電器本來就是 Samsung 的話，這是進 SmartThings 最便宜的一條路。",
+          "priceRange": "約 NT$2,000-2,600"
+        }
+      }
+    },
+    {
+      "id": "apple-tv-4k",
+      "name": "Apple TV 4K",
+      "brand": "Apple",
+      "url": "https://www.apple.com/apple-tv-4k/",
+      "i18n": {
+        "en": {
+          "description": "A Thread border router and Apple Home hub that keeps HomeKit automations running locally, and the device that kept paired Wemo hardware alive after Belkin closed the Wemo cloud. Apple moved it to $199 on 25 June 2026.",
+          "priceRange": "$199-$249"
+        },
+        "zh-tw": {
+          "description": "Thread 邊界路由器兼 Apple Home 中樞，HomeKit 自動化跑在本地。Belkin 關掉 Wemo 雲端之後，還能撐住那些 Wemo 裝置的就是它。Apple 在 2026 年 6 月 25 日把它調到 199 美元。",
+          "priceRange": "NT$6,900"
+        }
+      }
+    },
+    {
+      "id": "amazon-echo-hub",
+      "name": "Amazon Echo Hub",
+      "brand": "Amazon",
+      "url": "https://www.amazon.com/dp/B0BCR7M9KX",
+      "i18n": {
+        "en": {
+          "description": "An 8-inch wall panel with Zigbee, Matter, Thread and Sidewalk radios built in, designed as a single touchscreen dashboard for an Alexa house, and discounted to $109.99 during June 2026.",
+          "priceRange": "$109.99-$179.99"
+        },
+        "zh-tw": {
+          "description": "8 吋壁掛面板，Zigbee、Matter、Thread 跟 Sidewalk 天線都內建，定位是 Alexa 家庭的單一觸控儀表板，2026 年 6 月特價掉到 109.99 美元。",
+          "priceRange": "約 NT$3,600-5,900"
+        }
+      }
+    },
+    {
+      "id": "google-home-speaker",
+      "name": "Google Home Speaker",
+      "brand": "Google",
+      "url": "https://store.google.com/product/google_home_speaker",
+      "i18n": {
+        "en": {
+          "description": "Google's $99.99 replacement for Nest Mini and Nest Audio, shipping 25 June 2026 with an on-device NPU for Gemini and a Thread 1.3 border router, with the advanced Gemini features sitting inside Google Home Premium.",
+          "priceRange": "$99.99"
+        },
+        "zh-tw": {
+          "description": "Google 拿來接掉 Nest Mini 跟 Nest Audio 的 99.99 美元新機，2026 年 6 月 25 日出貨，內建跑 Gemini 的 NPU 跟 Thread 1.3 邊界路由器，進階 Gemini 功能歸在 Google Home Premium 訂閱裡。",
+          "priceRange": "約 NT$3,300"
+        }
+      }
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-09-08",
+      "rankings": [
+        {
+          "id": "home-assistant-green",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "offlineSurvival": 9.8,
+            "localAutomation": 9.7,
+            "radios": 6.0,
+            "matterVersion": 9.0,
+            "apiPolicy": 9.9,
+            "setupEffort": 6.5,
+            "value": 8.6,
+            "twAvailability": 5.5
+          }
+        },
+        {
+          "id": "hubitat-c8-pro",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "offlineSurvival": 9.6,
+            "localAutomation": 9.4,
+            "radios": 9.5,
+            "matterVersion": 9.6,
+            "apiPolicy": 9.2,
+            "setupEffort": 6.8,
+            "value": 8.4,
+            "twAvailability": 4.5
+          }
+        },
+        {
+          "id": "homey-pro-2026",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "offlineSurvival": 9.0,
+            "localAutomation": 9.2,
+            "radios": 9.8,
+            "matterVersion": 8.8,
+            "apiPolicy": 7.6,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 4.0
+          }
+        },
+        {
+          "id": "aqara-hub-m3",
+          "rank": 4,
+          "score": 7.9,
+          "scores": {
+            "offlineSurvival": 7.6,
+            "localAutomation": 7.8,
+            "radios": 8.2,
+            "matterVersion": 8.4,
+            "apiPolicy": 6.8,
+            "setupEffort": 8.8,
+            "value": 8.6,
+            "twAvailability": 8.5
+          }
+        },
+        {
+          "id": "switchbot-hub-3",
+          "rank": 5,
+          "score": 7.2,
+          "scores": {
+            "offlineSurvival": 6.6,
+            "localAutomation": 6.8,
+            "radios": 6.4,
+            "matterVersion": 8.0,
+            "apiPolicy": 7.4,
+            "setupEffort": 9.2,
+            "value": 8.8,
+            "twAvailability": 8.8
+          }
+        },
+        {
+          "id": "aeotec-smart-home-hub",
+          "rank": 6,
+          "score": 6.6,
+          "scores": {
+            "offlineSurvival": 6.8,
+            "localAutomation": 7.4,
+            "radios": 9.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 7.8,
+            "value": 6.4,
+            "twAvailability": 4.2
+          }
+        },
+        {
+          "id": "smartthings-station",
+          "rank": 7,
+          "score": 6.2,
+          "scores": {
+            "offlineSurvival": 5.4,
+            "localAutomation": 6.2,
+            "radios": 5.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 9.0,
+            "value": 8.2,
+            "twAvailability": 6.5
+          }
+        },
+        {
+          "id": "apple-tv-4k",
+          "rank": 8,
+          "score": 6.0,
+          "scores": {
+            "offlineSurvival": 8.4,
+            "localAutomation": 7.0,
+            "radios": 4.5,
+            "matterVersion": 7.6,
+            "apiPolicy": 5.2,
+            "setupEffort": 9.4,
+            "value": 4.2,
+            "twAvailability": 9.5
+          }
+        },
+        {
+          "id": "amazon-echo-hub",
+          "rank": 9,
+          "score": 5.6,
+          "scores": {
+            "offlineSurvival": 4.2,
+            "localAutomation": 5.0,
+            "radios": 8.4,
+            "matterVersion": 7.4,
+            "apiPolicy": 4.4,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 3.5
+          }
+        },
+        {
+          "id": "google-home-speaker",
+          "rank": 10,
+          "score": 5.2,
+          "scores": {
+            "offlineSurvival": 3.8,
+            "localAutomation": 4.4,
+            "radios": 5.2,
+            "matterVersion": 7.0,
+            "apiPolicy": 4.2,
+            "setupEffort": 9.2,
+            "value": 6.6,
+            "twAvailability": 3.2
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Wemo Support Ending - What You Need to Know",
+          "url": "https://www.belkin.com/support-article/?articleNum=335419",
+          "source": "Belkin"
+        },
+        {
+          "title": "Belkin reminds users that its Wemo smart home products are shutting down this week",
+          "url": "https://9to5google.com/2026/01/26/belkin-reminds-users-that-its-wemo-smart-home-products-are-shutting-down-this-week/",
+          "source": "9to5Google"
+        },
+        {
+          "title": "A New Enhanced SmartThings API Experience",
+          "url": "https://blog.smartthings.com/smartthings-updates/a-new-enhanced-smartthings-api-experience/",
+          "source": "SmartThings Blog"
+        },
+        {
+          "title": "Samsung SmartThings API fees could impact your favorite smart home apps",
+          "url": "https://www.androidauthority.com/smarthings-api-paid-tiers-3681929/",
+          "source": "Android Authority"
+        },
+        {
+          "title": "Bankrupt Futurehome Suddenly Makes Its Smart Home Hub a Subscription Service",
+          "url": "https://news.slashdot.org/story/25/07/28/2211238/bankrupt-futurehome-suddenly-makes-its-smart-home-hub-a-subscription-service",
+          "source": "Slashdot"
+        },
+        {
+          "title": "Changes to Home Assistant Green pricing",
+          "url": "https://www.nabucasa.com/news/2026-01-08-green-pricing-change/",
+          "source": "Nabu Casa"
+        },
+        {
+          "title": "Matter 1.5 Introduces Cameras, Closures, and Enhanced Energy Management Capabilities",
+          "url": "https://csa-iot.org/newsroom/matter-1-5-introduces-cameras-closures-and-enhanced-energy-management-capabilities/",
+          "source": "Connectivity Standards Alliance"
+        },
+        {
+          "title": "SmartThings Expands Camera Support with Introduction of Matter 1.5",
+          "url": "https://blog.smartthings.com/smartthings-updates/smartthings-expands-camera-support-with-introduction-of-matter-1-5/",
+          "source": "SmartThings Blog"
+        },
+        {
+          "title": "The new Homey Pro gets faster and smarter for Matter homes with no price increase",
+          "url": "https://9to5mac.com/2025/12/10/the-new-homey-pro-gets-faster-and-smarter-for-matter-homes-with-no-price-increase/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "Google has ended Nest Mini and Nest Audio production, discontinuing both speakers",
+          "url": "https://9to5google.com/2026/06/17/google-nest-mini-audio-end-production-discontinued/",
+          "source": "9to5Google"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Buy a smart home hub in 2026 and you are buying two separate things. One is a box of radios. The other is a license the seller can revoke, and this year gave us three dated examples of a seller doing exactly that.\n\nBelkin closed the Wemo cloud on 31 January 2026. Every Wemo plug, switch, bulb, sensor and baby monitor lost its app, its remote access and its Alexa and Google voice control on that date. One category of Wemo hardware kept running: devices already paired to Apple Home before the deadline still respond through the Home app, because HomeKit control is local. That is the cleanest lesson of the year, and I have built this entire ranking around it.\n\nFuturehome AS was declared bankrupt on 20 May 2025. FHSD Connect AS bought the platform out of the estate and, as of 26 June, put a mandatory 1,188 NOK annual fee, roughly $117, on approximately 30,000 Smarthub II owners who had already paid in full for their hardware. Owners who decline receive a firmware update that removes local network functions.\n\nThen Samsung. In late June it announced that SmartThings API access moves to paid tiers in October 2026, with a $4.99 monthly plan for individual non-commercial developers and separate commercial tiers. Free access runs through Q3, and Samsung says no new limits or shutoffs arrive before October. The rate limits, the call ceilings and the usage threshold that triggers billing have all not been published, and that missing number is a risk that transfers straight to anyone whose Home Assistant setup leans on a SmartThings integration.\n\nSo my ranking factor here is survivability. For every hub I asked one question: with the vendor's cloud dark, what still fires? Local automations, offline triggers, direct Zigbee and Z-Wave links, local Matter control, remote access. Home Assistant Green keeps all five. Hubitat C-8 Pro keeps all five. At the other end sit hubs whose automation engine lives on someone else's server, and those hubs go quiet the moment that server does. Every list I read this year sorted on device compatibility counts. I sort on what you own after the announcement.",
+          "highlights": [
+            {
+              "title": "Home Assistant Green is worth the $199 it now costs, because nobody has the power to switch it off",
+              "body": "Nabu Casa raised the Green from $99 to $199 on 8 January 2026, blaming component costs and specifically RAM, which matches every other price move I have tracked in hardware this year. I still rank it first, and the reason is structural. The automation engine, the device drivers and the dashboard all run on the box sitting in your home, the source code is public, and the community can fork and maintain it if the company behind it ever stops. There is no account to lose, no API tier to fall out of, and no bankruptcy estate that can sell the right to charge you a fee for the thing you already bought. Add a Zigbee or Z-Wave USB dongle for around thirty dollars and it covers the same protocol range as hubs costing twice as much. The one real cost is your evening: this is the hub that expects you to learn its automation model, and I would give it a weekend before you start moving door locks onto it."
+            },
+            {
+              "title": "1 October 2026 is a hard date on the calendar, and it lands on SmartThings households",
+              "body": "Samsung's announcement is specific about the parts that cost money and vague about the parts that determine how much. Individual non-commercial developers pay $4.99 a month, commercial tiers are separate and unpriced, free access runs to the end of Q3, and Samsung has confirmed nothing turns off before October. What is still unpublished: the rate limits, the API call ceilings, and the usage level that pushes a household from free into paid. If your smart home is a SmartThings Station or an Aeotec hub bridged into Home Assistant, that unpublished threshold is your exposure. I score both of those hubs down on API policy for this reason alone, and I would use the free window between now and 30 September to check whether your automations can be rebuilt on direct Zigbee, Z-Wave or local Matter connections."
+            },
+            {
+              "title": "Hubitat C-8 Pro is the one hub shipping Matter 1.5 with every radio already inside the case",
+              "body": "Matter 1.5 landed in November and brought cameras, closures and expanded energy management into the standard. Most hubs on sale today are still shipping 1.2 or 1.3 and promising firmware. The C-8 Pro lists Matter 1.5 alongside Z-Wave 800 Long Range, Zigbee 3.0, Bluetooth and Wi-Fi in a single $179.95 box, and its automation engine runs entirely on the device with no cloud dependency for rule execution. For a household that wants local control and a working setup on the first evening, this is the hub I recommend most often. Hubitat's Rule Machine is a genuine interface with dropdowns and conditions, so you get most of what Home Assistant offers without editing a YAML file."
+            },
+            {
+              "title": "Homey Pro carries seven radios, and that is the entire argument for its $399",
+              "body": "The December 2025 refresh doubled the memory and held the price at €399, which in a year of memory-driven price rises is its own kind of achievement. Inside are Z-Wave Plus, Zigbee, Thread, Matter, Wi-Fi, Bluetooth and infrared, and the Flow automation engine executes on the device so scenes keep firing during an internet outage. If your house has accumulated a decade of mixed-protocol gear, including infrared air conditioners and Bluetooth sensors, this is the one box that talks to all of it without a single dongle hanging off a USB port. I rank it third purely on price per protocol. Buy it when the protocol spread is the problem you are actually solving."
+            },
+            {
+              "title": "Pair locally on day one, and the shutdown announcement becomes somebody else's news",
+              "body": "The Wemo owners who came through 31 January intact were the ones who had paired to Apple Home before the deadline, which meant control never routed through Belkin's servers. Apply that rule to whatever you buy. Prefer a hub with its own Zigbee and Z-Wave radios so your sensors talk to hardware you own. Prefer Matter devices commissioned to a local controller. Keep at least one automation path, lights, locks and alarms, that never touches a vendor account. I hold the Apple TV 4K in this ranking for exactly that reason even at $199, because its Thread border router and local HomeKit execution have now been tested in public by an actual shutdown, and they passed."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "2026 年買智慧家庭中樞，你其實一次買了兩樣東西。一樣是那盒無線電模組，另一樣是賣方隨時可以收回去的使用許可。今年剛好有三件事，日期都查得到，把後面那樣東西攤開給大家看。\n\nBelkin 在 2026 年 1 月 31 日關掉 Wemo 雲端。所有 Wemo 智慧插座、壁切、燈泡、感測器跟嬰兒監視器，當天全部失去 App、遠端存取，還有 Alexa 跟 Google 語音控制。只有一種情況活下來，就是在那個期限之前已經配對進 Apple Home 的裝置，因為 HomeKit 的控制是走本地的，所以現在還能用 Apple Home 開關。老實說，這是今年最乾淨的一課，我整份榜單就是照這條線排的。\n\n第二件事在挪威。Futurehome AS 於 2025 年 5 月 20 日宣告破產，FHSD Connect AS 從破產財團手上買下平台，6 月 26 日起對大約三萬名已經全額買斷 Smarthub II 的使用者收年費 1,188 挪威克朗，換算大約 117 美元。不付的人會收到一版韌體更新，把本地網路功能拿掉。\n\n第三件事是 Samsung。6 月底宣布 SmartThings API 從 2026 年 10 月起改成付費階梯，非商用個人開發者每月 4.99 美元，商用另外分級。免費存取撐到第三季結束，Samsung 也說 10 月之前不會啟動任何新的限制或關閉。但是速率上限、API 呼叫次數上限，還有到底用多少會被推進付費，這三個數字到現在都還沒公布。講白了，沒公布本身就是風險，而且這個風險是由把 SmartThings 整合接進 Home Assistant 的那群人在扛。\n\n所以我這次的排序標準就一個字，撐。每一台我都問同一個問題：原廠雲端關掉之後，還有什麼會動？本地自動化、離線觸發、Zigbee 與 Z-Wave 直連、Matter 本地控制、遠端存取，這五項逐項打勾。Home Assistant Green 五項全留，Hubitat C-8 Pro 五項全留。另一端是自動化引擎跑在別人伺服器上的那幾台，伺服器一停，家裡就安靜了。我今年看過的所有榜單都在比相容裝置數量，我這份比的是公告發出來之後，你手上還剩什麼。",
+          "highlights": [
+            {
+              "title": "Home Assistant Green 現在賣 199 美元我還是推，因為沒有人有權力把它關掉",
+              "body": "Nabu Casa 在 2026 年 1 月 8 日把 Green 從 99 美元調到 199 美元，理由寫得很清楚，零件成本，尤其是記憶體，這跟我今年追蹤到的每一波硬體漲價完全對得起來。我還是把它放第一，理由是結構性的。自動化引擎、裝置驅動、儀表板，全部跑在你家那台機器上，原始碼是公開的，公司哪天不做了社群可以接手繼續維護。沒有帳號會被停，沒有 API 分級可以把你踢出去，也沒有哪個破產財團可以把向你收費的權利賣給下一手。再花大概一千塊台幣插一支 Zigbee 或 Z-Wave USB 收發器，協定覆蓋就跟貴一倍的機器一樣了。它真正的成本是你的晚上，這台機器預設你願意花時間搞懂它的自動化邏輯，我建議先給它一個週末，再把門鎖搬上去。"
+            },
+            {
+              "title": "2026 年 10 月 1 日是一個硬期限，而且它砸在 SmartThings 使用者頭上",
+              "body": "Samsung 的公告，要收錢的部分寫得很清楚，決定收多少的部分寫得很模糊。非商用個人開發者每月 4.99 美元，商用另外分級而且沒報價，免費存取到第三季結束，10 月之前確定不會關。沒公布的是速率上限、API 呼叫次數上限，還有一個家庭用到什麼程度會被推進付費。如果你家的核心是 SmartThings Station 或 Aeotec 中樞，然後橋接進 Home Assistant，那個沒公布的門檻就是你的曝險部位。我在 API 政策這一項把這兩台的分數壓下來，就是因為這件事。現在到 9 月 30 日這段免費視窗，我會拿來確認自己的自動化能不能改走 Zigbee、Z-Wave 直連或 Matter 本地控制。"
+            },
+            {
+              "title": "Hubitat C-8 Pro 是唯一一台 Matter 1.5 出貨、而且所有天線都已經在機殼裡的中樞",
+              "body": "Matter 1.5 在去年 11 月定案，把攝影機、門窗開合裝置跟擴充的能源管理都納進標準。現在市面上在賣的中樞，多數還停在 1.2 或 1.3，靠韌體更新往前推。C-8 Pro 標的是 Matter 1.5，同一個 179.95 美元的殼子裡還有 Z-Wave 800 Long Range、Zigbee 3.0、藍牙跟 Wi-Fi，而且規則的執行完全在機器上跑，不依賴雲端。想要本地控制，又希望第一個晚上就能把家裡跑起來的話，這台是我最常推薦的。Hubitat 的 Rule Machine 是真的有下拉選單跟條件式的圖形介面，Home Assistant 給你的東西它大部分都有，而你不用去改 YAML。"
+            },
+            {
+              "title": "Homey Pro 塞了七種無線電，這就是它值 399 美元的全部理由",
+              "body": "2025 年 12 月那次改版把記憶體翻倍，價格維持 399 歐元，在今年這種記憶體帶頭漲的行情裡，光是價格沒動就已經很難得。機器裡面有 Z-Wave Plus、Zigbee、Thread、Matter、Wi-Fi、藍牙跟紅外線，Flow 自動化引擎在機器上執行，網路斷了場景照樣觸發。家裡累積了十年各種協定的裝置，紅外線冷氣、藍牙感測器都有的話，這是唯一一台不用在 USB 孔上掛任何收發器就能全部講通的機器。我把它排第三純粹是看每個協定攤下來的單價。你要解決的問題如果就是協定太雜，那就買它。"
+            },
+            {
+              "title": "第一天就用本地配對，之後的關閉公告就是別人家的新聞",
+              "body": "1 月 31 日那天全身而退的 Wemo 使用者，是在期限之前就把裝置配對進 Apple Home 的那群，控制訊號從頭到尾沒有經過 Belkin 的伺服器。這條規則你買什麼都適用。優先選有自己 Zigbee 跟 Z-Wave 天線的中樞，讓感測器對話的對象是你自己擁有的硬體。Matter 裝置優先配對到本地控制器。家裡至少要留一條完全不碰原廠帳號的自動化路徑，燈光、門鎖、警報這三樣一定要在裡面。Apple TV 4K 現在賣到 199 美元我還是把它留在榜上，就是因為它的 Thread 邊界路由器跟 HomeKit 本地執行，已經被一場真實的關閉事件公開測過一次，而它撐住了。"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
