@@ -16567,6 +16567,194 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-09",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.1,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "LLM News Today (September 2026) - AI Model Releases",
+          "url": "https://llm-stats.com/ai-news",
+          "source": "LLM Stats"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Kling 3.0 keeps first place at 9.5 and I have grown more confident in that call over the past week rather than less. Its advantage is motion coherence over shots longer than five seconds, which is exactly where the rest of the field still falls apart. Generate a person walking across a frame and watch the limbs. Kling holds the geometry; most competitors introduce a subtle warp around second four that you cannot un-see once you have noticed it.\n\nVeo 3.1 sits at 9.4 and remains the better choice when you need audio and video generated together. The synchronization quality is genuinely ahead, and for anything with dialogue that advantage outweighs Kling's edge on pure motion.\n\nRunway Gen-4.5 and Seedance 2.0 are tied at 9.2. Runway earns its position on the editing tooling wrapped around the model, which is still the most complete production environment in the category. Seedance is the value pick and generates faster than anything else at comparable quality.\n\nHere is my practical advice for anyone starting production work this month. Storyboard in a fast model, then regenerate your selected shots in Kling or Veo. Generating everything at frontier quality wastes both money and time, and the shots you discard will outnumber the ones you keep by a wide margin. Treat the cheap tier as your contact sheet.",
+          "highlights": [
+            {
+              "title": "Motion coherence past five seconds is where Kling 3.0 separates",
+              "body": "Generate a person walking across frame and watch the limbs at the four second mark. Kling holds the geometry while most competitors introduce a subtle warp you cannot ignore once you have seen it. That specific failure mode is the hardest problem in the category and it is why 9.5 stays at the top."
+            },
+            {
+              "title": "Veo 3.1 wins any shot with dialogue",
+              "body": "Audio and video generated together with real synchronization is a different product from video with sound attached afterward. For dialogue scenes that advantage outweighs the motion edge Kling holds, and it is why 9.4 sits so close behind first place."
+            },
+            {
+              "title": "Runway earns its tie on production tooling, not the model",
+              "body": "Gen-4.5 shares 9.2 with Seedance, and the reason to pick it is everything wrapped around the generation step. The editing environment remains the most complete in the category, which matters when a project runs to dozens of shots and revisions."
+            },
+            {
+              "title": "Storyboard cheap, finish expensive",
+              "body": "The shots you discard will outnumber the ones you keep by a wide margin, so generating everything at frontier quality wastes money and time. Block out your sequence in a fast model, then regenerate only selected shots in Kling or Veo. Treat the cheap tier as your contact sheet."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Kling 3.0 以 9.5 分守住第一，而且過去一週我對這個判斷更有信心而非動搖。它的優勢在於超過五秒鏡頭的動態連貫性，而這正好是其他人還在崩潰的地方。生成一個人橫向走過畫面，然後盯著四肢看。Kling 能穩住幾何結構，多數對手在第四秒左右會出現細微的扭曲，一旦看見就再也無視不了。\n\nVeo 3.1 坐在 9.4，需要影音同時生成時它依然是更好的選擇。同步品質確實領先，任何有對白的內容，這個優勢都蓋過 Kling 在純動態上的長處。\n\nRunway Gen-4.5 跟 Seedance 2.0 並列 9.2。Runway 靠的是包在模型外面的剪輯工具，那依然是這個分類裡最完整的製作環境。Seedance 則是 CP 值選項，在相近品質下生成速度比誰都快。\n\n這個月要開始製作的人，我的實務建議是這樣。先用快速模型做分鏡，再把選中的鏡頭丟回 Kling 或 Veo 重生成。全部都用頂級品質生成，錢跟時間都在浪費，而且你丟掉的鏡頭數量會遠遠多過留下的。把便宜的級距當成你的樣片印樣。",
+          "highlights": [
+            {
+              "title": "五秒之後的動態連貫性，是 Kling 3.0 拉開差距的地方",
+              "body": "生成一個人橫向走過畫面，盯著第四秒的四肢看。Kling 撐得住幾何結構，多數對手會出現細微扭曲，看過一次就再也忽略不了。這個特定的崩壞模式是這個分類最難的問題，也是 9.5 分穩坐榜首的原因。"
+            },
+            {
+              "title": "有對白的鏡頭交給 Veo 3.1",
+              "body": "影音同步生成跟事後配上聲音，是兩種不同的產品。對白場景裡，這個優勢蓋過 Kling 在動態上的領先，也是 9.4 分緊咬第一名的理由。"
+            },
+            {
+              "title": "Runway 的並列靠的是製作工具，而非模型本身",
+              "body": "Gen-4.5 跟 Seedance 同為 9.2 分，選它的理由在於包裹生成步驟外面的那一整層。剪輯環境依然是這個分類裡最完整的，當一個案子拉到數十顆鏡頭跟多輪修改時，這件事就很有份量。"
+            },
+            {
+              "title": "分鏡用便宜的，收尾用貴的",
+              "body": "你丟掉的鏡頭會遠多於留下的，所以全部用頂級品質生成等於在燒錢燒時間。先用快速模型把段落排出來，再只把選中的鏡頭丟回 Kling 或 Veo。便宜的級距就是你的樣片印樣。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

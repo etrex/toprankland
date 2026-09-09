@@ -15384,6 +15384,206 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-09",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 9.0,
+            "artisticQuality": 8.3,
+            "textRendering": 9.6,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.1,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "nano-banana-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "LLM News Today (September 2026) - AI Model Releases",
+          "url": "https://llm-stats.com/ai-news",
+          "source": "LLM Stats"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "No new frontier image model shipped this week, so the ranking holds exactly as it stood. What did change is the pricing environment around these tools, and that deserves a comment because it is going to shape what you actually use in October.\n\nGPT Image 2 stays at 9.4 and keeps first place on the strength of prompt obedience and text rendering. It is still the only model in this list I trust to put a specific sentence inside a poster mock-up and get every character right on the first pass. For commercial work where a client supplied the copy, that reliability outranks any amount of aesthetic flair.\n\nMidjourney V8.1 holds second at 9.3. The house style is stronger than ever, and for editorial illustration and concept art it produces images with a coherence the others still approximate. Nano Banana Pro and Flux 2 Pro sit level at 9.2 and I keep both installed for different reasons: Nano Banana Pro for fast iteration inside the Gemini stack, Flux 2 Pro when I want control over the generation parameters rather than a chat interface.\n\nMy honest read for someone choosing today is that the top four are close enough that workflow fit should decide it. Pick the one that lives where you already work. The quality gap between first and fourth is far smaller than the gap between a tool you open daily and one you forget about.",
+          "highlights": [
+            {
+              "title": "GPT Image 2 keeps first place on text rendering alone",
+              "body": "It remains the only model here I will hand a client-supplied headline and trust to reproduce every character correctly on the first generation. For posters, packaging mock-ups, and anything with copy inside the frame, that reliability is worth more than aesthetic edge."
+            },
+            {
+              "title": "Midjourney V8.1 still owns editorial and concept work",
+              "body": "The house aesthetic has real coherence, and for illustration briefs where the look matters more than literal prompt obedience it produces usable frames faster than anything else. Second place at 9.3 reflects a model that knows exactly what it is for."
+            },
+            {
+              "title": "Nano Banana Pro and Flux 2 Pro are tied for good reasons",
+              "body": "Both sit at 9.2 and I keep both. Nano Banana Pro wins on iteration speed inside the Gemini stack. Flux 2 Pro wins when you want direct parameter control instead of a conversational interface. The choice is about how you like to work."
+            },
+            {
+              "title": "Workflow fit should decide your pick, not benchmark position",
+              "body": "The quality spread across the top four is now narrow enough that the tool you actually open every day will produce better work than a marginally stronger one you have to leave your workflow to reach. Choose the one that lives closest to where you already are."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週沒有新的前沿影像模型推出，所以排名原封不動。有變化的是這些工具周邊的定價環境，這值得講一下，因為它會影響你十月實際會用哪一個。\n\nGPT Image 2 維持 9.4 分守住第一，靠的是提示遵循度跟文字渲染。它到現在還是榜上唯一一個，我敢把一段指定文案丟進海報稿裡、並且相信它第一次就能把每個字元都排對的模型。做商業案子、文案是客戶給的那種情況，這份可靠度贏過任何美感上的加分。\n\nMidjourney V8.1 守住第二，9.3 分。它的招牌調性比以往更強烈，編輯插畫跟概念設計這類需求，它產出的畫面在整體協調感上，其他模型還在追。Nano Banana Pro 跟 Flux 2 Pro 並列 9.2，我兩個都留著，理由不同，Nano Banana Pro 是在 Gemini 生態裡迭代夠快，Flux 2 Pro 則是我想直接控制生成參數而非透過對話介面的時候。\n\n坦白說，如果今天要選，前四名已經接近到應該讓工作流程來決定。挑那個活在你既有工作環境裡的。第一名跟第四名的品質差距，遠小於「你每天會打開的工具」跟「你會忘記存在的工具」之間的差距。",
+          "highlights": [
+            {
+              "title": "GPT Image 2 光靠文字渲染就守得住第一",
+              "body": "它依然是榜上唯一一個，我願意把客戶給的標題文案直接交出去、並相信第一次生成就把每個字元排對的模型。海報、包裝稿、任何畫面裡要有文字的東西，這份可靠度比美感優勢值錢。"
+            },
+            {
+              "title": "編輯插畫與概念設計還是 Midjourney V8.1 的地盤",
+              "body": "它的招牌美感有真正的整體協調性，遇到「調性比字面遵循更重要」的插畫需求，它產出可用畫面的速度比誰都快。9.3 分的第二名，反映的是一個很清楚自己定位的模型。"
+            },
+            {
+              "title": "Nano Banana Pro 跟 Flux 2 Pro 並列有它的道理",
+              "body": "兩個都在 9.2，我也兩個都留著。Nano Banana Pro 贏在 Gemini 生態內的迭代速度，Flux 2 Pro 贏在你想直接控制參數而非用對話介面的時候。這個選擇取決於你習慣怎麼工作。"
+            },
+            {
+              "title": "決定權交給工作流程，而非排行榜位置",
+              "body": "前四名的品質差距現在窄到一個程度，你每天真的會打開的那個工具，產出會勝過一個稍微強一點、但得離開工作流程才碰得到的工具。選離你最近的那個。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

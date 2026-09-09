@@ -22812,6 +22812,218 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-09",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.7,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "LLM News Today (September 2026) - AI Model Releases",
+          "url": "https://llm-stats.com/ai-news",
+          "source": "LLM Stats"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "GPT-6 Astra landing on September 3 is the first thing in months that has made me re-examine the top of this list, and after a week with it I am keeping Claude Code at number one while nudging OpenAI Codex up to 9.3. Astra is a real step up in multi-file reasoning, and Codex inherits that immediately. What it does not inherit is the harness quality that keeps Claude Code ahead: the permission model, the way it holds a long refactor together across a repo, and the fact that it recovers gracefully when a test run fails midway.\n\nThat distinction matters more than model benchmarks now. Every serious assistant in this list is wired to a frontier model, so the differentiation has moved to how the agent behaves over a forty-minute task. Claude Code still handles that stretch best in my daily use.\n\nCursor holds third at 9.1. The editor experience remains the smoothest way to work if you want to stay inside an IDE, and for developers who think in terms of open buffers rather than terminal sessions it is the right pick.\n\nOne practical note on cost. Astra's output pricing is steep enough that agentic loops which used to run cheaply on the previous generation now add up fast. If your assistant lets you set a model per task, put the frontier model on architecture and debugging, and let a fast tier handle mechanical edits and test scaffolding. I have cut my own weekly spend by roughly a third doing exactly that.",
+          "highlights": [
+            {
+              "title": "Claude Code stays first because harness quality now beats raw model score",
+              "body": "Every leading assistant here calls a frontier model, so the differences show up in agent behavior over long tasks. Claude Code holds a multi-file refactor together, asks before destructive operations, and recovers when a test run fails partway through. That reliability over a forty-minute session is what I am actually paying for."
+            },
+            {
+              "title": "Codex earns a bump on the strength of GPT-6 Astra",
+              "body": "Astra shipped September 3 with a genuine improvement in multi-file reasoning, and Codex picked it up immediately. That is worth a move to 9.3. The gap to first is now about tooling and session management rather than the underlying model."
+            },
+            {
+              "title": "Cursor remains the best answer for IDE-native developers",
+              "body": "If your mental model of a codebase is a set of open buffers, Cursor fits the way you already work. The inline diff review and multi-file edit flow stay the smoothest in the category, and 9.1 reflects a tool that has held its position through two model generations."
+            },
+            {
+              "title": "Route models by task or watch your bill climb",
+              "body": "Astra's output pricing makes long agentic loops meaningfully more expensive than they were last month. Put the frontier model on architecture decisions and hard debugging, and let a fast tier handle mechanical edits, renames, and test scaffolding. Splitting that way cut my weekly spend by roughly a third."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "GPT-6 Astra 在 9 月 3 日上線，是這幾個月來第一件讓我認真重新檢視榜首的事。用了一週之後，我還是把 Claude Code 留在第一，同時把 OpenAI Codex 往上調到 9.3。\n\nAstra 在多檔案推理上確實往前跨了一步，Codex 立刻就吃到這個紅利。它沒有跟著吃到的，是讓 Claude Code 保持領先的那套外殼品質，包含權限模型、跨整個 repo 撐住一次長重構的能力，以及測試跑到一半失敗時能優雅接手繼續處理。\n\n說真的，這個差別現在比模型跑分重要多了。榜上每一個認真的助理背後都接著前沿模型，差異化早就移到「這個 agent 在四十分鐘的任務裡表現如何」。以我每天的實際使用來說，Claude Code 撐這段路撐得最好。\n\nCursor 守住第三，9.1 分。想留在 IDE 裡工作的話，它的編輯體驗依然最順，對於習慣用「開著的分頁」來理解專案的開發者，這就是正確選擇。\n\n最後講個實際的成本問題。Astra 的輸出定價夠貴，上個世代跑起來還算便宜的 agentic 迴圈，現在很快就會累積成一筆數字。如果你的助理允許按任務指定模型，就把前沿模型留給架構跟除錯，機械式的修改跟測試骨架交給快速級距。我自己這樣切之後，每週支出大概少了三分之一。",
+          "highlights": [
+            {
+              "title": "Claude Code 保住第一，因為外殼品質已經比模型分數更關鍵",
+              "body": "榜上領先的助理都接著前沿模型，差別就顯現在長任務中的 agent 行為。Claude Code 能撐住跨檔案的重構、在破壞性操作前先問過你、測試中途失敗時還能接回來繼續。四十分鐘的工作階段裡的這份穩定，才是我真正在付錢買的東西。"
+            },
+            {
+              "title": "Codex 靠 GPT-6 Astra 的實力往上調分",
+              "body": "Astra 9 月 3 日推出，多檔案推理有實質進步，Codex 馬上就接上了，這值得調到 9.3。它跟第一名的差距，現在主要落在工具鏈跟工作階段管理，模型本身已經不是問題。"
+            },
+            {
+              "title": "IDE 派開發者的最佳解依然是 Cursor",
+              "body": "如果你腦中對專案的模型就是一堆開著的檔案分頁，Cursor 完全貼合你既有的工作方式。行內 diff 檢視跟多檔案編輯流程還是同級最順的，9.1 分反映的是一個撐過兩個模型世代還守住位置的工具。"
+            },
+            {
+              "title": "照任務分流模型，不然帳單會爬上去",
+              "body": "Astra 的輸出定價讓長 agentic 迴圈比上個月貴上一截。把前沿模型留給架構決策跟難纏的除錯，機械式修改、重新命名、測試骨架交給快速級距。這樣拆完之後，我每週的支出少了大約三分之一。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

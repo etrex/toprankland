@@ -16115,6 +16115,197 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-09",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.7,
+          "scores": {
+            "reasoning": 9.8,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.7,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.5,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "LLM News Today (September 2026) - AI Model Releases",
+          "url": "https://llm-stats.com/ai-news",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Weekly AI Models News: Sep 1-8 2026, GPT-6 Astra Ships",
+          "url": "https://promptailearning.com/ai-news/weekly/ai-models-news-week-september-1-8-2026",
+          "source": "PromptAI Learning"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "This was the busiest seven days the chatbot market has had all year, and it settled a question I have been asked constantly since spring. GPT-6 Astra shipped on September 3 and it is a genuine generational release, so ChatGPT stays at number one and earns a bump to 9.7. Astra lists at $10 per million input tokens and $50 per million output, which is 2.5 times what GPT-5.6 Sol charged on its promotional rate. That is the real story here. OpenAI is confident enough in the reasoning gap to charge like a premium vendor again.\n\nClaude holds second, and I want to be specific about why. Anthropic shipped Fable 5.1 on September 1 and cut cache-read pricing by 75 percent in the same release. For anyone running long-context assistants over a fixed document set, that single pricing change does more for monthly cost than any benchmark gain announced this week. I raised Claude's value score to reflect it.\n\nGemini stays third on 9.4. The 3.8 Flash release on September 2 held the previous introductory price, which keeps Google the cheapest credible option at the high-volume tier, and Flash remains the model I reach for when latency matters more than depth.\n\nMy advice for the next month is to resist switching on launch-day excitement. Astra is the strongest reasoner available today, and it costs five times more per output token than the Flash tier that handles most everyday questions perfectly well. Pick per workload, and keep two providers wired up.",
+          "highlights": [
+            {
+              "title": "GPT-6 Astra justifies ChatGPT holding the top spot",
+              "body": "Astra is a full generational step rather than another point release inside the GPT-5 line, and it arrived on September 3 with pricing that signals real confidence. At $10 in and $50 out per million tokens, OpenAI is charging 2.5 times the GPT-5.6 Sol promotional rate. Vendors only price that way when they believe the capability gap is defensible."
+            },
+            {
+              "title": "The 75 percent cache-read cut is the most valuable pricing move of the week",
+              "body": "Anthropic shipped Fable 5.1 on September 1 alongside a 75 percent reduction in cache-read pricing. If you run an assistant over a stable corpus, cached input dominates your bill, so this lands harder on real monthly spend than any headline benchmark. It is the reason Claude keeps second place comfortably."
+            },
+            {
+              "title": "Gemini 3.8 Flash is still the right default for high volume",
+              "body": "Google released 3.8 Flash on September 2 at the same introductory price as 3.7 Flash. Holding price through a capability refresh keeps Gemini the cheapest credible option for chat volume that runs into millions of tokens a day, and Flash latency remains the best in the category."
+            },
+            {
+              "title": "Run two providers and route by workload",
+              "body": "The spread between the frontier tier and the fast tier is now roughly five times per output token. Sending every question to the most expensive model wastes money on tasks Flash answers correctly. Keep two accounts live, route hard reasoning to Astra or Claude, and let the fast tier absorb the rest."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這週大概是今年聊天機器人市場最熱鬧的七天，也順便回答了我從春天被問到現在的問題。GPT-6 Astra 在 9 月 3 日正式推出，這是貨真價實的世代更新，所以 ChatGPT 穩住第一，分數往上調到 9.7。\n\nAstra 的 API 定價是每百萬輸入 token 10 美元、輸出 50 美元，是 GPT-5.6 Sol 促銷價的 2.5 倍。這個定價本身就是重點，OpenAI 對自己的推理領先有信心到敢重新用高階廠商的姿態收費。\n\nClaude 守住第二，理由很具體。Anthropic 9 月 1 日推出 Fable 5.1，同一次更新把 cache read 價格砍了 75%。老實說，如果你的助理是在固定文件集上跑長上下文，這一刀對每月帳單的影響，比這週任何跑分進步都大，所以我把 Claude 的價值分往上調。\n\nGemini 維持第三，9.4 分。9 月 2 日的 3.8 Flash 沿用前一代的入門價，讓 Google 在高流量級距繼續是最便宜的可靠選項，延遲表現也還是同級最好的。\n\n接下來一個月我的建議是，別因為新品發表就急著搬家。Astra 是現在最強的推理模型，但每百萬輸出 token 比 Flash 級距貴五倍，而日常問題 Flash 答得完全夠好。照工作類型分流，同時保留兩家供應商的接口。",
+          "highlights": [
+            {
+              "title": "GPT-6 Astra 讓 ChatGPT 的第一名站得住腳",
+              "body": "Astra 是完整的世代跳躍，而非 GPT-5 系列裡的又一次小改版，9 月 3 日上線時的定價策略也很有話講。每百萬 token 輸入 10 美元、輸出 50 美元，是 GPT-5.6 Sol 促銷價的 2.5 倍。廠商敢這樣訂價，代表他們相信這個能力差距守得住。"
+            },
+            {
+              "title": "砍 75% 的 cache read 價格是本週最有份量的價格動作",
+              "body": "Anthropic 在 9 月 1 日推出 Fable 5.1，同時把 cache read 價格降了 75%。如果你的應用是在穩定的文件庫上跑，快取輸入本來就是帳單主體，這一刀對實際月支出的衝擊比任何跑分數字都直接，也是 Claude 第二名坐得穩的原因。"
+            },
+            {
+              "title": "高流量場景 Gemini 3.8 Flash 還是最合理的預設值",
+              "body": "Google 9 月 2 日推出 3.8 Flash，價格跟 3.7 Flash 的入門價一樣。能力更新卻不漲價，等於讓 Gemini 在每天要跑掉幾百萬 token 的場景繼續當最便宜的可靠選項，延遲也依然是這個級距最好的。"
+            },
+            {
+              "title": "同時養兩家，照任務分流",
+              "body": "頂級模型跟快速模型之間，每百萬輸出 token 的價差現在大約是五倍。把所有問題都丟給最貴的模型，等於在 Flash 就能正確回答的任務上白白燒錢。留著兩家的接口，硬推理丟給 Astra 或 Claude，其餘的交給快速級距吸收。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

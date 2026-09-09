@@ -442,6 +442,209 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-09",
+      "rankings": [
+        {
+          "id": "home-assistant-green",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "offlineSurvival": 9.8,
+            "localAutomation": 9.7,
+            "radios": 6.0,
+            "matterVersion": 9.0,
+            "apiPolicy": 9.9,
+            "setupEffort": 6.5,
+            "value": 8.6,
+            "twAvailability": 5.5
+          }
+        },
+        {
+          "id": "hubitat-c8-pro",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "offlineSurvival": 9.6,
+            "localAutomation": 9.4,
+            "radios": 9.5,
+            "matterVersion": 9.6,
+            "apiPolicy": 9.2,
+            "setupEffort": 6.8,
+            "value": 8.4,
+            "twAvailability": 4.5
+          }
+        },
+        {
+          "id": "homey-pro-2026",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "offlineSurvival": 9.0,
+            "localAutomation": 9.2,
+            "radios": 9.8,
+            "matterVersion": 8.8,
+            "apiPolicy": 7.6,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 4.0
+          }
+        },
+        {
+          "id": "aqara-hub-m3",
+          "rank": 4,
+          "score": 7.9,
+          "scores": {
+            "offlineSurvival": 7.6,
+            "localAutomation": 7.8,
+            "radios": 8.2,
+            "matterVersion": 8.4,
+            "apiPolicy": 6.8,
+            "setupEffort": 8.8,
+            "value": 8.6,
+            "twAvailability": 8.5
+          }
+        },
+        {
+          "id": "switchbot-hub-3",
+          "rank": 5,
+          "score": 7.2,
+          "scores": {
+            "offlineSurvival": 6.6,
+            "localAutomation": 6.8,
+            "radios": 6.4,
+            "matterVersion": 8.0,
+            "apiPolicy": 7.4,
+            "setupEffort": 9.2,
+            "value": 8.8,
+            "twAvailability": 8.8
+          }
+        },
+        {
+          "id": "aeotec-smart-home-hub",
+          "rank": 6,
+          "score": 6.6,
+          "scores": {
+            "offlineSurvival": 6.8,
+            "localAutomation": 7.4,
+            "radios": 9.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 7.8,
+            "value": 6.4,
+            "twAvailability": 4.2
+          }
+        },
+        {
+          "id": "smartthings-station",
+          "rank": 7,
+          "score": 6.2,
+          "scores": {
+            "offlineSurvival": 5.4,
+            "localAutomation": 6.2,
+            "radios": 5.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 9.0,
+            "value": 8.2,
+            "twAvailability": 6.5
+          }
+        },
+        {
+          "id": "apple-tv-4k",
+          "rank": 8,
+          "score": 6.0,
+          "scores": {
+            "offlineSurvival": 8.4,
+            "localAutomation": 7.0,
+            "radios": 4.5,
+            "matterVersion": 7.6,
+            "apiPolicy": 5.2,
+            "setupEffort": 9.4,
+            "value": 4.2,
+            "twAvailability": 9.5
+          }
+        },
+        {
+          "id": "amazon-echo-hub",
+          "rank": 9,
+          "score": 5.6,
+          "scores": {
+            "offlineSurvival": 4.2,
+            "localAutomation": 5.0,
+            "radios": 8.4,
+            "matterVersion": 7.4,
+            "apiPolicy": 4.4,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 3.5
+          }
+        },
+        {
+          "id": "google-home-speaker",
+          "rank": 10,
+          "score": 5.2,
+          "scores": {
+            "offlineSurvival": 3.8,
+            "localAutomation": 4.4,
+            "radios": 5.2,
+            "matterVersion": 7.0,
+            "apiPolicy": 4.2,
+            "setupEffort": 9.2,
+            "value": 6.6,
+            "twAvailability": 3.2
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "IFA 2026: Matter gets into soil, cameras and local AI",
+          "url": "https://www.matteralpha.com/industry-news/ifa-2026-matter-gets-into-soil-cameras-and-local-ai",
+          "source": "Matter Alpha"
+        },
+        {
+          "title": "IFA 2026 Smart Home: Every Announcement Worth Knowing",
+          "url": "https://smarthomeassistant.co.uk/articles/home-automation/ifa-2026-smart-home",
+          "source": "Smart Home Assistant"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "IFA gave this category its most substantial week of the year. Matter Alpha's show coverage focused on local AI arriving in hubs and cameras, and both UGREEN and Anker showed hub platforms pairing Matter control with local storage. Aqara updated the M3 line alongside new Thread and Zigbee lighting, and SwitchBot showed the Hub Mini Matter with a Lock Ultra Max.\n\nThe ranking holds because none of that changes the fundamental argument. Home Assistant Green stays first at 9.1 because it is the only hub here that does not depend on a company continuing to care about your house. Everything runs locally, integrations exist for devices manufacturers abandoned years ago, and nothing stops working when a cloud service is retired. In a category where products get discontinued and servers get switched off, that independence is the feature.\n\nHubitat Elevation C-8 Pro at 8.8 is the pick for someone who wants local control with a gentler setup process. It is genuinely easier to live with than Home Assistant while keeping the same local-first principle.\n\nThe direction the whole industry showed at IFA, moving processing onto the hub rather than a data center, is the direction Home Assistant has been going for a decade. The rest of the market is catching up to a position that was correct all along.",
+          "highlights": [
+            {
+              "title": "Home Assistant wins because it outlives the companies that made your devices",
+              "body": "Everything runs locally, integrations exist for hardware manufacturers abandoned years ago, and nothing breaks when a cloud service is retired. In a category defined by discontinued products and switched-off servers, that independence is the feature, not a technicality."
+            },
+            {
+              "title": "IFA confirmed local processing is where the industry is heading",
+              "body": "Show coverage highlighted local AI in hubs and cameras, with UGREEN and Anker pairing Matter control with local storage. That is the direction Home Assistant has held for a decade. The rest of the market is catching up to a position that was correct from the start."
+            },
+            {
+              "title": "Hubitat is the gentler route to local control",
+              "body": "At 8.8 it keeps the local-first principle while being genuinely easier to live with than Home Assistant. If you want your home to keep working during an internet outage but do not want a configuration project, this is the hub to buy."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "IFA 給了這個分類今年最有份量的一週。Matter Alpha 的展會報導聚焦在本地 AI 進入 hub 跟攝影機，UGREEN 跟 Anker 也都展出結合 Matter 控制與本地儲存的 hub 平台。Aqara 更新了 M3 系列，同時推出支援 Thread 跟 Zigbee 的新照明，SwitchBot 則展出 Hub Mini Matter 搭配 Lock Ultra Max。\n\n排名維持不動，因為以上這些都沒有改變根本論點。Home Assistant Green 以 9.1 分守住第一，因為它是這裡唯一一個「不依賴某家公司持續在意你家」的 hub。一切在本地運行，那些廠商多年前就放棄的裝置依然有整合可用，雲端服務下線時也沒有東西會停擺。在一個產品會停產、伺服器會被關掉的分類裡，這份獨立性本身就是功能。\n\nHubitat Elevation C-8 Pro 的 8.8 分，適合想要本地控制、但希望設定流程溫和一點的人。它在維持同樣的本地優先原則下，確實比 Home Assistant 好相處。\n\n整個產業在 IFA 展現的方向，把運算移到 hub 而非資料中心，正是 Home Assistant 走了十年的方向。市場其他人正在追上一個一開始就正確的位置。",
+          "highlights": [
+            {
+              "title": "Home Assistant 贏在它活得比做你家裝置的公司久",
+              "body": "一切在本地運行，廠商多年前放棄的硬體依然有整合可用，雲端服務下線也不會壞掉任何東西。在一個由停產產品跟關掉的伺服器定義的分類裡，這份獨立性是功能而非技術細節。"
+            },
+            {
+              "title": "IFA 證實了產業正走向本地運算",
+              "body": "展會報導聚焦本地 AI 進入 hub 跟攝影機，UGREEN 與 Anker 把 Matter 控制結合本地儲存。那正是 Home Assistant 守了十年的方向，市場其他人正在追上一個一開始就正確的位置。"
+            },
+            {
+              "title": "通往本地控制的溫和路線是 Hubitat",
+              "body": "8.8 分的它守住本地優先原則，同時確實比 Home Assistant 好相處。如果你希望斷網時家裡照常運作、又不想把它變成一個設定專案，這就是該買的 hub。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

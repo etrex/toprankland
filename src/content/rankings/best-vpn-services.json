@@ -16828,6 +16828,155 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-09",
+      "rankings": [
+        {
+          "id": "protonvpn",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "mullvad",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "SplitVPN Data Breach",
+          "url": "https://haveibeenpwned.com/Breach/SplitVPN",
+          "source": "Have I Been Pwned"
+        },
+        {
+          "title": "VPN Data Breaches 2026: Which VPNs Were Hacked",
+          "url": "https://www.zerotovpn.com/blog/vpn-data-breaches-2026-which-vpns-hacked",
+          "source": "ZeroToVPN"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Ranking holds. ProtonVPN stays first at 9.3 and Mullvad sits at 9.2, and I want to explain why these two lead a category where marketing budgets usually decide visibility.\n\nBoth have been independently audited, both operate under jurisdictions with meaningful privacy protection, and both have published transparency reports that hold up. Neither runs the affiliate-driven promotional machine that dominates VPN recommendations elsewhere on the internet. ProtonVPN takes first on server coverage and the quality of its apps. Mullvad takes second on a privacy model that is genuinely stricter, including accounts that require no email address at all.\n\nNordVPN at 8.8 has the fastest servers in this list and the widest device support, and for streaming access it is the most reliable performer.\n\nWhat matters more than any of this: be clear about your threat model. A VPN protects traffic between you and the exit server. It does not make you anonymous, it does not stop a website identifying you when you log in, and it does not defend against malware. If you are choosing one for privacy from your internet provider or safety on public networks, these work well. If you need protection from a state actor, a commercial VPN is the wrong tool entirely.",
+          "highlights": [
+            {
+              "title": "Audits and jurisdiction decide this category, not marketing",
+              "body": "ProtonVPN and Mullvad have both been independently audited, operate under meaningful privacy jurisdictions, and publish transparency reports that hold up. Neither runs the affiliate machine that dominates VPN recommendations elsewhere, which is precisely why they lead here."
+            },
+            {
+              "title": "Mullvad allows accounts with no email address at all",
+              "body": "Its privacy model is genuinely stricter than anything else in this list, and requiring no identifying information to open an account is not a gimmick. At 9.2 it is the choice when minimizing what a provider can possibly know about you is the actual goal."
+            },
+            {
+              "title": "Be honest about your threat model",
+              "body": "A VPN protects traffic between you and the exit server. It does not make you anonymous, stop a site identifying you at login, or defend against malware. For privacy from an internet provider or safety on public networks these work well. Against a state actor, this is the wrong tool."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "排名維持不動。ProtonVPN 以 9.3 分守住第一，Mullvad 坐在 9.2，我想說明為什麼在一個「行銷預算通常決定曝光度」的分類裡，是這兩家領先。\n\n兩者都通過獨立稽核，都在具備實質隱私保障的司法管轄區營運，也都發布了經得起檢視的透明度報告。兩家都沒有經營那套主宰網路上 VPN 推薦的聯盟行銷機器。ProtonVPN 靠伺服器覆蓋率跟 app 品質拿下第一。Mullvad 以更嚴格的隱私模型排第二，包含開帳號完全不需要電子郵件這一點。\n\nNordVPN 的 8.8 分，伺服器速度是榜上最快、裝置支援也最廣，串流解鎖的穩定度是最可靠的。\n\n比上面這些都更重要的是：把你的威脅模型想清楚。VPN 保護的是你到出口伺服器之間的流量。它不會讓你匿名、不會阻止網站在你登入後認出你、也防不了惡意軟體。如果你是為了不讓網路業者看到瀏覽紀錄、或在公共網路上求安全，這些都很好用。如果你需要防範國家級對手，商用 VPN 完全是錯的工具。",
+          "highlights": [
+            {
+              "title": "決定這個分類的是稽核跟司法管轄，不是行銷",
+              "body": "ProtonVPN 跟 Mullvad 都通過獨立稽核、在具實質隱私保障的管轄區營運、也發布經得起檢視的透明度報告。兩家都沒經營那套主宰網路 VPN 推薦的聯盟機器，這正是它們領先的原因。"
+            },
+            {
+              "title": "Mullvad 開帳號完全不需要電子郵件",
+              "body": "它的隱私模型比榜上任何一家都嚴格，而開戶不需要任何識別資訊並非噱頭。9.2 分適合那些真正目標是「把業者可能知道的事情降到最低」的人。"
+            },
+            {
+              "title": "誠實面對你的威脅模型",
+              "body": "VPN 保護的是你到出口伺服器之間的流量。它不讓你匿名、不阻止網站在登入後認出你、也防不了惡意軟體。為了避開網路業者或在公共網路求安全，它們很好用。對上國家級對手，這是錯的工具。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
