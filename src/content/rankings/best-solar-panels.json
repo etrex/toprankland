@@ -1,0 +1,483 @@
+{
+  "slug": "best-solar-panels",
+  "category": "Home Energy",
+  "scoreFactors": {
+    "netCost25": "25-Year Net Cost With No Federal Credit",
+    "pvelReliability": "Kiwa PVEL 2026 Test Results",
+    "warrantyBackstop": "Who Is Solvent Enough to Honor the Warranty",
+    "efficiency": "Module Efficiency & Power Density",
+    "hotWeather": "Hot-Weather Output & Temperature Coefficient",
+    "domesticContent": "US Manufacturing & Tariff Exposure",
+    "installerAccess": "Installer Availability & Real Quotes",
+    "twAvailability": "Taiwan Availability"
+  },
+  "i18n": {
+    "en": {
+      "title": "Best Solar Panels 2026",
+      "description": "Qcells, REC, Silfab, Maxeon and seven more residential modules ranked by 25-year net cost now that the federal credit is gone, Kiwa PVEL 2026 test results, and whether the company signing the warranty is still solvent."
+    },
+    "zh-tw": {
+      "title": "最佳太陽能板 2026",
+      "description": "Qcells、REC、Silfab、Maxeon 等 11 款住宅太陽能模組，依聯邦抵免終止後的二十五年淨支出、Kiwa PVEL 2026 測試結果與保固簽發方的財務體質排序，附台灣躉購費率與補助對照。"
+    }
+  },
+  "competitors": [
+    {
+      "id": "qcells-qtron-blk-m-g2",
+      "name": "Q.TRON BLK M-G2+",
+      "brand": "Qcells",
+      "url": "https://us.qcells.com/q-tron-blk-m-g2/",
+      "i18n": {
+        "en": {
+          "description": "A 415 to 440 W N-type TOPCon module rated up to 22.5%, assembled in the United States and backed by a 25-year product and 25-year performance warranty that guarantees 90.58% of nameplate in year 25. Qcells now runs ingot, wafer, cell and module lines in Georgia, so this is the panel with the least tariff exposure on the list.",
+          "priceRange": "$0.55-$0.90/W panel"
+        },
+        "zh-tw": {
+          "description": "415 到 440 W 的 N 型 TOPCon 模組，效率最高 22.5%，美國組裝，25 年產品保固加 25 年功率保固，第 25 年保證 90.58% 標稱功率。Qcells 在喬治亞州從長晶、切片、電池到模組全線自己做，關稅風險是這份名單裡最低的。",
+          "priceRange": "約 NT$18-29/W"
+        }
+      }
+    },
+    {
+      "id": "rec-alpha-pure-rx",
+      "name": "Alpha Pure-RX",
+      "brand": "REC Group",
+      "url": "https://www.recgroup.com/en-us/rec-alpha-pure-rx",
+      "i18n": {
+        "en": {
+          "description": "450 to 470 W of heterojunction cells at 22.6% efficiency and a -0.24%/degC temperature coefficient, with 21 W per square foot of power density. Third-party tested against 45 mm hail at 110 km/h, and covered by 20 years product, 25 years power to 92%, and 25 years labor under REC ProTrust.",
+          "priceRange": "$0.65-$0.95/W panel"
+        },
+        "zh-tw": {
+          "description": "450 到 470 W 的 HJT 異質接面電池，效率 22.6%，溫度係數 -0.24%/degC，功率密度每平方英尺 21 W。第三方測過時速 110 公里的 45mm 冰雹，保固是 20 年產品、25 年功率保 92%、走 REC ProTrust 還有 25 年工資保固。",
+          "priceRange": "約 NT$21-30/W"
+        }
+      }
+    },
+    {
+      "id": "silfab-elite-bg",
+      "name": "Elite BG",
+      "brand": "Silfab Solar",
+      "url": "https://silfabsolar.com/our-solar-panels/silfab-elite/",
+      "i18n": {
+        "en": {
+          "description": "A 410 to 440 W all-black module at 21.4% efficiency, built in Washington State with cells from the company's Fort Mill, South Carolina plant. Silfab guarantees 82.05% output at year 30 and pairs it with a 25-year product warranty, one of the longest terms from a manufacturer with US lines running.",
+          "priceRange": "$0.70-$1.35/W panel"
+        },
+        "zh-tw": {
+          "description": "410 到 440 W 的全黑模組，效率 21.4%，華盛頓州組裝，電池片來自自家南卡羅來納州 Fort Mill 廠。Silfab 保證第 30 年還有 82.05% 功率，加上 25 年產品保固，在美國本土有實際產線的廠商裡算保固最長的一批。",
+          "priceRange": "約 NT$23-44/W"
+        }
+      }
+    },
+    {
+      "id": "canadian-solar-hihero",
+      "name": "HiHero HJT",
+      "brand": "Canadian Solar",
+      "url": "https://www.csisolar.com/hihero/",
+      "i18n": {
+        "en": {
+          "description": "420 to 445 W heterojunction modules reaching 23.5% efficiency, with a 25-year product warranty and 25-year performance warranty holding 93.8% at year 25. The 93.8% year-25 figure is the strongest degradation guarantee on this list outside Maxeon.",
+          "priceRange": "$0.45-$1.25/W panel"
+        },
+        "zh-tw": {
+          "description": "420 到 445 W 的 HJT 模組，效率上看 23.5%，25 年產品保固加 25 年功率保固，第 25 年保 93.8%。這個 93.8% 的衰減保證，除了 Maxeon 之外是全場最好看的一組數字。",
+          "priceRange": "約 NT$15-40/W"
+        }
+      }
+    },
+    {
+      "id": "jinko-tiger-neo",
+      "name": "Tiger Neo",
+      "brand": "JinkoSolar",
+      "url": "https://www.jinkosolar.com/en/site/tigerneo",
+      "i18n": {
+        "en": {
+          "description": "The volume N-type TOPCon workhorse, now assembled in Jacksonville, Florida, which lets Jinko ship into the US without the Southeast Asia duty stack. Current residential lines carry 25-year product coverage, and the module price sits at the bottom of the tier-one range.",
+          "priceRange": "$0.25-$0.40/W panel"
+        },
+        "zh-tw": {
+          "description": "出貨量最大的 N 型 TOPCon 主力機種，現在在佛羅里達州 Jacksonville 組裝，讓 Jinko 可以避開東南亞那一整疊反傾銷稅進美國。現行住宅系列有 25 年產品保固，模組單價壓在一線品牌的最低區間。",
+          "priceRange": "約 NT$8-13/W"
+        }
+      }
+    },
+    {
+      "id": "trina-vertex-s-plus",
+      "name": "Vertex S+",
+      "brand": "Trina Solar",
+      "url": "https://www.trinasolar.com/us/product/residential-module",
+      "i18n": {
+        "en": {
+          "description": "The G3 generation pushes module efficiency to roughly 23.8% in a compact residential frame, with 25-year product coverage on the current N-type line. Trina builds in Thailand and Vietnam, so the landed US price moves with every AD/CVD determination.",
+          "priceRange": "$0.25-$0.45/W panel"
+        },
+        "zh-tw": {
+          "description": "G3 世代把模組效率推到大約 23.8%，而且維持在住宅適用的緊湊尺寸，現行 N 型產線有 25 年產品保固。Trina 產地在泰國跟越南，所以每一次美國反傾銷稅裁定出來，到岸價就跟著跳一次。",
+          "priceRange": "約 NT$8-14/W"
+        }
+      }
+    },
+    {
+      "id": "maxeon-7",
+      "name": "Maxeon 7",
+      "brand": "Maxeon",
+      "url": "https://www.maxeon.com/us/en/solar-panels/maxeon-7",
+      "i18n": {
+        "en": {
+          "description": "435 to 445 W of interdigitated back contact cells at 24.1%, the highest efficiency residential module you can buy, sold with a 40-year product and performance warranty. Maxeon entered judicial management in Singapore in April 2026 and its shares moved to the OTC market on 1 May 2026.",
+          "priceRange": "$3.50-$4.20/W installed"
+        },
+        "zh-tw": {
+          "description": "435 到 445 W 的 IBC 背接觸電池，效率 24.1%，市面上買得到最高效率的住宅模組，配 40 年產品加功率保固。Maxeon 在 2026 年 4 月進入新加坡的司法管理程序，股票在 2026 年 5 月 1 日轉到 OTC 市場交易。",
+          "priceRange": "約 NT$110-132/W 含施工"
+        }
+      }
+    },
+    {
+      "id": "aiko-neostar",
+      "name": "Neostar Series",
+      "brand": "AIKO",
+      "url": "https://aikosolar.com/en/products/",
+      "i18n": {
+        "en": {
+          "description": "N-type ABC modules running 23.6% to 25.0% depending on model, with a 25-year product warranty and a 30-year performance warranty holding 88.85%. AIKO sells mainly through European, Australian and Asian channels, so a US homeowner will have to hunt for an installer who stocks it.",
+          "priceRange": "$0.60-$1.00/W panel"
+        },
+        "zh-tw": {
+          "description": "N 型 ABC 模組，依型號從 23.6% 跑到 25.0%，25 年產品保固加 30 年功率保固，第 30 年保 88.85%。AIKO 的主力通路在歐洲、澳洲跟亞洲，美國讀者要找到有現貨的安裝商得花點力氣。",
+          "priceRange": "約 NT$19-32/W"
+        }
+      }
+    },
+    {
+      "id": "longi-himo-x6",
+      "name": "Hi-MO X6",
+      "brand": "LONGi",
+      "url": "https://www.longi.com/en/products/modules/hi-mo-x6/",
+      "i18n": {
+        "en": {
+          "description": "HPBC cells at 23.0% module efficiency with a 30-year product warranty on the flagship line, which is the longest product term outside Maxeon. LONGi has no US assembly capacity, so every module lands with the full import duty attached.",
+          "priceRange": "$0.25-$0.40/W panel"
+        },
+        "zh-tw": {
+          "description": "HPBC 電池、模組效率 23.0%，旗艦系列給到 30 年產品保固，這個年限除了 Maxeon 之外沒人比得上。LONGi 在美國沒有組裝產能，所以每一片進美國都是全額關稅入關。",
+          "priceRange": "約 NT$8-13/W"
+        }
+      }
+    },
+    {
+      "id": "tsec-quantum",
+      "name": "Quantum Series TOPCon",
+      "brand": "TSEC",
+      "url": "https://www.tsecpv.com/solar/",
+      "i18n": {
+        "en": {
+          "description": "Taiwan's largest domestic module line, running N-type TOPCon at over 23% cell efficiency with a 30-year warranty holding 87.4% output. Bifacial versions claim up to 15% yield gain, and the R-type frame is designed for the pitched roofs and salt-air exposure common on the island.",
+          "priceRange": "$0.40-$0.55/W panel"
+        },
+        "zh-tw": {
+          "description": "台灣產能最大的本土模組產線，量子系列走 N 型 TOPCon，電池效率破 23%，30 年保固功率維持 87.4%。雙面版本標稱最高 15% 發電增益，R 型專門對應台灣的斜屋頂，M 型則是針對鹽害環境設計。",
+          "priceRange": "NT$13-18/W"
+        }
+      }
+    },
+    {
+      "id": "mission-solar-mse",
+      "name": "MSE Series",
+      "brand": "Mission Solar",
+      "url": "https://missionsolar.com/products/",
+      "i18n": {
+        "en": {
+          "description": "390 to 435 W modules at 19.4% to 19.9% efficiency, assembled in San Antonio, Texas. The 25-year linear production guarantee ends at 84.08%, and the product warranty runs 12 years, the shortest term in this ranking.",
+          "priceRange": "$0.50-$0.85/W panel"
+        },
+        "zh-tw": {
+          "description": "390 到 435 W 模組，效率 19.4% 到 19.9%，德州聖安東尼奧組裝。25 年線性發電保證收在 84.08%，產品保固 12 年，是這份名單裡最短的一組。",
+          "priceRange": "約 NT$16-27/W"
+        }
+      }
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-09-10",
+      "rankings": [
+        {
+          "id": "qcells-qtron-blk-m-g2",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "netCost25": 9.3,
+            "pvelReliability": 9.0,
+            "warrantyBackstop": 9.4,
+            "efficiency": 8.6,
+            "hotWeather": 8.4,
+            "domesticContent": 9.8,
+            "installerAccess": 9.5,
+            "twAvailability": 7.5
+          }
+        },
+        {
+          "id": "rec-alpha-pure-rx",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "netCost25": 8.8,
+            "pvelReliability": 9.2,
+            "warrantyBackstop": 8.9,
+            "efficiency": 9.2,
+            "hotWeather": 9.6,
+            "domesticContent": 6.5,
+            "installerAccess": 9.0,
+            "twAvailability": 8.0
+          }
+        },
+        {
+          "id": "silfab-elite-bg",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "netCost25": 8.9,
+            "pvelReliability": 8.5,
+            "warrantyBackstop": 8.6,
+            "efficiency": 8.3,
+            "hotWeather": 8.2,
+            "domesticContent": 9.5,
+            "installerAccess": 8.4,
+            "twAvailability": 5.5
+          }
+        },
+        {
+          "id": "canadian-solar-hihero",
+          "rank": 4,
+          "score": 8.4,
+          "scores": {
+            "netCost25": 8.7,
+            "pvelReliability": 8.3,
+            "warrantyBackstop": 8.2,
+            "efficiency": 9.0,
+            "hotWeather": 9.3,
+            "domesticContent": 6.0,
+            "installerAccess": 8.0,
+            "twAvailability": 8.5
+          }
+        },
+        {
+          "id": "jinko-tiger-neo",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "netCost25": 9.0,
+            "pvelReliability": 8.2,
+            "warrantyBackstop": 8.0,
+            "efficiency": 8.7,
+            "hotWeather": 8.3,
+            "domesticContent": 7.8,
+            "installerAccess": 8.6,
+            "twAvailability": 9.0
+          }
+        },
+        {
+          "id": "trina-vertex-s-plus",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "netCost25": 8.6,
+            "pvelReliability": 8.0,
+            "warrantyBackstop": 7.9,
+            "efficiency": 9.0,
+            "hotWeather": 8.4,
+            "domesticContent": 6.2,
+            "installerAccess": 8.2,
+            "twAvailability": 8.8
+          }
+        },
+        {
+          "id": "maxeon-7",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "netCost25": 6.2,
+            "pvelReliability": 8.8,
+            "warrantyBackstop": 4.5,
+            "efficiency": 9.9,
+            "hotWeather": 9.0,
+            "domesticContent": 5.5,
+            "installerAccess": 7.6,
+            "twAvailability": 7.0
+          }
+        },
+        {
+          "id": "aiko-neostar",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "netCost25": 7.4,
+            "pvelReliability": 8.0,
+            "warrantyBackstop": 7.2,
+            "efficiency": 9.8,
+            "hotWeather": 8.6,
+            "domesticContent": 4.5,
+            "installerAccess": 5.8,
+            "twAvailability": 8.2
+          }
+        },
+        {
+          "id": "longi-himo-x6",
+          "rank": 9,
+          "score": 7.2,
+          "scores": {
+            "netCost25": 7.2,
+            "pvelReliability": 8.1,
+            "warrantyBackstop": 7.6,
+            "efficiency": 9.1,
+            "hotWeather": 8.5,
+            "domesticContent": 3.8,
+            "installerAccess": 6.2,
+            "twAvailability": 9.2
+          }
+        },
+        {
+          "id": "tsec-quantum",
+          "rank": 10,
+          "score": 7.0,
+          "scores": {
+            "netCost25": 7.0,
+            "pvelReliability": 6.5,
+            "warrantyBackstop": 7.4,
+            "efficiency": 7.8,
+            "hotWeather": 7.6,
+            "domesticContent": 4.0,
+            "installerAccess": 4.5,
+            "twAvailability": 9.8
+          }
+        },
+        {
+          "id": "mission-solar-mse",
+          "rank": 11,
+          "score": 6.8,
+          "scores": {
+            "netCost25": 7.6,
+            "pvelReliability": 7.0,
+            "warrantyBackstop": 7.0,
+            "efficiency": 6.4,
+            "hotWeather": 6.8,
+            "domesticContent": 9.2,
+            "installerAccess": 6.6,
+            "twAvailability": 4.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Kiwa PVEL 2026 PV Module Reliability Scorecard: Top Performers",
+          "url": "https://scorecard.pvel.com/top-performers/",
+          "source": "Kiwa PVEL"
+        },
+        {
+          "title": "Kiwa PVEL's 2026 solar module reliability scorecard reveals high failure rates",
+          "url": "https://www.pv-magazine.com/2026/05/28/kiwa-pvels-2026-solar-module-reliability-scorecard-reveals-high-failure-rates-amid-incremental-increases-in-performance/",
+          "source": "pv magazine"
+        },
+        {
+          "title": "Module test failures continue to increase in Kiwa PVEL's 2026 Module Reliability Scorecard",
+          "url": "https://www.pv-tech.org/module-test-failures-continue-to-increase-in-kiwa-pvels-2026-module-reliability-scorecard/",
+          "source": "PV Tech"
+        },
+        {
+          "title": "Residential Clean Energy Credit",
+          "url": "https://www.irs.gov/credits-deductions/residential-clean-energy-credit",
+          "source": "IRS"
+        },
+        {
+          "title": "US Section 232 proclamation establishes minimum import prices and a 15% tariff on polysilicon and derivative products",
+          "url": "https://taxnews.ey.com/news/2026-1695-us-section-232-proclamation-establishes-minimum-import-prices-and-a-15-percent-tariff-on-polysilicon-and-derivative-products",
+          "source": "EY Tax News"
+        },
+        {
+          "title": "Qcells begins solar cell manufacturing at America's first vertically integrated solar factory in Cartersville, Georgia",
+          "url": "https://www.hanwha.com/newsroom/news/press-releases/qcells-begins-solar-cell-manufacturing-at-americas-first-and-only-vertically-integrated-solar-factory-in-cartersville-georgia.do",
+          "source": "Hanwha"
+        },
+        {
+          "title": "Maxeon's world-leading solar tech faces hard road ahead",
+          "url": "https://www.canarymedia.com/articles/solar/maxeons-world-leading-solar-tech-faces-hard-road-ahead",
+          "source": "Canary Media"
+        },
+        {
+          "title": "Maxeon will offer warranty support to SunPower panels after installer's bankruptcy",
+          "url": "https://www.solarpowerworldonline.com/2024/08/maxeon-will-offer-warranty-support-to-sunpower-systems-after-installers-bankruptcy/",
+          "source": "Solar Power World"
+        },
+        {
+          "title": "Silfab Solar raises $100 million to scale its cell manufacturing facility in Fort Mill, S.C.",
+          "url": "https://silfabsolar.com/silfab-solar-raises-100-million-to-scale-its-cell-manufacturing-facility-in-fort-mill-s-c/",
+          "source": "Silfab Solar"
+        },
+        {
+          "title": "Solar panel cost data by state",
+          "url": "https://www.energysage.com/local-data/solar-panel-cost/",
+          "source": "EnergySage"
+        },
+        {
+          "title": "經濟部能源署最新消息（再生能源電能躉購費率公告）",
+          "url": "https://www.moeaea.gov.tw/ECW/populace/news/News.aspx?kind=1&menu_id=41",
+          "source": "經濟部能源署"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The purchase math for home solar changed on 1 January 2026, and almost every ranking still on page one prices panels as if it had not. Section 25D, the 30% residential clean energy credit, ended for systems placed in service after 31 December 2025. A homeowner paying cash or taking a loan in 2026 receives zero federal credit. At the EnergySage first-half 2026 range of $2.55 to $3.15 per watt installed, a typical 8 kW system runs $20,400 to $25,200 out of pocket, roughly $6,000 to $9,000 higher in real terms than the same system in 2024, and national payback stretches to 8 to 14 years. Section 48E, the commercial credit, survived for projects that begin construction before 4 July 2026 or are placed in service before 1 January 2028, and third-party owners still claim it. So in 2026 the cheapest route to rooftop solar in most states runs through a lease or a PPA, and that ownership decision comes before the panel decision. I am stating the status of the statute here, and every reader should take the filing question to a qualified tax professional.\n\nThe second thing I rank on is independent test data. Kiwa PVEL released the 12th edition of its Module Reliability Scorecard in May 2026, and for the first time in twelve years no module earned Top Performer across every test. A record 87% of manufacturers logged at least one failure, delamination and mechanical breakage hit new highs, and ultraviolet induced degradation joined the test suite this year. Forty-three manufacturers took Top Performer in at least one test. That database is the only public source that puts a datasheet claim through thermal cycling, damp heat, hail and PID and publishes what came out the other side. Efficiency numbers below are manufacturer-stated unless I say otherwise.\n\nThe third filter is solvency. Maxeon builds the most efficient residential module sold anywhere, 24.1% in the Maxeon 7, and writes a 40-year warranty on it. Maxeon also entered judicial management in Singapore in April 2026, Nasdaq suspended trading on 1 May 2026 and the shares moved over the counter, and TCL Zhonghuan holds a controlling stake of at least 50.1%. A 40-year warranty is a claim against a balance sheet that has to exist in 2066. I price that risk into the ranking, which is why the best panel here sits seventh.\n\nOne date belongs on every quote signed this autumn. The Section 232 proclamation signed on 6 August 2026 sets a 15% tariff plus minimum import prices of $21/kg for polysilicon, $100/kg for ingots and wafers, $0.22/W for cells and $0.38/W for modules, effective 4 December 2026 at 12:01 a.m. Eastern. Imported modules get more expensive on that date. Qcells, Silfab, Mission Solar and Jinko's Jacksonville line are the four names on this list with US assembly behind them.",
+          "highlights": [
+            {
+              "title": "Qcells takes the top spot because the cell and the module are both made here",
+              "body": "The Q.TRON BLK M-G2+ wins 2026 on the two things that survive a tariff schedule. Qcells started cell production at Cartersville, Georgia in June 2026 and will reach 8.6 GW of US output by the end of the third quarter, running ingot, wafer, cell and module under one roof. That makes it the only residential panel on this list whose entire upstream chain sits inside the country the Section 232 minimum import prices apply to. The panel itself is honest and strong: 22.5% efficiency, 415 to 440 W, and a 25-year product plus 25-year performance warranty guaranteeing 90.58% of nameplate in year 25. Hanwha stands behind it, which matters more in this category than in any other consumer purchase I cover, because the warranty runs a quarter century. At $0.55 to $0.90 per watt at the panel level it is priced in the middle of the field while carrying the lowest supply-chain risk on the board."
+            },
+            {
+              "title": "In most states a lease beats a purchase this year, and that decision comes before the panel",
+              "body": "This is the single largest change in the category and the reason I put the ownership question ahead of the hardware question. Cash and loan buyers lost 25D on 1 January 2026, so their federal credit is zero. Third-party owners, the companies behind leases and power purchase agreements, still claim 48E, which survived for projects beginning construction before 4 July 2026 or placed in service before 1 January 2028, and they can stack the 10% domestic content bonus on top when the modules qualify. That gap flows into the monthly payment a homeowner is quoted. Massachusetts, Rhode Island and New Jersey still deliver purchase paybacks in the 6.4 to 7.7 year range on state incentives alone, and those are the states where owning the array still wins outright. Everywhere else, get both quotes and compare the 25-year totals, because the ranking flips depending on which side of that line your utility rate sits."
+            },
+            {
+              "title": "87% of manufacturers failed at least one Kiwa PVEL test and no datasheet will tell you that",
+              "body": "Twelve editions in, the 2026 Scorecard is the first where no module swept every category, and the failure rate set a record. Delamination and mechanical breakage were the worst offenders, which are exactly the failure modes a homeowner discovers in year eight when the array quietly starts underproducing. UVID entered the test suite this year and immediately started catching modules. Forty-three manufacturers earned Top Performer in at least one of the eight tests, so the achievable outcome in 2026 is a panel that is excellent in most tests and merely acceptable in one. I built the reliability column on that database, and I recommend every reader look up their exact model number on scorecard.pvel.com before signing. The model number matters, because two panels from the same brand can carry different bills of materials and different results."
+            },
+            {
+              "title": "Maxeon 7 is the best hardware on this list and I still rank it seventh",
+              "body": "At 24.1% and 435 to 445 W, the Maxeon 7 is the highest efficiency residential module money can buy, and the interdigitated back contact architecture has twenty years of field data showing very low degradation. The 40-year product and performance warranty is the longest term in the industry. Then look at who signs it. Maxeon filed for judicial management in Singapore in April 2026 after US Customs detained its modules and its former parent SunPower went through Chapter 11 in 2024. Nasdaq suspended trading on 1 May 2026 and the stock moved to the over-the-counter market. TCL Zhonghuan now holds at least 50.1%, and the Malaysian manufacturing subsidiary was put up for sale at $51 million in January 2026. Buy this panel for the physics and treat the 40-year paper as a bonus you may or may not be able to collect. On a small roof where every square foot counts, that trade is still worth making at $3.50 to $4.20 per watt installed."
+            },
+            {
+              "title": "4 December 2026 is a hard deadline written into the tariff proclamation",
+              "body": "The Section 232 proclamation signed on 6 August 2026 puts a 15% ad valorem duty and a floor price on the entire imported solar stack, effective 4 December 2026 at 12:01 a.m. Eastern. The minimums are $21 per kilogram for polysilicon, $100 per kilogram for ingots and wafers, $0.22 per watt for cells and $0.38 per watt for modules. Read that against today's landed prices and the direction is obvious, because Chinese modules currently move around $0.11 per watt at the factory gate and budget tier-one product reaches US distributors in the $0.25 to $0.40 range. LONGi has no US assembly and takes the full hit. Trina builds in Thailand and Vietnam and carries AD/CVD exposure that will be reset when final rates land this autumn. Jinko assembles in Jacksonville, Florida, which is why it holds fifth here on price while its overseas peers slide. If you are signing a contract this quarter, ask the installer in writing whether the module price is locked past 4 December."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "先講最重要的一件事，家用太陽能的算式在 2026 年 1 月 1 日被改掉了，而現在搜尋結果第一頁的榜單有一大半還在用舊算法報價。美國聯邦的 25D 住宅清潔能源抵免，也就是那個 30% 的稅額抵減，對 2025 年 12 月 31 日之後完工啟用的系統終止。2026 年用現金或貸款自購的屋主，聯邦抵免是零。以 EnergySage 2026 上半年的行情每瓦 2.55 到 3.15 美元計算，一套 8 kW 系統實付 20,400 到 25,200 美元，換算成台幣大概是 65 萬到 80 萬，比 2024 年同樣的系統實質多掏 6,000 到 9,000 美元，回本期拉長到 8 到 14 年。另一邊，商用的 48E 抵免活下來了，只要在 2026 年 7 月 4 日之前動工或 2028 年 1 月 1 日之前啟用就能適用，而租賃跟購電合約的第三方持有業者照樣可以請領。講白了，2026 年在美國多數州，最省錢的那條路徑翻到租賃這一側，所以要先決定「要不要擁有這套系統」，才輪到決定買哪一塊板子。這一段我只陳述法條狀態跟生效日期，實際申報請找合格的稅務人員。\n\n第二個我拿來排序的東西是獨立測試資料。Kiwa PVEL 在 2026 年 5 月發布第 12 版模組可靠度計分卡，十二年來第一次，沒有任何一款模組在全部測試項目都拿到 Top Performer。87% 的廠商至少有一項測試掛掉，這是歷年新高，其中剝離跟機械破損兩項的失敗率創紀錄，而紫外線誘發衰減 UVID 今年才剛加進評測項目就開始抓到人。43 家廠商在至少一項測試拿到 Top Performer。說真的，這個資料庫是目前唯一公開的來源，會把型錄上的數字丟進熱循環、濕熱、冰雹跟 PID 測試裡跑一遍，然後把結果攤出來給你看。下面所有效率數字，除非我特別註明，都是廠商標稱值。\n\n第三個篩子是財務體質。Maxeon 做出全世界效率最高的住宅模組，Maxeon 7 的 24.1%，而且給 40 年保固。同一家公司在 2026 年 4 月進入新加坡的司法管理程序，Nasdaq 在 2026 年 5 月 1 日暫停交易，股票轉到 OTC，TCL 中環持股至少 50.1%。40 年保固的意思是，到了 2066 年還要有一張資產負債表接得住這張紙。我把這個風險直接算進分數，所以這份名單上硬體最強的那一塊排在第七。\n\n台灣讀者的算式完全是另一套，這裡直接給數字。2026 年（115 年度）屋頂型太陽光電躉購費率，10 瓩以下最高每度 5.6279 元，簽約當年度費率固定 20 年不變。中央的「家戶屋頂設置太陽光電加速計畫」針對屋頂面積 1,000 平方公尺以下的私有建物，每瓩補助 3,000 元，單案最高 30 萬元。換句話說，台灣走的是躉購加補助的收益模型，回本期要用這兩個數字自己算一次。你想想看，台灣還有鹽害跟颱風兩個變數，選模組時抗 PID 跟機械載重的權重要往上拉，這也是我把元晶量子系列收進名單的理由。",
+          "highlights": [
+            {
+              "title": "Qcells 拿第一，因為電池片跟模組都在美國自己做",
+              "body": "Q.TRON BLK M-G2+ 在 2026 年勝出，靠的是兩件關稅表殺不掉的事。Qcells 的喬治亞州 Cartersville 廠在 2026 年 6 月開始量產電池片，第三季末美國總產能會到 8.6 GW，長晶、切片、電池、模組四段全部在同一個屋簷下。這讓它成為這份名單上唯一整條上游都待在 Section 232 最低進口價管轄範圍內的住宅模組。板子本身的數字也拿得出手，效率 22.5%、415 到 440 W、25 年產品保固加 25 年功率保固，第 25 年保證 90.58% 標稱功率。背後站的是韓華，這件事在太陽能這個品類的重要性遠高於我寫過的任何一個消費品，因為保固期整整跨了四分之一個世紀。模組單價每瓦 0.55 到 0.90 美元落在中段，供應鏈風險卻是全場最低。"
+            },
+            {
+              "title": "今年在美國多數州，租賃打贏自購，而這個決定要排在選板子前面",
+              "body": "這是這個品類今年最大的變動，也是我把「要不要擁有」這題排在硬體前面的理由。現金跟貸款買家在 2026 年 1 月 1 日之後聯邦抵免歸零。租賃跟購電合約背後的第三方持有業者照樣請領 48E，該條款對 2026 年 7 月 4 日前動工或 2028 年 1 月 1 日前啟用的案子仍然有效，模組符合條件時還能疊 10% 的國產成分加成。這個差額最後會反映在屋主拿到的月付金上。麻州、羅德島跟紐澤西靠州級獎勵，自購回本期還維持在 6.4 到 7.7 年，這三州自己買下來仍然完勝。其他地方，兩份報價都拿到手再比 25 年總支出，因為排序會隨著你家電費費率落在哪一側翻過來。"
+            },
+            {
+              "title": "87% 的廠商至少掛一項 Kiwa PVEL 測試，型錄不會告訴你這件事",
+              "body": "做到第十二版，2026 年的計分卡是第一次沒有任何模組橫掃全部項目，失敗率同時創新高。掛得最慘的是剝離跟機械破損，坦白說這兩種正好是屋主在第八年才會發現的失效模式，發電量開始悄悄掉下來，你還以為是天氣不好。UVID 今年剛列入評測項目就開始抓到人。43 家廠商在八項測試中至少一項拿到 Top Performer，所以 2026 年能期待的最好結果，是一塊在大多數項目表現優異、只有一項普通的板子。我的可靠度那一欄是照這個資料庫建的，每一項測試結果逐一對回型號。建議每個讀者簽約前先去 scorecard.pvel.com 查自己的確切型號，型號很重要，同一個品牌的兩塊板子可能用不同的 BOM，測出來的結果也會不一樣。"
+            },
+            {
+              "title": "Maxeon 7 是名單上最強的硬體，我還是把它排第七",
+              "body": "24.1%、435 到 445 W，Maxeon 7 是花錢買得到效率最高的住宅模組，IBC 背接觸架構累積了二十年的實地資料，衰減率壓得非常低。40 年產品加功率保固是業界最長。然後我們來看簽這張保固的是誰。美國海關扣押其模組、前母公司 SunPower 在 2024 年走完第十一章之後，Maxeon 於 2026 年 4 月申請新加坡司法管理。Nasdaq 在 2026 年 5 月 1 日暫停交易，股票轉到 OTC。TCL 中環現在持股至少 50.1%，馬來西亞製造子公司在 2026 年 1 月以 5,100 萬美元掛牌出售。我的建議是，買這塊板子買的是它的物理特性，那 40 年的紙就當額外贈品，能不能兌現是另一回事。屋頂面積很小、每一平方公尺都要榨出瓦數的情況下，每瓦 3.50 到 4.20 美元含施工這個代價仍然值得。"
+            },
+            {
+              "title": "台灣的算式建在躉購費率跟鹽害這兩件事上",
+              "body": "台灣屋頂型太陽能在 2026 年（115 年度）的躉購費率，10 瓩以下最高每度 5.6279 元，簽約當年度的費率鎖 20 年不動，這是收益模型的核心。加上「家戶屋頂設置太陽光電加速計畫」每瓩補助 3,000 元、單案上限 30 萬元，一套 5 瓩的自家屋頂大約可以拿到 1.5 萬元補助。這套邏輯自成一格，回本期要用台灣自己的費率跟補助去算。選型上台灣有兩個美國少見的變數，一個是沿海鹽害，一個是颱風季的瞬間風壓，所以抗 PID、機械載重跟框架抗蝕能力的權重要往上調。元晶的量子系列走 N 型 TOPCon，電池效率破 23%，30 年保固功率維持 87.4%，而且針對台灣做了 R 型斜屋頂跟 M 型鹽灘地兩種規格，本土供貨跟後續保固處理都比進口品好找人。國際品牌裡 Jinko、Trina 跟 LONGi 在台灣的通路最深，要壓成本從這三家找起最實際。"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
