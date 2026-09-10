@@ -11,11 +11,11 @@
   "i18n": {
     "en": {
       "title": "Best Electric Toothbrushes 2026",
-      "description": "Ten electric toothbrushes ranked on plaque removal, smart features, battery, comfort, and price — from the Oral-B iO Series 10 flagship to the $40 Sonicare 4100 that most people should actually buy."
+      "description": "Twelve electric toothbrushes ranked on plaque removal, smart features, battery, comfort, and price, from the Oral-B iO Series 10 flagship to the $40 Sonicare 4100 that most people should actually buy."
     },
     "zh-tw": {
       "title": "最佳電動牙刷 2026",
-      "description": "從 Oral-B iO Series 10 旗艦到大多數人其實該買的千元 Sonicare 4100，十款電動牙刷依清潔力、智慧功能、續航、使用感與性價比綜合排名。"
+      "description": "從 Oral-B iO Series 10 旗艦到大多數人其實該買的千元 Sonicare 4100，十二款電動牙刷依清潔力、智慧功能、續航、使用感與性價比綜合排名。"
     }
   },
   "competitors": [
@@ -192,6 +192,22 @@
         "zh-tw": {
           "description": "2026 年式改版，把 Sonicare 十多年來第一次的傳動系統升級下放到三千出頭的價位。每分鐘 62,000 次刷毛擺動，四種模式搭配三段強度，充飽電撐 21 天，刷柄底部的光環會在餘光範圍內提示力道。老實說，這個價位能拿到旗艦同源的新馬達，是今年中階最有感的一次更新。",
           "priceRange": "約 NT$3,290"
+        }
+      }
+    },
+    {
+      "id": "philips-sonicare-5700",
+      "name": "Sonicare Series 5700",
+      "brand": "Philips",
+      "url": "https://www.usa.philips.com/c-p/HX7131_01/series-5700-rechargeable-toothbrush",
+      "i18n": {
+        "en": {
+          "description": "The cheapest handle carrying Philips's next-generation Sonicare drivetrain, running 62,000 bristle movements per minute across two modes and three intensities, with an optic pressure sensor that warns through haptic feedback in the handle.",
+          "priceRange": "$80"
+        },
+        "zh-tw": {
+          "description": "把 Sonicare 新一代傳動系統下放到最便宜價位的一支，每分鐘 62,000 次刷毛擺動，兩種模式各配三段強度，光學壓力感測器在你刷太用力時會用震動提醒。想要新馬達又不想花到 7300 的價位，就是它了。",
+          "priceRange": "約 NT$2,490"
         }
       }
     }
@@ -9721,8 +9737,20 @@
           }
         },
         {
+          "id": "philips-sonicare-5700",
+          "score": 8.7,
+          "scores": {
+            "cleaning": 8.9,
+            "features": 7.9,
+            "battery": 9.2,
+            "comfort": 8.7,
+            "value": 9.3
+          },
+          "rank": 7
+        },
+        {
           "id": "philips-sonicare-7300",
-          "rank": 7,
+          "rank": 8,
           "score": 8.6,
           "scores": {
             "cleaning": 8.9,
@@ -9734,7 +9762,7 @@
         },
         {
           "id": "oral-b-io-series-5",
-          "rank": 8,
+          "rank": 9,
           "score": 8.3,
           "scores": {
             "cleaning": 9.0,
@@ -9746,7 +9774,7 @@
         },
         {
           "id": "bitvae-r2",
-          "rank": 9,
+          "rank": 10,
           "score": 8.1,
           "scores": {
             "cleaning": 8.2,
@@ -9758,7 +9786,7 @@
         },
         {
           "id": "burst-pro-sonic",
-          "rank": 10,
+          "rank": 11,
           "score": 7.9,
           "scores": {
             "cleaning": 8.4,
@@ -9770,7 +9798,7 @@
         },
         {
           "id": "quip-ultra",
-          "rank": 11,
+          "rank": 12,
           "score": 7.7,
           "scores": {
             "cleaning": 7.8,
