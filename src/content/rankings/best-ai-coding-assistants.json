@@ -23024,6 +23024,228 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-11",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.7,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "New AI Model Releases - September 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        },
+        {
+          "title": "September 2026 AI Model Updates: Every Launch, Price Move, and Architecture Shift",
+          "url": "https://local-ai-zone.github.io/blog/September_2026_AI_Model_Updates.html",
+          "source": "Local AI Zone"
+        },
+        {
+          "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
+          "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+          "source": "The Hacker News"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Ten days after the September model wave, I have run enough real repository work through these tools to say the ranking holds and to explain what is actually deciding it. Claude Code stays first at 9.5 on agentic reliability across long tasks. Hand it a refactor spanning a dozen files with the test suite as the contract, and it works the whole job, reads what it needs, runs the tests, and tells you plainly when something breaks. That last behaviour is worth more than any benchmark line, because an agent that reports success on a red suite hands back the hour you thought you had saved.\n\nOpenAI Codex holds 9.3 on the cloud sandbox story. Sending a long job to run remotely while you keep typing locally pays off the moment your repository grows large enough that a full test run breaks your concentration.\n\nCursor keeps 9.1 as the sharpest pure editing experience. Completion that understands the surrounding project and inline edits that land where you expect still make it the fastest tool for an hour when you already know what you want to write.\n\nThe development I keep watching this month is price. Anthropic cut cache-read pricing by three quarters at the start of September, and that matters here more than in any other category, because coding agents re-read the same files dozens of times inside one session. A heavy working day now costs measurably less than it did in August. Choose one tool, learn how it decides what to read, and go deep. Depth in a single assistant beats a rotating trial of three.",
+          "highlights": [
+            {
+              "title": "Honest failure reporting earns the top spot",
+              "body": "Claude Code runs the suite and tells you what went red. An agent that claims success on a broken build costs you the debugging hour you believed you had saved, and that single behaviour separates the top of this list."
+            },
+            {
+              "title": "The September cache price cut lands hardest here",
+              "body": "Coding agents read the same files repeatedly inside a session, so a 75% reduction in cache-read pricing shows up directly on the invoice for anyone working this way every day."
+            },
+            {
+              "title": "Codex owns the remote handoff",
+              "body": "Firing a long task into a cloud sandbox while you keep working locally becomes valuable the moment a full local test run interrupts your flow. That workflow is exactly why it holds 9.3."
+            },
+            {
+              "title": "Learn one tool deeply",
+              "body": "The gap between the top three is smaller than the gap between someone who understands how their agent handles context and someone still sampling each new release. Commit to one."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "九月那波模型更新過了十天，我拿真的專案在這幾個工具之間跑了夠多輪，可以說排名維持，也可以講清楚現在真正在決勝負的是什麼。\n\nClaude Code 守第一，9.5 分，靠的是長任務的代理可靠度。丟一個橫跨十幾個檔案的重構給它，用測試套件當合約，它會整段做完，自己去讀該讀的，把測試跑起來，出事就老實講。最後這個行為的價值高過任何跑分數字，因為一個測試全紅還宣稱成功的代理，等於把你以為省下來的那小時原封不動還你。\n\nOpenAI Codex 維持 9.3，強在雲端沙箱。當你的專案大到跑一輪完整測試就會打斷思緒，把長任務丟到遠端、本機繼續打字，這個價值馬上就出來。\n\nCursor 的 9.1 還是最鋒利的純編輯體驗。理解周邊專案的補全，加上落點精準的行內編輯，在你已經很清楚要寫什麼的那一小時裡，它就是最快的。\n\n這個月我一直盯著的是價格。Anthropic 在九月初把快取讀取的價錢砍掉四分之三，這件事在這個品類的份量高過其他任何地方，因為程式代理在一次工作階段裡會把同一批檔案重讀幾十遍。每天這樣操的人，現在一整天的帳單比八月明顯低。\n\n挑一個，把它決定要讀什麼的邏輯摸透，然後往深處鑽。單一助理的深度，勝過三個輪流淺嘗。",
+          "highlights": [
+            {
+              "title": "老實回報失敗，才配拿第一",
+              "body": "Claude Code 會把測試跑起來，然後告訴你哪裡紅了。建置壞掉還說成功的代理，會吃掉你以為省下來的除錯時間，光這一點就拉開了榜單頂端。"
+            },
+            {
+              "title": "九月的快取降價，在這個品類最有感",
+              "body": "程式代理在一次階段裡重複讀同一批檔案，快取讀取價砍掉七成五，對每天這樣工作的人來說會直接反映在帳單上。"
+            },
+            {
+              "title": "Codex 拿下遠端交辦這一塊",
+              "body": "把長任務丟進雲端沙箱、本機繼續做事，只要本機跑完整測試會打斷你的節奏，這個價值就成立。9.3 分守住靠的就是這條流程。"
+            },
+            {
+              "title": "一個工具摸到底",
+              "body": "前三名之間的差距，小於「懂自己代理怎麼管脈絡」跟「每個新版都試一下」之間的差距。選定一個就好。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

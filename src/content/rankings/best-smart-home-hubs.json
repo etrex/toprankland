@@ -645,6 +645,222 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-11",
+      "rankings": [
+        {
+          "id": "home-assistant-green",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "offlineSurvival": 9.8,
+            "localAutomation": 9.7,
+            "radios": 6.0,
+            "matterVersion": 9.0,
+            "apiPolicy": 9.9,
+            "setupEffort": 6.5,
+            "value": 8.6,
+            "twAvailability": 5.5
+          }
+        },
+        {
+          "id": "hubitat-c8-pro",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "offlineSurvival": 9.6,
+            "localAutomation": 9.4,
+            "radios": 9.5,
+            "matterVersion": 9.6,
+            "apiPolicy": 9.2,
+            "setupEffort": 6.8,
+            "value": 8.4,
+            "twAvailability": 4.5
+          }
+        },
+        {
+          "id": "homey-pro-2026",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "offlineSurvival": 9.0,
+            "localAutomation": 9.2,
+            "radios": 9.8,
+            "matterVersion": 8.8,
+            "apiPolicy": 7.6,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 4.0
+          }
+        },
+        {
+          "id": "aqara-hub-m3",
+          "rank": 4,
+          "score": 7.9,
+          "scores": {
+            "offlineSurvival": 7.6,
+            "localAutomation": 7.8,
+            "radios": 8.2,
+            "matterVersion": 8.4,
+            "apiPolicy": 6.8,
+            "setupEffort": 8.8,
+            "value": 8.6,
+            "twAvailability": 8.5
+          }
+        },
+        {
+          "id": "switchbot-hub-3",
+          "rank": 5,
+          "score": 7.2,
+          "scores": {
+            "offlineSurvival": 6.6,
+            "localAutomation": 6.8,
+            "radios": 6.4,
+            "matterVersion": 8.0,
+            "apiPolicy": 7.4,
+            "setupEffort": 9.2,
+            "value": 8.8,
+            "twAvailability": 8.8
+          }
+        },
+        {
+          "id": "aeotec-smart-home-hub",
+          "rank": 6,
+          "score": 6.6,
+          "scores": {
+            "offlineSurvival": 6.8,
+            "localAutomation": 7.4,
+            "radios": 9.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 7.8,
+            "value": 6.4,
+            "twAvailability": 4.2
+          }
+        },
+        {
+          "id": "smartthings-station",
+          "rank": 7,
+          "score": 6.2,
+          "scores": {
+            "offlineSurvival": 5.4,
+            "localAutomation": 6.2,
+            "radios": 5.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 9.0,
+            "value": 8.2,
+            "twAvailability": 6.5
+          }
+        },
+        {
+          "id": "apple-tv-4k",
+          "rank": 8,
+          "score": 6.0,
+          "scores": {
+            "offlineSurvival": 8.4,
+            "localAutomation": 7.0,
+            "radios": 4.5,
+            "matterVersion": 7.6,
+            "apiPolicy": 5.2,
+            "setupEffort": 9.4,
+            "value": 4.2,
+            "twAvailability": 9.5
+          }
+        },
+        {
+          "id": "amazon-echo-hub",
+          "rank": 9,
+          "score": 5.6,
+          "scores": {
+            "offlineSurvival": 4.2,
+            "localAutomation": 5.0,
+            "radios": 8.4,
+            "matterVersion": 7.4,
+            "apiPolicy": 4.4,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 3.5
+          }
+        },
+        {
+          "id": "google-home-speaker",
+          "rank": 10,
+          "score": 5.2,
+          "scores": {
+            "offlineSurvival": 3.8,
+            "localAutomation": 4.4,
+            "radios": 5.2,
+            "matterVersion": 7.0,
+            "apiPolicy": 4.2,
+            "setupEffort": 9.2,
+            "value": 6.6,
+            "twAvailability": 3.2
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "IFA 2026 Smart Home: Every Announcement Worth Knowing",
+          "url": "https://smarthomeassistant.co.uk/articles/home-automation/ifa-2026-smart-home",
+          "source": "Smart Home Assistant"
+        },
+        {
+          "title": "Tuya Highlights Matter Cameras, Thread, and Energy Monitoring at IFA 2026",
+          "url": "https://homekitnews.com/2026/09/09/tuya-highlights-matter-cameras-thread-and-energy-monitoring-at-ifa-2026/",
+          "source": "HomeKit News"
+        },
+        {
+          "title": "Shelly IFA 2026: ThreadLink, Wall Display Matter 2.8.0 and the Shelly Camera",
+          "url": "https://localsmarthomeguide.com/articles/shelly-ifa-2026-threadlink-wall-display-matter-and-a-camera/",
+          "source": "Local Smart Home Guide"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "IFA gave this category its most useful week of the year, and it strengthens the case for the ranking as it stands. Home Assistant Green holds first at 9.1 because local control is the only property in smart home that ages well. Everything else here depends on a company continuing to run a server, and I have watched too many hubs turn into paperweights when a business model changed.\n\nBerlin was full of evidence that the standards layer is finally arriving. Shelly demonstrated turning a Thread radio into a full IP network and made its wall display a Matter controller. Tuya showed Matter cameras, bridging and energy monitoring across its manufacturing partners, which is how a standard actually reaches shelves. Heiman showed the first hardware demonstration of zero-power NFC commissioning.\n\nHubitat Elevation C-8 Pro stays at 8.8 as the local-first option for people who want a supported product with a support line. Homey Pro at 8.4 remains the most approachable of the serious hubs, and its protocol coverage genuinely reduces the number of bridges cluttering a shelf.\n\nMy advice for this month is to buy for the protocols you own today and treat Matter maturity as a bonus that arrives later. The demonstrations in Berlin were real, and shipping firmware across a hundred brands takes another year.",
+          "highlights": [
+            {
+              "title": "Local control is the only durable property here",
+              "body": "Home Assistant Green keeps working when a vendor changes its business model or retires a cloud service. Every hub that depends on someone else running a server carries an expiry date you cannot see."
+            },
+            {
+              "title": "Berlin showed the standards layer actually arriving",
+              "body": "Thread radios becoming full IP networks, Matter controllers in wall displays, and zero-power NFC commissioning on real hardware. These are the unglamorous steps that decide whether Matter becomes ordinary."
+            },
+            {
+              "title": "Tuya matters more than its brand recognition suggests",
+              "body": "It supplies the manufacturing partners behind a great many own-brand devices. Matter cameras and bridging across that base is how the standard reaches shelves in volume."
+            },
+            {
+              "title": "Buy for the protocols you own today",
+              "body": "Firmware across a hundred brands takes another year to ship. Choose a hub that speaks Zigbee and Z-Wave to the devices already in your house, and let Matter maturity arrive as a bonus."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "IFA 給了這個品類全年最有料的一週，而它強化了目前排名的說服力。\n\nHome Assistant Green 守第一，9.1 分，因為本機控制是智慧家庭裡唯一會隨時間變好的特性。這裡其他東西都依賴某家公司繼續開著伺服器，而我看過太多集線器在商業模式改變之後變成鎮紙。\n\n柏林現場滿滿都是「標準層終於要到了」的證據。Shelly 示範把 Thread 無線電變成完整的 IP 網路，也讓它的壁掛顯示器成為 Matter 控制器。Tuya 展示了跨製造夥伴的 Matter 攝影機、橋接跟能耗監控，標準就是這樣真的走上貨架的。Heiman 則做出零功耗 NFC 配對的首次硬體展示。\n\nHubitat Elevation C-8 Pro 維持 8.8，是「要本機優先、又想要有客服電話可以打」的選擇。Homey Pro 的 8.4 還是認真型集線器裡最親民的，它的協定覆蓋度確實減少了架子上那堆橋接器。\n\n這個月我的建議是，照你今天手上有的協定買，把 Matter 成熟度當成之後才會到的紅利。柏林的示範都是真的，而讓韌體鋪到一百個品牌上，還要再一年。",
+          "highlights": [
+            {
+              "title": "本機控制是這裡唯一耐久的特性",
+              "body": "Home Assistant Green 在廠商換商業模式或關掉雲端服務之後照常運作。每一台依賴別人開伺服器的集線器，都帶著一個你看不見的到期日。"
+            },
+            {
+              "title": "柏林展示了標準層真的在落地",
+              "body": "Thread 無線電變成完整 IP 網路、壁掛顯示器成為 Matter 控制器、零功耗 NFC 配對跑在真硬體上。這些不起眼的步驟，決定 Matter 會不會變成日常。"
+            },
+            {
+              "title": "Tuya 的份量比它的品牌知名度大得多",
+              "body": "它供應著大量自有品牌裝置背後的製造夥伴。Matter 攝影機跟橋接鋪在這個基底上，標準才會以量走上貨架。"
+            },
+            {
+              "title": "照你今天手上的協定買",
+              "body": "韌體鋪到一百個品牌還要一年。挑一台能跟你家現有裝置講 Zigbee 跟 Z-Wave 的集線器，Matter 成熟度當紅利就好。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

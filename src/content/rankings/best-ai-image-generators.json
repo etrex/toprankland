@@ -15584,6 +15584,216 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-11",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 9.0,
+            "artisticQuality": 8.3,
+            "textRendering": 9.6,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.1,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "nano-banana-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "New AI Model Releases - September 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        },
+        {
+          "title": "Best AI Models in September 2026: Updated Rankings and Comparisons",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        },
+        {
+          "title": "AI Updates Today (September 2026) - Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "This category has stayed quiet through the September model wave, and quiet is useful because it lets me explain what the top of my ranking actually rewards. GPT Image 2 holds first at 9.4 on prompt adherence and text rendering. Ask for a poster carrying six specific words at a specific size and you get six correct words at that size. That sounds mundane until you have burned an afternoon regenerating a layout because the model kept inventing letters.\n\nMidjourney V8.1 stays at 9.3 because it delivers images with real art direction inside them. Give it a loose brief and you get back something a human director would have pitched. For album art, editorial illustration and mood work, that judgment is the entire job.\n\nNano Banana Pro and Flux 2 Pro share 9.2 from opposite directions. The Gemini image model wins on editing an existing image while leaving untouched everything you did not ask it to change, which remains the hardest problem in this space. Flux wins on open weights and self hosting, which settles the matter outright when client work cannot leave your own hardware.\n\nMy weights lean heavily toward prompt accuracy and I stand behind that. Photorealism across the top five now takes careful side-by-side comparison to separate. Getting the image you described on the first or second try is where working hours actually go, and that gap remains measurable between these models today.",
+          "highlights": [
+            {
+              "title": "Text rendering separates the top of this list",
+              "body": "GPT Image 2 puts the words you asked for on the poster at the size you asked for. Anyone who has regenerated a design a dozen times because a model invented letters understands why I rank this above raw photorealism."
+            },
+            {
+              "title": "Midjourney sells art direction and that is a product",
+              "body": "A loose brief returns something a human art director would have proposed. For album covers, editorial illustration and mood boards, that aesthetic judgment is the whole deliverable."
+            },
+            {
+              "title": "Editing without collateral damage is the hard problem",
+              "body": "Nano Banana Pro changes one element of an existing image and leaves the rest intact. That turns generation into a revision workflow, which is worth more to working designers than another fresh render."
+            },
+            {
+              "title": "Flux earns its place on open weights",
+              "body": "Self hosting settles the question when client material has to stay on your infrastructure. Flux 2 Pro is the only model near the top that runs end to end on hardware you control."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "九月那波模型更新期間，這個品類一直很安靜，安靜其實很好用，剛好讓我把榜單頂端到底在獎勵什麼講清楚。\n\nGPT Image 2 守第一，9.4 分，贏在指令遵從度跟文字渲染。你要一張海報，上面六個指定的字、指定的尺寸，它就給你六個正確的字、那個尺寸。聽起來很平淡，直到你為了模型自己發明字母，燒掉一整個下午重生成版面。\n\nMidjourney V8.1 維持 9.3，因為它交出來的圖裡面真的有美術指導。丟一個很鬆的 brief 進去，回來的東西像是真的總監會提的案。做專輯封面、雜誌插畫、情緒板，那個判斷力就是工作本身。\n\nNano Banana Pro 跟 Flux 2 Pro 並列 9.2，強項剛好在兩端。Gemini 這顆贏在改既有圖片時，你沒要求動的部分完整留著，這仍然是這個領域最難的題目。Flux 贏在開放權重跟自架，客戶素材不能離開自家硬體的時候，這一項直接定生死。\n\n我的權重明顯偏向指令準確度，這點我站得住。前五名的擬真度已經要仔細並排才分得出來。第一次或第二次就拿到你描述的那張圖，才是工時真正花掉的地方，而這個落差在今天的模型之間還量得出來。",
+          "highlights": [
+            {
+              "title": "文字渲染拉開了榜單頂端",
+              "body": "GPT Image 2 會把你要的字，用你要的尺寸放上海報。被模型亂造字母搞到重生成十幾次的人，就懂我為什麼把這一項排在純擬真度前面。"
+            },
+            {
+              "title": "Midjourney 賣的是美術指導，這就是產品",
+              "body": "很鬆的 brief 丟進去，回來像是真的美術總監會提的方案。專輯封面、雜誌插畫、情緒板，這種美感判斷就是整份交付物。"
+            },
+            {
+              "title": "改圖不波及其他部分，才是真難題",
+              "body": "Nano Banana Pro 動既有圖片的某一個元素，其餘原封不動。這讓生圖變成能用的改稿流程，對接案設計師的價值高過再重生一張。"
+            },
+            {
+              "title": "Flux 的位置是開放權重換的",
+              "body": "客戶素材必須留在自家基礎設施時，自架直接把問題解決。Flux 2 Pro 是前段班唯一能整條流程跑在你自己掌控硬體上的模型。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -17344,6 +17344,216 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-11",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.4,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "fish-audio-openaudio-s1",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.1,
+            "emotionalRange": 8.8,
+            "languageSupport": 8.0,
+            "latency": 8.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 9.8,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 8,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 8.3,
+            "emotionalRange": 7.7,
+            "languageSupport": 8.6,
+            "latency": 7.8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (September 2026) - Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "New AI Model Releases - September 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        },
+        {
+          "title": "Top Tech News Today, September 10, 2026: Apple, Anthropic, IBM, Meta, OpenAI, SpaceX & More",
+          "url": "https://techstartups.com/2026/09/10/top-tech-news-today-september-10-2026-apple-anthropic-ibm-meta-openai-spacex-more/",
+          "source": "Tech Startups"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs and Inworld TTS-1.5 Max share the top at 9.4, and I am comfortable with the tie because they win on genuinely different things. ElevenLabs has the deepest voice library and the most reliable cloning from a short sample, which is what most people actually need. Inworld holds its own on latency under load, which is the number that matters if the voice is answering a live caller.\n\nCartesia Sonic 3 and OpenAudio S1 both sit at 9.0. Cartesia is the one I reach for in real-time applications because its time to first audio stays low when traffic climbs. OpenAudio earns its score on multilingual output that keeps the same voice identity across languages, which is harder than it sounds and saves an enormous amount of work on localised content.\n\nHume AI Octave 2 at 8.9 stays the most interesting outlier, because it controls emotional delivery with more precision than anything else here. For audio drama and character work, that control is the product.\n\nThe practical advice has not changed. Test with your actual script, including the awkward proper nouns and the numbers, because that is where these models separate. Marketing samples are chosen to flatter. Your script is not.",
+          "highlights": [
+            {
+              "title": "Test with your own script, including the proper nouns",
+              "body": "Demo reels are selected to flatter. Model differences show up on brand names, acronyms and spoken numbers, so paste in the paragraph you actually need read aloud before you commit."
+            },
+            {
+              "title": "Latency under load is a separate contest from quality",
+              "body": "A voice answering a live caller is judged on time to first audio when traffic peaks. Cartesia and Inworld win that contest, and it has little to do with how the samples sound offline."
+            },
+            {
+              "title": "Consistent identity across languages saves real work",
+              "body": "OpenAudio keeping one recognisable voice through a localisation pass removes an entire casting problem. For anyone shipping in five languages, that is worth more than a marginal naturalness gain."
+            },
+            {
+              "title": "Hume is the pick when emotion is the deliverable",
+              "body": "Precise control over emotional delivery makes it the right tool for audio drama and character work, which is a narrower job than general narration and a job it does better than anyone."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ElevenLabs 跟 Inworld TTS-1.5 Max 並列第一，都是 9.4，這個平手我很放心，因為它們贏的東西真的不一樣。\n\nElevenLabs 的聲音庫最深，用很短的樣本做聲音複製也最穩，這正好是多數人真正需要的。Inworld 在高負載下的延遲守得住，如果這個聲音是要接真人來電的，那個數字才是關鍵。\n\nCartesia Sonic 3 跟 OpenAudio S1 都在 9.0。即時應用我會拿 Cartesia，因為流量爬上來的時候，它的首字發聲時間還壓得低。OpenAudio 的分數賺在多語輸出還能維持同一個聲音身分，這件事比聽起來難，而且替在地化內容省下巨量工。\n\nHume AI Octave 2 的 8.9 是最有意思的異數，它對情緒表達的控制精度，榜上沒有對手。做廣播劇跟角色配音，那個控制力就是產品本身。\n\n實務建議沒變。拿你真正的稿子去測，把難唸的專有名詞跟數字都放進去，因為那裡才是這些模型分出高下的地方。行銷樣本是挑過的，你的稿子可沒有。",
+          "highlights": [
+            {
+              "title": "拿自己的稿子測，專有名詞也放進去",
+              "body": "Demo 是挑過的。模型差異會在品牌名、縮寫、唸出來的數字上現形，決定之前先把你真正要唸的那段貼進去。"
+            },
+            {
+              "title": "高負載延遲跟音質是兩場不同的比賽",
+              "body": "要接真人來電的聲音，評分項目是尖峰流量下的首字發聲時間。這場 Cartesia 跟 Inworld 贏，而它跟離線樣本好不好聽關係不大。"
+            },
+            {
+              "title": "跨語言維持同一個身分，省下的是真工時",
+              "body": "OpenAudio 讓一個能辨識的聲音貫穿整趟在地化，等於把選角問題整個拿掉。要出五種語言的人，這比自然度多個零點幾值錢。"
+            },
+            {
+              "title": "情緒就是交付物時，選 Hume",
+              "body": "對情緒表達的精確控制，讓它成為廣播劇跟角色配音的正解。這個任務比一般旁白窄，而它做得比誰都好。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

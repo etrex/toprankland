@@ -16306,6 +16306,202 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-11",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.7,
+          "scores": {
+            "reasoning": 9.8,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.7,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.5,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Updates Today (September 2026) - Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Everything Apple Announced at the September 2026 Event",
+          "url": "https://www.macrumors.com/2026/09/09/apple-september-2026-event-recap/",
+          "source": "MacRumors"
+        },
+        {
+          "title": "Best AI Models in September 2026: Updated Rankings and Comparisons",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Two days after Apple put an on-device assistant at the centre of its September keynote, I went back through this ranking to see whether anything should move. Nothing does, and the reason is worth stating plainly. ChatGPT holds first at 9.7 because it covers more shapes of a working day than anything else shipping: memory that carries between sessions, voice that survives a walk around the block, a canvas for long document edits, and connectors into the drives where people already store their files.\n\nClaude stays second at 9.5 and keeps the work I care most about, which is long documents and reasoning that has to hold up when someone checks it. Gemini holds 9.4 and owns Google Workspace outright. If your team lives in Docs and Sheets, that single fact outweighs any leaderboard position.\n\nApple's announcement changes the question underneath the category. An assistant answering on the phone itself takes the quick lookups and short dictations that used to mean opening an app. I expect every chatbot here to feel that in usage volume while the ranking order stays exactly where it is, because these assistants earn their keep on work that runs longer than a sentence.\n\nMy advice today is the same shape as last week and sharper in detail. Pick the assistant whose ecosystem already holds your documents, then judge it on tasks that take more than thirty seconds. Short prompts are heading toward whatever ships on your phone, and that frees a paid subscription to prove itself on work that actually justifies one.",
+          "highlights": [
+            {
+              "title": "The phone is absorbing the thirty-second questions",
+              "body": "Apple's on-device assistant now answers the lookups and dictations that used to send you into an app. Every chatbot on this list will see that in usage volume, and none of it changes which one you hand a forty-page contract."
+            },
+            {
+              "title": "ChatGPT holds first on surface area",
+              "body": "Cross-session memory, hands-free voice, document editing and file connectors add up to an assistant that fits more kinds of work than anything else shipping. That breadth is what keeps it at 9.7."
+            },
+            {
+              "title": "Where your files live decides more than model quality",
+              "body": "Gemini inside Workspace and ChatGPT with drive connectors both remove the export step that quietly costs minutes every day. Capability at the top has converged enough that access wins the argument."
+            },
+            {
+              "title": "Judge candidates on the long tasks",
+              "body": "A subscription earns itself on long documents, careful reasoning and multi-step work. Test exactly those, and let the phone keep the quick stuff."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "蘋果把本機助理放在九月發表會的正中央，兩天後我回頭看這份榜單，想確認有沒有東西該動。結論是沒有，理由值得講清楚。\n\nChatGPT 守第一，9.7 分，因為它覆蓋一般工作日的形狀最多。跨對話延續的記憶、走出門繞一圈還能接著用的語音、改長文件的畫布，加上直接接上多數人本來就在放檔案的雲端硬碟。\n\nClaude 第二，9.5 分，我最在意的那類工作還是交給它，就是長文件跟需要禁得起別人檢查的推理。Gemini 的 9.4 把整個 Google Workspace 吃下來，如果你的團隊整天泡在 Docs 跟試算表裡，光這一件事的份量就壓過任何排行榜名次。\n\n老實說，蘋果這次動的是這個品類底下的那個問題。助理直接在手機上回答完，它接走的是以前得開 App 才做得完的快速查詢跟短句聽寫。\n\n我預期榜上每一個聊天機器人都會在使用量上感受到，同時排序會維持原樣，因為這些助理真正賺到錢的工作，都比一句話長得多。\n\n所以今天的建議跟上週同一個形狀，細節更清楚。選那個生態系裡已經放著你文件的助理，然後拿超過三十秒的任務去評斷它。短提示接下來會流向手機上內建的那一個，這樣挺好，等於把付費助理釋放出來，去賺那些真的值得訂閱費的活。",
+          "highlights": [
+            {
+              "title": "三十秒以內的問題，手機收回去了",
+              "body": "蘋果的本機助理現在直接處理以前要開 App 的查詢跟聽寫。榜上每個聊天機器人都會在使用量上感受到，而四十頁的合約要交給誰，一點都沒改變。"
+            },
+            {
+              "title": "ChatGPT 守第一靠的是覆蓋面",
+              "body": "跨對話記憶、免手操作的語音、文件編輯、雲端硬碟連接器，加總起來就是一個能塞進最多種工作型態的助理。9.7 分守得住，靠的就是這個廣度。"
+            },
+            {
+              "title": "檔案放在哪，比模型好壞更能決定結果",
+              "body": "Gemini 長在 Workspace 裡、ChatGPT 接上雲端硬碟，都省掉那個每天默默吃掉你幾分鐘的匯出步驟。頂端能力已經收斂到，存取權才是勝負手。"
+            },
+            {
+              "title": "拿長任務去評估候選人",
+              "body": "訂閱費是在長文件、細緻推理、多步驟工作上賺回來的。就拿這些去測，快問快答留給手機。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -16755,6 +16755,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-11",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.1,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "New AI Model Releases - September 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        },
+        {
+          "title": "September 2026 AI Model Updates: Every Launch, Price Move, and Architecture Shift",
+          "url": "https://local-ai-zone.github.io/blog/September_2026_AI_Model_Updates.html",
+          "source": "Local AI Zone"
+        },
+        {
+          "title": "Best AI Models in September 2026: Updated Rankings and Comparisons",
+          "url": "https://felloai.com/best-ai-models/",
+          "source": "Fello AI"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Kling 3.0 holds first at 9.5 and I keep coming back to the same reason: motion that obeys physics. Hair settles, cloth has weight, a hand that grips something keeps gripping it across the shot. Those are the details that decide whether a clip survives being placed on a timeline next to real footage.\n\nVeo 3.1 sits at 9.4 and owns native audio. Generating a shot with synchronised sound in one pass removes an entire post-production step, and for social work delivered on a deadline that saving is real money.\n\nRunway Gen-4.5 and Seedance 2.0 share 9.2 from different angles. Runway remains the most complete editing environment around the model, which matters once you are producing a sequence instead of a single clip. Seedance gives the most direct control over camera movement, which is what you want when a shot has to match a storyboard.\n\nThe honest caveat for everyone reading this ranking: character consistency across shots is still the unsolved problem. Every model here will drift a face or a jacket between takes. Plan around it by keeping shots short and cutting often, and the current generation carries real commercial work. Plan a three-minute continuous narrative and you will spend the savings on fixes.",
+          "highlights": [
+            {
+              "title": "Physics in motion decides which clips survive an edit",
+              "body": "Kling 3.0 keeps weight and contact consistent through a shot. Cloth that falls correctly and a hand that holds its grip are what let a generated clip sit next to filmed footage without announcing itself."
+            },
+            {
+              "title": "Native audio removes a whole post step",
+              "body": "Veo 3.1 generating synchronised sound in the same pass saves an entire round trip through an editor. On social deadlines that is the difference between shipping today and shipping tomorrow."
+            },
+            {
+              "title": "Character consistency remains unsolved",
+              "body": "Faces and wardrobe drift between takes on every model here. Keep shots short, cut often, and the current generation handles commercial work comfortably."
+            },
+            {
+              "title": "Runway wins once you need a sequence",
+              "body": "The editing environment around the model matters more than raw clip quality the moment you assemble more than one shot. That is why it holds 9.2 despite fierce competition."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Kling 3.0 守第一，9.5 分，我一直回到同一個理由，就是它的運動遵守物理。頭髮會落定，布料有重量，一隻手抓住東西之後整顆鏡頭都還抓著。\n\n這些細節決定一段片子放進時間軸、旁邊擺真實素材時活不活得下來。\n\nVeo 3.1 的 9.4，原生音訊是它的地盤。一次生成就帶同步聲音，整個後製環節直接消失，對趕檔期的社群案子來說，這個省下來的是真金白銀。\n\nRunway Gen-4.5 跟 Seedance 2.0 並列 9.2，強項在不同角度。Runway 還是模型周邊最完整的剪輯環境，當你要做的是一整段序列，而單一片段的規則不一樣，這件事就變關鍵。Seedance 給的鏡頭運動控制最直接，鏡頭要對上分鏡的時候你會想要它。\n\n這裡要誠實講一個限制，跨鏡頭的角色一致性還是沒解決的題目。榜上每個模型都會在不同次生成之間讓一張臉或一件外套漂掉。\n\n把鏡頭切短、剪點多一點來繞開它，這一代就扛得住真正的商業案。你要是規劃三分鐘連續敘事，省下來的錢會全部花在修補上。",
+          "highlights": [
+            {
+              "title": "運動的物理感，決定片段在剪輯台上活不活得下來",
+              "body": "Kling 3.0 在一顆鏡頭裡把重量跟接觸維持住。布料落得對、手的握持不鬆開，才讓生成片段擺在實拍旁邊不會自己跳出來。"
+            },
+            {
+              "title": "原生音訊直接砍掉一個後製環節",
+              "body": "Veo 3.1 同一次就生出同步聲音，省掉整趟進剪輯軟體的來回。社群案趕檔期的時候，這就是今天出片跟明天出片的差別。"
+            },
+            {
+              "title": "角色一致性仍然是未解題",
+              "body": "榜上每個模型在不同次生成之間，臉跟服裝都會漂。鏡頭切短、剪點多，這一代應付商業案綽綽有餘。"
+            },
+            {
+              "title": "要做整段序列時 Runway 就贏了",
+              "body": "一旦你要組超過一顆鏡頭，模型周邊的剪輯環境比單片畫質更重要。競爭這麼兇它還能守住 9.2，理由在這裡。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
