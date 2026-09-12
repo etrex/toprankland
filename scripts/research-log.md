@@ -5738,3 +5738,17 @@ best-password-managers, best-standing-desks, best-wireless-chargers, best-ai-pro
 - 品牌歸屬的錯誤來源記錄一筆，供後續建置時避開。gminsights 的家用備用發電機組報告把 Briggs & Stratton 敘述為 now Rehlko，這個說法不成立。Rehlko 為 Kohler Energy 於 2024 年 9 月的更名，該公司於 2024 年 5 月由 Platinum Equity 完成交易成為獨立實體、Kohler Company 保留投資人身分，家用發電機至今仍以 KOHLER 品牌銷售；Briggs & Stratton 則於 2020 年 9 月由 KPS Capital Partners 依美國破產法第 363 條完成資產收購。任何引用市場研究機構報告的品牌歸屬敘述，一律以公司官方網站與交易新聞稿覆核。
 
 ---
+
+## 2026-09-12 — best-home-standby-generators 上線
+
+- 依 2026-09-12 研究報告的第一優先題建置並上線 `best-home-standby-generators`，分類沿用既有的 Home Energy，11 個競品，雙語完整，EN commentary 約 3,100 字元、ZH commentary 約 1,300 字，兩邊各 5 個 highlights。本檔與既有的 best-portable-power-stations、best-solar-panels 構成備援電力題組。
+- 核心論點採研究報告訂下的三層。第一層是完工總支出與機組標價的落差，機組之外的七項為自動轉換開關 400 至 2,500 美元、混凝土或複合底座、燃氣管線 500 至 1,500 美元、電盤升級、許可與圖審 200 至 600 美元、持照電工人工 3,000 至 6,000 美元，2026 年的完工區間為 22kW 天然氣 9,000 至 13,500 美元、26kW 全戶 11,000 至 16,000 美元、14kW 基本型 6,000 至 9,000 美元，地區落差以波特蘭都會區約 8,500 美元對比東北部逾 22,000 美元呈現。第二層是燃料別出力折減，KOHLER 26RCAL 為 LP 26kW／NG 24kW、Generac 24kW（7210）為 24/21、Generac 18kW（7228）為 18/17、KOHLER 20RCAL 為 20/18，全篇要求讀者以天然氣欄位選型。第三層是瓦斯錶與供氣量，24kW Guardian 半載耗氣約每小時 289 立方英尺、22kW 機種在 5 至 7 英寸水柱下約 220 立方英尺，換錶 500 至 1,500 美元加協調費 150 至 500 美元並延長工期二至四週。
+- scoreFactors 九欄為 installedTotal、ngOutput、gasSupply、outageRuntime、warranty、noise、permitting、serviceNetwork、twAvailability。ngOutput 與 gasSupply 為本題獨佔設計，燃氣機種在 gasSupply 一律低於電池方案，因此三套電池在該欄拿滿分而仍因 outageRuntime 落在第 9 至第 11 名，這組排序刻意示範單一欄位不決定名次。
+- 名次與理由：Generac Guardian 26kW（7291）第一，依據為 Generac 在美國家用備用市場市佔逾 68% 帶來的維修可及性與 22.5kW 天然氣出力；KOHLER 26RCAL 第二，理由是 24kW 為本榜氣冷機種最高的天然氣出力；Champion aXis 14kW（100837）第三，理由是 3,800 至 4,200 美元含 200 安培全戶開關、10 年保固（同業為 5 年）、62 dBA 為全場最低，並以 aXis 電力線通訊縮短電工工時。Briggs & Stratton PowerProtect 20kW 的 6 年含零件、工資、車馬費保固為本榜最完整條款，但轉換開關需另購故排第 8。
+- 品牌歸屬依研究報告的指示完成事實核對並寫入 commentary：Kohler Energy 於 2024 年 9 月更名 Rehlko、Platinum Equity 取得多數股權而 Kohler Company 保留投資人身分、家用機仍掛 KOHLER 品牌；Briggs & Stratton 自 2020 年 9 月由 KPS Capital Partners 依破產法第 363 條取得，兩家無從屬關係，gminsights 的 now Rehlko 敘述不採用。
+- 需求面引用 EIA Electric Power Annual 的 2024 年用戶平均停電 11 小時與颶風佔 80%，以及 NERC 2026 年 1 月 LTRA 的 23 區中 13 區風險升高或高風險、夏季尖峰上調 224 GW，並同時列出 Grid Strategies 認為 NERC 高估的反對意見。電池段註明美國聯邦 Section 25D 住宅抵免已於 2025 年 12 月 31 日到期，2026 年報價無聯邦補助可扣。
+- zh-tw 版另加一段台灣專屬內容：本榜燃氣機種台灣無家用代理且管線、電盤與法規條件不對應，故 priceRange 一律標「約」並以匯率 31.5 換算；台灣的對應方案為家用儲能與大容量行動電源，20 kWh 為台灣家用儲能的隱形分水嶺，全國無住宅儲能通案補助而地方補助多綁定同時裝設太陽能，因此第 9 至第 11 名的三套電池方案對台灣讀者的參考價值高於前八名。
+- URL 驗證結果：cummins.com 全網域回 403（含刻意測試的不存在路徑），故以搜尋索引確認 `/en-na/generators/products/rs20a` 為實際存在的型號頁後採用；championpowerequipment.com 與 tesla.com 同為全站 403，Champion 的初擬路徑 `/product/100837-14kw-axis-home-standby-generator/` 經搜尋修正為 `/product/100837-14-kw-whole-house-home-standby-generator-and-200a-switch-with-axis-technology/`；lowes.com 回 403 故改用品牌官網；energy.briggsandstratton.com 的 `/powerprotect-20kw` 子路徑為 404，改用 PowerProtect 系列頁。generac.com 四頁、rehlko 兩頁、eia.gov、nerc.com PDF、utilitydive、udpwr、iblighting、energysage 兩頁與 us.ecoflow.com 均為 200。
+- 後續維護建議：機組定價每季回查品牌美國官網並更新擷取日期；本檔建立的完工總支出七項拆解與燃料別出力折減欄位，可直接複用於研究報告提出的 best-portable-generators 與 best-transfer-switches；研究報告第二題 best-humidifiers 建議於九月下旬至十月初上線以吃到整個暖氣季。
+
+---
