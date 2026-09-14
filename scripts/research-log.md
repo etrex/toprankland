@@ -5812,3 +5812,17 @@ best-password-managers, best-standing-desks, best-wireless-chargers, best-ai-pro
 - [EveryRecall: Latest Product Recalls September 2026](https://everyrecall.org/latest-recalls/)
 
 ---
+
+## 2026-09-14 — best-electric-blankets 上線
+
+- 依 2026-09-14 研究報告的第一優先題建置並上線 `best-electric-blankets`，分類沿用既有的 Home & Bedding，9 個競品，雙語完整，EN commentary 約 470 字、ZH commentary 約 1,100 字，兩邊各 5 個 highlights。本檔可與 best-space-heaters 以每晚電費雙向內鏈。
+- 核心論點採研究報告訂下的兩層。第一層是賣家召回紀錄，OCTROT（CPSC，2026 年 7 月底，約 17.8 萬件，555 起通報、27 起火災、15 人受傷，Amazon 2021 年 8 月至 2025 年 12 月，40 至 60 美元）與 Melinora 警告（2026 年 7 月 16 日，約 700 件，5 起通報、1 人燙傷，Amazon 2025 年 2 月至 10 月，Leevana Inc. 未回應）。候選品牌逐一回查 cpsc.gov 原始公告：Sunbeam 2023 年 3 月 16 日召回 4.3 萬條雙人毯（型號 32810027，Star Elite 經銷，13 起過熱通報）、Bedsure 2023 年 3 月 9 日召回約 35 萬件電熱毯與電熱墊（Bedshe International，137 起通報，2022 年 8 至 11 月售出）；Beautyrest、Serta、Pure Enrichment、Degrees of Comfort 未出現在 2016 至 2026 年電熱毯召回清單。thehomepicker 的 12 起彙整只作為索引，數字一律改引 CPSC 原文。第二層是每晚電費，Pure Enrichment 官方公布雙人 200W，8 小時 1.6 度，以 EIA STEO 2026 年住宅均價 18.02 美分計約 0.29 美元，1,500W 電暖器約 2.16 美元。
+- 品牌歸屬新發現：Beautyrest 與 Serta 的電熱寢具皆由授權廠 JLA Home（E&E Co. Ltd DBA JLA Home Bedding，Olliix 為其批發平台）生產並處理保固，已寫入 commentary 與 highlight。這一欄與 best-car-batteries、best-humidifiers 提案的品牌與製造商脫鉤方法一致。
+- 名次：Beautyrest Plush（20 段、85 至 105°F、1 至 10 小時、UL、OEKO-TEX、5 年）第一；Pure Enrichment PureRelief Deluxe（官網全尺寸 99.99 美元、10 段、10 小時、UL Listed、5 年）第二；Serta Plush（10 段、1 至 12 小時、ETL）第三；Beurer TP 88 XXL（台灣官方購物網 NT$4,780、BSMI T36153、60W×2、6 小時、3 年）第四；Sunbeam Royal Ultra Fleece（約 60 美元、12 段、12 小時）因召回紀錄第五；Degrees of Comfort（59.99 美元、20 段、UL、5 年）第六；Northern NR-361G（NT$2,980、T33246、120W、1 至 8 小時、1 年）第七；Sunlus SP2701（NT$1,680 特價、8 小時、1 年加 2,000 萬產品責任險）第八；Bedsure GentleSoft 蓋毯（68.99 美元、3 小時自動斷電、ETL）第九。
+- 認證欄的處理依研究報告紀律：UL／ETL 為品牌自述，評分 8.8 至 9.0；BSMI 字號直接印在商品頁可供讀者回查者給 9.5；Sunbeam 未取得認證資訊、三樂事商品頁未列字號者給 7.0 至 7.5，文中寫成「商品頁沒看到字號」，未推論為未認證。UL Product iQ 名錄本輪未能以程式查詢，下次維護可補。
+- zh-tw 版另加台灣段落：消保處與標檢局 2021 年市購 10 件、2022 年 3 月 7 日公布 3 件不合格（標示 1、品質且逃避檢驗 1、品質 1）；台灣主流為床墊型而美國主流為蓋毯型；代購美國品牌無台灣商品檢驗標識；台電非夏月每度 1.78 元試算一晚約 NT$1.7。美國品牌 priceRange 以匯率 31.5 換算並標「約」。
+- 競品剔除：SoftHeat（Perfect Fit）低電壓機型原列候選，但 softheat.com 為停放網域、無官方商品頁且查無可靠定價，本輪不收錄。GENIANI、Westinghouse、Biddeford 未收錄，後續維護可評估。
+- URL 驗證結果：olliix.com 兩頁 200（假路徑 404，非全站放行）；pureenrichment.com、bedsurehome.com、degreesofcomfort.us、sunlusmall.com 皆 200 且假路徑 404；beurershop.com.tw 與 northern.com.tw 200（假路徑導回首頁 200，已以 WebFetch 取得商品頁內容確認）。sunbeamhome.com 商品頁與分類頁對 curl 與 WebFetch 皆回 404（首頁 200、假路徑同為 404），故 Sunbeam 改用 Amazon B0C5Y3TP4P（200，title 核對為 Royal Ultra Fleece Queen）。cpsc.gov、forbes.com、consumeraffairs.com 全站 403（含假路徑），均以搜尋索引確認頁面存在。cnn.com Underscored 對 WebFetch 回 451，未引用。walmart.com 回 456。
+- 後續維護建議：十一月上旬回查 Amazon 與 Walmart 的雙人款價格（Prime Big Deal Days 後）；每次維護回查 CPSC 電熱寢具召回；best-infrared-sauna-blankets 依 9 月 14 日報告對十款候選逐一回查 CPSC。
+
+---
