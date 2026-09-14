@@ -16502,6 +16502,207 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-14",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.7,
+          "scores": {
+            "reasoning": 9.8,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.7,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.5,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "OpenAI unveils GPT-6 Astra amid rising scrutiny and safety concerns",
+          "url": "https://www.aljazeera.com/economy/2026/9/4/openai-unveils-gpt-6-astra-amid-rising-scrutiny-and-safety",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "OpenAI Release Notes - September 2026 Latest Updates",
+          "url": "https://releasebot.io/updates/openai",
+          "source": "Releasebot"
+        },
+        {
+          "title": "AI Updates Today (September 2026) - Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "ChatGPT, Claude, Grok Down 90 Min as Azure Fails",
+          "url": "https://shattered.io/chatgpt-claude-grok-outage-azure-2026/",
+          "source": "Shattered"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ChatGPT stays first at 9.7, and the past ten days handed me more reasons to keep it there. OpenAI released GPT-6 Astra in early September, then on September 10 shipped GPT-Live-1 to the API alongside a ChatGPT Voice upgrade that calls on GPT-5.6 or GPT-6 Astra whenever a spoken question needs search or reasoning. Voice, memory, file libraries, and agents in one $20 subscription is exactly the breadth my realtime and ecosystem columns reward.\n\nClaude holds second at 9.5. Anthropic shipped Claude Fable 5.1 and Claude Mythos 5.1 on September 1, and for long documents and careful writing it remains the assistant I open first. Hand it a dense contract and ask which clauses shift liability, and it quotes the right paragraphs and flags the ambiguous wording clearly.\n\nGemini keeps third at 9.4. Gemini 3.8 Flash became generally available on September 2, and the value story keeps improving: fast answers, tight hooks into Gmail and Drive, and a free tier generous enough for most students.\n\nOne event matters for anyone relying on a single tool. On September 3 an Azure East US failure took ChatGPT, Claude, and Grok offline for about 90 minutes while Gemini stayed up. I did not move scores over one outage. I did change my own routine: keep a second assistant signed in on your phone, and Gemini's free tier is the obvious pick for that backup role.\n\nGrok stays fourth at 9.0 on real-time information pulled from X. Perplexity holds fifth at 8.6 as the research tool that cites every claim it makes. DeepSeek at 8.2 remains the strongest free option for reasoning on a zero budget.\n\nNothing moves this week. The releases were large, and each one reinforced the product that already led its lane.",
+          "highlights": [
+            {
+              "title": "GPT-6 Astra and GPT-Live-1 widen ChatGPT's reach",
+              "body": "OpenAI followed GPT-6 Astra with GPT-Live-1 on September 10, and ChatGPT Voice can now hand hard spoken questions to a reasoning model. That keeps ChatGPT the most complete assistant at 9.7."
+            },
+            {
+              "title": "Claude Fable 5.1 keeps Claude the writing pick",
+              "body": "Anthropic released Fable 5.1 and Mythos 5.1 on September 1. For long documents, contracts, and careful drafting, Claude at 9.5 is still the assistant I trust with the text that matters."
+            },
+            {
+              "title": "Gemini 3.8 Flash strengthens the free tier",
+              "body": "General availability on September 2 gives Gemini fast, capable answers at no cost, with Workspace integration that students and small offices already use every day."
+            },
+            {
+              "title": "Keep a backup assistant signed in",
+              "body": "The September 3 Azure failure took three major chatbots down for roughly 90 minutes while Gemini kept working. A second free account costs nothing and saves a deadline."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "老實說，這十天 OpenAI 的動作多到我追得有點喘。GPT-6 Astra 在九月初登場，9 月 10 日又把 GPT-Live-1 開放到 API，ChatGPT Voice 也跟著升級，遇到要查資料或推理的語音問題，會自動叫 GPT-5.6 或 GPT-6 Astra 出來處理。語音、記憶、檔案庫、代理人全部塞在一個月六百多塊的 Plus 裡，ChatGPT 以 9.7 分坐穩第一，我完全沒有猶豫。\n\nClaude 維持 9.5 分第二名。Anthropic 在 9 月 1 日推出 Claude Fable 5.1 和 Claude Mythos 5.1，長文件跟寫作這兩件事，我還是第一個打開它。把一份租屋合約丟進去，問它哪些條款把責任推給房客，它會把段落直接引出來，模糊的措辭也會清楚標出來。\n\nGemini 以 9.4 分守住第三。Gemini 3.8 Flash 在 9 月 2 日正式開放，回應快、跟 Gmail 和雲端硬碟綁得緊，免費版對學生來說已經很夠用。\n\n說真的，這週最值得提醒大家的是 9 月 3 日那場當機。Azure 美東區域出問題，ChatGPT、Claude、Grok 一起掛了大約 90 分鐘，Gemini 照常運作。我沒有因為一次當機就扣分，倒是自己多了一個習慣：手機裡隨時登入第二個 AI 助理。Gemini 免費版拿來當備援剛剛好，半夜趕報告遇到當機，至少還有地方可以問。\n\nGrok 以 9.0 分排第四，強項是從 X 抓來的即時資訊。Perplexity 8.6 分第五，每句話都附來源，查資料很安心。DeepSeek 8.2 分，想零預算用推理模型的人，裝它就對了。\n\n這週排名全部不動。發表的東西很多，每一項剛好都補強了原本就在該領域最強的那個產品。",
+          "highlights": [
+            {
+              "title": "GPT-6 Astra 加上 GPT-Live-1，ChatGPT 更全面",
+              "body": "OpenAI 在 GPT-6 Astra 之後，9 月 10 日再推出 GPT-Live-1，ChatGPT Voice 遇到難題會交給推理模型處理。一個月六百多塊買到最完整的助理，9.7 分實至名歸。"
+            },
+            {
+              "title": "Claude Fable 5.1 讓 Claude 穩坐寫作首選",
+              "body": "Anthropic 在 9 月 1 日推出 Fable 5.1 與 Mythos 5.1。合約、報告、長篇文件，交給 9.5 分的 Claude 我最放心。"
+            },
+            {
+              "title": "Gemini 3.8 Flash 讓免費版更強",
+              "body": "9 月 2 日正式開放後，Gemini 免費就能拿到又快又準的回答，加上 Gmail、雲端硬碟整合，學生跟小公司天天都用得到。"
+            },
+            {
+              "title": "手機裡多登入一個備援助理",
+              "body": "9 月 3 日 Azure 故障讓三大聊天機器人停擺約 90 分鐘，Gemini 照常運作。多開一個免費帳號零成本，關鍵時刻能救你的截止日。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

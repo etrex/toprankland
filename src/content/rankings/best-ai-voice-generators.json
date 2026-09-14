@@ -17554,6 +17554,216 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-14",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.4,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "fish-audio-openaudio-s1",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.1,
+            "emotionalRange": 8.8,
+            "languageSupport": 8.0,
+            "latency": 8.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 9.8,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 8,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 8.3,
+            "emotionalRange": 7.7,
+            "languageSupport": 8.6,
+            "latency": 7.8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "OpenAI Release Notes - September 2026 Latest Updates",
+          "url": "https://releasebot.io/updates/openai",
+          "source": "Releasebot"
+        },
+        {
+          "title": "Eleven Labs Release Notes - September 2026 Latest Updates",
+          "url": "https://releasebot.io/updates/eleven-labs",
+          "source": "Releasebot"
+        },
+        {
+          "title": "Inworld Realtime TTS-2 vs Cartesia Sonic 3.6: Which Wins",
+          "url": "https://www.orcarouter.ai/blog/inworld-realtime-tts-2-vs-cartesia-sonic-3-6",
+          "source": "Orca Router"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs and Inworld TTS-1.5 Max stay tied at the top on 9.4, and the past week pushed this whole category toward live, two-way conversation. On September 10 OpenAI introduced GPT-Live-1 in its API, a full-duplex voice model that listens and speaks at the same time, with 12 new real-time voices, native transcripts, turn detection, and telephony support. That is a serious entry for anyone building phone agents, and I will test it against the leaders here before it affects any score. GPT-4o mini TTS keeps 8.5 today as OpenAI's low-cost narration option at about 1.5 cents per minute.\n\nElevenLabs holds its share of first place on the deepest voice library and the most reliable cloning from a short sample. It keeps filling out the rest of the voice stack too. Releasebot logged Scribe v2 Medical, a generally available speech recognition model, on September 11, and keypad input for voice agents on August 31. For a team building a complete phone agent, one vendor covering recognition, synthesis, and call handling saves real integration time.\n\nInworld holds 9.4 on latency under load, the number that decides whether a voice agent feels natural to a live caller. Orca Router's September 4 comparison puts Inworld's Realtime TTS-2 research preview against Cartesia Sonic 3.6, which Cartesia shipped as a point release in August at unchanged pricing.\n\nCartesia Sonic 3 and OpenAudio S1 both stay at 9.0. Cartesia is my pick when time to first audio must stay low as traffic climbs, and OpenAudio earns its score on multilingual quality with a self-hosting option that keeps costs predictable.\n\nHume AI Octave 2 at 8.9 remains the specialist for emotional delivery, and MiniMax Speech 02 HD at 8.8 offers the best balance of expressiveness and price per character.\n\nNo ranking changes this week.",
+          "highlights": [
+            {
+              "title": "GPT-Live-1 raises the bar for phone agents",
+              "body": "OpenAI's September 10 API release listens and speaks simultaneously, adds 12 real-time voices, and supports telephony. I will benchmark it against Inworld and Cartesia before scoring."
+            },
+            {
+              "title": "ElevenLabs builds the full voice stack",
+              "body": "Scribe v2 Medical on September 11 and keypad input for agents on August 31 extend the platform that already leads on voice library and cloning at 9.4."
+            },
+            {
+              "title": "Inworld and Cartesia keep pushing latency",
+              "body": "Inworld Realtime TTS-2 in preview and Cartesia Sonic 3.6 at unchanged pricing keep the real-time tier competitive, which benefits anyone running live callers."
+            },
+            {
+              "title": "Hume and MiniMax fill specialist roles",
+              "body": "Octave 2 at 8.9 for emotional performance and Speech 02 HD at 8.8 for expressive voice at a low price per character."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ElevenLabs 和 Inworld TTS-1.5 Max 以 9.4 分並列第一。過去這一週，整個類別都在往「即時雙向對話」衝。9 月 10 日 OpenAI 在 API 推出 GPT-Live-1，這是可以邊聽邊講的全雙工語音模型，附 12 個新的即時語音、原生逐字稿、輪流發言偵測，還支援電話線路。要做電話客服代理人的團隊一定會注意到它，我會先拿它跟榜上前段班實測，再決定要不要影響分數。GPT-4o mini TTS 今天維持 8.5 分，一分鐘大約五毛錢台幣，是 OpenAI 的平價旁白選項。\n\nElevenLabs 穩坐並列第一，靠的是最深的聲音庫，還有只要短短一段樣本就能穩定複製聲音。它也持續把整套語音工具補齊：Releasebot 記錄到 9 月 11 日推出正式版語音辨識模型 Scribe v2 Medical，8 月 31 日則替語音代理人加上電話按鍵輸入。老實說，做完整電話代理人的團隊，辨識、合成、通話處理全交給同一家，串接可以省下很多工。\n\nInworld 9.4 分靠的是高負載下的延遲表現，這個數字決定語音代理人接真人電話時聽起來自不自然。Orca Router 9 月 4 日的比較文，把 Inworld Realtime TTS-2 研究預覽版拿來跟 Cartesia Sonic 3.6 對打，Sonic 3.6 是 Cartesia 八月悄悄推出的小改版，價格沒動。\n\nCartesia Sonic 3 和 OpenAudio S1 都維持 9.0 分。流量衝高時首個音訊回應還要壓得很低，我選 Cartesia；OpenAudio 靠多語言品質拿分，還能自架，成本好控制。\n\nHume AI Octave 2 8.9 分，情緒表達的專家。MiniMax Speech 02 HD 8.8 分，表現力跟每千字元價格之間平衡得最好，一千字元一塊半台幣左右。\n\n這週排名不變。",
+          "highlights": [
+            {
+              "title": "GPT-Live-1 拉高電話代理人門檻",
+              "body": "OpenAI 9 月 10 日推出的 API 模型能邊聽邊講，新增 12 個即時語音並支援電話線路。我會先跟 Inworld、Cartesia 實測再打分。"
+            },
+            {
+              "title": "ElevenLabs 把語音工具補齊",
+              "body": "9 月 11 日推出 Scribe v2 Medical，8 月 31 日加上代理人按鍵輸入，聲音庫與複製能力本來就領先的平台以 9.4 分更完整。"
+            },
+            {
+              "title": "Inworld 與 Cartesia 持續壓低延遲",
+              "body": "Inworld Realtime TTS-2 預覽中，Cartesia Sonic 3.6 價格不變，即時語音這一層競爭激烈，接真人電話的服務最受惠。"
+            },
+            {
+              "title": "Hume 與 MiniMax 各有專長",
+              "body": "Octave 2 以 8.9 分主打情緒表現，Speech 02 HD 以 8.8 分提供低價又有表現力的聲音。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

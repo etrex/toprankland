@@ -23246,6 +23246,233 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-14",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.7,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "OpenAI Release Notes - September 2026 Latest Updates",
+          "url": "https://releasebot.io/updates/openai",
+          "source": "Releasebot"
+        },
+        {
+          "title": "Cursor, Claude Code, and Codex are merging into one AI coding stack nobody planned",
+          "url": "https://thenewstack.io/ai-coding-tool-stack/",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Claude Code Updates by Anthropic - September 2026",
+          "url": "https://releasebot.io/updates/anthropic/claude-code",
+          "source": "Releasebot"
+        },
+        {
+          "title": "AI Coding Tools Pricing Comparison 2026",
+          "url": "https://www.developersdigest.tech/blog/ai-coding-tools-pricing-2026",
+          "source": "Developers Digest"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code keeps first at 9.5, and this week's news made the top three more interesting without reordering it. The headline event was OpenAI's September 10 launch of the Agents API in public beta. It brings the Codex harness to cloud agents with managed orchestration, long-running sessions, and OpenAI-hosted sandboxes, and Deep Research also landed inside Codex. For teams that want coding agents running in their own pipelines, that is a real expansion of what OpenAI Codex can do.\n\nI held Codex at 9.3 for now. A public beta earns score once teams have pushed it through real repositories for a few weeks, and I will be testing it hard before the next update.\n\nClaude Code stays on top for the work that fills most of my week: long refactors across many files with the test suite as the contract. Anthropic shipped Claude Fable 5.1 and Mythos 5.1 on September 1, and Claude Code keeps landing steady maintenance releases. Version 2.1.270 fixed a regression where read-only git commands asked for permission in long sessions. Small fixes like that matter, because permission prompts are exactly where an agent's momentum stalls.\n\nCursor holds 9.1 as the best editor experience for developers who want an agent inside the IDE, with fast tab completion and a clean diff review surface. The New Stack described Cursor, Claude Code, and Codex settling into a composable stack of orchestration, execution, and review layers. That matches how I work: the heavy task runs in a terminal agent, and the review happens in the editor.\n\nCheck pricing before you commit. GitHub Copilot Pro remains the cheapest paid entry at $10 a month, most agent tools start around $20, and daily heavy agent use pushes a realistic budget toward $60 to $200 a month.\n\nGoogle Antigravity stays fourth at 8.5 and Jules fifth at 8.2. Jules comes bundled with Google AI Pro and Antigravity is free to start, which makes both easy recommendations for anyone already living in Google's tools. No rank changes this week.",
+          "highlights": [
+            {
+              "title": "OpenAI Agents API brings Codex to cloud pipelines",
+              "body": "The September 10 public beta adds managed orchestration, long-running sessions, and hosted sandboxes built on the Codex harness. Codex holds 9.3 while I test it on real repositories."
+            },
+            {
+              "title": "Claude Code stays the refactor workhorse",
+              "body": "At 9.5 it remains my pick for multi-file changes gated by a test suite, and steady fixes like the 2.1.270 git permission patch keep long sessions moving."
+            },
+            {
+              "title": "Cursor is the review layer many teams use",
+              "body": "Fast completion and a clean diff view keep Cursor at 9.1. Pairing a terminal agent for execution with Cursor for review is the workflow I recommend."
+            },
+            {
+              "title": "Budget for real agent usage",
+              "body": "Copilot Pro starts at $10 and most agent tools at $20, and daily heavy use lands closer to $60 to $200 a month. Plan for that number before rolling out to a team."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 以 9.5 分繼續坐第一，這週前三名的消息很熱鬧，名次倒是一格都沒動。最大的新聞是 OpenAI 在 9 月 10 日推出 Agents API 公開測試版，把 Codex 的執行框架搬到雲端代理人上，附帶代管的流程編排、長時間工作階段，還有 OpenAI 自己託管的沙盒環境，Deep Research 也一起塞進 Codex。講白了，想把寫程式的代理人接進自家 CI 流程的團隊，這次 OpenAI Codex 能做的事情明顯變多了。\n\nCodex 我先維持 9.3 分。公開測試版要讓團隊拿真實專案跑個幾週，我才會加分，下次更新前我會好好操它。\n\nClaude Code 穩坐第一，靠的是我每週花最多時間的那種工作：跨十幾個檔案的大重構，用測試當驗收標準。Anthropic 在 9 月 1 日推出 Claude Fable 5.1 和 Mythos 5.1，Claude Code 本身也持續穩定出修正版，2.1.270 修掉了長時間工作階段裡唯讀 git 指令一直跳權限確認的問題。這種小修正很關鍵，因為代理人最容易卡住節奏的地方，就是權限提示。\n\nCursor 維持 9.1 分，想在編輯器裡直接用代理人、要快速補全跟乾淨的差異檢視，選它最舒服。The New Stack 分析 Cursor、Claude Code、Codex 正在變成分工明確的組合：編排、執行、審查各司其職。我自己就是這樣用，重活丟給終端機裡的代理人跑，最後在編輯器裡看 diff。\n\n付錢前先算清楚。GitHub Copilot Pro 一個月三百出頭，還是最便宜的付費入口；多數代理人工具一個月六百多起跳；每天重度使用的話，實際預算大概落在兩千到六千多。\n\nGoogle Antigravity 8.5 分第四，Jules 8.2 分第五。Jules 綁在 Google AI Pro 裡，Antigravity 免費就能開始用，本來就住在 Google 生態系的人很好上手。這週排名不變。",
+          "highlights": [
+            {
+              "title": "OpenAI Agents API 把 Codex 帶上雲端",
+              "body": "9 月 10 日公開測試版加入代管編排、長時間工作階段與託管沙盒，底層就是 Codex 框架。我先讓 Codex 維持 9.3 分，拿真實專案測完再說。"
+            },
+            {
+              "title": "Claude Code 依然是重構主力",
+              "body": "9.5 分的 Claude Code 最適合用測試把關的跨檔案修改，2.1.270 修好 git 權限提示，長時間工作更順。"
+            },
+            {
+              "title": "Cursor 是團隊愛用的審查層",
+              "body": "補全快、差異檢視乾淨，Cursor 穩在 9.1 分。終端機代理人負責執行、Cursor 負責審查，是我最推的搭配。"
+            },
+            {
+              "title": "預算要照實際用量抓",
+              "body": "Copilot Pro 一個月三百出頭，代理人工具六百多起跳，每天重度使用大概兩千到六千多。導入團隊前先把這筆錢算進去。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

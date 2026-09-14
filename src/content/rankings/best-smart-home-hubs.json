@@ -861,6 +861,222 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-14",
+      "rankings": [
+        {
+          "id": "home-assistant-green",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "offlineSurvival": 9.8,
+            "localAutomation": 9.7,
+            "radios": 6.0,
+            "matterVersion": 9.0,
+            "apiPolicy": 9.9,
+            "setupEffort": 6.5,
+            "value": 8.6,
+            "twAvailability": 5.5
+          }
+        },
+        {
+          "id": "hubitat-c8-pro",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "offlineSurvival": 9.6,
+            "localAutomation": 9.4,
+            "radios": 9.5,
+            "matterVersion": 9.6,
+            "apiPolicy": 9.2,
+            "setupEffort": 6.8,
+            "value": 8.4,
+            "twAvailability": 4.5
+          }
+        },
+        {
+          "id": "homey-pro-2026",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "offlineSurvival": 9.0,
+            "localAutomation": 9.2,
+            "radios": 9.8,
+            "matterVersion": 8.8,
+            "apiPolicy": 7.6,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 4.0
+          }
+        },
+        {
+          "id": "aqara-hub-m3",
+          "rank": 4,
+          "score": 7.9,
+          "scores": {
+            "offlineSurvival": 7.6,
+            "localAutomation": 7.8,
+            "radios": 8.2,
+            "matterVersion": 8.4,
+            "apiPolicy": 6.8,
+            "setupEffort": 8.8,
+            "value": 8.6,
+            "twAvailability": 8.5
+          }
+        },
+        {
+          "id": "switchbot-hub-3",
+          "rank": 5,
+          "score": 7.2,
+          "scores": {
+            "offlineSurvival": 6.6,
+            "localAutomation": 6.8,
+            "radios": 6.4,
+            "matterVersion": 8.0,
+            "apiPolicy": 7.4,
+            "setupEffort": 9.2,
+            "value": 8.8,
+            "twAvailability": 8.8
+          }
+        },
+        {
+          "id": "aeotec-smart-home-hub",
+          "rank": 6,
+          "score": 6.6,
+          "scores": {
+            "offlineSurvival": 6.8,
+            "localAutomation": 7.4,
+            "radios": 9.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 7.8,
+            "value": 6.4,
+            "twAvailability": 4.2
+          }
+        },
+        {
+          "id": "smartthings-station",
+          "rank": 7,
+          "score": 6.2,
+          "scores": {
+            "offlineSurvival": 5.4,
+            "localAutomation": 6.2,
+            "radios": 5.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 9.0,
+            "value": 8.2,
+            "twAvailability": 6.5
+          }
+        },
+        {
+          "id": "apple-tv-4k",
+          "rank": 8,
+          "score": 6.0,
+          "scores": {
+            "offlineSurvival": 8.4,
+            "localAutomation": 7.0,
+            "radios": 4.5,
+            "matterVersion": 7.6,
+            "apiPolicy": 5.2,
+            "setupEffort": 9.4,
+            "value": 4.2,
+            "twAvailability": 9.5
+          }
+        },
+        {
+          "id": "amazon-echo-hub",
+          "rank": 9,
+          "score": 5.6,
+          "scores": {
+            "offlineSurvival": 4.2,
+            "localAutomation": 5.0,
+            "radios": 8.4,
+            "matterVersion": 7.4,
+            "apiPolicy": 4.4,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 3.5
+          }
+        },
+        {
+          "id": "google-home-speaker",
+          "rank": 10,
+          "score": 5.2,
+          "scores": {
+            "offlineSurvival": 3.8,
+            "localAutomation": 4.4,
+            "radios": 5.2,
+            "matterVersion": 7.0,
+            "apiPolicy": 4.2,
+            "setupEffort": 9.2,
+            "value": 6.6,
+            "twAvailability": 3.2
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "2026.9: There's room on this bus",
+          "url": "https://www.home-assistant.io/blog/2026/09/02/release-20269/",
+          "source": "Home Assistant"
+        },
+        {
+          "title": "Home Assistant 2026.9: Security Dashboard and Matter Map Roll Out",
+          "url": "https://netguide.io/news/en/2026/09/02/home-assistant-2026-9-security-dashboard-matter-map/",
+          "source": "NetGuide"
+        },
+        {
+          "title": "Tuya Highlights Matter Cameras, Thread, and Energy Monitoring at IFA 2026",
+          "url": "https://homekitnews.com/2026/09/09/tuya-highlights-matter-cameras-thread-and-energy-monitoring-at-ifa-2026/",
+          "source": "HomeKit News"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Home Assistant Green holds first at 9.1 and the ranking is unchanged. The most relevant software news came from Home Assistant itself: the 2026.9 release on September 2 added a visual Matter network map, which shows every Matter device, its Thread or Wi-Fi connection, and the border routers carrying it on a single screen.\n\nThat feature matters more than it sounds. The hardest part of running Matter over Thread in a real home is diagnosing why one sensor keeps dropping, and until now that information lived in a separate server interface most people never opened. A map that shows which border router a door sensor depends on turns an evening of guesswork into a two-minute fix. Home Assistant Green gets it on day one with processing that stays local, which is exactly why it leads.\n\nThe same release upgraded the built-in security dashboard with an Active alerts section that appears only when something needs attention, such as an open door or a triggered smoke detector, with severity levels and pinned favorites. It also lets integrations that speak Modbus build their configuration through the UI, which helps anyone connecting solar inverters or heat pumps.\n\nHubitat Elevation C-8 Pro stays second at 8.8. It runs automations locally with Zigbee and Z-Wave radios built in, and it is the hub I recommend to people who want local control with less tinkering.\n\nHomey Pro (2026) holds third at 8.4 for its polished app and broad radio support, and the Aqara Hub M3 holds fourth at 7.9 as the strongest value for a Thread and Matter home, particularly for Taiwan buyers who can find Aqara gear locally.\n\nMy advice this week: if you already run Home Assistant, update to 2026.9 and open the Matter map before you buy another border router. If you are starting fresh, Home Assistant Green remains the safest long-term purchase in this category.",
+          "highlights": [
+            {
+              "title": "Home Assistant 2026.9 adds a Matter map",
+              "body": "Released September 2, it shows every Matter device, its Thread or Wi-Fi link and its border router on one screen."
+            },
+            {
+              "title": "Security dashboard gets Active alerts",
+              "body": "Alerts appear only when a door is open or a detector triggers, with severity levels and pinned favorites."
+            },
+            {
+              "title": "Home Assistant Green holds first",
+              "body": "9.1, because local processing keeps working whatever happens to a cloud service."
+            },
+            {
+              "title": "Aqara Hub M3 for Taiwan buyers",
+              "body": "Fourth at 7.9, the best-value Thread and Matter hub you can buy locally."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Home Assistant Green 續坐第一 9.1 分，排名不變。這週最相關的軟體新聞就是 Home Assistant 自己放的：9 月 2 日推出的 2026.9 版加入視覺化 Matter 網路地圖，每個 Matter 裝置、走 Thread 還是 Wi-Fi、靠哪一台邊界路由器，一個畫面全部看清楚。\n\n這功能比聽起來重要很多。家裡 Matter 走 Thread，最頭痛的就是某顆感測器三天兩頭斷線，以前這些資訊藏在另一個伺服器介面裡，大部分人根本不會點開。現在地圖直接告訴你門窗感測器掛在哪台邊界路由器上，原本要摸一整晚的問題，兩分鐘就解決。Home Assistant Green 更新當天就能用，運算全在本地，這就是它坐穩第一的原因。\n\n同一版也升級了內建安全儀表板，新增「進行中警示」區塊，只有門沒關、煙霧偵測器響了這種需要處理的狀況才會跳出來，還分嚴重程度，常看的門鎖和感測器可以釘選在最上面。另外支援 Modbus 的整合可以直接在介面上設定，家裡有接太陽能逆變器或熱泵的人會很有感。\n\nHubitat Elevation C-8 Pro 第二，8.8 分。內建 Zigbee 和 Z-Wave，自動化全在本地跑，想要本地控制又不想花太多時間折騰的人，我推它。\n\nHomey Pro (2026) 第三 8.4 分，App 精緻、支援的無線協定多。Aqara Hub M3 第四 7.9 分，Thread 加 Matter 的家庭選它最划算，台灣買 Aqara 周邊也方便，梅雨季放幾顆溫濕度感測器剛好。\n\n說真的，已經在用 Home Assistant 的人，先更新到 2026.9 打開 Matter 地圖，再決定要不要多買一台邊界路由器。從零開始的人，Home Assistant Green 還是這類產品裡最保險的長期選擇。",
+          "highlights": [
+            {
+              "title": "Home Assistant 2026.9 加入 Matter 地圖",
+              "body": "9 月 2 日推出，Matter 裝置、Thread 或 Wi-Fi 連線、邊界路由器一個畫面看清楚。"
+            },
+            {
+              "title": "安全儀表板新增進行中警示",
+              "body": "門沒關、煙霧偵測器響了才跳出來，分嚴重程度，還能釘選常用裝置。"
+            },
+            {
+              "title": "Home Assistant Green 穩坐第一",
+              "body": "9.1 分，運算全在本地，雲端服務怎麼變都照常運作。"
+            },
+            {
+              "title": "台灣買家看 Aqara Hub M3",
+              "body": "第四名 7.9 分，Thread 加 Matter 最划算，在台灣也好買。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
