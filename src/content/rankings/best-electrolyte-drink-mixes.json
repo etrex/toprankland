@@ -86,17 +86,17 @@
     },
     {
       "id": "dripdrop-ors",
-      "name": "DripDrop ORS",
+      "name": "DripDrop Electrolyte Powder",
       "brand": "DripDrop",
-      "url": "https://www.dripdrop.com/products/dripdrop",
+      "url": "https://dripdrop.com/products/electrolyte-powder-lemon-lime-8oz-32-packets",
       "i18n": {
         "en": {
-          "description": "A medical-grade oral rehydration solution designed by a physician, delivering triple the electrolytes and half the sugar of a typical sports drink.",
-          "priceRange": "$25 / 16 sticks"
+          "description": "A patented oral rehydration formula built on sodium-glucose co-transport, now with magnesium, vitamin C and zinc, and the 32-stick box works out to about $1.12 a serving.",
+          "priceRange": "$35.99 / 32 sticks"
         },
         "zh-tw": {
-          "description": "醫師開發的醫療級口服補液配方，電解質是一般運動飲料的三倍、糖只有一半，脫水急救很有感。",
-          "priceRange": "約 NT$800／盒（16 入）"
+          "description": "專利口服補液配方，靠鈉跟葡萄糖協同運輸加快吸收，現在多加了鎂、維生素 C 和鋅，32 包一盒算下來一包大概台幣 35 塊。",
+          "priceRange": "約 NT$1,140／盒（32 入）"
         }
       }
     },
@@ -177,6 +177,22 @@
         "zh-tw": {
           "description": "250 毫克鈉只配 4 克糖，通過 NSF Certified for Sport 檢驗，嫌 Liquid I.V. 太甜的人可以換這款。",
           "priceRange": "約 NT$860／罐（16 份）"
+        }
+      }
+    },
+    {
+      "id": "precision-ph-1500",
+      "name": "PH 1500 Drink Mix",
+      "brand": "Precision Fuel & Hydration",
+      "url": "https://www.precisionhydration.com/products/ph-1500-electrolyte-drink-mix/",
+      "i18n": {
+        "en": {
+          "description": "750mg sodium per 500ml sachet, which is 1,500mg per liter, with 15g carbs and Informed Sport certification, my pick for long runs and heavy sweaters.",
+          "priceRange": "$14.95 / 8 sachets"
+        },
+        "zh-tw": {
+          "description": "一包兌 500 毫升水就有 750 毫克鈉，換算每公升 1,500 毫克，外加 15 克碳水跟 Informed Sport 認證，跑全馬或很會流汗的人我會推這款。",
+          "priceRange": "約 NT$470／盒（8 入）"
         }
       }
     }
@@ -7645,12 +7661,25 @@
             "taste": 8.4,
             "cleanliness": 8.0,
             "testing": 8.0,
-            "value": 8.4
+            "value": 8.8
+          }
+        },
+        {
+          "id": "precision-ph-1500",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "electrolytes": 9.4,
+            "absorption": 8.8,
+            "taste": 8.0,
+            "cleanliness": 8.2,
+            "testing": 9.4,
+            "value": 7.6
           }
         },
         {
           "id": "skratch-labs-sport",
-          "rank": 6,
+          "rank": 7,
           "score": 8.4,
           "scores": {
             "electrolytes": 8.2,
@@ -7663,7 +7692,7 @@
         },
         {
           "id": "ultima-replenisher",
-          "rank": 7,
+          "rank": 8,
           "score": 8.2,
           "scores": {
             "electrolytes": 6.8,
@@ -7676,7 +7705,7 @@
         },
         {
           "id": "relyte-hydration",
-          "rank": 8,
+          "rank": 9,
           "score": 8.1,
           "scores": {
             "electrolytes": 9.2,
@@ -7689,7 +7718,7 @@
         },
         {
           "id": "cure-hydration",
-          "rank": 9,
+          "rank": 10,
           "score": 7.9,
           "scores": {
             "electrolytes": 7.4,
@@ -7702,7 +7731,7 @@
         },
         {
           "id": "gnarly-hydrate",
-          "rank": 10,
+          "rank": 11,
           "score": 7.7,
           "scores": {
             "electrolytes": 7.2,
@@ -7729,6 +7758,11 @@
           "title": "Recalls and Warnings for Vitamins and Dietary Supplements",
           "url": "https://www.consumerlab.com/recalls/",
           "source": "ConsumerLab"
+        },
+        {
+          "title": "PH 1500 Electrolyte Drink Mix",
+          "url": "https://www.precisionhydration.com/products/ph-1500-electrolyte-drink-mix/",
+          "source": "Precision Fuel & Hydration"
         }
       ],
       "i18n": {
