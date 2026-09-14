@@ -5752,3 +5752,63 @@ best-password-managers, best-standing-desks, best-wireless-chargers, best-ai-pro
 - 後續維護建議：機組定價每季回查品牌美國官網並更新擷取日期；本檔建立的完工總支出七項拆解與燃料別出力折減欄位，可直接複用於研究報告提出的 best-portable-generators 與 best-transfer-switches；研究報告第二題 best-humidifiers 建議於九月下旬至十月初上線以吃到整個暖氣季。
 
 ---
+
+## 2026-09-14 研究報告
+
+### 新主題建議
+
+本輪維持每輪兩題。站上現有 131 檔榜單，9 月 12 日報告提出的 best-home-standby-generators 已上線，best-humidifiers 尚未建置且優先序不變。本輪兩題共用一條軸線，就是安全與效能的數字印在包裝上，而印出來的數字採用哪一套檢驗制度，購買頁面不揭露。
+
+1. **Best Electric Blankets 2026（本輪第一優先，這一題在 8 月 7 日報告已經提出而至今未建置，本輪重新排到第一，原因是 7 月中到 7 月底 CPSC 連續公告兩起電熱毯事件，讓這一題有了現存榜單都沒有處理的核心欄位。）**
+   - 建議 slug: `best-electric-blankets`
+   - EN title: Best Electric Blankets of 2026: Sunbeam, Serta, Beautyrest, Bedsure and Low-Voltage Models Ranked by Safety Certification You Can Verify, Auto Shut-Off Range, Recall History of the Seller, and Real Cost per Night Against a Space Heater
+   - ZH-TW title: 2026 最佳電熱毯排行榜：Sunbeam、Serta、Beautyrest、Bedsure 與低電壓機型依可查證的安全認證、自動斷電時段、賣家召回紀錄與每晚電費對照電暖器排序，附 2026 年 OCTROT 17.8 萬件召回與 Melinora 使用警告的查核說明推薦
+   - 目標關鍵字: best electric blanket 2026, best heated blanket 2026, safest heated blanket UL certified, heated blanket recall 2026, octrot heated blanket recall, electric blanket vs space heater cost, heated blanket auto shut off 10 hours, best washable heated blanket, dual control electric blanket queen, low voltage heated blanket
+   - SEO 潛力: 我判斷這一題應該排在本輪第一，理由有四個。第一是召回事件把安全變成讀者搜尋時的第一個問題。CPSC 於 2026 年 7 月 31 日公告 OCTROT 在 Amazon 銷售的 17.8 萬件 Sherpa 絨電熱毯與蓋毯召回，原因是電源線可脫落並起火，累計 555 起熔化、冒火花或冒煙通報，其中 27 起火災、15 人受傷，售價 40 至 60 美元，銷售期間為 2021 年 8 月至 2025 年 12 月。CPSC 另於 7 月 16 日對 Melinora 電熱毯發出停止使用警告，約 700 件，製造商 Leevana Inc. 對 CPSC 的召回要求沒有回應。這兩起事件的共同點是低價、Amazon 第三方賣家、無知名品牌，而 Amazon 熱賣榜前段正是這一類品牌，asinsight 追蹤的熱賣榜第一名為 GENIANI，前段另有 Homemate、VENTIMI 等。讀者在今年冬天搜尋 heated blanket 時會同時搜尋 recall，這組長尾現存的測評榜單都沒有吃下。第二是季節時點，8 月 7 日報告記錄電熱毯銷售約四成集中在十一月到二月，本題在九月下旬上線可以完整吃到整季，Amazon 端 heated blankets 一詞的週搜尋量在淡季的 3 月仍有 1,100，熱賣第一名單月超過 1 萬單，heated weighted blanket 週搜尋量 2,218。第三是省電角度的搜尋需求與冬季帳單直接掛鉤，電熱毯耗電約 50 至 100 瓦，電暖器 750 至 1,500 瓦，9 月 12 日報告記錄 NEADA 統計家庭供暖支出年增 7.6%，本題可以與 best-space-heaters 雙向內鏈，用同一張每晚電費表吃下 electric blanket vs space heater cost。第四是市場規模足以支撐常青頁面，美國電熱毯市場 2023 年 2.91 億美元、2029 年推估 3.83 億美元，美國在用數量推估約 4,800 萬件。本站的第一個獨佔欄位是安全認證可查證度，作法是對每一款候選標記包裝或商品頁宣稱的認證（UL、ETL、CSA），並以認證機構的公開名錄回查該型號是否在列，只有能在名錄上查到的才標為已驗證。第二個獨佔欄位是賣家召回紀錄，對每個品牌回查 CPSC 召回資料庫與警告清單，列出該品牌過去十年的召回次數與件數。thehomepicker.com 整理 2016 年 1 月至 2026 年 8 月 CPSC 共 12 起電熱寢具召回、約 65.94 萬件、807 起通報、44 人受傷，這組彙整數字屬第三方統計，建置時要逐筆回到 CPSC 原始公告核對後才能引用。第三個獨佔欄位是自動斷電時段與溫度範圍，Beautyrest 為 1 至 10 小時、85 至 105 華氏度，Serta 為 1 至 12 小時、10 段溫控，Bedsure 為 1 至 4 小時，這個欄位直接對應睡眠整夜使用的需求。第四個欄位是每晚電費，以美國平均住宅電價乘以額定瓦數與八小時計算，與電暖器並列。執行紀律有三點，第一是全篇不作任何疼痛緩解或醫療宣稱；第二是召回資料一律引用 cpsc.gov 原始公告並標註公告日期；第三是認證名錄查無資料的型號寫成「未能在認證機構名錄查到」，不推論為未認證。
+   - 候選競品（10個）: Sunbeam Royal Ultra Heated Blanket, Serta Luxuriously Soft Plush Electric Blanket, Beautyrest Plush Heated Blanket, Bedsure Heated Throw Blanket, GENIANI Heated Blanket, Pure Enrichment PureRelief Ultra, SoftHeat Micro-Fleece Low Voltage, Degrees of Comfort Dual Control, Biddeford Comfort Knit Heated Blanket, Westinghouse Heated Blanket
+
+2. **Best Earplugs for Sleeping 2026（本輪第二題，全新題目，全站研究紀錄出現 0 次。核心事實是美國包裝上的降噪分貝數分屬兩套制度，EPA 規定的 NRR 與歐盟的 SNR，而同一副耳塞的兩個數字不能直接比較，現存榜單把兩者放在同一欄。）**
+   - 建議 slug: `best-earplugs-for-sleeping`
+   - EN title: Best Earplugs for Sleeping of 2026: Loop, Mack's, Ohropax, Flents and Sleep Earbuds from Soundcore and Ozlo Ranked by Tested Noise Reduction, Which Rating System the Box Uses, Side-Sleeper Comfort, and Three-Year Replacement Cost
+   - ZH-TW title: 2026 最佳睡眠耳塞排行榜：Loop、Mack's、Ohropax、Flents 與 Soundcore、Ozlo 睡眠耳機依實測降噪量、包裝採用 NRR 或 SNR 制度、側睡舒適度與三年替換成本排序，附 Loop Dream 每 100 天更換耳套的年支出試算推薦
+   - 目標關鍵字: best earplugs for sleeping 2026, loop dream vs loop quiet, best earplugs for side sleepers, earplugs for snoring partner, NRR vs SNR earplugs, mack's vs loop earplugs, best sleep earbuds 2026, soundcore sleep a30 vs ozlo sleepbuds, are loop earplugs worth it, reusable vs foam earplugs
+   - SEO 潛力: 我判斷這一題值得排進本輪，理由有四個。第一是品類在兩年內被一個品牌從藥妝店貨架推成搜尋型消費品。Loop Earplugs 2023 年營收 1.265 億歐元、年銷超過 500 萬副，2024 年營收升至 1.9 億歐元，60% 買家是第一次購買耳塞，2025 年底進入美國 600 家 Target 門市，Forbes 在 2025 年 10 月以專文報導其 Z 世代市場。新進讀者不知道怎麼挑，會先搜尋 are loop earplugs worth it 與 loop vs mack's，這正是排行榜能接住的搜尋行為。第二是價格帶跨度大，決策需要比較頁。Mack's 泡棉耳塞在 Amazon 有接近 5 萬則評論而單價以美分計，Loop Dream 定價 49.95 美元，Soundcore Sleep A30 定價 200 美元左右，Ozlo Sleepbuds 定價 350 美元而促銷價 275 美元，同一個需求橫跨三個數量級的價格，讀者需要一張表判斷多花的錢換到什麼。第三是本站的獨佔欄位有明確法規依據。美國 EPA 依 40 CFR Part 211 Subpart B 規定護耳器標示 NRR，測試方法沿用 1979 年採納的 ANSI S3.19-1974，EPA 於 2009 年 8 月 5 日提出改採 ANSI S12.6 的修正草案，至今沒有定案。Loop Dream 在美國 Amazon 商品標題上印的是「27dB SNR」，SNR 是歐盟 EN 352 體系的數字。本站要對每一款候選標記包裝採用的制度與數值，並把兩者分欄呈現，這一欄可以完全由商品頁與包裝圖查證。第四是與站內兩檔既有榜單形成睡眠與聽覺的內鏈，best-noise-cancelling-headphones 與 best-wireless-earbuds 的讀者有一部分正在找夜間可用的方案，best-mouth-tape 則是站上現有的睡眠配件題，三檔可以互相導流。第二個獨佔欄位是三年替換成本，Loop Dream 建議每 100 天更換記憶海綿耳套、四副 14.95 美元，泡棉耳塞按包裝支數與建議使用次數換算，睡眠耳機以電池壽命與保固年限估算。第三個獨佔欄位是側睡適配，記錄耳塞突出耳道的深度與官方是否標示側睡適用。執行紀律有三點，第一是不作任何失眠治療或聽力保護的醫療宣稱；第二是 NRR 與 SNR 兩欄分列，禁止換算合併；第三是 Loop 的「91% 使用者睡眠改善」屬品牌自述數據，引用時標明來源為品牌。
+   - 候選競品（10個）: Loop Dream, Loop Quiet 2, Mack's Ultra Soft Foam Earplugs, Mack's Slim Fit Soft Foam Earplugs, Ohropax Classic Wax Earplugs, Flents Quiet Please Foam Earplugs, Howard Leight Laser Lite, PQ Sleep Reusable Silicone Earplugs, Soundcore Sleep A30, Ozlo Sleepbuds
+
+### 市場動態
+
+- 蘋果九月發表會的穿戴與耳機產品規格與定價本輪補齊，可以作為 best-smart-watches 與 best-wireless-earbuds 的更新依據。AirPods 5 定價 129 美元與 149 美元兩個版本，主動降噪量較 AirPods 4 提升 50%，含充電盒續航 20 小時，支援即時翻譯。Apple Watch Series 12 自 399 美元起，心率量測頻率為前代的 60 倍，續航維持 24 小時。Apple Watch Ultra 4 自 799 美元起，續航 50 小時並支援衛星緊急求救。三款均於 9 月 9 日開放預購、9 月 18 日出貨。這組數字的來源為 Benzinga 與 Macworld，建置前要回 Apple Newsroom 核對。
+- 摺疊 iPhone 的處理原則本輪更新，要重新檢查。9 月 12 日報告因 Apple Newsroom 當日官方稿未提摺疊機而決定不採用，本輪 MacRumors 與 TechRadar 的發表會回顧均記載 iPhone Duo，展開螢幕 7.6 吋、外螢幕 5.4 吋、2,000 美元起、10 月 16 日預購、10 月 23 日上市。MacRumors 與 TechRadar 屬可信度較高的來源，但與 9 月 12 日的官方稿核對結論互相衝突，best-foldable-smartphones 在 10 月 16 日預購開始前要以 apple.com 的商品頁為準做最終判定，官方商品頁出現前不寫入。
+- 電熱毯安全事件是本輪第一題的直接依據，也要回頭檢查一檔既有榜單。OCTROT 召回（7 月 31 日，17.8 萬件）與 Melinora 警告（7 月 16 日，約 700 件）的公告內容已記錄在第一題。best-infrared-sauna-blankets 屬同一類貼身加熱織品，下次維護時要對十款候選逐一回查 CPSC 資料庫。
+- 主機價格在 best-game-consoles 已經完成更新，本輪核對無須修改。Nintendo 官網公告 Switch 2 自 2026 年 9 月 1 日起由 449.99 美元調為 499.99 美元，Sony 於 8 月 21 日把 PS5 標準版調回 549.99 美元、數位版 499.99 美元、PS5 Pro 749.99 美元，檔案內 Switch 2 與 PS5 Pro 的價格寫法與此一致。tech-insider.org 仍有頁面寫 PS5 標準版 649.99 美元，屬未更新的舊資料，本站不採用。
+- GTA 6 定於 2026 年 11 月 19 日發售，是今年第四季遊戲硬體需求的最大單一變數。發售日距感恩節一週，第四季至今沒有其他 3A 大作宣布檔期，主機同捆需求會集中在十一月。best-game-consoles、best-gaming-headsets 與 best-gaming-monitors 三檔在 11 月上旬要完成一次價格與同捆資訊的更新，把 GTA 6 同捆組合列入各主機的購買建議。
+- Amazon Prime Big Deal Days 的日期仍未取得 Amazon 官方公告，多個第三方來源推估為 10 月 7 日至 8 日，依據是 2024 年 10 月 8 日至 9 日與 2025 年 10 月 7 日至 8 日的前例。本站所有榜單的促銷價在官方公告前一律不預寫，公告後以 Amazon 新聞稿為準。
+- CPSC 九月上旬的召回本輪完成對照，與站上榜單沒有交集。9 月 3 日 Clorox Puerto Rico 召回 600 萬件 Mistolin 與 Lestoil 多用途清潔劑，9 月 10 日 Ricky Joy 召回超過 230 萬件 Sour Crush 糖果瓶，另有 AGA Rangemaster 雙燃料爐具因瓦斯測試口缺蓋召回，三者均不在 best-laundry-detergent、best-refrigerators 或任何既有檔案的候選清單中。
+
+### 資料來源
+
+- [CPSC: OCTROT Heated Sherpa Throws and Blankets Recall](https://www.cpsc.gov/Recalls/2026/Heated-Sherpa-Throws-and-Blankets-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards-Sold-on-Amazon-by-OCTROT)
+- [CPSC: Melinora Electric Heated Blankets Warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Melinora-Electric-Heated-Blankets-Immediately-Due-to-Risk-of-Serious-Injury-from-Burn-and-Fire-Hazards)
+- [CBS News: OCTROT heated blankets recalled](https://www.cbsnews.com/news/octrot-heated-blankets-recalled-fire-injuries/)
+- [thehomepicker.com: Electric Blanket Recalls 2016-2026](https://thehomepicker.com/electric-blanket-recalls/)
+- [asinsight: Best Selling Heated Blankets 2026](https://www.asinsight.com/report/US/heated-blankets)
+- [Arizton: U.S. Electric Blankets Market](https://www.arizton.com/market-reports/united-states-electric-blankets-market)
+- [CNN Underscored: Best electric blankets 2026](https://www.cnn.com/cnn-underscored/reviews/best-electric-blankets)
+- [NBC Select: Best Heated Blankets 2026](https://www.nbcnews.com/select/shopping/best-electric-blankets-rcna239148)
+- [Forbes: How Loop Earplugs dialed up massive revenue](https://www.forbes.com/sites/simonemelvin/2025/10/25/how-loop-earplugs-turned-down-the-volume-for-gen-z-and-dialed-up-massive-revenue/)
+- [Bigblue: Loop earplugs from €0 to €126M](https://www.bigblue.co/blog/loop-earplugs-from-eu0-to-eu42m-targeting-ads-and-community)
+- [Amazon: Loop Dream (27dB SNR listing)](https://www.amazon.com/Loop-Dream-Comfortable-Customized-Reduction/dp/B0FBML7BFQ)
+- [T3: Loop Dream review](https://www.t3.com/home-living/wellness/loop-dream)
+- [CNN Underscored: Soundcore Sleep A30 review](https://www.cnn.com/cnn-underscored/reviews/soundcore-sleep-a30)
+- [Sleep Foundation: Best Earplugs for Sleeping 2026](https://www.sleepfoundation.org/best-sleep-products/best-earplugs-for-sleep)
+- [ANSI Blog: EPA ANSI S3.19-1974 labeling](https://blog.ansi.org/ansi/measuring-noise-reduction-epa-ansi-s3-19-1974/)
+- [Federal Register: Product Noise Labeling Hearing Protection Devices (2009)](https://www.federalregister.gov/documents/2009/08/05/E9-18003/product-noise-labeling-hearing-protection-devices)
+- [Benzinga: AirPods 5, Watch Ultra 4 and Series 12](https://www.benzinga.com/markets/tech/26/09/61696812/apple-announced-airpods-5-watch-ultra-4-and-watch-series-12)
+- [MacRumors: Everything Apple Announced at the September 2026 Event](https://www.macrumors.com/2026/09/09/apple-september-2026-event-recap/)
+- [TechRadar: Apple Event 2026 recap](https://www.techradar.com/news/live/apple-event-september-2026-live-blog)
+- [Nintendo: Price Revision for Nintendo Switch 2](https://www.nintendo.com/us/whatsnew/price-revision-for-nintendo-switch-2-system/)
+- [IBTimes UK: GTA 6 release date locked to November 2026](https://www.ibtimes.co.uk/gta-6-release-date-locked-november-2026-rockstars-holiday-sales-strategy-explains-why-1766528)
+- [Today: When is the next Amazon Prime Day 2026](https://www.today.com/shop/amazon-october-prime-day-2026-rcna594558)
+- [EveryRecall: Latest Product Recalls September 2026](https://everyrecall.org/latest-recalls/)
+
+---
