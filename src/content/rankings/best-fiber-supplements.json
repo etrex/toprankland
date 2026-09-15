@@ -75,11 +75,11 @@
       "i18n": {
         "en": {
           "description": "98% pure USDA Organic whole psyllium husk with no added sugar, sodium or additives, delivering both soluble and insoluble fiber at the lowest cost per gram on this list.",
-          "priceRange": "$13 / 12 oz"
+          "priceRange": "$20 / 15 oz"
         },
         "zh-tw": {
           "description": "98% 純度的 USDA 有機全洋車前子殼，不加糖、不加鈉、無添加物，同時提供水溶性與非水溶性纖維，每克成本是這份榜單最低的。",
-          "priceRange": "約 NT$450"
+          "priceRange": "約 NT$650"
         }
       }
     },
@@ -107,11 +107,11 @@
       "i18n": {
         "en": {
           "description": "6 grams of tasteless soluble prebiotic fiber engineered to disappear into hot or cold drinks with no grit or clumping, marketed squarely at the GLP-1 crowd.",
-          "priceRange": "$23 / 7.1 oz"
+          "priceRange": "$28 / 30 servings"
         },
         "zh-tw": {
           "description": "6 克無味的水溶性益生元纖維，設計成溶進冷熱飲都不結塊、不留顆粒感，主打 GLP-1 減重族群的日常補纖。",
-          "priceRange": "約 NT$700"
+          "priceRange": "約 NT$900"
         }
       }
     },
@@ -171,11 +171,43 @@
       "i18n": {
         "en": {
           "description": "A single-ingredient organic baobab powder with a naturally citrus taste, delivering 5 grams of prebiotic fiber per scoop for people who want the cleanest possible label.",
-          "priceRange": "$28 / 30 servings"
+          "priceRange": "$22 / 30 servings"
         },
         "zh-tw": {
           "description": "單一成分的有機猴麵包樹果粉，帶天然柑橘味，每匙 5 克益生元纖維，給那些成分表想越乾淨越好的人。",
-          "priceRange": "約 NT$850"
+          "priceRange": "約 NT$700"
+        }
+      }
+    },
+    {
+      "id": "tomorrows-nutrition-sunfiber",
+      "name": "Tomorrow's Nutrition Sunfiber",
+      "brand": "Tomorrow's Nutrition",
+      "url": "https://tomorrowsnutrition.com/products/sunfiber-210-grams",
+      "i18n": {
+        "en": {
+          "description": "Clear, grit-free partially hydrolyzed guar gum with 6 g of soluble fiber per scoop, Monash University Low FODMAP certified and Informed Choice tested.",
+          "priceRange": "$25 / 30 servings"
+        },
+        "zh-tw": {
+          "description": "部分水解瓜爾豆膠，溶進飲料透明無顆粒，一匙 6 克水溶性纖維，有 Monash 大學低 FODMAP 認證跟 Informed Choice 檢驗。",
+          "priceRange": "約 NT$800"
+        }
+      }
+    },
+    {
+      "id": "momentous-fiber-plus",
+      "name": "Momentous Fiber+",
+      "brand": "Momentous",
+      "url": "https://www.livemomentous.com/products/fiber-plus",
+      "i18n": {
+        "en": {
+          "description": "A three-fiber scoop of psyllium husk, rice bran hull and Solnul resistant potato starch for 6 g of soluble, insoluble and prebiotic fiber, NSF Certified for Sport, currently backordered.",
+          "priceRange": "$40 / 30 servings"
+        },
+        "zh-tw": {
+          "description": "洋車前子、米糠殼跟 Solnul 抗性馬鈴薯澱粉做成三合一，一份 6 克，水溶性、非水溶性跟益生元纖維一次補齊，有 NSF Certified for Sport，官網目前缺貨中。",
+          "priceRange": "約 NT$1,300"
         }
       }
     }
@@ -5215,18 +5247,30 @@
         {
           "id": "organic-india-whole-husk-psyllium",
           "rank": 4,
-          "score": 8.8,
+          "score": 8.7,
           "scores": {
             "source": 9.3,
             "tolerability": 8.0,
             "dose": 8.6,
             "testing": 8.0,
-            "value": 9.7
+            "value": 9.3
+          }
+        },
+        {
+          "id": "tomorrows-nutrition-sunfiber",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "source": 8.6,
+            "tolerability": 9.7,
+            "dose": 8.4,
+            "testing": 9.2,
+            "value": 8.2
           }
         },
         {
           "id": "benefiber-daily-prebiotic",
-          "rank": 5,
+          "rank": 6,
           "score": 8.6,
           "scores": {
             "source": 7.8,
@@ -5238,19 +5282,31 @@
         },
         {
           "id": "physicians-choice-easy-mix-fiber",
-          "rank": 6,
-          "score": 8.4,
+          "rank": 7,
+          "score": 8.3,
           "scores": {
             "source": 8.0,
             "tolerability": 9.0,
             "dose": 8.2,
             "testing": 8.4,
-            "value": 8.6
+            "value": 8.2
+          }
+        },
+        {
+          "id": "momentous-fiber-plus",
+          "rank": 8,
+          "score": 8.3,
+          "scores": {
+            "source": 8.8,
+            "tolerability": 8.4,
+            "dose": 8.4,
+            "testing": 9.5,
+            "value": 7.0
           }
         },
         {
           "id": "bulletproof-innerfuel-prebiotic",
-          "rank": 7,
+          "rank": 9,
           "score": 8.3,
           "scores": {
             "source": 8.2,
@@ -5262,7 +5318,7 @@
         },
         {
           "id": "garden-of-life-raw-organic-fiber",
-          "rank": 8,
+          "rank": 10,
           "score": 8.2,
           "scores": {
             "source": 8.4,
@@ -5274,7 +5330,7 @@
         },
         {
           "id": "now-psyllium-husk-caps",
-          "rank": 9,
+          "rank": 11,
           "score": 8.0,
           "scores": {
             "source": 9.0,
@@ -5286,14 +5342,14 @@
         },
         {
           "id": "naked-nutrition-naked-fiber",
-          "rank": 10,
-          "score": 7.8,
+          "rank": 12,
+          "score": 7.9,
           "scores": {
             "source": 7.6,
             "tolerability": 8.8,
             "dose": 7.2,
             "testing": 8.0,
-            "value": 7.8
+            "value": 8.3
           }
         }
       ],
@@ -5321,7 +5377,7 @@
       ],
       "i18n": {
         "en": {
-          "commentary": "Konsyl Daily Psyllium Fiber stays first and my ranking carries forward. I found no verified recall, formula change, or price move on the ten products I score this week.\n\nThe fresh read this week is a September 2026 evidence based comparison of US fiber supplements from The Good Fiber Company. Two points stood out. It flags NOW Foods as a GMP certified brand with third party testing for people who want psyllium in capsule form, which matches the testing score I give NOW Psyllium Husk Caps. It also notes how aggressively prebiotic blends now market to GLP-1 users, with one 6 gram blend priced around $1.50 to $1.60 per day. That price point is useful context, because plain psyllium delivers comparable daily fiber for a fraction of the cost.\n\nKonsyl keeps first because it is pure psyllium husk with no sweeteners, about 6 grams of fiber per serving, and a long track record. Psyllium carries the strongest clinical support in the category for regularity and LDL cholesterol.\n\nMetamucil 4-in-1 Psyllium holds second as the most widely stocked psyllium option, with sugar free versions that make it easy to find on any grocery run. Thorne FiberMend stays third for sensitive stomachs; its blend of gentler fibers is easier to tolerate while you build up.\n\nOrganic India Whole Husk Psyllium remains my pick for people who want certified organic husk at a low cost per gram.\n\nMy practical advice: start with half a serving, drink a full glass of water with every dose, add fiber gradually over two weeks, and space it at least two hours from medications. If you take a GLP-1 drug, ask your clinician before adding a fiber product.",
+          "commentary": "Konsyl Daily Psyllium Fiber stays first and my ranking carries forward. I found no verified recall or formula change on the ten products I scored coming into this week, and the competitor check at the end adds two products and three price updates.\n\nThe fresh read this week is a September 2026 evidence based comparison of US fiber supplements from The Good Fiber Company. Two points stood out. It flags NOW Foods as a GMP certified brand with third party testing for people who want psyllium in capsule form, which matches the testing score I give NOW Psyllium Husk Caps. It also notes how aggressively prebiotic blends now market to GLP-1 users, with one 6 gram blend priced around $1.50 to $1.60 per day. That price point is useful context, because plain psyllium delivers comparable daily fiber for a fraction of the cost.\n\nKonsyl keeps first because it is pure psyllium husk with no sweeteners, about 6 grams of fiber per serving, and a long track record. Psyllium carries the strongest clinical support in the category for regularity and LDL cholesterol.\n\nMetamucil 4-in-1 Psyllium holds second as the most widely stocked psyllium option, with sugar free versions that make it easy to find on any grocery run. Thorne FiberMend stays third for sensitive stomachs; its blend of gentler fibers is easier to tolerate while you build up.\n\nOrganic India Whole Husk Psyllium remains my pick for people who want certified organic husk at a low cost per gram.\n\nMy practical advice: start with half a serving, drink a full glass of water with every dose, add fiber gradually over two weeks, and space it at least two hours from medications. If you take a GLP-1 drug, ask your clinician before adding a fiber product.\n\nCompetitor check, September 15: I added two products that fill real gaps in this list. Tomorrow's Nutrition Sunfiber enters at fifth. It is partially hydrolyzed guar gum, the gentlest soluble fiber I track, and it carries Monash University Low FODMAP certification plus Informed Choice testing at $24.99 for 30 servings. That makes it my pick for IBS-prone stomachs.\n\nMomentous Fiber+ enters at eighth with psyllium, rice bran hull and resistant potato starch in one NSF Certified for Sport scoop. At $39.99 for 30 servings, and backordered right now, value keeps it at eighth.\n\nPrice checks moved three scores: Organic India's whole husk is now $19.99 for a 15 oz bag, Physician's Choice Easy Mix is $27.97, and Naked Fiber dropped to $21.99.",
           "highlights": [
             {
               "title": "New September comparison lands",
@@ -5338,11 +5394,15 @@
             {
               "title": "Build up slowly with water",
               "body": "Start at half a serving, drink a full glass of water, and keep fiber two hours away from medications."
+            },
+            {
+              "title": "Sunfiber fills the low FODMAP slot",
+              "body": "Partially hydrolyzed guar gum dissolves clear, delivers 6 g of soluble fiber, and carries Monash Low FODMAP certification with Informed Choice testing at $24.99 for 30 servings. It enters at fifth, and Momentous Fiber+ joins at eighth as the NSF Certified for Sport three-fiber blend."
             }
           ]
         },
         "zh-tw": {
-          "commentary": "Konsyl 洋車前子纖維繼續第一，排名照舊。這週我評分的十款纖維補充品，都查不到確認的召回、配方更動或調價。\n\n這週的新資料，是 The Good Fiber Company 在 2026 年 9 月出的美國纖維補充品實證比較。有兩點我特別注意。第一，它點名 NOW Foods 有 GMP 認證跟第三方檢驗，適合想吃膠囊型洋車前子的人，這跟我給 NOW 洋車前子膠囊的檢驗分數一致。第二，現在益生元複方很積極在打 GLP-1 族群，有一款 6 克纖維的配方一天大約 1.5 到 1.6 美元。你想想看，單純的洋車前子每天補差不多的纖維量，成本只要零頭。\n\nKonsyl 拿第一，純洋車前子殼、無甜味劑，一份大約 6 克纖維，歷史又久。洋車前子在排便順暢跟壞膽固醇這兩項，是整個品類臨床證據最強的。\n\nMetamucil 4 合 1 維持第二，是最好買的洋車前子，有無糖版本，逛超市順手就能帶。Thorne FiberMend 維持第三，腸胃敏感的人選它，溫和纖維複方在慢慢加量時比較好適應。\n\nOrganic India 全殼洋車前子維持我的推薦，要有機認證、每克成本又低的人很適合。\n\n實用建議：先從半份開始，每次一定配一大杯水，兩週內慢慢加量，跟藥物至少隔兩小時。有在打 GLP-1 針的人，加纖維前先問醫師。",
+          "commentary": "Konsyl 洋車前子纖維繼續第一，排名照舊。這週原本評分的十款纖維補充品，都查不到確認的召回或配方更動，新增兩款跟三筆調價寫在最後的競品檢查。\n\n這週的新資料，是 The Good Fiber Company 在 2026 年 9 月出的美國纖維補充品實證比較。有兩點我特別注意。第一，它點名 NOW Foods 有 GMP 認證跟第三方檢驗，適合想吃膠囊型洋車前子的人，這跟我給 NOW 洋車前子膠囊的檢驗分數一致。第二，現在益生元複方很積極在打 GLP-1 族群，有一款 6 克纖維的配方一天大約 1.5 到 1.6 美元。你想想看，單純的洋車前子每天補差不多的纖維量，成本只要零頭。\n\nKonsyl 拿第一，純洋車前子殼、無甜味劑，一份大約 6 克纖維，歷史又久。洋車前子在排便順暢跟壞膽固醇這兩項，是整個品類臨床證據最強的。\n\nMetamucil 4 合 1 維持第二，是最好買的洋車前子，有無糖版本，逛超市順手就能帶。Thorne FiberMend 維持第三，腸胃敏感的人選它，溫和纖維複方在慢慢加量時比較好適應。\n\nOrganic India 全殼洋車前子維持我的推薦，要有機認證、每克成本又低的人很適合。\n\n實用建議：先從半份開始，每次一定配一大杯水，兩週內慢慢加量，跟藥物至少隔兩小時。有在打 GLP-1 針的人，加纖維前先問醫師。\n\n9 月 15 日競品檢查：這次補進兩款，剛好補到榜單缺的類型。Tomorrow's Nutrition Sunfiber 排第五，它是部分水解瓜爾豆膠，是我追蹤的纖維裡最溫和的水溶性纖維，有 Monash 大學低 FODMAP 認證加 Informed Choice 檢驗，30 份 24.99 美元，差不多八百台幣。腸躁體質、吃完鹹酥雞隔天肚子就開始抗議的人，我會直接推這款。\n\nMomentous Fiber+ 排第八，洋車前子、米糠殼、抗性馬鈴薯澱粉一匙搞定，還有 NSF Certified for Sport。30 份 39.99 美元，一千三左右，官網現在又缺貨，性價比把它留在第八。\n\n價格方面有三款調分：Organic India 洋車前子殼現在 15 盎司 19.99 美元，Physician's Choice Easy Mix 27.97 美元，Naked Fiber 降到 21.99 美元。",
           "highlights": [
             {
               "title": "九月新比較出爐",
@@ -5359,6 +5419,10 @@
             {
               "title": "配水慢慢加量",
               "body": "從半份開始、配一大杯水，跟藥物隔兩小時，老實說腸胃會感謝你。"
+            },
+            {
+              "title": "Sunfiber 補上低 FODMAP 選項",
+              "body": "部分水解瓜爾豆膠溶解後透明，一匙 6 克水溶性纖維，有 Monash 低 FODMAP 認證跟 Informed Choice 檢驗，30 份 24.99 美元，直接排第五。Momentous Fiber+ 以 NSF 運動認證的三合一纖維排第八。"
             }
           ]
         }
