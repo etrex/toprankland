@@ -17151,6 +17151,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-15",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.1,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "3 Best AI Video Generators 2026: Seedance vs Kling vs Veo",
+          "url": "https://clipia.ai/en/blog/seedance-2-vs-kling-3-vs-veo-3",
+          "source": "Clipia"
+        },
+        {
+          "title": "Best AI Video Models in 2026: Seedance, Omni Flash, Kling & More",
+          "url": "https://www.hedra.com/blog/best-ai-video-models",
+          "source": "Hedra"
+        },
+        {
+          "title": "Best Text-to-Video AI Generators September 2026: Top 10 Models Ranked",
+          "url": "https://www.buildmvpfast.com/articles/best-llms-2026-guide/video-generation-ai",
+          "source": "BuildMVPFast"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Kling 3.0 keeps first at 9.5, and the countdown now reads nine days: OpenAI's Sora API shuts down on September 24. If you still have a Sora job queued anywhere, move it this week.\n\nI want to spend this update on the feature that now separates these models most in my testing, which is sound. Picture quality across the top four is close. Native audio generated in the same pass as the video decides how much post-production a clip still needs.\n\nKling 3.0 Omni leads here for multi-shot work. It builds sequences on a shared audio timeline and generates native dialogue in five languages, so a short scene with two speakers and a cut in the middle comes back with voices that stay consistent across shots. Its motion physics remain the best on the list, and Kling 3.0 Turbo costs roughly 11 to 14 cents per second for fast iteration.\n\nVeo 3.1 at 9.4 is my all-rounder for social teams: 4K output, vertical and horizontal framing, and synchronized effects and ambience that arrive ready to post.\n\nSeedance 2.0 at 9.2 plans a shot sequence from one prompt and keeps character identity, clothing, and lighting consistent across cuts. Runway Gen-4.5, also at 9.2, gives directors the most precise camera control of any model here.\n\nSeptember roundups, including BuildMVPFast's top ten, now feature newer names such as Wan 3.0, Gemini Omni Flash, MiniMax H3, and Seedance 2.5. I am tracking all of them, and each will join or update this list once I can run it on real client briefs with stable access.\n\nHappyHorse 1.0 at 8.8 and Hailuo 02 at 8.5 remain efficient choices for high-volume short clips.\n\nNo ranking changes this week.",
+          "highlights": [
+            {
+              "title": "Nine days left on the Sora API",
+              "body": "The API sunsets on September 24. Move any remaining Sora jobs to one of the top four models this week."
+            },
+            {
+              "title": "Native audio now decides the winner",
+              "body": "Kling 3.0 Omni generates dialogue in five languages on a shared multi-shot audio timeline, which keeps Kling first at 9.5."
+            },
+            {
+              "title": "Veo 3.1 is ready-to-post video",
+              "body": "4K, vertical or horizontal framing, and synchronized ambience make it the best all-rounder for social teams."
+            },
+            {
+              "title": "New models on the watch list",
+              "body": "Wan 3.0, Gemini Omni Flash, MiniMax H3, and Seedance 2.5 are appearing in September roundups ahead of wider access."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Kling 3.0 維持 9.5 分第一。倒數剩九天：OpenAI 的 Sora API 9 月 24 日關閉，手上還有排在 Sora 上的工作，這週就搬走。\n\n這次我想專心聊一件事，就是聲音。老實說，前四名的畫質已經很接近，真正拉開差距的是原生音訊：影像和聲音同一次生成，決定一支片子後製還要花多少力氣。\n\n多鏡頭作品這塊，Kling 3.0 Omni 最強。它用同一條音訊時間軸串起多個鏡頭，原生對白支援五種語言，兩個人講話、中間切一刀，回來的聲音前後一致。動作物理依舊全榜最好，Kling 3.0 Turbo 每秒大約 11 到 14 美分，快速反覆修改最划算。\n\nVeo 3.1 9.4 分，是我推給社群小編的全能選手：4K、直式橫式都行，音效和環境音同步生好，下載就能發。\n\nSeedance 2.0 9.2 分，一句提示詞就能規劃分鏡，角色長相、服裝、光線跨鏡頭都穩。Runway Gen-4.5 同樣 9.2 分，運鏡控制最精準，導演型使用者會愛。\n\n九月的各家排行榜，像 BuildMVPFast 的前十名，已經出現 Wan 3.0、Gemini Omni Flash、MiniMax H3、Seedance 2.5 這些新名字。我都盯著，等開放得夠穩、能拿真實案子跑，再決定要不要進榜。\n\nHappyHorse 1.0 8.8 分、Hailuo 02 8.5 分，大量產短片還是很有效率。這週排名不變。",
+          "highlights": [
+            {
+              "title": "Sora API 只剩九天",
+              "body": "9 月 24 日關閉，還掛在 Sora 上的工作這週搬到前四名任一個。"
+            },
+            {
+              "title": "原生音訊決定勝負",
+              "body": "Kling 3.0 Omni 多鏡頭共用音訊時間軸、五種語言原生對白，穩坐 9.5 分。"
+            },
+            {
+              "title": "Veo 3.1 生完就能發",
+              "body": "4K、直橫式都支援、環境音同步，社群小編的全能首選。"
+            },
+            {
+              "title": "新模型觀察名單",
+              "body": "Wan 3.0、Gemini Omni Flash、MiniMax H3、Seedance 2.5 已登上九月排行榜，等開放更穩再評分。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

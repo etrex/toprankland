@@ -17301,6 +17301,168 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-15",
+      "rankings": [
+        {
+          "id": "protonvpn",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "mullvad",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Mullvad vs NordVPN vs Proton VPN: Privacy Compared (2026)",
+          "url": "https://ifeeltech.com/blog/mullvad-vs-nordvpn-vs-proton-vpn",
+          "source": "iFeeltech"
+        },
+        {
+          "title": "NordVPN vs Mullvad: 12 Tests, 1 Clear Winner in 2026",
+          "url": "https://cyberinsider.com/vpn/comparison/nordvpn-vs-mullvad/",
+          "source": "CyberInsider"
+        },
+        {
+          "title": "Mullvad vs Proton VPN: Which VPN is best in 2026?",
+          "url": "https://cyberinsider.com/vpn/comparison/mullvad-vs-proton-vpn/",
+          "source": "CyberInsider"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ProtonVPN keeps first at 9.3, and this week the case for it rests on paperwork as much as speed. Proton VPN has now passed five consecutive annual audits by Securitum, covering 2022 through 2026, and it holds a SOC 2 Type II attestation. A clean audit every single year is the strongest evidence a VPN buyer can get, and Proton pairs it with more than 17,800 servers and promotional pricing around $2.99 a month.\n\nMullvad holds 9.2 with the simplest privacy model in the category: no email at sign-up, a flat €5 a month, and a long record of independent audits. One change deserves a reminder. Mullvad became a WireGuard-only service on January 15, 2026, and retired OpenVPN entirely. WireGuard is faster and leaner, and Mullvad's own apps handle it well. If you still run an old router configuration or a third-party client built around OpenVPN, rebuild that setup with WireGuard profiles.\n\nNordVPN stays third at 8.8. CyberInsider refreshed its NordVPN and Mullvad comparison on September 9 and still points to NordVPN's 9,500-plus RAM-only servers and broad security toolkit as its core strengths. For streaming and raw speed across many countries, it is the one I install for family members.\n\nIVPN at 8.6 remains my pick for privacy purists who want a small, transparent company, and ExpressVPN at 8.5 is the most polished app for people who want to press one button and move on.\n\nAutumn travel makes this a good week for a quick check. Before a trip, connect on your phone, open a leak test site, and confirm your real IP stays hidden on both Wi-Fi and mobile data. Five minutes at home saves a frustrating evening on hotel Wi-Fi.\n\nNo ranking changes this week.",
+          "highlights": [
+            {
+              "title": "Proton VPN's five-year audit streak",
+              "body": "Five consecutive annual Securitum audits from 2022 to 2026 plus SOC 2 Type II keep ProtonVPN first at 9.3."
+            },
+            {
+              "title": "Mullvad is WireGuard-only now",
+              "body": "OpenVPN was retired on January 15, 2026. Rebuild old router or third-party client setups with WireGuard profiles."
+            },
+            {
+              "title": "NordVPN remains the streaming choice",
+              "body": "CyberInsider's September 9 refresh again credits its 9,500-plus RAM-only servers and security toolkit."
+            },
+            {
+              "title": "Run a leak test before you travel",
+              "body": "Check that your real IP stays hidden on Wi-Fi and mobile data at home, before you depend on hotel networks."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ProtonVPN 維持 9.3 分第一，這週它的優勢除了速度，還有一疊漂亮的稽核文件。Proton VPN 已經連續五年通過 Securitum 年度稽核，從 2022 到 2026 年，還拿到 SOC 2 Type II 認證。每年都查、每年都乾淨，這是買 VPN 能拿到最硬的證據。再加上 17,800 台以上伺服器，優惠價每月約 2.99 美元，差不多一杯手搖飲的錢。\n\nMullvad 9.2 分，隱私設計全類別最單純：註冊不用 email、每月固定 5 歐元、獨立稽核紀錄一大串。有個變動要提醒大家：Mullvad 從 2026 年 1 月 15 日起只支援 WireGuard，OpenVPN 全面退場。WireGuard 更快更輕，官方 App 也跑得很好。家裡如果還有舊路由器設定，或是用第三方 OpenVPN 客戶端，記得改用 WireGuard 設定檔重做一次。\n\nNordVPN 8.8 分守住第三。CyberInsider 9 月 9 日更新 NordVPN 對 Mullvad 的比較，一樣認為 9,500 台以上純記憶體伺服器和完整的安全功能是它的強項。要追劇、要跨國速度，我幫家人裝的就是它。\n\nIVPN 8.6 分，適合想找小而透明公司的隱私控；ExpressVPN 8.5 分，App 最精緻，按一個鍵就搞定。\n\n秋天出國旅遊旺季，這週正好做個小檢查：出發前在手機上連線，開一個洩漏測試網站，確認 Wi-Fi 和行動網路下真實 IP 都藏得好好的。在家花五分鐘，省得在飯店 Wi-Fi 上折騰一整晚。這週排名不變。",
+          "highlights": [
+            {
+              "title": "Proton VPN 連續五年過稽核",
+              "body": "2022 到 2026 年 Securitum 年年通過，加上 SOC 2 Type II，穩坐 9.3 分。"
+            },
+            {
+              "title": "Mullvad 現在只剩 WireGuard",
+              "body": "OpenVPN 在 2026 年 1 月 15 日退場，舊路由器或第三方客戶端記得改用 WireGuard 設定檔。"
+            },
+            {
+              "title": "追劇還是 NordVPN",
+              "body": "CyberInsider 9 月 9 日更新比較，再次肯定 9,500 台以上純記憶體伺服器和安全功能。"
+            },
+            {
+              "title": "出國前先做洩漏測試",
+              "body": "在家確認 Wi-Fi 和行動網路下真實 IP 都藏好，再去依賴飯店網路。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -1077,6 +1077,222 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-15",
+      "rankings": [
+        {
+          "id": "home-assistant-green",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "offlineSurvival": 9.8,
+            "localAutomation": 9.7,
+            "radios": 6.0,
+            "matterVersion": 9.0,
+            "apiPolicy": 9.9,
+            "setupEffort": 6.5,
+            "value": 8.6,
+            "twAvailability": 5.5
+          }
+        },
+        {
+          "id": "hubitat-c8-pro",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "offlineSurvival": 9.6,
+            "localAutomation": 9.4,
+            "radios": 9.5,
+            "matterVersion": 9.6,
+            "apiPolicy": 9.2,
+            "setupEffort": 6.8,
+            "value": 8.4,
+            "twAvailability": 4.5
+          }
+        },
+        {
+          "id": "homey-pro-2026",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "offlineSurvival": 9.0,
+            "localAutomation": 9.2,
+            "radios": 9.8,
+            "matterVersion": 8.8,
+            "apiPolicy": 7.6,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 4.0
+          }
+        },
+        {
+          "id": "aqara-hub-m3",
+          "rank": 4,
+          "score": 7.9,
+          "scores": {
+            "offlineSurvival": 7.6,
+            "localAutomation": 7.8,
+            "radios": 8.2,
+            "matterVersion": 8.4,
+            "apiPolicy": 6.8,
+            "setupEffort": 8.8,
+            "value": 8.6,
+            "twAvailability": 8.5
+          }
+        },
+        {
+          "id": "switchbot-hub-3",
+          "rank": 5,
+          "score": 7.2,
+          "scores": {
+            "offlineSurvival": 6.6,
+            "localAutomation": 6.8,
+            "radios": 6.4,
+            "matterVersion": 8.0,
+            "apiPolicy": 7.4,
+            "setupEffort": 9.2,
+            "value": 8.8,
+            "twAvailability": 8.8
+          }
+        },
+        {
+          "id": "aeotec-smart-home-hub",
+          "rank": 6,
+          "score": 6.6,
+          "scores": {
+            "offlineSurvival": 6.8,
+            "localAutomation": 7.4,
+            "radios": 9.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 7.8,
+            "value": 6.4,
+            "twAvailability": 4.2
+          }
+        },
+        {
+          "id": "smartthings-station",
+          "rank": 7,
+          "score": 6.2,
+          "scores": {
+            "offlineSurvival": 5.4,
+            "localAutomation": 6.2,
+            "radios": 5.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 9.0,
+            "value": 8.2,
+            "twAvailability": 6.5
+          }
+        },
+        {
+          "id": "apple-tv-4k",
+          "rank": 8,
+          "score": 6.0,
+          "scores": {
+            "offlineSurvival": 8.4,
+            "localAutomation": 7.0,
+            "radios": 4.5,
+            "matterVersion": 7.6,
+            "apiPolicy": 5.2,
+            "setupEffort": 9.4,
+            "value": 4.2,
+            "twAvailability": 9.5
+          }
+        },
+        {
+          "id": "amazon-echo-hub",
+          "rank": 9,
+          "score": 5.6,
+          "scores": {
+            "offlineSurvival": 4.2,
+            "localAutomation": 5.0,
+            "radios": 8.4,
+            "matterVersion": 7.4,
+            "apiPolicy": 4.4,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 3.5
+          }
+        },
+        {
+          "id": "google-home-speaker",
+          "rank": 10,
+          "score": 5.2,
+          "scores": {
+            "offlineSurvival": 3.8,
+            "localAutomation": 4.4,
+            "radios": 5.2,
+            "matterVersion": 7.0,
+            "apiPolicy": 4.2,
+            "setupEffort": 9.2,
+            "value": 6.6,
+            "twAvailability": 3.2
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "IFA 2026 smart home: the verified announcements so far",
+          "url": "https://matterhome.io/news/ifa-2026-smart-home-announcements-so-far",
+          "source": "Matterhome"
+        },
+        {
+          "title": "2026.9: There's room on this bus",
+          "url": "https://www.home-assistant.io/blog/2026/09/02/release-20269/",
+          "source": "Home Assistant"
+        },
+        {
+          "title": "Aqara announce new smart lighting and more at IFA 2026",
+          "url": "https://www.applehomeauthority.com/aqara-announce-new-smart-lighting-and-more-at-ifa-2026/",
+          "source": "AppleHome Authority"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Home Assistant Green keeps first place at 9.1 and the whole ranking carries forward. With IFA wrapped, I went through Matterhome's verified roundup of the show's smart home news, and the hub story it tells is the clearest argument yet for buying a hub whose job is fully documented.\n\nAnker introduced a local AI hub meant to coordinate close to 100 of its own products plus third party devices, and it says the hub works with hundreds of Matter products alongside Apple Home, Alexa, Google Home and Home Assistant. It is due later in 2026 with pricing still to come. Matterhome points out that Anker has yet to say whether it acts as a Matter controller, a bridge or a Thread border router. Those three roles decide what a hub can actually run for you, so I will wait for that spec sheet before it gets a score.\n\nShelly announced a planned free firmware update, roughly three months out, that lets eligible Gen4 devices move from Wi-Fi to Thread while keeping local API access. Remote access will still need a Thread border router in the house. Aqara also previewed its Edge Hub M300 before the show days.\n\nEvery one of those announcements points back to the same need: a hub that runs automations locally and shows you your Thread network. Home Assistant Green does both today, and the 2026.9 Matter map added this month makes border router problems visible on one screen. That is why it stays first.\n\nHubitat Elevation C-8 Pro holds second at 8.8 for local Zigbee and Z-Wave automation with less tinkering. Homey Pro (2026) stays third at 8.4, and the Aqara Hub M3 keeps fourth at 7.9 as the value Thread and Matter hub that Taiwan buyers can find locally.\n\nMy advice: buy the hub for the roles it performs today, and treat any AI hub with an undefined Matter role as a product to revisit after reviews.",
+          "highlights": [
+            {
+              "title": "IFA hubs need clearer specs",
+              "body": "Anker's new local AI hub claims work with hundreds of Matter products, but its role as controller, bridge or border router is still undocumented, so it stays unranked for now."
+            },
+            {
+              "title": "Shelly Gen4 heads to Thread",
+              "body": "A free update due in about three months lets eligible Shelly Gen4 devices switch to Thread with local API access intact. Plan for a Thread border router before it lands."
+            },
+            {
+              "title": "Home Assistant Green holds first",
+              "body": "Local automations plus the new 2026.9 Matter map keep it at 9.1. It already does the jobs the IFA hubs are still promising."
+            },
+            {
+              "title": "Aqara Hub M3 for Taiwan homes",
+              "body": "At 7.9 it remains the most practical Thread and Matter hub you can buy from local Taiwan retailers, and it pairs directly with Aqara sensors."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Home Assistant Green 繼續以 9.1 分坐穩第一，整份排名照舊。IFA 結束後我把 Matterhome 整理的展會智慧家庭消息從頭看過一遍，老實說，這次最大的心得就是：買中控，一定要買角色寫得清清楚楚的那台。\n\nAnker 發表一台本地 AI 中控，號稱能串接將近 100 款自家產品和第三方裝置，也說支援數百款 Matter 產品，可以搭配 Apple Home、Alexa、Google Home 和 Home Assistant。問題是它預計 2026 年稍晚才上市，價格也還沒公布，Matterhome 還特別點出 Anker 沒講清楚它到底算 Matter 控制器、橋接器，還是 Thread 邊界路由器。講白了，這三種角色決定它能幫你跑什麼，規格表出來之前我先不打分。\n\nShelly 則預告大約三個月後推免費韌體，讓符合條件的 Gen4 裝置從 Wi-Fi 改走 Thread，本地 API 照樣能用，但遠端控制還是要家裡有 Thread 邊界路由器。\n\n你想想看，這些新聞最後都指向同一件事：中控要能在本地跑自動化，還要讓你看得到 Thread 網路長什麼樣子。Home Assistant Green 現在兩件事都做得到，2026.9 版新增的 Matter 網路地圖更是讓斷線問題一眼看穿，所以它穩穩第一。\n\nHubitat C-8 Pro 以 8.8 分守住第二，Homey Pro (2026) 8.4 分第三。在台灣的話，Aqara Hub M3 以 7.9 分排第四，在台灣通路就找得到，搭 Aqara 感測器最省事。",
+          "highlights": [
+            {
+              "title": "IFA 新中控規格還沒講清楚",
+              "body": "Anker 本地 AI 中控號稱支援數百款 Matter 產品，但控制器、橋接器、邊界路由器哪種角色都沒寫明，我先放在觀察名單。"
+            },
+            {
+              "title": "Shelly Gen4 準備改走 Thread",
+              "body": "大約三個月後的免費更新會讓 Gen4 裝置切換到 Thread，本地 API 保留。想升級的人，家裡先準備一台 Thread 邊界路由器。"
+            },
+            {
+              "title": "Home Assistant Green 穩居第一",
+              "body": "本地自動化加上 2026.9 版 Matter 地圖，9.1 分實至名歸。IFA 那些新中控還在畫大餅的功能，它現在就做得到。"
+            },
+            {
+              "title": "台灣人首選 Aqara Hub M3",
+              "body": "7.9 分，Thread 和 Matter 都支援，在台灣通路就找得到，接上 Aqara 感測器馬上能用，租屋族裝起來最沒負擔。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

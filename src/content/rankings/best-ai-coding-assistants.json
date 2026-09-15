@@ -23473,6 +23473,233 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-15",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.7,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Coding Tools Pricing 2026: Copilot vs Claude Code vs Codex vs Cursor",
+          "url": "https://spectrumailab.com/blog/ai-coding-tools-pricing-compared-2026",
+          "source": "Spectrum AI Lab"
+        },
+        {
+          "title": "AI Coding Agents 2026: Claude Code vs Antigravity 2.0 vs Codex vs Cursor vs Kiro vs Copilot vs Windsurf",
+          "url": "https://lushbinary.com/blog/ai-coding-agents-comparison-cursor-windsurf-claude-copilot-kiro-2026/",
+          "source": "Lushbinary"
+        },
+        {
+          "title": "True AI-pocalypse as ChatGPT, Claude, and Grok all go down at once",
+          "url": "https://www.theregister.com/ai-and-ml/2026/09/03/chatgpt-claude-and-grok-all-had-outages-at-the-same-time/5294322",
+          "source": "The Register"
+        },
+        {
+          "title": "OpenAI Release Notes - September 2026 Latest Updates",
+          "url": "https://releasebot.io/updates/openai",
+          "source": "Releasebot"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code keeps first at 9.5. This week's most useful lesson for coding teams came from the September 3 outage, which reached the tools developers lean on hardest. OpenAI said a routing error made ChatGPT and Codex unavailable for some users for roughly half an hour, and Anthropic reported a partial infrastructure outage covering Claude Code and its developer API. A sprint that depends on one hosted agent stalls the moment that agent does.\n\nMy response is a written fallback plan. Keep a second agent configured on your main repository and practice switching to it before you need it. Aider at 7.7 is my favourite spare: it is open source, runs in any terminal, and connects to whichever model provider is up, including a local model on your own machine.\n\nClaude Code stays on top for long multi-file refactors where the test suite defines done. It plans the change, edits in careful steps, and runs the tests between them, and that discipline is why I trust it with the biggest jobs.\n\nOpenAI Codex holds 9.3 while I keep pushing the Agents API public beta through real repositories. Cursor at 9.1 remains the best editor for reviewing agent diffs. Cursor is now owned by SpaceX and has added Origin code hosting and longer-running cloud agents, two features I am testing before its score moves.\n\nPricing has settled into clear tiers. As of September 1, GitHub Copilot Pro is the cheapest paid entry at $10 a month, Claude Code, Codex, and Cursor start around $20, and daily agent work realistically costs $60 to $200. Copilot's CLI, generally available since February, bundles a cloud agent and a code review agent, which makes the $10 plan a strong starting point for students and hobbyists.\n\nGoogle Antigravity at 8.5 and Jules at 8.2 remain easy picks for teams already living in Google's tools. No rank changes this week.",
+          "highlights": [
+            {
+              "title": "The September 3 outage hit coding agents too",
+              "body": "Codex went down for some users for about half an hour and Claude Code saw a partial outage. Keep a second agent configured on your main repo."
+            },
+            {
+              "title": "Aider is the best spare agent",
+              "body": "Open source, terminal based, and able to use any provider or a local model, Aider at 7.7 keeps work moving when a hosted agent stops."
+            },
+            {
+              "title": "Cursor adds hosting under SpaceX",
+              "body": "Origin code hosting and longer-running cloud agents arrive in Cursor. It holds 9.1 while I test them."
+            },
+            {
+              "title": "Copilot Pro stays the $10 entry point",
+              "body": "With a cloud agent and code review agent in its CLI, Copilot Pro is the cheapest paid way to try agentic coding."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 維持 9.5 分第一。這週對寫程式的團隊最實用的一課，來自 9 月 3 日那場當機。OpenAI 說路由錯誤讓部分使用者大約半小時用不了 ChatGPT 和 Codex；Anthropic 也回報 Claude Code 和開發者 API 出現部分基礎設施故障。整個衝刺只靠一個雲端代理，它一停，大家就一起乾瞪眼。\n\n所以我現在會寫一份備援計畫：在主要專案上先設定好第二個代理，平常就練習切換。我最愛的備胎是 Aider，7.7 分，開源、任何終端機都能跑，哪家模型服務還活著就接哪家，連本機模型都能用。\n\nClaude Code 穩坐第一，靠的是跨很多檔案的大型重構。它先規劃、再一步一步改、中間跑測試。\n\nOpenAI Codex 9.3 分，Agents API 公開測試版我還在拿真實專案操它。Cursor 9.1 分，審查代理改動的編輯器體驗還是最好。Cursor 現在歸 SpaceX 所有，新加了 Origin 程式碼託管和跑更久的雲端代理，這兩個我測完才會調分。\n\n價格也分層分得很清楚了。9 月 1 日起，GitHub Copilot Pro 每月 10 美元，是最便宜的付費入口；Claude Code、Codex、Cursor 大約 20 美元起跳；天天重度用代理，實際花費會落在 60 到 200 美元。Copilot 的 CLI 二月正式推出，內建雲端代理和程式碼審查代理，學生想入門我直接推 10 美元方案。\n\nGoogle Antigravity 8.5 分、Jules 8.2 分，本來就住在 Google 工具裡的團隊選它們最順。這週排名不變。",
+          "highlights": [
+            {
+              "title": "9 月 3 日當機也打到寫程式代理",
+              "body": "Codex 部分使用者停擺約半小時，Claude Code 也有部分故障。主要專案記得先設定第二個代理。"
+            },
+            {
+              "title": "Aider 是最可靠的備胎",
+              "body": "開源、跑在終端機、任何模型服務或本機模型都能接，雲端代理停下來時工作照樣推進，7.7 分。"
+            },
+            {
+              "title": "Cursor 在 SpaceX 旗下加了託管",
+              "body": "Origin 程式碼託管和更長時間的雲端代理上線，我測完之前先維持 9.1 分。"
+            },
+            {
+              "title": "10 美元的 Copilot Pro 最好入門",
+              "body": "CLI 內建雲端代理和審查代理，想用最少的錢試試代理寫程式，就從它開始。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
