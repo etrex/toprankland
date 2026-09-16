@@ -17349,6 +17349,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-16",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.1,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Gaming GPU Prices 2026: RTX 5090 Tops $5,000",
+          "url": "https://tech-insider.org/gpu-prices-2026/",
+          "source": "Tech Insider"
+        },
+        {
+          "title": "SSD Prices Double as NAND Shortage Hits Gaming PCs",
+          "url": "https://tech-insider.org/ssd-prices-nand-shortage-2026/",
+          "source": "Tech Insider"
+        },
+        {
+          "title": "AI Model Releases: September 2026 Tracker and Dated Ledger",
+          "url": "https://www.digitalapplied.com/blog/ai-model-releases-september-2026-tracker",
+          "source": "Digital Applied"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Kling 3.0 holds first at 9.5. This week I want to answer the question every studio asks after reading its monthly render bill: should we buy GPUs and run video models ourselves?\n\nThe hardware market answers it for you. Tech Insider puts the US median price of an RTX 5090 at $4,699 in August, and DRAM contract prices stayed firm through the third quarter with NAND following. A workstation that runs a current open weight video model at useful resolution needs more than one of those cards plus a lot of fast storage, and NVMe pricing has roughly tripled in a year, with 2TB drives running $300 to $480. That is a five figure build before a single frame renders.\n\nSet it against hosted pricing. Kling 3.0 scores 9.8 on value for money, the highest in this ranking, with Seedance 2.0 at 9.6 and Hailuo 02 at 9.5 close behind. For the volume most teams actually produce, a few hundred clips a month, hosted generation costs less than the depreciation on that build.\n\nBuying hardware makes sense in one situation: the footage has to stay inside your network. Hunyuan Video 1.5 at 7.5 and Wan 2.6 at 7.3 are the open weight models to plan such a build around, and both carry value scores above 9.5 because the weights themselves are free.\n\nFor everyone else, put the money into the model that saves post-production time. Veo 3.1 at 9.4 leads native audio at 9.8 and returns clips that are ready to post. Runway Gen-4.5 at 9.2 holds character consistency at 9.7, which is what keeps a five shot sequence looking like one person.\n\nAnd a reminder for anyone still holding Sora jobs: that API closes on 24 September, so move them this week.",
+          "highlights": [
+            {
+              "title": "A local render box starts in five figures",
+              "body": "An RTX 5090 ran a US median of $4,699 in August and 2TB NVMe drives are $300 to $480. Building for open weight video means several cards plus fast storage before the first frame."
+            },
+            {
+              "title": "Kling 3.0 leads value at 9.8",
+              "body": "The highest value score in this ranking, with Seedance 2.0 at 9.6 and Hailuo 02 at 9.5 behind it. At a few hundred clips a month, hosted beats owning hardware."
+            },
+            {
+              "title": "Keep it local only when the footage must stay inside",
+              "body": "Hunyuan Video 1.5 and Wan 2.6 are the open weight models worth building around, both scoring above 9.5 on value because the weights cost nothing."
+            },
+            {
+              "title": "Spend on what saves post-production",
+              "body": "Veo 3.1 leads native audio at 9.8 and Runway Gen-4.5 holds character consistency at 9.7. Both cut hours out of the edit, which is where the real budget goes."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Kling 3.0 續居第一，9.5 分。這週我想回答每間工作室看完月結算圖帳單之後都會問的問題：要不要乾脆自己買顯卡，把影片模型架在自己家裡？\n\n硬體市場自己給了答案。Tech Insider 統計 8 月 RTX 5090 在美國的中位價是 4,699 美元，DRAM 合約價整個第三季都很硬，NAND 也跟著漲。要跑得動現在的開源權重影片模型又維持堪用解析度，一台工作站得插不只一張那種卡，再配一大堆高速儲存，而 NVMe 一年下來價格大概翻了三倍，2TB 現在要 300 到 480 美元。換算台幣，這台機器還沒算電費就已經三十幾萬起跳，一格畫面都還沒算圖。\n\n再看雲端這邊。Kling 3.0 性價比 9.8 是榜上最高，Seedance 2.0 9.6、Hailuo 02 9.5 緊跟在後。以多數團隊真正的產量來說，一個月幾百支短片，租雲端算圖的錢比那台機器的折舊還低。\n\n自己買硬體只有一種情況成立：素材絕對不能離開你的內部網路。Hunyuan Video 1.5 7.5 跟 Wan 2.6 7.3 是規劃這種機器時該鎖定的開源模型，兩個的性價比都在 9.5 以上，因為權重本身免費。\n\n其他人就把錢花在能省後製時間的模型上。Veo 3.1 9.4，原生音訊 9.8 全榜最高，出來的片段直接可以發。Runway Gen-4.5 9.2，角色一致性 9.7，五個鏡頭接起來還是同一個人。\n\n最後提醒：手上還有 Sora 任務的人，那個 API 在 9 月 24 日關閉，這週就搬。",
+          "highlights": [
+            {
+              "title": "自架算圖機開價就三十幾萬",
+              "body": "8 月 RTX 5090 美國中位價 4,699 美元，2TB NVMe 要 300 到 480 美元。要跑開源權重影片模型，好幾張卡加高速儲存跑不掉。"
+            },
+            {
+              "title": "Kling 3.0 性價比 9.8 領先",
+              "body": "榜上最高的性價比分，Seedance 2.0 9.6、Hailuo 02 9.5 在後面。一個月幾百支片的產量，租雲端比養硬體划算。"
+            },
+            {
+              "title": "素材不能外流才考慮自架",
+              "body": "Hunyuan Video 1.5 跟 Wan 2.6 是規劃內部機器時的選擇，性價比都在 9.5 以上，因為權重免費。"
+            },
+            {
+              "title": "錢花在省後製的地方",
+              "body": "Veo 3.1 原生音訊 9.8，Runway Gen-4.5 角色一致性 9.7。這兩個省下來的剪接工時，才是預算真正的去處。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

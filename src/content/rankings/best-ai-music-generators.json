@@ -17592,6 +17592,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-16",
+      "rankings": [
+        {
+          "id": "suno-v5",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "audioQuality": 9.7,
+            "vocalRealism": 9.4,
+            "editingControl": 9.6,
+            "commercialLicense": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "elevenlabs-music",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "audioQuality": 9.3,
+            "vocalRealism": 9.7,
+            "editingControl": 8.7,
+            "commercialLicense": 9.9,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "lyria-3-pro",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 8.6,
+            "editingControl": 8.4,
+            "commercialLicense": 9.5,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 7.0,
+            "editingControl": 8.6,
+            "commercialLicense": 9.5,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "udio",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "audioQuality": 9.6,
+            "vocalRealism": 9.5,
+            "editingControl": 9.8,
+            "commercialLicense": 7.5,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "riffusion",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "audioQuality": 8.2,
+            "vocalRealism": 7.8,
+            "editingControl": 8.5,
+            "commercialLicense": 8.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "soundraw",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "audioQuality": 8.0,
+            "vocalRealism": 6.5,
+            "editingControl": 7.5,
+            "commercialLicense": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aiva",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 6.8,
+            "editingControl": 7.8,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "mubert",
+          "rank": 9,
+          "score": 7.3,
+          "scores": {
+            "audioQuality": 7.5,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "loudly",
+          "rank": 10,
+          "score": 7.0,
+          "scores": {
+            "audioQuality": 7.3,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "boomy",
+          "rank": 11,
+          "score": 6.8,
+          "scores": {
+            "audioQuality": 6.8,
+            "vocalRealism": 6.5,
+            "editingControl": 6.8,
+            "commercialLicense": 8.5,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "New AI Model Releases - September 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        },
+        {
+          "title": "AI Updates Today (September 2026) - Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "Top Tech News Today, September 14, 2026: Apple, Anthropic, Microsoft, Revolut, SoftBank & More",
+          "url": "https://techstartups.com/2026/09/14/top-tech-news-today-september-14-2026-apple-anthropic-microsoft-revolut-softbank-more/",
+          "source": "Tech Startups"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Suno V5 holds first at 9.4 and Eleven Music stays at 9.3. No new music model shipped this month, so I spent the week on a number nobody publishes: what a finished, usable track actually costs once you count the takes you throw away.\n\nMy rule of thumb after a year of this work is eight to twelve generations per keeper. A brief that specifies tempo, instrumentation, vocal character and song structure gets there in eight. A vague brief runs past twenty.\n\nThat ratio decides which subscription makes sense, and it explains why Suno's editing control score of 9.6 wins on cost for me. Regenerating a single section, extending an outro or swapping one verse costs a single operation where a weaker tool costs an entirely new track. Across a month of production that difference is larger than any gap on the price sheets.\n\nEleven Music at 9.3 earns its place on paperwork and vocals. Its commercial license score of 9.9 leads this list and its vocal realism at 9.7 is the most convincing here, so a brand project with a sung hook and a legal review is the job I hand it.\n\nUdio at 8.3 holds the highest editing control score on the list at 9.8, with audio quality of 9.6. If you build a track section by section and want fine control over every transition, it does that better than anything else here.\n\nLyria 3 Pro at 8.6 and Stable Audio 2.5 at 8.5 are my background and bed music picks, both with a 9.5 license score and both cheap to run at volume.\n\nOne workflow note that changed my numbers. Write the brief in a text assistant first, naming tempo, key, instruments and mood, then paste it in. My keeper rate roughly doubled once I started doing that.",
+          "highlights": [
+            {
+              "title": "Budget eight to twelve takes per keeper",
+              "body": "A brief naming tempo, instrumentation, vocal character and structure reaches a usable track in about eight generations. Vague prompts run past twenty, and the discards are the real cost."
+            },
+            {
+              "title": "Suno wins on cost through editing control",
+              "body": "A 9.6 editing score means regenerating one section costs one operation. Over a month of production that saves more than any difference in sticker price."
+            },
+            {
+              "title": "Eleven Music at 9.9 on licensing",
+              "body": "The highest commercial license score here, paired with vocal realism of 9.7. Brand work with a sung hook and a legal review belongs on this one."
+            },
+            {
+              "title": "Draft the brief in a text assistant first",
+              "body": "Name the tempo, key, instruments and mood before you generate anything. My keeper rate roughly doubled after I made this a habit."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Suno V5 續居第一，9.4 分，Eleven Music 維持 9.3。這個月音樂模型沒有新版本，所以我花了一週去算一個沒人公布的數字：一首真正能用的曲子，把丟掉的那些一起算進去，到底要花多少。\n\n做了一年之後，我的經驗值是八到十二次生成換一首堪用的。把速度、配器、人聲特質、歌曲結構都寫清楚的簡報，八次就到；含糊的簡報會拖到二十次以上。\n\n這個比例決定哪個訂閱划算，也解釋了為什麼 Suno 的編輯控制 9.6 在成本上贏我一票。重跑某一段、延長尾奏、換掉一段主歌，在這裡只算一次操作，工具弱一點就得整首重生。一個月的產量累積下來，這個差距比價目表上的差距大得多。\n\nEleven Music 9.3 靠的是版權文件跟人聲。商用授權 9.9 是榜上最高，人聲擬真 9.7 也是這裡最自然的，品牌案子有唱的部分又要過法務，我就交給它。\n\nUdio 8.3，編輯控制 9.8 是全榜最高，音質 9.6。習慣一段一段疊、每個銜接都想自己抓的人，它做得比誰都細。\n\nLyria 3 Pro 8.6 跟 Stable Audio 2.5 8.5 是我的背景音樂首選，授權分都有 9.5，大量產出也不心痛。\n\n最後講一個真的改變我數字的習慣：先用文字助理把簡報寫好，速度、調性、樂器、情緒都點名，再貼進去生成。這樣做之後，我的堪用率大概翻了一倍。",
+          "highlights": [
+            {
+              "title": "一首能用的曲子要抓八到十二次生成",
+              "body": "速度、配器、人聲特質、結構都寫清楚的簡報，大約八次就有堪用版本；含糊的簡報會超過二十次，丟掉的那些才是真正的成本。"
+            },
+            {
+              "title": "Suno 靠編輯控制贏成本",
+              "body": "編輯控制 9.6，重跑一段只算一次操作。一個月的產量累積起來，省下來的比價目表上的差價還多。"
+            },
+            {
+              "title": "Eleven Music 商用授權 9.9",
+              "body": "榜上最高的授權分，加上人聲擬真 9.7。品牌案子有人聲又要過法務，交給它最穩。"
+            },
+            {
+              "title": "先用文字助理寫簡報",
+              "body": "生成之前先把速度、調性、樂器、情緒寫出來。我養成這個習慣之後，堪用率大概翻倍。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

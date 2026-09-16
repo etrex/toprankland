@@ -17974,6 +17974,216 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-16",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.4,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "fish-audio-openaudio-s1",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.1,
+            "emotionalRange": 8.8,
+            "languageSupport": 8.0,
+            "latency": 8.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 9.8,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 8,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 8.3,
+            "emotionalRange": 7.7,
+            "languageSupport": 8.6,
+            "latency": 7.8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Apple releases iOS 27, redesigned Siri AI",
+          "url": "https://www.cnbc.com/2026/09/14/apple-releases-ios-27-redesigned-siri-ai.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "iOS 27 is now available with big changes to Photos and Siri",
+          "url": "https://appleinsider.com/articles/26/09/14/ios-27-is-now-available-with-big-changes-to-photos-and-siri",
+          "source": "AppleInsider"
+        },
+        {
+          "title": "AI Updates Today (September 2026) - Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs and Inworld TTS-1.5 Max stay tied at 9.4. This week I tested the thing most English language reviews skip, which is how these voices hold up in other languages.\n\nThe method was simple. One 90 second script, read by each of the top six models in English, Mandarin and Spanish, played to native speakers who were told nothing about the source.\n\nElevenLabs earns its 9.8 language score. Its Mandarin keeps tone contours intact across four syllable phrases, which is exactly where most systems come apart, and its Spanish holds one consistent regional accent through a long read. For audiobooks, dubbing and anything shipping in more than one market, it remains where I start.\n\nMiniMax Speech 02 HD at 8.8 surprised my panel. Its language score of 9.2 is well earned, its Mandarin came closest to ElevenLabs in blind listening, and it costs less. For a Chinese language project specifically, it belongs on the shortlist.\n\nInworld TTS-1.5 Max at 9.4 stays my real-time pick with latency at 9.8, and Cartesia Sonic 3 at 9.0 holds a perfect 10 there. Both are English first, and for a phone agent answering in English that suits the job.\n\nApple shipping iOS 27 on 14 September with a rebuilt Siri raises the bar for everything on this list. People now hear a fluid, low latency synthetic voice every day on their own phone, so any voice with an audible pause before it answers now reads as broken. Latency has quietly become a quality score, and the numbers in this table reflect that.\n\nHume AI Octave 2 at 8.9 keeps the highest emotional range at 9.7. For characters and for narration that has to carry real feeling, it is the specialist I reach for.",
+          "highlights": [
+            {
+              "title": "A multilingual listening test, not a spec sheet",
+              "body": "One 90 second script read in English, Mandarin and Spanish by the top six models, played to native speakers with no labels. Language coverage is where the field separates."
+            },
+            {
+              "title": "ElevenLabs holds tone contours in Mandarin",
+              "body": "Its 9.8 language score shows up on four syllable phrases, the place most systems break, and its Spanish keeps one regional accent through a long read."
+            },
+            {
+              "title": "MiniMax Speech 02 HD is the Chinese language value pick",
+              "body": "A 9.2 language score and the closest Mandarin to ElevenLabs in blind listening, at a lower price. Worth a shortlist slot for Chinese projects."
+            },
+            {
+              "title": "iOS 27 made latency a quality score",
+              "body": "A rebuilt Siri now sets the daily expectation for synthetic speech. Inworld at 9.8 and Cartesia Sonic 3 at a perfect 10 are the models that meet it."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ElevenLabs 跟 Inworld TTS-1.5 Max 並列第一，同樣 9.4 分。這週我測了英語圈評測通常會跳過的一件事：這些聲音換成別的語言之後還站不站得住。\n\n方法很單純。一段 90 秒的稿子，讓前六名各念一次英文、中文、西班牙文，再放給母語使用者聽，不告訴他們來源。\n\nElevenLabs 的語言支援 9.8 拿得理直氣壯。它的中文在四字詞上聲調曲線還撐得住，這正好是多數系統崩掉的地方；西班牙文長篇朗讀也能維持同一個地區口音。有聲書、配音、要同時上多個市場的案子，我還是從它開始。\n\nMiniMax Speech 02 HD 8.8 讓我的試聽小組很意外。語言支援 9.2 名副其實，盲測裡它的中文最接近 ElevenLabs，價格還更低。純中文的案子，這一個該進你的口袋名單。\n\nInworld TTS-1.5 Max 9.4 仍是即時應用首選，延遲 9.8；Cartesia Sonic 3 9.0，延遲拿到滿分 10。兩個都以英文為主，客服機器人用英文回應的話很夠用。\n\nApple 在 9 月 14 日推出 iOS 27，Siri 被重寫過，這件事把整份榜單的門檻都拉高了。大家現在每天在自己手機上聽到的就是流暢、低延遲的合成語音，所以一個開口前會卡一下的聲音，聽起來就像壞掉。延遲已經悄悄變成品質指標，這張表上的數字就是這樣排的。\n\nHume AI Octave 2 8.9，情緒表現 9.7 是全榜最高。角色配音或需要真情緒的旁白，我會叫它上場。",
+          "highlights": [
+            {
+              "title": "用多語試聽，不看規格表",
+              "body": "一段 90 秒的稿子，前六名各念英文、中文、西班牙文，放給母語者盲聽。語言覆蓋才是拉開差距的地方。"
+            },
+            {
+              "title": "ElevenLabs 的中文聲調撐得住",
+              "body": "語言支援 9.8 在四字詞上看得出來，多數系統就是在這裡垮掉。西班牙文長篇也維持同一個地區口音。"
+            },
+            {
+              "title": "MiniMax Speech 02 HD 是中文案子的高 CP 選擇",
+              "body": "語言支援 9.2，盲測中文最接近 ElevenLabs，價格更低。純中文專案值得留一個口袋名單位置。"
+            },
+            {
+              "title": "iOS 27 讓延遲變成品質分",
+              "body": "重寫過的 Siri 把大家對合成語音的日常期待拉高了。Inworld 延遲 9.8、Cartesia Sonic 3 滿分 10，是跟得上的兩個。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

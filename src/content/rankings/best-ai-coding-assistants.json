@@ -23700,6 +23700,228 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-16",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.7,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Anthropic Fable 5.1, Mythos 5.1 Cut Cache Cost 75%",
+          "url": "https://tech-insider.org/anthropic-claude-fable-5-1-mythos-5-1-launch-2026/",
+          "source": "Tech Insider"
+        },
+        {
+          "title": "AI Model Releases: September 2026 Tracker and Dated Ledger",
+          "url": "https://www.digitalapplied.com/blog/ai-model-releases-september-2026-tracker",
+          "source": "Digital Applied"
+        },
+        {
+          "title": "New AI Model Releases - September 2026 Timeline",
+          "url": "https://llmgateway.io/timeline",
+          "source": "LLM Gateway"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code holds first at 9.5, and this week the story is the bill at the end of a long session.\n\nAnthropic shipped Claude Fable 5.1 and Mythos 5.1 on 1 September at the same headline rates, $10 per million input tokens and $50 per million output. The cache is what changed. Cache reads dropped from $1 to $0.25 per million, a 75 percent cut, and cache hits now bill at 0.025 times the base rate. Anthropic puts the effect at roughly 25 percent off a typical workload and up to 45 percent off an agentic one.\n\nAgentic coding is the workload that gains most, because an agent rereads the same repository map, the same file headers and the same instructions on every turn. A four hour refactor that reads a large cached context hundreds of times now costs a fraction of what it did in August. I raised Claude Code's value score to 9.2 for that reason, and it keeps first place overall at 9.5.\n\nThe practical move is structuring your prompts so the cache actually hits. Put the stable material first, your project instructions, your architecture notes, your style guide, and let the changing part of the conversation come last. A cache that breaks on every turn gives you none of this discount.\n\nOpenAI Codex holds 9.3 and stays the strongest option for teams already living inside the OpenAI stack, with agentic capability at 9.5. Cursor at 9.1 keeps the best editor experience in the category, scoring 9.6 on IDE integration, and it is what I hand a developer who wants an agent without leaving the editor.\n\nAider at 7.7 stays the cheapest serious path, with a value score of 9.5. It is open source, terminal native, and free to point at whichever model is cheapest this month, which makes it a useful companion to any of the hosted tools above.",
+          "highlights": [
+            {
+              "title": "Cache reads fell from $1 to $0.25 per million",
+              "body": "Anthropic's 1 September release cut cache read pricing 75 percent on Fable 5.1 and Mythos 5.1, with cache hits billed at 0.025 times base. Anthropic estimates up to 45 percent off agentic workloads."
+            },
+            {
+              "title": "Put stable context first so the cache hits",
+              "body": "Project instructions, architecture notes and style guides belong at the top of the prompt, with the moving parts last. A cache that breaks every turn earns you none of the new discount."
+            },
+            {
+              "title": "Claude Code's value score rises to 9.2",
+              "body": "Long agentic sessions are the workload that benefits most from cheaper cache reads, and long agentic sessions are exactly what Claude Code is built for. It keeps first at 9.5."
+            },
+            {
+              "title": "Aider tracks whichever model is cheapest",
+              "body": "At 7.7 overall with a 9.5 value score, the open source terminal agent lets you switch model providers in one config line. It is the spare I keep configured on every repository."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 續居第一，9.5 分。這週的重點是長時間工作之後那張帳單。\n\nAnthropic 在 9 月 1 日推出 Claude Fable 5.1 與 Mythos 5.1，檯面上的價格沒動，每百萬輸入 10 美元、輸出 50 美元。真正改變的是快取。快取讀取從每百萬 1 美元降到 0.25 美元，砍掉七成五，快取命中改用基礎費率的 0.025 倍計價。Anthropic 自己估算，一般工作量省下約兩成五，代理式工作量最多可以省到四成五。\n\n代理式寫程式受惠最大，因為代理每一輪都會重讀同一份專案結構、同樣的檔案標頭、同樣的指令。一次跑四小時的重構，反覆讀取同一份大快取上百次，現在的花費跟八月比只剩一小部分。我因此把 Claude Code 的性價比拉到 9.2，總分維持 9.5、續居第一。\n\n實務上要做的事，是讓你的提示真的吃到快取。把穩定的材料放前面，專案說明、架構筆記、風格指南，會變動的對話留到最後。每一輪都讓快取失效，這筆折扣你一毛都拿不到。\n\nOpenAI Codex 維持 9.3，已經在 OpenAI 生態裡的團隊選它最順，代理能力 9.5。Cursor 9.1 仍然是編輯器體驗最好的一個，IDE 整合 9.6，想在編輯器裡直接用代理的開發者，我會給他這個。\n\nAider 7.7、性價比 9.5，開源、跑在終端機、想接哪個模型就接哪個。租屋處自己接案的人，這一個最省錢。",
+          "highlights": [
+            {
+              "title": "快取讀取從 1 美元降到 0.25 美元",
+              "body": "Anthropic 9 月 1 日的更新讓 Fable 5.1 與 Mythos 5.1 的快取讀取價格砍掉七成五，快取命中以基礎費率 0.025 倍計價，代理式工作量最多省四成五。"
+            },
+            {
+              "title": "穩定的內容放前面，快取才會命中",
+              "body": "專案說明、架構筆記、風格指南放在提示最上面，會變的部分留到最後。每一輪都打斷快取，等於放棄這次的降價。"
+            },
+            {
+              "title": "Claude Code 性價比升到 9.2",
+              "body": "長時間的代理式任務最吃快取，也正好是 Claude Code 的主場。總分維持 9.5，第一名不變。"
+            },
+            {
+              "title": "Aider 跟著最便宜的模型跑",
+              "body": "總分 7.7、性價比 9.5，開源終端機代理，換供應商只要改一行設定。每個專案我都會順手留一份備用。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

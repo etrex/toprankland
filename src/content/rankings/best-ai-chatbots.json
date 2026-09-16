@@ -16904,6 +16904,202 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-16",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.7,
+          "scores": {
+            "reasoning": 9.8,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.7,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.5,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.8,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Apple releases iOS 27, redesigned Siri AI",
+          "url": "https://www.cnbc.com/2026/09/14/apple-releases-ios-27-redesigned-siri-ai.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "AI Updates Today (September 2026) - Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        },
+        {
+          "title": "iOS 27: Major features, compatible iPhones, updates, and more",
+          "url": "https://www.macworld.com/article/2986799/ios-27-new-iphone-features-release-date-beta-compatiblity-apple-intelligence-siri.html",
+          "source": "Macworld"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ChatGPT holds first at 9.7, and this week I want to separate two questions readers keep merging: which assistant you pay for, and which assistant answers when you hold the side button on your phone.\n\niOS 27 shipped on 14 September with Siri rebuilt as a standalone app, trained with Google Gemini models, and the deepest features gated to an A17 Pro chip or newer. After two days with it my read is that the new Siri works as a front door. It handles device control, on-screen context and quick lookups, and the long thinking still belongs to whichever assistant you chose. Your subscription decision survives the update intact.\n\nThat decision got better value in September. GPT-6 Astra arrived on 3 September and keeps ChatGPT ahead on reasoning at 9.8, which is why it stays my single recommendation for anyone who wants one tool covering work, study and everyday questions. Gemini holds 9.4, and its 3.8 Flash release on 2 September made the free tier quick enough that I now run it as a second opinion on every research task. Claude at 9.5 remains the one I trust with a 200 page contract, and its writing score of 9.7 is still the highest here.\n\nDeepSeek moves to 8.8 on reasoning after V4.1-Flash landed on 10 September. At 8.2 overall with a perfect value score, it is the assistant I point people to when the monthly fee is the blocker. Grok at 9.0 keeps the freshest feed for live events, and Perplexity at 8.6 stays my pick when I need answers with citations I can open myself.\n\nOne practical note for iPhone owners. Install the app of the assistant you pay for, turn on its own voice mode, and put it on your home screen next to Siri. Two front doors, each good at something specific, is the setup I run myself.",
+          "highlights": [
+            {
+              "title": "Siri is a front door, your subscription is the room",
+              "body": "iOS 27 landed on 14 September with Siri as its own app, trained with Google Gemini models. It handles device tasks and on-screen context well, and the assistant you pay for still does the heavy thinking."
+            },
+            {
+              "title": "GPT-6 Astra keeps ChatGPT at 9.8 on reasoning",
+              "body": "The 3 September release holds ChatGPT's lead in the factor that decides most hard questions. For one subscription covering work, study and daily use, this is still where I send people."
+            },
+            {
+              "title": "Gemini 3.8 Flash makes the free tier a real second opinion",
+              "body": "The 2 September release is fast enough that checking an answer against Gemini costs seconds. Gemini scores 9.5 on real-time information and 9.5 on value."
+            },
+            {
+              "title": "DeepSeek V4.1-Flash lifts reasoning to 8.8",
+              "body": "The 10 September release moves DeepSeek's reasoning score up a notch while the value score stays at a perfect 10. It is my answer for anyone who wants strong output with no monthly fee."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ChatGPT 續居第一，9.7 分。這週我想把兩件常被混在一起的事分開講：你每個月付錢訂閱的助理，跟你按住 iPhone 側邊鍵時跳出來的那一個，可以是兩個不同的東西。\n\niOS 27 在 9 月 14 日推送，Siri 被重寫成獨立的 App，背後用 Google Gemini 模型訓練，最深的功能要 A17 Pro 以上的晶片才開得起來。我用了兩天，感想是新 Siri 適合當一道門，處理裝置控制、螢幕上的內容、快速查詢都很順，真正要想很久的問題，還是交給你自己挑的那個助理。老實說，這次更新完全沒有動搖你原本的訂閱選擇。\n\n9 月的模型更新讓那筆訂閱更划算。GPT-6 Astra 在 9 月 3 日登場，推理項目 9.8 仍然是全榜最高，想用一套工具同時處理工作、報告跟生活問題的人，我還是推它。Gemini 維持 9.4，9 月 2 日的 3.8 Flash 讓免費版快到可以當第二意見，我現在每個查資料的任務都會順手丟一份給它對照。Claude 9.5，兩百頁的合約我只放心交給它，寫作 9.7 也是這份榜單最高分。\n\nDeepSeek 在 9 月 10 日的 V4.1-Flash 之後，推理拉到 8.8，總分 8.2，價值分滿分。說真的，月費是門檻的人，我都直接推這一個。\n\n給 iPhone 使用者一個很實際的建議：把你付費的那個助理裝成 App，開啟它自己的語音模式，放在主畫面 Siri 旁邊。兩道門，各有各的拿手項目，我自己就是這樣用。",
+          "highlights": [
+            {
+              "title": "Siri 是門，訂閱才是房間",
+              "body": "iOS 27 在 9 月 14 日推送，Siri 變成獨立 App，用 Google Gemini 模型訓練。裝置控制跟螢幕內容它處理得很好，真正要想的問題還是交給你付費的那個助理。"
+            },
+            {
+              "title": "GPT-6 Astra 讓 ChatGPT 推理維持 9.8",
+              "body": "9 月 3 日的更新守住了決定難題成敗的那個項目。一份訂閱要同時撐住工作、學習跟日常，我還是推 ChatGPT。"
+            },
+            {
+              "title": "Gemini 3.8 Flash 讓免費版變成可用的第二意見",
+              "body": "9 月 2 日的版本快到幾秒就能對照一次答案。Gemini 即時資訊 9.5、價值 9.5，通勤路上用手機問兩句也很順。"
+            },
+            {
+              "title": "DeepSeek V4.1-Flash 把推理推到 8.8",
+              "body": "9 月 10 日的更新讓 DeepSeek 推理再上一階，價值分維持滿分 10。想要堪用輸出又完全不想付月費的人，這一個最合適。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
