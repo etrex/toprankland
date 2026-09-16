@@ -5826,3 +5826,149 @@ best-password-managers, best-standing-desks, best-wireless-chargers, best-ai-pro
 - 後續維護建議：十一月上旬回查 Amazon 與 Walmart 的雙人款價格（Prime Big Deal Days 後）；每次維護回查 CPSC 電熱寢具召回；best-infrared-sauna-blankets 依 9 月 14 日報告對十款候選逐一回查 CPSC。
 
 ---
+
+## 2026-09-15 研究報告
+
+### 新主題建議
+
+本輪維持每輪兩題。站上現有 132 檔榜單，9 月 14 日報告的 best-electric-blankets 已上線，best-earplugs-for-sleeping 尚未建置且優先序不變。本輪兩題在全站研究紀錄中出現 0 次（jump start 0 次，smart display 0 次），屬全新題目。兩題共用一條軸線，就是購買頁面上最大的那個數字或功能，決定權握在購買之後才出現的條件手上。電瓶救車電源的決定權在氣溫與電池存放年限，智慧螢幕的決定權在語音助理的訂閱方案與廠商的支援清單。
+
+1. **Best Car Jump Starters 2026（本輪第一優先，核心事實是這個品類包裝上最大的數字「peak amps」沒有任何產業標準定義，也沒有第三方機構核驗，而 Amazon 熱賣榜前十名的標示值從 1,000A 一路堆到 6,000A，售價反而更低。）**
+   - 建議 slug: `best-car-jump-starters`
+   - EN title: Best Car Jump Starters of 2026: NOCO, GOOLOO, AstroAI, Clore, Energizer and Fanttik Ranked by Cold-Weather Starting Performance, UL 2743 Certification You Can Verify, Real Battery Watt-Hours Against the Peak Amp Claim, and Shelf-Life Self-Discharge
+   - ZH-TW title: 2026 最佳電瓶救車電源排行榜：NOCO、GOOLOO、AstroAI、Clore、Energizer 與 Fanttik 依低溫啟動表現、可查證的 UL 2743 認證、實際電池瓦時對照峰值電流標示與長期存放自放電排序，附 Amazon 熱賣榜 1,000A 至 6,000A 標示值的查核說明推薦
+   - 目標關鍵字: best jump starter 2026, best portable jump starter for cold weather, noco gb40 vs gooloo, peak amps vs cranking amps, how many amps to jump start a car, ul 2743 certified jump starter, noco boost vs astroai, jump starter for v8 truck, jump starter with air compressor, how long does a jump starter hold a charge
+   - SEO 潛力: 我判斷這一題應該排在本輪第一，理由有四個。第一是品類需求量明確且集中在少數商品。asinsight 追蹤 Amazon「car jump start」搜尋結果的 128 個商品，2026 年 7 月前十名月銷量介於 6,000 至 40,000 件，第一名 NOCO Boost GB40（B015TKUPIC）月銷約 40,000 件、評論 12.76 萬則、售價 79.96 美元，NOCO 在前十名中佔 4 席（GB40、GB70、GBX45、GBX155），另有 GENIUS1 充電器以月銷 30,000 件排第二。一個品牌同時佔住前段，讀者搜尋時會先打品牌對比詞，noco vs gooloo 與 noco vs astroai 這一組長尾正是排行榜能接住的搜尋行為。第二是本站的獨佔欄位有明確依據。多家廠商自己的技術文章承認 peak amps 是毫秒級的瞬間電流，沒有產業機構認證或稽核，而引擎在低溫下啟動需要持續數秒的電流，電瓶業使用的 CCA 定義為華氏 0 度下持續 30 秒並維持 7.2V 以上，攜帶型救車電源幾乎都不標 CCA。熱賣榜的實際數據就是證據：GB40 標 1,000A 賣 79.96 美元，OXILAM 標 6,000A 賣 59.99 美元，S ZEVZO ET03 標 4,000A 賣 56.99 美元，GOOLOO A3 標 3,000A 賣 69.97 美元，標示值與售價呈反向。本站要把每一款的電池瓦時、官方適用排氣量與 UL 2743 認證狀態分欄列出，並把 peak amps 降為參考欄位。第三是安全事件讓認證欄成為讀者的第一個問題。CPSC 於 2025 年 11 月 14 日對 HALO Bolt ACDC 58830 發出停止使用警告，這款同時是行動電源與救車電源，對象為 2019 年 12 月以前製造的機型，已有起火、1 起燙傷與多起財產損失通報，進口商拒絕召回，CPSC 明確指出產品年限讓鋰電池更容易熱失控。Men's Journal 與 Yahoo Shopping 同步刊出「便宜救車電源會起火」的選購專文，把 UL 2743 列為首要檢查項。UL 2743 是北美攜帶型電源包的安全標準，Energizer ENJ1000 與 Fanttik 公開標示取得，而 NOCO 官網 GB40 商品頁（定價 99.95 美元）只列 1,000A、6.0L 汽油與 3.0L 柴油、IP65 與 20 次啟動，沒有列出任何認證字樣，建置時要逐款回查 UL Product iQ 或 Intertek 名錄，查不到的寫成「商品頁未列認證」，不推論為未認證。第四是季節時點。AAA 在去年冬季寒流期間單週有約 60% 的道路救援來電與電瓶有關，西維吉尼亞與俄亥俄一波寒流六天內累計 37,000 通、較平常冬季多 80%，極低溫可使電瓶輸出減半。本題在十月上旬上線可以吃到整個冬季，同時接住 Prime Big Deal Days 與黑色星期五這兩個救車電源的主要促銷檔期。站內可與 best-portable-power-stations、best-portable-chargers 雙向內鏈，也為待建的 best-car-batteries 預先建立汽車用品分類。
+   - 候選競品（10個，前五款型號取自 asinsight 7 月熱賣榜，後五款建置前逐款回官網確認型號與售價）: NOCO Boost GB40, NOCO Boost X GBX45, NOCO Boost GB70, GOOLOO A3, AstroAI S8, Clore Jump-N-Carry JNC660, Energizer ENJ1000, Fanttik Slim X8 Apex, DEWALT DXAEPS14, Schumacher SL1651
+
+2. **Best Smart Displays 2026（本輪第二題，核心事實是智慧螢幕的主要功能已經由生成式語音助理決定，而助理是否可用、要不要付月費，取決於品牌帳號方案與機型支援清單，現存榜單只比螢幕尺寸與音質。）**
+   - 建議 slug: `best-smart-displays`
+   - EN title: Best Smart Displays of 2026: Amazon Echo Show, Google Nest Hub and the Incoming Apple and Google Screens Ranked by Which AI Assistant Actually Runs on Them, the Monthly Subscription Each Feature Needs, Price After the August 2026 Hikes, and How Long the Maker Keeps Old Models Supported
+   - ZH-TW title: 2026 最佳智慧螢幕排行榜：Amazon Echo Show、Google Nest Hub 與即將推出的 Apple 與 Google 新螢幕依實際可用的 AI 助理、各項功能所需的月費方案、2026 年 8 月漲價後的售價與廠商對舊機型的支援年限排序，附 Alexa+ 每月 19.99 美元與 Google Home Premium 每月 10 至 20 美元的三年總成本試算推薦
+   - 目標關鍵字: best smart display 2026, echo show 11 vs echo show 8, echo show vs nest hub 2026, does alexa plus cost money, alexa+ compatible devices echo show, gemini for home nest hub, google home premium worth it, apple homepad release date, is google nest hub still worth buying 2026, best smart display for kitchen
+   - SEO 潛力: 我判斷這一題值得排進本輪，理由有四個。第一是三家平台在同一年換掉助理，舊文章全部過期。Amazon 在 2026 年 2 月開放 Alexa+ 給全美使用者，Prime 會員免費，非會員每月 19.99 美元，Amazon 官方稿記載提前體驗計畫有「數千萬」人加入。Google 以 Gemini for Home 取代 Google Assistant，並推出 Google Home Premium，標準方案每月 10 美元或年繳 100 美元，進階方案每月 20 美元或年繳 200 美元。Google Home 2026 年 7 月的版本說明記載 Gemini Live 開始推送到第一代 Nest Hub，而舊機型因為缺少裝置端運算能力，必須訂閱 Premium 才能使用。讀者搜尋 does alexa plus cost money 與 google home premium worth it 時，需要一張把硬體價格與訂閱費合併計算的表。第二是支援清單讓同一品牌的新舊機型分成兩級。Tom's Guide 彙整的清單顯示 Echo Show 8、10、15、21 優先取得完整 Alexa+，Echo Show 第一代與第二代被排除，Echo Show 5 只有語音版，Amazon 論壇上 Echo Show 5 第一代與 Echo Show 第二代使用者回報無法使用。本站獨佔欄位是每一款標記「完整助理、語音限定、不支援」三級，這一欄可以完全由官方支援頁查證。第三是價格在購買後的一個月內剛變動。Fortune 於 2026 年 8 月 21 日報導 Amazon 一夜之間調漲裝置售價，Echo Show 11 由 219.99 美元調為 249.99 美元，Amazon 表示記憶體與儲存元件成本大幅上升，已經「盡可能吸收」。同一波 Echo Dot 由 49.99 調為 79.99 美元。第四是新品檔期把搜尋量推高。AppleInsider 9 月 2 日引述 Bloomberg 報導，Apple 約 7 吋的智慧螢幕可能在 10 月推出，最晚延到 2027 年初，搭載 A17 Pro 與 N1 晶片、執行以 tvOS 為基礎的新系統；Google 在 5 月的 Google Home App 程式碼中出現「Google Home Display」，BGR 6 月 1 日的評測指出 Nest Hub 第二代上市五年仍賣 100 美元原價並建議等待新機。apple homepad release date 與 is google nest hub still worth buying 這兩組詞會在第四季持續出現，本題九月底上線可以在新品發表前先卡位，新品上市當天再加入候選。站內現有 best-smart-speakers 的候選全部是無螢幕音箱，best-smart-home-hubs 只收 Echo Hub 一款帶螢幕的中控，本題與兩者沒有重疊，可以三檔互相內鏈。
+   - 候選競品（8個，Apple 與 Google 新機上市後補入，建置前逐款回官網確認仍在售）: Amazon Echo Show 11 (2025), Amazon Echo Show 8 (2025), Amazon Echo Show 15, Amazon Echo Show 21, Amazon Echo Show 5 (3rd Gen), Google Nest Hub (2nd Gen), Google Nest Hub Max, Lenovo Smart Clock 2
+
+### 市場動態
+
+- Amazon 8 月 21 日的全線漲價讓站上四檔榜單的價格欄已經過期，這是本輪最需要立即處理的一項。Fortune 報導的新舊價格為 Kindle 16GB 109.99 調為 149.99 美元、Kindle Paperwhite 16GB 159.99 調為 199.99 美元、Fire TV Stick 4K Max 59.99 調為 84.99 美元、Fire TV Stick HD 34.99 調為 39.99 美元、Echo Dot 49.99 調為 79.99 美元、eero 7 349.99 調為 399.99 美元、eero Pro 7 699.99 調為 799.99 美元，Ring 未調價。本輪比對檔案內容，best-e-readers 的 Kindle Paperwhite (2025) 仍寫 $160，best-streaming-devices 的 Fire TV Stick 4K Max (2023) 仍寫 $59，best-smart-speakers 的 Echo Dot (5th Gen) 仍寫 $50，best-mesh-wifi-systems 的 eero Pro 7 寫 $549 (2-pack)，與 Fortune 的單位數量口徑不同，要回 Amazon 商品頁確認包裝數量後再改。四檔下次每日更新時要以 amazon.com 商品頁的現價覆核並改寫。
+- iPhone 18 Pro 的官方資訊本輪取得 Apple Newsroom 原始稿。Apple Newsroom「Apple debuts iPhone 18 Pro and iPhone 18 Pro Max」記載 9 月 12 日上午 5 點（太平洋時間）開放預購、9 月 18 日上市，首波開放預購的 65 個以上國家與地區包含美國、日本、南韓與新加坡，主相機為 48MP 可變光圈。定價 1,199 與 1,299 美元來自第三方回顧文，寫入 best-smartphones 前要回 apple.com 商品頁核對。同日另一篇官方稿標題列出 iPhone 18 Pro、Apple Watch 新系列與 AirPods 5，沒有提到摺疊機，9 月 14 日報告對 iPhone Duo 的處理原則維持不變，官方商品頁出現前不寫入 best-foldable-smartphones。
+- Pixel 11 系列已於 8 月 12 日發表，best-smartphones 的候選清單仍停在 Pixel 10 Pro 與 Pixel 10 Pro XL，要補上。Google 官方部落格有「Google introduces Pixel 11, Pixel 11 Pro and Pixel 11 Pro XL」發表稿，第三方彙整的美國定價為 Pixel 11 899 美元（256GB 起）、Pixel 11 Pro 1,099 美元、Pixel 11 Pro XL 1,299 美元、Pixel 11 Pro Fold 1,899 美元，8 月 20 日出貨，全系列取消 128GB。定價要以 store.google.com 為準。檔案內最新一筆 history 沒有提到 Pixel 11，下次維護時一併處理 Pixel 11 Pro Fold 是否進 best-foldable-smartphones。
+- Meta Connect 2026 已由 Meta 官方確認為 9 月 23 日至 24 日，地點 Menlo Park。Meta 已在 6 月推出不掛 Ray-Ban 或 Oakley 品牌的 Meta Glasses，299 美元起，best-smart-glasses 檔案已收錄。GCN 報導 Meta 可能在 Connect 發表第一款智慧手錶，這個來源可信度較低，發表會結束後再以 Meta 官方稿決定是否進 best-smart-watches。best-smart-glasses 與 best-vr-headsets 要在 9 月 25 日前後排一次更新。
+- Apple 與 Google 的智慧螢幕新品是本輪第二題的時程依據，也影響一檔既有榜單。AppleInsider 9 月 2 日報導 Apple TV 4K 與 HomePod mini 新款預計九月出貨，而 9 月 9 日發表會的兩篇 Newsroom 官方稿標題都沒有列出這兩款，出貨時程目前屬未證實。best-streaming-devices 的 Apple TV 4K 與 best-smart-speakers 的 HomePod mini 等 Apple 官方商品頁出現新款後再改寫並覆核售價。
+- CPSC 9 月 10 日的召回本輪完成與站上榜單的對照。Junkins 熱風梳因觸電風險召回，best-hair-dryers 候選清單內沒有 Junkins，無須修改；Prepared Hero 滅火噴罐因起火風險召回，站上沒有對應榜單。9 月 14 日報告記錄的 Clorox Puerto Rico、Ricky Joy 與 AGA Rangemaster 三件維持無交集的結論。
+- Amazon Prime Big Deal Days 的日期截至本輪仍沒有 Amazon 官方公告，第三方來源依 2025 年 10 月 7 日至 8 日的前例推估。2025 年 Amazon 在九月中旬公告日期，本週內可能出現官方稿，全站促銷價一律等公告後以 Amazon 新聞稿為準。
+
+### 資料來源
+
+- [asinsight: Best Selling Car Jump Start 2026](https://www.asinsight.com/report/US/car-jump-start)
+- [NOCO: Boost Plus GB40](https://no.co/gb40)
+- [CPSC: Warning on HALO Bolt ACDC 58830 Portable Chargers](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-HALO-Bolt-ACDC-58830-Portable-Chargers-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burns)
+- [PR Newswire: CPSC Posts Product Safety Warnings (2025-11-14)](https://www.prnewswire.com/news-releases/cpsc-posts-product-safety-warnings-to-its-web-site-302615919.html)
+- [Men's Journal: Cheap Jump Starters Can Catch Fire](https://www.mensjournal.com/gear/cheap-jump-starters-can-catch-fire-heres-how-to-buy-one-that-wont)
+- [Weego: The Truth About Cold Cranking and Cranking Amps](https://myweego.com/blogs/blog/cranking-amps)
+- [WOLFBOX: Why Peak Amps Lie](https://wolfbox.com/blogs/jump-starter/the-jump-starter-buying-trap-why-peak-amps-lie-and-what-to-measure-instead)
+- [Fanttik: Why UL 2743 Certification is Essential](https://fanttik.com/blogs/support/why-ul-2743-certification-essential-portable-jump-packs)
+- [AAA: Winter storm dead batteries expected to surge](https://newsroom.acg.aaa.com/aaa-warns-drivers-and-homeowners-to-prepare-for-winter-storm-dead-batteries-and-burst-pipes-expected-to-surge/)
+- [WTOV9: AAA sees surge in roadside assistance calls](https://wtov9.com/news/local/aaa-sees-surge-in-roadside-assistance-calls-after-snowstorm)
+- [Research and Markets: Jump Starter Market](https://www.researchandmarkets.com/report/jump-starter)
+- [About Amazon: Alexa+ available to everyone in the US](https://www.aboutamazon.com/news/devices/alexa-plus-available-free-prime-members-us)
+- [9to5Toys: Alexa+ access for everyone in the U.S.](https://9to5toys.com/2026/02/04/amazon-announces-alexa-access-everyone-us-free/)
+- [Tom's Guide: Alexa+ supported devices](https://www.tomsguide.com/home/smart-home/alexa-plus-supported-devices)
+- [Google Blog: Google Home Premium](https://blog.google/products-and-platforms/devices/google-nest/googe-home-premium-google-ai-pro-subscription/)
+- [Chrome Unboxed: Gemini Live on original Home Mini and Nest Hub](https://chromeunboxed.com/google-brings-gemini-live-to-the-original-home-mini-and-nest-hub/)
+- [Fortune: Amazon quietly hiked prices on Echo, Fire TV, Kindle, and eero](https://fortune.com/2026/08/21/exclusive-amazon-quietly-hiked-prices-echo-fire-tv-kindle-eero-significant-increases-memory-costs/)
+- [AppleInsider: Apple's smart home display could be coming soon](https://appleinsider.com/articles/26/09/02/apples-smart-home-display-could-be-coming-soon-sounds-amazing)
+- [9to5Google: Google Home Display appears](https://9to5google.com/2026/05/13/google-home-display-appearance/)
+- [BGR: Is the Google Nest Hub still worth buying in 2026](https://www.bgr.com/2179278/is-google-nest-hub-still-worth-buying-in-2026/)
+- [Apple Newsroom: Apple debuts iPhone 18 Pro and iPhone 18 Pro Max](https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/)
+- [Apple Newsroom: Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5](https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/)
+- [Google Blog: Google introduces Pixel 11, Pixel 11 Pro and Pixel 11 Pro XL](https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/)
+- [Big Apple Buddy: Pixel 11 price and specs](https://www.bigapplebuddy.com/blog/google-pixel-11-everything-we-know)
+- [Meta: Save the Date, Meta Connect 2026](https://www.meta.com/blog/connect-2026-save-the-date/)
+- [CNBC: Meta Glasses starting at $299](https://www.cnbc.com/2026/06/23/meta-glasses-are-new-smart-glasses-starting-at-299.html)
+- [GCN: Meta expected to reveal smartwatch at Connect 2026](https://gcn.com/meta-expected-smartwatch-connect-2026-september/21254/)
+- [Today: Amazon October Prime Day 2026](https://www.today.com/shop/amazon-october-prime-day-2026-rcna594558)
+- [Recall Directory: Product Recalls September 2026](https://recalldirectory.com/this-month/)
+
+## 2026-09-15 — best-car-jump-starters 上線
+
+- 依 2026-09-15 研究報告的第一優先題建置並上線 `best-car-jump-starters`，新增分類 Automotive（站上第一檔汽車用品榜，src 內無分類翻譯對照，直接使用英文字串），10 個競品，雙語完整，EN commentary 約 370 字、ZH commentary 約 1,000 字，兩邊各 5 個 highlights。可與 best-portable-power-stations、best-portable-chargers 內鏈。
+- 核心論點依研究報告：峰值電流降為參考，改以電池瓦時、官方適用排氣量、說明書工作溫度與可查證認證評分。asinsight 7 月熱賣榜數據（GB40 1,000A 79.96 美元、OXILAM 6,000A 59.99 美元、GOOLOO A3 3,000A 69.97 美元）寫入 commentary；Weego 的 CCA 定義（華氏 0 度、30 秒、7.2V）寫入；CPSC 2025-11-14 HALO Bolt ACDC 58830 警告寫入認證欄論述。
+- 名次：HULKMAN Alpha 85S（官方規格頁 74Wh、2,000A、8.5L／6.0L、工作溫度 -40°F 至 113°F、預熱，定價 299.99 美元、折扣碼折 100）第一；Fanttik T8 APEX（74Wh、2,000A、8.5L／6.0L、官網寫明符合 UL 2743、5°F 至 113°F、99.99 美元，標準版缺貨）第二；NOCO GB70（56Wh、8.0L／6.0L、40 次、199.95 美元）第三；NOCO GB40（24Wh、6.0L／3.0L、99.95 美元、說明書工作 -30 至 50°C／充電 0 至 40°C、TechGearLab 33°F 三連發 V6）第四；NOCO GBX45（31Wh、1,250A、6.5L／4.0L、124.95 美元）第五；飛樂 AH-12000SP（官網 NT$3,480、800A、汽油 5,000cc／柴油 3,500cc、BSMI R51275）第六；Clore JNC660（鉛酸、425 CA、18 磅、約 130 至 187 美元）第七；GOOLOO A3（3,000A、9.0L／6.5L、未公開瓦時、150 PSI、-4°F 至 140°F、89.99 美元特價）第八；麻新 SP-800+（600A、汽油 4,000cc／柴油 3,000cc、momo NT$2,850、R65062 取自 momo 商品頁，官網頁未列字號）第九；AstroAI S8（10,000mAh、1,500A、59.99 美元、官網缺貨）第十。
+- 認證欄紀律：NOCO 三款與 HULKMAN 商品頁未列任何安全標準，給 7.0，文中寫成「商品頁沒列」，未推論為未認證（Amazon 問答有網友稱 NOCO 無 UL 2743，屬非官方來源，未寫入）。Fanttik 為品牌自述 UL 2743 給 9.0；BSMI 字號公開者給 9.5。UL Product iQ 本輪未查。
+- 競品剔除：Energizer ENJ1000 規格齊全（7,200mAh、1,000A、Intertek 依 UL 2743 測試），但 Amazon B09LDD8FCM 頁面標題未出現 ENJ1000 型號、Walmart 對 curl 回 456、無官方商品頁，無法確認對應型號，本輪不收錄。DEWALT DXAEPS14 為 SLA 大型電源站、美國售價分歧（193 至 340 美元），未收錄。TechGearLab 的量測瓦時數字經 WebFetch 摘要取得、疑似有欄位錯置（GB40 與 AX65 同為 15.57Wh），未引用數值，只引用 GB40 33°F 實測敘述。
+- URL 驗證：no.co、us.gooloo.com、hulkman.com、fanttik.com、cloreautomotive.com、philo.com.tw、mashin.com.tw 商品頁皆 200 且假路徑 404。astroai.com 假路徑也回 200，已以 WebFetch 取得 S8 商品頁內容（59.99 美元、1,500A、10,000mAh）確認。cpsc.gov 與 mensjournal.com 回 403（沿用既有 403 視為有效規則）。24h.pchome.com.tw 回 429，未作為競品 URL。
+- zh-tw priceRange：美國品牌以匯率 31.5 換算並標「約」；飛樂、麻新為台灣官方／主流通路售價，直接寫 NT$。
+- 後續維護建議：Prime Big Deal Days 後回查 HULKMAN 折扣碼與 Fanttik 補貨；十一月寒流前補查 UL Product iQ 對 NOCO、HULKMAN、GOOLOO 的登錄；評估加入 NOCO GBX155、WOLFBOX MegaVolt24 與 Energizer（找到官方型號頁後）。
+
+---
+
+## 2026-09-16 研究報告
+
+### 新主題建議
+
+本輪維持每輪兩題。站上現有 133 檔榜單，待建佇列裡還有 9 月 15 日報告的 best-smart-displays 與 9 月 13 日報告的 best-earplugs-for-sleeping，兩題優先序不變。本輪兩題共用一條軸線，就是決定這筆錢花得值不值的條件寫在商品頁以外的文件裡。長壽補給的條件寫在 FDA 的成分名錄與第三方檢驗報告，打氣機的條件寫在說明書的連續運轉限制與工作溫度。這兩份文件都公開，讀者自己很少會去翻，排行榜把它翻出來就構成獨佔欄位。
+
+1. **Best NAD+ Supplements 2026（本輪第一優先，核心事實是 FDA 在 2025 年 9 月 29 日推翻了 2022 年的認定，確認 NMN 沒有被排除在膳食補給品定義之外，市面上 2023 至 2025 年寫成的選購文章全部停留在「NMN 已被禁售」的舊結論。）**
+   - 建議 slug: `best-nad-supplements`
+   - EN title: Best NAD+ Supplements of 2026: Tru Niagen, Elysium Basis, Wonderfeel, Thorne and Renue By Science Ranked by FDA Ingredient Status You Can Look Up, Third-Party Lab Content Against the Label Claim, Clinical Dose Per Day, and Monthly Cost at That Dose
+   - ZH-TW title: 2026 最佳 NAD+ 補給品排行榜：Tru Niagen、Elysium Basis、Wonderfeel、Thorne 與 Renue By Science 依可回查的 FDA 成分法規狀態、第三方實驗室實測含量對照標示、每日臨床劑量與該劑量下的每月花費排序，附 NMN 2022 年除名與 2025 年 9 月 29 日解禁的完整時序推薦
+   - 目標關鍵字: best nad supplement 2026, is nmn legal in the us 2026, nmn vs nr which is better, tru niagen vs elysium basis, nmn banned fda update, does nmn actually work, nad supplement third party tested, wonderfeel youngr review, how much nmn per day, nad+ supplement cost per month
+   - SEO 潛力: 我判斷這一題應該排在本輪第一，理由有四個。第一是這個題目在全站研究紀錄中已經被自己列為待建第一優先三次（第 517、4653、4689 行），市場數據每次都上修，卻始終沒有排進建置，本輪應該收掉。NAD 產品市場 2025 年 39 億美元、2035 年推估 147 億美元、複合成長率 14.2%，北美佔 43.5%；NMN 單品市場 2025 年 6.205 億美元、2034 年推估 28.473 億美元、複合成長率 18.4%，電商端年增超過 40%。美國膳食補給品市場 2025 年 687.4 億美元、年增 8.5%，長壽補給是其中客單價最高的一段，Tru Niagen 90 份裝 94 美元、30 份裝 116 美元，Wonderfeel Youngr 每月約 73 美元，單月花費是一般綜合維他命的五倍以上，讀者在下單前的查證動機因此特別強。
+   - SEO 潛力（續，獨佔欄位）: 第二是法規狀態這一欄可以做到每一格都能回查原始文件，這是站上所有補給榜都還沒有的欄位。NMN 的時序為：FDA 在 2022 年撤回 NMN 的 NDI 承認並認定其排除於膳食補給品定義之外，理由是該成分先被列為藥物研究；NPA 在 2024 年 8 月提告並提出修正版公民請願；FDA 在 2025 年 9 月 29 日認定 NMN 未被排除；2025 年 12 月 2 日 FDA 致函 SyncoZymes，恢復 2022 年 5 月對其 NDI 通報的承認，NPA 隨後自願撤告。NR 這一路線的文件更完整，ChromaDex 的 NR 氯化物在 2015 年提出 NDI 通報第 882 號，FDA 未提出異議，2016 年再取得 GRAS 通知 GRN 000635 的無異議函，允許在食品飲料中每份添加至 300 毫克。這兩組編號都能在 fda.gov 的 GRAS Notice Inventory 與 NDI 名錄查到，本站把每一款標成「NR 有 NDI 與 GRAS 編號」、「NMN 2025 年 9 月後恢復可售」、「成分未見於任一名錄」三級，讀者可以逐格驗證。
+   - SEO 潛力（續，含量落差）: 第三是標示含量的落差有同儕審查的數據撐著，這讓第三方檢驗欄從行銷話術變成可量化的評分項。GeroScience 2024 年第 46 卷第 5075 至 5083 頁刊出 Sandalova 等人的論文，測試 18 款 NMN 與 5 款 Urolithin A 補給品，NMN 實測含量落在標示值的 0% 至 104.5% 之間，3 款完全驗不出 NMN，只有 7 款落在標示值正負 10% 以內，與標示的差距介於負 100% 到正 11.2%。新加坡國立大學醫學院同步發布這項研究的新聞稿。另有 2026 年的產品彙整指出 55% 的 NAD+ 產品未達標示值。本站的作法是逐款查廠商是否公開由 Eurofins、ChromaDex 或 NSF 出具的 COA、檢驗批號是否對應到在售批號，公開且能對上批號者給高分，只寫「第三方檢驗」四個字而不提供報告者明確標為廠商自述。
+   - SEO 潛力（續，時機與內鏈）: 第四是每月花費的試算表能一次接住多組長尾詞。臨床劑量的共識落在 NMN 每日 500 毫克與 NR 每日 300 毫克，把每款的每日建議份數換算成達到該劑量的每月花費，同一張表就同時回答 how much nmn per day 與 nad+ supplement cost per month。站內可與 best-collagen-powder、best-creatine、best-magnesium-supplements、best-liver-supplements、best-nootropics 五檔雙向內鏈，受眾完全重疊。時機上 Prime Big Deal Days 落在 10 月 6 日至 7 日，補給品是該檔期折扣最深的品類之一，九月底上線可以在檔期前卡住比價需求。
+   - 候選競品（10個，建置前逐款回官網確認售價、每日份數與 COA 頁面）: Tru Niagen (300mg NR), Elysium Basis, Wonderfeel Youngr NMN, Thorne NiaCel 400, Renue By Science NMN, Jinfiniti Vitality Boost, PartiQlar Pure NMN, Pure Encapsulations NR Longevity, Double Wood NMN, Life Extension NAD+ Cell Regenerator
+
+2. **Best Portable Tire Inflators 2026（本輪第二題，核心事實是最大 PSI 標示與「能不能把一條扁掉的休旅車胎打回去」這件事無關，決定權在說明書裡的連續運轉限制、電池瓦時與工作溫度，而 Amazon 熱賣榜第一名賣 69.99 美元，第三名的同類型商品賣 19.94 美元。）**
+   - 建議 slug: `best-portable-tire-inflators`
+   - EN title: Best Portable Tire Inflators of 2026: Airmoto, AstroAI, Fanttik, DEWALT, VIAIR and Milwaukee Ranked by Continuous Run Time Printed in the Manual, Battery Watt-Hours, Stated Gauge Accuracy, Cold-Weather Operating Range, and Whether One Charge Finishes All Four Tires
+   - ZH-TW title: 2026 最佳車用打氣機排行榜：Airmoto、AstroAI、Fanttik、DEWALT、VIAIR 與 Milwaukee 依說明書載明的連續運轉時間、電池瓦時、標示表頭誤差、低溫工作範圍與單次充電能否打完四條胎排序，附熱賣榜 19.94 美元與 69.99 美元機種的規格對照推薦
+   - 目標關鍵字: best portable tire inflator 2026, airmoto vs astroai, tire inflator duty cycle, best cordless tire inflator for suv, how long does a portable tire inflator take, tire pressure light cold weather what to do, tire inflator gauge accuracy, best 12v tire inflator, portable air compressor for truck tires, tire inflator that fills all four tires
+   - SEO 潛力: 我判斷這一題排本輪第二，理由有四個。第一是品類規模明確大於上一檔汽車題。asinsight 追蹤「tire inflator」關鍵字搜尋結果的 685 個商品，2026 年 1 月第一名 Airmoto（B094DMH7ZM）月銷超過 10 萬件、售價 69.99 美元、4.3 星、24,898 則評論；AstroAI 同時佔住第三與第五名，L7（B0CS3B7MD8）19.94 美元月銷 3 萬件，另一款（B07QR4Q42L）31.99 美元累計 105,200 則評論；DEWALT（B07H39S9JQ）133.99 美元月銷 1 萬件。同一張榜單裡價格從 19.94 橫跨到 133.99 美元而評分全部落在 4.3 至 4.6 星，星等在這個品類完全喪失分辨力，讀者只能靠規格表判斷，這正是排行榜的位置。
+   - SEO 潛力（續，獨佔欄位）: 第二是本站的獨佔欄位就藏在說明書裡。攜帶型打氣機的最大 PSI 標示是空載瞬間壓力，決定實際使用體驗的是連續運轉限制（多數鋰電機種在 5 至 10 分鐘後熱保護停機）、電池瓦時（決定一次充電能打幾條胎）、工作溫度下限（冬天在車上過夜的機器是否還能啟動）與表頭誤差（是否標示，標示多少）。壓力表的精度有 ASME B40.100 這套標準，等級由 4A 到 D，以量程百分比定義誤差，消費級打氣機幾乎沒有一款宣告自己符合哪一級，這一欄只要如實填「說明書未標示誤差」就是讀者拿不到的資訊。電池續航的落差也有具體證據，Airmoto 的第三方實測續航約 30 至 40 分鐘，遇到卡車胎、露營車胎或大型充氣床墊會在完成前耗盡，這條要寫進適用範圍欄。
+   - SEO 潛力（續，季節）: 第三是季節時點精準。氣溫每下降華氏 10 度，胎壓約掉 1 PSI，整個冬季的溫差可讓胎壓掉到 10 PSI，而 FMVSS 138 規定 TPMS 必須在胎壓低於車輛標示值 25% 時於 20 分鐘內警示，於是每年第一波寒流會讓大量車主同時看到胎壓燈亮起。tire pressure light cold weather 這組詞的搜尋高峰落在十月底到十二月初，本題若在九月底至十月上旬上線，剛好在搜尋量拉升前完成索引，且完整吃到 Prime Big Deal Days（10 月 6 日至 7 日）與黑色星期五兩個檔期。
+   - SEO 潛力（續，站內結構）: 第四是站內結構。9 月 15 日上線的 best-car-jump-starters 建立了 Automotive 分類，目前只有一檔，第二檔進來才能讓分類頁成立並產生分類內鏈。兩題的受眾與購買時機高度重疊（車主在入冬前整理後車廂），且 Fanttik 與 AstroAI 兩個品牌同時出現在兩張榜上，可以直接互引。本題與 best-portable-power-stations、best-portable-chargers 也能以電池瓦時這一欄互相導流。
+   - 候選競品（10個，建置前逐款回官網確認型號、售價與說明書規格）: Airmoto (B094DMH7ZM), AstroAI L7, AstroAI 2-in-1 Digital Tire Inflator, Fanttik X8 Apex, DEWALT DCC020IB, VIAIR 88P, Milwaukee M12 Inflator 2475-20, Ryobi ONE+ P747, Xiaomi Portable Electric Air Compressor 2, Slime 40026
+
+### 市場動態
+
+- Amazon 已於本週公告 Prime Big Deal Days 的正式日期，9 月 15 日報告裡「等官方稿」的項目可以結案。aboutamazon.com 的官方稿載明活動為 10 月 6 日至 7 日，太平洋時間 10 月 6 日零時開跑、10 月 7 日 23 時 59 分結束，共 48 小時，涵蓋 35 個以上品類，每日三波（零時、上午 8 時、下午 1 時 PDT）上架新折扣。全站價格欄的排程依此訂：10 月 5 日前完成所有榜單的定價覆核，10 月 8 日至 9 日做一次檔期後的價格回查，把限時價與恢復後的定價分開處理。
+- Amazon 8 月 21 日漲價造成的四檔價格過期本輪實查仍未修正，這是目前最該優先處理的資料錯誤。四檔的 `i18n.en.priceRange` 現值為 best-e-readers 的 Kindle Paperwhite (2025) 寫 $160、best-streaming-devices 的 Fire TV Stick 4K Max (2023) 寫 $59、best-smart-speakers 的 Echo Dot (5th Gen) 寫 $50、best-mesh-wifi-systems 的 eero Pro 7 寫 $549 (2-pack)，四檔的 history 最新一筆都已是 2026-09-15，代表昨天的每日更新跑過檔案卻沒有動到價格欄。Fortune 報導的新價為 Kindle Paperwhite 16GB 199.99 美元、Fire TV Stick 4K Max 84.99 美元、Echo Dot 79.99 美元、eero Pro 7 799.99 美元，其中 eero 為單顆價，站上寫的是雙顆裝，要先回 amazon.com 商品頁確認包裝數量再換算。下一次每日更新請把這四格列為指定工作項，逐格以商品頁現價覆寫並在 history 寫明來源。
+- FDA 對 NMN 的認定反轉是本月補給品類最大的法規變動，影響範圍目前限於待建的 best-nad-supplements，站上 12 檔補給榜的候選清單中沒有任何一款以 NMN 為主成分，無須修改。這項變動的長期價值在於替補給類榜單建立一個新的共用欄位，就是成分的 FDA 名錄狀態（NDI 通報編號、GRAS 通知編號、或未見於名錄），best-glp-1-supplements、best-nootropics、best-colostrum-supplements 這三檔的成分爭議度最高，下一輪維護時可以評估補上這一欄。
+- CPSC 9 月上半月的召回本輪完成與站上 133 檔的對照，結論是無交集。本期規模最大的是兩件衣物收納櫃召回，FJTJBSI 六斗櫃約 9,000 件（中國製，Amazon 2024 年 11 月至 2026 年 7 月售出，約 170 美元）與 Gizoon Direct 六斗櫃 4,396 件（Amazon 2025 年 5 月至 2026 年 8 月，138 至 171 美元），兩件都以違反 STURDY Act 的強制安全標準為由；另有 SQT 的 Lontcs 忙碌板因拉鍊含鉛超過聯邦鉛漆上限召回、兒童家居服因違反睡衣可燃性標準召回、雙燃料爐具因瓦斯測試口缺蓋召回。站上沒有家具、童裝、玩具與爐具榜，best-ranges 仍停在待建清單，因此本期不需要任何檔案修改。CPSC 近 120 天累計 196 件召回，維持每輪對照的作法。
+- iPhone 18 Pro 與 iPhone 18 Pro Max 於 9 月 18 日正式上市，best-smartphones 要在上市當週完成改寫，定價以 apple.com 商品頁為準，不採用第三方回顧文的 1,199 與 1,299 美元。同一檔的 Pixel 11 系列候選缺口仍未補（檔案停在 Pixel 10 Pro 與 Pixel 10 Pro XL），定價以 store.google.com 為準。
+- Meta Connect 2026 在 9 月 23 日至 24 日於 Menlo Park 舉行，best-smart-glasses 與 best-vr-headsets 排在 9 月 25 日前後更新，發表內容一律以 Meta 官方稿為準，GCN 那則智慧手錶傳聞在官方稿出現前不寫入 best-smart-watches。
+- Apple 的智慧螢幕、新款 Apple TV 4K 與 HomePod mini 到本輪為止仍然只有 Bloomberg 與 AppleInsider 的報導，9 月 9 日發表會的兩篇 Newsroom 官方稿都沒有列出這三款，apple.com 上也沒有商品頁。best-smart-displays 建置時把 Apple 機種放在「已公開資訊但未開賣」的說明段落，不列入候選競品，等官方商品頁出現後再以正式規格補入。best-streaming-devices 的 Apple TV 4K 與 best-smart-speakers 的 HomePod mini 維持現狀。
+
+### 資料來源
+
+- [NPA: FDA Reinstates NMN As Dietary Supplement After NPA Lawsuit](https://www.npanational.org/news/fda-reinstates-nmn-as-dietary-supplement-after-npa-lawsuit/)
+- [Nutraceuticals World: FDA Confirms Status of NMN as a Supplement Ingredient](https://www.nutraceuticalsworld.com/breaking-news/fda-confirms-status-of-nmn-as-a-supplement-ingredient/)
+- [CIRS Group: US FDA Confirms NMN Lawful in Dietary Supplements](https://www.cirs-group.com/en/food/us-fda-confirms-nmn-lawful-in-dietary-supplements)
+- [dicentra: FDA Reverses NMN Ban, Opens NDI Pathway](https://dicentra.com/blog/fda/fda-reverses-position-on-nmn-a-new-pathway-for-dietary-supplments)
+- [FDA: Agency Response Letter GRAS Notice No. GRN 000635](https://www.fda.gov/food/gras-notice-inventory/agency-response-letter-gras-notice-no-grn-000635)
+- [HealthRX: NMN and NR Global Regulatory Status](https://healthrx.com/regulatory-nad-nmn/global-regulatory)
+- [NutraIngredients: Many NMN and Urolithin A supplements failing to match label claims](https://www.nutraingredients.com/Article/2024/08/23/Many-NMN-and-Urolithin-A-supplements-failing-to-match-label-claims/)
+- [NUS Medicine: Significant discrepancies between actual and labelled amount of anti-ageing ingredients](https://medicine.nus.edu.sg/news/significant-discrepancies-between-actual-and-labelled-amount-of-anti-ageing-ingredients-in-supplements-nus-medicine-study/)
+- [Longevity Today: Over Half of NMN and NR Supplements Fail Label Claims](https://longevitytoday.com/articles/over-half-of-nmn-and-nr-supplements-fail-label-claims-testing-reveals)
+- [Innerbody: Best NAD+ Supplements in 2026](https://www.innerbody.com/best-nad-supplement)
+- [Rolling Stone: The 10 Best NAD Supplements for 2026](https://www.rollingstone.com/product-recommendations/lifestyle/best-nad-supplements-1235415367/)
+- [Momentous: 5 Best NAD+ Supplements of 2026](https://www.livemomentous.com/blogs/all/best-nad-supplements)
+- [asinsight: Best Selling Tire Inflator 2026](https://www.asinsight.com/report/US/tire-inflator)
+- [GearJunkie: The Best Portable Tire Inflators of 2026](https://gearjunkie.com/motors/best-portable-tire-air-compressors)
+- [NHTSA: Tire Pressure Monitoring System FMVSS No. 138](https://www.nhtsa.gov/sites/nhtsa.gov/files/fmvss/tirepressure-fmvss-138.pdf)
+- [ASME: B40.100 Pressure Gauges and Gauge Attachments](https://www.asme.org/codes-standards/find-codes-standards/b40-100-pressure-gauges-gauge-attachments/2013)
+- [Les Schwab: TPMS Light Coming On in Cold Weather](https://www.lesschwab.com/article/car-maintenance/tpms-light-coming-on-in-cold-weather-heres-why.html)
+- [Consumer Health Digest: Airmoto Review](https://www.consumerhealthdigest.com/portable-products/airmoto-review.html)
+- [About Amazon: Prime Big Deal Days 2026 is set for October 6-7](https://www.aboutamazon.com/news/retail/amazon-prime-big-deals-day-2026-when-october-6-7)
+- [NBC Select: When is October Prime Day 2026](https://www.nbcnews.com/select/shopping/october-prime-day-dates-2026-rcna597737)
+- [Fortune: Amazon quietly hiked prices on Echo, Fire TV, Kindle, and eero](https://fortune.com/2026/08/21/exclusive-amazon-quietly-hiked-prices-echo-fire-tv-kindle-eero-significant-increases-memory-costs/)
+- [Home News Now: CPSC announces 3 clothing storage unit recalls in 1st half of September](https://homenewsnow.com/blog/2026/09/15/cpsc-announces-3-clothing-storage-unit-recalls-in-1st-half-of-september/)
+- [EveryRecall: Latest Product Recalls September 2026](https://everyrecall.org/latest-recalls/)
+- [Apple Newsroom: Apple debuts iPhone 18 Pro and iPhone 18 Pro Max](https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/)
+- [Meta: Save the Date, Meta Connect 2026](https://www.meta.com/blog/connect-2026-save-the-date/)
+- [AppleInsider: Apple's smart home display could be coming soon](https://appleinsider.com/articles/26/09/02/apples-smart-home-display-could-be-coming-soon-sounds-amazing)
+
+---
