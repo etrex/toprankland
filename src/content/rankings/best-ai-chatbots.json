@@ -17100,6 +17100,202 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-17",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.7,
+          "scores": {
+            "reasoning": 9.8,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.7,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.5,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "reasoning": 8.8,
+            "coding": 8.5,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "ChatGPT & Codex changelog",
+          "url": "https://learn.chatgpt.com/docs/changelog",
+          "source": "OpenAI ChatGPT Learn"
+        },
+        {
+          "title": "September 2026 AI Model Updates: Every Launch, Price Move, and Architecture Shift",
+          "url": "https://local-ai-zone.github.io/blog/September_2026_AI_Model_Updates.html",
+          "source": "Local AI Zone"
+        },
+        {
+          "title": "AI Model Releases: September 2026 Tracker and Dated Ledger",
+          "url": "https://www.digitalapplied.com/blog/ai-model-releases-september-2026-tracker",
+          "source": "Digital Applied"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ChatGPT holds first at 9.7, and the most useful item for ChatGPT subscribers this week sits in OpenAI's own changelog. On 14 September OpenAI announced that GPT-5.5 retires from ChatGPT, ChatGPT Work and Codex on 14 October, across every plan from consumer to Enterprise and Edu. The OpenAI API keeps it. Inside the apps, the replacement is GPT-5.6 Sol.\n\nFor most people this is a non-event, because the default model simply changes. The work is in everything that pinned a model by name. OpenAI's notice lists the places to check: workspace defaults, saved model settings, custom agents, scheduled tasks and scripts. If you set up a scheduled morning briefing or a custom agent over the summer, open it now and switch the model yourself. A task you test in September is a task that still runs on 15 October.\n\nI keep ChatGPT at 9.7 because this is exactly how a platform should retire a model: a month of notice, a named successor and a checklist. Its ecosystem score of 9.7 reflects that maturity as much as the feature list.\n\nClaude at 9.5 stays my pick for long writing and document work, with writing at 9.7 and coding at 9.7, both the best scores in this table. Gemini at 9.4 keeps reasoning at 9.7 and realtime at 9.5, and it is the assistant I use when the answer depends on something that happened this morning.\n\nMy practical advice applies to every assistant here. Keep one short document listing every automation you built on an AI chatbot, the model it uses and the date you last tested it. It takes ten minutes, and on retirement day it turns a surprise into a two minute fix.\n\nPerplexity at 8.6 and DeepSeek at 8.2 stay where they are, and the ranking carries forward unchanged.",
+          "highlights": [
+            {
+              "title": "GPT-5.5 leaves ChatGPT on 14 October",
+              "body": "OpenAI's changelog names GPT-5.6 Sol as the replacement in ChatGPT, ChatGPT Work and Codex. The API keeps GPT-5.5."
+            },
+            {
+              "title": "Check anything that pins a model",
+              "body": "Workspace defaults, custom agents, scheduled tasks and scripts that select GPT-5.5 need a manual switch before the date."
+            },
+            {
+              "title": "A clean retirement supports the 9.7",
+              "body": "A month of notice, a named successor and a checklist is how a mature platform handles change."
+            },
+            {
+              "title": "Keep an automation list",
+              "body": "Write down each automation, its model and its last test date. It turns retirement day into a quick fix."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ChatGPT 維持第一，9.7 分。這週對付費用戶最實用的消息，老實說藏在 OpenAI 自己的更新日誌裡。\n\n9 月 14 日 OpenAI 公告，GPT-5.5 將在 10 月 14 日從 ChatGPT、ChatGPT Work 與 Codex 退役，從個人方案一路到企業版和教育版全部適用，API 則繼續保留。App 裡接手的模型是 GPT-5.6 Sol。\n\n對大多數人來說這件事無感，預設模型會自動換掉。真正要花工夫的，是那些你當初手動指定模型名稱的地方。OpenAI 的公告列得很清楚：工作區預設值、儲存的模型設定、自訂代理、排程任務，還有腳本。如果你暑假設了一個每天早上幫你整理新聞的排程，或是做了一個自訂代理，現在就打開來自己切換模型。九月就測過的任務，到了 10 月 15 日才會照常跑。\n\n我讓 ChatGPT 繼續坐穩 9.7，原因就在這裡。提前一個月通知、講明接班模型、附上檢查清單，這就是成熟平台該有的做法，它生態系 9.7 分反映的也正是這種成熟度。\n\nClaude 9.5 分，還是我寫長文和處理文件的首選，寫作 9.7、程式 9.7，兩項都是全榜最高。Gemini 9.4 分，推理 9.7、即時資訊 9.5，早上通勤在捷運上想查今天剛發生的事，我會直接開它。\n\n最後給一個對所有聊天助理都適用的建議。開一份簡單的文件，列出你用 AI 做的每個自動化、它用哪個模型、上次測試是哪天。花十分鐘整理，模型退役那天就只是兩分鐘的小事。\n\nPerplexity 8.6 分、DeepSeek 8.2 分維持原位，今天整份排名照舊。",
+          "highlights": [
+            {
+              "title": "GPT-5.5 在 10 月 14 日退場",
+              "body": "OpenAI 更新日誌指定 GPT-5.6 Sol 接手 ChatGPT、ChatGPT Work 與 Codex，API 保留 GPT-5.5。"
+            },
+            {
+              "title": "有指定模型的設定要自己改",
+              "body": "工作區預設值、自訂代理、排程任務和腳本，只要寫死 GPT-5.5，都得在期限前手動切換。"
+            },
+            {
+              "title": "退役流程乾淨，撐得起 9.7",
+              "body": "提前一個月通知、講明接班模型、附檢查清單，成熟平台就該這樣處理。"
+            },
+            {
+              "title": "整理一份自動化清單",
+              "body": "記下每個自動化、使用的模型和最後測試日期，退役那天就能快速搞定。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

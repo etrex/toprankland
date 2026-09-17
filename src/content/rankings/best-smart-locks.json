@@ -7848,6 +7848,212 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-17",
+      "rankings": [
+        {
+          "id": "aqara-u400",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "security": 9.3,
+            "access": 9.7,
+            "smartHome": 9.7,
+            "value": 8.6,
+            "install": 8.8
+          }
+        },
+        {
+          "id": "schlage-encode-plus",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "security": 9.6,
+            "access": 8.6,
+            "smartHome": 9.0,
+            "value": 8.4,
+            "install": 9.0
+          }
+        },
+        {
+          "id": "yale-assure-lock-2-plus",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "security": 8.8,
+            "access": 8.8,
+            "smartHome": 9.1,
+            "value": 8.5,
+            "install": 8.9
+          }
+        },
+        {
+          "id": "ultraloq-bolt-mission",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "security": 8.6,
+            "access": 8.8,
+            "smartHome": 9.0,
+            "value": 8.5,
+            "install": 8.8
+          }
+        },
+        {
+          "id": "ultraloq-u-bolt-pro-wifi",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "security": 8.6,
+            "access": 9.2,
+            "smartHome": 8.2,
+            "value": 8.8,
+            "install": 8.6
+          }
+        },
+        {
+          "id": "switchbot-lock-ultra",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "security": 8.0,
+            "access": 9.0,
+            "smartHome": 8.4,
+            "value": 9.2,
+            "install": 9.4
+          }
+        },
+        {
+          "id": "eufy-smart-lock-e130",
+          "rank": 7,
+          "score": 8.4,
+          "scores": {
+            "security": 8.4,
+            "access": 8.6,
+            "smartHome": 8.2,
+            "value": 9.0,
+            "install": 8.4
+          }
+        },
+        {
+          "id": "level-lock-plus",
+          "rank": 8,
+          "score": 8.2,
+          "scores": {
+            "security": 8.2,
+            "access": 7.6,
+            "smartHome": 8.8,
+            "value": 7.6,
+            "install": 8.6
+          }
+        },
+        {
+          "id": "august-wifi-smart-lock-4th-gen",
+          "rank": 9,
+          "score": 8.1,
+          "scores": {
+            "security": 7.8,
+            "access": 7.8,
+            "smartHome": 8.6,
+            "value": 8.4,
+            "install": 9.2
+          }
+        },
+        {
+          "id": "wyze-lock-bolt",
+          "rank": 10,
+          "score": 7.9,
+          "scores": {
+            "security": 7.6,
+            "access": 8.4,
+            "smartHome": 7.2,
+            "value": 9.6,
+            "install": 8.4
+          }
+        },
+        {
+          "id": "lockly-vision-elite",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "security": 8.6,
+            "access": 8.8,
+            "smartHome": 7.4,
+            "value": 6.8,
+            "install": 7.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "EU Cyber Resilience Act Goes Live: Manufacturers Now Face 24-Hour Deadline to Report Exploited Flaws",
+          "url": "https://www.techtimes.com/articles/327299/20260911/eu-cyber-resilience-act-goes-live-manufacturers-now-face-24-hour-deadline-report-exploited-flaws.htm",
+          "source": "Tech Times"
+        },
+        {
+          "title": "Get Ready: Reporting FAQs and Checklist as the EU's Cyber Resilience Act Comes Into Force",
+          "url": "https://www.skadden.com/insights/publications/2026/09/get-ready-reporting-faqs-and-checklist",
+          "source": "Skadden"
+        },
+        {
+          "title": "Cyber Resilience Act: Reporting obligations",
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/cra-reporting",
+          "source": "European Commission"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The Aqara Smart Lock U400 keeps first at 9.5 and the ranking carries forward. The regulatory milestone that matters most for locks landed on 11 September, when the vulnerability reporting duties of the EU Cyber Resilience Act became enforceable.\n\nHere is what changed. Any manufacturer selling a connected product in the EU that learns of an actively exploited vulnerability must file an early warning within 24 hours, a fuller notification within 72 hours, and a final report within 14 days of a fix being available. Filings go through ENISA's Single Reporting Platform, and fines reach 15 million euros or 2.5 percent of global turnover. The part I find most important is scope. Tech Times and Skadden both note that the reporting duty covers products already on shelves, so the lock on your door today falls under it.\n\nFor a lock owner, that turns security response into a measurable, legally backed promise. A maker now has a clock running from the moment it learns a flaw is being used in the wild. The practical steps on my side are simple. Turn on automatic firmware updates in the lock app, keep the bridge or hub that relays those updates powered, and register the product so the maker can reach you.\n\nThis also strengthens the logic behind my top picks. The U400 and the Ultraloq Bolt Mission at fourth both carry Aliro certification, which runs through a formal security review, and the U400 pairs Apple Home Key and Samsung Wallet support with a fingerprint reader and a physical key backup. Schlage Encode Plus at 9.1 stays second for its sturdy deadbolt hardware, built in Wi-Fi and Apple Home Key.\n\nThe Matter 1.6 specification that shipped in June added Product Security 1.1, written to help makers align with the same law. Locks certified against it over the next year are the ones I expect to score highest on long term support.",
+          "highlights": [
+            {
+              "title": "CRA reporting went live 11 September",
+              "body": "Makers selling in the EU must warn authorities within 24 hours of learning a flaw is being actively exploited."
+            },
+            {
+              "title": "Existing locks are covered",
+              "body": "The reporting duty applies to products already on the market, including the lock on your door today."
+            },
+            {
+              "title": "Owner checklist",
+              "body": "Enable automatic firmware updates, keep the relay hub powered and register the lock with its maker."
+            },
+            {
+              "title": "U400 leads on certified security",
+              "body": "Aliro certification, Apple Home Key, Samsung Wallet support, a fingerprint reader and a key backup keep it first at 9.5."
+            },
+            {
+              "title": "Matter 1.6 security tier",
+              "body": "Product Security 1.1 aligns certified devices with the same EU law, a strong signal for long term support."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Aqara Smart Lock U400 以 9.5 分守住第一，排名照舊。對電子鎖來說，這個月最重要的法規里程碑發生在 9 月 11 日，歐盟《網路韌性法》（CRA）的漏洞通報義務正式上路。\n\n重點整理一下。凡是在歐盟賣連網產品的廠商，只要得知產品有漏洞正被實際利用，24 小時內就要發出早期警告，72 小時內提交完整通報，修補推出後 14 天內再交最終報告。通報統一走 ENISA 的單一通報平台，罰款最高 1,500 萬歐元或全球營收的 2.5%。我覺得最關鍵的是適用範圍，Tech Times 和 Skadden 都指出，已經在市面上販售的產品同樣要通報，你家門上現在裝的那把鎖也包含在內。\n\n對屋主來說，這代表廠商的資安應變從「看良心」變成有法律撐腰、有時鐘在跑的承諾。台灣雖然不在歐盟，但這些品牌都是全球同一套韌體，受惠的是所有使用者。我自己會做三件事：在鎖的 App 打開自動韌體更新；負責轉送更新的橋接器或中樞保持通電；產品登錄註冊，廠商才找得到你。\n\n這也讓我更有把握榜單前段的排法。U400 和第四名的 Ultraloq Bolt Mission 都通過 Aliro 認證，認證過程包含正式的資安審查。U400 同時支援 Apple Home Key 和 Samsung Wallet，有指紋辨識，還保留實體鑰匙備援，台灣常見的颱風停電情況下也不怕被鎖在門外。一把大約台幣八九千元，功能這麼完整很有說服力。Schlage Encode Plus 以 9.1 分排第二，鎖體紮實，內建 Wi-Fi，也支援 Apple Home Key。\n\n另外，六月推出的 Matter 1.6 加入了 Product Security 1.1，目的就是協助廠商對齊這部歐盟法規。未來一年通過這項認證的電子鎖，我預期在長期支援這一項會拿到最高分。",
+          "highlights": [
+            {
+              "title": "CRA 通報 9 月 11 日上路",
+              "body": "在歐盟販售的廠商得知漏洞被利用，24 小時內就要通報。"
+            },
+            {
+              "title": "現有產品也適用",
+              "body": "已經在市面上的產品同樣要通報，你家門上的鎖也算。"
+            },
+            {
+              "title": "屋主三件事",
+              "body": "打開自動韌體更新、橋接器保持通電、產品登錄註冊。"
+            },
+            {
+              "title": "U400 資安認證最完整",
+              "body": "Aliro 認證、Apple Home Key、Samsung Wallet、指紋加實體鑰匙備援，9.5 分穩居第一。"
+            },
+            {
+              "title": "Matter 1.6 資安新規格",
+              "body": "Product Security 1.1 對齊歐盟法規，是長期支援的好指標。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -16424,6 +16424,216 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-17",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 9.0,
+            "artisticQuality": 8.3,
+            "textRendering": 9.6,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.1,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "nano-banana-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "The EU AI Act's Transparency Rules: A Practical Guide to Article 50",
+          "url": "https://artificialintelligenceact.eu/transparency-rules-article-50/",
+          "source": "EU Artificial Intelligence Act"
+        },
+        {
+          "title": "Quick Facts: Transparency rules for AI systems",
+          "url": "https://digital-strategy.ec.europa.eu/en/factpages/quick-facts-transparency-rules-ai-systems",
+          "source": "European Commission"
+        },
+        {
+          "title": "AI Model Releases: September 2026 Tracker and Dated Ledger",
+          "url": "https://www.digitalapplied.com/blog/ai-model-releases-september-2026-tracker",
+          "source": "Digital Applied"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "GPT Image 2 holds first at 9.4, and this week I want to talk about the file that leaves the generator, because the rules around it changed this summer and plenty of freelancers still work as if they had not.\n\nThe transparency obligations in Article 50 of the EU AI Act have applied since 2 August 2026. Providers of generative systems must mark AI images in a machine-readable, detectable way, and anyone publishing a deepfake must disclose it. The European Commission's own summary covers audio, video, text and images alike.\n\nFor a buyer, that turns provenance into a working feature. If you deliver images to a client with European customers, the metadata inside the file is part of the deliverable, and a workflow that strips it on export creates a problem the client inherits.\n\nSo my workflow changed in two small ways. I archive the original download from every generator, untouched, next to the edited version. And I check that my export settings keep content credentials and metadata intact. Most editing apps offer that as a single checkbox.\n\nAdobe Firefly Image 4 at 8.2 deserves more credit on this point than its overall score suggests. It was built for commercial use from the start, and it attaches Content Credentials, which is the easiest story to tell a legal team. GPT Image 2 stays first on prompt accuracy of 9.8 and text rendering of 9.6, and Nano Banana Pro at 9.2 keeps text rendering at 9.5 for edits inside an existing picture.\n\nMidjourney V8.1 at 9.3 remains the artistic leader at 9.9. Flux 2 Pro at 9.2 holds photorealism at 9.9 with value at 9.5.\n\nMy rule for anyone selling images: when a picture shows a real looking person in a real looking situation, label it plainly in the caption. It costs one line and it keeps the work publishable anywhere.\n\nThe ranking carries forward unchanged.",
+          "highlights": [
+            {
+              "title": "Article 50 applies since 2 August",
+              "body": "AI images need machine-readable marking, and published deepfakes need disclosure under the EU AI Act."
+            },
+            {
+              "title": "Metadata is part of the deliverable",
+              "body": "Archive the original download and keep content credentials intact on export."
+            },
+            {
+              "title": "Firefly Image 4 is the easiest legal story",
+              "body": "Its commercial-first design and Content Credentials suit teams with a compliance review."
+            },
+            {
+              "title": "Label realistic people plainly",
+              "body": "One caption line keeps an image publishable in every market."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "GPT Image 2 維持第一，9.4 分。這週我想聊聊圖片生成出來之後那個檔案本身，因為今年夏天相關規定已經上路，很多接案的朋友工作流程還停留在以前。\n\n歐盟 AI 法第 50 條的透明度義務，從 2026 年 8 月 2 日起正式適用。生成式系統的提供者必須替 AI 圖片加上機器可讀、可偵測的標記，發布深偽內容的人也必須揭露。歐盟執委會自己的說明寫得很清楚，音訊、影片、文字、圖片通通包含在內。\n\n對使用者來說，這代表來源標記變成實際會用到的功能。你如果幫客戶做圖，而客戶的顧客在歐洲，檔案裡的後設資料就是交付內容的一部分。匯出時把它洗掉，麻煩最後會落到客戶頭上。\n\n所以我的流程改了兩個小地方。每張生成的原始檔一律原封不動存起來，跟修過的版本放在一起。匯出前確認設定有保留內容憑證和後設資料，大部分修圖軟體都是勾一個選項就好。\n\nAdobe Firefly Image 4 總分 8.2，但在這點上值得多給一些肯定。它一開始就是為商業用途設計，會附上 Content Credentials，拿去跟法務溝通最省事。GPT Image 2 靠提示準確度 9.8、文字渲染 9.6 穩住第一，Nano Banana Pro 9.2 分，文字渲染 9.5，改現有照片裡的局部很好用。\n\nMidjourney V8.1 9.3 分，藝術性 9.9 依然全榜最高。Flux 2 Pro 9.2 分，寫實度 9.9、性價比 9.5。\n\n給賣圖的朋友一個原則：畫面裡有看起來像真人、場景又像真實發生的圖，就在說明文字清楚標註。多寫一行字而已，作品放到哪個市場都能安心發布。\n\n今天排名照舊。",
+          "highlights": [
+            {
+              "title": "第 50 條 8 月 2 日起適用",
+              "body": "依歐盟 AI 法，AI 圖片要有機器可讀標記，發布深偽內容必須揭露。"
+            },
+            {
+              "title": "後設資料也是交付內容",
+              "body": "原始檔完整保存，匯出時保留內容憑證。"
+            },
+            {
+              "title": "Firefly Image 4 最好跟法務溝通",
+              "body": "商業用途優先的設計加上 Content Credentials，適合要過合規審查的團隊。"
+            },
+            {
+              "title": "像真人的圖就清楚標註",
+              "body": "說明文字多一行，作品在哪個市場都能發布。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

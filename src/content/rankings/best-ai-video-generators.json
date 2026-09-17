@@ -17547,6 +17547,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-17",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.1,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Video Generation News: 2026 Latest Models & Updates",
+          "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
+          "source": "WaveSpeed Blog"
+        },
+        {
+          "title": "Best Text-to-Video AI Generators September 2026: Top 10 Models Ranked",
+          "url": "https://www.buildmvpfast.com/articles/best-llms-2026-guide/video-generation-ai",
+          "source": "BuildMVPFast"
+        },
+        {
+          "title": "The EU AI Act's Transparency Rules: A Practical Guide to Article 50",
+          "url": "https://artificialintelligenceact.eu/transparency-rules-article-50/",
+          "source": "EU Artificial Intelligence Act"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Kling 3.0 holds first at 9.5. With the Sora API closing on 24 September now a week away, I want to talk about where the per-second price of video is heading, because that trend should shape your migration choice.\n\nWaveSpeed's tracking shows prices falling fastest at the budget tier, while flagship pricing holds steady. Google opened Veo 3.1 Lite through the Gemini API and AI Studio, the first time the Veo family has had an entry tier there, and third-party access to Kling 3.0 has pushed its per-second cost down further. For anyone producing mostly at 720p, those two changes move the numbers more than any model release this month.\n\nMy recommendation follows from that. Split your work into two lanes. Drafts, storyboards and social cutdowns go to a budget tier. Final shots that carry dialogue or a recognizable character go to a flagship model. In a typical project most generations are drafts, so the split cuts the bill sharply without touching the quality of what ships.\n\nKling 3.0 is the natural draft lane, with value for money at 9.8, the best score in this ranking, and motion realism at 9.4. Veo 3.1 at 9.4 is the natural final lane for anything with speech, leading audio video sync at 9.8. Runway Gen-4.5 at 9.2 holds character consistency at 9.7 for a sequence where one face has to stay the same person.\n\nOne more item belongs on the checklist. Article 50 of the EU AI Act has applied since 2 August, and a realistic clip of a person doing something they never did counts as a deepfake that must be disclosed when published. A short on-screen label or caption handles it.\n\nSeedance 2.0 at 9.2 keeps audio video sync at 9.5 and value at 9.6, and it earns a slot in either lane.\n\nThe ranking carries forward unchanged.",
+          "highlights": [
+            {
+              "title": "Budget-tier video prices are falling fastest",
+              "body": "Veo 3.1 Lite arrived in the Gemini API and third-party Kling access cut per-second costs."
+            },
+            {
+              "title": "Run two lanes",
+              "body": "Drafts go to a budget tier, dialogue and character shots go to a flagship model."
+            },
+            {
+              "title": "Kling for drafts, Veo 3.1 for finals",
+              "body": "Kling leads value at 9.8. Veo 3.1 leads audio video sync at 9.8."
+            },
+            {
+              "title": "Label realistic deepfakes",
+              "body": "Article 50 of the EU AI Act requires disclosure. A caption or on-screen label covers it."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Kling 3.0 維持第一，9.5 分。Sora API 9 月 24 日關閉，只剩一週，這週我想談影片每秒生成價格的走向，因為這個趨勢會直接影響你要搬去哪裡。\n\nWaveSpeed 的追蹤顯示，價格降最快的是入門等級，旗艦等級的價格則沒怎麼動。Google 透過 Gemini API 和 AI Studio 開放 Veo 3.1 Lite，這是 Veo 家族第一次在那裡有入門版，第三方平台上的 Kling 3.0 每秒成本也跟著再往下掉。主要產出 720p 的人，這兩個變化對成本的影響比這個月任何新模型都大。\n\n我的建議就從這裡來。把工作切成兩條線。草稿、分鏡、社群短版丟給入門等級。有對白或固定角色的正式鏡頭，再交給旗艦模型。一般案子裡大多數的生成都是草稿，這樣一分，帳單明顯變瘦，交出去的成品品質完全不受影響。\n\nKling 3.0 很適合當草稿線，性價比 9.8 全榜最高，動作真實度 9.4。Veo 3.1 9.4 分適合當正式線，只要有講話的鏡頭就交給它，音畫同步 9.8 領先全榜。Runway Gen-4.5 9.2 分，角色一致性 9.7，一段連續鏡頭要讓同一張臉從頭到尾都是同一個人，就找它。\n\n清單上還要再加一項。歐盟 AI 法第 50 條從 8 月 2 日起適用，逼真呈現某人做了他沒做過的事，這種片段就屬於深偽，發布時必須揭露。畫面上加個小標籤或在說明裡寫一行就能處理。\n\nSeedance 2.0 9.2 分，音畫同步 9.5、性價比 9.6，放在哪條線都很稱職。\n\n今天排名照舊。",
+          "highlights": [
+            {
+              "title": "入門等級影片價格降最快",
+              "body": "Veo 3.1 Lite 登上 Gemini API，第三方平台的 Kling 每秒成本也下降。"
+            },
+            {
+              "title": "工作切成兩條線",
+              "body": "草稿走入門等級，有對白和角色的正式鏡頭交給旗艦模型。"
+            },
+            {
+              "title": "草稿用 Kling，成品用 Veo 3.1",
+              "body": "Kling 性價比 9.8，Veo 3.1 音畫同步 9.8，各自領先。"
+            },
+            {
+              "title": "逼真的深偽要標註",
+              "body": "歐盟 AI 法第 50 條要求揭露，加個畫面標籤或說明文字就好。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

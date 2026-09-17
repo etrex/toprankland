@@ -15532,6 +15532,184 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-17",
+      "rankings": [
+        {
+          "id": "reolink-argus-4-pro",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "videoQuality": 9.5,
+            "nightVision": 9.3,
+            "aiDetection": 8.6,
+            "storageFlexibility": 9,
+            "batteryLife": 9,
+            "valueForMoney": 9.7
+          }
+        },
+        {
+          "id": "arlo-pro-5s",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "videoQuality": 9,
+            "nightVision": 8.9,
+            "aiDetection": 9.5,
+            "storageFlexibility": 7,
+            "batteryLife": 9.5,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "eufy-cam-s3-pro",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "videoQuality": 9.3,
+            "nightVision": 9.2,
+            "aiDetection": 8.9,
+            "storageFlexibility": 9,
+            "batteryLife": 9,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "eufy-solocam-s340",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "videoQuality": 8.6,
+            "nightVision": 8.3,
+            "aiDetection": 8.5,
+            "storageFlexibility": 9,
+            "batteryLife": 8.5,
+            "valueForMoney": 9
+          }
+        },
+        {
+          "id": "google-nest-cam-outdoor",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "videoQuality": 8.8,
+            "nightVision": 8.5,
+            "aiDetection": 8.8,
+            "storageFlexibility": 7.5,
+            "batteryLife": 9,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "aosu-solarcam-t2-ultra",
+          "rank": 6,
+          "score": 8.1,
+          "scores": {
+            "videoQuality": 9.5,
+            "nightVision": 9.5,
+            "aiDetection": 9,
+            "storageFlexibility": 9.5,
+            "batteryLife": 9,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "tp-link-tapo-c460",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "videoQuality": 8.5,
+            "nightVision": 8,
+            "aiDetection": 8.8,
+            "storageFlexibility": 8.5,
+            "batteryLife": 9.0,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "ring-spotlight-cam-pro",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "videoQuality": 7.5,
+            "nightVision": 7.5,
+            "aiDetection": 8.5,
+            "storageFlexibility": 6.5,
+            "batteryLife": 7.5,
+            "valueForMoney": 7
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "EU Cyber Resilience Act Goes Live: Manufacturers Now Face 24-Hour Deadline to Report Exploited Flaws",
+          "url": "https://www.techtimes.com/articles/327299/20260911/eu-cyber-resilience-act-goes-live-manufacturers-now-face-24-hour-deadline-report-exploited-flaws.htm",
+          "source": "Tech Times"
+        },
+        {
+          "title": "The EU Cyber Resilience Act's reporting clock starts now",
+          "url": "https://www.electronicspecifier.com/industries/security/the-eu-cyber-resilience-acts-reporting-clock-starts-now/",
+          "source": "Electronic Specifier"
+        },
+        {
+          "title": "Cyber Resilience Act: Reporting obligations",
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/cra-reporting",
+          "source": "European Commission"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The Reolink Argus 4 Pro keeps first at 9.3 and the ranking carries forward. On 11 September the EU Cyber Resilience Act's vulnerability reporting rules became enforceable, and security cameras are the product class that shows best why the law exists.\n\nTech Times points to the Aisuru botnet as the kind of damage the rules target. By 2025 it had grown to launch denial of service attacks above 29.7 terabits per second from an estimated 300,000 to 700,000 compromised consumer routers, video recorders and IP cameras. Under Article 14, a maker that learns a flaw in its camera is being actively exploited now has 24 hours to warn authorities through ENISA's Single Reporting Platform and 14 days after a fix to file a final report. The duty covers cameras already installed, and fines reach 15 million euros or 2.5 percent of global turnover.\n\nThat gives owners a clear reason to keep firmware current, and it gives me a sharper way to judge cameras. My setup routine after this week looks like this. Enable automatic updates, change the default admin password on any camera or recorder with a local login, and turn off remote port forwarding on the router, since app based remote viewing handles access safely. Then put cameras on a separate guest or IoT network if your router offers one.\n\nThe Argus 4 Pro fits that routine well. It records 4K across a 180 degree dual lens view with color night vision, stores footage on a microSD card or a Reolink Home Hub, runs on battery with solar top ups, and receives regular firmware releases through the Reolink app. Arlo Pro 5S at 8.8 remains the choice for anyone who wants polished cloud features and dual band Wi-Fi, and eufyCam S3 Pro at third stays my pick for a multi camera system with local storage on the HomeBase.\n\nI will watch how each brand publishes security advisories over the coming months and fold that into my software support scores.",
+          "highlights": [
+            {
+              "title": "CRA rules now enforceable",
+              "body": "From 11 September makers must warn EU authorities within 24 hours of an actively exploited camera flaw."
+            },
+            {
+              "title": "Why cameras are central",
+              "body": "The Aisuru botnet used an estimated 300,000 to 700,000 hijacked routers, recorders and IP cameras."
+            },
+            {
+              "title": "Owner hardening routine",
+              "body": "Auto update firmware, change default passwords, drop router port forwarding and use an IoT network."
+            },
+            {
+              "title": "Argus 4 Pro still leads",
+              "body": "4K dual lens 180 degree view, color night vision, local storage and solar power keep it first at 9.3."
+            },
+            {
+              "title": "Advisories join the scoring",
+              "body": "How brands publish security advisories will feed into software support scores going forward."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Reolink Argus 4 Pro 以 9.3 分守住第一，排名照舊。9 月 11 日歐盟《網路韌性法》的漏洞通報規定正式生效，要說哪一類產品最能說明這部法律存在的理由，監視攝影機絕對排第一。\n\nTech Times 拿 Aisuru 殭屍網路當例子。它到 2025 年已經能發動超過 29.7 Tbps 的阻斷服務攻擊，背後是大約 30 萬到 70 萬台被入侵的家用路由器、錄影主機和網路攝影機。依照第 14 條，廠商一旦得知攝影機漏洞正被實際利用，24 小時內就要透過 ENISA 單一通報平台發出警告，修補推出後 14 天內交最終報告。已經裝在大家屋簷下的攝影機一樣適用，罰款最高 1,500 萬歐元或全球營收的 2.5%。\n\n老實說，這給了使用者一個很明確的理由乖乖更新韌體，也讓我評分時多了一把尺。這週之後我的安裝流程是這樣：打開自動更新；有本機登入介面的攝影機或錄影主機，一定要改掉預設密碼；路由器上的遠端通訊埠轉發關掉，遠端看畫面交給官方 App 處理就好；路由器如果有訪客網路或 IoT 網路，就把攝影機放過去。台灣很多租屋族用房東的路由器，至少把攝影機密碼改掉，這一步最重要。\n\nArgus 4 Pro 很適合這套流程。4K 雙鏡頭 180 度視野，夜間有彩色畫面，影片存在 microSD 卡或 Reolink Home Hub，靠電池加太陽能板供電，韌體也透過 Reolink App 定期更新。一台大約台幣六千多元，免月費，颱風季停電也不怕斷電漏錄。Arlo Pro 5S 以 8.8 分排第二，雲端功能精緻，支援雙頻 Wi-Fi。第三名的 eufyCam S3 Pro 適合想裝多支攝影機、影片統一存在 HomeBase 的家庭。\n\n接下來幾個月，我會觀察各品牌怎麼發布資安公告，這也會納入軟體支援的評分。",
+          "highlights": [
+            {
+              "title": "CRA 規定已生效",
+              "body": "9 月 11 日起，攝影機漏洞被利用，廠商 24 小時內就要向歐盟通報。"
+            },
+            {
+              "title": "攝影機是重災區",
+              "body": "Aisuru 殭屍網路動用約 30 萬到 70 萬台被入侵的路由器、錄影主機和網路攝影機。"
+            },
+            {
+              "title": "使用者自保流程",
+              "body": "自動更新、改預設密碼、關掉通訊埠轉發、放進 IoT 網路。"
+            },
+            {
+              "title": "Argus 4 Pro 持續領先",
+              "body": "4K 雙鏡頭 180 度、彩色夜視、本機儲存加太陽能，9.3 分穩居第一。"
+            },
+            {
+              "title": "資安公告納入評分",
+              "body": "各品牌發布資安公告的方式，之後會反映在軟體支援分數。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
