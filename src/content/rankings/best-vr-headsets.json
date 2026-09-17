@@ -55,15 +55,15 @@
       "id": "steam-frame",
       "name": "Steam Frame",
       "brand": "Valve",
-      "url": "https://store.steampowered.com/sale/steamframe",
+      "url": "https://store.steampowered.com/hardware/steamframe",
       "i18n": {
         "en": {
           "description": "Valve's streaming-first SteamOS headset with dual 2160x2160 LCD panels at 72 to 144Hz, Snapdragon 8 Gen 3 with 16GB of RAM, eye-tracked foveated streaming, and a bundled 6GHz wireless adapter that keeps VR traffic on its own radio. FCC certified, stock has cleared US customs, price and date still unannounced.",
-          "priceRange": "$899–$1,199 (est.)"
+          "priceRange": "$1,059–$1,299"
         },
         "zh-tw": {
           "description": "Valve 的串流優先 SteamOS 頭戴裝置，雙眼 2160x2160 LCD、72 至 144Hz，Snapdragon 8 Gen 3 配 16GB RAM，眼動追蹤中央窩串流，還附一個 6GHz 無線傳輸器讓 VR 走自己的頻道。FCC 已過認證，貨也進了美國倉庫，價格跟日期還沒公布。",
-          "priceRange": "約 NT$29,000 起"
+          "priceRange": "約 NT$34,400 起"
         }
       }
     },
@@ -106,7 +106,7 @@
       "url": "https://www.picoxr.com/global/products/pico4-ultra",
       "i18n": {
         "en": {
-          "description": "ByteDance's standalone headset with Snapdragon XR2 Gen 2, 2160x2160 per eye, 8MP colour passthrough cameras, and a balanced rear-battery strap in the box. Sold across Europe and Asia rather than the US.",
+          "description": "ByteDance's standalone headset with Snapdragon XR2 Gen 2, 2160x2160 per eye, 8MP colour passthrough cameras, and a balanced rear-battery strap in the box. Sold across Europe and Asia, with no official US release.",
           "priceRange": "€549"
         },
         "zh-tw": {
@@ -176,6 +176,22 @@
         "zh-tw": {
           "description": "Apple 的空間運算裝置，2300 萬 micro-OLED 像素，M5 晶片，跑 visionOS。2026 年 6 月因為記憶體成本從 3,499 漲到 3,699 美元。畫面清晰度在這張表上遙遙領先，價格也是。",
           "priceRange": "約 NT$126,900"
+        }
+      }
+    },
+    {
+      "id": "samsung-galaxy-xr",
+      "name": "Galaxy XR",
+      "brand": "Samsung",
+      "url": "https://www.samsung.com/us/xr/galaxy-xr/galaxy-xr/",
+      "i18n": {
+        "en": {
+          "description": "The first Android XR headset, with 3552x3840 micro-OLED panels per eye, Snapdragon XR2+ Gen 2, 16GB of RAM, Gemini built in, and access to regular Android apps, powered by a tethered battery pack good for about two hours.",
+          "priceRange": "$1,799.99"
+        },
+        "zh-tw": {
+          "description": "第一台 Android XR 頭顯，單眼 3552x3840 Micro OLED 面板，Snapdragon XR2+ Gen 2 配 16GB 記憶體，內建 Gemini，一般 Android App 也能直接開，外接電池包大約撐兩小時，窩在沙發追劇剛好。",
+          "priceRange": "約 NT$58,500"
         }
       }
     }
@@ -4886,8 +4902,20 @@
           }
         },
         {
-          "id": "pimax-crystal-super",
+          "id": "samsung-galaxy-xr",
           "rank": 8,
+          "score": 6.9,
+          "scores": {
+            "value": 5.0,
+            "standalone": 8.6,
+            "pcvr": 5.8,
+            "comfort": 7.8,
+            "content": 7.0
+          }
+        },
+        {
+          "id": "pimax-crystal-super",
+          "rank": 9,
           "score": 6.8,
           "scores": {
             "value": 5.6,
@@ -4899,7 +4927,7 @@
         },
         {
           "id": "play-for-dream-mr",
-          "rank": 9,
+          "rank": 10,
           "score": 6.5,
           "scores": {
             "value": 5.4,
@@ -4911,7 +4939,7 @@
         },
         {
           "id": "apple-vision-pro-m5",
-          "rank": 10,
+          "rank": 11,
           "score": 5.8,
           "scores": {
             "value": 3.0,
@@ -4937,11 +4965,16 @@
           "title": "Meta Connect Event Set for September 23-24 Alongside New Glasses Tease",
           "url": "https://roadtovr.com/meta-connect-2026-date-announcement/",
           "source": "Road to VR"
+        },
+        {
+          "title": "Steam Frame Price: $1,059 and $1,299, Official Regional Pricing",
+          "url": "https://vr.org/steam-frame-price",
+          "source": "VR.org"
         }
       ],
       "i18n": {
         "en": {
-          "commentary": "Quest 3 stays first at 9.2 and Steam Frame holds second at 9.0. Steam Frame reservation signups closed this morning at 10:00 a.m. Pacific, so this update is about what happens next and how to read the result.\n\nValve is running a randomized lottery, so the time you signed up has no effect on your chances. Eligibility required a Steam purchase made before 27 April 2026, with one signup per household, which filters out new accounts created to game the draw. Purchase emails start going out tomorrow, 18 September. If one reaches you, you get a window to buy, and if not, you stay in the queue for later waves.\n\nWhat arrives in the box explains the 9.8 PC VR score. Steam Frame runs SteamOS on a Snapdragon 8 Gen 3 with 16GB of RAM, dual 2,160 by 2,160 LCD panels, eye tracking with foveated streaming, and a dedicated Wi-Fi 6E dongle for low latency streaming from your PC. Half-Life: Alyx comes with both storage tiers. One thing to plan for: there is no charger in the box, so put a good USB-C charger on your list.\n\nTech Times reports Valve originally aimed near $750, and memory costs driven by AI data center demand pushed that to $1,059. That context is why Steam Frame holds 7.0 on value, and I expect the score to stay there while memory prices stay firm.\n\nIf you did not get in, Quest 3 at 9.2 remains the most complete headset you can buy today, with content at 9.8 and standalone at 9.2. Quest 3S at 8.9 keeps value at 9.8.\n\nOne timing note. Meta Connect runs 23 to 24 September, next week. Glasses lead the teaser, and anything Quest related would shape holiday pricing, so a week of patience costs nothing.\n\nThe ranking carries forward unchanged.",
+          "commentary": "Quest 3 stays first at 9.2 and Steam Frame holds second at 9.0. Steam Frame reservation signups closed this morning at 10:00 a.m. Pacific, so this update is about what happens next and how to read the result.\n\nValve is running a randomized lottery, so the time you signed up has no effect on your chances. Eligibility required a Steam purchase made before 27 April 2026, with one signup per household, which filters out new accounts created to game the draw. Purchase emails start going out tomorrow, 18 September. If one reaches you, you get a window to buy, and if not, you stay in the queue for later waves.\n\nWhat arrives in the box explains the 9.8 PC VR score. Steam Frame runs SteamOS on a Snapdragon 8 Gen 3 with 16GB of RAM, dual 2,160 by 2,160 LCD panels, eye tracking with foveated streaming, and a dedicated Wi-Fi 6E dongle for low latency streaming from your PC. Half-Life: Alyx comes with both storage tiers. One thing to plan for: there is no charger in the box, so put a good USB-C charger on your list.\n\nTech Times reports Valve originally aimed near $750, and memory costs driven by AI data center demand pushed that to $1,059. That context is why Steam Frame holds 7.0 on value, and I expect the score to stay there while memory prices stay firm.\n\nIf you did not get in, Quest 3 at 9.2 remains the most complete headset you can buy today, with content at 9.8 and standalone at 9.2. Quest 3S at 8.9 keeps value at 9.8.\n\nOne timing note. Meta Connect runs 23 to 24 September, next week. Glasses lead the teaser, and anything Quest related would shape holiday pricing, so a week of patience costs nothing.\n\nMy competitor check added one headset. Samsung's Galaxy XR enters at eighth with 6.9. Its 3552x3840 micro-OLED panels are the sharpest here after Vision Pro, Android apps run on it directly, and at $1,799.99 it costs about half as much as Apple's headset. Value sits at 5.0 because that is still triple a Quest 3. Valve's store page now lists Steam Frame at $1,059 for 256GB and $1,299 for 1TB, and Steam Frame keeps second at 9.0.",
           "highlights": [
             {
               "title": "Reservations closed, the lottery decides",
@@ -4962,11 +4995,15 @@
             {
               "title": "Meta Connect is next week",
               "body": "A week of patience before buying a Quest costs nothing."
+            },
+            {
+              "title": "Galaxy XR joins at eighth",
+              "body": "Micro-OLED panels and Android apps for $1,799.99, half the price of Vision Pro."
             }
           ]
         },
         "zh-tw": {
-          "commentary": "Quest 3 維持第一 9.2 分，Steam Frame 第二 9.0 分。Steam Frame 預約登記已經在今天太平洋時間早上 10 點截止，台灣時間是凌晨一點，這篇來講接下來會發生什麼事，還有怎麼看結果。\n\nValve 採用隨機抽籤，什麼時候登記完全不影響中籤機率。登記資格是 2026 年 4 月 27 日前在 Steam 買過東西，每戶限登記一次，專門為了抽籤開的新帳號就被擋掉了。購買通知信明天 9 月 18 日開始寄出。收到信的人會有一段時間可以下單，沒收到就繼續排隊等下一波。\n\n盒子裡的東西，說明了它 PC VR 為什麼拿到 9.8 分。Steam Frame 跑 SteamOS，搭載 Snapdragon 8 Gen 3 和 16GB 記憶體，雙眼各一塊 2,160 乘 2,160 的 LCD 面板，有眼動追蹤和注視點串流，還附一支專用的 Wi-Fi 6E 接收器，從電腦串流延遲很低。兩種容量都送 Half-Life: Alyx。有一點要先準備：盒子裡沒有充電器，記得另外買一顆好的 USB-C 充電器。\n\nTech Times 報導 Valve 原本目標售價大約 750 美元，AI 資料中心搶記憶體，把價格推到 1,059 美元，折合台幣三萬四左右，已經是高階顯示卡的價位。這就是 Steam Frame 性價比只有 7.0 分的原因，記憶體價格沒鬆動之前，我預期這個分數會維持。\n\n沒抽到的話，Quest 3 9.2 分依然是現在買得到最完整的頭顯，內容 9.8、獨立運作 9.2。Quest 3S 8.9 分，性價比 9.8，想先試試看自己喜不喜歡 VR 的人選它。\n\n最後提醒時間點。Meta Connect 下週 9 月 23 到 24 日登場。預告主角是眼鏡，但只要有 Quest 相關消息，就會影響年底的價格。台灣這邊雙 11 和週年慶也快到了，多等一兩週完全不吃虧。\n\n今天排名照舊。",
+          "commentary": "Quest 3 維持第一 9.2 分，Steam Frame 第二 9.0 分。Steam Frame 預約登記已經在今天太平洋時間早上 10 點截止，台灣時間是凌晨一點，這篇來講接下來會發生什麼事，還有怎麼看結果。\n\nValve 採用隨機抽籤，什麼時候登記完全不影響中籤機率。登記資格是 2026 年 4 月 27 日前在 Steam 買過東西，每戶限登記一次，專門為了抽籤開的新帳號就被擋掉了。購買通知信明天 9 月 18 日開始寄出。收到信的人會有一段時間可以下單，沒收到就繼續排隊等下一波。\n\n盒子裡的東西，說明了它 PC VR 為什麼拿到 9.8 分。Steam Frame 跑 SteamOS，搭載 Snapdragon 8 Gen 3 和 16GB 記憶體，雙眼各一塊 2,160 乘 2,160 的 LCD 面板，有眼動追蹤和注視點串流，還附一支專用的 Wi-Fi 6E 接收器，從電腦串流延遲很低。兩種容量都送 Half-Life: Alyx。有一點要先準備：盒子裡沒有充電器，記得另外買一顆好的 USB-C 充電器。\n\nTech Times 報導 Valve 原本目標售價大約 750 美元，AI 資料中心搶記憶體，把價格推到 1,059 美元，折合台幣三萬四左右，已經是高階顯示卡的價位。這就是 Steam Frame 性價比只有 7.0 分的原因，記憶體價格沒鬆動之前，我預期這個分數會維持。\n\n沒抽到的話，Quest 3 9.2 分依然是現在買得到最完整的頭顯，內容 9.8、獨立運作 9.2。Quest 3S 8.9 分，性價比 9.8，想先試試看自己喜不喜歡 VR 的人選它。\n\n最後提醒時間點。Meta Connect 下週 9 月 23 到 24 日登場。預告主角是眼鏡，但只要有 Quest 相關消息，就會影響年底的價格。台灣這邊雙 11 和週年慶也快到了，多等一兩週完全不吃虧。\n\n今天查競品，新增一台。Samsung Galaxy XR 以 6.9 分排第八，單眼 3552x3840 的 Micro OLED 是這份榜上僅次於 Vision Pro 的清晰度，Android App 直接能開，售價 1,799.99 美元，大概是 Apple 頭顯的一半。性價比給 5.0，因為這價錢還是 Quest 3 的三倍。Valve 商店頁也公布 Steam Frame 256GB 1,059 美元、1TB 1,299 美元，Steam Frame 9.0 分維持第二。",
           "highlights": [
             {
               "title": "預約截止，交給抽籤",
@@ -4987,6 +5024,10 @@
             {
               "title": "Meta Connect 就在下週",
               "body": "買 Quest 前多等一兩週，碰上雙 11 更划算。"
+            },
+            {
+              "title": "Galaxy XR 第八名進榜",
+              "body": "Micro OLED 面板加 Android App 生態，1,799.99 美元，約 Vision Pro 半價。"
             }
           ]
         }
