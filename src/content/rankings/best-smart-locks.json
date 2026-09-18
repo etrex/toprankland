@@ -8054,6 +8054,212 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-18",
+      "rankings": [
+        {
+          "id": "aqara-u400",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "security": 9.3,
+            "access": 9.7,
+            "smartHome": 9.7,
+            "value": 8.6,
+            "install": 8.8
+          }
+        },
+        {
+          "id": "schlage-encode-plus",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "security": 9.6,
+            "access": 8.6,
+            "smartHome": 9.0,
+            "value": 8.4,
+            "install": 9.0
+          }
+        },
+        {
+          "id": "yale-assure-lock-2-plus",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "security": 8.8,
+            "access": 8.8,
+            "smartHome": 9.1,
+            "value": 8.5,
+            "install": 8.9
+          }
+        },
+        {
+          "id": "ultraloq-bolt-mission",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "security": 8.6,
+            "access": 8.8,
+            "smartHome": 9.0,
+            "value": 8.5,
+            "install": 8.8
+          }
+        },
+        {
+          "id": "ultraloq-u-bolt-pro-wifi",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "security": 8.6,
+            "access": 9.2,
+            "smartHome": 8.2,
+            "value": 8.8,
+            "install": 8.6
+          }
+        },
+        {
+          "id": "switchbot-lock-ultra",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "security": 8.0,
+            "access": 9.0,
+            "smartHome": 8.4,
+            "value": 9.2,
+            "install": 9.4
+          }
+        },
+        {
+          "id": "eufy-smart-lock-e130",
+          "rank": 7,
+          "score": 8.4,
+          "scores": {
+            "security": 8.4,
+            "access": 8.6,
+            "smartHome": 8.2,
+            "value": 9.0,
+            "install": 8.4
+          }
+        },
+        {
+          "id": "level-lock-plus",
+          "rank": 8,
+          "score": 8.2,
+          "scores": {
+            "security": 8.2,
+            "access": 7.6,
+            "smartHome": 8.8,
+            "value": 7.6,
+            "install": 8.6
+          }
+        },
+        {
+          "id": "august-wifi-smart-lock-4th-gen",
+          "rank": 9,
+          "score": 8.1,
+          "scores": {
+            "security": 7.8,
+            "access": 7.8,
+            "smartHome": 8.6,
+            "value": 8.4,
+            "install": 9.2
+          }
+        },
+        {
+          "id": "wyze-lock-bolt",
+          "rank": 10,
+          "score": 7.9,
+          "scores": {
+            "security": 7.6,
+            "access": 8.4,
+            "smartHome": 7.2,
+            "value": 9.6,
+            "install": 8.4
+          }
+        },
+        {
+          "id": "lockly-vision-elite",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "security": 8.6,
+            "access": 8.8,
+            "smartHome": 7.4,
+            "value": 6.8,
+            "install": 7.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "ID Tech Digest, September 17, 2026",
+          "url": "https://idtechwire.com/id-tech-digest-september-17-2026/",
+          "source": "ID Tech"
+        },
+        {
+          "title": "IFA 2026's standout tech: Reviewed's top picks from Berlin",
+          "url": "https://www.reviewed.com/features/ifa-2026-awards",
+          "source": "Reviewed"
+        },
+        {
+          "title": "October Prime Day 2026: Dates and Early Deals to Shop Now",
+          "url": "https://www.today.com/shop/october-prime-day-2026-dates-early-deals-rcna597774",
+          "source": "TODAY"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The Aqara Smart Lock U400 keeps first at 9.5 and the ranking carries forward. A security finding from the software world this week maps neatly onto front doors. ID Tech's 17 September digest reports Hush Security's scan of about 82,000 public AI tool configuration files: 12 percent of credential slots held exposed secrets, and 80 percent of those credentials carried no expiration date. The lesson is universal. Access that never expires eventually ends up with someone you no longer intend to trust.\n\nA smart lock is a credential store for your house. Every PIN, fingerprint, shared app user and phone key is a credential, and most households add them far faster than they remove them. The dog walker from spring, the contractor from the kitchen job, the cousin who stayed for a week in July, all of them may still open your door today.\n\nSo here is my September access audit, and the locks at the top of this list make it quick. On the U400, the Aqara Home app lists every passcode, fingerprint and shared user in one place, and temporary passcodes can be set to a time window or a single use. That combination of 9.7 access and 9.7 smart home scores is why it leads. The Schlage Encode Plus at rank 2 supports scheduled user codes, so a cleaner's code only works on cleaning day. Yale Assure Lock 2 Plus at rank 3 does the same through the Yale Access app, and its activity log shows which code opened the door and when.\n\nMy rule is simple. Every non family code gets an end date or a schedule when I create it. Once a season I open the activity log, delete any code that has not been used in 60 days, and remove shared users who have moved on. Fingerprints get the same review, since a stored fingerprint is a permanent credential until you delete it.\n\nIf you are shopping, Prime Big Deal Days on 6 and 7 October is the next price window for the whole top five.",
+          "highlights": [
+            {
+              "title": "Credentials without an end date",
+              "body": "Hush Security found 80 percent of exposed AI tool credentials never expire. Lock codes pile up the same way."
+            },
+            {
+              "title": "U400 makes the audit fast",
+              "body": "Every passcode, fingerprint and shared user in one list, plus time window and single use codes. 9.7 on access."
+            },
+            {
+              "title": "Scheduled codes on Encode Plus and Assure 2",
+              "body": "Schlage and Yale limit a code to specific days and log which code opened the door."
+            },
+            {
+              "title": "My rule: every guest code gets an end date",
+              "body": "Once a season, delete codes idle for 60 days and remove shared users who have moved on."
+            },
+            {
+              "title": "Next price window",
+              "body": "Prime Big Deal Days runs 6 and 7 October."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Aqara Smart Lock U400 維持第一，9.5 分，排名照舊。這週軟體圈有一則資安研究，剛好可以直接套用到家裡的大門。ID Tech 在 9 月 17 日的整理提到，Hush Security 掃描了大約 82,000 份公開的 AI 工具設定檔，其中 12% 的憑證欄位藏著外洩的密鑰，而這些憑證有 80% 完全沒有設定到期日。道理放諸四海皆準：永遠有效的權限，最後一定會落到你早就不打算信任的人手上。\n\n說穿了，電子鎖就是你家的憑證資料庫。每一組密碼、每一枚指紋、每一個共用 App 的帳號、每一支手機鑰匙，都是一份憑證，而且大部分家庭新增的速度遠快於刪除的速度。春天幫忙遛狗的朋友、裝潢時的師傅、七月來借住一週的表弟，他們今天可能都還開得了你家的門。\n\n所以我每年九月都會做一次權限盤點，榜上前幾名的電子鎖讓這件事變得很快。U400 的 Aqara Home App 把所有密碼、指紋和共用帳號列在同一頁，臨時密碼可以設定有效時段或只能用一次。存取 9.7 分、智慧家庭 9.7 分，這就是它坐穩第一的原因。排名第二的 Schlage Encode Plus 支援排程密碼，打掃阿姨的密碼只在打掃那天有效。排名第三的 Yale Assure Lock 2 Plus 透過 Yale Access App 也做得到，開門紀錄還會顯示哪一組密碼在什麼時間開了門。\n\n我的規則很簡單。家人以外的密碼，建立時就一定設到期日或排程。每一季打開一次開門紀錄，60 天沒用過的密碼直接刪，搬走或不再往來的共用帳號也移除。指紋一樣要檢查，存進去的指紋在你刪掉之前就是一把永久鑰匙。\n\n台灣很多人住公寓或租屋，房東、管理員、清潔人員都可能拿過密碼，換季時順手清一次特別值得。想入手的話，週年慶和雙 11 快到了，國際的 Prime Big Deal Days 也在 10 月 6 日到 7 日，一把上萬元的電子鎖等檔期出手會比較甜。",
+          "highlights": [
+            {
+              "title": "沒有到期日的憑證",
+              "body": "Hush Security 發現外洩的 AI 工具憑證 80% 永不過期，電子鎖密碼也是這樣越堆越多。"
+            },
+            {
+              "title": "U400 盤點最快",
+              "body": "密碼、指紋、共用帳號一頁看完，還有限時和一次性密碼，存取 9.7 分。"
+            },
+            {
+              "title": "Encode Plus 和 Assure 2 有排程密碼",
+              "body": "Schlage 和 Yale 可限定密碼的有效日，還會記錄是哪組密碼開門。"
+            },
+            {
+              "title": "訪客密碼一律設到期日",
+              "body": "每季刪掉 60 天沒用的密碼，移除不再往來的共用帳號。"
+            },
+            {
+              "title": "租屋族更要清",
+              "body": "房東、管理員、清潔人員都可能拿過密碼，換季時順手整理。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -16634,6 +16634,216 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-18",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "promptAccuracy": 9.8,
+            "photorealism": 9.0,
+            "artisticQuality": 8.3,
+            "textRendering": 9.6,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.1,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "nano-banana-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Image Models in 2026: How to Choose",
+          "url": "https://gradually.ai/en/ai-image-models/",
+          "source": "Gradually AI"
+        },
+        {
+          "title": "Best AI Image Generator 2026: GPT Image 2 vs 4 Rivals",
+          "url": "https://tech-insider.org/best-ai-image-generator-2026/",
+          "source": "Tech Insider"
+        },
+        {
+          "title": "AI Model Releases: September 2026 Tracker and Dated Ledger",
+          "url": "https://www.digitalapplied.com/blog/ai-model-releases-september-2026-tracker",
+          "source": "Digital Applied"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "GPT Image 2 holds first at 9.4 and the order carries forward. This week I want to help one specific group of readers: anyone who built a product or a design pipeline on Google's Imagen API.\n\nGradually AI's September model guide states that Google's Imagen models are deprecated with a shutdown scheduled for 17 August 2026, and it tells new Google workflows to plan around the Nano Banana family. That matters here because Google Imagen 4 sits at number 11 on this list, and a lot of automation built in 2025 still calls it by name. Before you assume your integration still works, check your provider's model list and your error logs from the past month.\n\nThe good news is that Google's replacement lineup is strong. Nano Banana Pro sits third on this list at 9.2 and handles complex compositions, legible text and multi-image references well. Nano Banana 2 supports 4K generation and suits workflows that generate and then edit in several rounds, and Nano Banana 2 Lite covers fast, cost-sensitive jobs. My migration advice is simple: move text-heavy and layout work to Nano Banana Pro, move bulk thumbnails and variations to the Lite tier, and rerun twenty of your own saved prompts before switching production traffic, because style and colour drift between model families.\n\nIf you are open to leaving Google entirely, GPT Image 2 remains my first recommendation. Tech Insider's September recheck of the text-to-image arena has it at number one with an Elo of 1,386, a position it has held since at least July. Its prompt adherence on product shots and signage is the most consistent I have tested. Midjourney V8.1, second at 9.3, now renders 2048 by 2048 by default, and it remains my pick for mood boards and editorial art.\n\nI am keeping Imagen 4's score as it stands today while I confirm the shutdown status with Google's own documentation.",
+          "highlights": [
+            {
+              "title": "Imagen users should check their pipeline",
+              "body": "A September model guide lists Google's Imagen models as deprecated with a scheduled 17 August 2026 shutdown and points new work to Nano Banana."
+            },
+            {
+              "title": "Nano Banana family covers the move",
+              "body": "Pro for text and complex layouts, Nano Banana 2 for 4K generate and edit loops, and the Lite tier for fast bulk jobs."
+            },
+            {
+              "title": "GPT Image 2 leads the arena",
+              "body": "It holds the top text-to-image arena spot with an Elo of 1,386 through September, which supports its 9.4."
+            },
+            {
+              "title": "Test before switching",
+              "body": "Rerun about twenty saved prompts on the new model first, because style and colour shift between model families."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "GPT Image 2 維持第一，9.4 分，排名照舊。這週我想幫一群特定的讀者：用 Google Imagen API 做產品或設計流程的人。\n\nGradually AI 的 9 月模型指南寫得很清楚，Google 的 Imagen 模型已經進入淘汰程序，原定 2026 年 8 月 17 日關閉，並建議新的 Google 工作流程改用 Nano Banana 系列。這件事跟我們的榜單直接相關，因為 Google Imagen 4 排在第 11 名，很多 2025 年做的自動化流程還是直接指名呼叫它。先別假設你的串接還能動，去翻一下服務商的模型清單和過去一個月的錯誤紀錄。\n\n好消息是 Google 的接班陣容很強。Nano Banana Pro 在榜上排第三，9.2 分，複雜構圖、清楚的文字和多張參考圖都處理得很好。Nano Banana 2 支援 4K 生成，適合生成完再來回修改好幾輪的流程，Nano Banana 2 Lite 則負責速度快、預算敏感的工作。我的搬家建議很單純：文字多、要排版的交給 Pro，大量縮圖和變體交給 Lite，正式切換之前，先拿自己存的二十組提示詞重跑一遍，因為不同模型家族之間的風格和色調一定會跑掉。\n\n如果你願意乾脆離開 Google，我第一推薦還是 GPT Image 2。Tech Insider 9 月重新檢查文字生圖競技場，它排第一，Elo 1,386，至少從 7 月一路守到現在。商品照和招牌文字這類需求，它照著提示詞走的穩定度是我測過最好的。第二名的 Midjourney V8.1 有 9.3 分，現在預設就輸出 2048 x 2048，做情境板和編輯插畫我還是選它。\n\nImagen 4 的分數我先維持不動，等我從 Google 官方文件確認關閉狀態再調整。",
+          "highlights": [
+            {
+              "title": "用 Imagen 的人先檢查流程",
+              "body": "9 月模型指南列出 Google Imagen 已進入淘汰，原定 2026 年 8 月 17 日關閉，建議改用 Nano Banana。"
+            },
+            {
+              "title": "Nano Banana 系列接得住",
+              "body": "Pro 負責文字和複雜排版，Nano Banana 2 負責 4K 生成加修圖，Lite 負責大量快速工作。"
+            },
+            {
+              "title": "GPT Image 2 競技場第一",
+              "body": "9 月文字生圖競技場排名第一，Elo 1,386，撐得起 9.4 分。"
+            },
+            {
+              "title": "切換前先測",
+              "body": "先用自己存的二十組提示詞重跑，因為不同模型家族的風格和色調會有差異。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

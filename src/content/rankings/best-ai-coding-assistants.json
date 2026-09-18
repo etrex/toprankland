@@ -24144,6 +24144,228 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-18",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.7,
+            "ideIntegration": 8,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "codeQuality": 9.1,
+            "contextWindow": 8,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9,
+            "valueForMoney": 7
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8,
+            "valueForMoney": 6.1
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8,
+            "contextWindow": 8,
+            "ideIntegration": 7,
+            "agenticCapability": 8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8,
+            "ideIntegration": 8,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "ID Tech Digest, September 17, 2026",
+          "url": "https://idtechwire.com/id-tech-digest-september-17-2026/",
+          "source": "ID Tech"
+        },
+        {
+          "title": "Secret references with 1Password CLI",
+          "url": "https://developer.1password.com/docs/cli/secret-references/",
+          "source": "1Password Developer"
+        },
+        {
+          "title": "September 17, 2026 AI News",
+          "url": "https://aitoolly.com/ai-news/2026-09-17",
+          "source": "AIToolly"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code holds first at 9.5 and the order carries forward. This week's most important item for every tool on this list is a security finding, and the fix takes about twenty minutes.\n\nHush Security scanned roughly 82,000 public Model Context Protocol configuration files and found hardcoded secrets in 12% of credential slots. Across 7,681 tracked configuration histories, 1,394 secrets were still live in current code and another 243 sat in older Git commits. The affected configs belong to Claude Code, Cursor, VS Code, Windsurf, Gemini, OpenAI Codex and JetBrains, so this is a workflow habit shared across the whole category. The details make it worse: 80% of the exposed credentials had no expiry date and 53% granted broad organization or workspace access.\n\nThe pattern is familiar. You add a GitHub, database or Slack MCP server to your assistant, paste a token into the JSON file to get it working, and the file ends up committed. Here is the routine I now run on every repository where I use an agent:\n\n1. Search every MCP config for literal tokens and replace them with environment variable expansion, which Claude Code, Cursor and Codex all support.\n2. Pull the real values from a secrets manager at launch. 1Password's secret references and Bitwarden Secrets Manager both handle this cleanly.\n3. Rotate anything that was ever committed, even in a deleted file, because Git history keeps it.\n4. Scope tokens to one repository and give them an expiry date.\n\nTwo smaller notes from this week. Alibaba's open-code-review project, trending on GitHub, pairs an LLM agent with deterministic checks for null pointer, thread safety, XSS and SQL injection bugs, and it runs on both OpenAI and Anthropic models. It makes a good second pass behind any assistant here. And OpenAI now offers ChatGPT Work and Codex Analytics, which lets engineering managers see spend and usage per team, useful when budget season arrives.",
+          "highlights": [
+            {
+              "title": "12% of MCP credential slots held secrets",
+              "body": "Hush Security found hardcoded secrets across about 82,000 public MCP configs used by Claude Code, Cursor, Codex, Windsurf and others."
+            },
+            {
+              "title": "Most leaks never expire",
+              "body": "80% of exposed credentials had no expiry and 53% granted broad workspace access, so rotation matters as much as removal."
+            },
+            {
+              "title": "A twenty minute fix",
+              "body": "Use environment variable expansion in MCP configs, pull values from a secrets manager, and rotate anything that ever reached Git."
+            },
+            {
+              "title": "Useful second reviewer",
+              "body": "Alibaba's open-code-review combines an LLM agent with deterministic bug checks and works with both OpenAI and Anthropic models."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 維持第一，9.5 分，排名照舊。這週對榜上每一款工具來說，最重要的消息是一份資安調查，修起來大概只要二十分鐘。\n\nHush Security 掃了大約 8 萬 2 千個公開的 MCP（Model Context Protocol）設定檔，發現 12% 的憑證欄位直接寫死了密鑰。在追蹤的 7,681 份設定歷史裡，有 1,394 組密鑰還活在目前的程式碼中，另外 243 組留在舊的 Git commit 裡。受影響的設定檔橫跨 Claude Code、Cursor、VS Code、Windsurf、Gemini、OpenAI Codex 和 JetBrains，所以這是整個類別共同的工作習慣問題。更麻煩的是細節：外洩的憑證有 80% 沒有到期日，53% 擁有整個組織或工作區的權限。\n\n這個情境大家應該都很熟。幫助理加一個 GitHub、資料庫或 Slack 的 MCP 伺服器，為了趕快跑起來，把 token 直接貼進 JSON，結果檔案就這樣被 commit 上去。我現在每個有用 agent 的 repo 都會跑一遍這套流程：\n\n1. 搜尋所有 MCP 設定檔裡的明文 token，改成環境變數展開，Claude Code、Cursor 和 Codex 都支援。\n2. 啟動時從密碼管理工具拉真正的值，1Password 的 secret reference 和 Bitwarden Secrets Manager 都做得很乾淨。\n3. 只要曾經被 commit 過，就算檔案已經刪掉也要換掉，因為 Git 歷史會一直留著。\n4. token 權限只開給單一 repo，並設定到期日。\n\n另外兩個小消息。阿里巴巴的 open-code-review 最近在 GitHub 上很熱門，它把 LLM agent 和固定規則的檢查結合，抓空指標、執行緒安全、XSS 和 SQL injection，OpenAI 和 Anthropic 的模型都能跑，很適合當成任何一款助理後面的第二道審查。OpenAI 也推出 ChatGPT Work 和 Codex 的使用分析，技術主管可以看到每個團隊的花費和使用量，年底編預算的時候很好用。",
+          "highlights": [
+            {
+              "title": "12% 的 MCP 憑證欄位寫死密鑰",
+              "body": "Hush Security 掃描約 8 萬 2 千個公開 MCP 設定檔，涵蓋 Claude Code、Cursor、Codex、Windsurf 等工具。"
+            },
+            {
+              "title": "外洩憑證大多沒有到期日",
+              "body": "80% 沒有到期日、53% 有整個工作區權限，所以換掉跟刪掉一樣重要。"
+            },
+            {
+              "title": "二十分鐘就能修好",
+              "body": "MCP 設定改用環境變數，從密碼管理工具取值，曾經進過 Git 的全部換新。"
+            },
+            {
+              "title": "好用的第二位審查者",
+              "body": "阿里巴巴的 open-code-review 結合 LLM agent 和固定規則檢查，OpenAI 和 Anthropic 模型都支援。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

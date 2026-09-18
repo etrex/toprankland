@@ -17787,6 +17787,168 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-18",
+      "rankings": [
+        {
+          "id": "protonvpn",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "mullvad",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "The First US Law Targeting VPN Use Just Went Into Effect: Here's What Just Changed",
+          "url": "https://gizmodo.com/the-first-us-law-targeting-vpn-use-takes-effect-september-3-heres-what-happens-2000805001",
+          "source": "Gizmodo"
+        },
+        {
+          "title": "'Enough is enough': EU moves toward restricting social media access for under-15s",
+          "url": "https://www.euronews.com/my-europe/2026/09/15/leak-eu-commission-to-pitch-social-media-restrictions-for-under-15s",
+          "source": "Euronews"
+        },
+        {
+          "title": "VPNs Are Not a Solution to Age-Gating Mandates",
+          "url": "https://www.eff.org/pages/vpns-are-not-solution-age-gating-mandates",
+          "source": "Electronic Frontier Foundation"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ProtonVPN holds first at 9.3 and the order carries forward. Readers have been asking me whether this month's age verification laws make a VPN risky to use, so here is a plain answer: for everyday privacy, nothing has changed.\n\nUtah's SB 73 took effect on 3 September after a court pause expired. It targets commercial websites where more than a third of the content is considered harmful to minors, and it treats anyone physically in Utah as a Utah user whatever IP address they present. Those sites also may not publish instructions for bypassing their age gates with a VPN, with penalties of $2,500 per violation. The obligations fall on the websites. Using a VPN on café Wi-Fi, for banking while travelling, or to keep your internet provider from logging your browsing stays exactly as legal as it was.\n\nIn Europe, the Commission's proposed Kids Act would restrict social media, chatbots and online games for under 15s, and the Commission says its age-checking app is ready for member states to deploy by year end. It still needs approval from member states and the European Parliament. Age checks built into apps and accounts work at the account level, so a VPN has little bearing on them either way.\n\nWhat these laws do change is how much of your identity gets checked online, and that makes a trustworthy VPN more valuable. My picks reflect that. ProtonVPN keeps first because its apps are open source, its no-logs policy has been independently audited, and its free tier is genuinely usable. Mullvad, second at 9.2, is the privacy purist's choice: an account number with no email, a flat monthly price, and cash accepted. IVPN at 8.6 follows the same account-number model.\n\nFor parents, a VPN is a privacy tool. Use the parental controls on the device and the router for filtering, and let the VPN protect the connection.",
+          "highlights": [
+            {
+              "title": "Utah SB 73 targets websites",
+              "body": "In force since 3 September, it puts age verification duties on adult sites for anyone physically in Utah; everyday VPN use stays legal."
+            },
+            {
+              "title": "EU age checks sit at the account level",
+              "body": "The proposed Kids Act and the Commission's age-checking app work inside apps and accounts, where a VPN has little bearing."
+            },
+            {
+              "title": "Privacy leaders unchanged",
+              "body": "ProtonVPN for audited no-logs and open-source apps, Mullvad for email-free accounts and a flat price."
+            },
+            {
+              "title": "Parents: use the right tool",
+              "body": "Device and router parental controls handle filtering; a VPN protects the connection."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ProtonVPN 維持第一，9.3 分，排名照舊。最近很多讀者問我，這個月一堆年齡驗證法規上路，用 VPN 會不會有風險。直接講結論：一般的隱私用途，什麼都沒變。\n\n美國猶他州的 SB 73 在法院暫緩令到期後，9 月 3 日正式生效。它針對的是超過三分之一內容被認定對未成年人有害的商業網站，只要人實際在猶他州，不管用什麼 IP 連線，都算猶他州使用者。這些網站也不能教人用 VPN 繞過年齡驗證，每次違規罰 2,500 美元。義務全部落在網站身上。在咖啡店連公共 Wi-Fi、出國用網銀、不想讓電信業者記錄你的瀏覽紀錄，這些用法照樣完全合法。\n\n歐洲這邊，歐盟執委會提出的 Kids Act 草案要限制 15 歲以下使用社群媒體、聊天機器人和線上遊戲，執委會也說自家的年齡驗證 App 已經可以上線，希望會員國年底前推出。這還需要各國和歐洲議會同意。App 和帳號內建的年齡驗證是綁在帳號層級，VPN 開不開都影響不大。\n\n這些法規真正改變的，是你在網路上被核對身分的次數變多了，所以一個值得信任的 VPN 反而更有價值。我的推薦就是照這個邏輯排的。ProtonVPN 穩坐第一，App 開源、無紀錄政策經過獨立稽核，免費方案也真的能用，出國旅遊或在台灣連機場、咖啡店 Wi-Fi 都很安心。排第二、9.2 分的 Mullvad 是隱私派首選，註冊只給一組帳號號碼，不用 email，月費固定，還收現金。8.6 分的 IVPN 也是同樣的帳號號碼模式。\n\n給家長的提醒：VPN 是隱私工具。過濾內容請用裝置和路由器的家長監護功能，連線安全再交給 VPN。",
+          "highlights": [
+            {
+              "title": "猶他州 SB 73 管的是網站",
+              "body": "9 月 3 日生效，年齡驗證義務落在成人網站身上，一般使用 VPN 仍然合法。"
+            },
+            {
+              "title": "歐盟年齡驗證綁帳號",
+              "body": "Kids Act 草案和執委會的年齡驗證 App 都在帳號層級運作，VPN 影響不大。"
+            },
+            {
+              "title": "隱私首選不變",
+              "body": "ProtonVPN 有稽核過的無紀錄政策和開源 App，Mullvad 免 email 註冊、月費固定。"
+            },
+            {
+              "title": "家長用對工具",
+              "body": "過濾內容交給裝置和路由器的家長監護，VPN 負責保護連線。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

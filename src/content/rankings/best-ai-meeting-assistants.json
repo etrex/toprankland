@@ -19827,6 +19827,228 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-18",
+      "rankings": [
+        {
+          "id": "granola",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "transcriptionQuality": 9.2,
+            "integrations": 8.5,
+            "userExperience": 9.5,
+            "privacy": 9.1,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "fathom",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "transcriptionQuality": 8.9,
+            "integrations": 8,
+            "userExperience": 9.2,
+            "privacy": 8.7,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "fireflies",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 9.9,
+            "userExperience": 8.4,
+            "privacy": 8.2,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "otter-ai",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "transcriptionQuality": 9.1,
+            "integrations": 8.6,
+            "userExperience": 8.6,
+            "privacy": 8,
+            "valueForMoney": 8.3
+          }
+        },
+        {
+          "id": "fellow",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 8.8,
+            "userExperience": 8,
+            "privacy": 9.5,
+            "valueForMoney": 9
+          }
+        },
+        {
+          "id": "tldv",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 7.8,
+            "userExperience": 8.5,
+            "privacy": 8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "read-ai",
+          "rank": 7,
+          "score": 8.1,
+          "scores": {
+            "transcriptionQuality": 8.5,
+            "integrations": 8.2,
+            "userExperience": 8.8,
+            "privacy": 8,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "krisp",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "transcriptionQuality": 8,
+            "integrations": 7.5,
+            "userExperience": 9,
+            "privacy": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "zoom-ai-companion",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "transcriptionQuality": 8,
+            "integrations": 7.5,
+            "userExperience": 8.5,
+            "privacy": 8,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "avoma",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "transcriptionQuality": 8,
+            "integrations": 8.5,
+            "userExperience": 7.5,
+            "privacy": 8,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "circleback",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "transcriptionQuality": 8.2,
+            "integrations": 8.5,
+            "userExperience": 8,
+            "privacy": 8,
+            "valueForMoney": 6.8
+          }
+        },
+        {
+          "id": "microsoft-365-copilot",
+          "rank": 12,
+          "score": 7.6,
+          "scores": {
+            "transcriptionQuality": 8,
+            "integrations": 9.5,
+            "userExperience": 7,
+            "privacy": 8.5,
+            "valueForMoney": 6.2
+          }
+        },
+        {
+          "id": "gong",
+          "rank": 13,
+          "score": 7.3,
+          "scores": {
+            "transcriptionQuality": 9,
+            "integrations": 9,
+            "userExperience": 7.5,
+            "privacy": 8.5,
+            "valueForMoney": 4.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "ID Tech Digest, September 17, 2026",
+          "url": "https://idtechwire.com/id-tech-digest-september-17-2026/",
+          "source": "ID Tech"
+        },
+        {
+          "title": "Granola vs Otter vs Fireflies vs Fathom: Best AI Notetaker 2026",
+          "url": "https://www.useluminix.com/reports/industry-analysis/ai-meeting-notes-comparison-granola-vs-otter-vs-fireflies-vs-fathom-2026",
+          "source": "Luminix"
+        },
+        {
+          "title": "The 11 best AI meeting assistants in 2026",
+          "url": "https://zapier.com/blog/best-ai-meeting-assistant/",
+          "source": "Zapier"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Granola holds first at 9.2 and the order carries forward. This week I want to talk about where your meeting notes travel after the meeting, because a security finding published on 17 September applies directly to how many teams now use these tools.\n\nThe most common upgrade I see this year is connecting a notetaker to an AI agent. People wire Fireflies, Fathom, Otter or Granola into Claude, ChatGPT or Cursor so they can ask questions across months of calls. That usually runs through a Model Context Protocol server or an API key. Hush Security scanned about 82,000 public MCP configuration files and found hardcoded secrets in 12% of credential slots, and 80% of those exposed credentials had no expiry date. A meeting archive is one of the most sensitive data sets a company has, full of pricing, hiring and customer detail, so a leaked key here costs far more than most.\n\nMy checklist for any team connecting a notetaker to an agent:\n\n1. Create a dedicated API key for the integration, scoped to read only where the tool allows it.\n2. Keep the key in environment variables or a secrets manager, and keep it out of any config file that lives in a repository.\n3. Set an expiry or a calendar reminder to rotate it every 90 days.\n4. Review which workspaces the key can reach, because a personal key often sees every shared recording.\n\nThis is also why Granola keeps first. It records from your own device with no bot in the call, and its notes start from what you typed, so the archive stays focused on the points you judged important. Fireflies, third at 8.7, remains my pick for sales teams that want calls flowing into Salesforce or HubSpot automatically, and many teams run the two together: Granola for client-facing calls, Fireflies for internal pipeline reviews. Fathom stays second at 9.1 for its generous free tier.",
+          "highlights": [
+            {
+              "title": "Notes now flow into AI agents",
+              "body": "Teams connect Fireflies, Fathom, Otter and Granola to Claude, ChatGPT and Cursor through MCP servers or API keys."
+            },
+            {
+              "title": "MCP configs leak keys",
+              "body": "Hush Security found secrets in 12% of credential slots across about 82,000 public MCP configs, and 80% never expire."
+            },
+            {
+              "title": "Four step checklist",
+              "body": "Use a dedicated read-only key, store it in a secrets manager, rotate every 90 days and check which workspaces it reaches."
+            },
+            {
+              "title": "Granola plus Fireflies",
+              "body": "Granola for client calls with no visible bot, Fireflies for internal sales calls that feed a CRM."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Granola 維持第一，9.2 分，排名照舊。這週我想聊會議記錄在會議結束之後會跑去哪裡，因為 9 月 17 日公布的一份資安調查，直接關係到很多團隊現在使用這些工具的方式。\n\n今年我看到最常見的升級，就是把會議記錄工具接到 AI agent 上。大家把 Fireflies、Fathom、Otter 或 Granola 接進 Claude、ChatGPT 或 Cursor，這樣就能一口氣問好幾個月的會議內容。這通常透過 MCP 伺服器或 API key 來串。Hush Security 掃了大約 8 萬 2 千個公開的 MCP 設定檔，發現 12% 的憑證欄位寫死了密鑰，而且外洩的憑證有 80% 沒有到期日。會議資料庫是公司最敏感的資料之一，報價、招募、客戶細節全在裡面，這裡的 key 一旦外洩，損失比其他地方大很多。\n\n團隊要把記錄工具接到 agent，我的檢查清單如下：\n\n1. 替這個串接開一把專用的 API key，工具允許的話設成唯讀。\n2. key 放在環境變數或密碼管理工具裡，別寫進任何會放進 repo 的設定檔。\n3. 設定到期日，或在行事曆上提醒自己每 90 天換一次。\n4. 檢查這把 key 能看到哪些工作區，個人 key 常常可以看到所有共享錄音。\n\n這也是 Granola 繼續排第一的原因。它直接用你自己的裝置錄音，會議裡看不到機器人，筆記也從你自己打的重點出發，所以存下來的資料會集中在你判斷重要的地方。排第三、8.7 分的 Fireflies，我還是推薦給希望通話自動進 Salesforce 或 HubSpot 的業務團隊。很多團隊乾脆兩個一起用：對客戶的會議用 Granola，內部業務檢討用 Fireflies。Fathom 靠大方的免費方案守住第二，9.1 分。",
+          "highlights": [
+            {
+              "title": "會議記錄開始流進 AI agent",
+              "body": "團隊透過 MCP 伺服器或 API key，把 Fireflies、Fathom、Otter、Granola 接進 Claude、ChatGPT 和 Cursor。"
+            },
+            {
+              "title": "MCP 設定檔會外洩密鑰",
+              "body": "Hush Security 掃描約 8 萬 2 千個公開 MCP 設定檔，12% 憑證欄位有密鑰，80% 沒有到期日。"
+            },
+            {
+              "title": "四步驟檢查清單",
+              "body": "專用唯讀 key、存在密碼管理工具、每 90 天輪換、確認能看到哪些工作區。"
+            },
+            {
+              "title": "Granola 搭 Fireflies",
+              "body": "對客戶的會議用看不到機器人的 Granola，內部業務會議用能自動進 CRM 的 Fireflies。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -1733,6 +1733,230 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-18",
+      "rankings": [
+        {
+          "id": "home-assistant-green",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "offlineSurvival": 9.8,
+            "localAutomation": 9.7,
+            "radios": 6.0,
+            "matterVersion": 9.0,
+            "apiPolicy": 9.9,
+            "setupEffort": 6.5,
+            "value": 8.6,
+            "twAvailability": 5.5
+          }
+        },
+        {
+          "id": "hubitat-c8-pro",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "offlineSurvival": 9.6,
+            "localAutomation": 9.4,
+            "radios": 9.5,
+            "matterVersion": 9.6,
+            "apiPolicy": 9.2,
+            "setupEffort": 6.8,
+            "value": 8.4,
+            "twAvailability": 4.5
+          }
+        },
+        {
+          "id": "homey-pro-2026",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "offlineSurvival": 9.0,
+            "localAutomation": 9.2,
+            "radios": 9.8,
+            "matterVersion": 8.8,
+            "apiPolicy": 7.6,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 4.0
+          }
+        },
+        {
+          "id": "aqara-hub-m3",
+          "rank": 4,
+          "score": 7.9,
+          "scores": {
+            "offlineSurvival": 7.6,
+            "localAutomation": 7.8,
+            "radios": 8.2,
+            "matterVersion": 8.4,
+            "apiPolicy": 6.8,
+            "setupEffort": 8.8,
+            "value": 8.6,
+            "twAvailability": 8.5
+          }
+        },
+        {
+          "id": "switchbot-hub-3",
+          "rank": 5,
+          "score": 7.2,
+          "scores": {
+            "offlineSurvival": 6.6,
+            "localAutomation": 6.8,
+            "radios": 6.4,
+            "matterVersion": 8.0,
+            "apiPolicy": 7.4,
+            "setupEffort": 9.2,
+            "value": 8.8,
+            "twAvailability": 8.8
+          }
+        },
+        {
+          "id": "aeotec-smart-home-hub",
+          "rank": 6,
+          "score": 6.6,
+          "scores": {
+            "offlineSurvival": 6.8,
+            "localAutomation": 7.4,
+            "radios": 9.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 7.8,
+            "value": 6.4,
+            "twAvailability": 4.2
+          }
+        },
+        {
+          "id": "smartthings-station",
+          "rank": 7,
+          "score": 6.2,
+          "scores": {
+            "offlineSurvival": 5.4,
+            "localAutomation": 6.2,
+            "radios": 5.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 9.0,
+            "value": 8.2,
+            "twAvailability": 6.5
+          }
+        },
+        {
+          "id": "apple-tv-4k",
+          "rank": 8,
+          "score": 6.0,
+          "scores": {
+            "offlineSurvival": 8.4,
+            "localAutomation": 7.0,
+            "radios": 4.5,
+            "matterVersion": 7.6,
+            "apiPolicy": 5.2,
+            "setupEffort": 9.4,
+            "value": 4.2,
+            "twAvailability": 9.5
+          }
+        },
+        {
+          "id": "amazon-echo-hub",
+          "rank": 9,
+          "score": 5.6,
+          "scores": {
+            "offlineSurvival": 4.2,
+            "localAutomation": 5.0,
+            "radios": 8.4,
+            "matterVersion": 7.4,
+            "apiPolicy": 4.4,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 3.5
+          }
+        },
+        {
+          "id": "google-home-speaker",
+          "rank": 10,
+          "score": 5.2,
+          "scores": {
+            "offlineSurvival": 3.8,
+            "localAutomation": 4.4,
+            "radios": 5.2,
+            "matterVersion": 7.0,
+            "apiPolicy": 4.2,
+            "setupEffort": 9.2,
+            "value": 6.6,
+            "twAvailability": 3.2
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Aqara's FP400 Presence Sensor Brings Multi-Person Tracking Over Matter",
+          "url": "https://matterdevices.io/news/aqaras-fp400-presence-sensor-brings-multi-person-tracking-over-matter/",
+          "source": "MatterDevices.io"
+        },
+        {
+          "title": "What Matter and Thread actually mean for your smart home in 2026",
+          "url": "https://www.makeuseof.com/what-matter-and-thread-mean-smart-home/",
+          "source": "MakeUseOf"
+        },
+        {
+          "title": "IFA 2026's standout tech: Reviewed's top picks from Berlin",
+          "url": "https://www.reviewed.com/features/ifa-2026-awards",
+          "source": "Reviewed"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Home Assistant Green holds first at 9.1 and the ranking carries forward. The product news worth a hub owner's attention this week is a sensor. On 16 September MatterDevices.io covered Aqara's FP400, a 60GHz mmWave presence sensor that tracks up to 10 people at once across an area up to 10 by 8 metres, divides a room into a 0.5 metre grid with up to eight custom zones, and reports posture as sitting, standing or lying down.\n\nThe detail that matters for this ranking is the radio. The FP400 speaks Thread or Zigbee and exposes itself over Matter, and its predecessor, the FP2, ran on Wi-Fi. On Thread it pairs through any Thread border router with no Aqara hub required. That makes it a clean example of where hubs earn their keep in 2026: the sensor is cheap and standard, and the intelligence lives in the hub that turns \"two people on the sofa, one lying down\" into lights, climate and alerts.\n\nThat is exactly why Home Assistant Green keeps first. Zone and posture data is only useful if your automation engine can branch on it, and Home Assistant's automations handle multiple conditions, numeric states and per-zone triggers with the most flexibility in this ranking. Add a Connect ZBT-2 adapter and the Green gains a Thread radio as well. Hubitat Elevation C-8 Pro at rank 2 is my pick for someone who wants that logic running locally on a box that rarely needs attention. Aqara Hub M3 at rank 4 is the simplest path for an FP400 on Zigbee, since it unlocks the full Aqara feature set there.\n\nOne practical tip. Presence sensors generate a lot of state changes, so before you add a multi-person sensor, check your hub's history retention settings. On Home Assistant I exclude raw coordinate entities from the recorder and keep only the zone occupancy entities, which keeps the database small on the Green's built-in storage.\n\nAqara lists a 10 percent Amazon code through 28 September, and Prime Big Deal Days lands on 6 and 7 October.",
+          "highlights": [
+            {
+              "title": "Aqara FP400 arrives on Matter",
+              "body": "A 60GHz mmWave sensor tracking up to 10 people over 10 by 8 metres, with eight custom zones and posture detection."
+            },
+            {
+              "title": "Thread or Zigbee, no Wi-Fi",
+              "body": "On Thread it pairs through any border router with no Aqara hub. On Zigbee, the Aqara Hub M3 unlocks full features."
+            },
+            {
+              "title": "Home Assistant Green keeps first at 9.1",
+              "body": "Zone and posture data needs an automation engine that can branch on it, and Home Assistant is the most flexible here."
+            },
+            {
+              "title": "Trim the recorder",
+              "body": "Keep zone occupancy entities and exclude raw coordinates so the Green's storage stays lean."
+            },
+            {
+              "title": "Deal window",
+              "body": "Aqara's Amazon code runs to 28 September, and Prime Big Deal Days follows on 6 and 7 October."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Home Assistant Green 維持第一，9.1 分，排名照舊。這週最值得中控主機玩家注意的新品，其實是一顆感測器。MatterDevices.io 在 9 月 16 日報導了 Aqara FP400，這是一顆 60GHz 毫米波人體存在感測器，可以同時追蹤最多 10 個人，偵測範圍最大 10 公尺乘 8 公尺，把房間切成 0.5 公尺的格子，最多設 8 個自訂區域，還能判斷坐著、站著或躺著。\n\n對這個排行榜來說，重點在它的無線協定。FP400 走 Thread 或 Zigbee，再透過 Matter 對外，上一代 FP2 用的是 Wi-Fi。走 Thread 的話，任何 Thread 邊界路由器都能配對，完全用不到 Aqara 自家主機。這剛好說明了 2026 年中控主機的價值在哪裡：感測器便宜又標準化，真正的聰明留在主機，由主機把「沙發上兩個人、其中一個躺著」轉成燈光、空調和通知。\n\n這正是 Home Assistant Green 守住第一的理由。區域和姿勢資料要有能依條件分支的自動化引擎才有用，Home Assistant 的自動化能處理多重條件、數值狀態和逐區觸發，彈性是全榜最高。加一支 Connect ZBT-2 就有 Thread 無線電。排名第二的 Hubitat Elevation C-8 Pro 適合想把邏輯全部在本地跑、裝好就不太需要照顧的人。排名第四的 Aqara Hub M3 則是 FP400 走 Zigbee 最省事的路線，完整功能都能打開。\n\n分享一個實用小技巧。存在感測器的狀態變化非常頻繁，加裝多人感測器之前，先檢查主機的歷史紀錄保存設定。我在 Home Assistant 會把原始座標實體排除在紀錄器之外，只保留區域佔用實體，Green 內建的儲存空間就不會被塞爆。\n\n對台灣讀者來說，這種感測器很適合家裡有長輩的情況，偵測到有人長時間躺在浴室或走廊就推播通知，比裝攝影機更能保有隱私。Aqara 在 Amazon 提供 9 折優惠碼到 9 月 28 日，想入手的人可以留意。",
+          "highlights": [
+            {
+              "title": "Aqara FP400 登場",
+              "body": "60GHz 毫米波，最多追蹤 10 人，範圍 10×8 公尺，8 個自訂區域，還能判斷姿勢。"
+            },
+            {
+              "title": "走 Thread 或 Zigbee",
+              "body": "Thread 版任何邊界路由器都能配對，Zigbee 搭 Aqara Hub M3 功能最完整。"
+            },
+            {
+              "title": "Home Assistant Green 穩居第一",
+              "body": "9.1 分，區域和姿勢資料需要彈性最高的自動化引擎來發揮。"
+            },
+            {
+              "title": "紀錄器記得瘦身",
+              "body": "只留區域佔用實體、排除原始座標，Green 的儲存空間才撐得久。"
+            },
+            {
+              "title": "照顧長輩的好幫手",
+              "body": "偵測長時間躺臥就通知家人，隱私感比攝影機好很多。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
