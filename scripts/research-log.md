@@ -5972,3 +5972,74 @@ best-password-managers, best-standing-desks, best-wireless-chargers, best-ai-pro
 - [AppleInsider: Apple's smart home display could be coming soon](https://appleinsider.com/articles/26/09/02/apples-smart-home-display-could-be-coming-soon-sounds-amazing)
 
 ---
+
+## 2026-09-18 研究報告
+
+### 新主題建議
+
+本輪維持每輪兩題。站上現有 134 檔榜單，9 月 16 日報告的 best-nad-supplements 已上線，待建佇列還有 best-portable-tire-inflators（9 月 16 日）、best-smart-displays（9 月 15 日）與 best-earplugs-for-sleeping（9 月 13 日），三題優先序不變。本輪兩題在全站研究紀錄中出現 0 次（esim 0 次，heated jacket 0 次），屬全新題目。兩題共用一條軸線，就是商品頁上最醒目的那個字眼（「unlimited」與「最長 10 小時」）都附帶一個只寫在條款或說明書裡的條件，本站把條件抄出來做成欄位，就是其他選購文章沒有的東西。
+
+1. **Best Travel eSIMs 2026（本輪第一優先，核心事實是 Holafly 的「unlimited」方案在官網銷售頁上沒有公布降速門檻，門檻只出現在服務條款裡，第三方實測約落在每日 2 至 5GB，之後降到 1 至 5 Mbps，而 Airalo 在 2026 年初把日本 30 天吃到飽方案從約 35 美元調到 72 美元。）**
+   - 建議 slug: `best-travel-esims`
+   - EN title: Best Travel eSIMs of 2026: Airalo, Holafly, Saily, Nomad, Ubigi and Maya Mobile Ranked by Price Per GB on a 10GB Month, the Fair-Use Throttle Threshold Written in the Terms, Hotspot Allowance, Local Network Named Before Purchase, and Whether Top-Ups Keep the Same eSIM
+   - ZH-TW title: 2026 最佳旅遊 eSIM 排行榜：Airalo、Holafly、Saily、Nomad、Ubigi 與 Maya Mobile 依 10GB 月方案每 GB 價格、條款載明的公平使用降速門檻、熱點分享額度、購買前是否標明當地電信網路與加值是否沿用同一張 eSIM 排序，附日本與歐洲兩條熱門路線的實際方案對照推薦
+   - 目標關鍵字: best esim for travel 2026, airalo vs holafly, saily vs airalo, best esim for japan, best esim for europe, holafly unlimited fair use, is holafly really unlimited, cheapest esim per gb, esim with hotspot, does my phone support esim
+   - SEO 潛力: 我判斷這一題排本輪第一，理由有四個。第一是搜尋需求有明確的使用者基數撐著。Juniper Research 推估全球旅遊 eSIM 使用者從 2024 年的 4,000 萬人成長到 2028 年的 2.15 億人，五年成長 440%；Airalo 在 2026 年 6 月 2 日經 Business Wire 發布客戶數突破 3,000 萬，距離 2,000 萬只隔一年多。旅遊 eSIM 市場規模由 2025 年的 5.85 億美元成長到 2026 年的 7.10 億美元，2032 年推估 18.5 億美元。這個品類的消費者每一趟出國都會重新搜尋一次，重複購買率高，搜尋量隨出國季反覆出現。
+   - SEO 潛力（續，獨佔欄位）: 第二是降速門檻這一欄可以逐家回查條款原文。Holafly 的 FAQ 寫明吃到飽方案「可能受當地電信業者公平使用政策影響」，實際門檻未在銷售頁公布，第三方評測整理出多數熱門目的地約每日 3 至 5GB 後降速，熱點分享另有每日 1GB 上限。Airalo、Saily、Nomad 以固定流量計價，門檻就是流量本身，可以直接換算每 GB 價格。以 10GB、30 天方案為基準，Nomad 23.00 美元（每 GB 2.30 美元）、Airalo 31.00 美元、Saily 35.99 美元，Holafly 不賣 10GB 方案，只能選 73.90 美元的吃到飽月方案。把「條款門檻、熱點額度、每 GB 價格」三欄並排，同一張表就回答了 is holafly really unlimited 與 cheapest esim per gb 兩組高意圖長尾詞，這正是目前搜尋結果前幾名都由各家 eSIM 廠商自己的部落格佔住（Saily 官網就有 Airalo vs Holafly 比較文）所留下的中立空缺。
+   - SEO 潛力（續，時機）: 第三是時機。iPhone 18 Pro 與 iPhone 18 Pro Max 9 月 18 日上市，美國版 iPhone 自 iPhone 14 起取消實體 SIM 卡槽，換機潮帶進一批第一次需要搞懂 eSIM 的使用者，does my phone support esim 這組詞隨換機季上升。接下來是感恩節、聖誕節與農曆新年三波出國高峰，日本與歐洲兩條路線是英文搜尋量最大的兩個目的地詞（best esim for japan、best esim for europe），本題若在 9 月底上線，可以在十月前完成索引。
+   - SEO 潛力（續，站內結構）: 第四是站內結構與分類。站上現有 AI 與軟體類的虛擬商品榜（best-vpn-services、best-password-managers、best-ai-chatbots 等），本題是第一檔「旅遊服務」類虛擬商品，可以與 best-carry-on-luggage、best-travel-backpacks、best-portable-chargers 互相內鏈。Saily 由 Nord Security 經營，與 best-vpn-services 的 NordVPN 同一家母公司，兩檔可以直接互引並在揭露欄註明。排名每天都有意義，因為 eSIM 方案價格調整頻繁（Airalo 日本吃到飽一次調漲超過一倍即為例證），每日更新可以抓到價格欄的變動。
+   - 建置注意: 價格欄一律以各家官網當日方案頁為準，不採用第三方評測文的數字；上方引用的 Nomad、Airalo、Saily 價格來自 tripprof.com 的彙整，建置前逐一回官網覆核。Holafly 的降速門檻欄寫「未公布於銷售頁，條款原文為……」並附條款連結，不寫推估值。
+   - 候選競品（10個，建置前逐家回官網確認 10GB 月方案價格、熱點條款與日本、歐洲網路名稱）: Airalo, Holafly, Saily, Nomad, Ubigi, Maya Mobile, Airhub, GigSky, Jetpac, aloSIM
+
+2. **Best Heated Jackets 2026（本輪第二題，核心事實是續航標示「最長 10 至 12 小時」全部是最低溫檔位的數字，高溫檔實際只有 2 至 3 小時，而決定續航的電池瓦時只有少數品牌寫在商品頁，Ororo 的標準電池為 7.38V、4,800mAh、35.4Wh。）**
+   - 建議 slug: `best-heated-jackets`
+   - EN title: Best Heated Jackets of 2026: Ororo, Milwaukee, DEWALT, Venustas, Gobi Heat and Makita Ranked by High-Setting Runtime Against the Low-Setting Claim, Battery Watt-Hours, UL-Listed Battery You Can Look Up, Heating Zone Coverage, and Machine-Washability With the Battery Removed
+   - ZH-TW title: 2026 最佳電熱外套排行榜：Ororo、Milwaukee、DEWALT、Venustas、Gobi Heat 與 Makita 依高溫檔實際續航對照低溫檔標示、電池瓦時、可回查的 UL 電池認證、發熱區塊覆蓋與拆電池後可否機洗排序，附 CPSC 歷年電熱衣物召回紀錄與工具電池共用說明推薦
+   - 目標關鍵字: best heated jacket 2026, ororo vs milwaukee heated jacket, milwaukee vs dewalt heated jacket, best heated jacket for women, heated jacket battery life, are heated jackets safe, can you wash a heated jacket, heated jacket vs heated vest, best heated jacket for work, heated jacket on airplane
+   - SEO 潛力: 我判斷這一題排本輪第二，理由有四個。第一是品類規模與成長率明確。Fortune Business Insights 推估電熱衣物市場 2026 年 4.16 億美元、2034 年 8.40 億美元、複合成長率 9.17%，其中外套佔 50.44%，是最大單一品項；電熱外套單品市場 2026 年約 2.1 億美元、2034 年約 4 億美元、複合成長率 8.77%。Ororo 自稱累積超過 100 萬名客戶，Forbes Vetted 與 Bob Vila 都有年度榜，代表這組詞已有商業內容在搶，搜尋意圖確定是購買。
+   - SEO 潛力（續，獨佔欄位）: 第二是續航欄可以把行銷數字拆開。Ororo 官方標示低溫 8 至 10 小時、中溫 5 至 6 小時、高溫 2 至 3 小時；Milwaukee M12 標示最長 12 小時、DEWALT 標示最長 7 小時，兩家都只宣傳低溫值。本站把「高溫檔續航」與「電池瓦時」列為主排序欄，瓦時直接決定續航與能否帶上飛機（FAA 規定 100Wh 以下的鋰電池可隨身攜帶），一欄同時回答 heated jacket battery life 與 heated jacket on airplane。工具品牌陣營還有一個獨有欄位，就是與既有電動工具電池共用（Milwaukee M12、DEWALT 20V/12V MAX），這可以與站上 best-cordless-drills 互相內鏈，已擁有該品牌電池的讀者實際購買成本少一顆電池。
+   - SEO 潛力（續，安全）: 第三是安全欄有公開的召回紀錄可以引用。CPSC 資料庫可查到 Columbia 2013 年召回 7 款電熱外套約 9,600 件（袖口發熱片過熱）、Gerbing 2013 年召回 12V 外套內膽約 9,900 件（接頭過熱）、Ardica 2010 年召回約 2,600 件，2026 年又有 32 Degrees 電熱襪因燒燙傷風險召回。are heated jackets safe 是這個品類的第一大疑慮詞，本站用召回紀錄加上電池是否取得 UL 認證（可在 UL Product iQ 回查）來回答，其他榜單多半只寫一句「電池有認證」。
+   - SEO 潛力（續，季節與站內）: 第四是季節時點與既有冬季榜形成集群。電熱外套的搜尋高峰落在十月到一月，本題 9 月底上線可以趕上 Prime Big Deal Days（10 月 6 日至 7 日）與黑色星期五兩個檔期。站上已有 best-electric-blankets（9 月 14 日上線）、best-space-heaters、best-snow-blowers，加上本題組成冬季取暖集群，四檔互相內鏈；Ororo 同時賣電熱毯與坐墊，後續可延伸。
+   - 候選競品（10個，建置前逐款回官網確認電池規格、各檔位續航、UL 認證與現行售價）: Ororo Men's Classic Heated Jacket, Ororo Women's Classic Heated Jacket, Milwaukee M12 Heated Toughshell Jacket, DEWALT DCHJ101 Heated Hooded Jacket, Milwaukee M12 AXIS Heated Jacket, Venustas Men's Heated Jacket, Gobi Heat Summit Heated Jacket, Ororo Heated Puffer Jacket, Makita CJ102D Heated Jacket, Ryobi ONE+ 18V Heated Jacket
+
+### 市場動態
+
+- Amazon 8 月 21 日漲價造成的四檔價格過期，本輪實查第二天仍未修正。四檔的 history 最新一筆已是 2026-09-17，昨天的每日更新與競品維護兩個 commit（f58b302、8625c5d）都跑過這些檔案，價格欄仍為 best-e-readers 的 Kindle Paperwhite (2025) $160、best-streaming-devices 的 Fire TV Stick 4K Max (2023) $59、best-smart-speakers 的 Echo Dot (5th Gen) $50、best-mesh-wifi-systems 的 eero Pro 7 $549 (2-pack)。這是全站目前最該優先處理的資料錯誤，應在 Prime Big Deal Days 前以 amazon.com 商品頁的當前定價修正，每日更新的腳本需要把 priceRange 列入必查欄位。
+- iPhone 18 Pro 與 iPhone 18 Pro Max 今天（9 月 18 日）上市，best-smartphones 仍停在 iPhone 17 Pro Max、iPhone 17、iPhone Air 與 Pixel 10 Pro 系列，今天就該改寫。定價以 apple.com 商品頁為準，第三方彙整文寫的 1,199 與 1,299 美元（較去年漲 100 美元）需回官網核對後才寫入。第三方彙整文另有「摺疊機命名為 iPhone Duo、起價 1,999 美元」與「Apple Watch Series 12 起價 399 美元」的說法，本輪查到的來源全部來自第三方網站，Apple Newsroom 尚無對應稿件，在官方稿確認前不寫入 best-foldable-smartphones 與 best-smart-watches。
+- 第三方科技網站報導 Valve 的 Steam Frame 於 9 月 14 日開放 72 小時預約、起價 1,059 美元（256GB），本輪沒有查到 Valve 官方商店頁或官方公告佐證，best-vr-headsets 暫不更動。Meta Connect 2026（9 月 23 日至 24 日）之後 best-vr-headsets 與 best-smart-glasses 本來就排定更新，屆時一併以 Valve 與 Meta 的官方來源核對 Steam Frame 的價格與上市狀態。
+- 旅遊 eSIM 題目與既有榜單的交集：Saily 的母公司 Nord Security 同時經營 best-vpn-services 裡的 NordVPN，若 best-travel-esims 建置，兩檔的揭露段落都要註明同一家母公司，避免讀者誤認為兩個獨立推薦。
+- 電熱衣物題目與既有榜單的交集：Milwaukee 與 DEWALT 的電熱外套共用 M12 與 20V/12V MAX 電池平台，best-cordless-drills 可以在電池平台說明段落加一句延伸用途並連到新榜。CPSC 2026 年 32 Degrees 電熱襪召回與站上 134 檔無直接交集，best-electric-blankets 的候選清單本輪已對照，無需修改。
+
+### 資料來源
+
+- [Juniper Research: Travel eSIM Users to Grow 440% Globally Over the Next 5 Years](https://www.juniperresearch.com/press/pressreleasestravel-esim-users-to-grow-440-globally-over-the-next-5-years/)
+- [Business Wire: Airalo Surpasses 30 Million Customers as Global eSIM Adoption Accelerates](https://www.businesswire.com/news/home/20260602772531/en/Airalo-Surpasses-30-Million-Customers-as-Global-eSIM-Adoption-Accelerates)
+- [GlobeNewswire: Travel eSIM Market Expected to Reach $1.85 Billion by 2032](https://www.globenewswire.com/news-release/2026/01/21/3222605/28124/en/Travel-eSIM-Market-Skyrockets-Expected-to-Reach-1-85-Billion-by-2032.html)
+- [Holafly FAQ: Does Holafly offer eSIMs with unlimited data?](https://esim.holafly.com/faq/about-esims/are-there-esims-with-unlimited-data/)
+- [Holafly: Terms and Conditions](https://esim.holafly.com/terms-and-conditions/)
+- [eSIM.school: Holafly Review 2026, Is Unlimited Data Really Unlimited?](https://esim.school/en/learn/holafly-review-2026/)
+- [traveldatakit: Holafly review, check the fair-use and hotspot fine print](https://traveldatakit.com/reviews/holafly/)
+- [tripprof: Airalo vs Holafly vs Saily vs Nomad, Real eSIM Cost 2026](https://tripprof.com/en/blog/airalo-vs-holafly-vs-saily-nomad-esim-2026/)
+- [travelsimasia: Japan eSIM Prices 2026](https://travelsimasia.com/blogs/japan-guides/japan-esim-prices-2026)
+- [Saily: Airalo vs. Holafly, A 2026 eSIM comparison](https://saily.com/blog/airalo-vs-holafly/)
+- [Fortune Business Insights: Heated Clothing Market](https://www.fortunebusinessinsights.com/heated-clothing-market-103861)
+- [Fortune Business Insights: Heated Jacket Market](https://www.fortunebusinessinsights.com/heated-jacket-market-113196)
+- [Forbes Vetted: Best Heated Jackets 2026](https://www.forbes.com/sites/forbes-personal-shopper/article/best-heated-jacket/)
+- [Bob Vila: The Best Heated Jackets](https://www.bobvila.com/articles/best-heated-jacket/)
+- [Pro Tool Reviews: Best Heated Jackets for Construction and Trade Pros](https://www.protoolreviews.com/best-heated-jacket-reviews/)
+- [ororo: Heated Apparel Battery Guide](https://www.ororowear.com/blogs/story/ororo-heated-apparel-battery-guide)
+- [CPSC: Columbia Sportswear Recalls Seven Models of Heated Jackets](https://www.cpsc.gov/Recalls/2013/Columbia-Sportswear-Recalls-Seven-Models-of-Heated-Jackets)
+- [CPSC: Gerbings Recalls Heated Jacket Liners](https://www.cpsc.gov/Recalls/2013/Gerbings-Recalls-Heated-Jacket-Liners)
+- [CPSC: Ardica Recalls Heated Jackets and Vests Due to Burn Hazard](https://www.cpsc.gov/Recalls/2010/ardica-recalls-heated-jackets-and-vests-due-to-burn-hazard)
+- [CPSC: 32 Degrees Recalls Heated Socks Due to Burn Hazard](https://www.cpsc.gov/Recalls/2026/32-Degrees-Recalls-Heated-Socks-Due-to-Burn-Hazard)
+- [tech-insider: Steam Frame Launch Price and Lottery](https://tech-insider.org/steam-frame-launch-price-lottery-2026/)
+- [theresmac: Apple September 2026 Event, Everything Announced](https://www.theresmac.com/blog/Apple-September-2026-Event-Announcements)
+
+---
+
+## 2026-09-18 — best-travel-esims 上線
+
+- 依 2026-09-18 研究報告第一優先題建置並上線 `best-travel-esims`，分類 Travel，10 個競品，雙語完整，EN commentary 約 290 字、ZH 約 700 字，兩邊各 5 個 highlights。
+- 價格基準改用日本 10GB、30 天方案（報告建議的 10GB 月方案，日本是台灣讀者最熟悉的路線），價格取自各家官網方案頁；官網為 JS 渲染或 403 者（Saily、Maya、Jetpac 部分方案、aloSIM、Airhub、GigSky）改用 esimdb 彙整並列為參考來源。
+- 名次：Ubigi（16.50 美元、KDDI／Docomo、吃到飽 60GB 後 2 Mbps）第一；Nomad（特價 16 美元、KDDI au／SoftBank）第二；Jetpac（16 美元、每日 3GB 後 1 Mbps、SmartDelay 貴賓室）第三；Airalo（日本頁目前只列吃到飽，30 天 69 美元，非報告寫的 72 美元；公平使用頁 3GB／日後 1 Mbps）第四；Saily（17.99 美元，揭露 Nord Security 與 NordVPN 同母公司）第五；Maya Mobile（49.99 美元、5GB／日後 3 Mbps）第六；GigSky（依 App 地區計價，官方 blog 價格與 esimdb 16.79 美元不一致）第七；Airhub（15GB／30 天 15.99 美元，網路未標明）第八；aloSIM（18 美元）第九；Holafly（30 天 73.90 美元，日本頁只寫限速最多一天，門檻在條款）第十。
+- URL 驗證陷阱：nomadesim.com、gigsky.com、jetpacglobal.com、airhubapp.com 假路徑皆回 200（SPA），saily.com、maya.net 全站 403；以 WebFetch 頁面內容或 site 限定 WebSearch 確認頁面存在。getnomad.app 已 301 至 nomadesim.com。GigSky 正確路徑是 /country/esim-in-japan，Jetpac 是 /product-details/japan-esim。businesswire.com 回 000，未列入 references。
