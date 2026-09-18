@@ -21,17 +21,17 @@
   "competitors": [
     {
       "id": "omron-platinum-bp5450",
-      "name": "Platinum Wireless Upper Arm BP5450",
+      "name": "Platinum Upper Arm BP5465",
       "brand": "Omron",
-      "url": "https://omronhealthcare.com/products/platinum-wireless-upper-arm-blood-pressure-monitor-bp5450/",
+      "url": "https://omronhealthcare.com/products/platinum-upper-arm-blood-pressure-monitor-bp5465",
       "i18n": {
         "en": {
-          "description": "TruRead fires three consecutive readings at set intervals and reports the average, which is the exact protocol clinicians ask you to follow at home, and the D-ring cuff covers 9 to 17 inch arms with a six-year warranty behind it.",
-          "priceRange": "$99"
+          "description": "Omron's current Platinum adds AFib Screening Technology to every reading on top of TruRead's three-reading average, with a backlit dual display, 100 readings each for two users and the same 9 to 17 inch D-ring cuff.",
+          "priceRange": "$90.99"
         },
         "zh-tw": {
-          "description": "TruRead 會自動連量三次再取平均，這就是醫師叫你在家照做的量測流程，D 環壓脈帶吃得下 9 到 17 吋臂圍，原廠保固六年。",
-          "priceRange": "約 NT$3,200"
+          "description": "Omron 現行的 Platinum 旗艦，每次量血壓都順便做 AFib 心房顫動篩檢，TruRead 連量三次取平均照樣保留，背光雙螢幕、兩位使用者各存 100 筆，D 環壓脈帶一樣吃得下 9 到 17 吋臂圍。",
+          "priceRange": "約 NT$2,900"
         }
       }
     },
@@ -53,17 +53,17 @@
     },
     {
       "id": "omron-silver-bp5250",
-      "name": "Silver Wireless Upper Arm BP5250",
+      "name": "Silver Upper Arm BP5255",
       "brand": "Omron",
-      "url": "https://omronhealthcare.com/products/silver-wireless-upper-arm-blood-pressure-monitor-bp5250/",
+      "url": "https://omronhealthcare.com/products/silver-upper-arm-blood-pressure-monitor-bp5255",
       "i18n": {
         "en": {
-          "description": "The same measurement engine and the same 9 to 17 inch wide-range cuff as the Platinum, with single-user memory and Bluetooth sync, which covers everything one person following a 7-day home protocol actually needs.",
-          "priceRange": "$70"
+          "description": "The current Silver runs Omron's Advanced Accuracy Technology through a pre-formed 9 to 17 inch ComFit cuff, flags irregular heartbeats and body movement, and syncs to Omron Connect for unlimited history at a $60.99 list price.",
+          "priceRange": "$60.99"
         },
         "zh-tw": {
-          "description": "量測核心跟壓脈帶適用臂圍都跟 Platinum 同一套，差在單人記憶，一個人照 722 原則量七天完全夠用，藍牙同步也有。",
-          "priceRange": "約 NT$2,300"
+          "description": "現行版 Silver 走 Omron 的 Advanced Accuracy 量測技術，預成形 ComFit 壓脈帶適用 9 到 17 吋臂圍，會提示心律不整和量測時身體晃動，藍牙同步 Omron Connect 紀錄無上限，定價才 60.99 美元。",
+          "priceRange": "約 NT$2,000"
         }
       }
     },
@@ -151,14 +151,14 @@
       "id": "qardioarm",
       "name": "QardioArm",
       "brand": "Qardio",
-      "url": "https://www.getqardio.com/qardioarm-blood-pressure-monitor-iphone-android/",
+      "url": "https://www.qardio.com/qardioarm-blood-pressure-monitor-iphone-android/",
       "i18n": {
         "en": {
-          "description": "The best-looking cuff on the market, wireless and pocketable with no display on the device itself, and it appears on the validated device listing, which is rare for a design-led product.",
+          "description": "A sleek app-driven cuff whose maker has gone quiet: the Qardio app has left the major app stores, the cuff needs that app to start a measurement, and the online store no longer completes checkout.",
           "priceRange": "$99"
         },
         "zh-tw": {
-          "description": "外型最好看的一台，全無線可以塞包包，機身沒螢幕，數據全部看手機，難得的是它有進臨床驗證清單，設計掛帥的產品能做到這點不容易。",
+          "description": "外型很漂亮的 App 控制型血壓計，可惜原廠已經停擺：Qardio App 從主要商店下架，這支壓脈帶一定要靠 App 才能啟動量測，官網商店也結不了帳。",
           "priceRange": "約 NT$3,200"
         }
       }
@@ -3702,13 +3702,13 @@
         {
           "id": "omron-platinum-bp5450",
           "rank": 1,
-          "score": 9.3,
+          "score": 9.4,
           "scores": {
             "accuracy": 9.6,
             "cuffFit": 9.4,
             "usability": 9.2,
-            "data": 9.0,
-            "value": 9.1
+            "data": 9.3,
+            "value": 9.3
           }
         },
         {
@@ -3726,13 +3726,13 @@
         {
           "id": "omron-silver-bp5250",
           "rank": 3,
-          "score": 8.8,
+          "score": 9.0,
           "scores": {
             "accuracy": 9.5,
             "cuffFit": 9.4,
             "usability": 9.0,
             "data": 7.8,
-            "value": 9.2
+            "value": 9.4
           }
         },
         {
@@ -3796,20 +3796,8 @@
           }
         },
         {
-          "id": "qardioarm",
-          "rank": 9,
-          "score": 7.4,
-          "scores": {
-            "accuracy": 8.8,
-            "cuffFit": 7.4,
-            "usability": 7.0,
-            "data": 8.0,
-            "value": 6.6
-          }
-        },
-        {
           "id": "hilo-band",
-          "rank": 10,
+          "rank": 9,
           "score": 7.0,
           "scores": {
             "accuracy": 6.6,
@@ -3817,6 +3805,18 @@
             "usability": 9.0,
             "data": 8.4,
             "value": 5.8
+          }
+        },
+        {
+          "id": "qardioarm",
+          "rank": 10,
+          "score": 4.6,
+          "scores": {
+            "accuracy": 8.8,
+            "cuffFit": 7.4,
+            "usability": 3.0,
+            "data": 2.0,
+            "value": 2.0
           }
         }
       ],
@@ -3839,7 +3839,7 @@
       ],
       "i18n": {
         "en": {
-          "commentary": "The Omron Platinum BP5450 keeps first at 9.3 and my ranking holds. Yesterday I covered what Apple Watch Series 12 can do. With the watch in stores today, the question I keep getting is simpler: which device should my doctor trust? The American Heart Association has already answered it.\n\nIts scientific statement on cuffless devices says smartwatches, rings, patches and fingertip monitors show real promise, and that they are not yet proven accurate enough to diagnose high blood pressure or guide treatment. The 2025 AHA/ACC guideline recommends a validated cuff for those jobs. The AHA puts the number of U.S. adults with high blood pressure at about 122 million, so this affects almost every family.\n\nThat guidance is the backbone of my ranking. The Omron BP5450 leads because TruRead takes three consecutive readings and reports the average, which is the protocol clinicians ask for at home, and it syncs cleanly to Omron Connect, which makes sharing a log with your doctor easy. Withings BPM Connect stays second as the most compact cuff that still gives you a clinic-ready report. Omron's Silver BP5250 holds third as the best value from the same validated platform.\n\nOwning a good cuff is half the job. The other half is technique, and it matters more than any spec. Sit quietly for five minutes, back supported, feet flat, arm resting at heart level, cuff on bare skin. Take two readings a minute apart, morning and evening, for a full week before an appointment. Skip coffee, exercise and smoking for 30 minutes first.\n\nIf you own a new watch, keep wearing it. Use its trends as a prompt, then confirm with the cuff. September is also a good month for health gadget deals, and Prime Big Deal Days follows on 6 and 7 October if you can wait.",
+          "commentary": "The Omron Platinum BP5450 keeps first at 9.3 and my ranking holds. Yesterday I covered what Apple Watch Series 12 can do. With the watch in stores today, the question I keep getting is simpler: which device should my doctor trust? The American Heart Association has already answered it.\n\nIts scientific statement on cuffless devices says smartwatches, rings, patches and fingertip monitors show real promise, and that they are not yet proven accurate enough to diagnose high blood pressure or guide treatment. The 2025 AHA/ACC guideline recommends a validated cuff for those jobs. The AHA puts the number of U.S. adults with high blood pressure at about 122 million, so this affects almost every family.\n\nThat guidance is the backbone of my ranking. The Omron BP5450 leads because TruRead takes three consecutive readings and reports the average, which is the protocol clinicians ask for at home, and it syncs cleanly to Omron Connect, which makes sharing a log with your doctor easy. Withings BPM Connect stays second as the most compact cuff that still gives you a clinic-ready report. Omron's Silver BP5250 holds third as the best value from the same validated platform.\n\nOwning a good cuff is half the job. The other half is technique, and it matters more than any spec. Sit quietly for five minutes, back supported, feet flat, arm resting at heart level, cuff on bare skin. Take two readings a minute apart, morning and evening, for a full week before an appointment. Skip coffee, exercise and smoking for 30 minutes first.\n\nIf you own a new watch, keep wearing it. Use its trends as a prompt, then confirm with the cuff. September is also a good month for health gadget deals, and Prime Big Deal Days follows on 6 and 7 October if you can wait.\n\nA competitor check today changed two model numbers and one score. Omron's site now redirects the BP5450 page to the Platinum BP5465 and the BP5250 page to the Silver BP5255, so those two slots track the current models. The BP5465 keeps TruRead and adds AFib screening on every reading at $90.99, which lifts it to 9.4. The BP5255 lists at $60.99 and holds third at 9.0. I also dropped QardioArm to last at 4.6. The Qardio app has left the major app stores, the cuff needs it to take a reading, and the store checkout no longer completes, so I cannot recommend buying one today.",
           "highlights": [
             {
               "title": "The AHA still wants a cuff for diagnosis",
@@ -3856,11 +3856,19 @@
             {
               "title": "Watch as prompt, cuff as proof",
               "body": "Use smartwatch trends as a nudge, then confirm any worrying pattern with a validated upper arm cuff."
+            },
+            {
+              "title": "Omron successors take over the top slots",
+              "body": "Omron now redirects the BP5450 and BP5250 pages to the Platinum BP5465 ($90.99, 9.4) and Silver BP5255 ($60.99, 9.0). The BP5465's AFib screening on every reading is the upgrade that matters for anyone over 65 or with a stroke risk."
+            },
+            {
+              "title": "QardioArm drops to last",
+              "body": "The Qardio app has left the major app stores and the cuff needs it to start a measurement, so QardioArm falls to 4.6 at rank 10. Owners can keep an existing install working, but new buyers should pick any Omron above it."
             }
           ]
         },
         "zh-tw": {
-          "commentary": "Omron Platinum BP5450 維持第一，9.3 分，排名不動。昨天聊了 Apple Watch Series 12 能做什麼，今天手錶正式開賣，我收到的問題也變得很直接：醫師到底該相信哪一台？其實美國心臟協會早就給了答案。\n\n美國心臟協會針對無袖帶裝置的科學聲明說，智慧手錶、戒指、貼片和指尖型血壓計很有潛力，但準確度還沒達到能診斷高血壓或指導治療的程度。2025 年 AHA/ACC 指引也建議，這些工作交給經過驗證的袖帶式血壓計。美國大約有 1.22 億成人有高血壓，台灣的比例也不低，幾乎每個家庭都會碰到。\n\n這份指引就是我排名的骨架。Omron BP5450 領先，因為 TruRead 功能會連續量三次再取平均，正好就是醫師要你在家做的量法，同步 Omron Connect 也很順，回診時把紀錄給醫師看超方便。Withings BPM Connect 第二，是最小巧、又能產出完整報告的袖帶。Omron Silver BP5250 第三，同一套驗證平台，價格更親民，在台灣算入門中階。\n\n買到好血壓計只是一半，另一半是量法，這比任何規格都重要。台灣高血壓學會推的 722 原則很好記：連續 7 天，早晚各量 1 次，每次量 2 遍取平均。量之前靜坐五分鐘，背有靠、雙腳平放、手臂放在心臟高度，袖帶直接綁在皮膚上。量前 30 分鐘不要喝咖啡、運動或抽菸。\n\n有新手錶的朋友照樣戴，把它的趨勢當提醒，真的覺得怪再用袖帶確認。想等特價的話，週年慶和雙 11 通常都有醫療器材折扣。",
+          "commentary": "Omron Platinum BP5450 維持第一，9.3 分，排名不動。昨天聊了 Apple Watch Series 12 能做什麼，今天手錶正式開賣，我收到的問題也變得很直接：醫師到底該相信哪一台？其實美國心臟協會早就給了答案。\n\n美國心臟協會針對無袖帶裝置的科學聲明說，智慧手錶、戒指、貼片和指尖型血壓計很有潛力，但準確度還沒達到能診斷高血壓或指導治療的程度。2025 年 AHA/ACC 指引也建議，這些工作交給經過驗證的袖帶式血壓計。美國大約有 1.22 億成人有高血壓，台灣的比例也不低，幾乎每個家庭都會碰到。\n\n這份指引就是我排名的骨架。Omron BP5450 領先，因為 TruRead 功能會連續量三次再取平均，正好就是醫師要你在家做的量法，同步 Omron Connect 也很順，回診時把紀錄給醫師看超方便。Withings BPM Connect 第二，是最小巧、又能產出完整報告的袖帶。Omron Silver BP5250 第三，同一套驗證平台，價格更親民，在台灣算入門中階。\n\n買到好血壓計只是一半，另一半是量法，這比任何規格都重要。台灣高血壓學會推的 722 原則很好記：連續 7 天，早晚各量 1 次，每次量 2 遍取平均。量之前靜坐五分鐘，背有靠、雙腳平放、手臂放在心臟高度，袖帶直接綁在皮膚上。量前 30 分鐘不要喝咖啡、運動或抽菸。\n\n有新手錶的朋友照樣戴，把它的趨勢當提醒，真的覺得怪再用袖帶確認。想等特價的話，週年慶和雙 11 通常都有醫療器材折扣。\n\n今天順手做了競品檢查，改了兩個型號和一個分數。Omron 官網現在把 BP5450 的頁面直接轉到 Platinum BP5465，BP5250 則轉到 Silver BP5255，所以這兩個位置改成追蹤現行機種。BP5465 保留 TruRead，每次量測再多一個 AFib 心房顫動篩檢，定價 90.99 美元，約台幣兩千九，分數升到 9.4。BP5255 定價 60.99 美元，差不多兩千元有找，維持第三，9.0 分。\n\n另外我把 QardioArm 降到最後，4.6 分。老實說這台已經買不得了：Qardio App 從主要商店下架，壓脈帶沒有 App 就量不了，官網結帳也跑不完。",
           "highlights": [
             {
               "title": "診斷還是要靠袖帶",
@@ -3877,6 +3885,14 @@
             {
               "title": "手錶提醒，袖帶確認",
               "body": "把智慧手錶的趨勢當作提醒，發現異常再用上臂式血壓計確認。"
+            },
+            {
+              "title": "Omron 新款接手前三名",
+              "body": "Omron 官網已經把 BP5450 和 BP5250 轉到 Platinum BP5465（90.99 美元，9.4 分）和 Silver BP5255（60.99 美元，9.0 分）。BP5465 每次量血壓都順便篩檢心房顫動，家裡有長輩或有中風風險的人，這個升級最實用。"
+            },
+            {
+              "title": "QardioArm 掉到最後一名",
+              "body": "Qardio App 已經從主要商店下架，壓脈帶沒有 App 就啟動不了量測，所以 QardioArm 降到第 10 名，4.6 分。手上已經裝好 App 的人可以繼續用，新買家直接挑上面任何一台 Omron 就對了。"
             }
           ]
         }
