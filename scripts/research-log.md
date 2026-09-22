@@ -6043,3 +6043,12 @@ best-password-managers, best-standing-desks, best-wireless-chargers, best-ai-pro
 - 價格基準改用日本 10GB、30 天方案（報告建議的 10GB 月方案，日本是台灣讀者最熟悉的路線），價格取自各家官網方案頁；官網為 JS 渲染或 403 者（Saily、Maya、Jetpac 部分方案、aloSIM、Airhub、GigSky）改用 esimdb 彙整並列為參考來源。
 - 名次：Ubigi（16.50 美元、KDDI／Docomo、吃到飽 60GB 後 2 Mbps）第一；Nomad（特價 16 美元、KDDI au／SoftBank）第二；Jetpac（16 美元、每日 3GB 後 1 Mbps、SmartDelay 貴賓室）第三；Airalo（日本頁目前只列吃到飽，30 天 69 美元，非報告寫的 72 美元；公平使用頁 3GB／日後 1 Mbps）第四；Saily（17.99 美元，揭露 Nord Security 與 NordVPN 同母公司）第五；Maya Mobile（49.99 美元、5GB／日後 3 Mbps）第六；GigSky（依 App 地區計價，官方 blog 價格與 esimdb 16.79 美元不一致）第七；Airhub（15GB／30 天 15.99 美元，網路未標明）第八；aloSIM（18 美元）第九；Holafly（30 天 73.90 美元，日本頁只寫限速最多一天，門檻在條款）第十。
 - URL 驗證陷阱：nomadesim.com、gigsky.com、jetpacglobal.com、airhubapp.com 假路徑皆回 200（SPA），saily.com、maya.net 全站 403；以 WebFetch 頁面內容或 site 限定 WebSearch 確認頁面存在。getnomad.app 已 301 至 nomadesim.com。GigSky 正確路徑是 /country/esim-in-japan，Jetpac 是 /product-details/japan-esim。businesswire.com 回 000，未列入 references。
+
+---
+
+## 2026-09-22 — best-heated-jackets 上線
+
+- 依 2026-09-18 研究報告第二優先題建置並上線 `best-heated-jackets`，分類 Outdoor，10 個競品，雙語完整，EN commentary 約 300 字、ZH 約 350 字，兩邊各 5 個 highlights。候選清單依官網實查結果調整：原候選 Gobi Heat Summit 實為 2 區加熱毛帽而非外套，改用同品牌 Sahara II Men's Heated Jacket；Ryobi 目前美國官網無在售的 ONE+ 18V 電熱外套，改用 Bosch GHJ12V-20MN12；Makita CJ102D 系列多個零售頁一律回 403／500 且找不到官方現價，本輪未列入，改用 ANTARCTICA GEAR Heated Jacket（16,000mAh／12V 行動電源款）補足十家；DEWALT 原候選 DCHJ101（barn coat）查無獨立官方規格頁，改用規格資訊完整的 DCHJ072D1 Lightweight Soft-Shell Heated Jacket Kit。
+- 核心欄位設計依報告的「高溫檔實際續航 vs 低溫檔行銷數字」與「電池瓦時是否公開」兩條軸線，另加電池安全認證、發熱區數與拆電池後可否機洗三欄。查證發現 DEWALT 官網同一顆 20V MAX 2.0Ah 電池在同一頁的總覽與功能列表分別寫 9 小時與 7 小時，另一頁的 1.5Ah 電池寫 5.5 小時，三個數字互相矛盾且全站不公布瓦時；Bosch GHJ12V-20MN12 官方規格頁完全未公布任何檔位的續航小時數，是十款中唯一的資訊空缺。
+- 名次：Ororo Men's Classic Heated Jacket 2.0（139.99 美元、Mini 5K 電池 7.4V/4800mAh/35.4Wh 直接寫在商品頁、UL/cUL/CE/FCC/RoHS 五證）第一；Milwaukee M12 Heated AXIS（219 美元、Pro Tool Reviews 實測全區高溫 2 小時 50 分接近官方 3 小時宣稱、洗衣機烘衣機皆可）第二；Ororo Women's Classic Heated Jacket 2.0（159.99 美元、同電池平台）第三；Milwaukee M12 Heated TOUGHSHELL（199 美元、M12 RedLithium CP3.0 換算約 36Wh）第四；TIDEWE（129.99 美元、UL/FCC/RoHS/CE 四證但未公布發熱區數）第五；Venustas（149.99 美元、三段電池 37/55.5/74Wh 但僅 2 區）第六；Gobi Heat Sahara II（199 美元、USB-C PD 快充但僅標 mAh 無 Wh）第七；ANTARCTICA GEAR（119 美元、16,000mAh/12V≈192Wh 但為外接行動電源且僅 CE/FCC 無 UL）第八；DEWALT DCHJ072D1（239.99 美元、續航數字自相矛盾）第九；Bosch GHJ12V-20MN12（235.20 美元、唯一未公布任何續航數字）第十。
+- URL 驗證：全部十家品牌官網商品頁皆回 200。fortunebusinessinsights.com 與 protoolreviews.com 回 403（大型內容站點阻擋自動化請求，經 WebSearch 摘要確認頁面內容真實存在，列入 references）。makitatools.com 因憑證驗證問題多次抓取失敗，plumbersstock.com 回 403，是放棄 Makita 候選的直接原因。
