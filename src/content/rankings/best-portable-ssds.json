@@ -25,7 +25,7 @@
       "id": "crucial-x9-pro",
       "name": "Crucial X9 Pro",
       "brand": "Crucial",
-      "url": "https://www.crucial.com/products/portable-ssd/crucial-x9-pro-portable-ssd",
+      "url": "https://www.crucial.com/ssd/x9-pro/ct1000x9prossd9",
       "i18n": {
         "en": {
           "description": "A steel-bodied 10Gbps drive that holds roughly 1,050MB/s all the way through a 200GB transfer and still lands at the lowest cost per terabyte of any name-brand portable SSD I track.",
@@ -41,7 +41,7 @@
       "id": "crucial-x10-pro",
       "name": "Crucial X10 Pro",
       "brand": "Crucial",
-      "url": "https://www.crucial.com/products/portable-ssd/crucial-x10-pro-portable-ssd",
+      "url": "https://www.crucial.com/ssd/x10-pro/ct1000x10prossd9",
       "i18n": {
         "en": {
           "description": "2,100MB/s read and 2,000MB/s write over USB 3.2 Gen 2x2, with IP55 sealing and 7.5-foot drop protection, at a price that undercuts every Thunderbolt drive by a wide margin.",
@@ -89,7 +89,7 @@
       "id": "corsair-ex400u",
       "name": "Corsair EX400U",
       "brand": "Corsair",
-      "url": "https://www.corsair.com/us/en/p/data-storage/cssd-ex400u2tb/ex400u-2tb-usb4-external-ssd-cssd-ex400u2tb",
+      "url": "https://www.corsair.com/us/en/p/data-storage/cssd-ex400u1tb/ex400u-1tb-usb4-external-ssd-cssd-ex400u1tb",
       "i18n": {
         "en": {
           "description": "USB4 at up to 4,000MB/s read and 3,600MB/s write, settling around 1,600 to 1,700MB/s once the SLC cache fills, with a MagSafe ring that clips it straight onto an iPhone.",
@@ -121,7 +121,7 @@
       "id": "crucial-x10",
       "name": "Crucial X10",
       "brand": "Crucial",
-      "url": "https://www.crucial.com/products/portable-ssd/crucial-x10-portable-ssd",
+      "url": "https://www.crucial.com/ssd/x10/ct1000x10ssd9",
       "i18n": {
         "en": {
           "description": "The only mainstream drive with an 8TB option, running 2,100MB/s reads with IP55 sealing, which makes it the archive drive for anyone shooting long-form video.",
@@ -210,6 +210,22 @@
         "zh-tw": {
           "description": "鋁合金外殼的 2,000MB/s 機種，IP55 防護、五年保固，機身本體就是散熱片，攝影圈用很久的老面孔。",
           "priceRange": "NT$7,190 起"
+        }
+      }
+    },
+    {
+      "id": "samsung-p9",
+      "name": "Samsung Portable SSD P9",
+      "brand": "Samsung",
+      "url": "https://www.samsung.com/us/memory-storage/portable-ssd/p9-1tb-external-ssd-usb-4-sku-mu-pj1t0g-am/",
+      "i18n": {
+        "en": {
+          "description": "Samsung's P9 hits USB4 speeds of 4,000MB/s read and 3,800MB/s write, roughly double the T9's throughput, and ships with a 5-year warranty and AES 256-bit hardware encryption. It launched August 31, 2026 at $339.99 for the 1TB model, the steepest price per terabyte in this lineup, so I'd reach for it only when your setup can actually push USB4 bandwidth.",
+          "priceRange": "$339.99 (1TB) / $649.99 (2TB)"
+        },
+        "zh-tw": {
+          "description": "三星 P9 上了 USB4 之後讀取衝到 4,000MB/s、寫入 3,800MB/s，大概是 T9 的兩倍速度，內建 AES 256 硬體加密，保固也給到 5 年。8 月底才在美國上市，1TB 定價 339.99 美元，換算下來大概要 NT$11,000 起，是我這份清單裡每 TB 單價最貴的一台，老實說一般人真的用不到這麼猛的頻寬，除非手上設備能吃滿 USB4，不然我會建議先觀望。",
+          "priceRange": "約 NT$11,000 起"
         }
       }
     }
@@ -4851,8 +4867,22 @@
           }
         },
         {
-          "id": "transcend-esd410c",
+          "id": "samsung-p9",
           "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "pricePerTb": 5.8,
+            "sustainedWrite": 9.0,
+            "interface": 9.6,
+            "durability": 7.6,
+            "capacityValue": 7.2,
+            "warranty": 9.2,
+            "portability": 9.0
+          }
+        },
+        {
+          "id": "transcend-esd410c",
+          "rank": 9,
           "score": 7.9,
           "scores": {
             "pricePerTb": 8.8,
@@ -4866,7 +4896,7 @@
         },
         {
           "id": "sandisk-extreme-pro-v3",
-          "rank": 9,
+          "rank": 10,
           "score": 7.8,
           "scores": {
             "pricePerTb": 6.4,
@@ -4880,7 +4910,7 @@
         },
         {
           "id": "lexar-armor-700",
-          "rank": 10,
+          "rank": 11,
           "score": 7.6,
           "scores": {
             "pricePerTb": 8.4,
@@ -4894,7 +4924,7 @@
         },
         {
           "id": "kingston-xs2000",
-          "rank": 11,
+          "rank": 12,
           "score": 7.4,
           "scores": {
             "pricePerTb": 7.0,
@@ -4908,7 +4938,7 @@
         },
         {
           "id": "sandisk-extreme-pro-usb32",
-          "rank": 12,
+          "rank": 13,
           "score": 7.2,
           "scores": {
             "pricePerTb": 6.6,
