@@ -16844,6 +16844,211 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-22",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAccuracy": 9.9,
+            "photorealism": 9.1,
+            "artisticQuality": 8.4,
+            "textRendering": 9.7,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.1,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "nano-banana-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Midjourney V8.2 vs ChatGPT Images vs Nano Banana vs FLUX.2: Which AI image generator is best?",
+          "url": "https://www.gizmotimes.com/ai/midjourney-v8-2-vs-chatgpt-images-vs-nano-banana-vs-flux-2-ai-image-generator/51020",
+          "source": "Gizmo Times"
+        },
+        {
+          "title": "Best AI for Image Generation in 2026 — Ranked by Blind Human Votes",
+          "url": "https://llm-stats.com/leaderboards/best-ai-for-image-generation",
+          "source": "LLM Stats"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "GPT Image 2 extends its lead this week. OpenAI shipped the 2.5 update on September 8 and it's now topping both the Artificial Analysis and lmarena image arenas for prompt adherence and text rendering, the two factors I weight most heavily for practical, professional use. If you need an image generator that reliably does what you actually asked for, this is still the one to reach for. Midjourney holds firmly at second because nothing else touches its artistic quality score. Concept artists and art directors keep it as their default for moodboards and stylized campaigns, and that specialization is exactly why it doesn't need to chase prompt-accuracy leaderboards to earn its rank. Nano Banana Pro and Flux 2 Pro are essentially tied for third and fourth, and I'm keeping them in that order because Nano Banana's edit-arena dominance edges out Flux's raw photorealism for the kind of iterative, multi-turn workflows most teams actually run. Flux remains the developer's pick when photoreal product shots need to come through an API at scale. Three new entrants, Microsoft's MAI-Image, Meta's Muse Image, and xAI's Grok Imagine Image, showed up on the arenas for the first time this month, but none of them cracked the top ranks yet and I'm not adding unproven names to this list until they show sustained arena performance. No rank changes below the top four; the field stays stable while the frontier keeps compounding gains.",
+          "highlights": [
+            {
+              "title": "GPT Image 2.5 is the new benchmark to beat",
+              "body": "September 8's update pushed prompt adherence and text rendering ahead of every rival on both major arenas. For anyone who needs an image generator to nail specific instructions on the first try, this is the safest pick."
+            },
+            {
+              "title": "Midjourney's artistic ceiling remains untouchable",
+              "body": "No competitor matches Midjourney's stylistic range and painterly quality. Concept artists and campaign creatives should keep defaulting to it regardless of where it lands on raw accuracy benchmarks."
+            },
+            {
+              "title": "Nano Banana Pro wins the editing workflow, Flux wins the API pipeline",
+              "body": "Nano Banana Pro's dominance in image-editing arenas makes it the better choice for iterative creative sessions, while Flux 2 Pro's photorealism and API-first design make it the better choice for teams generating product imagery at scale."
+            },
+            {
+              "title": "New entrants from Microsoft, Meta, and xAI haven't earned a spot yet",
+              "body": "MAI-Image, Muse Image, and Grok Imagine Image all debuted on the arenas this month. I'm watching them, but none currently beats the established top tier on the metrics that matter for this list."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "GPT Image 2 這週領先優勢又拉大了。OpenAI 9 月 8 日推出 2.5 更新版,現在在 Artificial Analysis 跟 lmarena 兩個圖像競技場的指令精準度跟文字渲染都是第一,這兩項也是我最看重的實用指標。如果你需要的是穩定做出你真正想要的畫面,這台還是首選。Midjourney 穩坐第二,因為藝術品質分數沒有對手能碰。概念設計師跟藝術指導還是把它當預設工具做情緒板跟風格化企劃,這種專精定位本來就不需要去搶指令精準度排行榜的第一。Nano Banana Pro 跟 Flux 2 Pro 第三第四名幾乎是平手,我維持這個順序是因為 Nano Banana 在編輯競技場的優勢,對大部分團隊實際在跑的多輪反覆編輯工作流來說更好用,超過 Flux 單純的寫實度優勢。Flux 對開發者來說還是首選,因為需要透過 API 大量生成寫實商品圖時它最好用。這個月有三個新面孔第一次上競技場,微軟的 MAI-Image、Meta 的 Muse Image、xAI 的 Grok Imagine Image,但都還沒擠進前段班,說真的,我不會把還沒證明實力的名字加進這份清單,要等它們有持續穩定的競技場表現再說。前四名以下這次沒有排名變動,整體榜單維持穩定,前段班則持續在累積優勢。",
+          "highlights": [
+            {
+              "title": "GPT Image 2.5 是新的標竿",
+              "body": "9 月 8 日的更新讓指令精準度跟文字渲染在兩大競技場都超越所有對手。如果你需要圖像生成工具第一次就精準做出指定內容,這是最安全的選擇。"
+            },
+            {
+              "title": "Midjourney 的藝術天花板還是沒人碰得到",
+              "body": "沒有對手的風格廣度跟繪畫感能跟 Midjourney 比。概念設計師跟企劃創意人員不管它在精準度基準測試排第幾,都應該繼續把它當預設工具。"
+            },
+            {
+              "title": "Nano Banana Pro 贏在編輯工作流,Flux 贏在 API 產線",
+              "body": "Nano Banana Pro 在圖像編輯競技場的優勢,讓它更適合反覆修改的創作流程;Flux 2 Pro 的寫實度跟 API 優先設計,則更適合需要大量生成商品圖的團隊。"
+            },
+            {
+              "title": "微軟、Meta、xAI 的新面孔還沒真正上榜",
+              "body": "MAI-Image、Muse Image、Grok Imagine Image 這個月都首次登上競技場。我會持續觀察,但目前沒有一個在關鍵指標上贏過既有的前段班。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

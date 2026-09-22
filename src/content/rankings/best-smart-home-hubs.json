@@ -1957,6 +1957,222 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-22",
+      "rankings": [
+        {
+          "id": "home-assistant-green",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "offlineSurvival": 9.8,
+            "localAutomation": 9.7,
+            "radios": 6.0,
+            "matterVersion": 9.0,
+            "apiPolicy": 9.9,
+            "setupEffort": 6.5,
+            "value": 8.6,
+            "twAvailability": 5.5
+          }
+        },
+        {
+          "id": "hubitat-c8-pro",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "offlineSurvival": 9.6,
+            "localAutomation": 9.4,
+            "radios": 9.5,
+            "matterVersion": 9.6,
+            "apiPolicy": 9.2,
+            "setupEffort": 6.8,
+            "value": 8.4,
+            "twAvailability": 4.5
+          }
+        },
+        {
+          "id": "homey-pro-2026",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "offlineSurvival": 9.0,
+            "localAutomation": 9.2,
+            "radios": 9.8,
+            "matterVersion": 8.8,
+            "apiPolicy": 7.6,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 4.0
+          }
+        },
+        {
+          "id": "aqara-hub-m3",
+          "rank": 4,
+          "score": 7.9,
+          "scores": {
+            "offlineSurvival": 7.6,
+            "localAutomation": 7.8,
+            "radios": 8.2,
+            "matterVersion": 8.4,
+            "apiPolicy": 6.8,
+            "setupEffort": 8.8,
+            "value": 8.6,
+            "twAvailability": 8.5
+          }
+        },
+        {
+          "id": "switchbot-hub-3",
+          "rank": 5,
+          "score": 7.2,
+          "scores": {
+            "offlineSurvival": 6.6,
+            "localAutomation": 6.8,
+            "radios": 6.4,
+            "matterVersion": 8.0,
+            "apiPolicy": 7.4,
+            "setupEffort": 9.2,
+            "value": 8.8,
+            "twAvailability": 8.8
+          }
+        },
+        {
+          "id": "aeotec-smart-home-hub",
+          "rank": 6,
+          "score": 6.6,
+          "scores": {
+            "offlineSurvival": 6.8,
+            "localAutomation": 7.4,
+            "radios": 9.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 7.8,
+            "value": 6.4,
+            "twAvailability": 4.2
+          }
+        },
+        {
+          "id": "smartthings-station",
+          "rank": 7,
+          "score": 6.2,
+          "scores": {
+            "offlineSurvival": 5.4,
+            "localAutomation": 6.2,
+            "radios": 5.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 9.0,
+            "value": 8.2,
+            "twAvailability": 6.5
+          }
+        },
+        {
+          "id": "apple-tv-4k",
+          "rank": 8,
+          "score": 6.0,
+          "scores": {
+            "offlineSurvival": 8.4,
+            "localAutomation": 7.0,
+            "radios": 4.5,
+            "matterVersion": 7.6,
+            "apiPolicy": 5.2,
+            "setupEffort": 9.4,
+            "value": 4.2,
+            "twAvailability": 9.5
+          }
+        },
+        {
+          "id": "amazon-echo-hub",
+          "rank": 9,
+          "score": 5.6,
+          "scores": {
+            "offlineSurvival": 4.2,
+            "localAutomation": 5.0,
+            "radios": 8.4,
+            "matterVersion": 7.4,
+            "apiPolicy": 4.4,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 3.5
+          }
+        },
+        {
+          "id": "google-home-speaker",
+          "rank": 10,
+          "score": 5.2,
+          "scores": {
+            "offlineSurvival": 3.8,
+            "localAutomation": 4.4,
+            "radios": 5.2,
+            "matterVersion": 7.0,
+            "apiPolicy": 4.2,
+            "setupEffort": 9.2,
+            "value": 6.6,
+            "twAvailability": 3.2
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "IFA 2026 smart home: the verified announcements so far",
+          "url": "https://matterhome.io/news/ifa-2026-smart-home-announcements-so-far",
+          "source": "Matterhome.io"
+        },
+        {
+          "title": "IKEA to Launch a Bunch of Matter over Thread Devices in 2026",
+          "url": "https://homekitnews.com/2025/11/06/ikea-to-launch-a-bunch-of-matter-over-thread-devices-in-2026/",
+          "source": "HomeKit News"
+        },
+        {
+          "title": "Homey (smart hub)",
+          "url": "https://en.wikipedia.org/wiki/Homey_(smart_hub)",
+          "source": "Wikipedia"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "IFA 2026 just dumped a fresh wave of Matter-over-Thread gear on the market, and it confirms exactly why Home Assistant Green stays my number one pick. Aqara's newly announced FP400 spatial sensor tracks up to ten people at once over Thread or Zigbee with full Matter support, which is great news for shoppers but useless without a hub that actually keeps that data local and fast. Home Assistant Green's open API and local-first automation engine mean a sensor like the FP400 gets processed on your network in milliseconds, not shipped to a vendor cloud first. Hubitat C8 Pro holds firm at second thanks to its unmatched built-in radio stack. As more of these narrow-purpose Matter accessories ship, having Zigbee, Z-Wave, and Thread radios all onboard the hub itself saves you from a shelf of dongles. IKEA's new Dubbelkisel, a hub-less Matter-over-Thread LED driver starting at 18 euros, is a neat proof that Matter accessories are getting cheaper and more plentiful, but it still needs a real hub upstream to automate anything meaningfully. Homey's new Portal, a 2.8-inch touchscreen room controller with a steel rotary ring that launched this month, adds welcome physical polish to the Homey ecosystem and reinforces Homey Pro's spot at third for households that want a slicker app experience than Home Assistant offers. I'm keeping every rank unchanged today. The hardware landscape moved, the hierarchy of who processes it best did not.",
+          "highlights": [
+            {
+              "title": "Home Assistant Green Still Owns the Local-First Crown",
+              "body": "As IFA 2026 floods the market with more Matter-over-Thread sensors and accessories, the hub that processes all of it locally, without routing through a vendor cloud, is the one that matters most, and that is still Home Assistant Green."
+            },
+            {
+              "title": "Hubitat C8 Pro's Radio Stack Pays for Itself as Matter Sprawl Grows",
+              "body": "New multi-protocol devices like Aqara's FP400 spatial sensor need Zigbee, Z-Wave, and Thread coverage from day one. Hubitat's built-in radios mean you are never stuck waiting on a dongle."
+            },
+            {
+              "title": "Homey Portal Adds Room-Level Polish, Not a Rank Change",
+              "body": "Homey's new touchscreen room controller is a genuinely nice piece of industrial design, and it strengthens Homey Pro's case for anyone who wants a slick app without touching YAML."
+            },
+            {
+              "title": "Hub-less Matter Accessories Like IKEA's Dubbelkisel Raise the Stakes for Your Hub Choice",
+              "body": "Cheap Matter-over-Thread gear is multiplying fast. The hub coordinating it, not the accessory itself, decides whether your automations stay fast and private."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "IFA 2026 這波 Matter over Thread 新品發表,說真的更加確認了 Home Assistant Green 穩坐第一名的理由。Aqara 剛發表的 FP400 空間感測器可以同時追蹤十個人的位置,支援 Thread 或 Zigbee 並相容 Matter,規格很漂亮,但如果你的 hub 沒辦法把這些資料留在本地端快速處理,再厲害的感測器也只是多一個雲端依賴。Home Assistant Green 開放 API 加上本地優先的自動化引擎,代表這類感測器的資料處理是在你家網路裡幾毫秒完成,不用先繞去廠商雲端。Hubitat C8 Pro 繼續守住第二名,靠的就是內建 Zigbee、Z-Wave、Thread 三種無線電。這種小眾但專精的 Matter 配件越出越多,hub 本身就內建齊全無線電才不會逼你買一堆轉接器。IKEA 新出的 Dubbelkisel,一個免 hub 的 Matter over Thread 燈具驅動器,歐洲定價 18 歐元起,證明 Matter 配件真的越來越便宜、越來越多,但要串成有意義的自動化,上面還是得接一個真正的 hub。Homey 這個月推出的 Portal,一個 2.8 吋觸控螢幕加不鏽鋼旋鈕的房間控制器,幫 Homey 生態系加了不少質感,也讓 Homey Pro 穩坐第三名,適合想要比 Home Assistant 更順手 app 體驗的家庭。老實說,今天排名我一個都沒動,硬體圈變動很大,但誰處理得最好這件事沒有變。",
+          "highlights": [
+            {
+              "title": "Home Assistant Green 本地優先的地位沒人能動搖",
+              "body": "IFA 2026 讓 Matter over Thread 感測器配件大爆發,誰能把這些資料留在本地端處理,不用丟去廠商雲端繞一圈,誰就是真正的贏家,目前還是 Home Assistant Green。"
+            },
+            {
+              "title": "Hubitat C8 Pro 的無線電規格在 Matter 配件變多時越來越值錢",
+              "body": "像 Aqara FP400 這種需要 Zigbee、Z-Wave、Thread 全部到位的新裝置越出越多,Hubitat 內建齊全無線電,不用等轉接器。"
+            },
+            {
+              "title": "Homey Portal 讓體驗更細緻,但沒改變我的排名",
+              "body": "Homey 新出的房間觸控控制器工業設計真的漂亮,也讓不想碰 YAML 設定的人有更順手的選擇。"
+            },
+            {
+              "title": "IKEA Dubbelkisel 這類免 hub 配件,反而讓 hub 的選擇更重要",
+              "body": "便宜的 Matter over Thread 配件越出越快,但真正決定自動化快不快、隱私好不好的,還是背後那顆 hub。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

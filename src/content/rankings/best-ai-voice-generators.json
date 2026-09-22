@@ -18604,6 +18604,211 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-22",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.4,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "fish-audio-openaudio-s1",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.1,
+            "emotionalRange": 8.8,
+            "languageSupport": 8.0,
+            "latency": 8.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 9.8,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 8,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 8.3,
+            "emotionalRange": 7.7,
+            "languageSupport": 8.6,
+            "latency": 7.8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "ElevenLabs releases a new AI-powered music-generation app",
+          "url": "https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Music's AI Reckoning: Labels Strike Deals as Suno and ElevenLabs Push Forward",
+          "url": "https://www.webpronews.com/musics-ai-reckoning-labels-strike-deals-as-suno-and-elevenlabs-push-forward/",
+          "source": "WebProNews"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs and Inworld's TTS-1.5 Max stay locked in a virtual tie at the top, and this week's biggest ElevenLabs news actually strengthens its position without changing the core product ranked here. Universal Music Group announced a multiyear partnership with ElevenLabs on September 10 covering both licensing and joint product development, and while that deal is aimed at a separate remix platform, leaving the core voice API unchanged for now, it signals the kind of major-label trust that smaller rivals simply don't have yet. ElevenLabs still leads on language coverage and emotional range, which is why I keep recommending it first for any production voiceover work that needs to sound genuinely human across multiple languages. Inworld holds its near-tie because its latency numbers are still the best in the category, which matters enormously for real-time applications like games and live agents where a half-second delay breaks immersion. Cartesia Sonic 3 remains the fastest model on raw latency, full stop, and continues to be my pick for anyone building conversational voice agents where response time is the single most important variable. Fish Audio's OpenAudio S1 stays the value leader, undercutting the field on price while holding respectable realism scores. Nothing here justifies a rank shuffle; the UMG deal is a business-development story, not a product-quality one, and I'll revisit scores once the actual remix platform ships and I can evaluate it directly.",
+          "highlights": [
+            {
+              "title": "ElevenLabs and Inworld remain in a genuine dead heat at the top",
+              "body": "Both hit 9.4 this week. ElevenLabs wins on language breadth and emotional range, Inworld wins on latency. Pick based on whether your use case is multilingual production content or real-time interactive voice."
+            },
+            {
+              "title": "The UMG partnership is a trust signal, not a product upgrade yet",
+              "body": "September 10's multiyear deal with Universal Music Group covers licensing and joint development for a separate remix platform. It's meaningful validation from a major label, but the core voice API ranked here hasn't changed, so I'm not moving the score on this alone."
+            },
+            {
+              "title": "Cartesia Sonic 3 is still the latency champion for live agents",
+              "body": "A perfect 10.0 latency score keeps Cartesia the right call for anyone building real-time conversational voice products where every hundred milliseconds of delay is noticeable to users."
+            },
+            {
+              "title": "Fish Audio remains the best value pick",
+              "body": "OpenAudio S1's combination of low price and solid realism scores makes it the model I point budget-conscious builders toward first, especially for high-volume applications where per-minute cost adds up fast."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ElevenLabs 跟 Inworld 的 TTS-1.5 Max 這次還是幾乎並列第一,而且這禮拜 ElevenLabs 最大的新聞其實是在強化它的地位,我們這裡排名的核心產品本身倒是沒什麼改變。環球音樂集團 9 月 10 日宣布跟 ElevenLabs 簽下多年合作,內容涵蓋授權跟聯合產品開發,雖然這個合約主要是針對另一個混音創作平台,核心語音 API 暫時沒有變動,但這代表大廠牌對它的信任程度,是其他競爭對手目前還沒有的。ElevenLabs 在語言涵蓋跟情感表現這兩項還是領先,這也是為什麼我還是把它排在第一,推薦給任何需要多語言、聽起來真的像真人的專業配音工作。Inworld 能維持幾乎並列,是因為延遲數字還是這個類別裡最好的,對遊戲跟即時語音代理這種延遲半秒就會出戲的應用來說,這點非常重要。Cartesia Sonic 3 在原始延遲表現上依然是最快的,沒有懸念,如果你在做即時語音對話代理、反應速度是最重要的變數,我還是推薦它。Fish Audio 的 OpenAudio S1 還是性價比冠軍,價格壓得比全場都低,真實感分數卻還是可以接受。這次沒有理由要調整排名,環球音樂那筆合作說真的是商業發展層面的新聞,產品品質本身還沒有變化,等實際的混音平台上線、我能親自測試之後,再來重新評分。",
+          "highlights": [
+            {
+              "title": "ElevenLabs 跟 Inworld 頂端還是真正的平手",
+              "body": "這禮拜兩家都是 9.4 分。ElevenLabs 贏在語言廣度跟情感表現,Inworld 贏在延遲。看你的需求是多語言的正式內容,還是即時互動語音,再決定選哪個。"
+            },
+            {
+              "title": "環球音樂合作案是信任度信號,還不算產品升級",
+              "body": "9 月 10 日跟環球音樂簽下的多年合約涵蓋授權跟聯合開發,主要針對另一個混音平台。這是大廠牌給的重要背書,但我們這裡排名的核心語音 API 還沒改變,所以我不會只因為這個消息就調分數。"
+            },
+            {
+              "title": "Cartesia Sonic 3 依然是即時代理的延遲王者",
+              "body": "延遲分數滿分 10.0,對任何在做即時語音對話產品、每一百毫秒延遲使用者都感覺得到的團隊來說,Cartesia 還是正確的選擇。"
+            },
+            {
+              "title": "Fish Audio 依然是性價比首選",
+              "body": "OpenAudio S1 用低價格搭配還算扎實的真實感分數,是我第一個推薦給預算有限的開發者的選擇,特別是那種用量大、每分鐘成本會迅速累積的應用場景。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

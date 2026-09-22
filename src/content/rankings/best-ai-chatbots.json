@@ -17492,6 +17492,197 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-22",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.7,
+          "scores": {
+            "reasoning": 9.8,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.7,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.5,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "reasoning": 8.9,
+            "coding": 8.6,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "September 2026 AI Model Updates: Every Launch, Price Move, and Architecture Shift",
+          "url": "https://local-ai-zone.github.io/blog/September_2026_AI_Model_Updates.html",
+          "source": "Local AI Zone"
+        },
+        {
+          "title": "AI Updates Today (September 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ChatGPT holds the top spot again this week and the margin actually widened. OpenAI pushed GPT-6 Astra to a limited rollout on September 3 and made it generally available the next day, and the model shows up immediately in sharper reasoning traces and faster tool-calling in the consumer app. Claude stays my number two pick and the gap to ChatGPT is really about ecosystem breadth, not raw capability. Anthropic shipped a major Claude refresh on September 1 that went GA everywhere at once, skipping the usual staged rollout, and I noticed it in coding and long-document tasks where Claude still leads every rival on this list. Gemini keeps its podium spot on the strength of Google's search and Workspace integration, and the September 2 stable release of Gemini's fast-tier model kept latency low without giving up much quality. Grok remains the real-time specialist. It ties or beats everyone on freshness of information because xAI has direct access to the X firehose, but a targeted Grok update slated for September 12 hasn't shown up on the public pricing page yet, so I'm not crediting it until it ships. DeepSeek's new flash variant, released September 10, keeps undercutting everyone on price without falling far behind on reasoning, which is why it remains the value pick for budget-conscious teams. Nothing here justifies reshuffling the order from last week. This is a market where the top three trade blows on narrow benchmarks while staying clustered within a few tenths of a point, and casual users genuinely cannot go wrong with any of them.",
+          "highlights": [
+            {
+              "title": "ChatGPT's GPT-6 Astra rollout widens its lead",
+              "body": "A limited September 3 release followed by full general availability on September 4 gave ChatGPT a visible reasoning and tool-use bump. Combined with its ecosystem reach across plugins, enterprise deployments, and third-party integrations, it remains the safest default pick for most users."
+            },
+            {
+              "title": "Claude's GA-everywhere launch is the boldest move of the month",
+              "body": "Anthropic skipped the staged preview it usually runs and pushed its newest model to every platform simultaneously on September 1. Claude's coding and long-context writing scores are still the best on this list, which is why professionals working on code or documents should default to it."
+            },
+            {
+              "title": "Grok's real-time edge is real but its next update is vaporware for now",
+              "body": "Grok's direct pipeline into X gives it the fastest access to breaking news of any assistant here. But the widely anticipated Grok 4.7 update targeted for September 12 is nowhere on xAI's own pricing page as of this week, so I'm scoring the model on what actually shipped, not what was teased."
+            },
+            {
+              "title": "DeepSeek is still the value champion",
+              "body": "The September 10 flash release keeps DeepSeek's pricing dramatically below every Western competitor while its reasoning scores stay respectable. For high-volume API use where cost matters more than the last 5% of quality, it is hard to beat."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ChatGPT 這禮拜還是穩坐第一，而且差距感覺又拉開了一點。OpenAI 在 9 月 3 日先小範圍放出 GPT-6 Astra，隔天就直接全面上線，我自己用起來明顯感覺推理更犀利、工具呼叫也更快。Claude 我還是排第二，老實說它跟 ChatGPT 的差距主要出在生態系廣度，兩者的能力其實非常接近。Anthropic 在 9 月 1 日直接把新版模型全平台同時開放，連分階段預覽都省了,寫程式跟處理長文件這兩項它依然是全榜最強。Gemini 靠 Google 搜尋跟 Workspace 整合守住第三名,9 月 2 日穩定版上線後,速度快又沒犧牲太多品質。Grok 還是即時資訊王,因為 xAI 直接接 X 的資料流,消息新鮮度沒人比得上,不過原本傳聞 9 月 12 日要推的更新到現在都還沒出現在官方定價頁上,所以我這次先不算進評分,等真的上線再說。DeepSeek 這次推出的輕量版本在 9 月 10 日上線,價格繼續壓得很低,推理能力卻沒掉太多,對預算有限的團隊來說還是最划算的選擇。這次沒有任何理由要調整排名順序,前三名基本上就是在幾個細項上互有勝負,分數差距很小,一般使用者選哪個都不會踩雷。",
+          "highlights": [
+            {
+              "title": "ChatGPT 靠 GPT-6 Astra 拉開領先",
+              "body": "9 月 3 日先小範圍上線,隔天 9 月 4 日就全面開放,推理跟工具呼叫都有感提升。加上插件、企業部署、第三方整合的生態系優勢,對大部分人來說還是最安全的預設選擇。"
+            },
+            {
+              "title": "Claude 全平台同步上線是這個月最大膽的一步",
+              "body": "Anthropic 這次跳過平常的分階段預覽,9 月 1 日直接全平台同時開放新模型。寫程式跟長文件處理的分數依然是全榜最高,要處理程式碼或文件的專業使用者真的該優先選它。"
+            },
+            {
+              "title": "Grok 的即時資訊優勢是真的,但傳聞中的更新還沒影子",
+              "body": "Grok 直接接上 X 的資料流,消息新鮮度沒人比得上。但原本大家期待的 4.7 更新,9 月 12 日的目標日期已過,官方定價頁上還是看不到,所以我只針對已經上線的東西打分,不算傳聞。"
+            },
+            {
+              "title": "DeepSeek 還是性價比之王",
+              "body": "9 月 10 日推出的輕量版持續把價格壓到西方對手遠遠不及的程度,推理分數卻還撐得住。如果你是大量呼叫 API、在意成本多於最後那幾分品質的團隊,真的很難找到更划算的選擇。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

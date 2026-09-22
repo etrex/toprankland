@@ -17949,6 +17949,163 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-22",
+      "rankings": [
+        {
+          "id": "protonvpn",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "mullvad",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Have I Been Pwned: SplitVPN Data Breach",
+          "url": "https://haveibeenpwned.com/Breach/SplitVPN",
+          "source": "Have I Been Pwned"
+        },
+        {
+          "title": "Always On VPN Security Updates September 2026",
+          "url": "https://directaccess.richardhicks.com/2026/09/08/always-on-vpn-security-updates-september-2026/",
+          "source": "Richard M. Hicks Consulting"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ProtonVPN and Mullvad keep their top two spots, and a fresh cautionary tale this month makes the case for their audited, no-log architectures even stronger. Russian VPN service SplitVPN, previously known as NotVPN, suffered a breach disclosed in July that exposed millions of customer records including hundreds of thousands of unique email addresses. That provider isn't on this list and never has been, precisely because it lacked the kind of independent audits and transparent ownership structure that ProtonVPN and Mullvad both maintain. This is exactly the failure mode our privacy scoring is designed to catch before it happens, not after. ProtonVPN holds first on the combination of its audited no-logs policy and the largest server network of any provider we track, while Mullvad stays a close second as the only service on this list that still lets you pay in cash and never asks for an email address to create an account. NordVPN holds third as the speed and usability leader for mainstream users who want a polished app without sacrificing much on the privacy front. Separately, Microsoft shipped its September security update this month with fixes for Always On VPN deployments, patching vulnerabilities in Windows' own RRAS, SSTP, and IKEv2 implementations. That's a reminder that VPN security depends on the whole stack, not just the provider's no-log claims, and enterprise users running native Windows VPN clients should patch promptly. No rank changes among our tracked providers this cycle.",
+          "highlights": [
+            {
+              "title": "The SplitVPN breach is a case study in why audits matter",
+              "body": "A July breach at Russian provider SplitVPN exposed millions of records from a service with no independent audit history. It never made this list for exactly that reason, and it's a useful reminder of what our scoring criteria are meant to filter out before a breach happens, not after."
+            },
+            {
+              "title": "ProtonVPN's audited no-logs policy plus its huge network keeps it first",
+              "body": "The combination of independently verified privacy claims and the largest server footprint we track makes ProtonVPN the safest general recommendation, especially for users who want to combine privacy with easy multi-region streaming access."
+            },
+            {
+              "title": "Mullvad remains the purist's choice",
+              "body": "Cash payments and zero required account information keep Mullvad in a category of its own for users who want to minimize any link between their identity and their VPN usage, even if its server network is smaller than the leaders above it."
+            },
+            {
+              "title": "Patch your OS-level VPN client, not just your VPN app",
+              "body": "Microsoft's September security update fixed real vulnerabilities in Windows' native RRAS, SSTP, and IKEv2 VPN stack. Enterprise users on Always On VPN deployments should update promptly regardless of which commercial VPN they also use."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ProtonVPN 跟 Mullvad 這次還是穩坐前兩名,這個月剛好有個活生生的警世案例,更證明了它們那種有第三方稽核、真正零記錄的架構有多重要。俄羅斯的 VPN 服務 SplitVPN,前身叫 NotVPN,7 月被揭露發生資料外洩,數百萬筆用戶資料外流,裡面還包含數十萬個不重複的電子郵件地址。這家業者從來沒有上過我們的榜單,原因很簡單,它根本沒有 ProtonVPN 跟 Mullvad 都有的那種獨立稽核跟透明的所有權結構。這正是我們的隱私評分機制想在事情發生之前先擋下來的風險類型,提前防範永遠比事後補救更有效。ProtonVPN 排第一,靠的是經過稽核的零記錄政策,加上我們追蹤的所有業者裡伺服器網路規模最大。Mullvad 緊追在後排第二,是榜上唯一還能用現金付費、完全不用留電子郵件就能開帳號的服務。NordVPN 排第三,對想要介面漂亮又不想在隱私上犧牲太多的一般使用者來說,是速度跟易用性的領先者。另外,微軟這個月推出的 9 月資安更新也修補了 Windows 內建 RRAS、SSTP、IKEv2 VPN 協定的多個漏洞,直接影響 Always On VPN 部署。這提醒我們 VPN 安全靠的是整個系統堆疊,不只是業者說自己零記錄就夠了,用 Windows 內建 VPN 用戶端的企業使用者真的該盡快更新。這次我們追蹤的業者排名沒有變動。",
+          "highlights": [
+            {
+              "title": "SplitVPN 外洩事件是稽核重要性的活教材",
+              "body": "俄羅斯業者 SplitVPN 7 月爆出外洩,數百萬筆資料外流,而這家業者從來沒有獨立稽核紀錄。它從來沒上過我們的榜單,原因就是這個,也提醒大家我們的評分標準就是要在外洩發生之前先把風險過濾掉。"
+            },
+            {
+              "title": "ProtonVPN 靠稽核過的零記錄政策加上龐大網路守住第一",
+              "body": "獨立驗證過的隱私承諾,加上我們追蹤業者裡最大的伺服器版圖,讓 ProtonVPN 成為最安全的通用推薦,特別適合想同時兼顧隱私跟跨地區串流的使用者。"
+            },
+            {
+              "title": "Mullvad 依然是純粹主義者的首選",
+              "body": "現金付費加上完全不用個人資料就能開帳號,讓 Mullvad 在想把身分跟 VPN 使用紀錄的連結降到最低的使用者心中,依然自成一格,即使伺服器網路比前面兩家小。"
+            },
+            {
+              "title": "作業系統內建的 VPN 用戶端也要更新,不只是你的 VPN App",
+              "body": "微軟 9 月資安更新修補了 Windows 內建 RRAS、SSTP、IKEv2 VPN 系統的實際漏洞。用 Always On VPN 部署的企業使用者,不管另外用哪家商用 VPN,都該盡快更新。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
