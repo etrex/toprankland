@@ -18106,6 +18106,163 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-23",
+      "rankings": [
+        {
+          "id": "protonvpn",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "mullvad",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "VPN Data Breaches 2026: Which VPNs Hacked & What to Do",
+          "url": "https://www.zerotovpn.com/blog/vpn-data-breaches-2026-which-vpns-hacked",
+          "source": "ZeroToVPN"
+        },
+        {
+          "title": "NordVPN: 6 Cybersecurity Trends To Watch In 2026",
+          "url": "https://quantumzeitgeist.com/nordvpn-cybersecurity-cybersecurity-trends/",
+          "source": "Quantum Zeitgeist"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ProtonVPN and Mullvad hold their top two spots, and a broader pattern emerging this year makes their audited, no-log architecture look like less of a luxury and more of a baseline requirement. A running tally of 2026 VPN breaches shows the common thread isn't one bad actor or one region, it's inadequate access controls and unpatched vulnerabilities showing up across large, well-known providers and small regional ones alike. That's exactly the risk ProtonVPN's 9.9 network score and Mullvad's 9.8 privacy score are built to minimize, both companies publish regular third-party audits and neither logs the data that would make a breach actually damaging to a user. NordVPN keeps its position as the speed and network leader at 9.6 and 9.3, a genuinely strong pick when raw throughput matters more than the strictest privacy guarantees. IVPN's 9.5 privacy score keeps it the pick for anyone who wants Mullvad-level discipline with a different ownership structure to diversify trust across. Surfshark's unlimited device policy still makes it the value choice for large households, and its 9.0 network score has closed most of the gap with the bigger names. Obscura VPN's 9.5 privacy score is worth watching as its network keeps expanding beyond its current smaller footprint.",
+          "highlights": [
+            {
+              "title": "2026's VPN breaches share a common pattern",
+              "body": "A running tally of this year's incidents points to inadequate access controls and unpatched vulnerabilities across both large and small providers."
+            },
+            {
+              "title": "Audited no-log design is now a baseline, not a bonus",
+              "body": "ProtonVPN and Mullvad both publish regular third-party audits and don't log the data that would make a breach damaging to users."
+            },
+            {
+              "title": "NordVPN still leads on raw speed and network size",
+              "body": "A 9.6 speed score and 9.3 network score make it the pick when throughput matters more than the strictest privacy guarantee."
+            },
+            {
+              "title": "IVPN diversifies trust without losing discipline",
+              "body": "A 9.5 privacy score offers Mullvad-level rigor under a different ownership structure for anyone spreading risk across providers."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ProtonVPN 跟 Mullvad 繼續守住前兩名，今年累積下來的一個現象，讓他們這種通過稽核、完全不記錄紀錄的架構，看起來已經不只是加分項，是基本門檻。有人整理了今年到目前為止的 VPN 資安事件，共同的原因都指向存取控管不足跟漏洞沒補上，這種問題在大型知名業者跟小型區域業者身上都一樣會出現，跟單一個壞人或單一個地區沒有太大關係。這正是 ProtonVPN 9.9 分的網路評分，還有 Mullvad 9.8 分的隱私評分，想要降到最低的風險，兩家都定期公開第三方稽核報告，也都不記錄那種一旦外洩會真的傷害用戶的資料。NordVPN 在速度跟網路規模上繼續保持領先，分別拿下 9.6 分跟 9.3 分，如果吞吐量比最嚴格的隱私保證更重要，這還是很扎實的選擇。IVPN 拿下 9.5 分的隱私評分，適合想要 Mullvad 那種嚴謹程度，又想把信任分散到不同持有結構的人。Surfshark 不限裝置數量的方案，依然是大家庭最划算的選擇，網路評分也拿到 9.0 分，跟前段班的差距已經縮小不少。Obscura VPN 拿下 9.5 分的隱私評分，值得繼續觀察，它的網路規模還在從目前比較小的基礎上擴張中。",
+          "highlights": [
+            {
+              "title": "2026 年的 VPN 資安事件有共同模式",
+              "body": "今年累積的事件都指向存取控管不足跟漏洞沒補上，大型跟小型業者身上都一樣會出現。"
+            },
+            {
+              "title": "通過稽核的無紀錄架構已是基本門檻",
+              "body": "ProtonVPN 跟 Mullvad 都定期公開第三方稽核報告，也都不記錄會讓外洩變嚴重的資料。"
+            },
+            {
+              "title": "NordVPN 速度跟網路規模依然領先",
+              "body": "9.6 分的速度跟 9.3 分的網路評分，適合吞吐量比最嚴格隱私保證更重要的用戶。"
+            },
+            {
+              "title": "IVPN 讓信任分散又不失嚴謹",
+              "body": "9.5 分的隱私評分，提供 Mullvad 等級的嚴謹，又換了一種不同的持有結構。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

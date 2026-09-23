@@ -24583,6 +24583,223 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-23",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.7,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "codeQuality": 9.2,
+            "contextWindow": 8.2,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.6,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.2,
+            "valueForMoney": 6.8
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Coding Assistants as of September 2026",
+          "url": "https://www.shakudo.io/blog/best-ai-coding-assistants",
+          "source": "Shakudo"
+        },
+        {
+          "title": "AI Agents News — Week of September 22, 2026",
+          "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+          "source": "AI Agent Store"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code holds the top spot again, and this week I want to talk about why the gap to third place matters as much as the gap to second. OpenAI Codex stays in a near statistical tie for the top spot, and that story hasn't changed much, but Cursor's third-place position is worth examining because it wins on a different axis entirely, a 9.6 IDE integration score, the highest of any tool in this ranking, built around living inside your actual editor, not a separate terminal workflow. Claude Code's advantage stays rooted in agentic capability and context handling, a 9.7 on both, the combination that matters most when a tool needs to hold an entire codebase's context across a long autonomous task without losing track of earlier decisions. OpenAI Codex holds second with the best agentic capability score in the whole ranking at 9.6, its autonomous task completion is genuinely elite, though its 8.2 IDE integration score shows the tradeoff of a tool built agent-first, with less polish on the editor side. Google Antigravity holds fourth with a fast-rising agentic score of 9.0, a newer entrant that's closing the gap on the established leaders faster than most tools in this category manage in their first year. Google Jules holds fifth on solid, balanced scores across the board without a standout weakness or a standout strength, a safe middle option for teams not ready to commit to a specific workflow philosophy. My advice for picking between the top three stays practical, Claude Code and Codex for teams that want an agent doing real autonomous work, Cursor for teams that want the agent living inside the editor they already use every day.",
+          "highlights": [
+            {
+              "title": "Cursor wins IDE integration outright",
+              "body": "A 9.6 score, the highest in this ranking, comes from living inside the editor developers already use, with no separate terminal workflow required."
+            },
+            {
+              "title": "Claude Code leads on agentic capability and context",
+              "body": "A 9.7 score on both is what lets it hold an entire codebase's context across a long autonomous task without losing earlier decisions."
+            },
+            {
+              "title": "OpenAI Codex posts the top agentic score at 9.6",
+              "body": "Autonomous task completion is elite, though an 8.2 IDE integration score shows the editor experience trails the agent capability."
+            },
+            {
+              "title": "Google Antigravity is closing the gap fast",
+              "body": "A 9.0 agentic score for a newer entrant is closing on the established leaders faster than most tools manage in their first year."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 這次還是排第一，這禮拜想聊聊為什麼跟第三名的差距，跟跟第二名的差距一樣值得討論。OpenAI Codex 還是跟第一名幾乎打平，這個故事沒什麼變化，但 Cursor 排第三這件事值得仔細看，因為它贏的是完全不同的面向，IDE 整合分數 9.6，是這份排名裡最高的，靠的是直接活在你平常用的編輯器裡面，不用另外開一個終端機工作流程。\n\nClaude Code 的優勢還是建立在自主能力跟上下文處理上，兩項都是 9.7，這個組合在工具需要撐住一整個程式庫的上下文、完成一段很長的自主任務、又不能忘記前面做過的決定時最重要。OpenAI Codex 排第二，自主能力分數整份排名最高，9.6 分，自主完成任務的能力真的很強，不過 IDE 整合分數只有 8.2，代表這種以代理人為優先設計的工具，編輯器體驗這塊打磨得比較少。\n\nGoogle Antigravity 排第四，自主能力分數 9.0，成長速度很快，這個新進玩家追上老牌對手的速度，比這個類別大多數工具在第一年能做到的還快。Google Jules 排第五，各項分數都很平均，沒有特別突出也沒有明顯短板，適合還沒決定要用哪種工作流程哲學的團隊當一個穩妥的中間選項。\n\n我對前三名的建議還是很實際，想要代理人真正做自主工作，選 Claude Code 或 Codex，想要代理人活在你每天都在用的編輯器裡，選 Cursor。",
+          "highlights": [
+            {
+              "title": "Cursor 在 IDE 整合上完全領先",
+              "body": "分數 9.6，是這份排名最高的，靠的是直接活在開發者平常用的編輯器裡面，不用額外開一個終端機工作流程。"
+            },
+            {
+              "title": "Claude Code 領先自主能力跟上下文處理",
+              "body": "兩項都拿下 9.7 分，這是它能撐住整個程式庫上下文、完成長時間自主任務又不忘記先前決定的關鍵。"
+            },
+            {
+              "title": "OpenAI Codex 自主能力分數最高，達 9.6",
+              "body": "自主完成任務的能力非常強，不過 IDE 整合分數只有 8.2，編輯器體驗明顯落後於代理人能力。"
+            },
+            {
+              "title": "Google Antigravity 追趕速度很快",
+              "body": "身為新進玩家，自主能力分數來到 9.0，追上老牌對手的速度比這個類別大多數工具在第一年能做到的還快。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

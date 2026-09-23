@@ -17683,6 +17683,197 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-23",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.7,
+          "scores": {
+            "reasoning": 9.8,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.7,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.5,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "reasoning": 8.9,
+            "coding": 8.6,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "OpenAI announces rollout of GPT-6 Astra model",
+          "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "AI Agents News — Week of September 22, 2026",
+          "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+          "source": "AI Agent Store"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ChatGPT holds the top spot again this week, and the gap actually stayed wide even after competitors had two extra weeks to respond. OpenAI pushed a stable update to the GPT-6 Astra engine on September 14, refining the rough edges that showed up in the earlier limited rollout, and that kind of rapid iteration cadence is exactly what keeps ChatGPT's 9.8 reasoning score and 9.7 ecosystem score ahead of the field. Claude holds second, and the coding and writing scores tell the real story there, 9.7 on both, the highest of any assistant in this ranking on either metric. That's not a small gap to close, Claude's advantage in code generation and prose quality is consistent across nearly every independent benchmark this year, and it's the reason I keep recommending it specifically to anyone doing serious technical or long-form writing work. Gemini holds third with the best real-time information score outside of Grok at 9.5, Google's search integration remains a genuine structural advantage that a standalone chatbot without a live index simply cannot replicate. Grok holds fourth on the best real-time score in the whole ranking at 9.8, built on direct access to X's live firehose, but its 7.0 value score and 7.5 ecosystem score keep it out of the top three for anyone who isn't specifically prioritizing breaking-news responsiveness. Perplexity rounds out my top five as the search-first specialist, a 9.5 real-time score with an interface built around citations and source links, not open-ended conversation. My advice for picking between the top three stays the same, ChatGPT for breadth and speed of new features, Claude for code and writing quality specifically, Gemini for anyone already living inside Google's ecosystem.",
+          "highlights": [
+            {
+              "title": "GPT-6 Astra got a stable update on September 14",
+              "body": "OpenAI refined the engine after its early September rollout, extending ChatGPT's lead in reasoning and ecosystem scores this cycle."
+            },
+            {
+              "title": "Claude leads coding and writing outright",
+              "body": "A 9.7 score on both metrics is the highest of any assistant in this ranking, a consistent edge across independent benchmarks this year."
+            },
+            {
+              "title": "Grok posts the best real-time score at 9.8",
+              "body": "Direct access to X's live firehose drives that number, though a 7.0 value score keeps it out of the top three for most users."
+            },
+            {
+              "title": "Perplexity stays the citation-first specialist",
+              "body": "A 9.5 real-time score comes packaged with an interface built around sourced answers, not freeform chat."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ChatGPT 這禮拜還是排第一，而且就算對手多了兩個禮拜可以反應，差距還是沒有明顯縮小。OpenAI 在 9 月 14 日把 GPT-6 Astra 引擎推了一次穩定版更新，修掉了早期小範圍上線時出現的一些問題，這種快速迭代的節奏，正是 ChatGPT 的推理分數 9.8 跟生態系分數 9.7 能繼續領先的原因。\n\nClaude 排第二，程式跟寫作分數才是真正的重點，兩項都是 9.7，是這份排名裡所有助理當中最高的。這個差距不小，Claude 在程式生成跟文字品質上的優勢，今年在幾乎每一份獨立評測裡都很一致，這也是我一直特別推薦給做正經技術工作或長文寫作的人的原因。\n\nGemini 排第三，即時資訊分數在 Grok 之外是最高的，9.5 分，Google 的搜尋整合是一個真正的結構性優勢，單純的聊天機器人如果沒有即時索引，根本沒辦法複製這個優勢。Grok 排第四，即時資訊分數整份排名最高，9.8 分，靠的是直接接上 X 的即時資料流，不過價值分數只有 7.0、生態系分數只有 7.5，除非你特別在意即時新聞反應速度，不然很難排進前三名。\n\nPerplexity 排進前五，走的是搜尋優先的專業路線，即時資訊分數 9.5，介面設計圍繞引用來源打造，聊天體驗走得比較簡潔。我對前三名的建議沒變，要功能廣度跟新功能推出速度選 ChatGPT，要程式跟寫作品質選 Claude，已經活在 Google 生態系裡的人選 Gemini。",
+          "highlights": [
+            {
+              "title": "GPT-6 Astra 在 9 月 14 日推出穩定版更新",
+              "body": "OpenAI 在早期小範圍上線後修正了引擎問題，讓 ChatGPT 這輪在推理跟生態系分數上的領先繼續拉開。"
+            },
+            {
+              "title": "Claude 在程式跟寫作上直接領先",
+              "body": "兩項都拿下 9.7 分，是這份排名所有助理裡最高的，這個優勢今年在多份獨立評測裡都很一致。"
+            },
+            {
+              "title": "Grok 即時資訊分數整份排名最高，達 9.8",
+              "body": "靠直接接上 X 的即時資料流拿下這個分數，不過價值分數只有 7.0，讓它很難擠進大多數人的前三名。"
+            },
+            {
+              "title": "Perplexity 維持引用優先的專業定位",
+              "body": "即時資訊分數 9.5，介面圍繞著附來源的答案打造，聊天體驗比較精簡。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

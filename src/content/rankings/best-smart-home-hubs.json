@@ -2173,6 +2173,217 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-23",
+      "rankings": [
+        {
+          "id": "home-assistant-green",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "offlineSurvival": 9.8,
+            "localAutomation": 9.7,
+            "radios": 6.0,
+            "matterVersion": 9.0,
+            "apiPolicy": 9.9,
+            "setupEffort": 6.5,
+            "value": 8.6,
+            "twAvailability": 5.5
+          }
+        },
+        {
+          "id": "hubitat-c8-pro",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "offlineSurvival": 9.6,
+            "localAutomation": 9.4,
+            "radios": 9.5,
+            "matterVersion": 9.6,
+            "apiPolicy": 9.2,
+            "setupEffort": 6.8,
+            "value": 8.4,
+            "twAvailability": 4.5
+          }
+        },
+        {
+          "id": "homey-pro-2026",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "offlineSurvival": 9.0,
+            "localAutomation": 9.2,
+            "radios": 9.8,
+            "matterVersion": 8.8,
+            "apiPolicy": 7.6,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 4.0
+          }
+        },
+        {
+          "id": "aqara-hub-m3",
+          "rank": 4,
+          "score": 7.9,
+          "scores": {
+            "offlineSurvival": 7.6,
+            "localAutomation": 7.8,
+            "radios": 8.2,
+            "matterVersion": 8.4,
+            "apiPolicy": 6.8,
+            "setupEffort": 8.8,
+            "value": 8.6,
+            "twAvailability": 8.5
+          }
+        },
+        {
+          "id": "switchbot-hub-3",
+          "rank": 5,
+          "score": 7.2,
+          "scores": {
+            "offlineSurvival": 6.6,
+            "localAutomation": 6.8,
+            "radios": 6.4,
+            "matterVersion": 8.0,
+            "apiPolicy": 7.4,
+            "setupEffort": 9.2,
+            "value": 8.8,
+            "twAvailability": 8.8
+          }
+        },
+        {
+          "id": "aeotec-smart-home-hub",
+          "rank": 6,
+          "score": 6.6,
+          "scores": {
+            "offlineSurvival": 6.8,
+            "localAutomation": 7.4,
+            "radios": 9.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 7.8,
+            "value": 6.4,
+            "twAvailability": 4.2
+          }
+        },
+        {
+          "id": "smartthings-station",
+          "rank": 7,
+          "score": 6.2,
+          "scores": {
+            "offlineSurvival": 5.4,
+            "localAutomation": 6.2,
+            "radios": 5.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 9.0,
+            "value": 8.2,
+            "twAvailability": 6.5
+          }
+        },
+        {
+          "id": "apple-tv-4k",
+          "rank": 8,
+          "score": 6.0,
+          "scores": {
+            "offlineSurvival": 8.4,
+            "localAutomation": 7.0,
+            "radios": 4.5,
+            "matterVersion": 7.6,
+            "apiPolicy": 5.2,
+            "setupEffort": 9.4,
+            "value": 4.2,
+            "twAvailability": 9.5
+          }
+        },
+        {
+          "id": "amazon-echo-hub",
+          "rank": 9,
+          "score": 5.6,
+          "scores": {
+            "offlineSurvival": 4.2,
+            "localAutomation": 5.0,
+            "radios": 8.4,
+            "matterVersion": 7.4,
+            "apiPolicy": 4.4,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 3.5
+          }
+        },
+        {
+          "id": "google-home-speaker",
+          "rank": 10,
+          "score": 5.2,
+          "scores": {
+            "offlineSurvival": 3.8,
+            "localAutomation": 4.4,
+            "radios": 5.2,
+            "matterVersion": 7.0,
+            "apiPolicy": 4.2,
+            "setupEffort": 9.2,
+            "value": 6.6,
+            "twAvailability": 3.2
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "The Smart Home Is Dead: Welcome to the AI-Powered Home That Wants to Run Itself",
+          "url": "https://www.ynetnews.com/tech-and-digital/article/hkugjlofzx",
+          "source": "Ynet News"
+        },
+        {
+          "title": "IFA 2026 Smart Home: Every Announcement Worth Knowing",
+          "url": "https://smarthomeassistant.co.uk/articles/home-automation/ifa-2026-smart-home",
+          "source": "Smart Home Assistant"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Home Assistant Green keeps the top spot at 9.1, and a headline making the rounds this week gives me a good excuse to restate why. Ynet's piece on the post-IFA smart home industry argues the smart home as we knew it is dead, replaced by an 'AI-powered home that wants to run itself,' fridges talking to ovens, vacuums recognizing objects, systems making decisions without being asked. That framing sells well at a trade show. It also describes exactly the kind of black-box automation that scores badly on every factor that matters here.\n\nAn AI system that runs your home for you, on somebody else's cloud, using somebody else's model, fails the same way every cloud-dependent hub fails when its company pivots or a server goes down: Offline Survival and API Access, the two categories where Home Assistant Green scores 9.8 and 9.9. Nothing about running itself helps it survive a service shutdown any better than SmartThings Station's 5.4 offline score does.\n\nI'm not dismissing the AI-powered pitch entirely. A hub that adapts to patterns without manual rule-writing is a real convenience gain, and it's a fair criticism of Home Assistant's 6.5 setup-effort score. But convenience and control aren't the same axis, and this category exists because I've watched too many 'smart' systems get bricked by a business decision. Local automation that you own and can audit beats automation that only works as long as someone else's cloud does.",
+          "highlights": [
+            {
+              "title": "'The smart home is dead' headline misses the point",
+              "body": "Ynet's post-IFA piece describes an AI-powered home that runs itself, appliances talking to each other and making decisions unprompted."
+            },
+            {
+              "title": "That framing describes a black box, not a feature",
+              "body": "An AI running on someone else's cloud fails exactly the way every cloud-dependent hub fails when the company behind it pivots."
+            },
+            {
+              "title": "Home Assistant Green's offline scores explain why it wins",
+              "body": "A 9.8 offline survival score and 9.9 API access score mean it keeps working regardless of what any vendor decides next quarter."
+            },
+            {
+              "title": "The AI pitch has one fair point",
+              "body": "Adapting to patterns without manual rules is a real convenience gain, and it is a fair knock on Home Assistant's 6.5 setup-effort score."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Home Assistant Green 繼續守住第一，九點一分，這禮拜有一篇標題引起不少討論，剛好給我一個機會把道理再講一次。Ynet 那篇談 IFA 之後智慧家庭產業走向的文章主張，我們熟悉的智慧家庭已經走入歷史，取而代之的是一個會自己運作的 AI 家庭，冰箱跟烤箱互相溝通，掃地機器人自己辨識物品，系統不用你開口就自己做決定。這種說法在展場上很好賣，但描述的其實正是那種在這份排名每一項評分標準上都會被扣分的黑箱自動化。\n\n一套讓別人家的雲端、別人家的模型幫你跑整個家的 AI 系統，出問題的方式跟每一套依賴雲端的智慧家庭主機一模一樣，公司轉型或伺服器停擺，一切就跟著停擺。離線存活力跟 API 存取政策，正是 Home Assistant Green 拿下九點八分跟九點九分的兩個項目。系統會不會自己運作，跟服務商停止營運時它還能不能運作，完全是兩回事。\n\n我並不打算全盤否定 AI 自動化這個賣點。一套能自己抓出使用模式、不用手動寫規則的主機，確實是真實的便利提升，這也公平地點出 Home Assistant 六點五分的安裝門檻分數確實偏高。不過便利跟掌控權是兩條不同的軸線，這個類別存在的理由，就是我看過太多次所謂的智慧系統，因為一個商業決策說停就停。自己擁有、自己能稽核的在地自動化，勝過一套只在別人雲端還活著時才能運作的自動化。",
+          "highlights": [
+            {
+              "title": "智慧家庭已死的標題沒說到重點",
+              "body": "Ynet 這篇 IFA 後續報導描述一個會自己運作的 AI 家庭，家電互相溝通、系統不用開口就自己做決定。"
+            },
+            {
+              "title": "這種描述其實就是黑箱",
+              "body": "靠別人雲端運作的 AI 系統，出問題的方式跟每一套依賴雲端的主機一樣，公司轉型立刻受影響。"
+            },
+            {
+              "title": "Home Assistant Green 靠離線分數贏得第一",
+              "body": "九點八分的離線存活力跟九點九分的 API 存取分數，代表不管廠商下一季做什麼決定，它都照常運作。"
+            },
+            {
+              "title": "AI 這個賣點也有講對的地方",
+              "body": "自動抓使用模式不用手動寫規則確實方便，這也公平點出 Home Assistant 六點五分的安裝門檻分數偏高。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

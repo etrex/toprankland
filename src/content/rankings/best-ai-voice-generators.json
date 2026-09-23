@@ -18809,6 +18809,211 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-23",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.4,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "fish-audio-openaudio-s1",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.1,
+            "emotionalRange": 8.8,
+            "languageSupport": 8.0,
+            "latency": 8.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 9.8,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 8,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 8.3,
+            "emotionalRange": 7.7,
+            "languageSupport": 8.6,
+            "latency": 7.8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Coding Assistants as of September 2026",
+          "url": "https://www.shakudo.io/blog/best-ai-coding-assistants",
+          "source": "Shakudo"
+        },
+        {
+          "title": "AI Agents News — Week of September 22, 2026",
+          "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+          "source": "AI Agent Store"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs and Inworld's TTS-1.5 Max stay locked in a near tie at the top, and the real-time latency race between them just got more competitive pressure from an unexpected direction. Google folded voice tools deeper into Gemini Live and Workspace as part of its August rollout across Pixel and Chrome, and that kind of default, built-in voice agent is exactly the audience Cartesia Sonic 3 and Inworld are racing to win with dedicated tooling. Cartesia's perfect 10.0 latency score still makes it the fastest option here for anything that needs a voice to respond mid conversation, phone agents, live translation, customer support bots, and that gap matters more as more of this category moves from batch narration to live back and forth. Inworld's 9.8 latency score sits right behind it while still leading on overall voice realism among the fast tier, which is why it keeps pace with ElevenLabs despite ElevenLabs holding the wider language support lead at 9.8. Fish Audio's OpenAudio S1 remains the value standout at 9.8, the best combination of quality and price for teams that don't need enterprise SLAs. For anything shipping as a live product feature, not a one-off narration piece, I'd start the shortlist with Cartesia and Inworld before ElevenLabs, and only reach for ElevenLabs when emotional range and language breadth outweigh raw response speed.",
+          "highlights": [
+            {
+              "title": "Google raises the bar on built-in voice agents",
+              "body": "Its August Gemini Live and Workspace rollout across Pixel and Chrome puts default, real-time voice in front of more users than any dedicated app."
+            },
+            {
+              "title": "Cartesia Sonic 3 is still the latency leader",
+              "body": "A perfect 10.0 latency score makes it the fastest option for live back and forth use cases like phone agents and customer support bots."
+            },
+            {
+              "title": "Inworld keeps pace on realism at speed",
+              "body": "A 9.8 latency score paired with strong voice realism keeps it neck and neck with ElevenLabs in the fast tier."
+            },
+            {
+              "title": "Fish Audio's OpenAudio S1 wins on value",
+              "body": "Its 9.8 value for money score is the best combination of quality and price for teams that don't need enterprise SLAs."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ElevenLabs 跟 Inworld 的 TTS-1.5 Max 這次還是打成平手，兩家在即時延遲上的競爭，最近多了一個意外的壓力來源。Google 在八月把語音工具更深地整合進 Gemini Live 跟 Workspace，讓 Pixel 手機跟 Chrome 瀏覽器都內建這種語音助理，這正是 Cartesia Sonic 3 跟 Inworld 這類專門工具想搶下的市場。Cartesia 拿到滿分 10.0 的延遲分數，在需要即時對答的場景，像是電話客服、即時口譯、客服機器人，還是這裡速度最快的選項，而且這個差距只會越來越重要，因為這個類別正從錄好的旁白配音，轉向真正的即時來回對話。Inworld 拿下 9.8 的延遲分數緊跟在後，同時在快速這個等級裡語音真實度還是領先的，這就是它能跟 ElevenLabs 打得有來有往的原因，即使 ElevenLabs 在語言支援上以 9.8 分保持領先。Fish Audio 的 OpenAudio S1 性價比拿下 9.8 分，依然是這裡最划算的選擇，適合不需要企業級服務等級協議的團隊。如果你要做的是即時上線的產品功能，不只是單次錄一段旁白就結束的案子，我會先從 Cartesia 跟 Inworld 開始考慮，等情感表現跟語言廣度比回應速度更重要的時候，才輪到 ElevenLabs。",
+          "highlights": [
+            {
+              "title": "Google 拉高內建語音助理的門檻",
+              "body": "八月的 Gemini Live 跟 Workspace 更新讓 Pixel 手機跟 Chrome 瀏覽器都內建即時語音，觸及的用戶比任何專屬 App 都多。"
+            },
+            {
+              "title": "Cartesia Sonic 3 依然是延遲最短的",
+              "body": "滿分 10.0 的延遲分數，讓它在電話客服、客服機器人這類即時來回場景裡還是速度最快的選擇。"
+            },
+            {
+              "title": "Inworld 在速度跟真實度之間維持平衡",
+              "body": "9.8 分的延遲分數配上不錯的語音真實度，讓它在快速這個等級裡跟 ElevenLabs 打得不相上下。"
+            },
+            {
+              "title": "Fish Audio 的 OpenAudio S1 性價比最高",
+              "body": "9.8 分的性價比，是品質跟價格搭配得最好的選擇，適合不需要企業級服務等級協議的團隊。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
