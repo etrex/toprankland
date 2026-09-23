@@ -45,6 +45,15 @@
 - **痘痘貼市場規模同樣出現大範圍分歧，5.8 億到 13.1 億美元、CAGR 6.8% 到 11.4% 不等，差距同樣來自「痘痘貼」與「廣義抗痘貼片」口徑不同，本輪建站論述採用區間表述而不指定單一數字，避免像過去曾出現過的冰箱市場數據錯誤（起訖年數字相同）那樣引用有問題的單一來源**。
 - **28 天的報告空窗期本身是一個需要記錄的營運訊號**。這段期間 git 紀錄顯示每日更新與競品維護持續在跑（含 09-22 兩筆提交），代表日常維運沒有中斷，但新主題發掘的節奏停了，待建清單因此只出不進。本輪不處理排程分配，但建議下一次有排程判斷權限的工作階段把 best-ai-wearables 的死線失效、best-medical-alert-systems 與 best-cloud-storage 兩題原訂死線（10 月 1 日、11 月 30 日）是否還來得及，一併排入檢查項目。
 
+## 2026-09-23 — best-antivirus-software 上線
+
+- 依 08-26 研究報告第一優先題建置並上線 `best-antivirus-software`，死線為 9 月 25 日（十月 Cybersecurity Awareness Month 批次），分類 Software，10 個競品，雙語完整，EN commentary 約 330 字、ZH 約 850 字，兩邊各 5 個 highlights。
+- scoreFactors 依報告設計七欄：續約價與實際年費（renewalCost）、獨立實驗室偵測率（labScore）、系統效能影響（performance）、自動續訂與退訂難度（renewalFriction）、跨平台裝置數（platforms）、附加功能（extras）、法規信任度（trust，涵蓋隱私與可用性）。
+- 建置前用 WebSearch/WebFetch 逐一核實十家官網現價與 AV-TEST 2026 年 6 月測試表（av-test.org/en/antivirus/home-windows/），過程中修正了研究助理初稿的一個錯誤：Bitdefender 並非「連四年拿下 AV-Comparatives 年度產品」，正確是 2025 年報告拿 Top-Rated Product（實測防護銀牌、進階威脅防護金牌），真正拿下 2024 年 Product of the Year 整體大獎的是 ESET HOME Security Essential，這點已回官方部落格 (eset.com) 核實並改寫進文案，成為 ESET 排名第二的主論點。
+- 名次：Bitdefender Total Security（$59.99/5 台，AV-TEST 6/6/6，VPN 每日僅 200MB）第一；ESET HOME Security Essential（$39.99/5 台，唯一拿下 AV-Comparatives 年度產品大獎、Essential 層級無 VPN）第二；Norton 360 Deluxe（首年 $49.99、續約 $124.99 官網明寫）第三；Microsoft Defender（免費內建，AV-TEST 6/5.5/6，僅 Windows 且無 VPN）第四；Avast One（最多 10 台，母公司 Gen Digital 有 2020 Jumpshot 賣瀏覽紀錄爭議）第五；AVG Internet Security（同 Gen Digital，官網未清楚標示續約價）第六；Trend Micro Maximum Security（唯一在 AV-TEST 只拿「合格」未達「最佳產品」的付費套裝，但台灣官網 trendmicro.com/zh_tw 有真實新台幣定價）第七；Malwarebytes Premium（本輪 AV-TEST 2026 年 6 月 Windows 家用名單未收錄，偵測率無法第三方驗證）第八；McAfee+ Premium（首年價最低、裝置數無限，但官方帳戶頁證實無限流量 VPN 綁自動續訂，關掉即降為每月 500MB）第九；Kaspersky Premium（美國商務部禁令 2024-09-29 全面生效且持續有效，美國境內無法合法更新病毒碼，列最後一名）第十。
+- URL 驗證：mcafee.com 全站對一般 UA 回 000／對瀏覽器 UA 回 403，比照既有規則視為有效；其餘九個官網 URL 皆 200。
+- 待辦：08-26 報告同批的 best-identity-theft-protection（死線 9/30）、best-medical-alert-systems（死線 10/1）尚未建置，建議排入下一輪。
+
 ## 2026-08-26 研究報告
 
 ### 新主題建議
