@@ -2,6 +2,49 @@
 
 ---
 
+## 2026-09-23 研究報告
+
+### 開場註記
+
+距離上一份研究報告（08-26）已經 28 天，這段期間站上持續有每日更新與競品維護的提交紀錄（含 09-22 的兩筆），但沒有新增研究報告，代表待建清單在這 28 天裡只有出沒有進。用腳本比對 08-26 報告列出的待建與觀察題與目前 130 份已上線榜單，確認 best-graphics-cards、best-cookware-sets、best-washing-machines 等九題已經上線，但 best-ai-wearables（原訂 09-22 死線）、best-bluetooth-trackers、best-medical-alert-systems、best-cloud-storage 等仍未建置。本輪任務範圍限定在市場研究與新主題發掘，不處理既有待建清單的排程，但其中兩題（best-ai-wearables、best-bluetooth-trackers）今天查到的市場訊號夠強，值得在這裡記錄下來供排程判斷使用。
+
+### 新主題建議
+
+1. **Best AI Pendants / Voice Recorders 2026（原 best-ai-wearables 的死線已過期，本輪判斷是把它拆成更窄的子題，因為過去一個月市場本身把這個品類的邊界收斂了）**
+   - 建議 slug: `best-ai-pendants`（與既有 best-ai-wearables 規劃分流，智慧眼鏡已經由 best-smart-glasses 覆蓋，智慧手錶與戒指也各自有專題，AI 錄音吊墜是唯一還沒有落點的子品類）
+   - EN title: Best AI Pendants and Voice Recorders of 2026: Plaud Note Pro, Plaud NotePin S, Omi and UMEVO Note Plus Ranked After the Limitless Discontinuation
+   - ZH-TW title: 2026 最佳 AI 錄音吊墜排行榜：Plaud Note Pro、Plaud NotePin S、Omi 與 UMEVO Note Plus 在 Limitless 停售後的完整比較
+   - 目標關鍵字: best ai pendant 2026, limitless pendant alternative, plaud vs limitless, best ai notetaker 2026, omi pendant review, plaud notepin review, best ai voice recorder for meetings, limitless pendant discontinued, best wearable ai recorder, plaud note pro vs notepin s
+   - 建站理由與 SEO 判斷。這題在今天有了一個過去沒有的明確事件，Meta 在 2025 年 12 月收購 Limitless 之後立刻停止對新客戶販售 Limitless Pendant，舊用戶保留存取但新用戶完全買不到，這代表這個品類的市場領導者之一在一個月內從「可購買」變成「已停售」，而站上以及所有既有內容都是寫在停售之前。「limitless pendant alternative」與「plaud vs limitless」這兩組搜尋在停售後會出現一次性的高峰，因為既有的 Limitless 用戶與原本考慮購買的讀者同時要找替代方案，這正是站上「即時性補位」內容最擅長的場景。內容不可取代性建立在三點。第一，Plaud 與 Limitless 的定位其實不同，Plaud 是主動按鍵錄音、以會議與通話為主，Limitless 是全天候環境收音、以搜尋式記憶為主，多數既有內容把兩者當同類產品直接比規格，但正確的購買建議應該先問使用情境再推薦，這個決策樹目前沒有人做。第二，前 Limitless 用戶的遷移去向是 Omi，這是一款開源硬體與軟體的替代品，站上如果能在停售新聞發酵的窗口內把 Omi 的定位講清楚，可以承接這批搜尋。第三，Plaud Note Pro、NotePin S 與 UMEVO Note Plus 三款產品分別對應專業錄音、穿戴式與高性價比三個定位，售價從 99 美元到 169 美元不等並疊加訂閱轉錄費，這個「硬體加訂閱」的雙層定價結構與站上在 best-smart-speakers、best-security-cameras 已經確立的訂閱依賴度欄位可以直接沿用，製作成本因此降低。商業價值中等偏高，這個品類單價不算特別高但轉錄訂閱的續訂率是主要利潤來源，聯盟抽成通常綁定首購。風險是這個賽道變動速度快，Plaud 與 Limitless 這類新創的產品線與定價每季都可能調整，頁面需要排入月度複查而不是季度複查。
+   - 候選競品（8個）: Plaud Note Pro, Plaud NotePin S, Omi, UMEVO Note Plus, Bee Pioneer, Friend Pendant, Compass AI Pendant, Limitless Pendant（標示停售、僅供舊用戶比較參考）
+   - 候選 scoreFactors: 硬體售價與訂閱轉錄費、錄音模式（主動按鍵 vs 全天候環境收音）、電池續航、通話錄音能力、資料保存與匯出、隱私與 Consent Mode、適用情境（會議 vs 生活記憶）
+
+2. **Best Bluetooth Trackers 2026（從 08-26 的觀察題名單移入建議建置，理由是今天查到的媒體覆蓋密度明顯超過典型觀察題）**
+   - 建議 slug: `best-bluetooth-trackers`
+   - EN title: Best Bluetooth Trackers of 2026: Apple AirTag 2, Chipolo Loop, Samsung SmartTag2 and Tile by Life360 Ranked by Network Size, Range and Real-World Loudness
+   - ZH-TW title: 2026 最佳藍牙防丟器排行榜：Apple AirTag 2、Chipolo Loop、Samsung SmartTag2 與 Tile by Life360 依尋物網路規模、有效距離與實測音量推薦
+   - 目標關鍵字: best bluetooth tracker 2026, airtag 2 vs chipolo, best key finder 2026, bluetooth tracker for luggage, best item tracker for android, airtag vs tile vs chipolo, best bluetooth tracker for wallet, samsung smarttag2 review, find my network vs tile network, best bluetooth tracker for car
+   - 建站理由與 SEO 判斷。這題從觀察題移入建置名單的依據是今天同時查到 CNN Underscored、Engadget、Tom's Guide、SafeWise、BGR、Technobezz、TechTimes 七家主流媒體都在 2026 年重新發布或更新這個品類的排行內容，這個覆蓋密度代表品類本身的商業搜尋量足以撐起持續更新的內容產線，一般觀察題不會同時被七家媒體覆蓋。品類本身也剛好處在產品換代週期，AirTag 2 與 Chipolo Loop 是今年的重點比較，多篇報導指出 Chipolo Loop 在有效距離與音量實測上超越 AirTag 2，這種「非蘋果產品在特定規格贏過蘋果」的結論本身就是內容差異點，因為多數讀者預設 AirTag 一定最好。內容不可取代性建立在三點。第一，尋物網路規模是這個品類唯一真正決定「找得到找不到」的變因，Apple 的 Find My 網路裝置基數最大、Samsung 的 SmartTag 網路次之、Tile 網路與 Google 的 Find Hub 網路仍在成長，這個排序需要每季複查裝置基數的變化，是護城河而不是一次寫完的規格表。第二，Android 與 iPhone 用戶各自能用的產品不同，AirTag 對 Android 用戶幾乎沒有實用性，這個「先問手機系統再推薦」的決策樹目前多數榜單處理得很粗糙。第三，站內連結價值高，best-travel-backpacks、best-carry-on-luggage 兩題的讀者本身就是這個品類的核心受眾（行李防丟），best-smart-home-hubs 讀者則對應居家防丟情境，三題互相導流不需要額外研究成本。商業價值中等，單價落在 20 至 35 美元，客單價不高但這是家庭多件購買的品類（一戶通常買 3 至 5 個），實際訂單金額會比單件售價高。窗口不強制，屬常青題，但建議排在感恩節前的行李與旅遊季，死線可訂在 11 月 10 日與 best-carry-on-luggage 同批。
+   - 候選競品（10個）: Apple AirTag 2, Chipolo Loop, Samsung SmartTag2, Tile by Life360 Pro, Pebblebee Clip, Google Find Hub Tag, Chipolo ONE Point, Tile Sticker, eufy SmartTrack Card, Samsung SmartTag2 Plus
+   - 候選 scoreFactors: 尋物網路裝置基數、有效距離、實測音量、電池續航與是否可更換電池、防水等級、iOS/Android 相容性、外型（吊飾型 vs 卡片型）
+
+3. **Best Pimple Patches 2026（全新主題，不在既有待建或觀察清單內，補上站上護膚垂直裡搜尋頻率最高但客單價最低、回購率最高的一塊）**
+   - 建議 slug: `best-pimple-patches`
+   - EN title: Best Pimple Patches of 2026: Mighty Patch, Peace Out, ZitSticka, COSRX and Rael Ranked by Hydrocolloid Absorption, Ingredient Actives and Cost Per Patch
+   - ZH-TW title: 2026 最佳痘痘貼排行榜：Mighty Patch、Peace Out、ZitSticka、COSRX 與 Rael 依水膠吸附力、活性成分與單片成本推薦
+   - 目標關鍵字: best pimple patch 2026, mighty patch vs zitsticka, best hydrocolloid patch, pimple patch for cystic acne, best pimple patch with salicylic acid, peace out acne patch review, best microdart pimple patch, cosrx pimple patch review, best pimple patch for dark spots, how long to leave pimple patch on
+   - 建站理由與 SEO 判斷。這題查到的市場規模數字分散在 5.8 億到 13.1 億美元之間，差距來自「痘痘貼」與「廣義抗痘貼片」兩種口徑，CAGR 落在 6.8% 到 11.4% 之間，數字本身分歧但方向一致，每一組來源都指向成長。這題成立的關鍵在於產品分層已經在過去兩年明顯複雜化，而不只是市場規模的成長。最早的水膠貼片只是物理吸附滲出液，現在的產品線分成三層，基礎水膠款（Mighty Patch Original）、添加水楊酸或茶樹油等活性成分款（COSRX、Rael），以及微針滲透款（ZitSticka Killa、Peace Out Microdart），三層的適用痘痘型態完全不同，水膠款只對已經出頭的痘痘有效，微針款則設計給尚未出頭的囊腫型痘痘，這個「先辨識痘痘型態再選產品層級」的決策樹是既有內容裡最常缺漏的部分，多數榜單仍然把三層產品放在同一組規格表裡比較，忽略了它們根本是為不同問題設計的。內容不可取代性的第二點是單片成本，這個品類的定價從一盒 24 片 12 美元到一盒 8 片 34 美元不等，換算下來單片成本差距可以到六倍，把「單片實際成本」做成排序欄位是站上「真實總成本」方法論在低客單價消耗品上的直接應用，也是這個品類目前沒人做的欄位。第三點是這個品類與站上已有的 best-led-face-masks、best-exosome-serums、best-pdrn-serums、best-sunscreens、best-teeth-whitening-kits 五題共用同一批護膚受眾，站內互相導流的邊際成本很低。商業價值方面單價低但回購頻率高，一般消費者每一到兩個月回購一次，聯盟連結的重複轉換率會比高單價電子品類穩定，適合搭配內容更新頻率較高的常青排程。窗口不強制，可排入評測產線的空檔批次。
+   - 候選競品（10個）: Mighty Patch Original, Mighty Patch Micropoint, ZitSticka Killa, Peace Out Acne Micro-Dart Patch, COSRX Acne Pimple Master Patch, Rael Miracle Patch, Starface Hydro-Stars, Hero Cosmetics Rescue Balm, La Roche-Posay Effaclar Patch, Differin Acne Patches
+   - 候選 scoreFactors: 水膠吸附力與尺寸選擇、活性成分（水楊酸、茶樹油、微針）、單片實際成本、適用痘痘型態、隱形度與是否服貼、材質是否含有害成分、包裝片數與保存期限
+
+### 市場動態
+
+- **AI 錄音吊墜品類在 08-26 之後出現結構性變動，Meta 收購 Limitless 並於 2025 年 12 月停止對新客戶販售，這是站上待建的 best-ai-wearables 需要立刻知道的事件**。舊用戶保留存取但新用戶完全買不到，多數原本考慮購買 Limitless 的使用者轉向開源替代品 Omi，Plaud 則靠 Note Pro（音質最佳）、NotePin S（穿戴款最佳）鞏固專業會議錄音市場，UMEVO Note Plus 定位高性價比。這代表 best-ai-wearables 若沿用停售前的品牌名單會直接過期，建議依上方新主題建議拆成 best-ai-pendants 獨立處理，智慧眼鏡維持在 best-smart-glasses 內。
+- **藍牙防丟器品類今天查到七家主流媒體（CNN Underscored、Engadget、Tom's Guide、SafeWise、BGR、Technobezz、TechTimes）同時在 2026 年更新排行內容，這個覆蓋密度是本輪判斷把 best-bluetooth-trackers 從觀察題移入建置名單的直接依據**。多篇報導指出 Chipolo Loop 在有效距離與音量實測上超越 AirTag 2，這個「非蘋果產品部分規格更優」的結論值得寫進頁面，因為多數讀者的預設答案是蘋果最好。
+- **資料查核註記，本輪嘗試查「藍牙防丟器市場規模」得到的多組數字實際上是「資產追蹤 Asset Tracking」這個企業端市場（2026 年 279 億至 324 億美元、CAGR 11% 至 15%），與消費端個人物品防丟器是不同口徑，不可直接引用**。消費端藍牙防丟器的市場規模沒有查到獨立公開數字，這題的建站論述改用媒體覆蓋密度與產品換代週期作為佐證，不引用資產追蹤數字，避免誤導。
+- **痘痘貼市場規模同樣出現大範圍分歧，5.8 億到 13.1 億美元、CAGR 6.8% 到 11.4% 不等，差距同樣來自「痘痘貼」與「廣義抗痘貼片」口徑不同，本輪建站論述採用區間表述而不指定單一數字，避免像過去曾出現過的冰箱市場數據錯誤（起訖年數字相同）那樣引用有問題的單一來源**。
+- **28 天的報告空窗期本身是一個需要記錄的營運訊號**。這段期間 git 紀錄顯示每日更新與競品維護持續在跑（含 09-22 兩筆提交），代表日常維運沒有中斷，但新主題發掘的節奏停了，待建清單因此只出不進。本輪不處理排程分配，但建議下一次有排程判斷權限的工作階段把 best-ai-wearables 的死線失效、best-medical-alert-systems 與 best-cloud-storage 兩題原訂死線（10 月 1 日、11 月 30 日）是否還來得及，一併排入檢查項目。
+
 ## 2026-08-26 研究報告
 
 ### 新主題建議
