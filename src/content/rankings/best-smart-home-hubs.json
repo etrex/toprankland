@@ -2384,6 +2384,217 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-24",
+      "rankings": [
+        {
+          "id": "home-assistant-green",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "offlineSurvival": 9.8,
+            "localAutomation": 9.7,
+            "radios": 6.0,
+            "matterVersion": 9.0,
+            "apiPolicy": 9.9,
+            "setupEffort": 6.5,
+            "value": 8.6,
+            "twAvailability": 5.5
+          }
+        },
+        {
+          "id": "hubitat-c8-pro",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "offlineSurvival": 9.6,
+            "localAutomation": 9.4,
+            "radios": 9.5,
+            "matterVersion": 9.6,
+            "apiPolicy": 9.2,
+            "setupEffort": 6.8,
+            "value": 8.4,
+            "twAvailability": 4.5
+          }
+        },
+        {
+          "id": "homey-pro-2026",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "offlineSurvival": 9.0,
+            "localAutomation": 9.2,
+            "radios": 9.8,
+            "matterVersion": 8.8,
+            "apiPolicy": 7.6,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 4.0
+          }
+        },
+        {
+          "id": "aqara-hub-m3",
+          "rank": 4,
+          "score": 7.9,
+          "scores": {
+            "offlineSurvival": 7.6,
+            "localAutomation": 7.8,
+            "radios": 8.2,
+            "matterVersion": 8.4,
+            "apiPolicy": 6.8,
+            "setupEffort": 8.8,
+            "value": 8.6,
+            "twAvailability": 8.5
+          }
+        },
+        {
+          "id": "switchbot-hub-3",
+          "rank": 5,
+          "score": 7.2,
+          "scores": {
+            "offlineSurvival": 6.6,
+            "localAutomation": 6.8,
+            "radios": 6.4,
+            "matterVersion": 8.0,
+            "apiPolicy": 7.4,
+            "setupEffort": 9.2,
+            "value": 8.8,
+            "twAvailability": 8.8
+          }
+        },
+        {
+          "id": "aeotec-smart-home-hub",
+          "rank": 6,
+          "score": 6.6,
+          "scores": {
+            "offlineSurvival": 6.8,
+            "localAutomation": 7.4,
+            "radios": 9.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 7.8,
+            "value": 6.4,
+            "twAvailability": 4.2
+          }
+        },
+        {
+          "id": "smartthings-station",
+          "rank": 7,
+          "score": 6.2,
+          "scores": {
+            "offlineSurvival": 5.4,
+            "localAutomation": 6.2,
+            "radios": 5.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 9.0,
+            "value": 8.2,
+            "twAvailability": 6.5
+          }
+        },
+        {
+          "id": "apple-tv-4k",
+          "rank": 8,
+          "score": 6.0,
+          "scores": {
+            "offlineSurvival": 8.4,
+            "localAutomation": 7.0,
+            "radios": 4.5,
+            "matterVersion": 7.6,
+            "apiPolicy": 5.2,
+            "setupEffort": 9.4,
+            "value": 4.2,
+            "twAvailability": 9.5
+          }
+        },
+        {
+          "id": "amazon-echo-hub",
+          "rank": 9,
+          "score": 5.6,
+          "scores": {
+            "offlineSurvival": 4.2,
+            "localAutomation": 5.0,
+            "radios": 8.4,
+            "matterVersion": 7.4,
+            "apiPolicy": 4.4,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 3.5
+          }
+        },
+        {
+          "id": "google-home-speaker",
+          "rank": 10,
+          "score": 5.2,
+          "scores": {
+            "offlineSurvival": 3.8,
+            "localAutomation": 4.4,
+            "radios": 5.2,
+            "matterVersion": 7.0,
+            "apiPolicy": 4.2,
+            "setupEffort": 9.2,
+            "value": 6.6,
+            "twAvailability": 3.2
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "The Smart Home Is Dead: Welcome to the AI-Powered Home That Wants to Run Itself",
+          "url": "https://www.ynetnews.com/tech-and-digital/article/hkugjlofzx",
+          "source": "Ynet News"
+        },
+        {
+          "title": "IFA 2026 Smart Home: Every Announcement Worth Knowing",
+          "url": "https://smarthomeassistant.co.uk/articles/home-automation/ifa-2026-smart-home",
+          "source": "Smart Home Assistant"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Home Assistant Green keeps the top spot because it is still the most complete local-first hub you can buy, even after Nabu Casa's price increase from $99 to $199 in January. That hike stung, but the company published the actual RAM cost breakdown behind it, which is the kind of transparency I want from an open-source-adjacent company, and every automation on this box still runs without a single vendor account required to arm it.\n\nHubitat's C8 Pro holds second because it packs Z-Wave 800 Long Range, Zigbee 3.0, and Matter 1.5 radios into one case at $179.95, all running fully local automation with no cloud dependency at all. For anyone burned by a hub company shutting down its servers, that independence is worth more than any single feature.\n\nHomey Pro's seven radios in one puck still make it the most hardware-flexible hub in this list, and doubling the memory at launch without raising the price from €399 is the kind of move that earns loyalty in a category where price increases have become the norm.\n\nApple TV 4K moved to $199 this summer, and it remains the hub that kept paired Wemo hardware working after Belkin shut down the Wemo cloud entirely, which is exactly the kind of real-world reliability story that should matter more to buyers than spec sheets. Nothing in this ranking changed this week. The category's major moves already happened earlier this year, and the current order reflects how each hub has held up since.",
+          "highlights": [
+            {
+              "title": "Home Assistant Green's Price Hike Came With Real Transparency",
+              "body": "Nabu Casa raised the price from $99 to $199 in January, but publishing the RAM cost breakdown behind that increase is the kind of accountability that keeps this the top pick for anyone who wants every automation running locally with no vendor account required."
+            },
+            {
+              "title": "Hubitat's C8 Pro Is Built for Buyers Who Got Burned Before",
+              "body": "Z-Wave 800 Long Range, Zigbee 3.0, and Matter 1.5 radios all run fully local automation with zero cloud dependency, which matters enormously to anyone who has had a hub company shut down its servers and brick their setup."
+            },
+            {
+              "title": "Homey Pro Doubled Memory Without Raising the Price",
+              "body": "Seven radios in one puck already made this the most hardware-flexible hub here, and launching with double the memory at the same €399 price is a rare move in a category where price increases have become routine."
+            },
+            {
+              "title": "Apple TV 4K Proved Its Reliability When Wemo's Cloud Died",
+              "body": "Keeping paired Wemo hardware alive after Belkin shut down the Wemo cloud entirely is the kind of real-world reliability story that matters more than any spec sheet, even after the price moved to $199 this summer."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Home Assistant Green繼續守住冠軍，因為就算Nabu Casa今年一月把價格從99美元調漲到199美元，它依然是目前最完整的本地優先智慧家庭主機。這次漲價確實讓人有點意外，但官方把漲價背後的RAM成本明細整個公開，這種透明度正是我希望開源導向公司能做到的事，而且這台主機上的每個自動化情境，完全不需要任何廠商帳號就能啟動。\n\nHubitat的C8 Pro排第二，因為它把Z-Wave 800 Long Range、Zigbee 3.0跟Matter 1.5三種無線電模組全部塞進同一個機殼裡，售價179.95美元，而且自動化完全在本地端運作，不依賴任何雲端服務。對曾經被某家主機廠商關閉伺服器坑過的人來說，這種獨立性比任何單一功能都更有價值。\n\nHomey Pro一台主機塞進七種無線電模組，依然是這份榜單裡硬體彈性最高的一款，上市時記憶體直接翻倍卻沒有調漲399歐元的售價，這種做法在漲價已經變成常態的類別裡格外能贏得信任。\n\nApple TV 4K今年夏天調漲到199美元，它依然是那台在Belkin完全關閉Wemo雲端服務之後，還能讓已配對的Wemo設備繼續運作的主機，這種實際使用上的可靠度，應該比規格表更值得買家在意。這禮拜排名沒有任何變動，這個類別今年稍早已經經歷過主要的市場變動，現在的排名反映的是每台主機這段時間撐下來的實際表現。",
+          "highlights": [
+            {
+              "title": "Home Assistant Green漲價漲得有透明度",
+              "body": "Nabu Casa今年一月把價格從99美元調到199美元，但公開漲價背後的RAM成本明細，這種當責態度讓它繼續是想要每個自動化都在本地端運作、不需要任何廠商帳號的人的第一選擇。"
+            },
+            {
+              "title": "Hubitat C8 Pro是為曾經被坑過的人準備的主機",
+              "body": "Z-Wave 800 Long Range、Zigbee 3.0跟Matter 1.5全部塞進同一個機殼，自動化完全在本地端運作、不依賴雲端，這對曾經遇過主機廠商關閉伺服器導致設備變磚的人來說，價值遠遠超過任何單一功能。"
+            },
+            {
+              "title": "Homey Pro記憶體翻倍還沒漲價",
+              "body": "一台主機塞進七種無線電模組，本來就是這份榜單裡硬體彈性最高的款式，上市時記憶體直接翻倍卻維持399歐元原價，這種做法在漲價已成常態的類別裡相當難得。"
+            },
+            {
+              "title": "Apple TV 4K用Wemo雲端關閉事件證明了自己的可靠度",
+              "body": "在Belkin完全關閉Wemo雲端服務之後，還能讓已配對的Wemo設備繼續運作，這種實際使用上的可靠度，比任何規格表都更有說服力，就算今年夏天價格調漲到199美元也一樣。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

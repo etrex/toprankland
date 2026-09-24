@@ -19014,6 +19014,211 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-24",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.4,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "fish-audio-openaudio-s1",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.1,
+            "emotionalRange": 8.8,
+            "languageSupport": 8.0,
+            "latency": 8.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 9.8,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 8,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 8.3,
+            "emotionalRange": 7.7,
+            "languageSupport": 8.6,
+            "latency": 7.8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Coding Assistants as of September 2026",
+          "url": "https://www.shakudo.io/blog/best-ai-coding-assistants",
+          "source": "Shakudo"
+        },
+        {
+          "title": "AI Agents News — Week of September 22, 2026",
+          "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+          "source": "AI Agent Store"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs and Inworld's TTS-1.5 Max are effectively tied at the top of this list, and I think that tie is honest: ElevenLabs still leads on raw voice realism and the breadth of its voice library, while Inworld's model has closed nearly the entire emotional range gap that used to separate it from the leader, making it the better choice for interactive character voices in games and apps. Cartesia's Sonic 3 and Fish Audio's OpenAudio S1 tie for third and fourth on latency, both generating speech fast enough for real time conversational applications, where even a half second delay would break the illusion. That speed is what makes them the right pick for voice agents. Hume AI's Octave 2 holds fifth on emotional range specifically, reading subtext and adjusting tone in a way that goes beyond simple sentiment markers in the prompt, producing voice performances with real emotional nuance in every line. MiniMax Speech 02 HD holds sixth with strong multilingual coverage that makes it a practical pick for teams localizing content across many languages from a single script. Murf AI holds seventh as the strongest all in one platform for marketing and e-learning teams who want scripting, voice generation, and basic editing in one tool. OpenAI's GPT-4o mini TTS holds eighth, and its tight integration into the broader OpenAI developer ecosystem keeps it a convenient default for anyone already building on that platform. The trend I'm watching across this whole category is zero-shot voice cloning shrinking down to run on phone class hardware, which will matter enormously for on device privacy sensitive applications once it's production ready.",
+          "highlights": [
+            {
+              "title": "ElevenLabs and Inworld TTS-1.5 Max are genuinely tied at the top",
+              "body": "ElevenLabs still wins on raw realism and voice library breadth, while Inworld has closed nearly the entire emotional range gap and now leads for interactive character voices in games and apps. Both deserve the top spot for different use cases."
+            },
+            {
+              "title": "Cartesia Sonic 3 and Fish Audio OpenAudio S1 win on latency",
+              "body": "Both generate speech fast enough for real time conversational applications, where even a half second delay breaks the illusion of a live conversation. That speed is what makes them the right pick for voice agents."
+            },
+            {
+              "title": "Hume AI Octave 2 leads on genuine emotional range",
+              "body": "It reads subtext and adjusts tone in a way that goes beyond simple sentiment markers in a prompt, producing voice performances with real emotional nuance in every line."
+            },
+            {
+              "title": "MiniMax Speech 02 HD is the practical pick for multilingual teams",
+              "body": "Its multilingual coverage makes it possible to localize content across many languages from a single script, which saves real production time for any team shipping content internationally."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ElevenLabs 跟 Inworld TTS-1.5 Max 現在在這份榜單頂端根本是打平，我覺得這個平手是誠實的評分結果，ElevenLabs 在原始聲音真實度跟聲音庫的廣度上依然領先，Inworld 的模型則把過去落後領先者的情緒表現差距幾乎全部追上，變成遊戲跟應用程式裡互動角色配音更好的選擇。Cartesia Sonic 3 跟 Fish Audio OpenAudio S1 並列第三第四，贏在延遲速度，兩者生成語音的速度都快到足以應付即時對話應用，半秒的延遲就會讓對話的真實感整個破功。Hume AI Octave 2 排第五，靠的正是情緒表現這個強項，能讀出言外之意並調整語氣，做到的效果超過提示詞裡簡單情緒標記能給的範圍，每一句配音都帶有真實的情緒層次。MiniMax Speech 02 HD 排第六，多語言涵蓋範圍很廣，對需要用同一份腳本在地化成多種語言的團隊來說是很實用的選擇。Murf AI 排第七，是行銷跟線上教育團隊最強的一站式平台，寫稿、生成語音、基本剪輯都在同一個工具裡完成。OpenAI GPT-4o mini TTS 排第八，跟 OpenAI 整體開發者生態系緊密整合，對已經在那個平台上開發的人來說是很方便的預設選項。我在這整個類別觀察到的趨勢是零樣本聲音克隆技術正在縮小到能在手機等級硬體上跑，一旦真的能量產部署，對重視隱私的裝置端應用會有很大的意義。",
+          "highlights": [
+            {
+              "title": "ElevenLabs 跟 Inworld TTS-1.5 Max 是真正的並列冠軍",
+              "body": "ElevenLabs 在原始真實度跟聲音庫廣度上依然領先，Inworld 則幾乎追平情緒表現差距，變成遊戲跟應用程式互動角色配音的更好選擇，兩者在不同使用情境下都值得拿下第一。"
+            },
+            {
+              "title": "Cartesia Sonic 3 跟 Fish Audio OpenAudio S1 贏在延遲速度",
+              "body": "兩者生成語音的速度都快到能應付即時對話應用，半秒延遲就會讓對話的真實感破功，這個速度優勢讓它們成為語音代理最適合的選擇。"
+            },
+            {
+              "title": "Hume AI Octave 2 贏在真正的情緒表現能力",
+              "body": "能讀出言外之意並調整語氣，效果超越提示詞裡簡單情緒標記能給的範圍，每一句配音都帶有真實的情緒層次。"
+            },
+            {
+              "title": "MiniMax Speech 02 HD 是多語言團隊的實用之選",
+              "body": "多語言涵蓋範圍很廣，讓團隊能用同一份腳本在地化成多種語言，對要把內容推向國際市場的團隊來說能省下不少製作時間。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -17254,6 +17254,211 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-24",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAccuracy": 9.9,
+            "photorealism": 9.1,
+            "artisticQuality": 8.4,
+            "textRendering": 9.7,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.1,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "nano-banana-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Coding Assistants as of September 2026",
+          "url": "https://www.shakudo.io/blog/best-ai-coding-assistants",
+          "source": "Shakudo"
+        },
+        {
+          "title": "AI Agents News — Week of September 22, 2026",
+          "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+          "source": "AI Agent Store"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "GPT Image 2 holds the top spot again, and the update that shipped on September 8 makes that gap even wider. The new Sketch feature turns rough drawings into finished images while preserving the exact composition you drew, and OpenAI cut generation latency by half in the same release, which matters a lot when you're iterating on ten variations of the same prompt. Midjourney V8.1 holds a strong second on pure aesthetic quality. Nothing else on this list produces images with the same painterly cohesion straight out of the model, which is why illustrators and concept artists still reach for it first. Nano Banana Pro and Flux 2 Pro tie closely for third and fourth, and I keep them near each other because they solve different problems equally well. Nano Banana Pro's integration with Gemini 3 Pro makes it the best choice for anyone who needs an image generated inside a larger multimodal workflow, while Flux 2 Pro remains the strongest open weight option for teams that need to self host. Seedream 4.5 holds fifth on the strength of its text rendering, which finally produces clean, legible text inside generated images, solving one of the most persistent weaknesses in this entire category. Adobe Firefly 4 stays relevant at seventh because of its commercial licensing guarantee, which is the deciding factor for any business that can't risk a copyright dispute over a marketing image. Stable Diffusion 3.5 Large remains the top open source pick for anyone who wants full local control over their pipeline.",
+          "highlights": [
+            {
+              "title": "GPT Image 2's September update widens its lead",
+              "body": "The new Sketch feature keeps the composition of your rough drawing intact while finishing it, and a 50 percent cut to generation latency makes rapid iteration genuinely fast. Both changes landed in the same release and both matter for how creators actually work."
+            },
+            {
+              "title": "Midjourney V8.1 still owns pure aesthetic quality",
+              "body": "No other model on this list produces the same painterly cohesion straight out of the box, which is exactly why illustrators and concept artists reach for it before anything else."
+            },
+            {
+              "title": "Nano Banana Pro and Flux 2 Pro win different jobs equally well",
+              "body": "Nano Banana Pro's Gemini 3 Pro integration makes it the natural pick inside a larger multimodal workflow, while Flux 2 Pro's open weights make it the strongest choice for any team that needs to self host its image pipeline."
+            },
+            {
+              "title": "Seedream 4.5 finally solves text rendering",
+              "body": "Clean, legible text inside a generated image used to be the weak point of nearly every model in this category. Seedream 4.5 gets it right consistently enough to earn fifth place on that strength alone."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "GPT Image 2 這次還是排第一，九月八日的更新讓領先幅度拉得更大。新的 Sketch 功能能把粗略手繪稿完成成完整圖片，同時保留你畫的原始構圖，加上同一波更新把生成延遲砍了一半，這對於一個提示詞要迭代十個版本的使用情境來說幫助很大。Midjourney V8.1 靠純粹的美感品質穩坐第二，榜上沒有其他模型能直接生出這種畫面的繪畫感一致性，這也是插畫師跟概念設計師還是第一個想到它的原因。Nano Banana Pro 跟 Flux 2 Pro 分數很接近，並列第三第四，我把它們放在一起是因為兩者解決的是不同問題，而且都做得很好。Nano Banana Pro 跟 Gemini 3 Pro 深度整合，很適合放進更大的多模態工作流程裡；Flux 2 Pro 則是需要自架伺服器的團隊裡最強的開源權重選擇。Seedream 4.5 靠文字渲染能力排第五，終於能在生成圖片裡放出乾淨可讀的文字，解決了這個類別裡長期以來最難搞的弱點。Adobe Firefly 4 排第七還是靠商用授權保證，這對任何不能冒著行銷圖片版權糾紛風險的企業來說是決定性因素。Stable Diffusion 3.5 Large 依然是想要完全掌控自己本地生成流程的人的最佳開源選擇。",
+          "highlights": [
+            {
+              "title": "GPT Image 2 九月更新讓領先優勢再拉開",
+              "body": "新的 Sketch 功能能保留你手繪稿的原始構圖再完成整張圖，加上生成延遲砍半，讓快速迭代真的變快，這兩項改動是同一波更新一起上線的，對創作者的實際工作流程都很有幫助。"
+            },
+            {
+              "title": "Midjourney V8.1 依然是美感品質的王者",
+              "body": "榜上沒有其他模型能直接生出這種畫面的繪畫感一致性，這正是插畫師跟概念設計師會第一個想到它的原因。"
+            },
+            {
+              "title": "Nano Banana Pro 跟 Flux 2 Pro 各自贏在不同戰場",
+              "body": "Nano Banana Pro 跟 Gemini 3 Pro 的深度整合讓它很適合放進更大的多模態工作流程，Flux 2 Pro 的開源權重則是需要自架伺服器的團隊裡最強的選擇。"
+            },
+            {
+              "title": "Seedream 4.5 終於解決文字渲染這個老問題",
+              "body": "生成圖片裡放乾淨可讀的文字，一直是這個類別裡幾乎每個模型的弱點，Seedream 4.5 做到穩定過關，光靠這點就值得排進第五名。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -2,6 +2,66 @@
 
 ---
 
+## 2026-09-24 研究報告
+
+### 開場註記
+
+距離上一份研究報告只隔一天，站上已上線 137 檔（09-23 上線的 best-antivirus-software 把 08-26 報告的第一優先題收掉）。08-26 報告把整份待建與觀察清單重建過一次，09-23 報告在這份新清單之外又新增三題。本輪先做一次核對，再補一題全新主題，並把今天查到的兩則市場事件寫進市場動態，供已排期的題目在建置時直接引用，不需要重查。
+
+核對結果要記錄一個排程缺口。08-26 報告重建清單時，09-13 至 09-16 三份舊報告提出的三題，也就是 best-earplugs-for-sleeping（09-13）、best-smart-displays（09-15）與 best-portable-tire-inflators（09-16），沒有出現在 08-26 與 09-23 兩份報告列出的任一批次、常青題或觀察題名單裡。這三題在建置紀錄裡也查無上線紀錄。可能是重建清單時單純漏收，也可能是判斷之後主動捨棄，但兩份報告都沒有寫明捨棄理由。建議下一次有排程判斷權限的工作階段明確處理，決定收回三題其中還值得做的部分，或者正式在報告裡寫下捨棄理由，避免這三題的研究成本繼續閒置。
+
+### 新主題建議
+
+1. **Best Massage Chairs 2026（全新主題，不在既有任何批次或觀察清單內，核心事實是商品頁上的「HSA/FSA Eligible」標章不是自動生效的折扣，而是要求買家先取得一份執業醫師開立的醫療必要性證明信，多數業者用 Truemed 這類線上問卷服務代辦，IRS 已經公開表示對這種免看診問卷開證明的做法有疑慮）**
+   - 建議 slug: `best-massage-chairs`
+   - EN title: Best Massage Chairs of 2026: Osaki, Titan, Kahuna, Human Touch, Infinity and Panasonic Ranked by True Cost After the HSA/FSA Letter of Medical Necessity, Roller Track Length, Zero Gravity Angle and Warranty Coverage
+   - ZH-TW title: 2026 最佳按摩椅排行榜：Osaki、Titan、Kahuna、Human Touch、Infinity 與 Panasonic 依取得醫療必要性證明信後的實際到手價、滑軌長度、零重力角度與保固範圍排序，附 IRS 對問卷式證明信的疑慮說明推薦
+   - 目標關鍵字: best massage chair 2026, are massage chairs fsa eligible, osaki vs titan massage chair, massage chair letter of medical necessity, is truemed legit, best massage chair for back pain, massage chair black friday deals 2026, kahuna vs osaki massage chair, massage chair warranty comparison, cheapest massage chair with zero gravity
+   - SEO 潛力。這一題成立的關鍵有四點。第一是市場規模與客單價都足夠支撐深度比較內容。各家市調機構的口徑分歧很大，一組數字是 2026 年 44 億美元、2032 年 64.7 億美元、CAGR 6.5%，另一組把範圍算得更寬，2026 年 12.4 億美元、2035 年 26.27 億美元、CAGR 8.7%，兩組差距同樣來自「按摩椅」與「按摩椅加周邊設備」的口徑不同，本站建站論述採用較窄的前者並註明口徑，避免像過去冰箱市場數據那樣引用有問題的單一來源。這個品類的客單價從入門款 1,800 美元到旗艦款 7,999 美元不等，是全站目前規劃中客單價最高的實體商品品類，聯盟抽成金額因此遠高於一般家電。
+   - SEO 潛力（續，獨佔欄位）。第二是 HSA/FSA 這一欄本身就是全站方法論裡「拆解行銷語言」的最佳應用場景，而且比過去任何一題都更適合做成獨立欄位。Osaki 與 Titan 官網都直接在商品頁掛上「HSA/FSA Eligible」標章並宣稱可省 30% 到 59%，但 IRS 的規定是這筆支出必須「主要用於治療或緩解特定病症」，單純的放鬆或保健不算數，真正讓一般用途商品變成可報帳品項的是一封由執業醫師開立的醫療必要性證明信。Truemed 這類業者的做法是讓買家填一份線上問卷，系統自動生成證明信，全程不需要看診，IRS 已經公開對這種問卷式證明信能否通過查核表示疑慮。這代表商品頁上寫的省下的金額，對多數只填問卷、沒有實際病歷佐證的買家來說，稅務查核時可能站不住腳。本站把「標章是否存在」、「代辦業者是誰」、「是否需要既有病歷佐證」三欄並列，是這個品類目前完全沒有人做的資訊，多數比較文只轉述業者自己宣稱的省錢金額。
+   - SEO 潛力（續，站內連結與方法論延伸）。第三是這個欄位可以延伸成站內共用方法論。今天查證 Meta Connect 2026 發表的智慧眼鏡助聽功能時，發現 Meta 官方部落格同樣把這個一次付費 149.99 美元的功能標成「HSA/FSA eligible」，代表 2026 年掛這個標章的品類正在快速擴大，站上已有 best-cpap-machines、best-otc-hearing-aids、best-office-chairs、best-massage-guns 四題的受眾都可能遇到同一種標章，本題若把「HSA/FSA 標章查證」寫成一套可重複的檢查流程，日後其他題目維護時可以直接套用，不必每題重新研究一次 IRS 規定。第四是品牌定位已經明確分層，Osaki 走性價比與深層滾輪路線，Human Touch 走沙發質感與高級觸感，Titan 主打大尺寸機身給高個子用戶，Infinity 主打進階伸展模式，Panasonic 走少款但可靠的路線，五個品牌定位互不重疊，排行榜可以用「先問身高與預算再推薦」的決策樹取代單純規格表，這個決策樹目前主流比較文都沒有做。
+   - 建置注意。滾輪滑軌長度、零重力角度與保固年限一律以各品牌官網當日規格頁為準，不採第三方比較站的整理數字。HSA/FSA 欄位只寫「商品頁是否掛出標章」與「是否需要證明信」兩個可查證的事實，不代寫也不建議讀者填寫問卷，避免站方變成促成問卷式證明信的一環。
+   - 候選競品（10個，建置前逐款回官網確認售價、滑軌長度、零重力角度、保固與 HSA/FSA 標章文字）: Osaki Solis 4D, Titan 4D Epic, Kahuna Mythia SM-9300, Human Touch Circadian, Infinity Genesis Max 4D, Panasonic MAJ7, Daiwa Supreme Hybrid, Ogawa Master Drive AI 2.0, Real Relax Favor-06, Ador Allure
+
+### 市場動態
+
+- **Meta Connect 2026 第一天（9 月 23 日）的官方發表內容已確認，對站上三題有直接且需要立刻處理的影響**。依 meta.com 官方部落格，Meta 發表一項 FDA 已核准的軟體功能「Hearing enhancement」，讓智慧眼鏡的麥克風放大使用者面前說話者的聲音再從眼鏡喇叭播出，18 歲以上有輕度到中度聽力損失的成人適用，在家幾分鐘就能設定，不需要看診或處方，30 天免費試用後一次付費 149.99 美元或包含在 Meta One 訂閱內，官方頁面明寫 HSA/FSA eligible，預計今年稍晚在美國上市，但官方未指明支援機型。這件事同時衝擊 best-otc-hearing-aids（多出一個非傳統助聽器的競爭選項，且是唯一由社群媒體公司做出、綁定眼鏡硬體的助聽方案）與 best-smart-glasses（多出一個健康功能欄位）。Ray-Ban Meta Gen 3 官方確認新增 Aviator 與 Zena 兩款鏡框、動作按鈕與該系列最長的電池續航，但官方部落格未公布售價。Muse Charm 定位為口袋型語音互動裝置，官方同樣未公布售價，預計今年稍晚有更多細節，這一項與待建的 best-ai-pendants（09-23 報告新提出）直接相關，建置時應該把 Muse Charm 列入候選並註明「售價未公布，暫列觀察」。
+- **待建 best-baby-monitors（10 月 5 日死線批次）今天查到一則足以決定排序邏輯的資安事件，建置時應該直接採用，不需要屆時重查**。Consumer Reports 在 2026 年 5 月 20 日的報導指出，Meari Technology 生產的 WiFi 寶寶監視器與居家攝影機在全球約有 110 萬台受一項嚴重資安漏洞影響，即時影像、儲存照片、電子郵件地址與定位資料都可能被存取，該廠代工的品牌包含 Arenti、Anran、Boifun、ieGeek 與販售寵物攝影機的 Petcube，官方沒有發布正式召回，只能靠更新韌體到 3.0.0 以上版本解決，且廠商聲稱美國市場產品「不連網」但 Consumer Reports 無法驗證這個說法。本題的核心排序欄位應該是「WiFi 連網（可能被駭但可遠端查看）」對「非 WiFi FHSS 封閉無線電（無法被網路入侵但僅限居家範圍）」這條架構分野，Infant Optics、VTech、bonoch 走非 WiFi 路線，Nanit、Owlet、Miku 走 WiFi 路線，兩條路線各自的取捨要寫清楚而不是用星等模糊帶過。第二個可回查欄位是 FDA 認證，Owlet 的 Dream Sock 在 2023 年 11 月 9 日取得 FDA 的 De Novo 許可，是唯一一款取得醫療級認證、可免處方販售的嬰兒血氧與心率監測產品，這個認證是市面上其他品牌都無法宣稱的差異點。第三個欄位是雲端訂閱對本地儲存，Nanit 需要訂閱才能看歷史影像，Eufy 系列主打一次付費、本地儲存、不需訂閱。另外要記錄一項時效性註記，FCC 的 Cyber Trust Mark 資安標章計畫在 4 月 13 日指定 ioXt Alliance 為主要行政機構，但到今天為止還沒有開放廠商送件申請，市面上包含寶寶監視器在內沒有任何一款產品真正拿到這個標章，建置時不應該把它寫成任何一款產品的加分項，只能在頁面註明「產業標章尚未開放申請」。
+- **待建 best-humidifiers（12 月 15 日死線批次）今天查到一個可以直接寫成獨佔欄位的認證缺口，建議建置時採用**。AHAM（家電製造商協會）針對可攜式家用加濕器訂有 ANSI/AHAM HU-1-2016 這套測試標準，用來統一測量加濕器的每日出水量與適用坪數，但根據 AHAM 官網目前列出的驗證計畫清單，烘衣機、洗衣機、除濕機、洗碗機、窗型冷氣與冰箱冷凍櫃都有 AHAM 的第三方驗證計畫，加濕器不在其中。這代表商品頁上寫的「適用 500 平方英尺」或「每日出水 X 加侖」這類數字，即使引用了 HU-1 這套真實存在的測試方法，也是廠商自行測試、自行申報，沒有任何第三方驗證程序把關，這跟同一協會底下有完整驗證計畫的空氣清淨機 CADR 標章形成明顯對比，站上 best-air-purifiers 若有引用 CADR 可以互相參照對比寫法。第二個欄位是 EPA 與 CPSC 官方對室內濕度的建議值，EPA 建議不超過 50% 相對濕度，CPSC 建議落在 30% 到 50% 之間，超過 60% 會在牆面與窗戶凝結水氣，滋生黴菌與細菌，這是兩個機關的官方公開建議，可以直接引用不需要業者自述。第三個欄位是加濕方式的機械差異，超音波機型不會過濾水中的礦物質，會連同水氣一起噴出形成「白色粉塵」附著在家具表面，蒸發式機型靠濾網吸水再靠氣流蒸發，不會有這個問題但濾網本身需要定期更換與清潔。歷史上的召回紀錄以電熱式為主，Research Products 的蒸汽加濕器在 2023 年 6 月 22 日因電線鬆脫過熱召回，十起事故釀成超過一千萬美元財損，這類電熱式機型的火災風險欄位可以直接引用 CPSC 紀錄。市場規模同樣要用區間表述，各家市調機構給出 56.1 億到 67.7 億美元不等，本題應採用區間而不是單一數字。
+- **CPSC 本輪查核與站上規劃中的 best-massage-chairs 沒有直接命中的召回，但查到一則相關案例值得寫進安全段落供對照**。CPSC 資料庫顯示 Giantex 的可調式躺椅曾因手指可能卡入調整機構的夾點而召回，一名消費者因此截指，這不是按摩椅本身的召回，但零重力機構與躺椅的調整結構原理相近，建置按摩椅頁面時可以在安全段落提醒讀者留意兒童與寵物靠近調整機構的風險，並註明這是同類機構的案例而非該品類本身的召回紀錄，避免誤導讀者以為特定品牌出過事。
+
+### 資料來源
+
+- [Meta: Everything We Announced at Meta Connect 2026](https://www.meta.com/blog/meta-connect-2026-everything-we-announced/)
+- [TechRadar: Why Meta is bringing hearing enhancement to its smart glasses](https://www.techradar.com/computing/virtual-reality-augmented-reality/glasses-is-the-ideal-form-factor-why-meta-is-bringing-hearing-enhancement-to-its-smart-glasses)
+- [Consumer Reports: WiFi Baby Monitor Security Issue, Meari Technology](https://www.consumerreports.org/babies-kids/baby-monitors/wifi-baby-monitor-security-issue-meari-technology-a4635991063/)
+- [Owlet Baby Care: Owlet Achieves De Novo FDA Clearance For Dream Sock](https://investors.owletcare.com/news/news-details/2023/Owlet-Achieves-De-Novo-FDA-Clearance-For-Dream-Sock--The-First-and-Only-Over-the-Counter-Medical-Grade-Pulse-Oximeter-Cleared-for-Infants/default.aspx)
+- [FCC: U.S. Cyber Trust Mark](https://www.fcc.gov/CyberTrustMark)
+- [ioXt Alliance: The US Cyber Trust Mark, Getting Your Product Certified](https://ioxt.com/news-events-blog/the-us-cyber-trust-mark-getting-your-product-certified)
+- [AHAM: Verification Programs](https://www.aham.org/AHAM/What_We_Do/Verificatio_Programs)
+- [ANSI: ANSI/AHAM HU-1-2006 Portable Household Humidifiers](https://webstore.ansi.org/standards/aham/ansiahamhu2006)
+- [CPSC: Dirty Humidifiers May Cause Health Problems](https://www.cpsc.gov/s3fs-public/5046.pdf)
+- [FacilitiesNet: Steam Humidifiers Recalled Due to Fire Hazard](https://www.facilitiesnet.com/hvac/tip/Steam-Humidifiers-Recalled-Due-to-Fire-Hazard--51907)
+- [Truemed: Letter of Medical Necessity, Key Components & Examples](https://www.truemed.com/blog/letter-of-medical-necessity-example)
+- [Truemed: Are Massages FSA Eligible? What to Know](https://www.truemed.com/blog/fsa-massage-guide)
+- [Truemed: IRS requirements for HSA/FSA purchases, How to remain compliant](https://www.truemed.com/blog/irs-requirements-for-hsa-fsa-purchases)
+- [MassageChairPlanet: Osaki vs Human Touch vs Infinity, Which Massage Chair Brand Is Best (2026)](https://www.massagechairplanet.com/blogs/comparisons/osaki-vs-human-touch-vs-infinity-which-massage-chair-brand-is-best-2026)
+- [CPSC: CPSC Orders Recall of Lounge Chairs After Severe Injury](https://www.10news.com/life/recalls/cpsc-orders-recall-of-lounge-chairs-after-severe-injury)
+
+---
+
+## 2026-09-24 — best-massage-chairs 上線
+
+- 依 2026-09-24 研究報告的全新主題建置並上線 `best-massage-chairs`，分類 Health，10 個競品，雙語完整，EN commentary 約 320 字、ZH 約 480 字，兩邊各 5 個 highlights。
+- scoreFactors 依報告的核心事實設計六欄：HSA/FSA 透明度（hsaFsa）、滾輪軌道涵蓋範圍（rollerTrack）、零重力角度（zeroGravity）、保固範圍（warranty）、舒適與功能（comfort）、性價比（value）。
+- 候選清單依官網實查結果調整三項。原候選「Kahuna Mythia SM-9300」查證後是兩個不相關產品的混淆：Kahuna 真正的 SM-9300 官網頁面已 404（產品線已轉移到 Dios 系列），「Mythia」則是與 Kahuna 無關的另一個 Amazon 平價品牌，改用目前有現貨的 Kahuna Dios-7300（Dios-1288 與 Dios-Flexa 兩款旗艦皆已售完）。原候選「Human Touch Circadian」查證後發現 Circadian 實際上是 Infinity Massage Chairs 的產品而非 Human Touch，改用 Human Touch 官網確認在售的旗艦 Super Novo X。原候選 Panasonic MAJ7 經 Panasonic 官方支援頁確認已停產，改用目前在產的 Panasonic MAN1（Panasonic 官網本身不直接販售按摩椅，導向授權夥伴 Furniture For Life 購買）。
+- 核心欄位查證發現 Osaki、Human Touch、Titan 三家官網都有 HSA/FSA 專頁，但撐起這個標章的醫療必要性證明信，實際上都是透過線上問卷快速核發（Osaki 用 Medpaid、Human Touch 用 Truemed），不是傳統看診審查，這正是 IRS 已公開表達疑慮的核發方式，因此本題把「HSA/FSA 透明度」與「是否為問卷式核發」兩件事分開處理，沒有把有專頁的機種直接當成報帳保證。
+- 名次：Osaki Platinum Solis 4D+（$11,999，雙獨立 4D 機構、54 顆氣囊、190 度零重力、HSA/FSA 專頁講清楚 Medpaid 四步驟）第一；Human Touch Super Novo X（$15,999，官方 FSA/HSA 專屬清單直接列出、Truemed 流程說明最完整、5 年保固）第二；Infinity Genesis Max 4D（$12,999，49 吋 L 型軌道長度為全榜唯一精確公布、保固分三層）第三；Ogawa Master Drive AI 2.0（$6,999.99 特價、AI 生理感測、5 年有限保固，CP 值最高）第四；Kahuna Dios-7300（$8,999 特價，7D 雙滾輪機構，但商品頁只主打付費延長保固、原始保固條款未寫明）第五；Titan TP-Epic 4D（$3,999 特價，4D 機構裡最便宜，且真的名列官方 HSA/FSA 適用清單，但文件細節需連到另一頁）第六；Ador Allure（$4,999，與 Titan 同集團但商品頁完全沒有 HSA/FSA 說明，保固僅一年全包）第七；Daiwa Supreme Hybrid（官網不公布價格，市場行情約 $12,500，HybriFlex 軌道與倒立伸展為獨特賣點，但保固條款未公布）第八；Panasonic MAN1（$13,999，官網不直接銷售、傾角僅標示 130 至 170 度區間，未明確標榜零重力）第九；Real Relax Favor-06（$1,699.99，全榜最低價，但保固僅一年，HSA/FSA 僅見於顧客評論、官方從未正式聲明）第十。
+- URL 驗證：全部十個最終候選網址皆回 200（含替換後的 Kahuna、Human Touch、Panasonic 網址）。
+- 已透過 `git add src/content/rankings/best-massage-chairs.json` 單獨提交並部署，未一併提交當時仍未 commit 的 09-24 研究報告本身（scripts/research-log.md 的既有未提交修改），留待下一輪工作階段處理。
+
+---
+
 ## 2026-09-23 研究報告
 
 ### 開場註記
