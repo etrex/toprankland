@@ -25017,6 +25017,223 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-25",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.7,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "codeQuality": 9.2,
+            "contextWindow": 8.2,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.6,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.2,
+            "valueForMoney": 6.8
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Cursor, Claude Code, and Codex are merging into one AI coding stack",
+          "url": "https://thenewstack.io/ai-coding-tool-stack/",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Best AI Coding Agents in 2026: Claude Code vs Codex vs Cursor",
+          "url": "https://www.turingcollege.com/blog/best-ai-coding-agents-2026-claude-code-codex-cursor",
+          "source": "Turing College"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code holds the top spot and OpenAI Codex holds second, and the most useful story this week is how developers are actually combining them. The New Stack published a piece arguing that Cursor, Claude Code, and Codex are converging into one stack that nobody planned, and that matches what I see in my own workflow. I use an editor-based tool for fast inline edits, then hand long multi-file tasks to a terminal agent.\n\nThe numbers still favor the two leaders. On Terminal-Bench 4.0, Codex with GPT-6 Astra scored 58.2 percent and Claude Code with Claude Fable 5.1 scored 57.9 percent. That is a gap of 0.3 points, which is inside normal run-to-run noise. I keep Claude Code first because of how it handles large repositories and long sessions, which is where my real work happens.\n\nCursor sits third, and a September leaderboard write-up credits its rise to the SpaceX acquisition completed August 14 and to Grok 4.7 shipping inside the editor on September 22. I could not open that page to confirm the details, so treat those specifics as reported and unverified. What I can say from use is that Cursor's multi-agent interface remains the smoothest way to run parallel tasks.\n\nMy advice is to pick one terminal agent and one editor, and learn both well. Rankings stay unchanged today, since nothing this week moves the benchmark picture.",
+          "highlights": [
+            {
+              "title": "Terminal-Bench 4.0",
+              "body": "Codex scored 58.2 percent and Claude Code 57.9 percent, a 0.3 point gap."
+            },
+            {
+              "title": "Converging stack",
+              "body": "The New Stack describes Cursor, Claude Code, and Codex being used together in one workflow."
+            },
+            {
+              "title": "Cursor news, reported",
+              "body": "A leaderboard write-up cites the SpaceX acquisition and Grok 4.7 in Cursor; I could not verify the page."
+            },
+            {
+              "title": "Ranking unchanged",
+              "body": "No benchmark movement this week, so scores stay put."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 維持第一，OpenAI Codex 維持第二。這週我覺得最值得聊的，是開發者實際上怎麼把它們組合起來用。The New Stack 有一篇文章討論 Cursor、Claude Code 和 Codex 正在自然融合成一套沒人事先規劃的工具組合，我自己的工作流程也是這樣，用編輯器型工具快速改一小段程式，再把跨多檔案的長任務丟給終端機代理處理。\n\n數字上仍是兩強領先。在 Terminal-Bench 4.0 上，搭載 GPT-6 Astra 的 Codex 拿到 58.2%，搭載 Claude Fable 5.1 的 Claude Code 拿到 57.9%。差距只有 0.3 分，落在每次跑分的正常誤差範圍內。我讓 Claude Code 排第一，理由是它處理大型專案與長時間對話的表現，而那正是我日常工作的樣子。\n\nCursor 排第三。9 月的一篇排行榜文章把它的攀升歸功於 8 月 14 日完成的 SpaceX 收購，以及 9 月 22 日 Grok 4.7 上線到編輯器裡。不過我沒辦法打開那個頁面確認細節，所以這些內容請當成報導說法，我自己並未驗證。我能從實際使用說的是，Cursor 的多代理介面依然是跑平行任務最順手的一個。\n\n我的建議是選一個終端機代理加一個編輯器，兩個都學到熟。今天排名不變，這週沒有任何消息改變基準測試的局面。",
+          "highlights": [
+            {
+              "title": "Terminal-Bench 4.0",
+              "body": "Codex 58.2%，Claude Code 57.9%，差距 0.3 分。"
+            },
+            {
+              "title": "工具趨向融合",
+              "body": "The New Stack 描述 Cursor、Claude Code、Codex 在同一工作流程中並用。"
+            },
+            {
+              "title": "Cursor 消息（報導）",
+              "body": "排行榜文章提到 SpaceX 收購與 Grok 4.7 進入 Cursor，我無法驗證該頁面。"
+            },
+            {
+              "title": "排名不變",
+              "body": "本週基準測試沒有變動，分數維持原樣。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

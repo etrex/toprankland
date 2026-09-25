@@ -18415,6 +18415,168 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-25",
+      "rankings": [
+        {
+          "id": "protonvpn",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "mullvad",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "A list of VPN providers with public audits",
+          "url": "https://greycoder.com/a-list-of-vpn-providers-with-public-audits/",
+          "source": "GreyCoder"
+        },
+        {
+          "title": "Proton VPN blog",
+          "url": "https://protonvpn.com/blog/",
+          "source": "Proton VPN"
+        },
+        {
+          "title": "Mullvad blog",
+          "url": "https://mullvad.net/en/blog",
+          "source": "Mullvad"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ProtonVPN keeps first place and Mullvad keeps second. I searched this week for VPN-specific news and did not find a dated event that changes the picture, so today's note is about how I would use the audit record when choosing.\n\nProtonVPN leads because its independent audit history is the deepest in this list, backed by a SOC 2 Type II attestation, and it scores best here on privacy and network. It also sits inside the Proton ecosystem, and Proton Unlimited bundles VPN with Pass, Mail, and Drive, which is convenient if you want one account for several privacy tools.\n\nMullvad holds a strong second with a flat, simple price, anonymous account numbers, and a long record of independent audits. IVPN in fourth follows a similar transparent philosophy. NordVPN in third gives the biggest server network and the most polished apps, which makes it an easy recommendation for people who want a set-and-forget experience on phone and laptop.\n\nMy practical checklist: read the provider's own blog for the latest audit report, confirm the audit date is recent, and test speeds on the servers you will actually use, such as your home country and one nearby region. Turn on the kill switch, and keep the auto-connect setting on for public Wi-Fi. Ranks are unchanged today.",
+          "highlights": [
+            {
+              "title": "Audit depth",
+              "body": "ProtonVPN pairs a long audit record with a SOC 2 Type II attestation."
+            },
+            {
+              "title": "Mullvad simplicity",
+              "body": "Flat pricing and anonymous account numbers."
+            },
+            {
+              "title": "NordVPN convenience",
+              "body": "Large server network and polished apps for set-and-forget use."
+            },
+            {
+              "title": "Checklist",
+              "body": "Confirm recent audit dates, test your own servers, and enable the kill switch."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ProtonVPN 續居第一，Mullvad 續居第二。我這週特別搜尋了 VPN 相關消息，沒有找到會改變局面的、有明確日期的事件，所以今天想聊的是，挑選時我會怎麼運用審計紀錄。\n\nProtonVPN 領先，是因為它的獨立審計紀錄在這份榜單最完整，還有 SOC 2 Type II 認證背書，隱私與網路兩項分數也是這裡最高。它同時屬於 Proton 生態系，Proton Unlimited 方案把 VPN 與 Pass、Mail、Drive 綁在一起，想用一個帳號管好幾個隱私工具的人會覺得很方便。\n\nMullvad 穩居第二，價格固定又簡單，帳號使用匿名號碼，獨立審計紀錄也很長。第四名的 IVPN 走類似的透明路線。第三名的 NordVPN 有最大的伺服器網路和最精緻的 App，手機和筆電都能設定完就不用管，很好推薦。\n\n我的實用檢查清單是，到業者自己的部落格看最新的審計報告，確認審計日期夠新，再測試你實際會用的伺服器速度，例如台灣和鄰近地區。記得開啟斷線保護，在公共 Wi-Fi 也把自動連線打開，咖啡廳和機場特別需要。今天排名不變。",
+          "highlights": [
+            {
+              "title": "審計深度",
+              "body": "ProtonVPN 結合長期審計紀錄與 SOC 2 Type II 認證。"
+            },
+            {
+              "title": "Mullvad 簡單明瞭",
+              "body": "固定價格與匿名帳號號碼。"
+            },
+            {
+              "title": "NordVPN 便利",
+              "body": "伺服器網路大，App 精緻，設定後就不用管。"
+            },
+            {
+              "title": "檢查清單",
+              "body": "確認審計日期夠新，測試自己會用的伺服器，並開啟斷線保護。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

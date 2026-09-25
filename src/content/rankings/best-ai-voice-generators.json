@@ -19219,6 +19219,211 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-25",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.4,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "fish-audio-openaudio-s1",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.1,
+            "emotionalRange": 8.8,
+            "languageSupport": 8.0,
+            "latency": 8.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 9.8,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 8,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 8.3,
+            "emotionalRange": 7.7,
+            "languageSupport": 8.6,
+            "latency": 7.8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "ElevenLabs",
+          "url": "https://elevenlabs.io/",
+          "source": "ElevenLabs"
+        },
+        {
+          "title": "AI Voiceover and Music for Video: Skip the 3-Tool Stack in 2026",
+          "url": "https://coverr.co/blog/ai-voiceover-music-for-video-creators-2026",
+          "source": "Coverr"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs stays first, and Inworld TTS-1.5 Max stays a very close second. I did not find a new voice model release in this week's sources, so today's note is about how I choose between them for real projects.\n\nElevenLabs earns the top spot with the widest voice library and the most natural delivery on long narration. It now presents voice, music, and sound effects as one platform, which matters if you produce videos or audiobooks and want every audio layer in a single account. A current creator guide makes the same point, arguing that a combined voiceover and music workflow beats juggling three separate tools.\n\nInworld TTS-1.5 Max is the model I reach for in interactive products. Its emotional range is close to the leader's, and that is what makes characters in games and assistants sound alive. Cartesia Sonic 3 in third is my pick when response speed is the priority, such as a live voice agent. OpenAudio S1 and Hume Octave 2 round out the top five, and Hume is the one to try when expressive emotion is the goal.\n\nMy test routine is simple. I take one paragraph with numbers, a name, and a question, generate it in two voices, and listen on earbuds and on a laptop speaker. Small pronunciation slips show up fast that way. Ranks are unchanged today.",
+          "highlights": [
+            {
+              "title": "One audio platform",
+              "body": "ElevenLabs offers voice, music, and sound effects together."
+            },
+            {
+              "title": "Inworld for interaction",
+              "body": "TTS-1.5 Max has an emotional range close to the leader, suited to games and assistants."
+            },
+            {
+              "title": "Cartesia for speed",
+              "body": "Sonic 3 suits live voice agents where latency matters."
+            },
+            {
+              "title": "Paragraph test",
+              "body": "Generate one paragraph with numbers and a name in two voices and listen on two devices."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ElevenLabs 維持第一，Inworld TTS-1.5 Max 依然緊追在後。這週的資料裡我沒有看到新的語音模型發表，所以今天的內容想聊我實際做專案時怎麼在它們之間選擇。\n\nElevenLabs 拿下第一，靠的是最廣的聲音庫，以及長篇旁白最自然的表現。它現在把語音、音樂和音效整合成同一個平台，做影片或有聲書的人可以把所有聲音層放在同一個帳號裡。目前一篇創作者指南也提出類似看法，認為整合的旁白加配樂流程，勝過同時管理三個工具。\n\n做互動型產品時，我會選 Inworld TTS-1.5 Max。它的情緒表現很接近領先者，遊戲角色和語音助理聽起來才有生命力。第三名的 Cartesia Sonic 3 則是我重視反應速度時的選擇，像是即時語音代理。OpenAudio S1 和 Hume Octave 2 排在前五，想要豐富情緒表現的話，Hume 值得一試。\n\n我的測試方式很簡單。拿一段包含數字、人名和問句的文字，用兩個聲音各生成一次，再分別用耳機和筆電喇叭聽。小小的發音瑕疵這樣一下就聽得出來。今天排名不變。",
+          "highlights": [
+            {
+              "title": "整合音訊平台",
+              "body": "ElevenLabs 同時提供語音、音樂與音效。"
+            },
+            {
+              "title": "Inworld 適合互動",
+              "body": "TTS-1.5 Max 情緒範圍接近領先者，適合遊戲與助理。"
+            },
+            {
+              "title": "Cartesia 主打速度",
+              "body": "Sonic 3 適合重視延遲的即時語音代理。"
+            },
+            {
+              "title": "段落測試",
+              "body": "用含數字與人名的一段文字，在兩個聲音生成並用兩種裝置聆聽。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

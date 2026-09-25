@@ -18522,6 +18522,199 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-25",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.1,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI video generation news 2026",
+          "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
+          "source": "WaveSpeed"
+        },
+        {
+          "title": "AI Voiceover and Music for Video: Skip the 3-Tool Stack in 2026",
+          "url": "https://coverr.co/blog/ai-voiceover-music-for-video-creators-2026",
+          "source": "Coverr"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Kling 3.0 stays first and Veo 3.1 stays second, and this week's guides show how creators are using the top models together. The current production-stack advice names Kling 3.0, Seedance 2.0, Veo 3.1, Runway Gen-4.5, and Luma Ray3.2 for visuals, then adds lip-sync tools and a conventional editor for final assembly. That is the workflow I have settled into too.\n\nKling 3.0 earns my top spot with motion that follows physics convincingly. Camera moves and object interactions hold together across a whole clip, which means fewer regenerations and lower cost per usable shot. Veo 3.1 has the native audio advantage, so a single prompt can return dialogue and ambience along with the picture. When I need a scene that already sounds finished, Veo is the tool I open.\n\nRunway Gen-4.5 sits third and rewards people who want editing controls around the generation, such as directing shots and refining a result step by step. Seedance 2.0 at fourth is a strong value option for short social clips.\n\nMy practical approach is to draft the same prompt in two models, pick the better take, and then polish in an editor. That habit costs a little more in credits and pays back in quality. Plan your audio early, because a good voiceover and music bed change how good the picture looks. I did not find a new model release in this week's sources, so the order stays unchanged today.",
+          "highlights": [
+            {
+              "title": "Multi-model stack",
+              "body": "Current guides pair Kling 3.0, Seedance 2.0, Veo 3.1, Runway Gen-4.5, and Luma Ray3.2 with an editor."
+            },
+            {
+              "title": "Kling 3.0 motion",
+              "body": "Physics-consistent camera moves reduce wasted regenerations."
+            },
+            {
+              "title": "Veo 3.1 native audio",
+              "body": "Dialogue and ambience arrive with the picture from one prompt."
+            },
+            {
+              "title": "Two-model drafting",
+              "body": "Try one prompt in two models and finish the better take in an editor."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Kling 3.0 維持第一，Veo 3.1 維持第二。這週的指南文章也顯示創作者怎麼把頂尖模型搭配使用。目前的製作流程建議是用 Kling 3.0、Seedance 2.0、Veo 3.1、Runway Gen-4.5 和 Luma Ray3.2 產生畫面，再加上對嘴工具，最後用一般剪輯軟體收尾。我自己也是這個流程。\n\nKling 3.0 拿下我心中的第一，靠的是很有說服力的物理動態。鏡頭移動和物體互動在整段影片裡都站得住腳，重新生成的次數少，每個可用鏡頭的成本也比較低。Veo 3.1 的優勢是原生音訊，一個提示詞就能同時拿到對白、環境音和畫面。需要一個聽起來已經完成的場景時，我會打開 Veo。\n\nRunway Gen-4.5 排第三，適合想在生成前後有更多編輯控制的人，可以導演鏡頭，一步步調整成果。第四名的 Seedance 2.0 則是短影音的高性價比選擇。\n\n我的實用做法是，同一個提示詞在兩個模型各跑一次，挑比較好的那一版，再進剪輯軟體精修。這樣會多花一點點數，但品質回報很值得。音訊也要早點規劃，好的旁白和配樂會讓畫面看起來更好。這週的資料裡我沒有看到新模型發表，所以今天排名不變。",
+          "highlights": [
+            {
+              "title": "多模型流程",
+              "body": "目前指南把 Kling 3.0、Seedance 2.0、Veo 3.1、Runway Gen-4.5、Luma Ray3.2 搭配剪輯軟體。"
+            },
+            {
+              "title": "Kling 3.0 動態",
+              "body": "符合物理的鏡頭移動，能減少浪費的重新生成。"
+            },
+            {
+              "title": "Veo 3.1 原生音訊",
+              "body": "一個提示詞就能得到對白、環境音與畫面。"
+            },
+            {
+              "title": "雙模型草稿",
+              "body": "同一提示詞跑兩個模型，挑較好的再進剪輯軟體。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

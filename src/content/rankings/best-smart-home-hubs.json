@@ -2595,6 +2595,217 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-25",
+      "rankings": [
+        {
+          "id": "home-assistant-green",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "offlineSurvival": 9.8,
+            "localAutomation": 9.7,
+            "radios": 6.0,
+            "matterVersion": 9.0,
+            "apiPolicy": 9.9,
+            "setupEffort": 6.5,
+            "value": 8.6,
+            "twAvailability": 5.5
+          }
+        },
+        {
+          "id": "hubitat-c8-pro",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "offlineSurvival": 9.6,
+            "localAutomation": 9.4,
+            "radios": 9.5,
+            "matterVersion": 9.6,
+            "apiPolicy": 9.2,
+            "setupEffort": 6.8,
+            "value": 8.4,
+            "twAvailability": 4.5
+          }
+        },
+        {
+          "id": "homey-pro-2026",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "offlineSurvival": 9.0,
+            "localAutomation": 9.2,
+            "radios": 9.8,
+            "matterVersion": 8.8,
+            "apiPolicy": 7.6,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 4.0
+          }
+        },
+        {
+          "id": "aqara-hub-m3",
+          "rank": 4,
+          "score": 7.9,
+          "scores": {
+            "offlineSurvival": 7.6,
+            "localAutomation": 7.8,
+            "radios": 8.2,
+            "matterVersion": 8.4,
+            "apiPolicy": 6.8,
+            "setupEffort": 8.8,
+            "value": 8.6,
+            "twAvailability": 8.5
+          }
+        },
+        {
+          "id": "switchbot-hub-3",
+          "rank": 5,
+          "score": 7.2,
+          "scores": {
+            "offlineSurvival": 6.6,
+            "localAutomation": 6.8,
+            "radios": 6.4,
+            "matterVersion": 8.0,
+            "apiPolicy": 7.4,
+            "setupEffort": 9.2,
+            "value": 8.8,
+            "twAvailability": 8.8
+          }
+        },
+        {
+          "id": "aeotec-smart-home-hub",
+          "rank": 6,
+          "score": 6.6,
+          "scores": {
+            "offlineSurvival": 6.8,
+            "localAutomation": 7.4,
+            "radios": 9.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 7.8,
+            "value": 6.4,
+            "twAvailability": 4.2
+          }
+        },
+        {
+          "id": "smartthings-station",
+          "rank": 7,
+          "score": 6.2,
+          "scores": {
+            "offlineSurvival": 5.4,
+            "localAutomation": 6.2,
+            "radios": 5.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 9.0,
+            "value": 8.2,
+            "twAvailability": 6.5
+          }
+        },
+        {
+          "id": "apple-tv-4k",
+          "rank": 8,
+          "score": 6.0,
+          "scores": {
+            "offlineSurvival": 8.4,
+            "localAutomation": 7.0,
+            "radios": 4.5,
+            "matterVersion": 7.6,
+            "apiPolicy": 5.2,
+            "setupEffort": 9.4,
+            "value": 4.2,
+            "twAvailability": 9.5
+          }
+        },
+        {
+          "id": "amazon-echo-hub",
+          "rank": 9,
+          "score": 5.6,
+          "scores": {
+            "offlineSurvival": 4.2,
+            "localAutomation": 5.0,
+            "radios": 8.4,
+            "matterVersion": 7.4,
+            "apiPolicy": 4.4,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 3.5
+          }
+        },
+        {
+          "id": "google-home-speaker",
+          "rank": 10,
+          "score": 5.2,
+          "scores": {
+            "offlineSurvival": 3.8,
+            "localAutomation": 4.4,
+            "radios": 5.2,
+            "matterVersion": 7.0,
+            "apiPolicy": 4.2,
+            "setupEffort": 9.2,
+            "value": 6.6,
+            "twAvailability": 3.2
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "IFA 2026 smart home roundup",
+          "url": "https://smarthomeassistant.co.uk/articles/home-automation/ifa-2026-smart-home",
+          "source": "Smart Home Assistant"
+        },
+        {
+          "title": "IFA 2026: Reolink, aosu and eufy Launch New Home Security Cameras",
+          "url": "https://www.reviewed.com/smarthome/features/ifa-2026-reolink-aosu-eufy",
+          "source": "Reviewed"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Home Assistant Green keeps first place, and the story I take from IFA 2026 supports that pick. Reviewed reports that new cameras from Reolink, aosu and eufy now ship with in-house AI engines that work without a cloud connection and use local storage. When the devices around your hub start thinking locally, a hub built around local control becomes the natural center of the home.\n\nHome Assistant Green earns a 9.8 offline survival score, 9.7 local automation and a 9.9 API policy score, which is the best openness rating on the page. The 9.0 Matter version score means it speaks the shared standard fluently, so the cameras, sensors and lights you buy next year should join without drama.\n\nHubitat Elevation C-8 Pro holds second thanks to a 9.5 radios score and 9.6 Matter, and it is my pick for people who want Zigbee and Z-Wave built in on day one. Homey Pro (2026) takes third with a 9.8 radios score and the friendliest 8.6 setup score of the top three, a lovely fit for a first serious smart home.\n\nI am leaving the order alone today. If you are in Taiwan, check availability first, since that score runs lower for all three, and plan your radios around the devices you already own before you order.",
+          "highlights": [
+            {
+              "title": "Local Hubs Suit The Local AI Trend",
+              "body": "Cameras from Reolink, aosu and eufy now run AI locally, which favors a hub built for local control."
+            },
+            {
+              "title": "Green Leads On Openness",
+              "body": "A 9.8 offline survival score and 9.9 API policy score make it the most dependable foundation."
+            },
+            {
+              "title": "C-8 Pro Packs The Radios",
+              "body": "A 9.5 radios score and 9.6 Matter score cover Zigbee, Z-Wave and the shared standard together."
+            },
+            {
+              "title": "Homey Pro Is Easiest To Start",
+              "body": "A 9.8 radios score with 8.6 setup ease is the friendliest entry among the top three."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Home Assistant Green 繼續第一，我從 IFA 2026 看到的趨勢剛好支持這個選擇。Reviewed 報導，Reolink、aosu 和 eufy 的新攝影機現在都內建不需連雲端的 AI 引擎，並使用本地儲存。周邊設備都開始在本地思考，以本地控制為核心的中樞，自然就成為家裡的大腦。\n\nHome Assistant Green 的離線存活 9.8、本地自動化 9.7、API 政策 9.9，開放程度是這份榜單最高。Matter 版本 9.0，代表它把共通標準說得很流利，明年買的攝影機、感測器和燈泡應該都能順利加入。\n\nHubitat Elevation C-8 Pro 排第二，無線電 9.5、Matter 9.6，想要一開始就內建 Zigbee 和 Z-Wave 的人，我會推它。Homey Pro (2026) 拿第三，無線電 9.8，設定難度 8.6 也是前三名裡最親切的，很適合第一次認真建置智慧家庭的朋友。\n\n今天名次維持不動。台灣讀者請先確認購買管道，三款的台灣供貨分數都偏低，訂購前也先把家裡現有設備用的無線協定列出來，再決定要選哪一台。颱風季停電或斷網時，本地控制的價值特別明顯，這也是我一直挺它的原因。",
+          "highlights": [
+            {
+              "title": "本地中樞搭上本地 AI",
+              "body": "Reolink、aosu、eufy 的新攝影機在本地跑 AI，更適合本地控制的中樞。"
+            },
+            {
+              "title": "Green 開放度最高",
+              "body": "離線存活 9.8、API 政策 9.9，是最可靠的基礎。"
+            },
+            {
+              "title": "C-8 Pro 無線電齊全",
+              "body": "無線電 9.5、Matter 9.6，Zigbee、Z-Wave 與共通標準一次到位。"
+            },
+            {
+              "title": "Homey Pro 最容易上手",
+              "body": "無線電 9.8、設定難度 8.6，是前三名裡最親切的入門選擇。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

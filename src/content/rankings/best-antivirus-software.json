@@ -632,6 +632,207 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-25",
+      "rankings": [
+        {
+          "id": "bitdefender-total-security",
+          "rank": 1,
+          "score": 8.7,
+          "scores": {
+            "renewalCost": 7.5,
+            "labScore": 9.9,
+            "performance": 9.3,
+            "renewalFriction": 7.8,
+            "platforms": 9.0,
+            "extras": 7.8,
+            "trust": 9.3
+          }
+        },
+        {
+          "id": "eset-home-security-essential",
+          "rank": 2,
+          "score": 8.0,
+          "scores": {
+            "renewalCost": 8.5,
+            "labScore": 9.4,
+            "performance": 9.5,
+            "renewalFriction": 7.0,
+            "platforms": 7.0,
+            "extras": 5.5,
+            "trust": 8.8
+          }
+        },
+        {
+          "id": "norton-360-deluxe",
+          "rank": 3,
+          "score": 7.9,
+          "scores": {
+            "renewalCost": 4.5,
+            "labScore": 9.5,
+            "performance": 8.3,
+            "renewalFriction": 7.5,
+            "platforms": 8.5,
+            "extras": 9.3,
+            "trust": 8.0
+          }
+        },
+        {
+          "id": "microsoft-defender",
+          "rank": 4,
+          "score": 7.8,
+          "scores": {
+            "renewalCost": 10.0,
+            "labScore": 9.2,
+            "performance": 9.0,
+            "renewalFriction": 10.0,
+            "platforms": 4.5,
+            "extras": 3.5,
+            "trust": 8.5
+          }
+        },
+        {
+          "id": "avast-one",
+          "rank": 5,
+          "score": 7.2,
+          "scores": {
+            "renewalCost": 6.0,
+            "labScore": 7.5,
+            "performance": 8.0,
+            "renewalFriction": 7.0,
+            "platforms": 8.3,
+            "extras": 7.5,
+            "trust": 6.0
+          }
+        },
+        {
+          "id": "avg-internet-security",
+          "rank": 6,
+          "score": 6.8,
+          "scores": {
+            "renewalCost": 5.5,
+            "labScore": 7.3,
+            "performance": 7.8,
+            "renewalFriction": 6.5,
+            "platforms": 7.5,
+            "extras": 6.8,
+            "trust": 6.0
+          }
+        },
+        {
+          "id": "trend-micro-maximum-security",
+          "rank": 7,
+          "score": 6.7,
+          "scores": {
+            "renewalCost": 5.0,
+            "labScore": 5.5,
+            "performance": 6.5,
+            "renewalFriction": 6.0,
+            "platforms": 8.0,
+            "extras": 8.0,
+            "trust": 8.0
+          }
+        },
+        {
+          "id": "malwarebytes-premium",
+          "rank": 8,
+          "score": 6.6,
+          "scores": {
+            "renewalCost": 7.0,
+            "labScore": 4.5,
+            "performance": 7.5,
+            "renewalFriction": 6.5,
+            "platforms": 7.0,
+            "extras": 6.5,
+            "trust": 7.5
+          }
+        },
+        {
+          "id": "mcafee-plus-premium",
+          "rank": 9,
+          "score": 6.4,
+          "scores": {
+            "renewalCost": 4.0,
+            "labScore": 8.5,
+            "performance": 6.5,
+            "renewalFriction": 3.5,
+            "platforms": 9.0,
+            "extras": 7.0,
+            "trust": 6.0
+          }
+        },
+        {
+          "id": "kaspersky-premium",
+          "rank": 10,
+          "score": 4.6,
+          "scores": {
+            "renewalCost": 3.0,
+            "labScore": 6.0,
+            "performance": 7.0,
+            "renewalFriction": 2.0,
+            "platforms": 6.0,
+            "extras": 6.5,
+            "trust": 1.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Test antivirus software for Windows 11, June 2026",
+          "url": "https://www.av-test.org/en/antivirus/home-windows/",
+          "source": "AV-TEST"
+        },
+        {
+          "title": "AV-TEST current test results",
+          "url": "https://www.av-test.org/en/antivirus/",
+          "source": "AV-TEST"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Bitdefender Total Security keeps first place and ESET HOME Security Essential keeps second, and the newest lab data I can verify supports leaving the order alone. AV-TEST evaluated 16 home user security products for Windows 11 across May and June 2026, scoring each out of 6 points in protection, performance, and usability, for a best possible total of 18. That is the most recent full lab cycle I could find in this week's sources, and I did not see a newer public batch.\n\nWhy do I still put Bitdefender first? It pairs strong detection with a light footprint, so a laptop stays responsive during scans, and the suite covers the extras most households want in one subscription. ESET sits close behind with a clean interface and a reputation for low system impact, which suits older machines and anyone who dislikes pop-ups.\n\nNorton 360 Deluxe at third brings the widest bundle of extras, and Microsoft Defender at fourth deserves respect as a free built-in option that already ships on every Windows PC. If you only need a solid baseline and you browse carefully, Defender is a legitimate choice.\n\nMy buying tip is to check the lab page for the specific product tier and the specific Windows version you use, because test results attach to particular versions. Renew only after comparing the current price with the new-customer price, since many vendors discount the first year steeply. Rankings are unchanged today.",
+          "highlights": [
+            {
+              "title": "AV-TEST cycle",
+              "body": "16 home products tested for Windows 11 in May and June 2026, out of a possible 18 points each."
+            },
+            {
+              "title": "Bitdefender",
+              "body": "Strong detection with a light footprint and a broad feature set."
+            },
+            {
+              "title": "ESET",
+              "body": "Clean interface and low system impact."
+            },
+            {
+              "title": "Renewal tip",
+              "body": "Compare the renewal price with the new-customer price before you pay."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Bitdefender Total Security 續居第一，ESET HOME Security Essential 續居第二，我能查證到的最新實驗室資料，也支持維持現有順序。AV-TEST 在 2026 年 5 月與 6 月針對 Windows 11 測試了 16 款家用資安產品，每款在防護、效能、易用性三項各最高 6 分，總分最高 18 分。這是我在本週資料中找得到最新的完整測試週期，沒有看到更新的公開批次。\n\n為什麼我還是把 Bitdefender 放第一？它把強大的偵測力和輕量的系統負擔放在一起，掃描時筆電依然順暢，套件也涵蓋大多數家庭想要的附加功能，一份訂閱就搞定。ESET 緊追在後，介面乾淨，系統占用低的口碑很好，適合老電腦，也適合討厭彈跳視窗的人。\n\n第三名的 Norton 360 Deluxe 附加功能最多，第四名的 Microsoft Defender 是每台 Windows 電腦都內建的免費選項，值得尊重。如果你只要基本防護，平常上網也很小心，Defender 是個合理的選擇。\n\n我的購買建議是，先到實驗室網站看你要買的方案等級和你的 Windows 版本，因為測試結果是對應特定版本的。續約前先比較目前價格和新客戶價格，很多廠商第一年折扣很大。台灣讀者也可以留意年底的週年慶與雙 11 檔期。今天排名不變。",
+          "highlights": [
+            {
+              "title": "AV-TEST 測試週期",
+              "body": "2026 年 5 到 6 月測試 16 款 Windows 11 家用產品，滿分各 18 分。"
+            },
+            {
+              "title": "Bitdefender",
+              "body": "偵測力強，系統負擔輕，功能完整。"
+            },
+            {
+              "title": "ESET",
+              "body": "介面乾淨，系統占用低。"
+            },
+            {
+              "title": "續約提醒",
+              "body": "付款前先比較續約價與新客戶價。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
