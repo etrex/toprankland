@@ -2806,6 +2806,217 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-26",
+      "rankings": [
+        {
+          "id": "home-assistant-green",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "offlineSurvival": 9.8,
+            "localAutomation": 9.7,
+            "radios": 6.0,
+            "matterVersion": 9.0,
+            "apiPolicy": 9.9,
+            "setupEffort": 6.5,
+            "value": 8.6,
+            "twAvailability": 5.5
+          }
+        },
+        {
+          "id": "hubitat-c8-pro",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "offlineSurvival": 9.6,
+            "localAutomation": 9.4,
+            "radios": 9.5,
+            "matterVersion": 9.6,
+            "apiPolicy": 9.2,
+            "setupEffort": 6.8,
+            "value": 8.4,
+            "twAvailability": 4.5
+          }
+        },
+        {
+          "id": "homey-pro-2026",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "offlineSurvival": 9.0,
+            "localAutomation": 9.2,
+            "radios": 9.8,
+            "matterVersion": 8.8,
+            "apiPolicy": 7.6,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 4.0
+          }
+        },
+        {
+          "id": "aqara-hub-m3",
+          "rank": 4,
+          "score": 7.9,
+          "scores": {
+            "offlineSurvival": 7.6,
+            "localAutomation": 7.8,
+            "radios": 8.2,
+            "matterVersion": 8.4,
+            "apiPolicy": 6.8,
+            "setupEffort": 8.8,
+            "value": 8.6,
+            "twAvailability": 8.5
+          }
+        },
+        {
+          "id": "switchbot-hub-3",
+          "rank": 5,
+          "score": 7.2,
+          "scores": {
+            "offlineSurvival": 6.6,
+            "localAutomation": 6.8,
+            "radios": 6.4,
+            "matterVersion": 8.0,
+            "apiPolicy": 7.4,
+            "setupEffort": 9.2,
+            "value": 8.8,
+            "twAvailability": 8.8
+          }
+        },
+        {
+          "id": "aeotec-smart-home-hub",
+          "rank": 6,
+          "score": 6.6,
+          "scores": {
+            "offlineSurvival": 6.8,
+            "localAutomation": 7.4,
+            "radios": 9.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 7.8,
+            "value": 6.4,
+            "twAvailability": 4.2
+          }
+        },
+        {
+          "id": "smartthings-station",
+          "rank": 7,
+          "score": 6.2,
+          "scores": {
+            "offlineSurvival": 5.4,
+            "localAutomation": 6.2,
+            "radios": 5.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 9.0,
+            "value": 8.2,
+            "twAvailability": 6.5
+          }
+        },
+        {
+          "id": "apple-tv-4k",
+          "rank": 8,
+          "score": 6.0,
+          "scores": {
+            "offlineSurvival": 8.4,
+            "localAutomation": 7.0,
+            "radios": 4.5,
+            "matterVersion": 7.6,
+            "apiPolicy": 5.2,
+            "setupEffort": 9.4,
+            "value": 4.2,
+            "twAvailability": 9.5
+          }
+        },
+        {
+          "id": "amazon-echo-hub",
+          "rank": 9,
+          "score": 5.6,
+          "scores": {
+            "offlineSurvival": 4.2,
+            "localAutomation": 5.0,
+            "radios": 8.4,
+            "matterVersion": 7.4,
+            "apiPolicy": 4.4,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 3.5
+          }
+        },
+        {
+          "id": "google-home-speaker",
+          "rank": 10,
+          "score": 5.2,
+          "scores": {
+            "offlineSurvival": 3.8,
+            "localAutomation": 4.4,
+            "radios": 5.2,
+            "matterVersion": 7.0,
+            "apiPolicy": 4.2,
+            "setupEffort": 9.2,
+            "value": 6.6,
+            "twAvailability": 3.2
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "IFA 2026 smart home roundup",
+          "url": "https://smarthomeassistant.co.uk/articles/home-automation/ifa-2026-smart-home",
+          "source": "Smart Home Assistant"
+        },
+        {
+          "title": "2026 outdoor camera showdown and Matter status",
+          "url": "https://smartifiers.com/articles/outdoor-security-cameras-2026-reolink-vs-eufy-vs-arlo-vs-ring-vs-aqara/",
+          "source": "Smartifiers"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Home Assistant Green keeps first at 9.1, and today I want to give credit to the score that decides it. It posts 9.8 for what still works after the cloud shuts down, plus 9.7 for local automation and 9.9 for API and subscription policy. Those three numbers describe a hub that keeps running your lights, locks and sensors even when a vendor changes its terms.\n\nHubitat Elevation C-8 Pro is second at 8.8, and I like it for the radios, with a 9.5 for built-in Zigbee, Z-Wave and Thread, plus 9.6 for Matter version. Homey Pro (2026) takes third at 8.4 with a 9.8 radio score and an easier 8.6 setup, though its 6.8 value score tells me to check the price against what you own.\n\nSmartifiers reports that Aqara's G350 is the first Matter-certified camera, shipping since March, and says only Samsung SmartThings has implemented Matter camera support so far. That matters for hub buyers, because a hub with strong Matter support can absorb new device types as they arrive.\n\nMy honest caveat for Taiwan readers is availability. Home Assistant Green scores 5.5 there and Hubitat scores 4.5, so plan for import shipping and warranty questions. I am keeping the order this week.",
+          "highlights": [
+            {
+              "title": "Cloud-proof",
+              "body": "Home Assistant Green scores 9.8 for offline survival and 9.9 for API policy."
+            },
+            {
+              "title": "Radio strength",
+              "body": "Hubitat C-8 Pro posts 9.5 for built-in radios and 9.6 for Matter version."
+            },
+            {
+              "title": "Easier setup",
+              "body": "Homey Pro (2026) scores 8.6 for setup effort, with a 9.8 radio score."
+            },
+            {
+              "title": "Taiwan availability",
+              "body": "Home Assistant Green scores 5.5 and Hubitat 4.5 for Taiwan retail availability."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Home Assistant Green 繼續第一，總分 9.1，我想特別說明決定勝負的那個分數。斷網存活 9.8、本地自動化 9.7、API 與訂閱政策 9.9，這三個數字描述的是一台就算廠商改條款，也能繼續管你的燈、門鎖和感測器的主機。\n\nHubitat Elevation C-8 Pro 第二 8.8，我喜歡它的無線電，內建 Zigbee、Z-Wave、Thread 拿 9.5，Matter 版本 9.6。Homey Pro (2026) 第三 8.4，無線電 9.8，設定難度也友善，拿到 8.6，但價值只有 6.8，買之前要對照自己已有的設備。\n\nSmartifiers 報導 Aqara G350 是首款通過 Matter 認證的攝影機，三月起出貨，目前只有三星 SmartThings 實作了 Matter 攝影機支援。這對挑主機的人很重要，因為 Matter 支援夠強的主機，可以陸續吸收新種類的裝置。\n\n如果你剛開始接觸智慧家居，我會建議先從幾顆感測器和燈泡玩起，確認自己真的會用，再決定要不要投資這類本地主機。\n\n給台灣讀者的坦白提醒是取得性。Home Assistant Green 在台灣通路只有 5.5，Hubitat 4.5，要先想好海外代購、運費與保固問題。這週排名不動。",
+          "highlights": [
+            {
+              "title": "不怕斷網",
+              "body": "Home Assistant Green 斷網存活 9.8，API 政策 9.9。"
+            },
+            {
+              "title": "無線電實力",
+              "body": "Hubitat C-8 Pro 內建無線電 9.5，Matter 版本 9.6。"
+            },
+            {
+              "title": "設定較輕鬆",
+              "body": "Homey Pro (2026) 設定難度 8.6，無線電 9.8。"
+            },
+            {
+              "title": "台灣取得性",
+              "body": "Home Assistant Green 台灣通路 5.5，Hubitat 4.5。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

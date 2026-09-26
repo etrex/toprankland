@@ -19424,6 +19424,211 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-26",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.4,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "fish-audio-openaudio-s1",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.1,
+            "emotionalRange": 8.8,
+            "languageSupport": 8.0,
+            "latency": 8.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 9.8,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 8,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 8.3,
+            "emotionalRange": 7.7,
+            "languageSupport": 8.6,
+            "latency": 7.8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "ElevenLabs API changelog, September 21, 2026",
+          "url": "https://elevenlabs.io/docs/changelog/2026/9/21",
+          "source": "ElevenLabs Docs"
+        },
+        {
+          "title": "ElevenLabs News, September 2026",
+          "url": "https://blog.mean.ceo/elevenlabs-news-september-2026/",
+          "source": "mean.ceo"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs stays first, and this week gave me a concrete reason. The September coverage points to Eleven v3 Conversational, a real-time speech model built for expressive voice interactions across more than 70 languages, plus an MCP connection for managing voice and chat agents from Claude. I read that as the company pushing its lead from narration into live agents, which is where the next year of voice work is heading.\n\nThe verdict for me is simple. If your project needs a wide voice library, natural emotional delivery, and an ecosystem that keeps shipping, ElevenLabs is the safe first call. The changelog also shows the CLI making eleven_v3 the default TTS model, which tells me the company is confident in its newest model as the everyday choice.\n\nInworld TTS-1.5 Max keeps second place because it stays close in quality, and Cartesia Sonic 3 keeps third thanks to its low latency, which matters when a voice agent has to answer inside a natural conversational pause. I did not find fresh release news for those two in the last seven days, so I am leaving every score where it was.\n\nMy practical advice: run the same three scripts through your top two candidates, one calm narration, one emotional dialogue, and one with names and numbers. Pronunciation of proper nouns is where I hear the difference fastest. Then check the price per minute at your real monthly volume, since the ranking of value changes once you cross a few hours of audio.",
+          "highlights": [
+            {
+              "title": "ElevenLabs pushes into live agents",
+              "body": "Eleven v3 Conversational targets real-time expressive speech in more than 70 languages, a sign the lead is extending beyond narration."
+            },
+            {
+              "title": "Claude MCP connection for agents",
+              "body": "ElevenLabs added an MCP connection for managing voice and chat agents from Claude, which shortens setup for teams already building agents."
+            },
+            {
+              "title": "eleven_v3 is now the CLI default",
+              "body": "The elevenlabs CLI made eleven_v3 its default TTS model, so new projects start on the newest model."
+            },
+            {
+              "title": "Test with your own scripts",
+              "body": "Run a calm read, an emotional line, and a names-and-numbers passage through two finalists before you commit."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ElevenLabs 這週還是穩坐第一，而且我這次有具體的理由可以講。九月的報導提到 Eleven v3 Conversational，這是一個主打即時、有情緒表現的語音模型，支援超過 70 種語言，另外還多了一個讓 Claude 直接管理語音與聊天代理的 MCP 連接。我的解讀是，它把領先優勢從旁白配音延伸到即時語音代理，而未來一年語音應用的主戰場就在那裡。\n\n我的結論很直接。如果你的專案需要豐富的聲音庫、自然的情緒表現，還有一個持續更新的生態系，第一個打電話的對象就是 ElevenLabs。更新日誌也顯示 CLI 已經把 eleven_v3 設為預設 TTS 模型，代表官方自己就把最新模型當日常主力，這點讓我很放心。\n\nInworld TTS-1.5 Max 品質很接近，所以繼續排第二。Cartesia Sonic 3 延遲低，語音代理要在自然的停頓內回話時特別吃香，所以維持第三。這兩家過去七天我沒有查到新的發布消息，因此分數全部照舊，不動。\n\n給大家一個實用的做法：拿同樣三段稿子丟給你最看好的兩家，一段平穩旁白、一段情緒對話、一段有人名和數字的內容。專有名詞的發音，是我最快聽出差距的地方。接著再用你實際的每月用量去算每分鐘成本，音訊量一旦超過幾個小時，性價比的排序就會跟著變，這點做過的人應該都有感。",
+          "highlights": [
+            {
+              "title": "ElevenLabs 進軍即時語音代理",
+              "body": "Eleven v3 Conversational 主打即時且有情緒的語音，支援超過 70 種語言，領先優勢從旁白延伸到對話場景。"
+            },
+            {
+              "title": "Claude MCP 連接",
+              "body": "ElevenLabs 新增可從 Claude 管理語音與聊天代理的 MCP 連接，已經在做代理的團隊可以更快上手。"
+            },
+            {
+              "title": "eleven_v3 成為 CLI 預設",
+              "body": "elevenlabs CLI 把 eleven_v3 設為預設 TTS 模型，新專案一開始就用最新模型。"
+            },
+            {
+              "title": "用自己的稿子測",
+              "body": "拿平穩旁白、情緒台詞和人名數字段落，在兩個候選之間各跑一次，再決定要不要簽約。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
