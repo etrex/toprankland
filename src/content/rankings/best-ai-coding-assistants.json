@@ -25456,6 +25456,228 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-27",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.7,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "codeQuality": 9.2,
+            "contextWindow": 8.2,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.6,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.2,
+            "valueForMoney": 6.8
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "New AI Models Released in September 2026: Prices",
+          "url": "https://capitalandcompute.net/blog/new-ai-models-september-2026/",
+          "source": "Capital and Compute"
+        },
+        {
+          "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
+          "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "AI Updates Today (September 2026): Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code holds first and OpenAI Codex holds second, and this week the model underneath both tools moved. Release trackers report that Claude Opus 5.5 arrived on September 22, built for long-running agentic coding and knowledge work, and that OpenAI released GPT-6 Sol and GPT-6 Luna the same day with API prices cut in half. A coding assistant is only as good as the model behind it, so these releases matter to the ranking.\n\nClaude Code stays first because its whole design is about long, multi-step tasks in a real repository. A model tuned for long-running agentic work fits that design closely, and when I hand a tool a refactor across many files, staying coherent for the full job is the quality I value above everything. Codex holds second with a cheaper OpenAI model family behind it, and lower API prices help anyone running many agent sessions in a day.\n\nCursor in third keeps its edge as an editor experience, with inline edits and fast tab completion that feel natural during everyday work. Google Antigravity at fourth and Google Jules at fifth benefit from Google's steady model cadence, and The Hacker News reports that Google also launched Gemini 3.8 Flash Cyber, a model aimed at vulnerability discovery, which shows how quickly the lab is specializing.\n\nMy advice is to match the tool to the job. Choose Claude Code for large, careful changes, Codex when cost per session matters, and Cursor when you live inside an editor. Every rank stays put today, because the new models strengthen the current top two without disturbing the rest.",
+          "highlights": [
+            {
+              "title": "Opus 5.5 targets long-running coding",
+              "body": "Released September 22 for long-running agentic coding, which matches Claude Code's design."
+            },
+            {
+              "title": "GPT-6 Sol and Luna cut API prices in half",
+              "body": "Trackers say OpenAI halved API prices on September 22, helping Codex users who run many sessions."
+            },
+            {
+              "title": "Cursor stays the editor favorite",
+              "body": "Inline edits and fast completion keep it third."
+            },
+            {
+              "title": "Google specializes",
+              "body": "The Hacker News reports Gemini 3.8 Flash Cyber for vulnerability discovery."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 繼續第一，OpenAI Codex 繼續第二，而這週兩個工具底下的模型都動了。發布追蹤整理指出，Claude Opus 5.5 在 9 月 22 日推出，主打長時間代理式寫程式與知識工作，OpenAI 同一天推出 GPT-6 Sol 與 GPT-6 Luna，API 價格砍半。寫程式的助理好不好用，取決於背後的模型，所以這些發布會影響排名。\n\nClaude Code 依然第一，因為整個設計就是圍繞在真實程式庫裡的長時間、多步驟任務。針對長時間代理作業調校的模型跟這個設計非常搭，當我把跨很多檔案的重構交給工具，從頭到尾保持連貫是我最看重的品質。Codex 守住第二，背後有更便宜的 OpenAI 模型家族，API 價格降低，對一天要跑很多次代理工作的人很有幫助。\n\n第三名 Cursor 以編輯器體驗見長，行內編輯和快速的 Tab 補全，日常寫程式用起來很自然。第四的 Google Antigravity 與第五的 Google Jules 受惠於 Google 穩定的模型節奏，The Hacker News 也報導 Google 推出主打漏洞發現的 Gemini 3.8 Flash Cyber，看得出這家實驗室正快速走向專門化。\n\n建議是依工作挑工具。大型、需要細心的改動選 Claude Code，在意每次工作成本選 Codex，整天待在編輯器裡選 Cursor。深夜在租屋處趕案子，這三個都能幫上忙。今天所有排名不動，新模型加強了前兩名，也沒有影響其他名次。",
+          "highlights": [
+            {
+              "title": "Opus 5.5 瞄準長時間寫程式",
+              "body": "9 月 22 日發布，主打長時間代理式寫程式，與 Claude Code 的設計相符。"
+            },
+            {
+              "title": "GPT-6 Sol 與 Luna 讓 API 價格減半",
+              "body": "追蹤整理指出 OpenAI 9 月 22 日砍半 API 價格，對大量跑 Codex 的人有幫助。"
+            },
+            {
+              "title": "Cursor 仍是編輯器首選",
+              "body": "行內編輯與快速補全讓它穩居第三。"
+            },
+            {
+              "title": "Google 走向專門化",
+              "body": "The Hacker News 報導 Gemini 3.8 Flash Cyber 主打漏洞發現。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

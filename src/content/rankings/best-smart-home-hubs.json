@@ -3017,6 +3017,217 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-27",
+      "rankings": [
+        {
+          "id": "home-assistant-green",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "offlineSurvival": 9.8,
+            "localAutomation": 9.7,
+            "radios": 6.0,
+            "matterVersion": 9.0,
+            "apiPolicy": 9.9,
+            "setupEffort": 6.5,
+            "value": 8.6,
+            "twAvailability": 5.5
+          }
+        },
+        {
+          "id": "hubitat-c8-pro",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "offlineSurvival": 9.6,
+            "localAutomation": 9.4,
+            "radios": 9.5,
+            "matterVersion": 9.6,
+            "apiPolicy": 9.2,
+            "setupEffort": 6.8,
+            "value": 8.4,
+            "twAvailability": 4.5
+          }
+        },
+        {
+          "id": "homey-pro-2026",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "offlineSurvival": 9.0,
+            "localAutomation": 9.2,
+            "radios": 9.8,
+            "matterVersion": 8.8,
+            "apiPolicy": 7.6,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 4.0
+          }
+        },
+        {
+          "id": "aqara-hub-m3",
+          "rank": 4,
+          "score": 7.9,
+          "scores": {
+            "offlineSurvival": 7.6,
+            "localAutomation": 7.8,
+            "radios": 8.2,
+            "matterVersion": 8.4,
+            "apiPolicy": 6.8,
+            "setupEffort": 8.8,
+            "value": 8.6,
+            "twAvailability": 8.5
+          }
+        },
+        {
+          "id": "switchbot-hub-3",
+          "rank": 5,
+          "score": 7.2,
+          "scores": {
+            "offlineSurvival": 6.6,
+            "localAutomation": 6.8,
+            "radios": 6.4,
+            "matterVersion": 8.0,
+            "apiPolicy": 7.4,
+            "setupEffort": 9.2,
+            "value": 8.8,
+            "twAvailability": 8.8
+          }
+        },
+        {
+          "id": "aeotec-smart-home-hub",
+          "rank": 6,
+          "score": 6.6,
+          "scores": {
+            "offlineSurvival": 6.8,
+            "localAutomation": 7.4,
+            "radios": 9.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 7.8,
+            "value": 6.4,
+            "twAvailability": 4.2
+          }
+        },
+        {
+          "id": "smartthings-station",
+          "rank": 7,
+          "score": 6.2,
+          "scores": {
+            "offlineSurvival": 5.4,
+            "localAutomation": 6.2,
+            "radios": 5.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 9.0,
+            "value": 8.2,
+            "twAvailability": 6.5
+          }
+        },
+        {
+          "id": "apple-tv-4k",
+          "rank": 8,
+          "score": 6.0,
+          "scores": {
+            "offlineSurvival": 8.4,
+            "localAutomation": 7.0,
+            "radios": 4.5,
+            "matterVersion": 7.6,
+            "apiPolicy": 5.2,
+            "setupEffort": 9.4,
+            "value": 4.2,
+            "twAvailability": 9.5
+          }
+        },
+        {
+          "id": "amazon-echo-hub",
+          "rank": 9,
+          "score": 5.6,
+          "scores": {
+            "offlineSurvival": 4.2,
+            "localAutomation": 5.0,
+            "radios": 8.4,
+            "matterVersion": 7.4,
+            "apiPolicy": 4.4,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 3.5
+          }
+        },
+        {
+          "id": "google-home-speaker",
+          "rank": 10,
+          "score": 5.2,
+          "scores": {
+            "offlineSurvival": 3.8,
+            "localAutomation": 4.4,
+            "radios": 5.2,
+            "matterVersion": 7.0,
+            "apiPolicy": 4.2,
+            "setupEffort": 9.2,
+            "value": 6.6,
+            "twAvailability": 3.2
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Anker unveils MindBase with Matter 1.5 and HomeKit Secure Video support",
+          "url": "https://homekitnews.com/2026/09/03/anker-unveils-mindbase-with-matter-1-5-and-homekit-secure-video-support/",
+          "source": "HomeKit News"
+        },
+        {
+          "title": "SwitchBot launches its AI-centric Matter home hub",
+          "url": "https://homekitnews.com/2026/01/22/switchbot-launches-its-ai-centric-matter-home-hub/",
+          "source": "HomeKit News"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Home Assistant Green stays first, and this week's news gives me a good reason to explain what I look for when a new hub shows up. Anker announced MindBase at IFA in early September, a hub that combines a Matter 1.5 controller, local AI processing and expandable storage, with HomeKit Secure Video support on top. On paper that is an interesting list, and I like that local processing is part of the pitch.\n\nI am not ranking it yet. A hub earns a place on my list by running for months, and I judge it by what keeps working when the internet drops and how easily it pairs with the devices already in a home. Announcement specs cannot answer either question. When a unit is available for testing, I will check Matter pairing, automation speed offline and how storage behaves.\n\nThe SwitchBot Hub 3 in fifth place is a useful reference point here. SwitchBot pitched its AI hub as a Matter controller with local intelligence, and that direction is now spreading across the category. Anker joining in tells me local processing is becoming the expected feature, which is exactly what Home Assistant Green has offered from the start.\n\nMy advice for buyers is to pick the hub whose local features you will use on day one. If you run lights, locks and sensors from several brands, Home Assistant Green gives you the widest room to grow, and Hubitat C-8 Pro and Homey Pro (2026) remain strong second and third choices in my list.",
+          "highlights": [
+            {
+              "title": "Anker MindBase announced",
+              "body": "A Matter 1.5 controller with local AI processing, expandable storage and HomeKit Secure Video support, shown at IFA in early September."
+            },
+            {
+              "title": "Local AI is spreading",
+              "body": "SwitchBot and Anker both now pitch on-device intelligence, which validates the local-first approach."
+            },
+            {
+              "title": "No ranking until tested",
+              "body": "I hold new hubs off the list until I have run them for weeks and checked offline behavior."
+            },
+            {
+              "title": "Ranking unchanged",
+              "body": "Home Assistant Green, Hubitat C-8 Pro and Homey Pro (2026) keep the top three."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Home Assistant Green 繼續坐穩第一，這週的新聞剛好讓我聊聊新中樞出現時我怎麼看。Anker 在 9 月初的 IFA 發表 MindBase，內建 Matter 1.5 控制器、本地 AI 運算和可擴充儲存空間，還支援 HomeKit Secure Video。光看規格是很有意思的組合，本地運算被放進賣點這點我很喜歡。\n\n不過我先不排名。中樞要上我的榜單，得先跑上好幾個月，我看的是斷網後還能不能正常運作，以及跟家裡現有裝置配對順不順。這兩件事發表會的規格表回答不了。等到拿得到實機，我會測 Matter 配對、離線自動化的反應速度，還有儲存空間實際怎麼用。\n\n排第五的 SwitchBot Hub 3 也是個好參考。SwitchBot 主打的就是帶本地智慧的 Matter 控制器，這個方向現在正在整個品類擴散。Anker 跟進，我解讀為本地運算已經變成標配，而 Home Assistant Green 一開始就是這樣做的。\n\n給買家的建議很直接，挑你第一天就用得到本地功能的那台。如果你家裡有好幾個牌子的燈、門鎖和感測器，Home Assistant Green 的擴充空間最大，Hubitat C-8 Pro 和 Homey Pro (2026) 也仍然是我心中穩穩的第二、第三選擇。",
+          "highlights": [
+            {
+              "title": "Anker MindBase 亮相",
+              "body": "Matter 1.5 控制器搭配本地 AI 運算、可擴充儲存與 HomeKit Secure Video 支援，9 月初在 IFA 發表。"
+            },
+            {
+              "title": "本地 AI 成為趨勢",
+              "body": "SwitchBot 與 Anker 都在主打裝置端智慧，等於肯定了本地優先的路線。"
+            },
+            {
+              "title": "沒測過不排名",
+              "body": "新中樞要先跑幾週、確認離線表現，才會進我的榜單。"
+            },
+            {
+              "title": "排名維持不變",
+              "body": "Home Assistant Green、Hubitat C-8 Pro、Homey Pro (2026) 續守前三。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

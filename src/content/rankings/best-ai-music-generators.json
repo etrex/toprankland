@@ -19156,6 +19156,199 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-27",
+      "rankings": [
+        {
+          "id": "suno-v5",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "audioQuality": 9.7,
+            "vocalRealism": 9.4,
+            "editingControl": 9.6,
+            "commercialLicense": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "elevenlabs-music",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "audioQuality": 9.3,
+            "vocalRealism": 9.7,
+            "editingControl": 8.7,
+            "commercialLicense": 9.9,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "lyria-3-pro",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 8.6,
+            "editingControl": 8.4,
+            "commercialLicense": 9.5,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 7.0,
+            "editingControl": 8.6,
+            "commercialLicense": 9.5,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "udio",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "audioQuality": 9.6,
+            "vocalRealism": 9.5,
+            "editingControl": 9.8,
+            "commercialLicense": 7.5,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "riffusion",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "audioQuality": 8.2,
+            "vocalRealism": 7.8,
+            "editingControl": 8.5,
+            "commercialLicense": 8.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "soundraw",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "audioQuality": 8.0,
+            "vocalRealism": 6.5,
+            "editingControl": 7.5,
+            "commercialLicense": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aiva",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 6.8,
+            "editingControl": 7.8,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "mubert",
+          "rank": 9,
+          "score": 7.3,
+          "scores": {
+            "audioQuality": 7.5,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "loudly",
+          "rank": 10,
+          "score": 7.0,
+          "scores": {
+            "audioQuality": 7.3,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "boomy",
+          "rank": 11,
+          "score": 6.8,
+          "scores": {
+            "audioQuality": 6.8,
+            "vocalRealism": 6.5,
+            "editingControl": 6.8,
+            "commercialLicense": 8.5,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Suno v6 adds plain-language edits to existing songs",
+          "url": "https://winbuzzer.com/2026/09/11/suno-v6-adds-plain-language-edits-to-existing-songs-xcxwbn/",
+          "source": "WinBuzzer"
+        },
+        {
+          "title": "AI Product Launches News, September 2026",
+          "url": "https://blog.mean.ceo/ai-product-launches-news-september-2026/",
+          "source": "Mean CEO Blog"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Suno V5 stays first in my table, and today I want to explain the checklist I will use when I put v6 through its paces. WinBuzzer reports that the v6 generation adds plain-language edits to existing songs, so a listener can ask for a change to one section or lyric without regenerating the whole track. That is a workflow feature, and I judge it by what happens in a real session.\n\nFirst, I will check whether an edit keeps the melody, tempo and voice of the surrounding sections intact. Second, I will look at how many attempts a clean edit takes, because a tool that fixes a line in one pass saves an hour. Third, I will compare the final mix against V5 on the same prompt, listening for vocal clarity and instrument separation.\n\nV5 keeps first because its full-song results are consistent, and consistency is what makes a generator practical. ElevenLabs Music at second is a strong choice for creators who already work in that ecosystem and value clean, commercially minded output. Lyria 3 Pro at third brings Google's research depth, Stable Audio 2.5 at fourth suits sound designers who like controllable instrumentals, and Udio at fifth remains a favorite for its distinct character.\n\nMy advice is to try Suno's editing tools on a song you already like, since fixing one weak lyric is the fastest way to feel the improvement. No rank moves today, because I want my own listening notes before I change a score.",
+          "highlights": [
+            {
+              "title": "v6 adds plain-language edits",
+              "body": "WinBuzzer reports you can ask for a change to one section or lyric of an existing song."
+            },
+            {
+              "title": "Three-step v6 checklist",
+              "body": "Check continuity, count attempts per clean edit, and compare the final mix with V5."
+            },
+            {
+              "title": "V5 wins on consistency",
+              "body": "Reliable full-song results keep it first."
+            },
+            {
+              "title": "ElevenLabs Music for clean output",
+              "body": "A strong second for creators already in that ecosystem."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Suno V5 繼續排第一，今天我想說明自己準備拿來測 v6 的檢查清單。WinBuzzer 報導 v6 這一代加入了用白話文編輯既有歌曲的功能，聽者可以要求只改某一段或某句歌詞，不必整首重新生成。這是流程上的功能，我會用真實使用時發生的狀況來評斷。\n\n第一步，我會檢查修改之後，前後段落的旋律、速度和人聲是否維持一致。第二步，我會數一次乾淨的修改要試幾次，因為一次就修好一句歌詞的工具，能省下一小時。第三步，我會用相同提示詞比較最終混音和 V5 的差別，聽人聲清晰度與樂器分離度。\n\nV5 保住第一，是因為整首歌的成果很穩定，穩定正是生成器實用的關鍵。第二名 ElevenLabs Music 適合已經在那個生態系裡工作、重視乾淨且偏商用產出的創作者。第三名 Lyria 3 Pro 帶著 Google 深厚的研究實力，第四名 Stable Audio 2.5 適合喜歡可控制純音樂的聲音設計師，第五名 Udio 因為獨特的個性仍有死忠支持者。\n\n我的建議是拿一首你本來就喜歡的歌，試 Suno 的編輯功能，修掉一句不滿意的歌詞，是感受進步最快的方式。做個人 Vlog 配樂或社團活動音樂都很合用。今天沒有排名變動，我想先有自己的聆聽筆記，再調整分數。",
+          "highlights": [
+            {
+              "title": "v6 加入白話編輯",
+              "body": "WinBuzzer 報導可以要求修改既有歌曲的某一段或某句歌詞。"
+            },
+            {
+              "title": "v6 三步檢查清單",
+              "body": "檢查連貫性、計算每次乾淨修改的嘗試次數，並與 V5 比較最終混音。"
+            },
+            {
+              "title": "V5 勝在穩定",
+              "body": "整首歌成果可靠，讓它維持第一。"
+            },
+            {
+              "title": "ElevenLabs Music 輸出乾淨",
+              "body": "適合已在該生態系工作的創作者，穩坐第二。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

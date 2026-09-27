@@ -18452,6 +18452,202 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-27",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.7,
+          "scores": {
+            "reasoning": 9.8,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.7,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.5,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "reasoning": 8.9,
+            "coding": 8.6,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
+          "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "New AI Models Released in September 2026: Prices",
+          "url": "https://capitalandcompute.net/blog/new-ai-models-september-2026/",
+          "source": "Capital and Compute"
+        },
+        {
+          "title": "AI Updates Today (September 2026): Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ChatGPT stays first and Claude stays second, and this week's news is about price. Trackers of September 2026 releases report that OpenAI released GPT-6 Sol and GPT-6 Luna on September 22, and that the pair halves OpenAI's API prices. Anthropic's Claude Opus 5.5 arrived the same day, built for long-running agentic coding and knowledge work, and Google shipped Gemini 3.8 Flash on September 2.\n\nWhy does that keep ChatGPT on top? Because cheaper models spread faster into the tools people use every day, and ChatGPT's ecosystem is the widest of any assistant. When I open it for a quick research question, a spreadsheet analysis or a voice conversation, the product just works across all of them. Halved API prices push more developers to build on OpenAI's models, which feeds that ecosystem further.\n\nClaude holds second on the strength of long, careful work. Opus 5.5's focus on long-running tasks matches how I use Claude, handing it a large document or a multi-step job and expecting it to stay coherent to the end. Gemini at third has Google's search and Workspace reach behind it, and the Gemini 3.8 Flash release shows Google shipping quickly. Grok and Perplexity round out my top five with their own strengths, live social context for one and cited web answers for the other.\n\nMy advice this week is to pick by task. Use ChatGPT for breadth, Claude for long documents and careful writing, and Gemini when your day lives inside Google apps. I hold every rank steady today, because three strong releases from three labs keep the order intact.",
+          "highlights": [
+            {
+              "title": "GPT-6 Sol and Luna halve API prices",
+              "body": "Release trackers report OpenAI's September 22 launch cut its API prices in half."
+            },
+            {
+              "title": "Claude Opus 5.5 targets long tasks",
+              "body": "Released September 22 for long-running agentic coding and knowledge work."
+            },
+            {
+              "title": "Gemini 3.8 Flash shipped September 2",
+              "body": "Google keeps a fast cadence, supporting Gemini's third place."
+            },
+            {
+              "title": "Choose by task",
+              "body": "ChatGPT for breadth, Claude for long careful work, Gemini for Google-centered workflows."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ChatGPT 繼續第一，Claude 繼續第二，這週的話題是價格。追蹤 2026 年 9 月模型發布的整理指出，OpenAI 在 9 月 22 日推出 GPT-6 Sol 與 GPT-6 Luna，兩款合計讓 OpenAI 的 API 價格砍半。Anthropic 的 Claude Opus 5.5 同一天登場，主打長時間的代理式寫程式與知識工作，Google 則在 9 月 2 日推出 Gemini 3.8 Flash。\n\n為什麼這讓 ChatGPT 守住第一？便宜的模型會更快滲透到大家每天使用的工具裡，而 ChatGPT 的生態系是所有助理中最廣的。我不管是拿它問快速的研究問題、做試算表分析，還是開語音聊天，都能順順地完成。API 價格砍半，會吸引更多開發者在 OpenAI 的模型上蓋產品，生態系因此更壯大。\n\nClaude 靠著長時間、細膩的工作穩坐第二。Opus 5.5 主打長時間任務，跟我平常使用 Claude 的方式很吻合：丟給它一份大型文件或多步驟的工作，期待它從頭到尾維持連貫。第三名 Gemini 背後有 Google 搜尋與 Workspace 的版圖，Gemini 3.8 Flash 也顯示 Google 出貨很快。Grok 與 Perplexity 各有特色，一個有即時社群脈絡，一個有附出處的網路答案，排在前五名。\n\n這週的建議是依任務選工具。要廣度就用 ChatGPT，處理長文件、細膩寫作用 Claude，整天泡在 Google 應用裡就選 Gemini。通勤路上用手機語音問問題，或在租屋處寫報告，三個都很好用。今天所有排名維持原樣，三家實驗室各推出強力新品，順序依舊穩固。",
+          "highlights": [
+            {
+              "title": "GPT-6 Sol 與 Luna 讓 API 價格砍半",
+              "body": "發布追蹤整理指出，OpenAI 9 月 22 日的新品讓 API 價格降了一半。"
+            },
+            {
+              "title": "Claude Opus 5.5 瞄準長任務",
+              "body": "9 月 22 日發布，主打長時間代理式寫程式與知識工作。"
+            },
+            {
+              "title": "Gemini 3.8 Flash 於 9 月 2 日推出",
+              "body": "Google 維持快速節奏，支撐 Gemini 的第三名。"
+            },
+            {
+              "title": "依任務挑選",
+              "body": "要廣度選 ChatGPT，長篇細膩工作選 Claude，Google 生態選 Gemini。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
