@@ -19349,6 +19349,199 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-28",
+      "rankings": [
+        {
+          "id": "suno-v5",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "audioQuality": 9.7,
+            "vocalRealism": 9.4,
+            "editingControl": 9.6,
+            "commercialLicense": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "elevenlabs-music",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "audioQuality": 9.3,
+            "vocalRealism": 9.7,
+            "editingControl": 8.7,
+            "commercialLicense": 9.9,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "lyria-3-pro",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 8.6,
+            "editingControl": 8.4,
+            "commercialLicense": 9.5,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 7.0,
+            "editingControl": 8.6,
+            "commercialLicense": 9.5,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "udio",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "audioQuality": 9.6,
+            "vocalRealism": 9.5,
+            "editingControl": 9.8,
+            "commercialLicense": 7.5,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "riffusion",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "audioQuality": 8.2,
+            "vocalRealism": 7.8,
+            "editingControl": 8.5,
+            "commercialLicense": 8.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "soundraw",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "audioQuality": 8.0,
+            "vocalRealism": 6.5,
+            "editingControl": 7.5,
+            "commercialLicense": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aiva",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 6.8,
+            "editingControl": 7.8,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "mubert",
+          "rank": 9,
+          "score": 7.3,
+          "scores": {
+            "audioQuality": 7.5,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "loudly",
+          "rank": 10,
+          "score": 7.0,
+          "scores": {
+            "audioQuality": 7.3,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "boomy",
+          "rank": 11,
+          "score": 6.8,
+          "scores": {
+            "audioQuality": 6.8,
+            "vocalRealism": 6.5,
+            "editingControl": 6.8,
+            "commercialLicense": 8.5,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Suno vs ElevenLabs Music 2026: V6 vs v2.5, Pricing and Licensing",
+          "url": "https://undetectr.com/blog/suno-vs-elevenlabs-music",
+          "source": "Undetectr"
+        },
+        {
+          "title": "Free AI Voice Generator & Voice Agents Platform",
+          "url": "https://elevenlabs.io/",
+          "source": "ElevenLabs"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Suno V5 stays first in my table, but the model itself changed under that ranking on September 9, when Suno retired every earlier model in one day and launched V6, v6-wild for Pro and Premier subscribers, and v6-mini for everyone else. The bigger story is who signed off on it: V6 was built with licensing deals from Warner Music Group, BMG, and Believe, the first time a major generative music platform launched with that kind of label backing baked into the release from day one, not bolted on after a lawsuit. That matters directly for the commercial license column in my table, because a track made on a model trained under a real licensing agreement with three labels carries less legal risk for a creator who wants to put it on Spotify or in an ad than a track made on a model trained without that cover. Eleven Music still holds the highest commercial license score in my table, and ElevenLabs keeps publishing the clearest terms of any competitor here, its Starter plan is explicitly commercial but excludes streaming, and only the Creator and Pro tiers clear you for wider commercial use. Suno's new label deals close some of that gap without matching it yet, and I want to see a full billing cycle of user reports before I move the score. Udio still tops the table on editing control, and if your workflow depends on fine grained control over a section or a lyric line, that edge has not moved. My advice for anyone starting a paid subscription this month: read the commercial license terms line by line before you assume a generated track is clear to publish, the label deals help but they do not erase every restriction.",
+          "highlights": [
+            {
+              "title": "Suno retired V5 for V6 on September 9",
+              "body": "Every earlier model was retired the same day, replaced by v6 and v6-wild for paid tiers and v6-mini for everyone."
+            },
+            {
+              "title": "Three major labels back the new model",
+              "body": "V6 launched with licensing deals from Warner Music Group, BMG, and Believe built in from day one."
+            },
+            {
+              "title": "Eleven Music still leads on licensing clarity",
+              "body": "ElevenLabs publishes the clearest commercial terms in the category, though its Starter plan still excludes streaming use."
+            },
+            {
+              "title": "Udio still wins on editing control",
+              "body": "Fine grained control over a section or a lyric line remains Udio's strongest column in the table."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Suno V5 在我這張表裡還是排第一，但排名底下的模型其實已經換了，九月九日那天，Suno 把之前所有版本一次全部退役，換上 V6，Pro 跟 Premier 訂閱戶用 v6-wild，其他人用 v6-mini。更值得注意的是背後簽了誰，V6 是跟華納音樂、BMG、Believe 三家大廠談好授權才推出的，這是主流生成式音樂平台第一次在發布當下就把大廠授權談定，跳過了被告才補簽這條老路。這件事直接影響我表裡的商用授權這一項分數，因為一首歌如果是在跟三家大廠都談好授權的模型上做出來的，創作者要放上 Spotify 或用在廣告裡，承擔的法律風險比沒有這層保障的模型小很多。Eleven Music 在我這張表裡商用授權分數還是最高，ElevenLabs 一直把條款寫得最清楚，它的入門方案明講可以商用，但不能拿去串流平台，只有 Creator 跟 Pro 兩個等級才放行更廣的商用用途。Suno 這次的大廠授權拉近了一些差距，但還沒追上，我想多看幾個月的用戶回報再決定要不要調分數。Udio 在編輯控制這一項還是排第一，如果你的流程需要精細調整某個段落或某句歌詞，這個優勢完全沒變。給這個月要開始付費訂閱的人一個建議，商用授權條款要一行一行讀完再假設一首生成出來的歌可以直接發布，大廠授權有幫助，但沒有把每一條限制都清乾淨。",
+          "highlights": [
+            {
+              "title": "Suno 九月九日讓 V5 退役換上 V6",
+              "body": "所有舊版本同一天退役，換成 v6 跟付費等級的 v6-wild，一般用戶則是 v6-mini。"
+            },
+            {
+              "title": "三家大廠幫新模型背書",
+              "body": "V6 推出時就先談好華納音樂、BMG、Believe 三家的授權，把大廠背書直接做進發布當下。"
+            },
+            {
+              "title": "Eleven Music 授權條款依然最清楚",
+              "body": "ElevenLabs 的商用條款在同類裡寫得最清楚，不過入門方案還是不能拿去串流。"
+            },
+            {
+              "title": "Udio 編輯控制仍是強項",
+              "body": "對段落或歌詞逐句做精細調整，這一項在表裡還是 Udio 最強。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

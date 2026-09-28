@@ -9413,6 +9413,199 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-28",
+      "rankings": [
+        {
+          "id": "aqara-u400",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "security": 9.3,
+            "access": 9.7,
+            "smartHome": 9.7,
+            "value": 8.6,
+            "install": 8.8
+          }
+        },
+        {
+          "id": "schlage-encode-plus",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "security": 9.6,
+            "access": 8.6,
+            "smartHome": 9.0,
+            "value": 8.4,
+            "install": 9.0
+          }
+        },
+        {
+          "id": "yale-assure-lock-2-plus",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "security": 8.8,
+            "access": 8.8,
+            "smartHome": 9.1,
+            "value": 8.5,
+            "install": 8.9
+          }
+        },
+        {
+          "id": "ultraloq-bolt-mission",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "security": 8.6,
+            "access": 8.8,
+            "smartHome": 9.0,
+            "value": 8.5,
+            "install": 8.8
+          }
+        },
+        {
+          "id": "ultraloq-u-bolt-pro-wifi",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "security": 8.6,
+            "access": 9.2,
+            "smartHome": 8.2,
+            "value": 8.8,
+            "install": 8.6
+          }
+        },
+        {
+          "id": "switchbot-lock-ultra",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "security": 8.0,
+            "access": 9.0,
+            "smartHome": 8.4,
+            "value": 9.2,
+            "install": 9.4
+          }
+        },
+        {
+          "id": "eufy-smart-lock-e130",
+          "rank": 7,
+          "score": 8.4,
+          "scores": {
+            "security": 8.4,
+            "access": 8.6,
+            "smartHome": 8.2,
+            "value": 9.0,
+            "install": 8.4
+          }
+        },
+        {
+          "id": "level-lock-plus",
+          "rank": 8,
+          "score": 8.2,
+          "scores": {
+            "security": 8.2,
+            "access": 7.6,
+            "smartHome": 8.8,
+            "value": 7.6,
+            "install": 8.6
+          }
+        },
+        {
+          "id": "august-wifi-smart-lock-4th-gen",
+          "rank": 9,
+          "score": 8.1,
+          "scores": {
+            "security": 7.8,
+            "access": 7.8,
+            "smartHome": 8.6,
+            "value": 8.4,
+            "install": 9.2
+          }
+        },
+        {
+          "id": "wyze-lock-bolt",
+          "rank": 10,
+          "score": 7.9,
+          "scores": {
+            "security": 7.6,
+            "access": 8.4,
+            "smartHome": 7.2,
+            "value": 9.6,
+            "install": 8.4
+          }
+        },
+        {
+          "id": "lockly-vision-elite",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "security": 8.6,
+            "access": 8.8,
+            "smartHome": 7.4,
+            "value": 6.8,
+            "install": 7.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Home Assistant adds native PIN management for Matter smart locks",
+          "url": "https://www.matteralpha.com/news/home-assistant-adds-native-pin-management-for-matter-smart-locks",
+          "source": "Matter Alpha"
+        },
+        {
+          "title": "The Best Smart Home Tech at CES 2026",
+          "url": "https://gizmodo.com/the-best-smart-home-tech-at-ces-2026-2000708333",
+          "source": "Gizmodo"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Aqara's Smart Lock U400 stays first, and this week gives me a concrete reason to like it even more. Home Assistant's own coverage on Matter Alpha confirms that its new native PIN management feature, released in Home Assistant Core 2026.4, was tested directly against the Aqara U400. That means a U400 owner running Home Assistant can now add, remove, and check user codes locally, storing credentials directly on the lock, which frees an owner from opening Aqara's own app for every change. For anyone who already runs a local smart home hub, that is the kind of independence I look for in a lock.\n\nGizmodo's CES 2026 roundup named the Lockin V7 Max its favorite new lock, and the spec sheet reads like something from a much more expensive category: wireless optical charging, palm and finger vein scanning, facial recognition, and a slim mortise design with a video camera built into both sides of the door. It has not reached my table yet, since a lock that ambitious needs real months on a door before I trust it, but it shows how fast the category is moving.\n\nMy ranking holds. The U400 wins with UWB precision that most competitors still lack, and it just gained a genuine local-control feature to back that up. Schlage's Encode Plus in second remains the pick for Apple Home Key, and Yale's Assure Lock 2 Plus in third is the safe, familiar choice for a first smart lock.",
+          "highlights": [
+            {
+              "title": "Local PIN Control Lands",
+              "body": "Home Assistant Core 2026.4 added native PIN management for Matter locks, tested against the Aqara U400, so codes can be added or removed locally without the vendor app."
+            },
+            {
+              "title": "CES Shows Where Locks Are Headed",
+              "body": "Gizmodo's CES 2026 pick, the Lockin V7 Max, pairs palm and finger vein scanning with facial recognition and optical wireless charging, a preview of features that will trickle down over time."
+            },
+            {
+              "title": "UWB Still Sets The U400 Apart",
+              "body": "The U400's access methods score of 9.7 stays the highest in the table, letting it tell whether a phone is approaching the door or just passing by."
+            },
+            {
+              "title": "Home Key Still Has A Champion",
+              "body": "Schlage's Encode Plus holds second with a 9.6 security score and genuine Apple Home Key support on real deadbolt hardware."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Aqara 的 Smart Lock U400 這次還是第一名，這禮拜剛好有個實際案例讓我更喜歡它。Matter Alpha 報導 Home Assistant 推出的原生 PIN 碼管理功能，在 Home Assistant Core 2026.4 版本裡上線，而且官方直接拿 U400 做測試。這代表用 Home Assistant 的 U400 用戶，現在可以在本地新增、刪除、檢查使用者密碼，密碼直接存在鎖體裡面，不用每次都開 Aqara 自己的 App。對已經在跑本地智慧家庭主機的人來說，這種不依賴雲端的自由度，正是我挑鎖會在意的重點。\n\nGizmodo 的 CES 2026 年度選拔，把年度最愛智慧鎖頒給了 Lockin V7 Max，規格單讀起來像是貴上一大截的產品線，無線光學充電，掌靜脈跟指靜脈辨識，還有臉部辨識，門的兩側都內建攝影機，鎖體做得很薄。這台目前還沒排進我的表裡，這麼多新技術堆在一起，我想等它裝在真實的門上撐過幾個月再說，不過這也讓我看到這個類別進步的速度有多快。\n\n排名維持不變。U400 靠著多數對手還做不到的 UWB 定位精準度守住第一，這次又多了實打實的本地控制功能加分。第二名 Schlage 的 Encode Plus，Apple Home Key 的支援對象維持不變。第三名 Yale 的 Assure Lock 2 Plus，對第一次買智慧鎖的人來說仍然是穩妥的選擇。",
+          "highlights": [
+            {
+              "title": "本地 PIN 控制正式上線",
+              "body": "Home Assistant Core 2026.4 新增了 Matter 門鎖的原生 PIN 碼管理功能，直接拿 Aqara U400 做測試，密碼能在本地新增或刪除，不用開廠商 App。"
+            },
+            {
+              "title": "CES 預告門鎖的下一步",
+              "body": "Gizmodo 在 CES 2026 選出的 Lockin V7 Max，結合掌靜脈跟指靜脈辨識、臉部辨識跟光學無線充電，預告了這些技術將慢慢往下普及。"
+            },
+            {
+              "title": "UWB 仍是 U400 的獨門優勢",
+              "body": "U400 的存取方式拿下表裡最高的 9.7 分，能判斷手機是正在走近門口，還是只是經過。"
+            },
+            {
+              "title": "Home Key 依然有守門人",
+              "body": "Schlage 的 Encode Plus 安全與結構拿下 9.6 分，守住第二名，在真正的門鎖五金上提供原生 Apple Home Key 支援。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

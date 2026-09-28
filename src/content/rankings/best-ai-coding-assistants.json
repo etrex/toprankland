@@ -25678,6 +25678,223 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-28",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.7,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "codeQuality": 9.2,
+            "contextWindow": 8.2,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.6,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.2,
+            "valueForMoney": 6.8
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Coding Agents in 2026: Claude Code vs Codex vs Cursor",
+          "url": "https://www.turingcollege.com/blog/best-ai-coding-agents-2026-claude-code-codex-cursor",
+          "source": "Turing College"
+        },
+        {
+          "title": "Codex vs Claude Code: which is the better AI coding agent?",
+          "url": "https://www.builder.io/blog/codex-vs-claude-code",
+          "source": "Builder.io"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code holds first and OpenAI Codex holds second, and the news I want to flag this week has nothing to do with a new model, it is about who owns the company behind rank three. SpaceX closed its acquisition of Cursor for sixty billion dollars in mid-August, and the deal is still reshaping how buyers think about seat costs. Cursor's Pro+ tier at sixty dollars a month now bundles Grok 4.6 access with triple the usage of the standard plan, and teams that used to spread three twenty-dollar Claude Pro seats across a squad for extra throughput are comparing that same sixty dollar spend against one Cursor Pro+ seat that keeps everything under a single harness. I still rank Claude Code first because its code quality and context window scores lead the table, and a team doing serious agentic refactoring gets more reliable diffs from it than from any competitor right now. Codex holds second on the strength of its own agentic runs, and I increasingly see both tools running side by side on the same project. Cursor earns its third place on IDE integration, the tab complete and multi file editing experience is still the smoothest of the three, and the SpaceX ownership change has not touched the product itself yet. What has changed is the buying conversation. If your team already juggles three or more seats to get around usage caps, this is the week to run the actual math on consolidating into one Cursor Pro+ subscription and dropping the separate seats. The sixty dollar price point is identical either way, the difference is whether you want one harness or the flexibility of picking a model per task.",
+          "highlights": [
+            {
+              "title": "SpaceX now owns Cursor",
+              "body": "SpaceX closed a sixty billion dollar acquisition of Cursor in mid-August 2026, and the deal is reshaping how teams compare seat pricing."
+            },
+            {
+              "title": "Pro+ seat math got competitive",
+              "body": "Cursor Pro+ at sixty dollars a month now bundles Grok 4.6 with triple usage, going head to head with three stacked twenty-dollar Claude Pro seats."
+            },
+            {
+              "title": "Claude Code still leads code quality",
+              "body": "Its code quality and context window scores remain the highest in the table, the edge that keeps it first for serious agentic refactoring."
+            },
+            {
+              "title": "Codex and Claude Code run side by side",
+              "body": "More teams now run both tools on the same project at once, without settling on a single default."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 還是第一，OpenAI Codex 也還是第二，這週真正值得聊的新聞跟新模型無關，是排第三的 Cursor 換老闆了。SpaceX 在八月中以六百億美元完成收購 Cursor 的交易，這筆錢正在改變大家算訂閱成本的方式。Cursor 的 Pro+ 方案一個月六十美元，現在直接綁 Grok 4.6，用量還是標準版的三倍，原本團隊習慣多開三組二十美元的 Claude Pro 帳號來衝額度，現在同樣六十美元，開始有人拿去跟一組 Cursor Pro+ 比較，因為後者所有工作都能收在同一套介面裡。我還是把 Claude Code 排第一，因為它在程式品質跟上下文視窗兩項分數在這張表裡最高，團隊真的要做大規模的代理式重構，它給出的修改可靠度目前沒人打得過。Codex 靠著自己代理式任務的表現守住第二，我現在看到越來越多團隊直接兩套一起開，同一個專案輪流用。Cursor 排第三，靠的是 IDE 整合，分頁自動完成跟多檔案編輯的體驗還是三家裡最順的，SpaceX 換老闆這件事目前還沒動到產品本身。真正變的是採購時的算盤。如果你的團隊已經開三組以上帳號在繞額度限制，這週值得認真算一次，把帳號整併成一組 Cursor Pro+，價格幾乎一樣，差別只在於你想要單一介面，還是保留自由挑模型的彈性。",
+          "highlights": [
+            {
+              "title": "SpaceX 收購了 Cursor",
+              "body": "SpaceX 在 2026 年八月中以六百億美元完成收購 Cursor 的交易，這筆交易正在改變團隊比較訂閱價格的方式。"
+            },
+            {
+              "title": "Pro+ 的訂閱算盤變精采了",
+              "body": "Cursor Pro+ 一個月六十美元，現在綁定 Grok 4.6 並提供三倍用量，直接對上三組疊加的二十美元 Claude Pro 帳號。"
+            },
+            {
+              "title": "Claude Code 程式品質仍是最強",
+              "body": "它的程式品質跟上下文視窗分數在這張表裡最高，這也是團隊做大規模代理式重構時仍選它排第一的原因。"
+            },
+            {
+              "title": "Codex 跟 Claude Code 常常一起用",
+              "body": "越來越多團隊直接讓兩套工具同時跑在同一個專案上，不再只認定單一預設工具。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

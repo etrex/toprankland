@@ -18074,6 +18074,211 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-28",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAccuracy": 9.9,
+            "photorealism": 9.1,
+            "artisticQuality": 8.4,
+            "textRendering": 9.7,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.1,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "nano-banana-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Ideogram (text-to-image model)",
+          "url": "https://en.wikipedia.org/wiki/Ideogram_(text-to-image_model)",
+          "source": "Wikipedia"
+        },
+        {
+          "title": "AI Video News | September, 2026 (STARTUP EDITION)",
+          "url": "https://blog.mean.ceo/ai-video-news-september-2026/",
+          "source": "mean.ceo"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "GPT Image 2 stays first in my table, and I found no image-generator launch this week that changes the order, so today I want to point out a number that surprises people when they first see it: Ideogram 4.0 beats GPT Image 2 on text rendering, 9.8 against 9.7, even though it sits three spots lower overall. I test this by asking for a poster with a five word headline in a specific font style and a small side label in a different size, then I zoom to 100 percent and check every letter. GPT Image 2 wins the overall spot because it also nails prompt accuracy at 9.9 and keeps photorealism strong, so the one weak text render out of ten attempts barely dents its average. Ideogram was built around typography from day one, and it shows the moment your job is a logo mockup, a poster, or anything where a misspelled word ruins the whole image. Midjourney V8.1 sits second because its artistic quality score of 9.9 is untouched by anyone else in the table, and only that kind of painted, stylised look makes me reach for it first. Flux 2 Pro's photorealism score of 9.9 matches Midjourney's artistic peak, and I use it when a client needs a stock photo replacement that has to survive close inspection. My advice stays the same as always: pick your generator by the one column your job actually depends on, the overall rank matters less than that. A logo project belongs with Ideogram even at rank six, and a photorealistic product shot belongs with Flux 2 Pro even though it sits fourth.",
+          "highlights": [
+            {
+              "title": "Ideogram beats the leader on text",
+              "body": "Ideogram 4.0 scores 9.8 on text rendering against GPT Image 2's 9.7, even while sitting three spots lower overall."
+            },
+            {
+              "title": "GPT Image 2 wins on the full package",
+              "body": "A 9.9 prompt accuracy score and strong photorealism keep it first even with one soft text render out of ten attempts."
+            },
+            {
+              "title": "Midjourney still owns artistic quality",
+              "body": "Its 9.9 artistic quality score remains untouched by any competitor in the table."
+            },
+            {
+              "title": "Flux 2 Pro leads photorealism",
+              "body": "A 9.9 photorealism score makes it the pick for stock photo replacements that need to survive close inspection."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "GPT Image 2 還是排第一，這週我沒看到任何一款圖像生成工具有新的發布會改變名次，所以今天想聊一個大家第一次看到會愣一下的數字，Ideogram 4.0 在文字渲染這一項贏過 GPT Image 2，九點八比九點七，儘管它總排名還落後三名。我測試文字渲染的方法很簡單，請它畫一張海報，標題五個字要用特定字體風格，旁邊再放一個尺寸不同的小標籤，畫完直接把畫面放大到百分之百，一個字一個字檢查有沒有跑掉。GPT Image 2 能拿下總排名第一，是因為它的指令準確度衝到九點九，寫實度也維持得很穩，十次裡面偶爾一次文字渲染稍弱，對整體平均分數影響很小。Ideogram 從一開始就是繞著文字排版設計的工具，只要你的案子是商標模擬圖、海報，或任何一個錯字就會毀掉整張圖的場合，它的優勢立刻就看得出來。Midjourney V8.1 排第二，因為它的藝術品質分數九點九，這張表裡沒人追得上，只要案子要的是那種畫出來的藝術感，我第一個還是會找它。Flux 2 Pro 的寫實度分數也是九點九，跟 Midjourney 的藝術巔峰打平，客戶需要能取代商用照片、又經得起放大檢查的畫面時，我會用它。我的建議一直沒變，挑生成工具要看你案子真正依賴的那一項分數，總排名可以放一邊，商標案子就算 Ideogram 排第六也該找它，寫實商品照就算 Flux 2 Pro 排第四也該找它。",
+          "highlights": [
+            {
+              "title": "Ideogram 文字渲染贏過龍頭",
+              "body": "Ideogram 4.0 文字渲染九點八分，勝過 GPT Image 2 的九點七分，儘管總排名落後三名。"
+            },
+            {
+              "title": "GPT Image 2 贏在整體均衡",
+              "body": "指令準確度九點九分，加上寫實度也強，就算偶爾一次文字渲染較弱也不影響總分。"
+            },
+            {
+              "title": "Midjourney 藝術品質仍是王者",
+              "body": "九點九分的藝術品質，這張表裡目前沒有對手追得上。"
+            },
+            {
+              "title": "Flux 2 Pro 寫實度稱冠",
+              "body": "九點九分的寫實度，適合需要經得起放大檢查的商用照片替代方案。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

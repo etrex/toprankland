@@ -19111,6 +19111,199 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-28",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.1,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Video Generation Trends | September, 2026 (STARTUP EDITION)",
+          "url": "https://blog.mean.ceo/ai-video-generation-trends-september-2026/",
+          "source": "mean.ceo"
+        },
+        {
+          "title": "AI Video News | September, 2026 (STARTUP EDITION)",
+          "url": "https://blog.mean.ceo/ai-video-news-september-2026/",
+          "source": "mean.ceo"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Kling 3.0 stays first and Veo 3.1 stays second, and I found no single video launch this week big enough to move either spot, so today I want to talk about the format war going on underneath every one of these tools. Vertical video reached 43.7 percent of output this year, and industry trackers expect it to pass horizontal 16:9 before the year is out. That number changes how I judge a video generator now, because a model that handles a tall nine by sixteen frame with the subject centered and readable at phone size is doing a harder job than one optimized for a widescreen frame, even when both produce the same resolution number on a spec sheet. Kling 3.0 keeps first because its motion realism and value for money scores are still the best combination in the table, and I have not seen a vertical clip from it lose character consistency the way some competitors do when the frame gets narrow. Veo 3.1 holds second on the strength of native audio and lip sync, still the highest score of any tool here, and that pairing of picture and sound in one pass is why agencies keep it in the mix even at a higher price. Seedance 2.0 and Runway Gen-4.5 stay tied for third, Seedance on audio video sync and value, Runway on character consistency across a longer cut. My advice this week: before you commit to a subscription, generate the exact vertical format your channel actually publishes to, a horizontal demo reel tells you almost nothing about how a model handles the frame you will actually ship.",
+          "highlights": [
+            {
+              "title": "Vertical video is winning the format war",
+              "body": "9:16 output reached 43.7 percent this year and is on track to pass 16:9 before year end."
+            },
+            {
+              "title": "Kling 3.0 holds motion and value lead",
+              "body": "Its combination of motion realism and value for money stays unmatched, with no character consistency loss seen in vertical clips."
+            },
+            {
+              "title": "Veo 3.1 still owns native audio sync",
+              "body": "Its lip sync and native audio score remains the highest in the table, keeping it in agency shortlists despite the price."
+            },
+            {
+              "title": "Test in the format you actually publish",
+              "body": "A horizontal demo reel tells you little about how a model handles the vertical frame most channels actually ship."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Kling 3.0 還是第一，Veo 3.1 也還是第二，這週沒有任何一支影片生成工具的新發布大到足以動搖這兩個位置，所以今天想聊聊這些工具底下正在打的格式戰爭。直式影片今年已經衝到整體產出的百分之四十三點七，業界追蹤機構預期年底前就會超過橫式的十六比九。這個數字改變了我現在評斷影片生成工具的方式，一支模型要在窄窄的九比十六畫面裡，把主體放在中間，手機螢幕上還看得清楚，難度其實比針對寬螢幕優化的模型高很多，就算兩者規格表上寫的解析度數字一樣。Kling 3.0 守住第一，是因為它的動態真實感跟性價比這兩項分數的組合，這張表裡沒人比得上，我還沒看過它做出來的直式影片，在畫面變窄之後角色一致性崩掉，這是不少競品常見的問題。Veo 3.1 排第二，靠的是原生音訊跟嘴型同步，這張表裡分數最高，畫面跟聲音一次生成就到位，這也是為什麼代理商就算要多付一點錢，還是把它留在片單裡。Seedance 2.0 跟 Runway Gen-4.5 並列第三，Seedance 贏在音畫同步跟性價比，Runway 贏在長片段裡的角色一致性。這週給大家的建議，訂閱之前先用你頻道真正會發布的直式格式跑一次，橫式的展示片幾乎沒辦法告訴你，一支模型面對你真正要出貨的畫面表現如何。",
+          "highlights": [
+            {
+              "title": "直式影片正在贏得格式戰爭",
+              "body": "九比十六的產出今年已經衝到百分之四十三點七，預期年底前會超過十六比九。"
+            },
+            {
+              "title": "Kling 3.0 動態表現跟性價比雙強",
+              "body": "這個組合這張表裡沒人比得上，直式影片也沒出現角色一致性崩壞的問題。"
+            },
+            {
+              "title": "Veo 3.1 原生音訊同步仍是最強",
+              "body": "嘴型同步跟原生音訊分數是這張表裡最高的，就算價格較高，代理商還是留著它。"
+            },
+            {
+              "title": "用你真正會發布的格式先測過",
+              "body": "橫式展示片幾乎看不出一支模型面對直式畫面時的真實表現。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

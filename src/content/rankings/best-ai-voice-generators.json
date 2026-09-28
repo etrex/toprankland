@@ -19834,6 +19834,211 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-28",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.4,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "fish-audio-openaudio-s1",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.1,
+            "emotionalRange": 8.8,
+            "languageSupport": 8.0,
+            "latency": 8.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 9.8,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 8,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 8.3,
+            "emotionalRange": 7.7,
+            "languageSupport": 8.6,
+            "latency": 7.8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Free AI Voice Generator & Voice Agents Platform",
+          "url": "https://elevenlabs.io/",
+          "source": "ElevenLabs"
+        },
+        {
+          "title": "ElevenLabs releases a new AI-powered music-generation app",
+          "url": "https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/",
+          "source": "TechCrunch"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs stays first by the smallest possible margin, 9.4 against Inworld TTS-1.5 Max's own 9.4, and the column that actually separates them is latency, where Inworld scores 9.8 against ElevenLabs' 9.2. That six tenths of a point sounds small until you put both models behind a live phone agent, where every extra hundred milliseconds of delay makes a caller feel like they are talking to a machine, not a person. I give ElevenLabs the top spot anyway because its language support score of 9.8 is the best in the table, and a production narration job that needs to ship in twelve languages from one voice profile still has no better option. Cartesia Sonic 3 posts a perfect ten on latency, the fastest number anywhere in this table, and I recommend it specifically for anyone building a live voice agent where response time is the entire product experience, even though its language support and value scores trail the leaders. Hume AI Octave 2 keeps the highest emotional range score at 9.7, and I still reach for it first for narration work where the performance needs to carry real feeling, an audiobook chapter or a character voice, and customer service scripts are not where it earns its keep. The lesson from this table stays the same every month: latency, language coverage, and emotional range rarely peak in the same product, so the right pick depends entirely on whether your project runs live or gets rendered ahead of time. ElevenLabs also shipped a standalone music app earlier this year, one more sign of how much it keeps investing in audio generation beyond voice alone.",
+          "highlights": [
+            {
+              "title": "ElevenLabs and Inworld are in a near tie",
+              "body": "Both score 9.4 overall, with latency the column that actually separates them, 9.8 for Inworld against 9.2 for ElevenLabs."
+            },
+            {
+              "title": "Latency decides the live use case",
+              "body": "Every extra hundred milliseconds matters for a live phone agent, which is why Cartesia Sonic 3's perfect ten latency score stands out."
+            },
+            {
+              "title": "ElevenLabs still wins on language coverage",
+              "body": "Its 9.8 language support score keeps it the top pick for narration jobs shipping in a dozen languages from one voice."
+            },
+            {
+              "title": "Hume AI Octave 2 leads emotional range",
+              "body": "Its 9.7 score makes it the first choice for audiobook chapters and character voices that need to carry real feeling."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ElevenLabs 以最小的差距守住第一，九點四比 Inworld TTS-1.5 Max 的九點四，真正拉開兩者的是延遲這一項，Inworld 拿九點八，ElevenLabs 只有九點二。零點六分聽起來很小，但把兩個模型放到真人電話客服的場景裡，每多一百毫秒的延遲，都會讓對方覺得自己在跟機器講話，感覺不到真人的溫度。我還是把 ElevenLabs 排第一，因為它的語言支援分數九點八是這張表裡最高的，一個要用同一個聲音檔案生出十二種語言的正式配音案子，目前沒有更好的選擇。Cartesia Sonic 3 延遲分數是滿分十分，這張表裡跑最快的數字，我特別推薦給正在做即時語音客服的人，回應速度就是整個產品體驗，就算它的語言支援跟性價比分數落後領先者。Hume AI Octave 2 情感表現分數九點七，這張表裡最高，需要真感情撐場的配音工作，一集有聲書或一個角色配音，我第一個還是找它，客服腳本這種需求輪不到它上場。這張表每個月要說的道理都一樣，延遲、語言涵蓋、情感表現很少同時衝到頂，適合你的那一個，要看你的案子是即時互動還是事先錄好。ElevenLabs 今年稍早也推出一款獨立的音樂 App，是它持續往語音以外的音訊生成投入資源的又一個訊號。",
+          "highlights": [
+            {
+              "title": "ElevenLabs 跟 Inworld 幾乎打平",
+              "body": "兩者總分都是九點四，真正拉開差距的是延遲，Inworld 九點八，ElevenLabs 九點二。"
+            },
+            {
+              "title": "延遲決定即時應用的勝負",
+              "body": "多一百毫秒都有感，這也是 Cartesia Sonic 3 延遲滿分十分特別突出的原因。"
+            },
+            {
+              "title": "ElevenLabs 語言涵蓋仍是第一",
+              "body": "九點八的語言支援分數，讓它在需要一個聲音檔案配十二種語言的正式案子上依然最強。"
+            },
+            {
+              "title": "Hume AI Octave 2 情感表現稱王",
+              "body": "九點七分讓它成為有聲書、角色配音這類需要真感情的第一選擇。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
