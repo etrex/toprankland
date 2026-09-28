@@ -68,6 +68,22 @@
       }
     },
     {
+      "id": "roamless",
+      "name": "Roamless Japan eSIM",
+      "brand": "Roamless",
+      "url": "https://roamless.com/esim/japan-esim",
+      "i18n": {
+        "en": {
+          "description": "I like Roamless's Japan plan because it prices 10GB for 30 days at $14.95, names KDDI and SoftBank up front, includes unlimited hotspot, and states its speed limit as never, meaning there is no throttle threshold to hunt for in the fine print. It also placed second out of 22 providers in an independent 2026 speed test, which matches what I want from a first eSIM stop after landing.",
+          "priceRange": "$14.95 (10GB / 30 days)"
+        },
+        "zh-tw": {
+          "description": "Roamless 這張日本方案我很推，10GB、30 天只要 14.95 美元，方案頁直接寫出 KDDI 跟 SoftBank，熱點分享不限量，速度限制寫的是永不降速，完全不用去猜降速門檻藏在哪裡。它在一份涵蓋22家業者的2026年獨立測速報告裡排第二快，落地馬上開網路的信心感很夠。",
+          "priceRange": "約 NT$470（10GB／30 天）"
+        }
+      }
+    },
+    {
       "id": "airalo",
       "name": "Airalo Japan eSIM",
       "brand": "Airalo",
@@ -1523,8 +1539,20 @@
           }
         },
         {
-          "id": "airalo",
+          "id": "roamless",
           "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "price": 9.2,
+            "fairUse": 8.0,
+            "hotspot": 9.0,
+            "network": 9.5,
+            "app": 7.0
+          }
+        },
+        {
+          "id": "airalo",
+          "rank": 5,
           "score": 8.4,
           "scores": {
             "price": 6.5,
@@ -1536,7 +1564,7 @@
         },
         {
           "id": "saily",
-          "rank": 5,
+          "rank": 6,
           "score": 8.3,
           "scores": {
             "price": 8.7,
@@ -1548,7 +1576,7 @@
         },
         {
           "id": "maya-mobile",
-          "rank": 6,
+          "rank": 7,
           "score": 8.0,
           "scores": {
             "price": 7.5,
@@ -1560,7 +1588,7 @@
         },
         {
           "id": "gigsky",
-          "rank": 7,
+          "rank": 8,
           "score": 7.7,
           "scores": {
             "price": 7.0,
@@ -1572,7 +1600,7 @@
         },
         {
           "id": "airhub",
-          "rank": 8,
+          "rank": 9,
           "score": 7.5,
           "scores": {
             "price": 9.5,
@@ -1584,7 +1612,7 @@
         },
         {
           "id": "alosim",
-          "rank": 9,
+          "rank": 10,
           "score": 7.2,
           "scores": {
             "price": 8.7,
@@ -1596,7 +1624,7 @@
         },
         {
           "id": "holafly",
-          "rank": 10,
+          "rank": 11,
           "score": 7.0,
           "scores": {
             "price": 5.5,
