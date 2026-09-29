@@ -20039,6 +20039,211 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-29",
+      "rankings": [
+        {
+          "id": "elevenlabs",
+          "rank": 1,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.7,
+            "emotionalRange": 9.5,
+            "languageSupport": 9.8,
+            "latency": 9.2,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "inworld-tts-1-5-max",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "voiceRealism": 9.6,
+            "emotionalRange": 9.4,
+            "languageSupport": 9.0,
+            "latency": 9.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "cartesia-sonic-3",
+          "rank": 3,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.5,
+            "latency": 10.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "fish-audio-openaudio-s1",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "voiceRealism": 9.1,
+            "emotionalRange": 8.8,
+            "languageSupport": 8.0,
+            "latency": 8.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "hume-ai-octave-2",
+          "rank": 5,
+          "score": 8.9,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 9.7,
+            "languageSupport": 8.5,
+            "latency": 8.7,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "minimax-speech-02-hd",
+          "rank": 6,
+          "score": 8.8,
+          "scores": {
+            "voiceRealism": 8.9,
+            "emotionalRange": 8.8,
+            "languageSupport": 9.2,
+            "latency": 9.1,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "murf-ai",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 8.0,
+            "languageSupport": 8.6,
+            "latency": 9.8,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "openai-gpt-4o-mini-tts",
+          "rank": 8,
+          "score": 8.5,
+          "scores": {
+            "voiceRealism": 8.5,
+            "emotionalRange": 8.7,
+            "languageSupport": 8.8,
+            "latency": 8.5,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "speechify-studio",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 8.3,
+            "emotionalRange": 7.7,
+            "languageSupport": 8.6,
+            "latency": 7.8,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "wellsaid-labs",
+          "rank": 10,
+          "score": 8.0,
+          "scores": {
+            "voiceRealism": 9.0,
+            "emotionalRange": 7.8,
+            "languageSupport": 7.4,
+            "latency": 7.6,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "resemble-ai",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "voiceRealism": 8.4,
+            "emotionalRange": 7.5,
+            "languageSupport": 7.6,
+            "latency": 7.8,
+            "valueForMoney": 7.6
+          }
+        },
+        {
+          "id": "descript-overdub",
+          "rank": 12,
+          "score": 7.4,
+          "scores": {
+            "voiceRealism": 7.8,
+            "emotionalRange": 7.0,
+            "languageSupport": 6.8,
+            "latency": 7.4,
+            "valueForMoney": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "UMG and voice AI giant ElevenLabs launch AI-powered music platform",
+          "url": "https://www.semafor.com/article/09/11/2026/umg-and-voice-ai-giant-elevenlabs-launch-ai-powered-music-platform",
+          "source": "Semafor"
+        },
+        {
+          "title": "Suno AI: Platform summary and everything you need to know",
+          "url": "https://elevenlabs.io/blog/suno-ai",
+          "source": "ElevenLabs"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ElevenLabs holds first by the smallest possible margin today, 9.4 against Inworld TTS-1.5 Max's own 9.4, and I want to use today's entry to look at what ElevenLabs just did outside the voice column entirely. On September 11, Universal Music Group signed a licensing deal with ElevenLabs to build an AI music platform on UMG's own catalog, and that deal tells me something about the company sitting at the top of this table. A major label does not hand its catalog to a voice AI company on a handshake, it does so after years of watching that company's core technology hold up under legal and technical scrutiny, and ElevenLabs earned that trust through the same voice engine that scores 9.8 for language support in my table, the best mark any tool here posts. That kind of cross-category credibility matters when you are choosing a voice API for a commercial product, because it signals a company built to survive a licensing dispute, a rarer trait than a flashy demo. Inworld TTS-1.5 Max keeps pace on raw capability, its 9.8 latency score is the best in my table and the reason real-time game and phone agents keep choosing it over ElevenLabs, but it does not carry the same label-facing track record yet. Hume AI Octave 2 rounds out my top five with the best emotional range score in the table, 9.7, which is the column I point to first for anyone building a voice for long-form narration or companion apps, where nuance matters more than split-second response time. No tool swept every column this time, and that is normal in a market this specialized, the right pick still depends on whether latency, language coverage, or emotional nuance matters most for your specific build.",
+          "highlights": [
+            {
+              "title": "ElevenLabs' label credibility",
+              "body": "UMG's September 11 licensing deal with ElevenLabs to build an AI music platform signals a level of trust that goes beyond a good product demo, and it sits on top of the same voice engine that scores 9.8 for language support here."
+            },
+            {
+              "title": "Inworld wins on latency",
+              "body": "Inworld TTS-1.5 Max posts a 9.8 latency score, the best in my table, which is why real-time phone and game agents often pick it over ElevenLabs despite the near-tied overall score."
+            },
+            {
+              "title": "Hume AI leads on emotion",
+              "body": "Hume AI Octave 2 scores 9.7 for emotional range, the highest mark in my table, making it the strongest pick for long-form narration and companion app voices."
+            },
+            {
+              "title": "No single winner across the board",
+              "body": "Every tool in my top five leads on at least one column, latency, language support, or emotional range, which means the right pick depends on what your specific build actually needs."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ElevenLabs 今天守住第一，差距小到不能再小，九點四分打平 Inworld TTS-1.5 Max 自己的九點四分，今天我想聊聊 ElevenLabs 在語音這欄之外做的一件事。\n\n九月十一號，Universal Music Group 跟 ElevenLabs 簽下授權合約，要用 UMG 自家歌曲目錄打造一個 AI 音樂平台，這件事其實也說明了坐在這張表最上面這家公司的份量。一家大廠不會隨便把整個歌曲目錄交給一家語音 AI 公司，它是看了好幾年，確定對方的核心技術禁得起法律跟技術兩邊的檢驗，才願意下這個決定，而 ElevenLabs 能拿到這份信任，靠的正是同一套語音引擎，這套引擎在我表裡語言支援分數拿到九點八分，是全表最高。\n\n這種跨領域拿到大廠信任的能耐，在你要幫商業產品選語音 API 的時候特別重要，因為它代表一家公司有本事撐過授權糾紛，這比一個漂亮的展示影片稀有得多。Inworld TTS-1.5 Max 在實力上完全不遜色，它的延遲分數九點八分是全表最高，這也是即時遊戲跟電話客服代理常常選它、不選 ElevenLabs 的原因，只是它目前還沒有 ElevenLabs 那種跟大廠打過交道的實績。Hume AI Octave 2 排進我的前五名，情感表現分數九點七分，全表最高，需要長篇敘事或陪伴型應用的語音，我第一個會推薦看這欄。\n\n這次沒有一個工具把每一欄都拿下，這在這麼講究專精的市場裡很正常，你該選誰，還是要看延遲、語言涵蓋跟情感細膩度，哪一項對你的專案最重要。",
+          "highlights": [
+            {
+              "title": "ElevenLabs 拿到大廠信任",
+              "body": "UMG 九月十一號跟 ElevenLabs 簽下授權合約打造 AI 音樂平台，這種信任層級遠超過一個漂亮展示影片，而它建立在同一套語言支援分數九點八分、全表最高的語音引擎上。"
+            },
+            {
+              "title": "Inworld 延遲最快",
+              "body": "Inworld TTS-1.5 Max 延遲分數九點八分，全表最高，這是即時電話跟遊戲代理常常選它、不選 ElevenLabs 的原因，儘管總分幾乎打平。"
+            },
+            {
+              "title": "Hume AI 情感表現最強",
+              "body": "Hume AI Octave 2 情感表現分數九點七分，全表最高，是需要長篇敘事或陪伴型應用語音的最佳選擇。"
+            },
+            {
+              "title": "沒有工具能全部包辦",
+              "body": "前五名裡每個工具都至少在一欄拿下最高分，延遲、語言支援或情感表現各有強項，該選誰要看你的專案最需要哪一項。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

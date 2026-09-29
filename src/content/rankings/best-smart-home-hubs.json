@@ -3439,6 +3439,217 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-29",
+      "rankings": [
+        {
+          "id": "home-assistant-green",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "offlineSurvival": 9.8,
+            "localAutomation": 9.7,
+            "radios": 6.0,
+            "matterVersion": 9.0,
+            "apiPolicy": 9.9,
+            "setupEffort": 6.5,
+            "value": 8.6,
+            "twAvailability": 5.5
+          }
+        },
+        {
+          "id": "hubitat-c8-pro",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "offlineSurvival": 9.6,
+            "localAutomation": 9.4,
+            "radios": 9.5,
+            "matterVersion": 9.6,
+            "apiPolicy": 9.2,
+            "setupEffort": 6.8,
+            "value": 8.4,
+            "twAvailability": 4.5
+          }
+        },
+        {
+          "id": "homey-pro-2026",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "offlineSurvival": 9.0,
+            "localAutomation": 9.2,
+            "radios": 9.8,
+            "matterVersion": 8.8,
+            "apiPolicy": 7.6,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 4.0
+          }
+        },
+        {
+          "id": "aqara-hub-m3",
+          "rank": 4,
+          "score": 7.9,
+          "scores": {
+            "offlineSurvival": 7.6,
+            "localAutomation": 7.8,
+            "radios": 8.2,
+            "matterVersion": 8.4,
+            "apiPolicy": 6.8,
+            "setupEffort": 8.8,
+            "value": 8.6,
+            "twAvailability": 8.5
+          }
+        },
+        {
+          "id": "switchbot-hub-3",
+          "rank": 5,
+          "score": 7.2,
+          "scores": {
+            "offlineSurvival": 6.6,
+            "localAutomation": 6.8,
+            "radios": 6.4,
+            "matterVersion": 8.0,
+            "apiPolicy": 7.4,
+            "setupEffort": 9.2,
+            "value": 8.8,
+            "twAvailability": 8.8
+          }
+        },
+        {
+          "id": "aeotec-smart-home-hub",
+          "rank": 6,
+          "score": 6.6,
+          "scores": {
+            "offlineSurvival": 6.8,
+            "localAutomation": 7.4,
+            "radios": 9.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 7.8,
+            "value": 6.4,
+            "twAvailability": 4.2
+          }
+        },
+        {
+          "id": "smartthings-station",
+          "rank": 7,
+          "score": 6.2,
+          "scores": {
+            "offlineSurvival": 5.4,
+            "localAutomation": 6.2,
+            "radios": 5.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 9.0,
+            "value": 8.2,
+            "twAvailability": 6.5
+          }
+        },
+        {
+          "id": "apple-tv-4k",
+          "rank": 8,
+          "score": 6.0,
+          "scores": {
+            "offlineSurvival": 8.4,
+            "localAutomation": 7.0,
+            "radios": 4.5,
+            "matterVersion": 7.6,
+            "apiPolicy": 5.2,
+            "setupEffort": 9.4,
+            "value": 4.2,
+            "twAvailability": 9.5
+          }
+        },
+        {
+          "id": "amazon-echo-hub",
+          "rank": 9,
+          "score": 5.6,
+          "scores": {
+            "offlineSurvival": 4.2,
+            "localAutomation": 5.0,
+            "radios": 8.4,
+            "matterVersion": 7.4,
+            "apiPolicy": 4.4,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 3.5
+          }
+        },
+        {
+          "id": "google-home-speaker",
+          "rank": 10,
+          "score": 5.2,
+          "scores": {
+            "offlineSurvival": 3.8,
+            "localAutomation": 4.4,
+            "radios": 5.2,
+            "matterVersion": 7.0,
+            "apiPolicy": 4.2,
+            "setupEffort": 9.2,
+            "value": 6.6,
+            "twAvailability": 3.2
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "ResTech Roundup: September 21-27, 2026 - Smart Locks, Security Alerts and the Connected Home",
+          "url": "https://restechtoday.com/restech-roundup-september-21-27-2026-smart-locks-security-alerts-connected-home/",
+          "source": "Residential Tech Today"
+        },
+        {
+          "title": "Matter Smart Home Devices List 2026: Complete Guide",
+          "url": "https://yourmatterhome.com/matter-smart-home-devices-list-2026-complete-guide/",
+          "source": "Your Matter Home"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Home Assistant Green keeps first place in my table, and this week's hub-adjacent news actually reinforces why local control keeps winning here. ULTRALOQ announced Matter certified smart locks built around Aliro, a digital credential standard that lets a phone carry your door credential the way Matter lets a hub talk to your sensors, and Airties separately rolled out router level cybersecurity features including malicious site blocking and tracker blocking aimed at internet providers. Neither company makes a hub, but both stories point at the same trend I keep tracking in this table, security and access control logic is spreading out to the network edge and to individual devices, not staying inside one central brain alone. That plays directly into why Home Assistant Green and Hubitat Elevation C-8 Pro sit at the top of my offlineSurvival and apiPolicy scores, both scoring above 9.5 on offline survival, because a hub built to keep working when a company's cloud servers go dark is exactly the kind of platform that can absorb a new standard like Aliro without waiting on a vendor's roadmap. Homey Pro sits third with the strongest radio score in my table at 9.8, and it remains the pick for anyone who wants that same local first philosophy with a gentler setup process. The weaker performers down my list, SmartThings Station and the Amazon Echo Hub among them, keep scoring low on apiPolicy precisely because their access rules live at the company's discretion, not the household's, and that gap is not shrinking as more of the ecosystem adopts Matter and Aliro side by side. I am holding my full ranking today, the direction of the industry keeps confirming the case for the hubs already sitting at the top.",
+          "highlights": [
+            {
+              "title": "Aliro joins the Matter conversation",
+              "body": "ULTRALOQ's new Matter certified locks use Aliro digital credentials, letting a phone carry a door key the way Matter lets hubs talk to sensors."
+            },
+            {
+              "title": "Security is moving to the edge",
+              "body": "Airties rolled out router level site blocking and tracker blocking, another sign access control is spreading beyond any single hub."
+            },
+            {
+              "title": "Local-first hubs keep their lead",
+              "body": "Home Assistant Green and Hubitat Elevation C-8 Pro both score above 9.5 on offline survival, built to keep running when a cloud goes dark."
+            },
+            {
+              "title": "API policy still splits the field",
+              "body": "SmartThings Station and Amazon Echo Hub keep scoring low on apiPolicy because access rules sit at the company's discretion, not the household's."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Home Assistant Green 這次還是第一名，這禮拜跟中樞相關的新聞，其實剛好證明了本地控制這條路線為什麼一直贏。\n\nULTRALOQ 發表了支援 Aliro 的 Matter 認證智慧鎖，Aliro 是一套數位憑證標準，讓手機可以帶著你家大門的憑證走，概念跟 Matter 讓中樞跟感測器互相溝通很像。Airties 也在同一時間推出路由器層級的資安功能，包含惡意網站阻擋跟追蹤器阻擋，主打對象是網路服務供應商。這兩家做的都是中樞以外的產品，但兩則新聞指向同一個我一直在追的趨勢，安全跟存取控制的邏輯正在往網路邊緣跟個別裝置擴散，不再只集中在一個中樞大腦裡面。\n\n這正好說明為什麼 Home Assistant Green 跟 Hubitat Elevation C-8 Pro 能在 offlineSurvival 跟 apiPolicy 這兩項分數上遙遙領先，兩台的離線存活分數都超過九點五分，因為一台設計成雲端斷線也能照常運作的中樞，本來就最有能力吸收 Aliro 這種新標準，不用等廠商的產品計畫表。Homey Pro 排第三，無線電規格分數九點八分是整張表最高，如果你想要一樣的本地優先精神但設定流程輕鬆一點，這台依然是我的推薦。榜單後段的 SmartThings Station 跟 Amazon Echo Hub 在 apiPolicy 上分數一直偏低，原因就是存取規則由公司單方面決定，用戶家裡沒有置喙空間，這個差距不會因為大家都開始支援 Matter 跟 Aliro 就消失。\n\n排名我今天沒有動，產業的走向一直在替目前排在前面的這幾台中樞背書。",
+          "highlights": [
+            {
+              "title": "Aliro 加入 Matter 陣營",
+              "body": "ULTRALOQ 的新款智慧鎖支援 Aliro 數位憑證，手機能帶著門鎖憑證走，概念跟 Matter 讓中樞溝通感測器很像。"
+            },
+            {
+              "title": "資安往邊緣擴散",
+              "body": "Airties 推出路由器層級的網站阻擋跟追蹤器阻擋，再次證明存取控制正往中樞以外的地方擴散。"
+            },
+            {
+              "title": "本地優先中樞繼續領先",
+              "body": "Home Assistant Green 跟 Hubitat Elevation C-8 Pro 離線存活分數都超過九點五分，雲端斷線也能照常運作。"
+            },
+            {
+              "title": "API 政策依然是分水嶺",
+              "body": "SmartThings Station 跟 Amazon Echo Hub 在 apiPolicy 分數偏低，因為存取規則由公司說了算，用戶沒有置喙空間。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

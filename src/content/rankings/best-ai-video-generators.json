@@ -19304,6 +19304,199 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-29",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.1,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "The Ten Best AI Video Generators in 2026: A Definitive Guide",
+          "url": "https://kingy.ai/news/the-ten-best-ai-video-generators-in-2026-a-definitive-guide/",
+          "source": "Kingy AI"
+        },
+        {
+          "title": "Best AI Video Generators 2026: Kling, Runway, Veo, Seedance",
+          "url": "https://mstudio.ai/insights/best-ai-video-generator-2026",
+          "source": "M Studio"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Kling 3.0 stays first and Veo 3.1 stays second today, and the market event that reshapes how I read this entire table this week is OpenAI's decision to shut Sora down entirely. OpenAI's Sora API stops working on September 24, following the consumer app's closure back in April, which means the one major American challenger that could have contested this category from a different angle is now gone. That leaves the top of my table looking the way it already does, dominated by Chinese labs and Google: Kuaishou's Kling, ByteDance's Seedance, Alibaba's HappyHorse, and Google's Veo. I do not think that is a coincidence tied to Sora's exit, these four were already outscoring everything else on my prompt adherence and motion realism columns before this month, but Sora's shutdown removes the one name that industry watchers kept citing as a hedge against a Chinese-dominated video generation market. Kling 3.0 holds first with a 9.8 value score, the best in my top five, and a full production pipeline that now supports six connected shots sharing one audio timeline, a feature built for creators assembling a short film across multiple linked scenes. Veo 3.1 keeps second on the strength of its 9.8 audio and lip sync score, still the best in my table, and its access through Google's own API surfaces makes it the easiest of the top three to plug into an existing production pipeline. Runway Gen-4.5 holds third with the best character consistency score in my table at 9.7, which keeps it the pick for anyone running a recurring character across multiple scenes. If you built a workflow around Sora, September 24 is the hard deadline to export your assets and rebuild it elsewhere.",
+          "highlights": [
+            {
+              "title": "Sora shuts down for good",
+              "body": "OpenAI's Sora API stops working on September 24, completing a shutdown that began with the consumer app's closure in April, and removing the one major American name from this category."
+            },
+            {
+              "title": "Kling's multi-shot pipeline",
+              "body": "Kling 3.0 now supports six connected shots sharing a single audio timeline, a feature built for creators assembling a short film across multiple linked scenes."
+            },
+            {
+              "title": "Veo still owns audio sync",
+              "body": "Veo 3.1 posts a 9.8 audio and lip sync score, the best in my table, and its Google API access makes it the easiest top-three tool to plug into an existing pipeline."
+            },
+            {
+              "title": "Runway wins on character consistency",
+              "body": "Runway Gen-4.5 scores 9.7 on character consistency, the highest in my table, which makes it the pick for anyone running the same character across multiple scenes."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Kling 3.0 今天還是第一，Veo 3.1 守住第二，這週真正讓我重新看待這整張表的市場消息，是 OpenAI 徹底關掉 Sora。\n\nSora 的 API 九月二十四號正式停止運作，接在四月消費者版本關站之後，這代表原本唯一有機會從不同角度挑戰這個賽道的美國大廠，現在完全退場了。這張表前段排名還是老樣子，中國大廠加 Google 的天下，快手的 Kling、字節跳動的 Seedance、阿里的 HappyHorse、Google 的 Veo。\n\n我不覺得這是巧合，這四個工具在指令理解跟動作真實度這兩欄，這個月之前就已經把其他對手甩開，但 Sora 這次徹底關站，等於拿掉了業界一直拿來當作制衡中國影片生成勢力的那張牌。\n\nKling 3.0 守住第一，性價比拿下九點八分，是我前五名裡最高的，它現在的完整製作流程支援六個鏡頭共用同一條音軌，這對想串起多場戲拍一部短片的創作者很實用。Veo 3.1 排第二，靠的是九點八分的音訊跟嘴型同步分數，全表最高，而且它透過 Google 自家 API 就能串接，是前三名裡最好接進既有製作流程的工具。Runway Gen-4.5 排第三，角色一致性分數九點七，全表最高，適合需要讓同一個角色貫穿多個場景的創作者。\n\n如果你原本的工作流建立在 Sora 上面，九月二十四號就是把素材匯出、換一個平台重建的最後期限。",
+          "highlights": [
+            {
+              "title": "Sora 徹底關站",
+              "body": "Sora 的 API 九月二十四號正式停止運作，接在四月消費者版關站之後，這個類別裡唯一的美國大廠玩家就此退場。"
+            },
+            {
+              "title": "Kling 的多鏡頭串接",
+              "body": "Kling 3.0 現在支援六個鏡頭共用同一條音軌，這個功能是為了讓創作者能串起多場戲、拍出一部短片而設計。"
+            },
+            {
+              "title": "Veo 音訊同步仍是王者",
+              "body": "Veo 3.1 音訊跟嘴型同步分數拿下九點八分，全表最高，透過 Google 自家 API 串接，是前三名裡最容易接進既有製作流程的工具。"
+            },
+            {
+              "title": "Runway 角色一致性最強",
+              "body": "Runway Gen-4.5 的角色一致性分數九點七，全表最高，適合需要同一個角色貫穿多場景的創作者。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

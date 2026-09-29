@@ -25895,6 +25895,223 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-29",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.7,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "codeQuality": 9.2,
+            "contextWindow": 8.2,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.6,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.2,
+            "valueForMoney": 6.8
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Top 6 AI Coding Assistants of 2026: Cursor, Claude Code, Copilot, Codex, Windsurf and Tabnine Compared",
+          "url": "https://guptadeepak.com/tools/top-5-ai-coding-assistants-2026/",
+          "source": "Deepak Gupta"
+        },
+        {
+          "title": "Best AI Coding Agents in 2026: Claude Code vs Codex vs Cursor",
+          "url": "https://www.turingcollege.com/blog/best-ai-coding-agents-2026-claude-code-codex-cursor",
+          "source": "Turing College"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code holds first and OpenAI Codex holds second today, and the story I want to flag is a pricing shift that changes how I think about value for money across this whole table. Claude Code now ships bundled inside Claude's own subscription tiers, Pro at twenty dollars a month and Max starting at a hundred, a change from the old pay-per-token metering that made agentic coding sessions hard to budget. GitHub Copilot made a similar jump this year, switching to a credits system where one credit equals one cent, which lets Microsoft price a coding session the same way it prices any other consumption product. I like this shift for buyers, because it turns an agentic coding session into a flat monthly cost that is easy to plan around. The other story worth flagging sits lower in my table. Windsurf, ranked twelfth here, rebranded to Devin Desktop back in June after Cognition acquired the company, and windsurf.com now redirects straight to devin.ai. That leaves two names in my table, Windsurf and Devin, pointing at increasingly overlapping products under one owner, and I expect that overlap to force a rework of this list before the year is out. For now I keep both entries, because their current feature sets and pricing still differ enough to score on their own terms, Windsurf's low entry price against Devin's project based autonomous runs. Cursor holds third after SpaceX closed its sixty billion dollar acquisition of Anysphere in August, and its tiered credit system, free through two hundred dollars a month for Ultra, still gives it the widest spread of price points in the category.",
+          "highlights": [
+            {
+              "title": "Claude Code goes subscription-first",
+              "body": "Claude Code now runs inside Claude Pro at twenty dollars a month and Max plans starting at a hundred, replacing the old pay-per-token billing that made long agent sessions hard to budget."
+            },
+            {
+              "title": "Copilot's credit system",
+              "body": "GitHub Copilot switched to AI Credits priced at one cent each this year, letting Microsoft meter a coding session the same way it meters any other consumption product."
+            },
+            {
+              "title": "Windsurf's identity shift",
+              "body": "Windsurf, ranked twelfth in my table, rebranded to Devin Desktop in June after Cognition's acquisition, and windsurf.com now redirects to devin.ai, a sign this list may need to merge the two entries eventually."
+            },
+            {
+              "title": "Cursor under new ownership",
+              "body": "SpaceX closed its sixty billion dollar acquisition of Anysphere, Cursor's maker, in August, and Cursor's credit tiers still range from free to two hundred dollars a month for Ultra."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 今天還是第一，OpenAI Codex 排第二，名次沒變，但我想聊一個會改變大家對這整張表「值不值得」判斷的計價方式轉變。\n\nClaude Code 現在直接包進 Claude 自己的訂閱方案，Pro 一個月二十美元，Max 從一百美元起跳，取代了以前用多少算多少的計量制，那種算法讓長時間跑代理任務的花費很難抓預算。GitHub Copilot 今年也做了類似的轉型，改成點數制，一點換一美分，微軟這樣一來就能把寫程式的花費，當成一般消費品來計價。這種轉變對用戶是好事，因為它把跑代理任務這件事變成一筆好抓預算的月租費。\n\n表裡排第十二名的 Windsurf 也有一件事值得提，它六月被 Cognition 收購以後改名叫 Devin Desktop，windsurf.com 現在直接導向 devin.ai。這代表我這張表裡 Windsurf 跟 Devin 兩個名字，背後產品線正在同一個老闆手上越走越近，我猜這張表年底前得為這件事做調整。現在我先兩個都保留，因為目前的功能跟計價方式還是分得開，Windsurf 的入門價位便宜，Devin 走的是按專案自主執行的模式。\n\nCursor 排第三，SpaceX 八月完成對 Anysphere（Cursor 開發商）六百億美元的收購案，Cursor 的點數方案從免費到 Ultra 一個月兩百美元都有，價位帶還是全表最寬的。",
+          "highlights": [
+            {
+              "title": "Claude Code 改走訂閱制",
+              "body": "Claude Code 現在包在 Claude Pro（一個月二十美元）跟 Max（一百美元起）方案裡，取代了以前用多少算多少的計量計價，長時間跑代理任務終於好抓預算。"
+            },
+            {
+              "title": "Copilot 改成點數計價",
+              "body": "GitHub Copilot 今年改成點數制，一點換一美分，微軟這樣就能把寫程式花費當成一般消費品來計價。"
+            },
+            {
+              "title": "Windsurf 身份正在轉變",
+              "body": "表裡排第十二的 Windsurf，六月被 Cognition 收購後改名 Devin Desktop，windsurf.com 現在直接導向 devin.ai，這張表未來可能得處理兩個名字合併的問題。"
+            },
+            {
+              "title": "Cursor 換了新老闆",
+              "body": "SpaceX 八月完成對 Cursor 開發商 Anysphere 六百億美元的收購案，Cursor 的點數方案從免費到 Ultra 一個月兩百美元都有，價位帶還是全表最寬。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
