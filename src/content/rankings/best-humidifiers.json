@@ -132,6 +132,22 @@
       }
     },
     {
+      "id": "carepod-one",
+      "name": "Carepod One",
+      "brand": "Carepod",
+      "url": "https://hellocarepod.com/products/carepod-one",
+      "i18n": {
+        "en": {
+          "description": "Carepod One packs a 4L stainless steel tank into a 3-piece design that comes apart for dishwasher or boiling-water sterilization, covering up to 500 sq ft for around 30 hours per fill.",
+          "priceRange": "$279"
+        },
+        "zh-tw": {
+          "description": "Carepod One 用 4 公升不鏽鋼水箱搭配只有 3 個零件的設計，整組可以丟洗碗機或用滾水消毒，適用約 500 平方英尺空間，加滿一次能撐 30 小時左右。",
+          "priceRange": "約 NT$8,800"
+        }
+      }
+    },
+    {
       "id": "crane-drop",
       "name": "Crane Drop Ultrasonic Cool Mist",
       "brand": "Crane",
@@ -731,8 +747,20 @@
           }
         },
         {
-          "id": "crane-drop",
+          "id": "carepod-one",
           "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "output": 8.0,
+            "cleaning": 9.8,
+            "safety": 9.4,
+            "smart": 5.5,
+            "value": 6.5
+          }
+        },
+        {
+          "id": "crane-drop",
+          "rank": 9,
           "score": 7.7,
           "scores": {
             "output": 6.8,
