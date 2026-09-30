@@ -6164,3 +6164,194 @@ best-password-managers, best-standing-desks, best-wireless-chargers, best-ai-pro
 - 核心欄位設計依報告的「高溫檔實際續航 vs 低溫檔行銷數字」與「電池瓦時是否公開」兩條軸線，另加電池安全認證、發熱區數與拆電池後可否機洗三欄。查證發現 DEWALT 官網同一顆 20V MAX 2.0Ah 電池在同一頁的總覽與功能列表分別寫 9 小時與 7 小時，另一頁的 1.5Ah 電池寫 5.5 小時，三個數字互相矛盾且全站不公布瓦時；Bosch GHJ12V-20MN12 官方規格頁完全未公布任何檔位的續航小時數，是十款中唯一的資訊空缺。
 - 名次：Ororo Men's Classic Heated Jacket 2.0（139.99 美元、Mini 5K 電池 7.4V/4800mAh/35.4Wh 直接寫在商品頁、UL/cUL/CE/FCC/RoHS 五證）第一；Milwaukee M12 Heated AXIS（219 美元、Pro Tool Reviews 實測全區高溫 2 小時 50 分接近官方 3 小時宣稱、洗衣機烘衣機皆可）第二；Ororo Women's Classic Heated Jacket 2.0（159.99 美元、同電池平台）第三；Milwaukee M12 Heated TOUGHSHELL（199 美元、M12 RedLithium CP3.0 換算約 36Wh）第四；TIDEWE（129.99 美元、UL/FCC/RoHS/CE 四證但未公布發熱區數）第五；Venustas（149.99 美元、三段電池 37/55.5/74Wh 但僅 2 區）第六；Gobi Heat Sahara II（199 美元、USB-C PD 快充但僅標 mAh 無 Wh）第七；ANTARCTICA GEAR（119 美元、16,000mAh/12V≈192Wh 但為外接行動電源且僅 CE/FCC 無 UL）第八；DEWALT DCHJ072D1（239.99 美元、續航數字自相矛盾）第九；Bosch GHJ12V-20MN12（235.20 美元、唯一未公布任何續航數字）第十。
 - URL 驗證：全部十家品牌官網商品頁皆回 200。fortunebusinessinsights.com 與 protoolreviews.com 回 403（大型內容站點阻擋自動化請求，經 WebSearch 摘要確認頁面內容真實存在，列入 references）。makitatools.com 因憑證驗證問題多次抓取失敗，plumbersstock.com 回 403，是放棄 Makita 候選的直接原因。
+
+---
+
+## 2026-09-25 研究報告
+
+### 新主題建議
+1. **最佳除濕機（best-dehumidifiers）**：我判斷這是本輪第一優先。站上 134 檔完全沒有除濕機，而同屬居家空氣品類的 best-air-purifiers 與 best-portable-air-conditioners 已在榜。搜尋結果頁由 Tom's Guide、RTINGS、Housefresh、Wirecutter、Consumer Reports 全數有年度榜，代表商業意圖確定。Midea Cube 50 Pint 同時被 Wirecutter、Consumer Reports 與 Dehumidifier Buyers Guide 列為第一，頭部共識明確，但排名 2 到 10 名分歧大（GE APYR50LC、Honeywell TP50AWKN 50 至 56 dB、Frigidaire FHDD5034W1），這是本站用統一欄位（AHAM 每日除濕量、實測噪音分貝、內建排水泵、每升水耗電量、濾網與水箱清潔難度）能切入的空間。目標關鍵字：best dehumidifier 2026、best dehumidifier for basement、quiet dehumidifier、Midea Cube vs Frigidaire。九月秋雨季與地下室潮濕高峰接續黑色星期五檔期，10 月上線可以趕上。
+2. **最佳加濕器（best-humidifiers）**：我判斷排第二，與除濕機成對內鏈。Consumer Reports 2026 年 1 月推薦 Vicks VUL525（小房間）與 Honeywell HUL430B（大房間），Wirecutter 首選 Levoit LV600S，另有 Honeywell HCM-350（蒸發式）、Aircare MA1201（大空間）、Crane Drop（嬰兒房）。搜尋高峰落在十月到二月暖氣季，與站上 best-space-heaters、best-electric-blankets 的冬季集群同時段。差異化欄位：冷霧與暖霧的燙傷風險（CR 明確建議有孩子家庭選冷霧）、每週清潔工時、耗材濾芯年成本、實測加濕量對照標示 mL/h。
+3. **最佳冷水浸泡桶（best-cold-plunge-tubs）**：我判斷排第三，適合長期經營。2026 年 6 月 PR Newswire 榜單涵蓋九個品牌、十個分類，價格從約 1,150 美元的冰桶（Ice Barrel）到約 14,000 美元的不鏽鋼系統，帶冷卻機的家用款多落在 5,000 至 12,000 美元。BarBend、Garage Gym Reviews、Forbes、Sleep Advisor 均有榜，只有 Viking Premier、Sun Home Cold Plunge Pro、Morozko Forge 達到真正的 32°F，其他多在 37 至 39°F，這個溫度落差是可量化的排序欄。客單價高、聯盟佣金空間大，並可與站上 best-infrared-sauna-blankets、best-red-light-therapy-devices 組成恢復裝置集群。風險是品牌自家評測稿多，需要以官網規格與第三方實測分開標示來源。
+
+### 市場動態
+- Meta Connect 2026（9 月 23 至 24 日）已結束，best-smart-glasses 與 best-vr-headsets 現在就該更新。報導指出 Ray-Ban Display 在美國維持 799 美元並首度開放線上訂購，10 月 13 日起在德、法、義以 899 歐元、英國 749 英鎊、加拿大 1,149 加幣上市。另有 Ray-Ban Meta Gen 3 與一款標價 1,299.99 美元的 VR 眼鏡被報導，這些數字目前來自 Engadget、VR.org 等第三方彙整，需回 Meta 官網核對規格與價格後才寫入。
+- 上一輪（9 月 18 日）列出的 Amazon 漲價後價格過期問題與 Steam Frame 官方價格核對，本輪未重新查驗，維持原優先順序。Prime Big Deal Days 10 月 6 至 7 日前應完成 priceRange 修正。
+- 站上尚無 best-humidifiers、best-dehumidifiers，兩題與 best-air-purifiers 合成居家空氣三件組，建置後互相內鏈。
+
+### 資料來源
+
+- [Tom's Guide: Best Dehumidifiers 2026](https://www.tomsguide.com/home/home-appliances/best-dehumidifiers)
+- [RTINGS: Best Dehumidifiers](https://www.rtings.com/dehumidifier/reviews/best/dehumidifiers)
+- [Dehumidifier Buyers Guide](https://www.dehumidifierbuyersguide.com/)
+- [Consumer Reports via AZ Family: top humidifier picks](https://www.azfamily.com/2026/01/02/consumer-reports-shares-top-picks-humidifiers/)
+- [BarBend: Best Cold Plunges 2026](https://barbend.com/best-cold-plunges/)
+- [PR Newswire: The Best Cold Plunge Tubs of 2026](https://www.prnewswire.com/news-releases/the-best-cold-plunge-tubs-of-2026-expert-picks-302803492.html)
+- [Engadget: Everything announced at Meta Connect 2026](https://www.engadget.com/2267230/everything-announced-at-meta-connect-2026/)
+- [Road to VR: Meta Ray-Ban Display international launch](https://roadtovr.com/meta-ray-ban-display-int-launch-connect-2026/)
+
+---
+
+## 2026-09-26 研究報告
+
+本輪 WebSearch 前兩次查詢成功，後四次因主機休眠中斷，因此下列第三題與市場動態只用站內清單與上一輪已核對的資料判斷，未附新數據。
+
+### 新主題建議
+1. **最佳加濕器（best-humidifiers）**：我判斷這是本輪第一優先。best-dehumidifiers 已於 9 月 25 日上線，加濕器是它的成對主題，站上 138 檔仍沒有。搜尋結果頁上 RTINGS（4 款精選）、Reviewed（8 款）、Mattress Clarity、HomeGear Insider（宣稱 50 款實測）、Consumer Reports 與 AOL 都有 2026 年度榜，商業意圖確定。搜尋高峰落在 10 月到 2 月暖氣季，與 best-space-heaters、best-electric-blankets 同時段，10 月上線可以直接吃到季節流量。上一輪已整理的候選（Levoit LV600S、Vicks VUL525、Honeywell HUL430B、Honeywell HCM-350、Aircare MA1201、Crane Drop）足夠成榜。差異化欄位：冷霧與暖霧的燙傷風險、實測加濕量對照標示 mL/h、每週清潔工時、濾芯年成本。
+2. **最佳冷水浸泡桶（best-cold-plunge-tubs）**：維持第二優先。Garage Gym Reviews、BarBend、Fortune、Sun Home Saunas、Nordic Wave、Regen Total Wellness、Modern Wellness Home 與 PR Newswire 同期都出 2026 榜，競爭密度高，代表關鍵字有價值，也代表品牌自家評測稿多，必須把官網規格與第三方實測分欄標示。可量化排序欄是實際可達水溫（32°F 與 37 至 39°F 的落差）、含冷卻機的總價、耗電與每月換水維護。客單價 1,150 至 14,000 美元，聯盟佣金空間大，可與 best-infrared-sauna-blankets、best-red-light-therapy-devices 組成恢復裝置集群。
+3. **最佳水牙線（best-water-flossers）**：我判斷排第三，需先補查搜尋量再動工。站上已有 best-electric-toothbrushes 與 best-teeth-whitening-kits，口腔護理集群缺水牙線這一塊，Waterpik 與 Philips Sonicare 等品牌在購買前的比較搜尋長年穩定，消耗品（噴頭）帶來回購。本輪搜尋中斷，未取得榜單與價格數據，動工前需重新查證頭部共識與現價。
+
+### 市場動態
+- best-dehumidifiers 已上線，加濕器建置後兩者互相內鏈，與 best-air-purifiers 合成居家空氣三件組。
+- 9 月 25 日報告列出的 Meta Connect 2026 新品（Ray-Ban Display 國際上市價、Ray-Ban Meta Gen 3）仍待回官網核對，best-smart-glasses 與 best-vr-headsets 的更新優先於新題建置。
+- Prime Big Deal Days 日期與 priceRange 過期問題本輪未能重新查證，沿用上一輪判斷，10 月初前應完成價格修正。
+
+### 資料來源
+
+- [RTINGS: Best Humidifiers](https://www.rtings.com/humidifier/reviews/best/humidifiers)
+- [Reviewed: Best Humidifiers](https://www.reviewed.com/home-outdoors/best-right-now/the-best-humidifiers)
+- [Mattress Clarity: Best Humidifiers 2026](https://www.mattressclarity.com/accessories/humidifiers/best-humidifiers/)
+- [HomeGear Insider: Best Humidifiers 2026](https://homegearinsider.net/roundups/home-comfort-and-climate-roundups/best-humidifiers-2026-top-50-tested-ranked/)
+- [Garage Gym Reviews: Best Cold Plunge Tubs](https://www.garagegymreviews.com/best-cold-plunge-tub)
+- [BarBend: Best Cold Plunges 2026](https://barbend.com/best-cold-plunges/)
+- [Fortune: Best Cold Plunge Tubs](https://fortune.com/article/best-cold-plunge-tubs)
+
+---
+
+## 2026-09-27 研究報告
+
+### 新主題建議
+1. **最佳水牙線（best-water-flossers）**：我判斷這是本輪第一優先。站上 139 檔沒有水牙線，但口腔護理已有 best-electric-toothbrushes 與 best-teeth-whitening-kits，缺這一塊。CNN Underscored、Forbes Vetted、Electric Teeth、NBC Select、Consumer Reports 都有 2026 榜，商業意圖確定。頭部共識明確：Waterpik Aquarius 被多家列為第一，ADA 認證的機型只有四款（Waterpik Aquarius、Waterpik Cordless Advanced 2.0、Waterpik Ultra、Philips Sonicare Power Flosser 3000），這給了可驗證的排序欄位。Aquarius 規格為 10 段水壓（10 至 100 PSI）、1,400 次每分脈衝、22 盎司水箱、7 支噴頭。差異化欄位：ADA 認證與否、實際水壓範圍、水箱可連續沖洗秒數、噴頭年成本、旅行款電池續航。噴頭屬消耗品，帶來穩定的回購搜尋。
+2. **最佳冷水浸泡桶（best-cold-plunge-tubs）**：維持第二優先。Garage Gym Reviews、BarBend、Forbes、Sun Home Saunas、Nordic Wave 與 PR Newswire 同期都有 2026 榜。價格帶明確：Ice Barrel 300 為 1,149.99 美元，Ice Barrel 500 為 1,749.99 美元，Plunge All-In Gen 2 為 7,990 美元，Sun Home Cold Plunge Pro 約 13,999 美元，帶冷卻機的住家款多落在 5,000 至 12,000 美元。Nordic Wave Viking Premier 被評為總冠軍且低於 6,000 美元。可量化排序欄是可達水溫（Sun Home 到 32°F，Renu Cold Stoic 2.0 為 34°F）、含冷卻機總價、斷電保冷時數（Renu 宣稱 14 小時以上）。品牌自家評測稿多，需分開標示官網規格與第三方實測。
+3. **最佳擦窗機器人（best-window-cleaning-robots）**：我判斷排第三，是站上 best-robot-vacuums 與 best-robot-lawn-mowers 之外的自動化清潔缺口。Cybernews、The Robots HQ、PCWorld、Window Robot Lab 皆有 2026 榜，Ecovacs Winbot W2 Pro Omni 與 W3 領先，Hobot S6 Pro 與 Hutt W9（單次約 40 分鐘）為主要競品。品類規模小於前兩題，但競爭榜單多為品牌或聯盟站，權威第三方少，本站以邊角清潔實測與安全繩規格切入有空間。
+
+### 市場動態
+- Meta Connect 2026 資訊再度確認：Ray-Ban Display 美國維持 799 美元，英國 749 英鎊，加拿大 1,149 加幣，德法義 899 歐元並於 10 月 13 日供貨。Ray-Ban Meta Gen 3 與 1,299.99 美元的 VR 眼鏡也已報導。以上數字來自 Engadget、Road to VR 等第三方，best-smart-glasses 與 best-vr-headsets 需回 Meta 官網核對後更新，優先於新題建置。
+- 除濕機已上線，加濕器仍是最貼近季節流量的待建主題，前兩輪報告的判斷不變。
+- 電動烤盤與壓力清洗機本輪搜尋未取得足夠數據，不列入建議。
+
+### 資料來源
+
+- [CNN Underscored: Best water flossers 2026](https://www.cnn.com/cnn-underscored/reviews/best-water-flosser)
+- [Forbes Vetted: Best Water Flossers 2026](https://www.forbes.com/sites/forbes-personal-shopper/article/best-water-flosser/)
+- [Electric Teeth: Best water flosser 2026](https://www.electricteeth.com/best-water-flosser/)
+- [Garage Gym Reviews: Best Cold Plunge Tubs](https://www.garagegymreviews.com/best-cold-plunge-tub)
+- [Sun Home Saunas: Best Cold Plunge Tubs 2026](https://sunhomesaunas.com/blogs/saunas/best-cold-plunge-tubs-2026)
+- [Cybernews: Best Window Cleaning Robot 2026](https://cybernews.com/robots/best-window-cleaning-robots/)
+- [Engadget: Everything announced at Meta Connect 2026](https://www.engadget.com/2267230/everything-announced-at-meta-connect-2026/)
+- [Road to VR: Ray-Ban Display international rollout](https://roadtovr.com/meta-ray-ban-display-int-launch-connect-2026/)
+
+---
+
+## 2026-09-28 研究報告
+
+站上目前 141 檔排行榜，本輪確認水牙線、加濕器、除濕機皆已上線。以下為本輪新查證的候選主題。
+
+### 新主題建議
+1. **最佳 AI 穿戴錄音裝置（best-ai-wearable-pendants）**：我判斷這是本輪第一優先。站上已有 best-ai-chatbots、best-ai-coding-assistants、best-ai-image-generators、best-ai-video-generators、best-ai-voice-generators、best-ai-music-generators、best-ai-meeting-assistants 七檔 AI 產品線，唯獨缺 AI 穿戴式錄音裝置這塊快速成長的新品類。Layer3Labs、UMEVO、Forbes Vetted、Omid Saffari、Big Guy on Stuff 都已出 2026 年度榜，商業意圖確定。價格帶明確且分層：Bee Pioneer 49.99 美元、Plaud NotePin 169 美元、Friend 配套吊墜 129 美元。市場本身正在洗牌，Meta 於 2025 年 12 月收購 Limitless 並停止對外銷售其吊墜，這代表現有買家正在尋找替代品，「Limitless Pendant alternatives」已成為獨立的高意圖搜尋詞（legendmemory.ai 已針對此詞出稿）。可能的獨佔欄位是資料留存與隱私政策逐款比對，這比待機錄音時數與雲端轉錄額度更花時間查證，具體差異包含錄音是否預設本地儲存、轉錄是否送第三方模型、以及帳號刪除後錄音是否真的清除，多數評測站目前只寫功能不寫這一層。
+2. **最佳氫水瓶（best-hydrogen-water-bottles）**：我判斷排第二，與站上 best-collagen-powder、best-creatine、best-greens-powders、best-nad-supplements 等保健品集群互補，同屬「主動搜尋評測再下單」的消費行為。purepebrix、hydropitcher、filtergearlab、consumerexpertreview、waterbottleadvisor、waterbottleinfo、hydrohbottle 七個獨立站台同期都在出 2026 實測榜，競爭密度高，代表這個關鍵字已經有明確的聯盟收益。市場預測到 2035 年維持雙位數年複合成長率。價格與規格可量化：Echo Flask 239.99 至 299.99 美元、輸出濃度約 8 PPM、5 年保固；Piurify 為 144 至 190 美元的入門款，10 分鐘循環可達 4.1 PPM。這一題的風險是我列出的差異化欄位，實測 PPM 對照官方標示、SPE/PEM 生成技術與否，其他七個獨立站台本來就在做，本站沒有明顯的獨家角度，性質上接近下面市場動態提到的純規格比較題，建榜前建議先查是否有第三方機構對氫水的健康宣稱做過監管認定，若沒有就只能靠實測數據卡位，價值會比較低。
+3. **最佳姿勢矯正器（best-posture-correctors）**：我判斷排第三，先列觀察。NBC News、Forbes Vetted、kodgemstraight、The Girl That Runs、StrongMocha 都有 2026 榜，且已出現帶 IMU 感測器與機器學習訓練的智慧款（Upright GO 2、Kodgem Straight），代表品類正從單純的彈力帶背帶升級成穿戴式數據裝置，與 best-smart-rings、best-fitness-trackers 的穿戴裝置集群有內鏈空間。價格帶較低（30 至 150 美元），聯盟佣金不如前兩個候選，暫不建議動工。
+4. **撤回：最佳走步機／桌下跑步機（best-walking-pads）**：我原本要把這題排進建議清單，理由是 best-treadmills 現有內容鎖定 NordicTrack Commercial 1750 這類全尺寸家用跑步機，桌下走步機是不同的居家辦公情境與價格帶（多在 200 至 600 美元）。但回頭核對本檔案就發現 8 月 30 日的研究報告已經把 best-walking-pads 與 best-water-bottles、best-portable-blenders、best-stand-mixers 歸為同一類並降回觀察題，理由是這類題目是純商品規格比較，本站沒有能建立而競爭者拿不到的獨佔資料層。我今天查到的差異化欄位，摺疊厚度、時速上限、噪音分貝、遙控器功能，都是規格表可以直接抄的資訊，並未突破這個判準，所以撤回，不列入新主題建議。
+
+### 市場動態
+- 本輪發現一個需要處理的方法論落差。站上 9 月 2 日至 9 月 18 日的研究報告曾建立一套嚴格判準，新主題必須有本站可以建立而競爭者拿不到的獨佔資料層，例如 best-cpap-machines 用的法院禁售令、best-heat-pumps 用的冷媒法規時間窗，並依此把 best-walking-pads、best-water-bottles、best-portable-blenders、best-stand-mixers、best-bluetooth-trackers 全部降為觀察題不建置。但 9 月 25 日到 9 月 27 日的三份報告，包括我自己今天一開始寫的版本，判準退回成單純的搜尋量與商業意圖，沒有沿用獨佔資料層這道門檻。本輪把 best-walking-pads 撤回，並把 best-hydrogen-water-bottles 標成風險項，就是用回 8 月底的門檻重新檢查候選清單。這兩套判準目前同時存在於同一份檔案裡卻互相矛盾，建議之後找一輪專門做判準對齊，否則新主題建議的品質會忽高忽低。
+- 智慧眼鏡市場本輪查到新數據：2026 年第一季全球出貨年增 83%，其中不含顯示器的智慧眼鏡年增 210%，AR 眼鏡年增 136%。這組數字比 9 月 27 日報告的 Meta Connect 定價新聞更適合放進 best-smart-glasses 的市場脈絡段落，建議下次更新時一併核對。
+- 禮物指南（CNN Underscored、TODAY）本輪點名的年度熱門單品：Sony WH-1000XM5（對應 best-noise-cancelling-headphones，需核對現價是否仍是 400 美元）、Technivorm Moccamaster（對應 best-espresso-machines 或未來可考慮的咖啡機分類，現況站上無手沖壺類別）。Aura Carver 數位相框未在站上任何排行榜的範圍內，且屬於單次禮品型消費而非持續性排名主題，本輪不建議獨立建榜。
+- best-cold-plunge-tubs 與 best-window-cleaning-robots 連續兩輪（09-26、09-27）被列為候選但尚未建置，本輪判斷 AI 穿戴裝置的搜尋熱度與新聞驅動力更強，優先序調整到它之後，但兩個舊候選的資料仍然有效，未來若人力充足可一併處理。
+
+### 資料來源
+
+- [Layer3Labs: Best AI Wearable Pendants 2026](https://www.layer3labs.io/guides/best-ai-wearable-pendants-2026)
+- [Legend Memory: Limitless Pendant Discontinued, Best Alternatives 2026](https://legendmemory.ai/blogs/the-archive/limitless-pendant-discontinued-the-best-alternatives-in-2026)
+- [UMEVO: Wearable AI Wars 2026](https://www.umevo.ai/blogs/ume-all-posts/wearable-ai-wars-2026-limitless-pendant-vs-bee-pioneer-vs-plaud-notepin)
+- [Forbes Vetted: Best AI Wearables 2026](https://www.forbes.com/sites/forbes-personal-shopper/article/best-ai-wearables/)
+- [PurePebrix: Hydrogen Water Bottle Comparison 2026](https://purepebrix.com/blogs/knowledge/best-hydrogen-water-bottles-2026)
+- [HydroPitcher: 6 Best Hydrogen Water Bottles 2026](https://hydropitcher.com/best-hydrogen-water-bottle/)
+- [FilterGearLab: Best Hydrogen Water Bottle 2026](https://filtergearlab.com/best/best-hydrogen-water-bottle/)
+- [Consumer Reports: Best Under-Desk Treadmills 2026](https://www.consumerreports.org/health/treadmills/best-under-desk-treadmills-of-the-year-a1123773252/)
+- [Garage Gym Reviews: Best Under-Desk Treadmill 2026](https://www.garagegymreviews.com/best-under-desk-treadmill)
+- [WalkingPad: Best Under-Desk Treadmills for Workdays](https://www.walkingpad.com/blogs/all/best-under-desk-treadmills-for-workdays)
+- [NBC News: Best Posture Correctors 2026](https://www.nbcnews.com/select/shopping/best-posture-correctors-rcna207804)
+- [Kodgem Straight: Best Smart Posture Correctors 2026](https://kodgemstraight.com/blogs/news/best-smart-posture-correctors-2026)
+- [Dataconomy: The Two Paths AI Smart Glasses Are Taking In 2026](https://dataconomy.com/2026/09/18/the-two-paths-ai-smart-glasses-are-taking-in-2026/)
+- [Virtual Reality News: AI Smart Glasses Market Growth 2026](https://virtual.reality.news/news/ai-smart-glasses-market-growth-2026-why-shipments-climb/)
+
+## 2026-09-29 研究報告
+
+站上目前 142 檔排行榜，best-ai-wearable-pendants 已於 09-28 上線，09-28 報告點名的方法論落差本輪處理如下，新主題判斷一律套用 08 月底建立的門檻，必須有本站可以建立而競爭者拿不到的獨佔資料層，單純規格比較或搜尋量高但無獨佔角度的品類一律降為觀察題。
+
+### 新主題建議
+
+1. **最佳冷水浸泡桶（best-cold-plunge-tubs）**：這是本輪第一優先，也是連續第三輪出現的候選，本輪查到的新資料讓它跨過獨佔資料層門檻。CPSC 已於 2026-03-26 對 DIY Cold Plunge 的 Sauna Heater Kit 發布正式回收令，理由是內部電線過熱有起火風險，受影響數量美國約 675 件、加拿大約 14 件，銷售期間是 2025 年 3 月到 2026 年 2 月，售價落在 400 到 500 美元，廠商已收到 12 起過熱通報。這條回收令目前只出現在 CPSC 官網與少數新聞彙整，purepebrix、hydropitcher 這類規格比較站不會主動整理安全事故資料，本站可以把回收令、Intertek 在 2026-04-29 發布的冷水浸泡桶合規要求文章、以及各品牌的電氣認證狀態做成獨立比較欄，這是其他競爭站沒有的角度。價格與規格延續前兩輪已核對的資料，Ice Barrel 300 為 1,149.99 美元、Ice Barrel 500 為 1,749.99 美元，Nordic Wave Viking Premier 低於 6,000 美元且被評為總冠軍，Sun Home Cold Plunge Pro 約 13,999 美元，可達水溫最低到 32°F。差異化排序欄位是加熱元件是否通過 UL 或 ETL 認證、斷電保冷時數、以及是否曾出現在 CPSC 或製造商自主回收清單上。
+
+2. **最佳擦窗機器人（best-window-cleaning-robots）**：第二優先，本輪查到新品發表可以直接支撐上線內容。Ecovacs 已在 IFA 2026（9 月）發表 WINBOT W2S PRO OMNI 與 WINBOT W2S PRO，取代前一輪報告查到的 W2 PRO OMNI。W2S PRO OMNI 建議售價 599.99 美元、限時上市價 499.99 美元（優惠到 9 月 14 日），主打 TruEdge 2.0 邊角清潔與 110 分鐘續航；W2S PRO 建議售價 399.99 美元、限時上市價 339.99 美元。這組價格與規格比 09-27 報告查到的資料更新，站上若本輪建置可以直接用最新一代型號當標竿，不必等下一輪再核對。競品 Hobot S6 Pro 與 Hutt W9（單次約 40 分鐘）維持原判斷。這一題的獨佔角度是安全繩規格與邊角清潔實測，多數評測站只抄官方續航數字，不做邊角覆蓋率的量化比較。
+
+### 觀察但不建議動工
+
+- **最佳姿勢矯正器（best-posture-correctors）**：延續 09-28 報告的判斷，維持觀察。市場持續往 IMU 感測與機器學習訓練的智慧款發展，但價格帶只有 30 到 150 美元，聯盟佣金空間不如前兩個候選，且規格比較沒有獨佔角度，暫不建置。
+- **最佳刮痧板／刮痧工具（best-gua-sha-tools）**：不建議建置。asinsight 的銷售排行顯示頭部單品月銷可達 30,000 件，Amazon 週搜尋量約 1,436 次，年搜尋量約 610 萬次，市場規模到 2035 年可達 10.33 億美元，數字看起來吸引人，但這些銷售排行與材質趨勢（不鏽鋼占比從 2024 年 24.5% 升到 2026 上半年 36.7%）本身就是 asinsight、accio 這類站台在做的事，本站沒有法規、回收或認證這類獨佔資料可以疊加，性質上和 09-28 報告點名的氫水瓶風險項一樣，只能靠規格比較卡位，價值偏低。
+- **三折疊手機（tri-fold phones）**：不建議獨立建榜。目前市面上只有 Samsung Galaxy Z TriFold 與 Huawei Mate XT 兩款商品化機型，樣本數不足以支撐一份獨立排行榜，建議在下次更新 best-foldable-smartphones 時把兩款三折疊機型併入既有內容，作為新增小節而非新主題。
+
+### 市場動態
+
+- best-smart-glasses 需要的更新資料本輪有新進展。Meta Ray-Ban Gen 2 目前是主流 AI 眼鏡首選，售價 299 到 379 美元；付費旗艦款 Meta Ray-Ban Display 售價 799 美元並內含讀取手指動作的 Meta Neural Band 腕帶；XREAL One 與 Viture Beast 是純顯示型 AR 眼鏡的競品參照。這些資料可以和 09-27 報告查到的國際定價、09-28 報告查到的出貨成長數字（2026 年第一季全球智慧眼鏡出貨年增 83%）合併寫進下次更新。
+- 消費性電子市場本輪查到的總體數據可作為背景引用，全球消費性電子市場 2024 年為 8,150 億美元，預估 2026 年達 8,650 億美元，成長主力是智慧家庭裝置、穿戴裝置與 AI 相關硬體，與站上 AI 產品線七檔加上 best-ai-wearable-pendants 的方向一致。
+- best-cold-plunge-tubs 與 best-window-cleaning-robots 的候選資料本輪都已跨過独佔資料層門檻，建議下一次有建置排程的工作階段直接處理，不需要再花一輪查證。
+
+### 資料來源
+
+- [CPSC: DIY Cold Plunge Recalls Sauna Heater Kits](https://www.cpsc.gov/Recalls/2026/DIY-Cold-Plunge-Recalls-Sauna-Heater-Kits-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard)
+- [Intertek: Understanding Compliance Requirements for Cold Plunge Tubs](https://www.intertek.com/blog/2026/04-29-requirements-for-cold-plunge-tubs/)
+- [Morningstar/PR Newswire: ECOVACS Launches WINBOT W2S PRO OMNI](https://www.morningstar.com/news/pr-newswire/20260904cn40942/ecovacs-launches-winbot-w2s-pro-omni-the-latest-addition-to-the-worlds-1-robotic-window-cleaner-line)
+- [AndroidGuys: ECOVACS WINBOT W2S PRO OMNI (2026)](https://androidguys.com/news/ecovacs-winbot-w2s-pro-omni-the-window-cleaner-that-reaches-every-edge/)
+- [AsInsight: Best Selling Gua Sha Tool 2026](https://www.asinsight.com/report/US/gua-sha-tool)
+- [MarkWide Research: Gua Sha Tools Market Size 2026-2036](https://markwideresearch.com/gua-sha-tools-market)
+- [Tom's Guide: Best Smart Glasses 2026](https://www.tomsguide.com/computing/vr-ar/best-smart-glasses)
+- [Tom's Guide: I'm skeptical about the Galaxy Z TriFold](https://www.tomsguide.com/phones/samsung-phones/im-skeptical-about-the-galaxy-z-trifold-here-are-the-5-big-questions-i-have-about-samsungs-triple-folding-phone)
+- [PhoneArena: Best foldable phones to buy in 2026](https://www.phonearena.com/news/best-foldable-smartphones_id132093)
+
+---
+
+## 2026-09-30 研究報告
+
+站上目前 143 檔排行榜，best-cold-plunge-tubs 已於 09-29 上線，09-29 報告點名的 best-window-cleaning-robots 尚未建置，本輪查到新一代機型資料可以直接支撐建置。新主題判斷延續 08 月底建立的門檻，必須有本站可以建立而競爭者拿不到的獨佔資料層。
+
+### 新主題建議
+
+1. **最佳兒童 AI 陪伴玩具（best-ai-toys-for-kids）**：這是本輪第一優先，也是目前為止獨佔資料層最厚的候選題。這個品類在過去五個月連續發生三起獨立的資料安全事件，而且事件的當事廠牌正好構成榜單的候選名單，這是規格比較站完全沒有整理過的角度。第一起是 FoloToy 的 AI 泰迪熊 Kumma，2025 年 11 月 Public Interest Research Group 的報告指出，研究人員能輕易讓 Kumma 討論性愛話題，包括打屁股、角色扮演與 BDSM，也能問出刀具擺放位置，FoloToy 隨即全球下架自查，但停售時間很短，現在 Kumma 已經恢復上架，售價維持 99 美元，後端改用字節跳動旗下 Coze 平台的聊天引擎。第二起是 Bondu，2026 年 1 月底安全研究員 Joseph Thacker 與 Joel Margolis 發現，任何人只要用一個 Google 帳號登入就能看到近 5 萬筆兒童對話紀錄，內容包含姓名、出生日期、家人資訊與完整對話內容，Bondu 在接獲通報後幾分鐘內下架該後台，隔天重新上線並修補。第三起是 Miko，2026 年 2 月參議員 Marsha Blackburn 與 Richard Blumenthal 發函要求 Miko 執行長說明，為什麼公司把玩具幾乎所有的語音回應內容放在一個沒有保護的公開資料庫，任何人都能下載回溯至 2025 年 12 月的數萬筆兒童對話錄音，兩位參議員同一時間也對 Curio 與 FoloToy 發出類似信函，要求說明資料安全作法。這代表目前市面上最主要的四個品牌，Miko、Curio、Bondu、FoloToy，全部都被參議員點名或發生實際外洩，沒有一家是乾淨的。
+   - 建議 slug: `best-ai-toys-for-kids`
+   - 目標關鍵字: best ai toy for kids 2026, is Miko safe, Bondu ai toy data breach, Curio Gabbo review, FoloToy Kumma safe, ai companion toy privacy, coppa compliant ai toys, best ai plush toy for kids
+   - SEO 潛力與獨佔角度。第二個支撐點是法規時間點剛好卡在建置窗口上。FTC 修訂的 COPPA 規則在 2025 年 4 月 22 日公告，給業者 365 天的合規緩衝期，2026 年 4 月 22 日起正式可以開罰，新規把「個人資訊」的定義擴大到涵蓋聲紋與臉部模板這類生物特徵資料，這四個品牌的玩具全部靠聲音互動蒐集兒童對話，正好落在新規範圍內。新規同時要求業者在把兒童資料用於 AI 訓練或第三方揭露前，必須取得獨立的加簽同意，並禁止無限期保留資料，違規每案每天最高可罰 53,088 美元，FTC 過去已經對 Epic Games 開罰 5.2 億美元、YouTube 1.7 億美元、HoYoverse 2,000 萬美元，顯示罰則規模是玩真的。本站可以做的獨佔欄位是把「是否曾發生資料外洩或收到參議員質詢信」、「訂閱後對話是否送第三方 AI 訓練」、「隱私政策是否明確承諾刪除即真刪除」三欄並列比較，這是 asinsight、accio 這類規格站不會做、而且需要逐一查證參議員信函與新聞事件才能拼出來的資訊。
+   - 建置注意。這個品類直接涉及兒童安全，寫作語氣必須維持事實陳述，不誇大不聳動，目的是幫助家長在購買前看到廠牌的實際安全紀錄，而不是製造恐慌。價格帶已知的部分是 Miko 80 至 100 美元、Curio Gabbo 140 至 249 美元、FoloToy Kumma 99 美元加後續每月 4.9 美元訂閱、Loona 449 美元、EMO 279 美元，這幾款需要建置時逐一回官網核對現價與是否仍在銷售。
+   - 候選競品（8個，建置前需逐款查證是否仍在售與現行安全聲明）: Miko（Miko 3 或現行代次）, Curio Gabbo（V2）, FoloToy Kumma, Bondu, Loona, EMO, Tolki, CosmoBot
+
+2. **最佳擦窗機器人（best-window-cleaning-robots）**：延續 09-27、09-29 兩輪的第二優先判斷，本輪查到的新一代機型讓候選名單需要更新。Cybernews 與 The Robots HQ 最新榜單顯示龍頭機型已換成 ECOVACS WINBOT W3 Omni，主打新一代自清潔基座、Win-SLAM 5.0 導航與雙電源供電，取代 09-29 報告查到的 W2S PRO OMNI。Hobot 陣營也換代，HOBOT S7 Pro 是測試中唯一連第一次清潔就做到真正無痕的機型，靠雙旋轉噴頭與加長清潔臂。價值款是 ECOVACS WINBOT W1 Pro，售價 350 至 450 美元，性能與智慧功能兼顧。09-29 報告已確認的獨佔角度，安全繩規格與邊角清潔實測，其他評測站只抄官方續航數字，本輪查到的新機型資料沒有改變這個判斷，建議下一次有建置排程的工作階段直接採用最新代次型號，不需要再花一輪查證。
+
+### 觀察但不建議動工
+
+- **可攜式迷你洗衣機（portable washing machines）**：不建議建置。BLACK+DECKER BPWM09W、Auertech、SUPER DEAL 雙桶機與 Sangukiro 摺疊款都有明確價格與規格，NBC Select、Consumer Reports、GuideSpot 都有 2026 年度榜，但本輪查證沒有找到任何法規、回收或認證缺口可以疊加，純粹是容量、噪音、排水方式的規格比較，性質與 09-28 報告點名的氫水瓶、09-29 報告點名的刮痧板一樣，沒有跨過獨佔資料層門檻。
+- **兒童 AI 玩具以外的一般消費趨勢清單（智慧家庭、穿戴裝置、寬褲、環保水瓶等）**：本輪搜尋到的多份「2026 熱銷商品」清單（Hostinger、Exploding Topics、Accio）性質是電商選品文，品項零散且多數品類站上已有專題覆蓋（智慧恆溫器、健身追蹤器已有 best-smart-thermostats、best-fitness-trackers），沒有發現足以獨立成題的新品類，不列入建議。
+
+### 市場動態
+
+- **CPSC 於 9 月 24 日公布本月最新一批回收，其中一項與站上 best-massage-chairs 的安全段落有間接關聯**。Blue Cactus Company 的可調式躺椅電池組因起火與燙傷風險回收約 5.1 萬件，已收到四起電池過熱、冒煙或起火通報。這不是按摩椅本身的回收，但同屬可調式躺椅的電動機構與電池組，建置或更新按摩椅頁面時可以視為同類機構風險的第二個案例，與 09-24 報告已寫入的 Giantex 夾點案例並列，不需要另起段落。同批回收還包含 Kesyup 床墊（違反防焰標準，約 4.8 萬件）、ABC Trading 兒童發光玩具（鈕扣電池外露，約 4.4 萬件）與 Hyperfuels 燃料容器，都與站上現有品類無直接關聯，僅供留意。
+- **best-ai-toys-for-kids 若建置，市場動態段落可以直接引用今天查到的三起事件時間軸，不需要屆時重查**。FoloToy Kumma 事件於 2025 年 11 月由 Public Interest Research Group 揭露並促成全球短暫下架；Bondu 資料外洩於 2026 年 1 月底由安全研究員發現，2 月經媒體報導；Miko 未受保護資料庫由參議員 Blackburn 與 Blumenthal 於 2026 年 2 月發函追究，同一封信也點名 Curio 與 FoloToy。三起事件横跨四個月，顯示這不是單一廠牌的個案，而是整個品類在資安與內容過濾上的系統性缺口。
+
+### 資料來源
+
+- [Public Interest Research Group via Techdirt: Whoops, AI Toy Company Leaks Chat Logs, Personal Data Of 50,000 Toddlers](https://www.techdirt.com/2026/02/09/whoops-ai-toy-company-leaks-chat-logs-personal-data-of-50000-toddlers/)
+- [Malwarebytes: An AI plush toy exposed thousands of private chats with children](https://www.malwarebytes.com/blog/news/2026/02/an-ai-plush-toy-exposed-thousands-of-private-chats-with-children)
+- [Axios: Senator presses AI toy company on child data privacy](https://www.axios.com/2026/02/03/ai-toy-bondu-chat-data-exposure-hassan)
+- [NBC News: AI toy maker exposed thousands of replies to kids, senators say](https://www.nbcnews.com/tech/security/ai-toy-maker-exposed-thousands-responses-kids-senators-miko-rcna258326)
+- [Blackburn Senate: Blackburn & Blumenthal Demand Answers from Toy Maker](https://www.blackburn.senate.gov/2026/2/technology/blackburn-blumenthal-demand-answers-from-toy-maker-for-exposing-sensitive-data-involving-children-to-the-public)
+- [UPI: Company pulls AI-powered talking teddy bear toy for giving sex advice](https://www.upi.com/Odd_News/2025/11/20/public-interest-research-group-ai-powered-teddy-bear-kumma-sex-knives/3181763659965/)
+- [Futurism: AI Teddy Bear Back on the Market After Getting Caught Telling Kids How to Find Pills and Start Fires](https://futurism.com/future-society/ai-teddy-bear-back-on-market)
+- [Taft Privacy & Data Security Insights: Enforcement Begins Soon for Significant COPPA Rule Amendments](https://www.privacyanddatasecurityinsight.com/2026/04/enforcement-begins-soon-for-significant-coppa-rule-amendments/)
+- [Toy Association: Updated COPPA Rule Requirements Take Effect April 22](https://www.toyassociation.org/ta/PressRoom2/News/2026-News/updated-coppa-rule-requirements-take-effect-april-22.aspx)
+- [RoboZaps: Best Companion Robots 2026, EBO, EMO, Loona & More](https://blog.robozaps.com/b/best-companion-robots)
+- [Amazon: CURIO Interactive AI Learning Toy GABBO V2](https://www.amazon.com/CURIO-Interactive-Learning-Voice-Powered-Connected/dp/B0G7N66D78)
+- [FoloToy: Kumma AI Teddy Bear product page](https://folotoy.com/products/teddy/)
+- [Cybernews: Best Window Cleaning Robot, Top 8 Picks in 2026](https://cybernews.com/robots/best-window-cleaning-robots/)
+- [The Robots HQ: Best Window Cleaning Robot of 2026](https://therobotshq.com/robozine/best-window-cleaning-robot-2026/)
+- [CPSC: CPSC Posts New Product Recalls and Product Safety Warnings to its Web Site (September 24, 2026)](https://www.prnewswire.com/news-releases/cpsc-posts-new-product-recalls-and-product-safety-warnings-to-its-web-site-302889499.html)
+
