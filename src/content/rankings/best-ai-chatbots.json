@@ -19030,6 +19030,197 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-30",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.7,
+          "scores": {
+            "reasoning": 9.8,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.7,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.5,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "reasoning": 8.9,
+            "coding": 8.6,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "It's not just you; ChatGPT, Claude, and Grok were all down in confirmed outages",
+          "url": "https://9to5google.com/2026/09/03/chatgpt-claude-grok-outages/",
+          "source": "9to5Google"
+        },
+        {
+          "title": "AI slowdown lawsuit targets ChatGPT, Claude, Grok and Gemini subscriptions",
+          "url": "https://opentools.ai/news/ai-slowdown-antitrust-lawsuit-chatgpt-claude-grok-gemini",
+          "source": "OpenTools"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ChatGPT holds first and Claude holds second today, and this week gave me a cleaner look at how much these tools actually depend on the same infrastructure. On September 3, a regional failure inside Microsoft Azure's East US datacenters knocked ChatGPT, Claude, and Grok offline within the same window. Downdetector logged more than 37,000 reports for ChatGPT, over 1,300 for Claude, and roughly 1,365 for Grok. Gemini reported no outage that day, and the reason is structural: Google runs its own infrastructure end to end, while OpenAI, Anthropic, and xAI all lease compute from the same cloud provider. I score ecosystem integration in this table, and today's event makes me want to fold platform independence into how I read that column going forward, because a chatbot that answers every prompt perfectly is worth less to a business user the moment its backend goes dark. Separately, a proposed class action filed after September 12 targets paid individual subscriptions to ChatGPT, Claude, Grok, and Gemini, alleging what the complaint calls a slowdown pattern in paid tiers. I have not seen evidence this changes anything about the actual product quality I score here, and lawsuits at this early stage rarely do, but it names all four of my top contenders in the same filing. For now my ranking order stays put. ChatGPT still leads on ecosystem reach and reasoning consistency, Claude still leads on coding and writing quality, and Gemini's real-time grounding remains the best reason to reach for it when a question needs today's information over a model's training data. The outage is a reminder that the safest bet in this category still comes with a shared point of failure most users never think about until it breaks.",
+          "highlights": [
+            {
+              "title": "Azure Outage Exposes Shared Infrastructure",
+              "body": "ChatGPT, Claude, and Grok all went dark on September 3 when a regional Azure failure hit, while Gemini's independent infrastructure kept it online."
+            },
+            {
+              "title": "Downdetector Numbers Tell the Scale",
+              "body": "Reports peaked at more than 37,000 for ChatGPT, versus roughly 1,300 for Claude and 1,365 for Grok, showing how much traffic funnels through the top spot."
+            },
+            {
+              "title": "Subscription Lawsuit Names All Four Leaders",
+              "body": "A proposed class action filed after September 12 targets paid ChatGPT, Claude, Grok, and Gemini plans over alleged slowdowns, though it has not changed my scoring yet."
+            },
+            {
+              "title": "Ranking Holds Steady",
+              "body": "ChatGPT keeps first on ecosystem reach, Claude keeps second on coding and writing depth, and Gemini's real-time grounding still makes it the pick for current events."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ChatGPT 今天繼續穩坐第一，Claude 顧著第二，不過這禮拜發生的一件事讓我更清楚看到這些工具背後其實共用同一套基礎建設。九月三日，微軟 Azure 美國東部機房出了區域性故障，結果 ChatGPT、Claude、Grok 三個同時斷線，Downdetector 統計 ChatGPT 通報數衝到三萬七千多筆，Claude 大概一千三百多筆，Grok 也差不多一千三百六十五筆。Gemini 那天完全沒事，原因很單純，Google 自己蓋機房自己管，OpenAI、Anthropic、xAI 三家都是跟同一個雲端業者租算力，出事就一起出事。我平常在生態系整合這一項幫每家打分數，這次事件讓我開始認真考慮把平台獨立性也算進這個項目，因為對做生意的用戶來說，一個回答再厲害的聊天機器人，只要後台一斷線就什麼都做不了。\n\n另外九月十二日之後有人對 ChatGPT、Claude、Grok、Gemini 的付費訂閱戶提出集體訴訟，說這幾家付費方案有放慢速度的問題。這種官司在剛起訴的階段通常還看不出對產品本身有什麼實際影響，但它一次點名四家龍頭，值得繼續追蹤。我的排名這次維持不變，ChatGPT 靠生態系涵蓋面跟推理穩定度守住第一，Claude 在寫程式跟寫作品質上依然是我心裡的第二名，Gemini 的即時資訊抓取能力還是我遇到需要查最新消息時第一個想到的工具。這次斷線事件提醒我，這個賽道裡看起來最安全的選擇，背後其實都藏著一個大家平常不會想到的共同風險點。",
+          "highlights": [
+            {
+              "title": "Azure 斷線暴露共用基礎建設",
+              "body": "九月三日 Azure 區域性故障讓 ChatGPT、Claude、Grok 同時斷線，Gemini 因為用自家機房而沒受影響。"
+            },
+            {
+              "title": "通報數字看出規模差距",
+              "body": "ChatGPT 通報數衝到三萬七千多筆，Claude 大概一千三百多筆，Grok 約一千三百六十五筆。"
+            },
+            {
+              "title": "訂閱訴訟點名四大龍頭",
+              "body": "九月十二日之後的集體訴訟鎖定 ChatGPT、Claude、Grok、Gemini 的付費方案，指控放慢速度，但目前還沒影響我的評分。"
+            },
+            {
+              "title": "排名維持不變",
+              "body": "ChatGPT 靠生態系跟推理穩定度守住第一，Claude 守住第二，Gemini 的即時資訊能力依然是查最新消息的首選。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

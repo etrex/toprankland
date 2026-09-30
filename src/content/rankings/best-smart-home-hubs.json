@@ -3650,6 +3650,222 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-30",
+      "rankings": [
+        {
+          "id": "home-assistant-green",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "offlineSurvival": 9.8,
+            "localAutomation": 9.7,
+            "radios": 6.0,
+            "matterVersion": 9.0,
+            "apiPolicy": 9.9,
+            "setupEffort": 6.5,
+            "value": 8.6,
+            "twAvailability": 5.5
+          }
+        },
+        {
+          "id": "hubitat-c8-pro",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "offlineSurvival": 9.6,
+            "localAutomation": 9.4,
+            "radios": 9.5,
+            "matterVersion": 9.6,
+            "apiPolicy": 9.2,
+            "setupEffort": 6.8,
+            "value": 8.4,
+            "twAvailability": 4.5
+          }
+        },
+        {
+          "id": "homey-pro-2026",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "offlineSurvival": 9.0,
+            "localAutomation": 9.2,
+            "radios": 9.8,
+            "matterVersion": 8.8,
+            "apiPolicy": 7.6,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 4.0
+          }
+        },
+        {
+          "id": "aqara-hub-m3",
+          "rank": 4,
+          "score": 7.9,
+          "scores": {
+            "offlineSurvival": 7.6,
+            "localAutomation": 7.8,
+            "radios": 8.2,
+            "matterVersion": 8.4,
+            "apiPolicy": 6.8,
+            "setupEffort": 8.8,
+            "value": 8.6,
+            "twAvailability": 8.5
+          }
+        },
+        {
+          "id": "switchbot-hub-3",
+          "rank": 5,
+          "score": 7.2,
+          "scores": {
+            "offlineSurvival": 6.6,
+            "localAutomation": 6.8,
+            "radios": 6.4,
+            "matterVersion": 8.0,
+            "apiPolicy": 7.4,
+            "setupEffort": 9.2,
+            "value": 8.8,
+            "twAvailability": 8.8
+          }
+        },
+        {
+          "id": "aeotec-smart-home-hub",
+          "rank": 6,
+          "score": 6.6,
+          "scores": {
+            "offlineSurvival": 6.8,
+            "localAutomation": 7.4,
+            "radios": 9.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 7.8,
+            "value": 6.4,
+            "twAvailability": 4.2
+          }
+        },
+        {
+          "id": "smartthings-station",
+          "rank": 7,
+          "score": 6.2,
+          "scores": {
+            "offlineSurvival": 5.4,
+            "localAutomation": 6.2,
+            "radios": 5.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 9.0,
+            "value": 8.2,
+            "twAvailability": 6.5
+          }
+        },
+        {
+          "id": "apple-tv-4k",
+          "rank": 8,
+          "score": 6.0,
+          "scores": {
+            "offlineSurvival": 8.4,
+            "localAutomation": 7.0,
+            "radios": 4.5,
+            "matterVersion": 7.6,
+            "apiPolicy": 5.2,
+            "setupEffort": 9.4,
+            "value": 4.2,
+            "twAvailability": 9.5
+          }
+        },
+        {
+          "id": "amazon-echo-hub",
+          "rank": 9,
+          "score": 5.6,
+          "scores": {
+            "offlineSurvival": 4.2,
+            "localAutomation": 5.0,
+            "radios": 8.4,
+            "matterVersion": 7.4,
+            "apiPolicy": 4.4,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 3.5
+          }
+        },
+        {
+          "id": "google-home-speaker",
+          "rank": 10,
+          "score": 5.2,
+          "scores": {
+            "offlineSurvival": 3.8,
+            "localAutomation": 4.4,
+            "radios": 5.2,
+            "matterVersion": 7.0,
+            "apiPolicy": 4.2,
+            "setupEffort": 9.2,
+            "value": 6.6,
+            "twAvailability": 3.2
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Matter Device News — September 2026",
+          "url": "https://matterdevices.io/news/",
+          "source": "Matter Devices"
+        },
+        {
+          "title": "The Matter Standard in 2026 – A Status Review",
+          "url": "https://matter-smarthome.de/en/development/the-matter-standard-in-2026-a-status-review/",
+          "source": "matter-smarthome.de"
+        },
+        {
+          "title": "Homekit News and Reviews",
+          "url": "https://homekitnews.com/",
+          "source": "HomeKit News"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Home Assistant Green keeps first place in my table, and this week gave me two stories that pull in opposite directions on what a smart home hub is even for anymore. Aqara released the FP400 spatial sensor on September 16, a presence sensor that tracks up to ten people at once with zone based detection over Thread or Zigbee, and it plugs straight into the Aqara Hub M3 ecosystem sitting fourth on my list, the kind of steady accessory support that keeps a hub relevant years after launch. On the very same day, IKEA released the Dubbelkisel, a Matter over Thread cabinet light driver priced from 18 euros that connects to a phone directly with no hub required at all. That second release matters more than its price tag suggests, because a growing slice of Matter hardware now works without any of the boxes on my list, and a hub only earns its keep when it does something a phone app cannot, real offline automation, multiple radio protocols, and rules that keep running when the internet goes down. A separate review of Matter's rollout across the industry this year backs up why Home Assistant Green stays on top despite a middling radios score, Amazon says it supports the Matter 1.4 SDK but ships only a partial feature set, and Google Home still lacks the generic switch support that shipped in Matter's very first release. Apple Home is the one platform the report credits with shipping ahead of the spec, adding robot vacuum steering controls in iOS 18.4 before most of Matter 1.4 landed anywhere else. None of the three own a spot in my top five, and that gap between marketing claims and actual shipped features is exactly why offlineSurvival and apiPolicy carry so much weight in my scoring, a hub that promises everything on a slide deck is worth less than one that actually keeps your lights working when a server somewhere goes dark.",
+          "highlights": [
+            {
+              "title": "Aqara FP400 feeds the Hub M3 ecosystem",
+              "body": "The September 16 spatial sensor tracks up to ten people with zone detection over Thread or Zigbee, plugging directly into the Aqara ecosystem behind Hub M3 in fourth place."
+            },
+            {
+              "title": "IKEA proves some Matter gear skips the hub entirely",
+              "body": "The Dubbelkisel cabinet light driver, released the same day for 18 euros, connects straight to a phone over Matter-over-Thread with no hub in the chain."
+            },
+            {
+              "title": "Alexa and Google Home lag their own Matter claims",
+              "body": "Amazon says it supports the Matter 1.4 SDK but ships a partial feature set, and Google Home still lacks generic switch support from Matter's first release."
+            },
+            {
+              "title": "Apple ships ahead of the spec",
+              "body": "Apple added robot vacuum steering controls in iOS 18.4 ahead of most of Matter 1.4 landing elsewhere, though Apple Home itself does not appear in my top five."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Home Assistant Green 這禮拜繼續坐穩冠軍，這週剛好出現兩則新聞，兩個方向完全相反，剛好講出智慧家庭中樞現在到底還有什麼用。\n\nAqara 九月十六號發表 FP400 空間感測器，一次能偵測十個人的位置，支援分區感測，走 Thread 或 Zigbee 都可以，直接接進我榜單第四名 Aqara Hub M3 的生態系裡，這種上市多年後還持續有配件支援的狀況，正是一個中樞能一直活著的原因。同一天，IKEA 發表了 Dubbelkisel，一顆走 Matter over Thread 的櫥櫃燈驅動器，歐洲售價從 18 歐元起跳，手機直接連線就能控制，完全不需要中樞。第二則新聞的意義比價格本身重要，因為現在越來越多 Matter 裝置根本不需要我榜單上這些盒子，一個中樞要證明自己存在的價值，就要做到手機 App 做不到的事，像是真正離線的自動化、同時支援多種無線協定、網路斷線的時候規則還能繼續跑。\n\n另一份針對 Matter 產業今年整體落地狀況的報告，剛好說明了為什麼 Home Assistant Green 就算無線協定分數普通還是穩坐冠軍。Amazon 說自己支援 Matter 1.4 SDK，實際上只做了部分功能，Google Home 甚至連 Matter 第一版就有的通用開關功能都還沒做出來。報告裡唯一被稱讚跑在規格前面的是 Apple Home，iOS 18.4 就加入掃地機器人路徑控制，比大多數品牌實作 Matter 1.4 都還早。這三家沒有一個擠進我的前五名，行銷宣傳跟實際上架功能之間的落差，正是離線存活力跟 API 政策這兩項在我的評分裡占那麼重的原因，一個中樞光靠簡報上寫得漂亮沒有用，伺服器掛掉的時候家裡的燈還能正常開才是重點。",
+          "highlights": [
+            {
+              "title": "Aqara FP400 餵養 Hub M3 生態系",
+              "body": "九月十六號發表的空間感測器一次偵測十個人，支援分區感測，走 Thread 或 Zigbee，直接接進榜單第四名 Aqara Hub M3 的生態系。"
+            },
+            {
+              "title": "IKEA 證明部分 Matter 裝置不需要中樞",
+              "body": "同一天發表的 Dubbelkisel 櫥櫃燈驅動器售價從 18 歐元起，手機直接連線就能控制，中間完全不經過任何中樞。"
+            },
+            {
+              "title": "Alexa 跟 Google Home 追不上自己講的規格",
+              "body": "Amazon 宣稱支援 Matter 1.4 SDK 但只做了部分功能，Google Home 連 Matter 第一版就有的通用開關都還沒做出來。"
+            },
+            {
+              "title": "Apple Home 跑在規格前面",
+              "body": "iOS 18.4 就加入掃地機器人路徑控制，比大多數品牌實作 Matter 1.4 都還早，不過 Apple Home 本身沒有擠進我的前五名。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -26112,6 +26112,223 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-30",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.7,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "codeQuality": 9.2,
+            "contextWindow": 8.2,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.6,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.2,
+            "valueForMoney": 6.8
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Cursor, Claude Code, and Codex are merging into one AI coding stack nobody planned",
+          "url": "https://thenewstack.io/ai-coding-tool-stack/",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Best AI Coding Agents in 2026: Claude Code vs Codex vs Cursor",
+          "url": "https://www.turingcollege.com/blog/best-ai-coding-agents-2026-claude-code-codex-cursor",
+          "source": "Turing College"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code keeps first and OpenAI Codex keeps second today, and the benchmark update I want to flag actually shows the gap between them holding steady. Anthropic shipped Claude Opus 5.5 on September 22 at four dollars and twenty dollars per million tokens for input and output, with a one million token context window, and it became Claude Code's default Opus model the same day inside version 2.1.280. On Artificial Analysis's independent Coding Agent Index, Claude Code with Opus 5.5 now scores 66 against Codex with GPT-6 Astra at 62, a four point spread on a benchmark built to measure exactly the agentic coding work I weigh heaviest in this table. OpenAI answered with its own releases this month: GPT-6 Astra on September 3 at ten and fifty dollars per million tokens, then GPT-6 Sol at two and ten dollars and GPT-6 Luna at ten and fifty cents on September 22, with Sol positioned as the direct replacement for GPT-5.5 at half its old promotional price. That pricing move helps value for money even when the capability gap stays open. The other story worth watching sits outside the top two entirely: SpaceX closed a sixty billion dollar all-stock acquisition of Cursor in mid-August, and Cursor's own blog confirmed the deal closed. I have not seen evidence that ownership change has touched the product I score here, so Cursor holds third on the same merits as before, IDE integration that still beats every agent above it. My order stays exactly where it was yesterday, and today's numbers give me clearer evidence for why that order holds.",
+          "highlights": [
+            {
+              "title": "Opus 5.5 Widens the Benchmark Gap",
+              "body": "Claude Code with the new Opus 5.5 model scores 66 on Artificial Analysis's Coding Agent Index, four points ahead of Codex with GPT-6 Astra at 62."
+            },
+            {
+              "title": "Three New GPT-6 Tiers in One Month",
+              "body": "OpenAI shipped Astra, Sol, and Luna between September 3 and 22, with Sol replacing GPT-5.5 at half its former promotional price."
+            },
+            {
+              "title": "SpaceX Closes the Cursor Deal",
+              "body": "SpaceX's sixty billion dollar all-stock acquisition of Cursor closed in mid-August, though the product itself has not visibly changed since."
+            },
+            {
+              "title": "Order Holds at the Top",
+              "body": "Claude Code keeps first, Codex keeps second, and Cursor keeps third on IDE integration strength that still leads the field."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 今天繼續守住第一，OpenAI Codex 顧著第二，這次的跑分更新其實證明了兩者之間的差距沒有縮小。Anthropic 九月二十二日推出 Claude Opus 5.5，輸入輸出價格是每百萬個 token 四美元跟二十美元，支援一百萬 token 的上下文，同一天就變成 Claude Code 版本 2.1.280 裡預設的 Opus 模型。在 Artificial Analysis 的獨立編碼代理指標上，搭配 Opus 5.5 的 Claude Code 拿到六十六分，搭配 GPT-6 Astra 的 Codex 只有六十二分，四分的差距剛好落在我最看重的自主寫程式能力這一項。OpenAI 這個月也沒閒著，九月三日先推出每百萬 token 十美元跟五十美元的 GPT-6 Astra，接著九月二十二日一口氣丟出兩美元十美元的 GPT-6 Sol 跟零點一美元零點五美元的 GPT-6 Luna，Sol 直接取代 GPT-5.5，價格只剩過去促銷價的一半，這對重視性價比的用戶絕對是好消息。\n\n真正跳出前兩名之外的大新聞是 SpaceX 在八月中以六百億美元全股票交易買下 Cursor，官方部落格也證實交易已經完成。目前我還沒看到這次換老闆對產品本身造成什麼實際影響，所以 Cursor 憑著至今仍是這張表裡整合體驗最好的優勢，繼續守住第三名。我的排名今天原封不動，不過今天這組數字讓我更有把握說，這個順位是靠實力撐出來的。",
+          "highlights": [
+            {
+              "title": "Opus 5.5 拉開跑分差距",
+              "body": "搭配新款 Opus 5.5 的 Claude Code 在 Artificial Analysis 編碼代理指標拿下六十六分，比搭配 GPT-6 Astra 的 Codex 六十二分多出四分。"
+            },
+            {
+              "title": "一個月內連出三款 GPT-6",
+              "body": "OpenAI 九月三日到二十二日陸續推出 Astra、Sol、Luna，Sol 取代 GPT-5.5 的位置，價格只剩過去促銷價的一半。"
+            },
+            {
+              "title": "SpaceX 完成收購 Cursor",
+              "body": "六百億美元全股票交易在八月中拍板，不過目前產品本身看起來還沒有明顯變化。"
+            },
+            {
+              "title": "前三名排序不變",
+              "body": "Claude Code 守住第一、Codex 守住第二，Cursor 靠整合體驗優勢繼續坐穩第三。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

@@ -18484,6 +18484,211 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-30",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAccuracy": 9.9,
+            "photorealism": 9.1,
+            "artisticQuality": 8.4,
+            "textRendering": 9.7,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.1,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "nano-banana-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Best AI Image Generators September 2026: GPT Image 2.5, Nano Banana Pro & MAI-Image",
+          "url": "https://www.buildmvpfast.com/articles/best-llms-2026-guide/image-generation-ai",
+          "source": "BuildMVPFast"
+        },
+        {
+          "title": "Best AI Image Generators in 2026: GPT Image 2, Nano Banana, Midjourney, FLUX",
+          "url": "https://www.frankx.ai/blog/best-ai-image-generators-2026",
+          "source": "FrankX"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "GPT Image 2 keeps first place today, and the detail I want to dig into is resolution, because it is the kind of number that decides whether an image is client-ready straight out of the model or needs an upscale pass first. Google's Nano Banana Pro, sitting third in my table, now renders at a full 4096 by 4096 pixels natively, the highest ceiling of any tool I track here and the reason it leads the image-editing arenas even while trailing GPT Image 2 on raw prompt accuracy. Midjourney V8.1 renders at 2048 by 2048 by default, which is lower on paper but matches how its users actually work: concept artists and art directors pulling mood boards and stylized campaign frames rarely need print-resolution output straight from the model. Flux 2 Pro tops out around four megapixels and remains the tool developers reach for when they need photoreal product shots delivered through an API, which lines up with its top score in my photorealism column. What this tells me is that the four names at the top of my table have stopped competing on a single axis. GPT Image 2 wins on following instructions exactly and rendering text inside an image correctly. Nano Banana Pro wins on resolution and edit precision. Midjourney wins on artistic judgment a client cannot get from a prompt alone. Flux wins on throughput for teams generating hundreds of product images a week. My ranking reflects that GPT Image 2 still does the most things well at once, but I would point a working artist toward Midjourney and a growth team toward Flux without hesitation.",
+          "highlights": [
+            {
+              "title": "Nano Banana Pro Tops Resolution",
+              "body": "Google's model renders natively at 4096 by 4096 pixels, the highest ceiling in this table and the reason it leads editing-focused arenas."
+            },
+            {
+              "title": "Midjourney Serves a Different Workflow",
+              "body": "V8.1's 2048 by 2048 default resolution matches concept art and mood board work where print resolution rarely matters."
+            },
+            {
+              "title": "Flux Wins on API Throughput",
+              "body": "Flux 2 Pro's four megapixel ceiling and photorealism score make it the pick for teams generating high volumes of product imagery."
+            },
+            {
+              "title": "GPT Image 2 Still Leads Overall",
+              "body": "Instruction following and in-image text rendering keep it first, even as rivals pull ahead on individual dimensions."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "GPT Image 2 今天繼續坐穩第一，這次我想聊解析度這個數字，因為它直接決定一張圖能不能直接交件，還是得再拉去放大處理一輪。排名第三的 Google Nano Banana Pro 現在原生就能輸出四千零九十六乘四千零九十六的解析度，是我這張表裡天花板最高的，這也是它雖然在指令精準度上輸給 GPT Image 2，卻能在修圖類競技場拿下領先的原因。Midjourney V8.1 預設輸出兩千零四十八乘兩千零四十八，數字看起來比較低，但剛好符合它的使用者實際的工作模式，概念設計師跟藝術總監要的是氛圍板跟風格化的宣傳畫面，很少一開始就需要印刷等級的輸出。Flux 2 Pro 上限落在四百萬像素左右，一直是開發者透過 API 大量產出擬真商品照時的首選，這也呼應了它在寫實度這一項拿下最高分的表現。\n\n這幾個排名前段的名字現在各自守著不同的戰場，比的東西各不相同。GPT Image 2 贏在完全照著指令走、圖片裡的文字也能正確呈現。Nano Banana Pro 贏在解析度跟修圖的精準度。Midjourney 贏在客戶要的那種光靠打字打不出來的美感判斷。Flux 贏在一週要出好幾百張商品圖的團隊需要的產能。我的排名維持 GPT Image 2 第一，因為它同時把最多事情做好，但真的要我推薦，做藝術創作我會指名 Midjourney，做成長團隊的商品圖我會指名 Flux。",
+          "highlights": [
+            {
+              "title": "Nano Banana Pro 解析度封王",
+              "body": "原生四千零九十六乘四千零九十六的輸出是這張表裡最高的，也是它在修圖類競技場領先的原因。"
+            },
+            {
+              "title": "Midjourney 服務的是另一種工作流程",
+              "body": "V8.1 預設兩千零四十八乘兩千零四十八的解析度，剛好符合概念設計跟氛圍板這類很少需要印刷等級輸出的工作。"
+            },
+            {
+              "title": "Flux 靠 API 產能取勝",
+              "body": "四百萬像素的上限加上寫實度最高分，讓它成為大量產出商品圖團隊的首選。"
+            },
+            {
+              "title": "GPT Image 2 整體仍然領先",
+              "body": "指令精準度跟圖片文字呈現的能力，讓它就算個別項目被超車，還是穩坐第一。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

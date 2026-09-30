@@ -19205,6 +19205,163 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-30",
+      "rankings": [
+        {
+          "id": "protonvpn",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "mullvad",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Another way to leak traffic on Android has been discovered",
+          "url": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered",
+          "source": "Mullvad"
+        },
+        {
+          "title": "NordVPN vs Mullvad: 12 Tests, 1 Clear Winner in 2026",
+          "url": "https://cyberinsider.com/vpn/comparison/nordvpn-vs-mullvad/",
+          "source": "CyberInsider"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ProtonVPN and Mullvad hold the top two spots again today, and this week handed me a real test of what my privacy score is supposed to measure. Mullvad disclosed on September 10 that a security researcher found a new way for a malicious Android app to leak traffic outside a VPN tunnel, by abusing keep-alive UDP packets on port 4500 that get hardware-offloaded around the tunnel entirely. The attack needs no special permission on the phone to run. Mullvad's own writeup is candid about the limits of any fix, a client-side mitigation cannot guarantee protection, because a rogue app could start leaking before the VPN client even launches. The company's actual advice to readers is blunt, install only apps you trust, and consider GrapheneOS if this specific attack model worries you. Publishing that kind of admission, in plain language, on a public blog, is exactly what earns Mullvad its 9.8 privacy score in my table, the same number ProtonVPN posts. This leak lives inside Android's own network stack, so it touches every VPN app running on the platform, and I am holding every score steady today. What the disclosure does confirm is which providers treat a security finding as something to document honestly and which providers manage it quietly through a support forum instead. Mullvad's post names the exact mechanism, credits the researcher, and tells its own users plainly that the app alone cannot close this particular gap. ProtonVPN keeps the top spot on the strength of its 9.9 network score, still built on the same audited no logs foundation that has defined the brand for years. NordVPN's speed numbers remain the fastest in this category by a wide margin, and that convenience is genuine for a lot of people. The reader this list serves picks a VPN specifically to shrink what a phone reveals about them, and a flaw like this one rewards a provider whose whole culture already assumes something will eventually break and plans to say so out loud.",
+          "highlights": [
+            {
+              "title": "Android VPN leak disclosed September 10",
+              "body": "A security researcher found a way for any Android app to leak traffic around a VPN tunnel using keep-alive UDP packets on port 4500, and Mullvad published the technical details itself."
+            },
+            {
+              "title": "Mullvad's fix has real limits",
+              "body": "Mullvad says a client-side mitigation cannot guarantee protection since a malicious app could start leaking before the VPN launches, so it recommends trusted apps only or GrapheneOS for stronger isolation."
+            },
+            {
+              "title": "Privacy score rewards the disclosure",
+              "body": "ProtonVPN and Mullvad both hold 9.8 for privacy, the highest in this table, built on the same audited no logs foundation that made this kind of transparent writeup possible."
+            },
+            {
+              "title": "NordVPN still wins on raw speed",
+              "body": "NordVPN's independently tested throughput tops 900 megabits per second, the fastest number in this category, a real advantage for anyone who values speed over the narrowest privacy footprint."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ProtonVPN 跟 Mullvad 今天還是穩坐前兩名，這禮拜出現一則新聞，剛好考驗我隱私分數到底在量什麼。\n\nMullvad 九月十號公開說，有位資安研究員找到一個新手法，讓惡意 Android 應用程式可以把流量偷偷送到 VPN 通道外面，做法是濫用連接埠四五零零上的 keep alive UDP 封包，這種封包會被硬體卸載機制直接繞過通道。這個攻擊不需要手機給任何特殊權限就能跑。\n\nMullvad 自己的說明寫得很坦白，用戶端這邊能做的緩解措施沒辦法保證有效，因為惡意程式可能在 VPN 應用程式啟動之前就已經開始外洩流量。他們給用戶的建議也很直接，只裝信得過的應用程式，真的在意這個攻擊模式的話可以考慮 GrapheneOS。\n\n願意用這麼白話的文字，公開講清楚一個自己修不完全的漏洞，這正是 Mullvad 拿下九點八分隱私分數的原因，跟 ProtonVPN 打平，全表最高。這個漏洞藏在 Android 系統本身的網路堆疊裡，等於每一家 VPN 的應用程式都會受影響，所以我今天沒有調整任何分數。\n\n這次事件真正能看出來的，是哪家業者願意把資安發現老實寫成一篇文章，哪家只想低調處理。Mullvad 的文章點名了確切的攻擊機制，也感謝了發現問題的研究員，直接告訴用戶自家應用程式沒辦法單獨補上這個洞。ProtonVPN 靠著九點九分的伺服器網路分數守住第一，背後一樣是經過稽核的零記錄承諾。NordVPN 的測速數字依然是這個類別裡最快的，對很多人來說這種方便是真的有價值。不過這張表服務的讀者，就是想把手機透露出去的資訊壓到最小的人，遇到這種漏洞，更看重的還是一家業者本來就假設遲早會出包，而且願意講出來的文化。",
+          "highlights": [
+            {
+              "title": "Android VPN 漏洞九月十號曝光",
+              "body": "資安研究員發現任何 Android 應用程式都能靠連接埠四五零零上的 keep alive UDP 封包，繞過 VPN 通道外洩流量，Mullvad 自己把技術細節寫成部落格公開。"
+            },
+            {
+              "title": "Mullvad 坦承修補有極限",
+              "body": "Mullvad 表示用戶端緩解措施沒辦法保證有效，因為惡意程式可能搶在 VPN 啟動前就開始外洩，所以建議只裝信得過的應用程式，或考慮 GrapheneOS 加強隔離。"
+            },
+            {
+              "title": "隱私分數獎勵老實揭露",
+              "body": "ProtonVPN 跟 Mullvad 隱私分數都是九點八分，全表最高，背後都是經過稽核的零記錄承諾，也是這次坦白說明能站得住腳的基礎。"
+            },
+            {
+              "title": "NordVPN 速度仍是強項",
+              "body": "NordVPN 獨立測試的傳輸速度衝破每秒九百百萬位元，這個類別裡最快，對重視速度勝過隱私空間的人來說仍然很有吸引力。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

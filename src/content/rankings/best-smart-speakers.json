@@ -20192,6 +20192,199 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-30",
+      "rankings": [
+        {
+          "id": "amazon-echo-studio-2nd-gen",
+          "rank": 1,
+          "score": 9.0,
+          "scores": {
+            "soundQuality": 8.8,
+            "smartHomeIntegration": 9.5,
+            "voiceAssistant": 9.2,
+            "valueForMoney": 8.5,
+            "design": 8.2
+          }
+        },
+        {
+          "id": "sonos-era-100",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "soundQuality": 9.5,
+            "smartHomeIntegration": 7.5,
+            "voiceAssistant": 7.5,
+            "valueForMoney": 8.5,
+            "design": 9.0
+          }
+        },
+        {
+          "id": "apple-homepod-2nd-gen",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "soundQuality": 9.0,
+            "smartHomeIntegration": 8.5,
+            "voiceAssistant": 8.0,
+            "valueForMoney": 7.5,
+            "design": 8.5
+          }
+        },
+        {
+          "id": "sonos-era-300",
+          "rank": 4,
+          "score": 8.3,
+          "scores": {
+            "soundQuality": 9.5,
+            "smartHomeIntegration": 7.5,
+            "voiceAssistant": 7.5,
+            "valueForMoney": 7.5,
+            "design": 9.0
+          }
+        },
+        {
+          "id": "google-home-speaker-2026",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "soundQuality": 8.0,
+            "smartHomeIntegration": 9.0,
+            "voiceAssistant": 9.0,
+            "valueForMoney": 8.3,
+            "design": 8.0
+          }
+        },
+        {
+          "id": "amazon-echo-dot-max",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "soundQuality": 7.6,
+            "smartHomeIntegration": 9.0,
+            "voiceAssistant": 9.5,
+            "valueForMoney": 8.7,
+            "design": 8.0
+          }
+        },
+        {
+          "id": "jbl-authentics-500",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "soundQuality": 9.0,
+            "smartHomeIntegration": 7.5,
+            "voiceAssistant": 7.5,
+            "valueForMoney": 7.0,
+            "design": 8.5
+          }
+        },
+        {
+          "id": "amazon-echo-4th-gen",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "soundQuality": 7.5,
+            "smartHomeIntegration": 9.0,
+            "voiceAssistant": 9.0,
+            "valueForMoney": 8.5,
+            "design": 7.5
+          }
+        },
+        {
+          "id": "amazon-echo-dot-5th-gen",
+          "rank": 9,
+          "score": 7.4,
+          "scores": {
+            "soundQuality": 7.0,
+            "smartHomeIntegration": 9.0,
+            "voiceAssistant": 9.0,
+            "valueForMoney": 9.5,
+            "design": 7.5
+          }
+        },
+        {
+          "id": "apple-homepod-mini",
+          "rank": 10,
+          "score": 7.2,
+          "scores": {
+            "soundQuality": 7.0,
+            "smartHomeIntegration": 8.0,
+            "voiceAssistant": 7.5,
+            "valueForMoney": 8.0,
+            "design": 8.5
+          }
+        },
+        {
+          "id": "wiim-sound",
+          "rank": 11,
+          "score": 8.4,
+          "scores": {
+            "soundQuality": 8.6,
+            "smartHomeIntegration": 8.2,
+            "voiceAssistant": 7.6,
+            "valueForMoney": 8.9,
+            "design": 8.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "The Matter Standard in 2026 – A Status Review",
+          "url": "https://matter-smarthome.de/en/development/the-matter-standard-in-2026-a-status-review/",
+          "source": "matter-smarthome.de"
+        },
+        {
+          "title": "Matter Device News — September 2026",
+          "url": "https://matterdevices.io/news/",
+          "source": "Matter Devices"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Echo Studio 2nd Gen keeps first place in my table, and a report on Matter's rollout across the industry this year gives me a reason to look harder at the smartHomeIntegration score behind that ranking. Echo Studio posts a 9.5 there, the second highest number in that column on my whole list, built on Alexa's breadth of device support built up over a decade. The same report points out that Amazon claims to support the Matter 1.4 SDK while shipping only a partial slice of what that spec actually contains, leak sensor support among the gaps, which matters the moment a household tries to add a Matter certified device Alexa has not explicitly tested. Google's Home Speaker fares worse in the same report, still missing generic switch support that shipped in Matter's very first release years ago, a gap that shows up in my own numbers too, Home Speaker's smartHomeIntegration score sits at 9.0 against a voiceAssistant score at the same level. Apple HomePod 2nd Gen is the one platform the report credits with shipping ahead of its own spec sheet, Apple Home added robot vacuum steering controls in iOS 18.4 before most of Matter 1.4 had shipped anywhere else, a rare case of Apple leading the pack on a brand new feature. None of this changes my ranking today, Echo Studio earns its spot through raw breadth, the sheer number of devices it already talks to outweighs a compliance gap most owners never notice. It does explain why voiceAssistant intelligence and smartHomeIntegration sometimes pull in different directions on this list, a speaker can command a house full of devices today while its maker still finishes building the actual open standard everyone claims to support.",
+          "highlights": [
+            {
+              "title": "Echo Studio leads through device breadth",
+              "body": "A 9.5 smartHomeIntegration score comes from a decade of Alexa device support, alongside a Matter 1.4 SDK claim that ships only a partial feature set."
+            },
+            {
+              "title": "Google Home Speaker still missing basics",
+              "body": "Home Speaker lacks generic switch support that shipped in Matter's first release years ago, reflected in a smartHomeIntegration score of 9.0."
+            },
+            {
+              "title": "Apple Home ships ahead of the spec",
+              "body": "iOS 18.4 added robot vacuum steering controls before most of Matter 1.4 had shipped anywhere else, a rare lead for Apple on a brand new Matter feature."
+            },
+            {
+              "title": "Breadth still beats compliance today",
+              "body": "Echo Studio's ranking rests on the sheer number of devices Alexa already talks to, a strength most owners value more than a Matter compliance gap."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Echo Studio 2nd Gen 這禮拜繼續坐穩冠軍，一份針對 Matter 產業今年落地狀況的報告，讓我想更仔細看一下這個排名背後的智慧家庭整合分數。\n\nEcho Studio 在這一項拿到 9.5 分，是我整張表這個項目裡第二高的數字，靠的是 Alexa 累積十年的裝置支援廣度。同一份報告點出，Amazon 宣稱支援 Matter 1.4 SDK，實際上只做了規格書裡的一小部分，漏水感測器支援就是其中一個缺口，一旦家裡想加入一台 Alexa 沒特別測試過的 Matter 認證裝置，這個缺口馬上就會冒出來。Google Home Speaker 在同一份報告裡表現更弱，連 Matter 第一版就有的通用開關功能都還沒做出來，這個落差在我自己的分數上也看得到，Home Speaker 的智慧家庭整合分數是 9.0 分，跟語音助理分數落在同一個水準。報告裡唯一被稱讚跑在規格前面的是 Apple HomePod 2nd Gen 背後的 Apple Home，iOS 18.4 就加入掃地機器人路徑控制，比大多數品牌實作 Matter 1.4 都還早，算是蘋果少數搶先其他人的例子。\n\n這些都不會改變我今天的排名，Echo Studio 能坐穩冠軍靠的是廣度，已經能操控的裝置數量遠遠壓過大多數用戶根本不會注意到的規格落差。這也說明了為什麼語音助理智慧跟智慧家庭整合這兩個項目有時候會走向不同方向，一支喇叭可以今天就指揮滿屋子的裝置，同時背後的品牌還在慢慢把大家都說自己支援的開放標準做完整。",
+          "highlights": [
+            {
+              "title": "Echo Studio 靠廣度領先",
+              "body": "智慧家庭整合分數拿到 9.5 分，來自 Alexa 累積十年的裝置支援，同時 Amazon 宣稱支援的 Matter 1.4 SDK 其實只做了一部分功能。"
+            },
+            {
+              "title": "Google Home Speaker 連基本功能都缺",
+              "body": "通用開關功能是 Matter 第一版就有的東西，Home Speaker 至今還沒做出來，智慧家庭整合分數落在 9.0 分反映了這個缺口。"
+            },
+            {
+              "title": "Apple Home 跑在規格前面",
+              "body": "iOS 18.4 就加入掃地機器人路徑控制，比大多數品牌實作 Matter 1.4 都還早，是蘋果少見搶先其他人的例子。"
+            },
+            {
+              "title": "廣度目前還是比規格合規重要",
+              "body": "Echo Studio 的排名靠的是已經能操控的裝置數量，這個優勢比大多數用戶根本不會注意到的合規落差更有實際影響。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

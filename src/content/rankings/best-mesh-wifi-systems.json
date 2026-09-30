@@ -18227,6 +18227,199 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-09-30",
+      "rankings": [
+        {
+          "id": "tp-link-deco-be63",
+          "rank": 1,
+          "score": 9.0,
+          "scores": {
+            "performance": 8.7,
+            "coverage": 8.7,
+            "value": 9.6,
+            "usability": 9.0,
+            "features": 8.6
+          }
+        },
+        {
+          "id": "eero-pro-7",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "performance": 8.6,
+            "coverage": 8.6,
+            "value": 7.5,
+            "usability": 9.7,
+            "features": 9.5
+          }
+        },
+        {
+          "id": "asus-zenwifi-bq16-pro",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "performance": 9.8,
+            "coverage": 9.5,
+            "value": 6.9,
+            "usability": 8.5,
+            "features": 9.5
+          }
+        },
+        {
+          "id": "tp-link-deco-be95",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "performance": 9.7,
+            "coverage": 9.7,
+            "value": 7.5,
+            "usability": 8.4,
+            "features": 9.7
+          }
+        },
+        {
+          "id": "tp-link-deco-be85",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "performance": 9.5,
+            "coverage": 9.0,
+            "value": 6.7,
+            "usability": 8.5,
+            "features": 9.0
+          }
+        },
+        {
+          "id": "eero-max-7",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "performance": 9.2,
+            "coverage": 8.7,
+            "value": 6.3,
+            "usability": 9.6,
+            "features": 9.6
+          }
+        },
+        {
+          "id": "msi-roamii-be-pro",
+          "rank": 7,
+          "score": 8.4,
+          "scores": {
+            "performance": 8.5,
+            "coverage": 8.5,
+            "value": 9.7,
+            "usability": 8.5,
+            "features": 8.7
+          }
+        },
+        {
+          "id": "netgear-orbi-770",
+          "rank": 8,
+          "score": 8.3,
+          "scores": {
+            "performance": 8.5,
+            "coverage": 9.6,
+            "value": 7.5,
+            "usability": 8.0,
+            "features": 8.0
+          }
+        },
+        {
+          "id": "netgear-orbi-870",
+          "rank": 9,
+          "score": 8.2,
+          "scores": {
+            "performance": 9.0,
+            "coverage": 9.8,
+            "value": 5.5,
+            "usability": 8.0,
+            "features": 8.5
+          }
+        },
+        {
+          "id": "asus-zenwifi-pro-et12",
+          "rank": 10,
+          "score": 7.9,
+          "scores": {
+            "performance": 8.0,
+            "coverage": 8.5,
+            "value": 7.5,
+            "usability": 8.0,
+            "features": 7.5
+          }
+        },
+        {
+          "id": "google-nest-wifi-pro",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "performance": 7.0,
+            "coverage": 7.5,
+            "value": 8.5,
+            "usability": 8.5,
+            "features": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "eero Software Release Notes",
+          "url": "https://support.eero.com/hc/en-us/articles/209636523-eero-Software-Release-Notes",
+          "source": "eero Support"
+        },
+        {
+          "title": "The Best Wi-Fi Routers We've Benchmarked in 2026",
+          "url": "https://www.tomshardware.com/networking/routers/best-wi-fi-routers",
+          "source": "Tom's Hardware"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "TP-Link Deco BE63 keeps first place, and I want to use this update to talk about eero, since two of my top six picks sit under that brand and eero just pushed a run of software fixes that matter more than most changelog entries. Version 7.17.1, released September 11, patches an intermittent disconnect bug on Wi-Fi 7 eero networks, the exact kind of issue that shows up as random dropped video calls and never gets traced back to firmware unless you know to look. It also fixes a HomeKit Secure Router stability problem and cleans up how the system measures and reports 6GHz noise floor readings, which affects how aggressively the mesh picks channels around neighboring networks. This release follows 7.17.0 from September 3 and 7.16.3 from September 1, three updates in three weeks, which tells me eero's engineering team is actively chasing down Wi-Fi 7 stability issues as they surface. That pace matters for my eero Pro 7 pick at rank 2 and eero Max 7 at rank 6, both scored high on usability and features precisely because the app and firmware experience stays this actively maintained. TP-Link's Deco line does not publish changelogs with this level of detail, so I cannot make the same direct comparison, but the BE63 has not needed emergency patches for connectivity drops since I started tracking it, which is its own kind of evidence for a stable Wi-Fi 7 implementation. I still have Deco BE63 first because of its price to performance ratio, 9.6 on value here, but eero's aggressive patch cadence is exactly the kind of ongoing support that justifies its usability scores staying near the top of this category.",
+          "highlights": [
+            {
+              "title": "eero Ships Three Patches In Three Weeks",
+              "body": "Versions 7.16.3, 7.17.0, and 7.17.1 landed between September 1 and 11, showing an actively maintained Wi-Fi 7 platform."
+            },
+            {
+              "title": "7.17.1 Fixes Wi-Fi 7 Disconnects",
+              "body": "The September 11 release patches an intermittent disconnect bug that would otherwise show up as random dropped calls with no obvious cause."
+            },
+            {
+              "title": "HomeKit Secure Router Bug Also Patched",
+              "body": "The same update fixes a HomeKit Secure Router stability issue and improves 6GHz noise floor measurement for smarter channel selection."
+            },
+            {
+              "title": "Deco BE63 Still Wins On Value",
+              "body": "A 9.6 value score keeps the Deco BE63 first, even as eero's patch cadence backs up the usability scores behind its Pro 7 and Max 7 rankings."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "TP-Link Deco BE63 這次還是穩坐第一。這次我想聊聊 eero，因為我前六名裡有兩台都是這個牌子，而且 eero 最近才連續推了幾次軟體更新，內容比一般改版說明重要得多。\n\n9 月 11 日釋出的 7.17.1 版本，修掉了 Wi-Fi 7 網路上一個間歇性斷線的問題，這種問題的麻煩之處在於，你只會感覺視訊通話莫名其妙斷掉，除非你知道要往韌體方向查，不然根本查不出原因。這次更新同時也修好了 HomeKit Secure Router 的穩定性問題，還調整了系統量測跟回報 6GHz 頻段噪訊底線的方式，這會直接影響網狀系統挑選頻道時對鄰居網路的判斷有多準。這次更新前面還有 9 月 3 日的 7.17.0 跟 9 月 1 日的 7.16.3，三個禮拜連出三次更新，看得出 eero 的工程團隊正積極在處理 Wi-Fi 7 的穩定性問題。\n\n這個更新頻率跟我排在第 2 名的 eero Pro 7 跟第 6 名的 eero Max 7 很有關係，這兩台的易用性跟功能分數會打這麼高，很大一部分就是因為 app 跟韌體體驗一直有人在持續維護。TP-Link 的 Deco 系列沒有公開這麼細的更新紀錄，我沒辦法直接拿來比較，不過我開始追蹤 BE63 以來，它也沒因為連線問題出過緊急修補，這本身也算是 Wi-Fi 7 穩定度不錯的證明。我還是把 Deco BE63 排第一，主要看中它的性價比，這裡拿到 9.6 分，但 eero 這種積極修補的更新節奏，也確實對得起它易用性分數一直排在這個分類前段班的表現。",
+          "highlights": [
+            {
+              "title": "eero 三週內連發三次更新",
+              "body": "7.16.3、7.17.0、7.17.1 三個版本在 9 月 1 日到 11 日之間陸續釋出，顯示 Wi-Fi 7 平台一直有人在積極維護。"
+            },
+            {
+              "title": "7.17.1 修好 Wi-Fi 7 斷線問題",
+              "body": "9 月 11 日的更新修掉了間歇性斷線問題，這種問題平常只會感覺通話莫名其妙斷掉，很難查出原因。"
+            },
+            {
+              "title": "HomeKit Secure Router 穩定性也一併修復",
+              "body": "同一次更新也修好了 HomeKit Secure Router 的穩定性問題，並改善 6GHz 噪訊底線量測，讓選頻更準。"
+            },
+            {
+              "title": "Deco BE63 靠性價比穩坐第一",
+              "body": "9.6 分的性價比讓 Deco BE63 穩坐第一，而 eero 積極的更新節奏也對得起 Pro 7 跟 Max 7 的易用性分數。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
