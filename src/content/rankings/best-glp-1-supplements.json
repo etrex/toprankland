@@ -69,22 +69,6 @@
       }
     },
     {
-      "id": "nature-made-glp-1-companion",
-      "name": "GLP-1 Companion Health Pack",
-      "brand": "Nature Made",
-      "url": "https://www.naturemade.com/products/glp-1-companion-health-pack",
-      "i18n": {
-        "en": {
-          "description": "A 30-day box of daily packets combining a multivitamin with magnesium, calcium, vitamin D and B12, the most accessible drugstore option for filling the everyday nutrient gaps of eating less.",
-          "priceRange": "$25"
-        },
-        "zh-tw": {
-          "description": "30 天份的每日隨身包，把綜合維他命加上鎂、鈣、維他命 D 和 B12 一起打包，藥妝通路就買得到，吃得少造成的日常營養缺口靠它補最方便。",
-          "priceRange": "約 NT$800"
-        }
-      }
-    },
-    {
       "id": "ora-glp-1-up",
       "name": "GLP-1 Up",
       "brand": "Ora Organic",
@@ -193,6 +177,22 @@
         "zh-tw": {
           "description": "無糖檸檬柑橘口味軟糖，主成分是有臨床研究支持、能提升身體自體 GLP-1 分泌的專利檸檬類黃酮 Eriomin，2026 年春天鋪進美國 Walmart 和 CVS 全通路，60 顆不到 25 美元，換算下來一天不到十塊台幣，是整份榜單門檻最低的入門選擇。",
           "priceRange": "約 NT$800"
+        }
+      }
+    },
+    {
+      "id": "smidge-glp-1-companion-bundle",
+      "name": "GLP-1 Companion Bundle",
+      "brand": "Smidge",
+      "url": "https://www.getsmidge.com/products/glp-1-companion-bundle",
+      "i18n": {
+        "en": {
+          "description": "A five-product bundle built on whole foods: Sensitive Probiotic, Digestive Enzymes, Beef Liver, Deep Ocean Liquid Magnesium, and Kakadu Plum for vitamin C, priced at $172.34 for the set, a 15% savings against buying each piece separately. Beef liver supplies vitamin A and B12 in capsule form, the magnesium comes from Hawaiian seawater, and the vitamin C is sourced directly from whole fruit. I recommend it to GLP-1 users who want real-food micronutrient density and digestive support in one order.",
+          "priceRange": "$172 bundle"
+        },
+        "zh-tw": {
+          "description": "這是一套五件組的全食物補充品，內容是益生菌、消化酵素、牛肝膠囊、深海液態鎂，還有卡卡杜李維生素C，整組172.34美元，比單買五件便宜15%。牛肝膠囊本身就有維生素A跟B12，鎂來自夏威夷海水，維生素C直接從卡卡杜李這種水果萃取。老實說，如果你正在打GLP-1，吃得比以前少，這組東西補的是真食物來源的微量營養素，加上腸胃照顧，一次下單就解決，不用再額外吞一顆綜合維他命。",
+          "priceRange": "約 NT$5,600"
         }
       }
     }
@@ -10015,21 +10015,8 @@
           }
         },
         {
-          "id": "nature-made-glp-1-companion",
-          "rank": 4,
-          "score": 8.9,
-          "scores": {
-            "muscle": 7.6,
-            "nutrition": 9.3,
-            "digestion": 8.4,
-            "testing": 9.0,
-            "value": 9.6,
-            "convenience": 9.5
-          }
-        },
-        {
           "id": "ora-glp-1-up",
-          "rank": 5,
+          "rank": 4,
           "score": 8.6,
           "scores": {
             "muscle": 7.2,
@@ -10042,7 +10029,7 @@
         },
         {
           "id": "vitamin-shoppe-whole-health-rx",
-          "rank": 6,
+          "rank": 5,
           "score": 8.4,
           "scores": {
             "muscle": 8.4,
@@ -10055,7 +10042,7 @@
         },
         {
           "id": "codeage-glp-harmony-companion",
-          "rank": 7,
+          "rank": 6,
           "score": 8.2,
           "scores": {
             "muscle": 8.6,
@@ -10068,7 +10055,7 @@
         },
         {
           "id": "naked-nutrition-glp-1-support",
-          "rank": 8,
+          "rank": 7,
           "score": 8.1,
           "scores": {
             "muscle": 8.2,
@@ -10081,7 +10068,7 @@
         },
         {
           "id": "force-factor-super-glp-1-chews",
-          "rank": 9,
+          "rank": 8,
           "score": 8.0,
           "scores": {
             "muscle": 6.0,
@@ -10094,7 +10081,7 @@
         },
         {
           "id": "youtheory-high-potency-multi",
-          "rank": 10,
+          "rank": 9,
           "score": 7.9,
           "scores": {
             "muscle": 6.8,
@@ -10103,6 +10090,19 @@
             "testing": 8.6,
             "value": 8.8,
             "convenience": 8.6
+          }
+        },
+        {
+          "id": "smidge-glp-1-companion-bundle",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "muscle": 6.5,
+            "nutrition": 9.0,
+            "digestion": 8.8,
+            "testing": 7.6,
+            "value": 7.6,
+            "convenience": 7.0
           }
         },
         {
@@ -10124,15 +10124,34 @@
           "title": "RNA Therapy May Help Preserve Muscle During GLP-1 Weight Loss",
           "url": "https://news.feinberg.northwestern.edu/2026/09/21/rna-therapy-may-help-preserve-muscle-during-glp-1-weight-loss/",
           "source": "Northwestern University Feinberg School of Medicine"
+        },
+        {
+          "title": "GLP-1 Companion Health Pack Daily Packets (discontinued)",
+          "url": "https://www.naturemade.com/products/glp-1-companion-health-pack",
+          "source": "Nature Made"
+        },
+        {
+          "title": "Smidge Introduces GLP-1 Companion Bundle to Support Digestive Wellness and Whole-Food Nutrition",
+          "url": "https://www.prnewswire.com/news-releases/smidge-introduces-glp-1-companion-bundle-to-support-digestive-wellness-and-whole-food-nutrition-302892007.html",
+          "source": "PR Newswire"
+        },
+        {
+          "title": "Lemme Lawsuit Claims GLP-1 Weight Loss Capsules Not as Effective as Advertised",
+          "url": "https://www.classaction.org/news/lemme-lawsuit-claims-glp-1-weight-loss-capsules-not-as-effective-as-advertised",
+          "source": "ClassAction.org"
         }
       ],
       "i18n": {
         "en": {
-          "commentary": "Northwestern published mouse data this September showing an experimental RNA therapy paired with semaglutide cut lean mass loss to about 5.5 percent, versus roughly 10 percent for semaglutide alone. That's early-stage animal research, not something you can buy, but it confirms the thesis this entire category is built on: muscle preservation during GLP-1 treatment is a real, measurable problem, not supplement marketing hype. The researchers backing it reinforced the same practical guidance I'd give anyone on these medications today, start at the lowest effective dose, track your muscle mass, add resistance training, and hit 1.2 to 1.6 grams of protein per kilogram of body weight daily. No pill replaces that protein target, which is exactly why my top three spots all go to products built specifically around protein and muscle support for people on these medications.\n\nThorne's GLP-1 Support Stack holds rank one because it covers both sides of the problem, nutrient gaps from reduced food intake and muscle preservation, with a 9.8 testing score I trust completely. Youtheory's Muscle Guard Protein earns rank two on a 9.6 muscle score alone, if preserving lean mass is your single biggest concern on this medication, this is the most direct tool for it. Transparent Labs Whey Isolate sits right behind it for the same reason, straightforward high-quality protein beats a dozen trendy add-ins every time muscle retention is the actual goal.\n\nI'd treat anything promising to replace resistance training or a real protein target with real skepticism. Nothing in a capsule substitutes for the two interventions the research keeps pointing back to.",
+          "commentary": "Northwestern published mouse data this September showing an experimental RNA therapy paired with semaglutide cut lean mass loss to about 5.5 percent, versus roughly 10 percent for semaglutide alone. That's early-stage animal research, not something you can buy, but it confirms the thesis this entire category is built on: muscle preservation during GLP-1 treatment is a real, measurable problem, not supplement marketing hype. The researchers backing it reinforced the same practical guidance I'd give anyone on these medications today, start at the lowest effective dose, track your muscle mass, add resistance training, and hit 1.2 to 1.6 grams of protein per kilogram of body weight daily. No pill replaces that protein target, which is exactly why my top three spots all go to products built specifically around protein and muscle support for people on these medications.\n\nTwo changes to the list this week. Nature Made has discontinued its GLP-1 Companion Health Pack, its own product page now says so directly, so I've dropped it, since it's a product that will vanish from shelves once retailer stock sells through. Replacing it is Smidge's new GLP-1 Companion Bundle, five whole-food products, probiotic, digestive enzymes, beef liver, liquid magnesium, and Kakadu plum for vitamin C, sold as a set for $172.34. It earns a strong nutrition score for real-food micronutrient density, but it has no dedicated protein or muscle ingredient, which places it in the middle of the pack.\n\nThorne's GLP-1 Support Stack holds rank one because it covers both sides of the problem, nutrient gaps from reduced food intake and muscle preservation, with a 9.8 testing score I trust completely. Youtheory's Muscle Guard Protein earns rank two on a 9.6 muscle score alone, if preserving lean mass is your single biggest concern on this medication, this is the most direct tool for it. Transparent Labs Whey Isolate sits right behind it for the same reason, straightforward high-quality protein beats a dozen trendy add-ins every time muscle retention is the actual goal.\n\nOne more thing worth flagging: a 2026 class action against Kourtney Kardashian's Lemme brand challenges the evidence behind \"natural GLP-1 boosting\" ingredient claims, the same marketing language a few products in this category lean on. I'd treat anything promising to replace resistance training or a real protein target with real skepticism. Nothing in a capsule substitutes for the two interventions the research keeps pointing back to.",
           "highlights": [
             {
               "title": "New mouse research confirms this category solves a real problem",
               "body": "An RNA therapy combined with semaglutide cut lean mass loss roughly in half versus semaglutide alone in Northwestern's September study. Early and unavailable to consumers, but it validates why muscle-preservation supplements exist at all."
+            },
+            {
+              "title": "Nature Made is out, Smidge is in",
+              "body": "Nature Made's own product page now marks its GLP-1 Companion Health Pack discontinued, so I've removed it. Smidge's new $172.34 bundle of whole-food products, beef liver, liquid magnesium, probiotic, enzymes, and Kakadu plum vitamin C, takes its place, scoring well on nutrient density but lacking a dedicated muscle-support ingredient."
             },
             {
               "title": "Protein target still beats any pill on this list",
@@ -10143,17 +10162,21 @@
               "body": "A 9.8 testing score and a formula built for two distinct problems, reduced food intake and lean mass retention, is why it holds rank one over single-purpose competitors."
             },
             {
-              "title": "Youtheory and Transparent Labs are the direct muscle-preservation tools",
-              "body": "A 9.6 and 9.5 muscle score respectively make these the right pick if lean mass retention, not general nutrition, is your single biggest worry on a GLP-1 medication."
+              "title": "\"Natural GLP-1 boosting\" claims are facing lawsuits",
+              "body": "A 2026 class action against Kourtney Kardashian's Lemme brand challenges whether its natural GLP-1 boosting claims hold up. I'd apply the same skepticism to any product in this category making similar promises."
             }
           ]
         },
         "zh-tw": {
-          "commentary": "西北大學九月發表了一份小鼠研究，實驗性RNA療法搭配semaglutide使用，瘦體組織流失壓到大約5.5%，單用semaglutide的對照組則流失將近10%。這還是早期動物實驗，但證實了這整個產品類別存在的理由，GLP-1治療期間保留肌肉是真實存在、可以量測的問題。研究團隊給的建議跟我一直以來一致，從最低有效劑量開始，定期追蹤肌肉量，加入阻力訓練，每天攝取每公斤體重1.2到1.6克蛋白質。沒有膠囊能取代這個目標，這也是為什麼前三名都是以蛋白質跟肌肉支持為核心設計的產品。\n\nThorne的GLP-1 Support Stack穩坐第一，同時處理營養缺口跟肌肉保留，9.8的檢驗分數我完全信任。Youtheory的Muscle Guard Protein靠9.6的肌肉分數拿下第二，是保留瘦體組織最直接的工具。Transparent Labs Whey Isolate緊追在後，高品質蛋白質永遠贏過十幾種噱頭添加物。\n\n任何號稱能取代阻力訓練或蛋白質目標的產品，我會用懷疑的態度看待。",
+          "commentary": "西北大學九月發表了一份小鼠研究，實驗性RNA療法搭配semaglutide使用，瘦體組織流失壓到大約5.5%，單用semaglutide的對照組則流失將近10%。這還是早期動物實驗，但證實了這整個產品類別存在的理由，GLP-1治療期間保留肌肉是真實存在、可以量測的問題。研究團隊給的建議跟我一直以來一致，從最低有效劑量開始，定期追蹤肌肉量，加入阻力訓練，每天攝取每公斤體重1.2到1.6克蛋白質。沒有膠囊能取代這個目標，這也是為什麼前三名都是以蛋白質跟肌肉支持為核心設計的產品。\n\n這週名單有兩個異動。Nature Made的GLP-1 Companion Health Pack官方產品頁直接寫明已停產，與其繼續把一個即將從貨架上消失的產品排進榜單，我選擇直接下架它。遞補上來的是Smidge新推出的GLP-1 Companion Bundle，五件全食物產品，益生菌、消化酵素、牛肝、液態鎂、卡卡杜李維生素C，整組賣172.34美元。它在營養密度這項拿到不錯的分數，但缺少專門針對肌肉的成分，所以排名落在中段。\n\nThorne的GLP-1 Support Stack穩坐第一，同時處理營養缺口跟肌肉保留，9.8的檢驗分數我完全信任。Youtheory的Muscle Guard Protein靠9.6的肌肉分數拿下第二，是保留瘦體組織最直接的工具。Transparent Labs Whey Isolate緊追在後，高品質蛋白質永遠贏過十幾種噱頭添加物。\n\n另外提醒一件事，Kourtney Kardashian的Lemme品牌今年碰上集體訴訟，質疑其「天然提升GLP-1」成分訴求缺乏證據支持，這類行銷語言在這個品類裡並不少見。任何號稱能取代阻力訓練或蛋白質目標的產品，我都會用懷疑的態度看待。",
           "highlights": [
             {
               "title": "新的小鼠研究證實這個品類解決的是真問題",
               "body": "西北大學九月的研究顯示，RNA療法搭配semaglutide，瘦體組織流失比單用semaglutide少了快一半。雖然還早期也買不到，但這驗證了肌肉保留類保健品存在的理由。"
+            },
+            {
+              "title": "Nature Made下架，Smidge遞補",
+              "body": "Nature Made自家產品頁已標示GLP-1 Companion Health Pack停產，所以我把它移出榜單。遞補的是Smidge新推出、172.34美元的全食物五件組，牛肝、液態鎂、益生菌、酵素加卡卡杜李維生素C，營養密度分數不錯，但沒有專門的肌肉支持成分。"
             },
             {
               "title": "蛋白質攝取量目標還是贏過名單上任何一顆膠囊",
@@ -10164,8 +10187,8 @@
               "body": "9.8的檢驗分數，加上一個針對兩個不同問題設計的配方，食量減少跟瘦體組織保留，這就是它贏過單一用途競品的原因。"
             },
             {
-              "title": "Youtheory跟Transparent Labs是最直接的肌肉保留工具",
-              "body": "9.6跟9.5的肌肉分數，代表如果瘦體組織保留而不是整體營養，才是你用藥期間最擔心的事，這兩款是對的選擇。"
+              "title": "「天然提升GLP-1」這種訴求開始碰上官司",
+              "body": "Kourtney Kardashian的Lemme品牌今年碰上集體訴訟，質疑其天然提升GLP-1的成分訴求站不住腳。這個品類裡打同樣訴求的產品，我都會抱持一樣的懷疑態度。"
             }
           ]
         }
