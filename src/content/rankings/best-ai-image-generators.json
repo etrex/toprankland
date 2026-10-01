@@ -18689,6 +18689,219 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-10-01",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAccuracy": 9.9,
+            "photorealism": 9.1,
+            "artisticQuality": 8.4,
+            "textRendering": 9.7,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.1,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "nano-banana-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI video News",
+          "url": "https://blog.mean.ceo/ai-video-news-september-2026/",
+          "source": "Mean.CEO"
+        },
+        {
+          "title": "5 Best AI Image-to-Video Converters for Creators in 2026",
+          "url": "https://pctechmag.com/2026/09/5-best-ai-image-to-video-converters-for-creators-in-2026",
+          "source": "PC Tech Magazine"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "GPT Image 2 keeps the top spot here, and nothing I found this week challenges that. Its combination of 9.9 prompt accuracy and 9.7 text rendering is still unmatched among the models I track, and that pairing is what actually matters when you're generating anything with legible text, like a poster, a UI mockup, or packaging.\n\nMidjourney v8 holds second on pure artistic quality. A 9.9 score there isn't inflated flattery; it reflects what happens when you open ten outputs side by side. Midjourney's images carry a visual coherence and stylistic confidence that come from its illustration-first design choices, a different strength than the photorealism focus of models like Flux 2 Pro.\n\nNano Banana Pro and Flux 2 Pro are essentially tied for third and fourth, and that's the right call. Flux wins on photorealism and value, Nano Banana Pro wins on prompt accuracy and text rendering, and which one earns your subscription depends on whether you're chasing a photo-real result or a precise, text-accurate composition.\n\nThe more interesting development this month is structural. Adobe expanded its Firefly-powered Creativity integration into Google Gemini and added new capability extensions inside Claude, so multi-step image editing and graphic design workflows are starting to live inside general chatbots too, alongside dedicated image tools. OpenArt also launched OpenArt Arena, a side-by-side preference benchmark for creative image models, which should make quality claims in this category easier to verify independently going forward.\n\nNone of this moves my order. Adobe Firefly 4 stays at seven: this quarter's gains are about reach and integration, and Firefly's own output quality still needs to close the gap with the leaders before that rank moves up.",
+          "highlights": [
+            {
+              "title": "GPT Image 2's text rendering is still the category's benchmark",
+              "body": "A 9.9 prompt accuracy and 9.7 text rendering combination has no real rival right now, and it's the deciding factor for any job that needs legible text, from posters to packaging to UI mockups."
+            },
+            {
+              "title": "Midjourney v8's artistic coherence is its real selling point",
+              "body": "An illustration-first design approach gives Midjourney a visual confidence and stylistic consistency that photorealism-focused models trade away, and that's a genuinely different strength worth paying for."
+            },
+            {
+              "title": "Flux 2 Pro and Nano Banana Pro solve different problems",
+              "body": "Flux wins on photorealism and value, Nano Banana Pro wins on prompt accuracy and text rendering, so the right pick depends entirely on whether the job needs a photo-real result or a precise, text-accurate composition."
+            },
+            {
+              "title": "Adobe folding Firefly into Gemini and Claude is a distribution move",
+              "body": "Reaching users inside general chatbots is a genuine growth strategy, but Firefly 4's own output quality has to close the gap with the category leaders before its rank climbs."
+            },
+            {
+              "title": "OpenArt Arena gives this category real independent benchmarking",
+              "body": "A side-by-side preference benchmark for creative image models means quality claims across this category should get easier to verify independently from here on out."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "GPT Image 2 這次繼續排第一，這禮拜的消息沒有動搖名次。提示詞精準度 9.9 分加上文字渲染 9.7 分，這個組合還是沒對手，要生成清楚文字的東西，像海報、UI 示意圖或包裝設計，就是關鍵。\n\nMidjourney v8 守住第二，靠純粹的藝術品質。9.9 分是實打實的分數，把輸出攤開來看就知道，Midjourney 的畫面有視覺協調感跟風格自信，來自插畫優先的設計，跟主打寫實的 Flux 2 Pro 走不同路線。\n\nNano Banana Pro 跟 Flux 2 Pro 排第三第四，分數接近，順序合理。Flux 贏在寫實感跟 CP 值，Nano Banana Pro 贏在精準度跟文字渲染，選哪個看你要照片感還是精準構圖。\n\n這個月值得注意的是結構變化，Adobe 把 Firefly 整合延伸到 Gemini，也在 Claude 加了新功能，圖片編輯跟平面設計除了專門工具，也能在聊天機器人裡完成。OpenArt 也推出並排比較的評測平台 OpenArt Arena，品質宣稱之後更容易被驗證。\n\n這些消息都沒讓我想調整排序，Adobe Firefly 4 繼續排第七，這波進展在整合層面，輸出品質要先追上前段班，名次才有機會往前。",
+          "highlights": [
+            {
+              "title": "GPT Image 2 的文字渲染還是業界標竿",
+              "body": "提示詞精準度跟文字渲染雙雙頂尖，做海報、UI 示意圖或包裝設計這種需要清楚文字的工作，選它最省力。"
+            },
+            {
+              "title": "Midjourney v8 贏在美感，這是真本事",
+              "body": "插畫優先的設計取向讓它的畫面協調感跟風格自信特別突出，跟主打寫實的模型走的是不同路線，各有各的戰場。"
+            },
+            {
+              "title": "Flux 2 Pro 跟 Nano Banana Pro 解決的是不同需求",
+              "body": "一個寫實感跟 CP 值強，一個提示詞精準跟文字渲染強，選哪個看你要照片感還是精準構圖。"
+            },
+            {
+              "title": "Adobe 把 Firefly 塞進 Gemini 跟 Claude 是通路策略",
+              "body": "整合進一般聊天機器人能大幅拉高觸及率，不過 Firefly 自己的輸出品質還沒跟上前段班，所以名次沒變。"
+            },
+            {
+              "title": "OpenArt Arena 讓這個領域終於有獨立評測可以對照",
+              "body": "並排比較的評測平台上線後，各家的品質宣稱之後會更容易被驗證，對讀者挑選工具是好事。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

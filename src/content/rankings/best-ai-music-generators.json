@@ -19936,6 +19936,207 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-10-01",
+      "rankings": [
+        {
+          "id": "suno-v5",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "audioQuality": 9.7,
+            "vocalRealism": 9.4,
+            "editingControl": 9.6,
+            "commercialLicense": 8.6,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "elevenlabs-music",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "audioQuality": 9.3,
+            "vocalRealism": 9.7,
+            "editingControl": 8.7,
+            "commercialLicense": 9.9,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "lyria-3-pro",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 8.6,
+            "editingControl": 8.4,
+            "commercialLicense": 9.5,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 7.0,
+            "editingControl": 8.6,
+            "commercialLicense": 9.5,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "udio",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "audioQuality": 9.6,
+            "vocalRealism": 9.5,
+            "editingControl": 9.8,
+            "commercialLicense": 7.5,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "riffusion",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "audioQuality": 8.2,
+            "vocalRealism": 7.8,
+            "editingControl": 8.5,
+            "commercialLicense": 8.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "soundraw",
+          "rank": 7,
+          "score": 7.8,
+          "scores": {
+            "audioQuality": 8.0,
+            "vocalRealism": 6.5,
+            "editingControl": 7.5,
+            "commercialLicense": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aiva",
+          "rank": 8,
+          "score": 7.5,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 6.8,
+            "editingControl": 7.8,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "mubert",
+          "rank": 9,
+          "score": 7.3,
+          "scores": {
+            "audioQuality": 7.5,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "loudly",
+          "rank": 10,
+          "score": 7.0,
+          "scores": {
+            "audioQuality": 7.3,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "boomy",
+          "rank": 11,
+          "score": 6.8,
+          "scores": {
+            "audioQuality": 6.8,
+            "vocalRealism": 6.5,
+            "editingControl": 6.8,
+            "commercialLicense": 8.5,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Suno vs ElevenLabs Music 2026: V6 vs v2.5, Pricing and Licensing",
+          "url": "https://undetectr.com/blog/suno-vs-elevenlabs-music",
+          "source": "Undetectr"
+        },
+        {
+          "title": "ElevenLabs releases a new AI-powered music-generation app",
+          "url": "https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/",
+          "source": "TechCrunch"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Suno keeps the top spot, and its September 9 release of v6 gives me reason to bump its commercial license score up from 8.0 to 8.6. The new model is trained on licensed music, which directly addresses the copyright exposure that made Suno risky for commercial use since launch. It does cap downloads by plan now, a real tradeoff, but removing the legal cloud over the underlying training data matters more for anyone who wants to sell or distribute what they make.\n\nElevenLabs Music holds a strong second, and its own moves this month reinforce why it's the safer commercial pick even against Suno's improvement. ElevenLabs shipped Music v2.5 on September 11 and signed a licensing deal with Universal Music Group, a meaningful signal that major labels now see ElevenLabs as a legitimate commercial partner. Its 9.9 commercial license score already reflected a licensed-data approach from day one, and the Universal deal only strengthens that foundation.\n\nLyria 3 Pro holds third on the combination of audio quality and commercial safety that Google's licensing relationships provide out of the box. It still trails the top two on vocal realism, which keeps it out of the top two.\n\nUdio remains a strong technical performer with the best editing control in the category at 9.8, but its commercial license score of 7.5 still reflects unresolved legal questions around its original training data that Suno and ElevenLabs have both moved past this year.\n\nMy one change this cycle: Suno's overall score moves to 9.5 to reflect the real, verifiable shift to licensed training data. Everything else holds.",
+          "highlights": [
+            {
+              "title": "Suno v6's licensed training data earns a real score bump",
+              "body": "Moving to licensed training data for v6 removes the single biggest commercial risk factor Suno carried since launch, and the 0.6 point jump in commercial license score reflects a verified product change."
+            },
+            {
+              "title": "ElevenLabs' Universal Music deal is the biggest trust signal in the category",
+              "body": "A major label licensing deal signals real commercial confidence from the music industry itself, and combined with Music v2.5's day-one licensed-data design, ElevenLabs has the cleanest commercial story in AI music today."
+            },
+            {
+              "title": "Lyria 3 Pro's safety comes from Google's own licensing muscle",
+              "body": "Built-in licensing relationships give Lyria 3 Pro commercial safety that smaller competitors have to earn through separate deals, even though its vocal realism still trails the category leaders."
+            },
+            {
+              "title": "Udio's technology outruns its legal clarity",
+              "body": "A 9.8 editing control score is the best in this category, and that technical strength is real, but a 7.5 commercial license score means buyers should know exactly what they're licensing before shipping anything made with it commercially."
+            },
+            {
+              "title": "This month's only score change is backed by a verifiable product shift",
+              "body": "I moved Suno's score because v6's licensed training data is a documented, specific change, exactly the bar that should be cleared before any ranking here moves."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Suno 這次繼續排第一，9 月 9 日推出的 v6 讓我把商業授權分數從 8.0 調到 8.6。新模型改用有授權的音樂訓練，直接處理掉 Suno 上線以來最大的著作權風險，下載次數依方案設上限是真實的取捨，但法律疑慮被拿掉，對想靠作品賺錢或對外發布的人更重要。\n\nElevenLabs Music 穩穩守住第二，這個月的動作強化了它在商業用途上更保險的理由。9 月 11 日推出 Music v2.5，還跟環球音樂集團簽下授權合約，這是唱片公司把 ElevenLabs 當成正式商業夥伴的強烈訊號，9.9 分的商業授權本來就走有授權資料路線，這次合作只是再加強基礎。\n\nLyria 3 Pro 排第三，靠音質跟 Google 自家授權關係帶來的商業安全感，兩者加在一起很扎實，人聲真實度還是輸前兩名一截，這也是它卡在第三名的原因。\n\nUdio 技術實力沒話說，編輯控制 9.8 分是這個類別最高，但商業授權只有 7.5，反映原本訓練資料的法律爭議，這部分 Suno 跟 ElevenLabs 今年都處理掉了，Udio 還沒跟上。\n\n這次唯一調整的分數是 Suno，整體分數上修到 9.5，理由是它做了可驗證的授權資料轉換，其他名次跟分數維持不變。",
+          "highlights": [
+            {
+              "title": "Suno v6 改用有授權音樂，分數調升合情合理",
+              "body": "把訓練資料換成有授權的音樂，直接解決 Suno 上線以來最大的商業風險，這次 0.6 分的調整跟著可驗證的產品變化走，理由具體清楚。"
+            },
+            {
+              "title": "ElevenLabs 跟環球音樂的合約是這個領域最大的信任訊號",
+              "body": "唱片公司願意簽授權合約代表音樂產業真心認可這個工具，加上 Music v2.5 本來就走有授權資料的路線，ElevenLabs 現在是商業故事最乾淨的一家。"
+            },
+            {
+              "title": "Lyria 3 Pro 的安全感來自 Google 自己的授權實力",
+              "body": "內建的授權關係讓 Lyria 3 Pro 不用自己另外談合約就有商業安全感，雖然人聲真實度還是輸前段班一截。"
+            },
+            {
+              "title": "Udio 的技術領先，法律問題還沒解決",
+              "body": "編輯控制 9.8 分是這個類別最高，技術實力是真的，但商業授權只有 7.5 分，想拿作品商用的人要搞清楚自己到底在用什麼授權。"
+            },
+            {
+              "title": "這次唯一的分數調整，背後是可查證的產品變化",
+              "body": "會調整 Suno 的分數，是因為 v6 的授權資料轉換是具體、可驗證的事實，這也是這份排行榜調分數該有的門檻。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

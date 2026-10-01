@@ -19221,6 +19221,205 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-10-01",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.7,
+          "scores": {
+            "reasoning": 9.8,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.7,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.5,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "reasoning": 8.9,
+            "coding": 8.6,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "September 2026 AI Model Updates: 20+ releases in two weeks, a 119x price spread and a new $0.10 per million token price floor",
+          "url": "https://local-ai-zone.github.io/blog/September_2026_AI_Model_Updates.html",
+          "source": "Local AI Zone"
+        },
+        {
+          "title": "It's not just you; ChatGPT, Claude, and Grok were all down in confirmed outages",
+          "url": "https://9to5google.com/2026/09/03/chatgpt-claude-grok-outages/",
+          "source": "9to5Google"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "I'm keeping ChatGPT at the top of this list, and the first three weeks of September gave me no reason to second guess that call. OpenAI pushed out GPT-6 Astra, Sol, Luna, and 6.1 Sol in rapid succession, and GPT-6 Luna set a new API price floor of $0.10 per million input tokens. That kind of aggressive distribution, combined with the widest plugin and app ecosystem of any assistant here, is why ChatGPT still wins on breadth for a general-purpose daily driver.\n\nClaude earns its number two spot with real teeth this cycle. Anthropic shipped Opus 5.5 and Sonnet 5.5 on September 22, and on the benchmarks I trust for professional and coding work, Opus 5.5 now leads the pack while costing well under half of GPT-6 Astra through the API. If your daily chatbot use skews toward writing, analysis, or code review, Claude is the sharper tool and the better value.\n\nGemini holds third because Google keeps shipping Flash-tier upgrades that matter for ordinary users. Gemini 3.8 Flash, released September 2, is the first Flash model with a full one million token context window, which means free and cheap tiers now get the kind of long-document handling that used to require a premium plan.\n\nGrok's September 21 launch of Grok 4.7 at $2 and $6 per million tokens keeps it in fourth. It's fast and current with X data, but it still trails the top three on reasoning depth and ecosystem polish.\n\nWorth flagging: ChatGPT, Claude, and Grok all suffered simultaneous outages on September 3, while Gemini stayed up. That's a single data point, not a trend, but if uptime matters to your workflow, it's worth having a backup assistant ready.",
+          "highlights": [
+            {
+              "title": "ChatGPT keeps the breadth advantage",
+              "body": "Four new model releases this month, an aggressive $0.10 per million token price floor on GPT-6 Luna, and the widest plugin and app ecosystem of any assistant here add up to why ChatGPT still wins as the default daily driver."
+            },
+            {
+              "title": "Claude Opus 5.5 is the sharper tool for builders",
+              "body": "Shipped September 22, Opus 5.5 leads the benchmarks I trust most for coding and professional work while costing well under half of GPT-6 Astra through the API, a real win for anyone whose daily use skews toward writing or code."
+            },
+            {
+              "title": "Gemini's Flash tier now punches above its price",
+              "body": "Gemini 3.8 Flash is the first Flash-tier model with a full one million token context window, which pushes long-document handling down into free and cheap plans for the first time."
+            },
+            {
+              "title": "Grok's price only makes sense if you need real-time X data",
+              "body": "Grok 4.7 at $2 and $6 per million tokens is competitively priced and fast, but it still trails the top three on reasoning depth and ecosystem polish, so the value case depends on needing live social data specifically."
+            },
+            {
+              "title": "The September 3 outage is a quiet warning",
+              "body": "ChatGPT, Claude, and Grok all went down at the same time while Gemini stayed up, a reminder that anyone relying on a single chatbot for work should keep a backup option ready."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ChatGPT 這次繼續排第一，九月的動態沒有讓我想改名次。OpenAI 推出 GPT-6 Astra、Sol、Luna 跟 6.1 Sol，Luna 把 API 價格壓到每百萬輸入 token 0.10 美元，加上最廣的外掛生態，讓 ChatGPT 穩坐全能助手的位置。\n\nClaude 排第二這次真的有實力。Anthropic 9 月 22 日推出 Opus 5.5 跟 Sonnet 5.5，在寫程式跟專業工作的測試裡已經第一，API 費用卻不到 GPT-6 Astra 一半，寫作、分析或檢查程式碼的人，Claude 更鋒利也更划算。\n\nGemini 守住第三，9 月 2 日的 Gemini 3.8 Flash 是第一個擁有完整一百萬 token 上下文的 Flash 模型，免費方案也能處理長文件。\n\nGrok 9 月 21 日推出 4.7 版，定價每百萬 token 2 到 6 美元，維持第四，速度快也能抓到 X 平台最新資訊，但推理深度跟生態完整度還是落後前三名。\n\n提醒大家，9 月 3 日 ChatGPT、Claude、Grok 同時掛掉，只有 Gemini 沒事，工作流程依賴聊天機器人的話，手邊備個替代方案會安心很多。",
+          "highlights": [
+            {
+              "title": "ChatGPT 靠生態系的廣度繼續稱王",
+              "body": "OpenAI 這個月一口氣推出四個新模型，Luna 把 API 價格壓到每百萬 token 0.10 美元，外掛跟應用生態還是全場最廣，日常全能助手首選的位置很穩。"
+            },
+            {
+              "title": "Claude Opus 5.5 是寫程式的人該換的工具",
+              "body": "9 月 22 日上線的 Opus 5.5 在專業測試裡拿下寫程式第一名，API 費用不到 GPT-6 Astra 一半，工作內容偏寫作或程式碼的人，Claude 的 CP 值真的比較高。"
+            },
+            {
+              "title": "Gemini 3.8 Flash 把長文件處理下放到免費方案",
+              "body": "一百萬 token 上下文首次出現在 Flash 等級，代表不付費也能丟長文件給它處理，這是 Google 這個月最實用的更新。"
+            },
+            {
+              "title": "Grok 4.7 的價格只適合真的需要即時 X 資訊的人",
+              "body": "每百萬 token 2 到 6 美元不算貴，但推理能力跟生態完整度都還落後前三名，單純要找聊天機器人不建議為了速度犧牲深度。"
+            },
+            {
+              "title": "9 月 3 日大當機提醒大家該有備案",
+              "body": "ChatGPT、Claude、Grok 同時掛掉，只有 Gemini 挺住，工作重度依賴聊天機器人的人，手邊真的該準備第二個選項。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

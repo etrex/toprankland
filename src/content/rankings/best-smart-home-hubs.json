@@ -3866,6 +3866,225 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-10-01",
+      "rankings": [
+        {
+          "id": "home-assistant-green",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "offlineSurvival": 9.8,
+            "localAutomation": 9.7,
+            "radios": 6.0,
+            "matterVersion": 9.0,
+            "apiPolicy": 9.9,
+            "setupEffort": 6.5,
+            "value": 8.6,
+            "twAvailability": 5.5
+          }
+        },
+        {
+          "id": "hubitat-c8-pro",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "offlineSurvival": 9.6,
+            "localAutomation": 9.4,
+            "radios": 9.5,
+            "matterVersion": 9.6,
+            "apiPolicy": 9.2,
+            "setupEffort": 6.8,
+            "value": 8.4,
+            "twAvailability": 4.5
+          }
+        },
+        {
+          "id": "homey-pro-2026",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "offlineSurvival": 9.0,
+            "localAutomation": 9.2,
+            "radios": 9.8,
+            "matterVersion": 8.8,
+            "apiPolicy": 7.6,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 4.0
+          }
+        },
+        {
+          "id": "aqara-hub-m3",
+          "rank": 4,
+          "score": 7.9,
+          "scores": {
+            "offlineSurvival": 7.6,
+            "localAutomation": 7.8,
+            "radios": 8.2,
+            "matterVersion": 8.4,
+            "apiPolicy": 6.8,
+            "setupEffort": 8.8,
+            "value": 8.6,
+            "twAvailability": 8.5
+          }
+        },
+        {
+          "id": "switchbot-hub-3",
+          "rank": 5,
+          "score": 7.2,
+          "scores": {
+            "offlineSurvival": 6.6,
+            "localAutomation": 6.8,
+            "radios": 6.4,
+            "matterVersion": 8.0,
+            "apiPolicy": 7.4,
+            "setupEffort": 9.2,
+            "value": 8.8,
+            "twAvailability": 8.8
+          }
+        },
+        {
+          "id": "aeotec-smart-home-hub",
+          "rank": 6,
+          "score": 6.6,
+          "scores": {
+            "offlineSurvival": 6.8,
+            "localAutomation": 7.4,
+            "radios": 9.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 7.8,
+            "value": 6.4,
+            "twAvailability": 4.2
+          }
+        },
+        {
+          "id": "smartthings-station",
+          "rank": 7,
+          "score": 6.2,
+          "scores": {
+            "offlineSurvival": 5.4,
+            "localAutomation": 6.2,
+            "radios": 5.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 9.0,
+            "value": 8.2,
+            "twAvailability": 6.5
+          }
+        },
+        {
+          "id": "apple-tv-4k",
+          "rank": 8,
+          "score": 6.0,
+          "scores": {
+            "offlineSurvival": 8.4,
+            "localAutomation": 7.0,
+            "radios": 4.5,
+            "matterVersion": 7.6,
+            "apiPolicy": 5.2,
+            "setupEffort": 9.4,
+            "value": 4.2,
+            "twAvailability": 9.5
+          }
+        },
+        {
+          "id": "amazon-echo-hub",
+          "rank": 9,
+          "score": 5.6,
+          "scores": {
+            "offlineSurvival": 4.2,
+            "localAutomation": 5.0,
+            "radios": 8.4,
+            "matterVersion": 7.4,
+            "apiPolicy": 4.4,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 3.5
+          }
+        },
+        {
+          "id": "google-home-speaker",
+          "rank": 10,
+          "score": 5.2,
+          "scores": {
+            "offlineSurvival": 3.8,
+            "localAutomation": 4.4,
+            "radios": 5.2,
+            "matterVersion": 7.0,
+            "apiPolicy": 4.2,
+            "setupEffort": 9.2,
+            "value": 6.6,
+            "twAvailability": 3.2
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Apple's smart home hub could arrive next month",
+          "url": "https://www.engadget.com/2273039/apples-smart-home-hub-could-arrive-next-month/",
+          "source": "Engadget"
+        },
+        {
+          "title": "10 smart home launches from September 2026, including Eufy, Philips Hue, Tado, Aqara and more",
+          "url": "https://www.t3.com/home-living/smart-home/smart-home-launches-september-2026",
+          "source": "T3"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Home Assistant Green holds the top spot for the same reason it did yesterday: nothing else here lets you own your automation data outright while staying approachable enough for a weekend setup. Reports this week point to Apple readying a dedicated smart home hub for an October 13 announcement, a device meant to recognize who's in the room and hand off control of thermostats and locks automatically. That's a real signal this category is heating up, but Apple TV 4K stays at eighth until an actual standalone hub ships and I can run it through local-automation testing. Shipped hardware moves rankings, announcements don't.\n\nHubitat Elevation C-8 Pro keeps second on the strength of its radio stack. Z-Wave, Zigbee, and Thread all live on the board itself, so there's no hunting for a USB dongle after setup, and its local engine survives an internet outage without blinking. Homey Pro holds third because its radio coverage is the widest in this lineup, even though its API access costs more than I'd like.\n\nAqara had a busy September, shipping both a new hub with an integrated presence sensor and the Thermostat Hub W200, a four-in-one device that doubles as a smart home controller. None of that changes Aqara Hub M3's fourth-place finish today, since presence sensing and thermostat control are different jobs than whole-home automation, but it confirms Aqara is building toward a broader ecosystem play worth watching through Q4.\n\nSwitchBot Hub 3 remains the easiest on-ramp for anyone who already owns a pile of mismatched smart plugs and just wants them talking to each other without a learning curve.",
+          "highlights": [
+            {
+              "title": "Home Assistant Green earns first by refusing to depend on anyone's cloud",
+              "body": "A 9.9 API policy score and 9.8 offline survival score mean your automations keep running, and keep being yours, even if the company behind a competing hub shuts its servers down tomorrow."
+            },
+            {
+              "title": "Hubitat's radio trio removes the single biggest hub headache",
+              "body": "A 9.5 radios score reflects built-in Zigbee, Z-Wave, and Thread on the board itself, so you're not three months into setup realizing you need a separate dongle for half your devices."
+            },
+            {
+              "title": "Apple's rumored hub is still just an announcement date",
+              "body": "An October 13 reveal is real news, but Apple TV 4K's eighth-place finish stands until a genuine standalone hub ships and earns its own local-automation score."
+            },
+            {
+              "title": "Aqara's September launches signal a broader ecosystem push this quarter",
+              "body": "A new presence-sensing hub and the four-in-one Thermostat Hub W200 are different products solving different problems, which is why Aqara Hub M3's own score holds steady at 7.9."
+            },
+            {
+              "title": "SwitchBot Hub 3 wins on setup time, not raw capability",
+              "body": "A 9.2 setup-effort score, the best outside Apple and Amazon's ecosystem plays, makes it the right call for anyone who wants results this weekend over maximum control."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Home Assistant Green 繼續坐穩第一，理由跟昨天一樣，想要完全掌握自己的自動化資料，又不想犧牲好上手的設定流程，這份名單裡真的沒有對手。這星期最大的消息是蘋果傳出要在10月13日發表自己的智慧家庭中樞，據說能辨識誰站在房間裡，自動切換溫控器跟門鎖的控制權。這個方向確實值得關注，但Apple TV 4K今天還是維持第八名，等蘋果真的推出獨立中樞、本地自動化經過實測後才會調整名次。發表會不會動排名，實機才算數。\n\nHubitat Elevation C-8 Pro守住第二名，主機板直接內建Z-Wave、Zigbee跟Thread，不用另外插轉接器，斷網後本地自動化照樣順暢。Homey Pro排第三，無線電涵蓋範圍是這裡最廣的，只是API存取費一直讓我覺得偏貴。\n\nAqara這個月也很忙，推出內建人體感測器的新中樞，還有四合一的Thermostat Hub W200。這不會改變Aqara Hub M3第四名的位置，但看得出Aqara第四季要往更完整的生態系布局，值得持續觀察。\n\nSwitchBot Hub 3依然是入門首選，家裡一堆不同品牌智慧插座的人，不用學太多就能讓它們乖乖溝通。",
+          "highlights": [
+            {
+              "title": "Home Assistant Green贏在不靠任何人的雲端",
+              "body": "API政策9.9分、離線存活9.8分，這兩個分數代表你的自動化規則永遠自己說了算，就算對手中樞背後的公司明天關掉伺服器，你家的燈還是會照常運作。"
+            },
+            {
+              "title": "Hubitat三合一無線電解決最常見的頭痛問題",
+              "body": "無線電評分9.5分，主機板直接內建Zigbee、Z-Wave跟Thread，設定到一半才發現某個裝置要額外買轉接器的情況，在這台上完全不會發生。"
+            },
+            {
+              "title": "蘋果傳聞中的中樞目前還停留在發表會日期階段",
+              "body": "10月13日的發表會日期確實是真消息，但Apple TV 4K第八名的位置維持不變，等真正的獨立中樞上市、本地自動化分數經過實測，排名才會跟著調整。"
+            },
+            {
+              "title": "Aqara九月的新品代表的是生態系布局野心",
+              "body": "新的存在感測中樞跟四合一的Thermostat Hub W200，解決的是不同問題，這也是為什麼Aqara Hub M3自己的分數依然維持在7.9分。"
+            },
+            {
+              "title": "SwitchBot Hub 3靠的是設定速度取勝",
+              "body": "設定難易度9.2分，除了蘋果跟亞馬遜自家生態系之外最高分，這台就是適合想這個週末就搞定、不想研究太多的人。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

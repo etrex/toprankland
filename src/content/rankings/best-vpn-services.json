@@ -19362,6 +19362,171 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-10-01",
+      "rankings": [
+        {
+          "id": "protonvpn",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "mullvad",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Is Your Password Out There? Massive 2026 Breach Hits Major Tech Platforms",
+          "url": "https://www.pcmatic.com/blog/is-your-password-out-there-massive-2026-breach-hits-major-tech-platforms/",
+          "source": "PC Matic"
+        },
+        {
+          "title": "Hottest cybersecurity open-source tools of the month: September 2026",
+          "url": "https://helpnetsecurity.com/2026/09/29/hottest-cybersecurity-open-source-tools-of-the-month-september-2026",
+          "source": "Help Net Security"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Proton VPN keeps the top spot, and the security climate heading into October makes its combination of privacy and network size look even more justified. Credential and session-cookie theft kept climbing through September, with researchers tracking billions of compromised login records circulating from infostealer logs, some of which included session tokens capable of bypassing two-factor authentication entirely. A VPN doesn't stop malware already on your device from stealing saved logins, but Proton's 9.8 privacy score and audited no-logs policy mean the one thing it can control, what happens to your traffic in transit, is handled about as well as anything on the market.\n\nMullvad holds second on the same privacy logic, and its anonymous account system, no email required, remains the most privacy-maximalist approach among mainstream options, even if its 8.0 server network score trails the bigger commercial players.\n\nNordVPN stays third on raw speed and network size, a 9.6 score on both fronts, which is the right tradeoff for anyone who wants strong practical security without giving up performance for streaming or large file transfers.\n\nIVPN holds fourth with a 9.5 privacy score that rivals the top two, built on the same philosophy of minimal data collection and transparent ownership, even with a smaller server footprint than NordVPN or ExpressVPN.\n\nNothing in this month's security news points to a specific VPN failure or breach that would justify reordering anyone here. The broader lesson from September's credential theft numbers applies to every tool in this category equally: pair your VPN with a password manager that supports passkeys, since a VPN's job is protecting your connection, and keeping the device itself clean falls to your antivirus and good password hygiene.",
+          "highlights": [
+            {
+              "title": "Proton's audited no-logs policy matters more as credential theft rises",
+              "body": "Session-cookie theft that bypasses two-factor authentication is a device-level problem, but Proton's audited no-logs policy still earns its 9.8 privacy score for the part of your security it actually controls, your traffic in transit."
+            },
+            {
+              "title": "Mullvad's anonymous accounts are still the privacy ceiling",
+              "body": "Signing up with no email at all remains the strongest privacy commitment of any mainstream VPN, and that design choice is worth the tradeoff of a smaller server network for anyone who treats anonymity as non-negotiable."
+            },
+            {
+              "title": "NordVPN is the right call when speed can't be sacrificed",
+              "body": "A 9.6 score on both speed and network size is what makes NordVPN the pick for streaming, large downloads, or any workflow where a slow VPN defeats the purpose of using one at all."
+            },
+            {
+              "title": "IVPN proves strong privacy doesn't require a huge server network",
+              "body": "A 9.5 privacy score on a smaller server footprint shows that minimal data collection and transparent ownership don't require NordVPN or ExpressVPN's scale to be credible."
+            },
+            {
+              "title": "A VPN and a password manager solve different halves of this month's security problem",
+              "body": "September's credential theft numbers are a reminder that a VPN and a password manager with passkey support cover different parts of your security, and skipping either one leaves a real gap."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Proton VPN 這次繼續排第一，進入十月前的資安氛圍讓它隱私跟網路規模兼顧的組合更顯得合理。9 月帳密跟 session cookie 被偷的情況持續升溫，研究人員追蹤到竊密軟體紀錄流出數十億筆外洩登入資料，一部分連雙重驗證都能繞過。VPN 沒辦法阻止感染裝置的惡意軟體偷走登入資料，但 Proton 9.8 分的隱私分數跟經稽核的無紀錄政策，代表它能掌控的連線傳輸這塊，處理得跟任何對手一樣好。\n\nMullvad 排第二也是同樣邏輯，連信箱都不用註冊的匿名帳號系統，是主流選項裡隱私做到最極致的做法，就算伺服器網路規模只有 8.0 分，輸給較大商業對手。\n\nNordVPN 守住第三，靠速度跟網路規模都拿下 9.6 分，想兼顧安全性又不想在串流或大檔案傳輸犧牲效能的人，這個取捨是對的。\n\nIVPN 排第四，9.5 分的隱私分數能跟前兩名抗衡，靠的是同一套最小化資料蒐集跟透明所有權的理念，就算伺服器規模比 NordVPN 或 ExpressVPN 小。\n\n這個月沒有資安新聞指向特定 VPN 廠商的失誤或外洩，不需要調整名次。9 月帳密外洩數字提醒大家，VPN 要搭配支援通行密鑰的密碼管理工具一起用，連線交給 VPN，裝置乾淨則靠防毒軟體跟良好密碼習慣。",
+          "highlights": [
+            {
+              "title": "帳密竊取升溫讓 Proton 稽核過的無紀錄政策更有意義",
+              "body": "繞過雙重驗證的 session cookie 竊取是裝置端的問題，但 Proton 經過稽核的無紀錄政策，在它真正能掌控的連線傳輸這塊，9.8 分的隱私分數還是實至名歸。"
+            },
+            {
+              "title": "Mullvad 的匿名帳號還是隱私天花板",
+              "body": "註冊完全不用信箱，是主流 VPN 裡隱私承諾做得最徹底的設計，為了這份極致匿名性，犧牲一點伺服器規模對重視隱私的人來說很值得。"
+            },
+            {
+              "title": "速度不能妥協的話，NordVPN 是對的選擇",
+              "body": "速度跟網路規模雙雙拿下 9.6 分，串流、大檔案傳輸或任何怕慢的工作流程，NordVPN 都能兼顧安全跟效能。"
+            },
+            {
+              "title": "IVPN 證明隱私做得好不一定要靠龐大的伺服器網路",
+              "body": "伺服器規模比較小，但 9.5 分的隱私分數證明最小化資料蒐集跟透明所有權這套理念，不需要 NordVPN 或 ExpressVPN 的規模也能站得住腳。"
+            },
+            {
+              "title": "VPN 跟密碼管理工具各自負責資安的一半",
+              "body": "9 月的帳密外洩數字提醒大家，VPN 跟支援通行密鑰的密碼管理工具各自負責不同的防護範圍，少了哪一個都會留下真正的破口。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
