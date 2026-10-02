@@ -21,16 +21,16 @@
   "competitors": [
     {
       "id": "suno-v5",
-      "name": "Suno V5",
+      "name": "Suno v5.5",
       "brand": "Suno",
       "url": "https://suno.com/",
       "i18n": {
         "en": {
-          "description": "The category leader in 2026. Suno V5 holds the top ELO score for audio quality, and the Premier plan ships Suno Studio, an AI-native DAW with stem editing and MIDI export.",
+          "description": "Suno's v5.5 model shifts the focus from raw audio quality to personalization: Voices lets you sing on your own tracks, Custom Models train on six or more of your uploads to learn your sound, and My Taste adapts every Magic Wand suggestion to your listening history.",
           "priceRange": "$10/mo Pro, $30/mo Premier"
         },
         "zh-tw": {
-          "description": "2026 年 AI 音樂生成的綜合冠軍。Suno V5 在音質 ELO 分數上拿下第一，Premier 方案還附 Suno Studio，這是目前唯一能在同個工具裡編輯分軌、匯出 MIDI 的 AI 原生 DAW。",
+          "description": "v5.5把重點從單純的音質拉到個人化，Voices可以直接用你自己的聲音去唱生成的曲子，Custom Models丟六首以上自己的作品進去就能訓練出專屬你音色的模型，My Taste還會記住你平常聽什麼風格去調整每次的建議。老實說這個方向走得很聰明，因為音質已經很強了，能再往前的空間反而是在個人化這塊。",
           "priceRange": "約 NT$300/月 Pro，約 NT$910/月 Premier"
         }
       }
@@ -85,17 +85,17 @@
     },
     {
       "id": "riffusion",
-      "name": "Riffusion",
-      "brand": "Riffusion",
-      "url": "https://www.riffusion.com/",
+      "name": "Google Flow Music",
+      "brand": "Google",
+      "url": "https://www.flowmusic.app/",
       "i18n": {
         "en": {
-          "description": "The developer-friendly option with an API-first product. Starter plan is $6 per month for around 600 songs, all royalty-free for personal and commercial use.",
-          "priceRange": "$6/mo Starter"
+          "description": "The product formerly known as Riffusion is now Google Flow Music, running on Google's Lyria 3.5 model behind a conversational Producer agent that can brainstorm lyrics, generate full songs, remix sections, and export stems in one workflow.",
+          "priceRange": "Free, $6/mo Starter, $18/mo Plus, $48/mo Member"
         },
         "zh-tw": {
-          "description": "開發者導向的選擇，API 優先設計。Starter 方案 $6 折合台幣不到兩百，每月可生成約 600 首，全部免版稅可商用，這個價位帶最便宜。",
-          "priceRange": "約 NT$190/月 Starter"
+          "description": "原本的Riffusion先變成Producer.ai，2月又被Google收購，現在直接叫Google Flow Music，底層換成Lyria 3.5模型，還多了一個對話式的Producer助手可以幫你想歌詞、生成完整歌曲、改個別段落、輸出分軌。功能確實變強了，不過老玩家反而有點不買單，覺得介面跟調性都跟以前不一樣了。",
+          "priceRange": "免費方案，約 NT$190/月 Starter，約 NT$560/月 Plus，約 NT$1,490/月 Member"
         }
       }
     },
@@ -192,6 +192,22 @@
         "zh-tw": {
           "description": "Google DeepMind 在 2026 年初推出的 Lyria 3 Pro，能生成最長 3 分鐘、帶完整段落結構的曲子，從前奏到副歌到橋段都能控制。所有輸出都有 SynthID 浮水印，需要證明 AI 出處的場景特別實用，老實說，光是綁在 Gemini 生態系裡，分發量就贏過大半競品。",
           "priceRange": "Gemini app 免費，Vertex AI 企業洽談"
+        }
+      }
+    },
+    {
+      "id": "happy-shrimp",
+      "name": "Happy Shrimp",
+      "brand": "Alibaba",
+      "url": "https://happyshrimpmusic.com/",
+      "i18n": {
+        "en": {
+          "description": "Alibaba's entry generates lyrics, melody, arrangement, and vocals from a single natural-language prompt in one pass, understanding music-theory terms directly so a plain description is enough to work with.",
+          "priceRange": "$14.90/mo Basic, $32.90/mo Premium"
+        },
+        "zh-tw": {
+          "description": "阿里巴巴做的這套，你丟一句話進去，歌詞、旋律、編曲、人聲一次生成，不用像其他工具那樣拆步驟慢慢調，而且聽得懂音樂理論的專業詞彙。目前官網寫的是用第三方模型頂著先上線，正式版還在路上，建議先放進觀察名單就好。",
+          "priceRange": "約 NT$480/月 Basic，約 NT$1,060/月 Premium"
         }
       }
     }
@@ -20133,6 +20149,211 @@
             {
               "title": "這次唯一的分數調整，背後是可查證的產品變化",
               "body": "會調整 Suno 的分數，是因為 v6 的授權資料轉換是具體、可驗證的事實，這也是這份排行榜調分數該有的門檻。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-10-02",
+      "rankings": [
+        {
+          "id": "suno-v5",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "audioQuality": 9.7,
+            "vocalRealism": 9.4,
+            "editingControl": 9.6,
+            "commercialLicense": 8.6,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "elevenlabs-music",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "audioQuality": 9.3,
+            "vocalRealism": 9.7,
+            "editingControl": 8.7,
+            "commercialLicense": 9.9,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "lyria-3-pro",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 8.6,
+            "editingControl": 8.4,
+            "commercialLicense": 9.5,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 7.0,
+            "editingControl": 8.6,
+            "commercialLicense": 9.5,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "udio",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "audioQuality": 9.6,
+            "vocalRealism": 9.5,
+            "editingControl": 9.8,
+            "commercialLicense": 7.5,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "riffusion",
+          "rank": 6,
+          "score": 8.1,
+          "scores": {
+            "audioQuality": 8.3,
+            "vocalRealism": 7.9,
+            "editingControl": 8.7,
+            "commercialLicense": 8.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "happy-shrimp",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 7.5,
+            "editingControl": 8.5,
+            "commercialLicense": 7.0,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "soundraw",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "audioQuality": 8.0,
+            "vocalRealism": 6.5,
+            "editingControl": 7.5,
+            "commercialLicense": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aiva",
+          "rank": 9,
+          "score": 7.5,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 6.8,
+            "editingControl": 7.8,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "mubert",
+          "rank": 10,
+          "score": 7.3,
+          "scores": {
+            "audioQuality": 7.5,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "loudly",
+          "rank": 11,
+          "score": 7.0,
+          "scores": {
+            "audioQuality": 7.3,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "boomy",
+          "rank": 12,
+          "score": 6.8,
+          "scores": {
+            "audioQuality": 6.8,
+            "vocalRealism": 6.5,
+            "editingControl": 6.8,
+            "commercialLicense": 8.5,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Riffusion Is Now Google Flow Music: Features & Pricing",
+          "url": "https://www.therundown.ai/tools/riffusion",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Alibaba Launches AI Music Model HappyShrimp 1.0 for Creative Music Production",
+          "url": "https://www.gurufocus.com/news/9038420/alibaba-launches-ai-music-model-happy-shrimp-10-for-creative-music-production",
+          "source": "GuruFocus"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Suno holds the top spot again, and v5.5's March update explains why I'm not worried about it slipping. The model shifts from chasing raw audio fidelity, which was already excellent, toward personalization: Voices lets you sing on your own generations, Custom Models learn your sound from six uploaded tracks, and My Taste quietly tunes every suggestion to your listening habits. That's the right move when the audio quality gap to the field has already narrowed.\n\nThe biggest story this cycle belongs to Riffusion, which no longer exists under that name. It became Producer.ai, then Google acquired it in February and relaunched it as Google Flow Music, running on Lyria 3.5 behind a conversational Producer agent that drafts lyrics, generates full songs, and exports stems in one session. I'm giving it a modest score bump to 8.1 for the genuinely stronger feature set, but I'm holding it below Udio because longtime users describe the new interface as worse at following prompts than what it replaced. Google has the infrastructure to fix that; it hasn't yet.\n\nHappy Shrimp enters the ranking at 7.9. Alibaba's model composes lyrics, melody, arrangement, and vocals from a single prompt and understands music-theory terms natively, which is a genuinely different approach from the component-by-component tools above it. I'm ranking it conservatively because the site itself says it's running on third-party models while the official version finishes integration. Worth watching, not worth building a workflow around yet.\n\nUdio still earns my recommendation for anyone who needs clean commercial licensing. Universal, Warner, Merlin, and Kobalt have all signed distribution deals with it, and that kind of label cover matters more than a fractional editing-control edge once you're publishing for money.",
+          "highlights": [
+            {
+              "title": "Suno v5.5 bets on personalization now that audio quality is a solved problem",
+              "body": "Voices, Custom Models, and My Taste all point the same direction: making the output sound like you, building on an audio-quality baseline that's already excellent. That's the correct next move once a 9.7 audio quality score leaves little room to climb."
+            },
+            {
+              "title": "Google Flow Music is Riffusion's most capable version yet, even if it doesn't feel like Riffusion anymore",
+              "body": "Lyria 3.5 and the new Producer agent make this a stronger tool on paper. I'm scoring the capability honestly while keeping it below Udio until the prompt-following complaints from longtime users get addressed."
+            },
+            {
+              "title": "Happy Shrimp's one-prompt full-song generation is the most interesting new approach this cycle",
+              "body": "Composing lyrics, melody, arrangement, and vocals in a single pass is a real architectural departure from tools that stack separate steps together. I'm ranking it 7th, with room to climb once it moves off the third-party models it currently runs on."
+            },
+            {
+              "title": "Udio is still the safest choice for anyone monetizing their output",
+              "body": "Signed deals with Universal, Warner, Merlin, and Kobalt give Udio a commercial-licensing clarity that matters more than any single feature once real money is involved."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Suno繼續守住第一，3月那次v5.5更新就是原因。重點從音質轉向個人化，Voices可以用自己的聲音去唱AI生成的曲子，Custom Models丟六首自己的作品進去就能練出專屬音色，My Taste還會默默記住你平常聽什麼風格去調整建議。老實說音質已經強到快到頂了，這時候往個人化走才是對的方向。\n\n這次最大的變化是Riffusion，這個名字已經不存在了。先變成Producer.ai，2月被Google收購後改名叫Google Flow Music，底層換成Lyria 3.5，還加了一個對話式的Producer助手可以幫你寫歌詞、生成完整歌曲、一次輸出分軌。功能確實變強了，所以我把分數小幅調到8.1，但還是排在Udio後面，因為不少老用戶反映新介面理解指令的能力反而比以前差。Google有技術底子可以修，只是現在還沒修好。\n\nHappy Shrimp這次新進榜，排第7。阿里巴巴做的這套一句話就能把歌詞、旋律、編曲、人聲一次生成完，還聽得懂音樂理論的專業用語，跟上面那些要拆步驟慢慢調的工具走的是完全不同的路線。我排得比較保守，因為官網自己寫目前是用第三方模型頂著，正式版還在整合中，值得關注但先別急著依賴它。\n\n如果你要靠AI生成的音樂賺錢，Udio還是我最推薦的選擇。Universal、Warner、Merlin、Kobalt都跟它簽了授權合作，這種唱片公司背書，比起編輯功能多那一點點優勢，在要正式發行的時候重要得多。",
+          "highlights": [
+            {
+              "title": "音質已經打到頂了，Suno v5.5乾脆賭個人化",
+              "body": "Voices、Custom Models、My Taste三個功能都指向同一件事，讓生成的音樂帶有你自己的味道，建立在本來就很強的音質基礎上。9.7分的音質分數已經沒什麼往上的空間，這時候轉彎是對的判斷。"
+            },
+            {
+              "title": "Google Flow Music是Riffusion史上最強的版本，但已經不像Riffusion了",
+              "body": "Lyria 3.5加上新的Producer助手讓這個工具在紙面上變強了。我誠實地把能力分數調高，但在老用戶反映跟指令理解變差的問題解決之前，排名還是留在Udio後面。"
+            },
+            {
+              "title": "Happy Shrimp一句話生成完整歌曲，是這次最有意思的新方向",
+              "body": "歌詞、旋律、編曲、人聲在同一個流程裡一次生成完畢，這是架構上真正的不同。我先排第7，等它脫離第三方模型、正式版上線後再往上調。"
+            },
+            {
+              "title": "要靠AI音樂賺錢，Udio還是最穩的選擇",
+              "body": "跟Universal、Warner、Merlin、Kobalt都簽了授權合作，這種版權清白程度，一旦牽涉到正式發行跟賺錢，比任何單一功能優勢都重要。"
             }
           ]
         }
