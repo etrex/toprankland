@@ -26554,6 +26554,228 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-10-03",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.7,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "codeQuality": 9.2,
+            "contextWindow": 8.2,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.6,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.2,
+            "valueForMoney": 6.8
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "LLM/AI Changelog - ChatGPT, Gemini, Perplexity & Copilot Release Notes",
+          "url": "https://reconn-ai.com/llm-changelog.php",
+          "source": "Reconn AI"
+        },
+        {
+          "title": "Claude vs ChatGPT vs Gemini vs Grok (September 2026)",
+          "url": "https://aitoolsreview.co.uk/insights/claude-vs-chatgpt-gemini-grok",
+          "source": "AI Tools Review"
+        },
+        {
+          "title": "Think your AI chatbot is up to date?",
+          "url": "https://www.tomsguide.com/ai/think-your-ai-chatbot-is-up-to-date-here-is-how-stale-chatgpt-claude-and-gemini-actually-are",
+          "source": "Tom's Guide"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code keeps the top spot, and the clearest validation this cycle is a pure cost and capability comparison. Claude Opus 5.5 now benchmarks as the strongest model available for autonomous multi file work and coding specifically, and it runs for well under half the API price of GPT-6 Astra, the model behind OpenAI Codex's second place finish. That combination shows up directly in Claude Code's 9.2 value for money score alongside a 9.8 code quality score, proof that capability and price can move in the same direction. OpenAI didn't stand still either, shipping an Agents API that lets any developer build long running coding agents that use tools, manage files, and execute code over extended sessions, the kind of infrastructure that should keep pushing Codex's 9.6 agentic capability score higher through the rest of this year. Cursor holds third with the best IDE integration score in this entire list at 9.6, and that's still the right call for anyone whose workflow depends on tight editor integration over raw model strength. Google Antigravity and Google Jules round out the top five, both built around agent orchestration, a different job than the single shot code generation Claude Code and Cursor focus on. If you're picking a coding assistant today, the model underneath still matters more than the wrapper around it, and right now that model is Opus 5.5.",
+          "highlights": [
+            {
+              "title": "Opus 5.5 Wins on Cost and Capability",
+              "body": "Claude Opus 5.5 benchmarks as the strongest coding model available and runs for well under half the API price of GPT-6 Astra, the model behind OpenAI Codex."
+            },
+            {
+              "title": "OpenAI's Agents API Raises the Ceiling",
+              "body": "New infrastructure for long running coding agents that manage files and execute code should keep pushing Codex's agentic capability score higher this year."
+            },
+            {
+              "title": "Cursor Still Wins on Integration",
+              "body": "A 9.6 IDE integration score, the best in this ranking, keeps Cursor the right call for anyone whose workflow depends on tight editor tooling."
+            },
+            {
+              "title": "Google's Entries Play a Different Game",
+              "body": "Antigravity and Jules are built around agent orchestration, a different job than the single shot code generation that tops this list."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code 還是穩坐冠軍，這次最直接的證明是成本跟能力的純粹對比。Claude Opus 5.5在多檔案的自主開發跟程式撰寫上，實測是目前最強的模型，API價格卻只要GPT-6 Astra 的一半不到，而GPT-6 Astra 正是排名第二的OpenAI Codex 背後的模型。這個組合直接反映在Claude Code 的分數上,9.2分的性價比加上9.8分的程式品質，證明能力跟價格是可以同時兼顧的。\n\nOpenAI這邊也沒閒著，推出了Agents API,讓任何開發者都能建立長時間運作的開發代理，自己呼叫工具、管理檔案、執行程式碼，這類基礎設施接下來應該會持續把Codex 的 agentic 能力分數往上推。Cursor 守住第三名,9.6分的IDE整合是整張榜最高的，對那些工作流程非常依賴編輯器整合體驗的人來說，這依然是對的選擇。Google 的Antigravity 跟Jules 佔據第四第五名，走的是代理協作這條路線，跟這張榜前段主打的單次程式生成是不同的任務。如果你現在要選一款程式開發助理，底層用的模型依然比外層包裝重要，而現在那個模型就是Opus 5.5。",
+          "highlights": [
+            {
+              "title": "Opus 5.5在成本與能力上雙贏",
+              "body": "Claude Opus 5.5在程式開發上的實測表現是目前最強的，API價格卻只要GPT-6 Astra 的一半不到，而GPT-6 Astra 正是OpenAI Codex 背後的模型。"
+            },
+            {
+              "title": "OpenAI的Agents API拉高天花板",
+              "body": "能管理檔案、執行程式碼的長時間開發代理基礎設施，接下來應該會持續把Codex 的 agentic 能力分數往上推。"
+            },
+            {
+              "title": "Cursor 依然贏在整合體驗",
+              "body": "9.6分的IDE整合是這張榜最高的，對工作流程非常依賴編輯器整合體驗的人來說，這依然是對的選擇。"
+            },
+            {
+              "title": "Google 的產品走不同的路線",
+              "body": "Antigravity 跟Jules 走的是代理協作路線，跟這張榜前段主打的單次程式生成是不同的任務。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
