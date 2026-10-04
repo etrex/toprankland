@@ -55,7 +55,7 @@
       "id": "bose-qce2",
       "name": "Bose QuietComfort Earbuds II",
       "brand": "Bose",
-      "url": "https://www.bose.com/en_us/products/headphones/earbuds/quietcomfort-earbuds-ii.html",
+      "url": "https://www.bose.com/pxp/bose-quietcomfort-earbuds-ii",
       "i18n": {
         "en": {
           "priceRange": "$299",
@@ -71,7 +71,7 @@
       "id": "samsung-buds3-pro",
       "name": "Samsung Galaxy Buds 3 Pro",
       "brand": "Samsung",
-      "url": "https://www.samsung.com/global/galaxy/galaxy-buds/",
+      "url": "https://www.samsung.com/uk/audio-sound/galaxy-buds/galaxy-buds3-pro-silver-sm-r630nzaaeua/",
       "i18n": {
         "en": {
           "priceRange": "$249",
@@ -101,17 +101,17 @@
     },
     {
       "id": "sennheiser-mtw4",
-      "name": "Sennheiser MOMENTUM True Wireless 4",
+      "name": "Sennheiser MOMENTUM True Wireless 5",
       "brand": "Sennheiser",
-      "url": "https://us.sennheiser-hearing.com/products/momentum-true-wireless-4",
+      "url": "https://us.sennheiser-hearing.com/products/momentum-true-wireless-5",
       "i18n": {
         "en": {
           "priceRange": "$299",
-          "description": "Audiophile-grade TWS with aptX Lossless and 7.5h battery"
+          "description": "Replaceable batteries in both the earbuds and the case fix the one flaw that always killed TWS earbuds after two years, and Dolby Atmos head tracking plus Bluetooth 6.0 round out a flagship priced the same as its predecessor."
         },
         "zh-tw": {
           "priceRange": "NT$10,990",
-          "description": "aptX Lossless 無損藍牙搭配發燒友級調音，音質取向非常鮮明，聽古典樂或爵士的人戴上去有種聲音回到正軌的感覺。7.5 小時續航，台幣九千多的售價主要是在為那個聲音特性買單。"
+          "description": "MOMENTUM True Wireless 5 最狠的升級是耳機跟充電盒的電池都做成可以換的，等於解決了真無線耳機用兩年電池衰退就得整組換掉的痛點。還加上 Dolby Atmos 動態頭部追蹤跟藍牙 6.0，定價跟上一代一樣沒漲，台灣公司貨賣 NT$10,990。"
         }
       }
     },
@@ -149,17 +149,17 @@
     },
     {
       "id": "beats-fit-pro",
-      "name": "Beats Fit Pro",
+      "name": "Powerbeats Fit",
       "brand": "Beats",
-      "url": "https://www.beatsbydre.com/earbuds/beats-fit-pro",
+      "url": "https://www.beatsbydre.com/earbuds/powerbeats-fit",
       "i18n": {
         "en": {
           "priceRange": "$199",
-          "description": "Sport-fit with Apple H1 chip, spatial audio, and wing-tip design"
+          "description": "Powerbeats Fit keeps the secure wingtip fit that made Beats Fit Pro a gym staple, now with a 20 percent more flexible wingtip and a case 17 percent smaller, at the same $199.99 price as before."
         },
         "zh-tw": {
-          "priceRange": "NT$6,500",
-          "description": "翼形耳掛設計搭載 Apple H1 晶片，支援空間音訊和主動降噪。運動時固定感紮實，蘋果裝置間切換流暢，台幣六千多買到的是穩固佩戴加上 H1 的整合體驗。"
+          "priceRange": "約 NT$6,990",
+          "description": "Powerbeats Fit 延續了 Beats Fit Pro 耐操的運動耳掛設計，這代耳掛彈性多了兩成，充電盒也縮小了快兩成，美國定價跟上一代一樣是 199.99 美元，台灣市場價格約 NT$6,990。"
         }
       }
     },
@@ -336,6 +336,22 @@
         "zh-tw": {
           "description": "充電盒直接做成觸控螢幕還能當 AI 錄音筆，自適應 ANC 到位、續航拉到 40 小時，這種功能量在這個價位算是很敢給的一款。",
           "priceRange": "約 NT$6,990"
+        }
+      }
+    },
+    {
+      "id": "bose-quietcomfort-ultra-earbuds-2nd-gen",
+      "name": "QuietComfort Ultra Earbuds (2nd Gen)",
+      "brand": "Bose",
+      "url": "https://www.bose.com/p/earbuds/bose-quietcomfort-ultra-earbuds-2nd-gen/QCUE2-HEADPHONEIN.html",
+      "i18n": {
+        "en": {
+          "priceRange": "$299",
+          "description": "The QuietComfort Ultra Earbuds (2nd Gen) push Bose's noise cancellation further still, smoothing out sudden noise spikes that used to punch through, while holding on to the punchy, exciting sound signature Bose earbuds are known for."
+        },
+        "zh-tw": {
+          "priceRange": "NT$9,500",
+          "description": "QuietComfort Ultra Earbuds 第二代把 Bose 的降噪功力再往上推一層，連突然冒出來的噪音尖峰都能被抹平，聲音調性還是一樣帶勁有活力，長途飛行戴起來特別有感。"
         }
       }
     }
@@ -22300,8 +22316,20 @@
           }
         },
         {
-          "id": "bose-qce2",
+          "id": "bose-quietcomfort-ultra-earbuds-2nd-gen",
           "rank": 4,
+          "score": 8.9,
+          "scores": {
+            "sound": 9.0,
+            "anc": 9.6,
+            "battery": 7.5,
+            "comfort": 9.0,
+            "value": 7.8
+          }
+        },
+        {
+          "id": "bose-qce2",
+          "rank": 5,
           "score": 8.9,
           "scores": {
             "sound": 9.0,
@@ -22313,7 +22341,7 @@
         },
         {
           "id": "samsung-buds4-pro",
-          "rank": 5,
+          "rank": 6,
           "score": 8.8,
           "scores": {
             "sound": 8.8,
@@ -22324,8 +22352,20 @@
           }
         },
         {
+          "id": "sennheiser-mtw4",
+          "rank": 7,
+          "score": 8.7,
+          "scores": {
+            "sound": 9.0,
+            "anc": 8.5,
+            "battery": 9.0,
+            "comfort": 8.5,
+            "value": 7.8
+          }
+        },
+        {
           "id": "sony-wf-1000xm5",
-          "rank": 6,
+          "rank": 8,
           "score": 8.6,
           "scores": {
             "sound": 9.0,
@@ -22337,7 +22377,7 @@
         },
         {
           "id": "samsung-buds3-pro",
-          "rank": 7,
+          "rank": 9,
           "score": 8.6,
           "scores": {
             "sound": 8.5,
@@ -22349,7 +22389,7 @@
         },
         {
           "id": "jabra-elite10",
-          "rank": 8,
+          "rank": 10,
           "score": 8.5,
           "scores": {
             "sound": 8.5,
@@ -22361,7 +22401,7 @@
         },
         {
           "id": "anker-liberty5-pro-max",
-          "rank": 9,
+          "rank": 11,
           "score": 8.5,
           "scores": {
             "sound": 8.7,
@@ -22369,6 +22409,126 @@
             "battery": 9.0,
             "comfort": 8.5,
             "value": 8.8
+          }
+        },
+        {
+          "id": "nothing-ear2",
+          "rank": 12,
+          "score": 8.2,
+          "scores": {
+            "sound": 8.0,
+            "anc": 7.5,
+            "battery": 8.0,
+            "comfort": 8.5,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "jabra-elite8-active",
+          "rank": 13,
+          "score": 8.1,
+          "scores": {
+            "sound": 8.0,
+            "anc": 7.5,
+            "battery": 8.0,
+            "comfort": 8.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "beats-fit-pro",
+          "rank": 14,
+          "score": 7.8,
+          "scores": {
+            "sound": 8.0,
+            "anc": 8.0,
+            "battery": 7.5,
+            "comfort": 8.5,
+            "value": 7.0
+          }
+        },
+        {
+          "id": "pixel-buds-pro2",
+          "rank": 15,
+          "score": 7.8,
+          "scores": {
+            "sound": 8.0,
+            "anc": 7.5,
+            "battery": 8.0,
+            "comfort": 8.0,
+            "value": 7.5
+          }
+        },
+        {
+          "id": "anker-liberty4-nc",
+          "rank": 16,
+          "score": 7.6,
+          "scores": {
+            "sound": 7.5,
+            "anc": 7.5,
+            "battery": 8.0,
+            "comfort": 7.5,
+            "value": 9.0
+          }
+        },
+        {
+          "id": "samsung-buds3-fe",
+          "rank": 17,
+          "score": 7.5,
+          "scores": {
+            "sound": 7.5,
+            "anc": 7.0,
+            "battery": 7.5,
+            "comfort": 7.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "sony-wf-c700n",
+          "rank": 18,
+          "score": 7.4,
+          "scores": {
+            "sound": 7.5,
+            "anc": 7.0,
+            "battery": 7.5,
+            "comfort": 7.5,
+            "value": 8.0
+          }
+        },
+        {
+          "id": "oneplus-buds3",
+          "rank": 19,
+          "score": 7.2,
+          "scores": {
+            "sound": 7.0,
+            "anc": 7.0,
+            "battery": 7.5,
+            "comfort": 7.5,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "earfun-air-pro4",
+          "rank": 20,
+          "score": 7.0,
+          "scores": {
+            "sound": 7.0,
+            "anc": 7.0,
+            "battery": 7.5,
+            "comfort": 7.0,
+            "value": 8.5
+          }
+        },
+        {
+          "id": "edifier-neobpro2",
+          "rank": 21,
+          "score": 6.9,
+          "scores": {
+            "sound": 7.0,
+            "anc": 6.5,
+            "battery": 7.0,
+            "comfort": 7.0,
+            "value": 8.0
           }
         }
       ],
@@ -22382,6 +22542,21 @@
           "title": "Sony WF-1000XM6 vs Bose QuietComfort Ultra 2: Which ANC earbuds should you buy?",
           "url": "https://www.soundguys.com/sony-wf-1000xm6-vs-bose-quietcomfort-ultra-2-152873/",
           "source": "SoundGuys"
+        },
+        {
+          "title": "Beats Unveils $200 Powerbeats Fit Earbuds to Replace Beats Fit Pro",
+          "url": "https://www.bloomberg.com/news/articles/2025-09-30/beats-unveils-200-powerbeats-fit-earbuds-to-replace-beats-fit-pro",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Sennheiser's new MOMENTUM True Wireless 5 earbuds give you more for the same price",
+          "url": "https://www.soundguys.com/sennheiser-momentum-true-wireless-5-launch-161772/",
+          "source": "SoundGuys"
+        },
+        {
+          "title": "Bose QuietComfort Ultra Earbuds (2nd Gen) review",
+          "url": "https://www.whathifi.com/headphones/wireless-earbuds/bose-quietcomfort-ultra-earbuds-2nd-gen",
+          "source": "What Hi-Fi?"
         }
       ],
       "i18n": {
