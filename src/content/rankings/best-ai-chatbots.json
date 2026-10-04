@@ -19616,6 +19616,202 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-10-04",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.7,
+          "scores": {
+            "reasoning": 9.8,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.7,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.5,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "reasoning": 8.9,
+            "coding": 8.6,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Think your AI chatbot is up to date?",
+          "url": "https://www.tomsguide.com/ai/think-your-ai-chatbot-is-up-to-date-here-is-how-stale-chatgpt-claude-and-gemini-actually-are",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "LLM/AI Changelog - ChatGPT, Gemini, Perplexity & Copilot Release Notes",
+          "url": "https://reconn-ai.com/llm-changelog.php",
+          "source": "Reconn AI"
+        },
+        {
+          "title": "Claude vs ChatGPT vs Gemini vs Grok (September 2026)",
+          "url": "https://aitoolsreview.co.uk/insights/claude-vs-chatgpt-gemini-grok",
+          "source": "AI Tools Review"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ChatGPT holds the top spot again this week, and the reason is breadth backed by real usage numbers. OpenAI says ChatGPT now carries roughly 52% of chatbot market share while shipping GPT-6 Astra and folding its old agent mode into a dedicated ChatGPT Work tier. Claude stays second, and Anthropic's Claude 5 generation plus the new Claude in Chrome extension for paid plans are the kind of ecosystem moves that keep its ecosystem score close to ChatGPT's without touching its writing or coding edge. Claude overtook Gemini as the fastest growing chatbot by user count last quarter, up roughly 15% from Q2. Gemini holds third on raw ecosystem reach, it still lives natively inside Gmail, Docs, and Sheets for anyone already paying for Google Workspace. Grok 4.6 and the new always-on Grok Bot agent keep xAI at fourth, the realtime score here still beats everything else because nothing else has direct access to a live social firehose, but the $30 SuperGrok tier remains the priciest entry point on this list and that caps its value score. Perplexity replaced its Sonar API with a new Agent API and made Computer available on Pro, solid moves for research workflows but not enough to climb past Grok's realtime edge or Copilot's enterprise reach. I did not find a credible reason to reshuffle anyone's rank this cycle. Every move above is a feature or pricing update layered onto an already stable order, so I am holding the table as is while flagging OpenAI's October 30 cut to Pro tier message limits as something worth watching if you are on that plan.",
+          "highlights": [
+            {
+              "title": "ChatGPT Still Wins on Raw Scale",
+              "body": "OpenAI's chatbot carries an estimated 52% of global chatbot market share and just added GPT-6 Astra plus a dedicated ChatGPT Work tier, breadth nothing else here matches."
+            },
+            {
+              "title": "Claude Is the Fastest Growing Chatbot",
+              "body": "Anthropic says Claude picked up roughly 15% more U.S. users quarter over quarter after shipping the Claude 5 generation and a free Claude in Chrome extension for paid plans."
+            },
+            {
+              "title": "Grok's Realtime Edge Still Costs Extra",
+              "body": "Grok 4.6 and the new Grok Bot agent keep a 9.8 realtime score thanks to direct X data access, but SuperGrok starts at $30, the highest entry price on this list."
+            },
+            {
+              "title": "Perplexity Bets on Agents Over Chat",
+              "body": "Swapping the Sonar API for an Agent API and opening Computer to Pro users pushes Perplexity toward task automation, a smart move that still trails Copilot's enterprise footprint."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "這次ChatGPT還是穩坐第一，市佔率估計拿下全球聊天機器人市場的52%左右，GPT-6 Astra也上線了，舊的Agent Mode升級成獨立的ChatGPT Work方案。Claude守住第二，Claude 5世代加上付費限定的Claude in Chrome擴充功能，讓生態系分數追得很緊，上一季美國用戶成長幅度還超過Gemini，季增約15%。Gemini靠內建在Gmail、Docs裡守住第三，黏著度很高。Grok 4.6加上新的Grok Bot代理人讓xAI保住第四，即時資訊沒人打得過它，但SuperGrok要30美元起，是這裡最貴的入門方案。Perplexity把Sonar API換成Agent API，Computer也開放給Pro用戶，研究型工作流更順，但還追不上Grok或Copilot。這波全是功能跟訂閱調整，排名維持不變最合理。",
+          "highlights": [
+            {
+              "title": "ChatGPT靠規模還是穩居第一",
+              "body": "OpenAI估計拿下全球約52%的聊天機器人市佔，剛上線的GPT-6 Astra跟獨立的ChatGPT Work方案，廣度這塊沒人追得上。"
+            },
+            {
+              "title": "Claude是成長最快的聊天機器人",
+              "body": "Anthropic說Claude上一季美國用戶季增約15%，比Gemini還快，靠的是Claude 5世代跟付費方案限定的Claude in Chrome擴充功能。"
+            },
+            {
+              "title": "Grok的即時優勢還是要加價",
+              "body": "Grok 4.6加上新的Grok Bot代理人讓即時分數衝到9.8分，靠的是直連X的資料，但SuperGrok要30美元起，是這份榜單最貴的入門方案。"
+            },
+            {
+              "title": "Perplexity把籌碼壓在代理人功能上",
+              "body": "把Sonar API換成Agent API，Computer也開放給Pro用戶，研究型工作流更吃得開，但還追不上Grok的即時優勢或Copilot的企業佈局。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

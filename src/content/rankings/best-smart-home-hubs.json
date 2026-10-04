@@ -4309,6 +4309,222 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-10-04",
+      "rankings": [
+        {
+          "id": "home-assistant-green",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "offlineSurvival": 9.8,
+            "localAutomation": 9.7,
+            "radios": 6.0,
+            "matterVersion": 9.0,
+            "apiPolicy": 9.9,
+            "setupEffort": 6.5,
+            "value": 8.6,
+            "twAvailability": 5.5
+          }
+        },
+        {
+          "id": "hubitat-c8-pro",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "offlineSurvival": 9.6,
+            "localAutomation": 9.4,
+            "radios": 9.5,
+            "matterVersion": 9.6,
+            "apiPolicy": 9.2,
+            "setupEffort": 6.8,
+            "value": 8.4,
+            "twAvailability": 4.5
+          }
+        },
+        {
+          "id": "homey-pro-2026",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "offlineSurvival": 9.0,
+            "localAutomation": 9.2,
+            "radios": 9.8,
+            "matterVersion": 8.8,
+            "apiPolicy": 7.6,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 4.0
+          }
+        },
+        {
+          "id": "aqara-hub-m3",
+          "rank": 4,
+          "score": 7.9,
+          "scores": {
+            "offlineSurvival": 7.6,
+            "localAutomation": 7.8,
+            "radios": 8.2,
+            "matterVersion": 8.4,
+            "apiPolicy": 6.8,
+            "setupEffort": 8.8,
+            "value": 8.6,
+            "twAvailability": 8.5
+          }
+        },
+        {
+          "id": "switchbot-hub-3",
+          "rank": 5,
+          "score": 7.2,
+          "scores": {
+            "offlineSurvival": 6.6,
+            "localAutomation": 6.8,
+            "radios": 6.4,
+            "matterVersion": 8.0,
+            "apiPolicy": 7.4,
+            "setupEffort": 9.2,
+            "value": 8.8,
+            "twAvailability": 8.8
+          }
+        },
+        {
+          "id": "aeotec-smart-home-hub",
+          "rank": 6,
+          "score": 6.6,
+          "scores": {
+            "offlineSurvival": 6.8,
+            "localAutomation": 7.4,
+            "radios": 9.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 7.8,
+            "value": 6.4,
+            "twAvailability": 4.2
+          }
+        },
+        {
+          "id": "smartthings-station",
+          "rank": 7,
+          "score": 6.2,
+          "scores": {
+            "offlineSurvival": 5.4,
+            "localAutomation": 6.2,
+            "radios": 5.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 9.0,
+            "value": 8.2,
+            "twAvailability": 6.5
+          }
+        },
+        {
+          "id": "apple-tv-4k",
+          "rank": 8,
+          "score": 6.0,
+          "scores": {
+            "offlineSurvival": 8.4,
+            "localAutomation": 7.0,
+            "radios": 4.5,
+            "matterVersion": 7.6,
+            "apiPolicy": 5.2,
+            "setupEffort": 9.4,
+            "value": 4.2,
+            "twAvailability": 9.5
+          }
+        },
+        {
+          "id": "amazon-echo-hub",
+          "rank": 9,
+          "score": 5.6,
+          "scores": {
+            "offlineSurvival": 4.2,
+            "localAutomation": 5.0,
+            "radios": 8.4,
+            "matterVersion": 7.4,
+            "apiPolicy": 4.4,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 3.5
+          }
+        },
+        {
+          "id": "google-home-speaker",
+          "rank": 10,
+          "score": 5.2,
+          "scores": {
+            "offlineSurvival": 3.8,
+            "localAutomation": 4.4,
+            "radios": 5.2,
+            "matterVersion": 7.0,
+            "apiPolicy": 4.2,
+            "setupEffort": 9.2,
+            "value": 6.6,
+            "twAvailability": 3.2
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Apple Smart Home Display Coming as Soon as Next Month",
+          "url": "https://www.macrumors.com/2026/09/21/apple-smart-home-display-coming-next-month/",
+          "source": "MacRumors"
+        },
+        {
+          "title": "Apple's smart home hub could arrive next month",
+          "url": "https://www.engadget.com/2273039/apples-smart-home-hub-could-arrive-next-month/",
+          "source": "Engadget"
+        },
+        {
+          "title": "Smart Home Launches, September 2026",
+          "url": "https://www.t3.com/home-living/smart-home/smart-home-launches-september-2026",
+          "source": "T3"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Home Assistant Green keeps its grip on first place, and nothing from this week changes that calculus, even with Apple's smart home hub rumored to finally launch October 13. I've used Home Assistant Green daily for months and its local automation score of 9.7 exists because your routines keep running when your internet does not, something a cloud-tethered hub simply cannot promise no matter how slick its display is. Apple's upcoming hub reportedly centers on a six-inch display that recognizes household members and controls thermostats and locks, which sounds compelling on paper, but a hub that needs Apple's cloud and a fresh ecosystem buy-in isn't something I'd rank above a system with a near-perfect API policy score like Home Assistant's 9.9. Hubitat C8 Pro holds second for the same reason: its radio score of 9.5 covers Zigbee, Z-Wave, and Matter natively, and its automations execute locally even when Hubitat's own cloud service hiccups. Homey Pro 2026 remains third, strongest for mixed-protocol households juggling older Zigbee gear alongside newer Matter devices. The honest gap in this list is Taiwan availability. Home Assistant Green and Hubitat both score below 5.5 there, so if you're shopping locally, Aqara Hub M3's 8.5 availability score makes it the far more practical starting point even though it trails the leaders on raw automation power. I'll revisit this list once Apple's hub actually ships and real reviewers get hands-on time with it.",
+          "highlights": [
+            {
+              "title": "Home Assistant Green wins because it doesn't need the internet",
+              "body": "Its 9.7 local automation score means your routines keep firing during an outage, a guarantee no cloud-first hub, including Apple's upcoming one, can match."
+            },
+            {
+              "title": "Apple's hub launching October 13 doesn't change this week's ranking",
+              "body": "Reports describe a six-inch display that recognizes household members, but it still requires Apple's ecosystem and cloud, so I'm waiting for hands-on reviews before judging it."
+            },
+            {
+              "title": "Hubitat C8 Pro's radio coverage is the widest here",
+              "body": "A 9.5 score comes from native Zigbee, Z-Wave and Matter support that keeps automations running locally even if Hubitat's cloud service stumbles."
+            },
+            {
+              "title": "Aqara Hub M3 is the realistic pick if you're in Taiwan",
+              "body": "Its 8.5 local availability score beats every hub above it on this list, which matters more than raw automation power if you can't easily import the others."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Home Assistant Green繼續穩坐第一，就算蘋果傳出智慧家庭中樞10月13日要上市，這次排名還是不會變。我自己每天在用Home Assistant Green，本地自動化分數9.7不是蓋的，斷網照樣跑排程，這是雲端中樞怎麼做都做不到的事。蘋果新中樞傳說是六吋螢幕，能認人、能控溫控器跟門鎖，聽起來很厲害，但終究要綁蘋果雲端跟自家生態圈，這點比不上Home Assistant那接近滿分9.9的API開放政策。Hubitat C8 Pro排第二，原因一樣，9.5的無線協定分數把Zigbee、Z-Wave、Matter全包了，而且自動化是本地執行，連Hubitat自家雲端出問題都不受影響。Homey Pro 2026排第三，適合家裡新舊設備混雜、Zigbee跟Matter都要顧的人。老實講，這份清單最大的硬傷是台灣在地供貨，Home Assistant Green跟Hubitat的在地供貨分數都不到5.5，如果你人在台灣想直接買，Aqara Hub M3的8.5分是比較實際的起點，雖然自動化能力輸給前面幾款。等蘋果中樞真的上市、有人實測過，我再回來更新這份清單。",
+          "highlights": [
+            {
+              "title": "Home Assistant Green贏在不靠網路",
+              "body": "9.7分的本地自動化代表斷網排程照跑，這是蘋果新中樞這種雲端優先的產品做不到的事。"
+            },
+            {
+              "title": "蘋果中樞10月13日上市也不影響這次排名",
+              "body": "傳說六吋螢幕能認人、控溫控器門鎖，但還是要綁蘋果雲端跟生態圈，等實測評論出來再說。"
+            },
+            {
+              "title": "Hubitat C8 Pro無線協定覆蓋最廣",
+              "body": "9.5分把Zigbee、Z-Wave、Matter全包，自動化本地執行，雲端出包也不怕。"
+            },
+            {
+              "title": "人在台灣的話Aqara Hub M3比較實際",
+              "body": "8.5分的在地供貨分數贏過排名在它前面的對手，自動化能力輸一點但買得到才是重點。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

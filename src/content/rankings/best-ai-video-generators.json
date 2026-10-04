@@ -20089,6 +20089,199 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-10-04",
+      "rankings": [
+        {
+          "id": "kling-3-0",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAdherence": 9.1,
+            "motionRealism": 9.4,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.0,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "google-veo-3-1",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "promptAdherence": 9.6,
+            "motionRealism": 9.4,
+            "audioVideoSync": 9.8,
+            "characterConsistency": 9.2,
+            "valueForMoney": 9.4
+          }
+        },
+        {
+          "id": "runway-gen-4-5",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.4,
+            "motionRealism": 9.2,
+            "audioVideoSync": 8.5,
+            "characterConsistency": 9.7,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "seedance-2-0",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAdherence": 9.2,
+            "motionRealism": 9.1,
+            "audioVideoSync": 9.5,
+            "characterConsistency": 9.1,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "alibaba-happyhorse-1-0",
+          "rank": 5,
+          "score": 8.8,
+          "scores": {
+            "promptAdherence": 9.5,
+            "motionRealism": 9.6,
+            "audioVideoSync": 8.8,
+            "characterConsistency": 9.3,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "hailuo-02",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "promptAdherence": 8.4,
+            "motionRealism": 8.6,
+            "audioVideoSync": 8.0,
+            "characterConsistency": 8.7,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "luma-ray3",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "promptAdherence": 8.2,
+            "motionRealism": 8.9,
+            "audioVideoSync": 7.5,
+            "characterConsistency": 8.1,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "pika-2-2",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAdherence": 8.1,
+            "motionRealism": 7.8,
+            "audioVideoSync": 7.4,
+            "characterConsistency": 7.9,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "adobe-firefly-video",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "promptAdherence": 8.0,
+            "motionRealism": 7.6,
+            "audioVideoSync": 7.7,
+            "characterConsistency": 8.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "hunyuan-video-1-5",
+          "rank": 10,
+          "score": 7.5,
+          "scores": {
+            "promptAdherence": 7.6,
+            "motionRealism": 7.7,
+            "audioVideoSync": 6.8,
+            "characterConsistency": 7.4,
+            "valueForMoney": 9.8
+          }
+        },
+        {
+          "id": "wan-2-6",
+          "rank": 11,
+          "score": 7.3,
+          "scores": {
+            "promptAdherence": 7.2,
+            "motionRealism": 7.4,
+            "audioVideoSync": 6.9,
+            "characterConsistency": 7.3,
+            "valueForMoney": 9.6
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "AI Video Generation in 2026: Veo and Gemini Omni, Kling, Runway, MiniMax H3, and the End of Sora",
+          "url": "https://ocdevel.com/mlg/mla-26",
+          "source": "OCDevel"
+        },
+        {
+          "title": "Kling AI",
+          "url": "https://en.wikipedia.org/wiki/Kling_AI",
+          "source": "Wikipedia"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Kling 3.0 holds the top spot, and its Omni One architecture is still the reason, native 15 second clips at 4K with synced audio and consistent characters across multi shot scenes, backed by a 9.8 value score that nothing else near the top can match. Veo 3.1 stays second on the strength of a 9.8 audio video sync score, Google's native audio generation remains the most reliable way to get dialogue and ambient sound locked to motion without a separate pass. Runway Gen-4.5 holds third, and the interesting move this cycle is that Runway's own paid plans now bundle access to Veo, Kling, Seedance, Flux, and Seedream alongside Gen-4, turning Runway into more of a production workspace than a single model, which is exactly why its character consistency score sits at 9.7, the highest here, since you can pick whichever underlying model handles continuity best for a given shot. Seedance 2.0 remains a strong fourth, its 9.6 value score makes it the practical choice for teams generating high volumes of clips on a budget. HappyHorse 1.0 continues to impress on raw motion realism at 9.6, Alibaba's model is closing the gap with the leaders on technical quality even though its 7.4 value score keeps it at fifth. Nothing released in the last week changes any of these positions, Runway's bundling strategy is a workflow upgrade, not a new model that outperforms what is already ranked above it.",
+          "highlights": [
+            {
+              "title": "Kling 3.0 Still Wins on Value and Clip Length",
+              "body": "Native 15 second 4K clips with synced audio and a 9.8 value score, the best on this list, keep Kling 3.0 ahead even as Veo and Runway close the technical gap."
+            },
+            {
+              "title": "Veo 3.1 Leads on Audio Sync",
+              "body": "A 9.8 audio video sync score makes Veo 3.1 the most reliable pick when dialogue and ambient sound need to lock to motion without a separate audio pass."
+            },
+            {
+              "title": "Runway Turned Itself Into a Multi-Model Workspace",
+              "body": "Paid Runway plans now bundle Veo, Kling, Seedance, Flux, and Seedream alongside Gen-4, the reason its 9.7 character consistency score, the highest here, no longer depends on one model."
+            },
+            {
+              "title": "HappyHorse Closes the Motion Realism Gap",
+              "body": "Alibaba's model posts a 9.6 motion realism score, within reach of the leaders, though its 7.4 value score is still what keeps it outside the top four."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Kling 3.0還是第一，Omni One架構是主因，原生15秒4K片段還帶同步音效，多鏡頭角色一致性也做得到，價值分數9.8分，排名前段班裡沒人比得上。Veo 3.1守住第二，靠的是9.8分的音畫同步表現，Google原生音效對白跟畫面動作貼合度還是業界最穩的。Runway Gen-4.5排第三，這次比較有趣的是Runway付費方案現在直接把Veo、Kling、Seedance、Flux、Seedream整合進Gen-4裡，變成多模型製作平台，這也是角色一致性分數能拿到9.7分、全場最高的原因，每個鏡頭都能挑最適合的底層模型維持連貫性。Seedance 2.0守住第四，9.6分的價值表現讓它成為大量產出時最務實的選擇。阿里巴巴的HappyHorse 1.0動作真實度衝到9.6分，差距越縮越小，但價值分數只有7.4分，暫時還卡在第五。這週沒有新發布的東西能動搖排名。",
+          "highlights": [
+            {
+              "title": "Kling 3.0靠性價比跟片長還是第一",
+              "body": "原生15秒4K同步音效，價值分數9.8分是這份榜單最高，就算Veo跟Runway在技術上逼近，Kling 3.0還是守住第一。"
+            },
+            {
+              "title": "Veo 3.1在音畫同步上最穩",
+              "body": "音畫同步分數9.8分讓Veo 3.1成為對白跟環境音需要緊貼畫面動作時最可靠的選擇，不用另外補一道音軌。"
+            },
+            {
+              "title": "Runway把自己變成多模型製作平台",
+              "body": "付費方案現在把Veo、Kling、Seedance、Flux、Seedream都整合進Gen-4，角色一致性分數能拿到全場最高的9.7分，不再只靠單一模型。"
+            },
+            {
+              "title": "HappyHorse在動作真實度上急起直追",
+              "body": "阿里巴巴這款模型動作真實度衝到9.6分，跟頂尖對手差距越縮越小，但價值分數只有7.4分，排名還是卡在第五。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

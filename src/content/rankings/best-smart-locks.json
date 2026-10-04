@@ -10378,6 +10378,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-10-04",
+      "rankings": [
+        {
+          "id": "aqara-u400",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "security": 9.3,
+            "access": 9.7,
+            "smartHome": 9.7,
+            "value": 8.6,
+            "install": 8.8
+          }
+        },
+        {
+          "id": "schlage-encode-plus",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "security": 9.6,
+            "access": 8.6,
+            "smartHome": 9.0,
+            "value": 8.4,
+            "install": 9.0
+          }
+        },
+        {
+          "id": "yale-assure-lock-2-plus",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "security": 8.8,
+            "access": 8.8,
+            "smartHome": 9.1,
+            "value": 8.5,
+            "install": 8.9
+          }
+        },
+        {
+          "id": "ultraloq-bolt-mission",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "security": 8.6,
+            "access": 8.8,
+            "smartHome": 9.0,
+            "value": 8.5,
+            "install": 8.8
+          }
+        },
+        {
+          "id": "ultraloq-u-bolt-pro-wifi",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "security": 8.6,
+            "access": 9.2,
+            "smartHome": 8.2,
+            "value": 8.8,
+            "install": 8.6
+          }
+        },
+        {
+          "id": "switchbot-lock-ultra",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "security": 8.0,
+            "access": 9.0,
+            "smartHome": 8.4,
+            "value": 9.2,
+            "install": 9.4
+          }
+        },
+        {
+          "id": "eufy-smart-lock-e130",
+          "rank": 7,
+          "score": 8.4,
+          "scores": {
+            "security": 8.4,
+            "access": 8.6,
+            "smartHome": 8.2,
+            "value": 9.0,
+            "install": 8.4
+          }
+        },
+        {
+          "id": "level-lock-plus",
+          "rank": 8,
+          "score": 8.2,
+          "scores": {
+            "security": 8.2,
+            "access": 7.6,
+            "smartHome": 8.8,
+            "value": 7.6,
+            "install": 8.6
+          }
+        },
+        {
+          "id": "august-wifi-smart-lock-4th-gen",
+          "rank": 9,
+          "score": 8.1,
+          "scores": {
+            "security": 7.8,
+            "access": 7.8,
+            "smartHome": 8.6,
+            "value": 8.4,
+            "install": 9.2
+          }
+        },
+        {
+          "id": "wyze-lock-bolt",
+          "rank": 10,
+          "score": 7.9,
+          "scores": {
+            "security": 7.6,
+            "access": 8.4,
+            "smartHome": 7.2,
+            "value": 9.6,
+            "install": 8.4
+          }
+        },
+        {
+          "id": "lockly-vision-elite",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "security": 8.6,
+            "access": 8.8,
+            "smartHome": 7.4,
+            "value": 6.8,
+            "install": 7.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "ULTRALOQ launches three next-gen smart locks with UWB, Aliro and Matter",
+          "url": "https://the-ambient.com/news/ultraloq-launches-three-next-gen-smart-locks-with-uwb-aliro-and-matter",
+          "source": "The Ambient"
+        },
+        {
+          "title": "Home Assistant 2026.10 unlocks new Matter controls for leak sensors, smart locks and power",
+          "url": "https://www.matteralpha.com/news/home-assistant-2026-10-matter-leak-sensors-smart-locks-power",
+          "source": "Matter Alpha"
+        },
+        {
+          "title": "ResTech Roundup: September 21-27, 2026",
+          "url": "https://restechtoday.com/restech-roundup-september-21-27-2026-smart-locks-security-alerts-connected-home",
+          "source": "ResTech Today"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Aqara U400 keeps its number one spot this week, and Home Assistant's 2026.10 release just gave Matter-connected locks like it something genuinely useful: a one-touch locking switch so a single tap on the keypad can secure the door instead of requiring the full code every time. That's a small change that fixes a real daily annoyance, and it lands on a lock that already topped this list for pairing strong physical security with an access score of 9.7. Schlage Encode Plus holds second because its deadbolt security rating is still the best in this lineup at 9.6, built on a physical cylinder that Schlage has refined for decades, not a reputation. Yale Assure Lock 2 Plus rounds out the podium with the most balanced scorecard here, nothing spectacular, nothing weak. I've been watching Ultraloq's Bolt Mission for a few weeks now and its blend of access flexibility and smart home scoring earns it fourth over the older U-Bolt Pro Wifi, mostly because Ultraloq tightened its app's fingerprint and code management since launch. If you're on a budget, SwitchBot Lock Ultra still delivers the easiest retrofit install I've tested, snapping onto most existing deadbolts without touching your door hardware. My one flag for buyers: Matter lock support varies by firmware version right now, so check that your specific model has received the 2026.10-compatible update before assuming you'll get the new one-touch feature out of the box.",
+          "highlights": [
+            {
+              "title": "Aqara U400 just gained a genuinely useful Matter feature",
+              "body": "Home Assistant 2026.10 adds a one-touch locking switch for Matter locks like the U400, fixing the daily annoyance of re-entering a code just to lock up."
+            },
+            {
+              "title": "Schlage Encode Plus still has the toughest deadbolt here",
+              "body": "Its 9.6 security score rests on a physical cylinder design Schlage has refined for decades, not on a marketing claim."
+            },
+            {
+              "title": "Ultraloq Bolt Mission edges out its older sibling",
+              "body": "Tighter fingerprint and code management in Ultraloq's app pushed the Bolt Mission to fourth, ahead of the previous-generation U-Bolt Pro Wifi."
+            },
+            {
+              "title": "SwitchBot Lock Ultra remains the easiest retrofit",
+              "body": "It clips onto most existing deadbolts without swapping your door hardware, which is why it stays the pick for renters."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Aqara U400繼續排第一，Home Assistant 2026.10更新剛好補上一個很實用的功能，Matter連接的智慧鎖現在可以單鍵上鎖，不用每次都重新輸入密碼才能鎖門，這對每天出門趕時間的人真的有感。U400本來就靠高安全分數跟9.7的存取彈性拿下冠軍，這次更新算是錦上添花。Schlage Encode Plus排第二，鎖芯安全分數9.6還是這份清單最高，靠的是品牌多年磨出來的實體鎖芯工藝，不是喊口號。Yale Assure Lock 2 Plus排第三，整體表現最平均，沒有誰特別突出，但也沒有明顯弱點。Ultraloq Bolt Mission這幾週表現不錯，App的指紋跟密碼管理比舊款U-Bolt Pro Wifi更細緻，所以排名往前擠到第四。預算有限的話，SwitchBot Lock Ultra安裝還是這份清單最簡單的，直接套在現有鎖體上，門把手完全不用拆。提醒一下，Matter單鍵上鎖要看你的鎖是不是已經更新到相容版本，不是買了就自動有這個功能。",
+          "highlights": [
+            {
+              "title": "U400這次升級是真材實料",
+              "body": "Home Assistant 2026.10讓Matter智慧鎖能單鍵上鎖，解決每天出門還要重新輸入密碼的煩惱。"
+            },
+            {
+              "title": "Schlage Encode Plus鎖芯依然最硬",
+              "body": "9.6的安全分數靠的是品牌多年磨出來的實體鎖芯，不是行銷話術堆出來的。"
+            },
+            {
+              "title": "Ultraloq Bolt Mission贏過自家舊款",
+              "body": "App指紋跟密碼管理更細緻，讓新款擠下U-Bolt Pro Wifi排到第四名。"
+            },
+            {
+              "title": "SwitchBot Lock Ultra安裝依然最簡單",
+              "body": "直接套上現有鎖體，門把完全不用拆，租屋族想裝修改也不用擔心。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

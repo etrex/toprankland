@@ -20568,6 +20568,211 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-10-04",
+      "rankings": [
+        {
+          "id": "suno-v5",
+          "rank": 1,
+          "score": 9.6,
+          "scores": {
+            "audioQuality": 9.7,
+            "vocalRealism": 9.4,
+            "editingControl": 9.6,
+            "commercialLicense": 8.8,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "elevenlabs-music",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "audioQuality": 9.3,
+            "vocalRealism": 9.7,
+            "editingControl": 8.7,
+            "commercialLicense": 9.9,
+            "valueForMoney": 9.6
+          }
+        },
+        {
+          "id": "lyria-3-pro",
+          "rank": 3,
+          "score": 8.6,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 8.6,
+            "editingControl": 8.4,
+            "commercialLicense": 9.5,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "stable-audio-2-5",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "audioQuality": 9.0,
+            "vocalRealism": 7.0,
+            "editingControl": 8.6,
+            "commercialLicense": 9.5,
+            "valueForMoney": 8.7
+          }
+        },
+        {
+          "id": "udio",
+          "rank": 5,
+          "score": 8.3,
+          "scores": {
+            "audioQuality": 9.6,
+            "vocalRealism": 9.5,
+            "editingControl": 9.8,
+            "commercialLicense": 7.5,
+            "valueForMoney": 7.4
+          }
+        },
+        {
+          "id": "riffusion",
+          "rank": 6,
+          "score": 8.1,
+          "scores": {
+            "audioQuality": 8.3,
+            "vocalRealism": 7.9,
+            "editingControl": 8.7,
+            "commercialLicense": 8.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "happy-shrimp",
+          "rank": 7,
+          "score": 7.9,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 7.5,
+            "editingControl": 8.5,
+            "commercialLicense": 7.0,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "soundraw",
+          "rank": 8,
+          "score": 7.8,
+          "scores": {
+            "audioQuality": 8.0,
+            "vocalRealism": 6.5,
+            "editingControl": 7.5,
+            "commercialLicense": 9.2,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aiva",
+          "rank": 9,
+          "score": 7.5,
+          "scores": {
+            "audioQuality": 7.8,
+            "vocalRealism": 6.8,
+            "editingControl": 7.8,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "mubert",
+          "rank": 10,
+          "score": 7.3,
+          "scores": {
+            "audioQuality": 7.5,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.5
+          }
+        },
+        {
+          "id": "loudly",
+          "rank": 11,
+          "score": 7.0,
+          "scores": {
+            "audioQuality": 7.3,
+            "vocalRealism": 6.5,
+            "editingControl": 7.0,
+            "commercialLicense": 9.0,
+            "valueForMoney": 7.2
+          }
+        },
+        {
+          "id": "boomy",
+          "rank": 12,
+          "score": 6.8,
+          "scores": {
+            "audioQuality": 6.8,
+            "vocalRealism": 6.5,
+            "editingControl": 6.8,
+            "commercialLicense": 8.5,
+            "valueForMoney": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Suno vs ElevenLabs Music 2026: V6 vs v2.5, Pricing and Licensing",
+          "url": "https://undetectr.com/blog/suno-vs-elevenlabs-music",
+          "source": "Undetectr"
+        },
+        {
+          "title": "ElevenLabs valuation doubles to $22B",
+          "url": "https://www.musicbusinessworldwide.com/elevenlabs-valuation-doubles-to-22b-four-times-that-of-ai-music-rival-suno/",
+          "source": "Music Business Worldwide"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Suno holds the top spot, though the headline this cycle is that Suno just launched V6, a trio of new models built directly with Warner Music Group, BMG, and Believe, and retired every earlier model the same day. That is a significant enough shift that I am flagging it instead of silently re-scoring. V6 access is still rolling out and licensing heavy, so the scores here still reflect the prior generation's tested performance instead of an unverified new release. Eleven Music holds second, and ElevenLabs shipped Music v2.5 on September 11, now the default model for prompted and reference generation, with real gains in vocal led genres like R&B, soul, and orchestral work, that update is reflected in its 9.7 vocal realism score, still the best on this list. ElevenLabs also struck an expansive licensing deal with Universal Music Group to build a new joint platform, one day after Suno's own label backed announcement, which tells you licensing has become the actual battleground here. Lyria 3 Pro holds third on the strength of a 9.5 commercial license score, Google's deal structure around it remains the cleanest for anyone shipping music commercially without separate rights negotiation. Stable Audio 2.5 stays fourth as the open weights choice for developers who want to self host. I am holding every rank in place this week specifically because Suno's V6 transition is too fresh and too licensing gated to retest fairly yet, expect this list to move once V6 is broadly available.",
+          "highlights": [
+            {
+              "title": "Suno Just Retired Its Entire Lineup for V6",
+              "body": "Three new V6 models built with Warner Music Group, BMG, and Believe launched the same day Suno shut down every earlier model, a shift big enough to watch closely before re-scoring."
+            },
+            {
+              "title": "Eleven Music v2.5 Strengthens Vocal Genres",
+              "body": "ElevenLabs' September 11 update became the default model for prompted generation and shows real gains in R&B, soul, and orchestral output, backing its leading 9.7 vocal realism score."
+            },
+            {
+              "title": "Licensing Is the New Battleground",
+              "body": "ElevenLabs signed an expansive deal with Universal Music Group one day after Suno's own label backed model launch, a sign the real competition has moved to music rights."
+            },
+            {
+              "title": "Lyria 3 Pro Still Wins on Commercial Safety",
+              "body": "A 9.5 commercial license score reflects Google's cleaner rights structure, the reason teams shipping music commercially keep leaning on it over less cleared alternatives."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Suno還是排第一，但這次最大的新聞是Suno直接推出V6，跟華納音樂、BMG跟Believe合作推出新模型，同一天把舊版本全部下架。這個變動大到我先標記出來，不急著重新打分，V6才剛開始推，版權限制也多，榜單分數暫時還是反映舊版本的實測表現。Eleven Music排第二，ElevenLabs在9月11號推出Music v2.5，現在是提示詞生成的預設模型，R&B、靈魂樂、管弦樂這類曲風進步明顯，反映在9.7分的人聲真實度上，全場最高。ElevenLabs還跟環球音樂簽了授權合作，時間點就在Suno公布廠牌合作模型的隔天，真正的戰場已經是版權授權。Lyria 3 Pro守住第三，商業授權分數9.5分很扎實。Stable Audio 2.5維持第四，開源權重還是自架愛好者的首選。這週排名全部維持原樣，V6轉換太新還不適合重新評分。",
+          "highlights": [
+            {
+              "title": "Suno為了V6把整條舊產品線下架",
+              "body": "跟華納音樂、BMG、Believe合作的三款V6新模型上線同一天，Suno把所有舊版本都停用了，變動大到我決定先觀察再重新打分。"
+            },
+            {
+              "title": "Eleven Music v2.5讓人聲曲風更進步",
+              "body": "ElevenLabs在9月11號的更新變成提示詞生成的預設模型，R&B、靈魂樂、管弦樂這類曲風進步明顯，撐住它9.7分的人聲真實度，全場最高。"
+            },
+            {
+              "title": "版權授權成了新戰場",
+              "body": "ElevenLabs跟環球音樂簽的大型授權合作，就在Suno自己公布廠牌合作模型的隔天，看得出真正的競爭已經轉移到音樂版權這塊。"
+            },
+            {
+              "title": "Lyria 3 Pro靠商用安全性守住第三",
+              "body": "商業授權分數9.5分，Google這套授權架構對要商用的團隊來說最省心，不用再額外談版權。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

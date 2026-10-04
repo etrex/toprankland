@@ -26776,6 +26776,228 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-10-04",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.7,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.7,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "codeQuality": 9.2,
+            "contextWindow": 8.2,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.6,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.2,
+            "valueForMoney": 6.8
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Claude Code vs. Cursor vs. Codex vs. Antigravity, six months in",
+          "url": "https://thenewstack.io/claude-code-vs-cursor-vs-codex-vs-antigravity-2026/",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Claude Updates by Anthropic, October 2026",
+          "url": "https://releasebot.io/updates/anthropic/claude",
+          "source": "Releasebot"
+        },
+        {
+          "title": "Claude Code vs Cursor vs Copilot 2026",
+          "url": "https://www.buildthisnow.com/blog/tools/extensions/claude-code-vs-cursor-vs-copilot",
+          "source": "Build This Now"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code keeps the top spot, and Anthropic gave it real reasons to stay there this week. October 1 brought mods, TypeScript based custom behavior, new UI, and feature replacements you can drop into the CLI or desktop app, plus Claude for Government, which brings FedRAMP High access with spend controls and audit logs for federal and state teams. The underlying 2.1.288 release also tightened resume and recovery flows and permission handling, the kind of reliability work that matters more once you are running agentic sessions for hours at a time. OpenAI Codex holds second on raw agentic capability, its 9.6 score there still edges Claude Code, but its context window and IDE integration scores lag behind, which is why it has not closed the overall gap. Cursor stays third as the model agnostic choice, you can point it at whichever frontier model you already pay for while keeping a familiar VS Code feel, and its 9.6 IDE integration score is still the best on this list. Google Antigravity and Jules hold fourth and fifth, both benefiting from Google folding more agentic tooling into its coding stack this fall. The broader story worth watching is consolidation, multiple outlets are now describing Cursor, Claude Code, and Codex as converging toward one shared workflow pattern instead of three distinct categories, which tracks with how similar their agentic scores have become. Nothing here justifies moving anyone's rank yet, the gaps at the top are feature depth and governance, not raw capability.",
+          "highlights": [
+            {
+              "title": "Claude Code Adds Mods and Government Access",
+              "body": "October 1 shipped TypeScript based mods for custom UI and behavior plus Claude for Government, bringing FedRAMP High access with audit logs and spend controls for federal teams."
+            },
+            {
+              "title": "Codex Still Leads on Pure Agentic Capability",
+              "body": "OpenAI Codex posts a 9.6 agentic capability score, the highest on this list, though a thinner context window and weaker IDE integration keep it behind Claude Code overall."
+            },
+            {
+              "title": "Cursor Remains the Best IDE Experience",
+              "body": "A 9.6 IDE integration score, the top mark here, comes from staying model agnostic inside a familiar VS Code shell instead of locking you into one vendor's models."
+            },
+            {
+              "title": "The Big Three Are Starting to Converge",
+              "body": "Industry coverage now frames Cursor, Claude Code, and Codex as merging toward one shared agentic workflow, which lines up with how close their agentic capability scores have become."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code這次還是穩坐第一，Anthropic這週給的理由很扎實。10月1號推出mods功能，可以用TypeScript寫自己的介面跟行為邏輯，同一天還上線了Claude for Government，拿到FedRAMP High授權，支出控管跟稽核紀錄都齊了。底層2.1.288版本也修了resume跟recovery流程，長時間跑任務時穩定度真的有差。OpenAI Codex守住第二，agentic能力分數9.6分是全場最高，但context window跟IDE整合分數輸一截，總分追不上來。Cursor維持第三，走模型中立路線，介面還是熟悉的VS Code感，IDE整合分數9.6分也是這份榜單最高。Google Antigravity跟Jules分別排第四第五，都吃到Google這波agentic工具下放的紅利。坦白講，這波全是功能跟治理更新，差距還沒大到需要調整排名。",
+          "highlights": [
+            {
+              "title": "Claude Code補上mods跟政府授權",
+              "body": "10月1號上線TypeScript寫的mods功能，還有拿到FedRAMP High授權的Claude for Government，稽核紀錄跟支出控管都齊了，政府單位也能用。"
+            },
+            {
+              "title": "Codex的agentic能力還是最強",
+              "body": "OpenAI Codex的agentic能力分數9.6分是這份榜單最高，但context window跟IDE整合分數偏弱，總分還是追不上Claude Code。"
+            },
+            {
+              "title": "Cursor的IDE體驗依然是最好的",
+              "body": "IDE整合分數9.6分是這裡最高，靠的是模型中立加上熟悉的VS Code介面，不綁死在單一家的模型上。"
+            },
+            {
+              "title": "三巨頭的界線越來越模糊",
+              "body": "業界開始把Cursor、Claude Code、Codex形容成正在往同一種agentic工作流靠近，這跟三者agentic能力分數越來越接近是同一回事。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
