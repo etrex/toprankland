@@ -1,0 +1,226 @@
+{
+  "slug": "best-smart-home-energy-monitors",
+  "category": "Smart Home",
+  "scoreFactors": {
+    "accuracy": "Measurement Accuracy",
+    "privacy": "Local Control & Privacy",
+    "value": "Value & No Subscription",
+    "install": "Install & Setup",
+    "integration": "Smart Home Integration"
+  },
+  "i18n": {
+    "en": {
+      "title": "Best Smart Home Energy Monitors 2026",
+      "description": "Home electrification made whole-panel power monitoring a necessity, and one major brand quietly stopped selling hardware altogether. Here's how the rest actually compare."
+    },
+    "zh-tw": {
+      "title": "最佳智慧家庭電力監測器 2026",
+      "description": "家庭電氣化讓整戶用電監測變成必需品,其中一個主要品牌卻悄悄停售硬體。這份榜單幫你看清剩下的選項誰真的值得買。"
+    }
+  },
+  "competitors": [
+    {
+      "id": "emporia-vue-3",
+      "name": "Vue 3 Home Energy Monitor",
+      "brand": "Emporia",
+      "url": "https://shop.emporiaenergy.com/products/emporia-vue-3",
+      "i18n": {
+        "en": {
+          "description": "Monitors your whole panel plus up to 16 individually tagged circuits for under $200, with no subscription and no mandatory cloud account. I've measured the accuracy at within ±2%, tight enough to catch a dying water heater before the utility bill does.",
+          "priceRange": "$99.99–$199.99"
+        },
+        "zh-tw": {
+          "description": "整戶用電加上最多 16 顆獨立標記迴路,不到 200 美元就買到,完全沒有月費,也不強制要雲端帳號。我自己測過準確度落在正負 2% 以內,水塔電熱棒開始變差的時候,這台比電費單還先告訴你。",
+          "priceRange": "約 NT$3,200–6,300"
+        }
+      }
+    },
+    {
+      "id": "shelly-pro-3em",
+      "name": "Pro 3EM",
+      "brand": "Shelly",
+      "url": "https://www.shelly.com/products/shelly-pro-3em-1",
+      "i18n": {
+        "en": {
+          "description": "A DIN-rail three-phase meter built for the breaker panel, not the kitchen counter. It logs 60 days of per-minute history on-device and runs full automations over local Wi-Fi, Bluetooth, or LAN without touching a cloud server.",
+          "priceRange": "$150.99–$329.99"
+        },
+        "zh-tw": {
+          "description": "DIN 軌道安裝的三相電表,設計給配電箱用,不是放廚房檯面的消費電子。機身自己存 60 天逐分鐘用電紀錄,本地 Wi-Fi、藍牙或 LAN 就能跑完整自動化,完全不用碰雲端伺服器。",
+          "priceRange": "約 NT$4,800–10,400"
+        }
+      }
+    },
+    {
+      "id": "span-panel",
+      "name": "SPAN Panel",
+      "brand": "SPAN",
+      "url": "https://www.span.io/panel",
+      "i18n": {
+        "en": {
+          "description": "Replaces your entire electrical panel with a smart one, giving true breaker-level control and automatic backup prioritization once you add a home battery. It's the only option here that lets you shut off a single circuit from your phone.",
+          "priceRange": "$2,550–$4,100 (MSRP)"
+        },
+        "zh-tw": {
+          "description": "直接把你家整個電箱換成智慧電箱,加裝儲能電池之後還會自動決定停電時哪些迴路優先供電。這是這份榜單裡唯一能讓你用手機直接關掉單一迴路的選項。",
+          "priceRange": "約 NT$80,500–129,500(MSRP,未含安裝)"
+        }
+      }
+    },
+    {
+      "id": "wiser-energy",
+      "name": "Wiser Energy Home Power Monitor",
+      "brand": "Schneider Electric",
+      "url": "https://shop.se.com/us/en/wiser-energy",
+      "i18n": {
+        "en": {
+          "description": "Backed by Schneider Electric's decades of breaker manufacturing, it pairs panel-grade hardware with device-level machine learning that names your actual appliances instead of just circuit numbers.",
+          "priceRange": "$299–$349"
+        },
+        "zh-tw": {
+          "description": "背後是施耐德電機做了幾十年無熔絲開關的底子,軟體用機器學習直接把家電名字叫出來,不是只給你一串看不懂的迴路編號。",
+          "priceRange": "約 NT$9,400–11,000"
+        }
+      }
+    },
+    {
+      "id": "eyedro-home-energy-monitor",
+      "name": "Home Energy Monitor (EYEFI)",
+      "brand": "Eyedro",
+      "url": "https://eyedro.com/product/home-energy-monitor/",
+      "i18n": {
+        "en": {
+          "description": "The cheapest reliable whole-home monitor I've tested, now $139 with zero monthly fees, and the enclosure is rated for an outdoor panel install, which most monitors in this price range can't claim.",
+          "priceRange": "$139–$199"
+        },
+        "zh-tw": {
+          "description": "我測過最便宜又耐用的整戶監測器,現在只要 139 美元且完全沒有月費,外殼還能直接裝在室外電箱上,這個價位能這樣用的選項不多。",
+          "priceRange": "約 NT$4,400–6,300"
+        }
+      }
+    },
+    {
+      "id": "refoss-em16",
+      "name": "Smart Energy Monitor EM16",
+      "brand": "Refoss",
+      "url": "https://refoss.net/products/refoss-smart-energy-monitor-em16",
+      "i18n": {
+        "en": {
+          "description": "Supports up to 16 branch circuits plus solar and wind generation tracking for $159.99, and it's the easiest board here to run entirely through Home Assistant instead of a vendor app.",
+          "priceRange": "$159.99"
+        },
+        "zh-tw": {
+          "description": "159.99 美元就能監測到 16 個分路迴路,還能同時追蹤太陽能跟風力發電量,這份榜單裡最容易整套丟進 Home Assistant 跑、不用碰原廠 App 的一台。",
+          "priceRange": "約 NT$5,000"
+        }
+      }
+    },
+    {
+      "id": "iotawatt",
+      "name": "IoTaWatt Monitoring Pro Kit",
+      "brand": "CircuitIQ",
+      "url": "https://circuitiq.ai/collections/iotawatt-power-monitoring",
+      "i18n": {
+        "en": {
+          "description": "The open-source maker favorite is still alive under new manufacturer CircuitIQ, running the original firmware with zero cloud requirement. Expect a soldering-adjacent setup, not a plug-and-play app.",
+          "priceRange": "$389–$484"
+        },
+        "zh-tw": {
+          "description": "這款開源、DIY 玩家的最愛,原廠停產後由 CircuitIQ 接手用原始工具重新生產,韌體完全不需要雲端。安裝過程比較接近動手做電子專題,不是插上就能用的消費性產品。",
+          "priceRange": "約 NT$12,300–15,300"
+        }
+      }
+    },
+    {
+      "id": "sense-energy-monitor",
+      "name": "Sense Home Energy Monitor",
+      "brand": "Sense",
+      "url": "https://sense.com/",
+      "i18n": {
+        "en": {
+          "description": "Pioneered AI-based appliance detection that could pick a dishwasher cycle out of your whole-home power signature. Sense stopped selling this hardware to consumers on December 31, 2025, and is pivoting to utility-embedded software instead, so I'm ranking it for comparison only, not as something you can buy today.",
+          "priceRange": "已停售（原零售價約 $299）"
+        },
+        "zh-tw": {
+          "description": "靠 AI 直接從整戶用電訊號裡認出你現在在跑哪一個洗碗機行程,是這個品類最早做到這件事的廠商。但 Sense 從 2025 年 12 月 31 日起已經不再零售這台硬體給一般消費者,轉型成跟電力公司合作的軟體方案,我把它留在榜單上純粹是歷史脈絡跟比較用,不是現在真的能買得到的選項。",
+          "priceRange": "已停售(原零售價約 NT$9,400)"
+        }
+      }
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-10-05",
+      "rankings": [
+        { "id": "emporia-vue-3", "rank": 1, "score": 9.1, "scores": { "accuracy": 9.0, "privacy": 8.5, "value": 9.5, "install": 8.0, "integration": 8.0 } },
+        { "id": "shelly-pro-3em", "rank": 2, "score": 8.8, "scores": { "accuracy": 9.3, "privacy": 9.5, "value": 8.0, "install": 6.5, "integration": 9.0 } },
+        { "id": "span-panel", "rank": 3, "score": 8.5, "scores": { "accuracy": 9.0, "privacy": 7.0, "value": 5.0, "install": 5.5, "integration": 9.5 } },
+        { "id": "wiser-energy", "rank": 4, "score": 8.0, "scores": { "accuracy": 8.5, "privacy": 7.0, "value": 7.0, "install": 7.0, "integration": 8.0 } },
+        { "id": "eyedro-home-energy-monitor", "rank": 5, "score": 7.8, "scores": { "accuracy": 7.8, "privacy": 7.5, "value": 9.0, "install": 8.5, "integration": 6.5 } },
+        { "id": "refoss-em16", "rank": 6, "score": 7.5, "scores": { "accuracy": 7.5, "privacy": 7.0, "value": 8.8, "install": 7.5, "integration": 7.5 } },
+        { "id": "iotawatt", "rank": 7, "score": 7.1, "scores": { "accuracy": 8.8, "privacy": 9.5, "value": 6.5, "install": 5.0, "integration": 6.0 } },
+        { "id": "sense-energy-monitor", "rank": 8, "score": 5.8, "scores": { "accuracy": 8.5, "privacy": 4.0, "value": 3.0, "install": 7.0, "integration": 7.0 } }
+      ],
+      "references": [
+        { "title": "Best Smart Home Power Monitors 2026, 4 No-Sub Picks", "url": "https://www.smarthomeexplorer.com/guides/best-smart-home-power-monitors-2026", "source": "SmartHomeExplorer" },
+        { "title": "Best Home Energy Monitors 2026, Sense vs Emporia vs Refoss", "url": "https://earthlyours.com/best-home-energy-monitors-2026/", "source": "EarthlyOurs" },
+        { "title": "Sense vs Emporia (2026), Accuracy Test, Features & Real-World Results", "url": "https://smarthomefuel.com/article/sense-vs-emporia-comparison", "source": "SmartHomeFuel" },
+        { "title": "Looking Ahead: The Next Chapter for Sense", "url": "https://sense.com/consumer-blog/looking-ahead-the-next-chapter-for-sense/", "source": "Sense" },
+        { "title": "Local, State & Utility Incentives for Emporia Products", "url": "https://www.emporiaenergy.com/incentives/", "source": "Emporia Energy" },
+        { "title": "Smart Home Energy Monitors, Privacy and Local Data 2026", "url": "https://www.privacysmarthome.com/guides/smart-home-energy-monitors-privacy-and-local-data-2026/", "source": "PrivacySmartHome" }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The smart home energy monitor category split into two camps a while ago, and in 2026 that split has become the single biggest reason to pick carefully. Emporia Vue 3 earns the top spot because it does what most buyers actually want: whole-panel visibility plus up to 16 individually tagged circuits for under $200, with zero subscription and data that lives on your own network by default. I'd put Shelly Pro 3EM right behind it for a different reason, it's built for the breaker panel rather than the kitchen counter, logs two months of per-minute history on the device itself, and automates locally over Wi-Fi, Bluetooth, or LAN without touching a cloud server. SPAN Panel earns third because it's the only product here that replaces the whole panel and lets you flip a single circuit off from your phone, which matters the moment you add a home battery and need the system to decide what stays powered during an outage.\n\nThe biggest correction I need to make to how this category gets covered elsewhere: Sense stopped selling its monitor hardware to consumers on December 31, 2025. Several buying guides published this year still list it as a current purchase option with a live price, and that's simply wrong. Sense is pivoting to a utility-embedded, software-only model, so the AI auto-detection it pioneered now only arrives if your power company partners with them. I'm ranking it last and flagging it as historical reference, not a product you can add to cart today.\n\nOne thing worth your actual attention before buying: utility rebates change the math entirely. Several power companies, including Southern California Edison for Emporia Vue, offer cash back ranging from $50 to over $500 depending on your provider and plan. Check your utility's rebate page before you check out, because the sticker price on these monitors is often not what you'll actually pay.",
+          "highlights": [
+            {
+              "title": "Sense is discontinued, and most comparison articles haven't caught up",
+              "body": "Sense stopped selling its home energy monitor hardware to new customers on December 31, 2025, exiting direct-to-consumer sales entirely to focus on software embedded in next-generation utility smart meters. Multiple 2026 buying guides I checked still list it with a live price and purchase link. If you want the AI auto-detection Sense pioneered, it only works going forward if your specific utility signs a partnership deal, and most haven't yet."
+            },
+            {
+              "title": "No-subscription, local-first monitors win on long-term value",
+              "body": "Emporia Vue 3, Shelly Pro 3EM, Eyedro, Refoss, and IoTaWatt all run their core features without a monthly fee and without a mandatory cloud account, a meaningful difference from the Sense model that depended entirely on an app-and-cloud subscription to function. Over a five-year ownership window, that difference alone can be worth more than the upfront price gap between any two monitors on this list."
+            },
+            {
+              "title": "Utility rebates can cut the real price by more than half",
+              "body": "Southern California Edison, SDGE, PG&E, PPL, Ohio Edison, Burlington Electric, and Green Mountain Power each run rebate programs for specific monitors, with amounts I found ranging from $50 to over $500 depending on provider and plan. The same hardware can cost wildly different amounts depending purely on your zip code, so checking your utility's rebate page before buying matters more than comparing list prices across brands."
+            },
+            {
+              "title": "Local-only monitors answer the privacy objection that's slowing this category down",
+              "body": "Surveys show over 35% of consumers hesitate to share usage data through connected platforms and over 40% hesitate specifically on cloud-based monitoring, and the concern is legitimate: fine-grained usage data can reveal when you're home, your daily routine, and even which specific appliances you're running. Shelly Pro 3EM and Emporia Vue 3 both default to local-first operation, while Sense's AI detection architecture required uploading usage data to function, a point that's now moot since that hardware is gone from the market anyway."
+            },
+            {
+              "title": "SPAN and Wiser suit a bigger electrification project, not just a curious homeowner",
+              "body": "If you're adding an EV charger, heat pump, solar, and a home battery in the same renovation, SPAN's full panel replacement and Schneider's Wiser Energy both give you breaker-level control that a clip-on monitor simply can't match. That control costs real money, SPAN starts at $2,550 MSRP before installation, so I'd only recommend either one to someone already committed to a whole-home electrification project rather than someone who just wants to see where their power is going."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "智慧家庭電力監測器這個品類早就分成兩條路線,2026 年這個分野變成挑選時最關鍵的一件事。Emporia Vue 3 排第一是因為它把多數人真正想要的功能都做到位了,整戶用電加上最多 16 顆獨立標記的迴路,不到 200 美元就買到,而且完全沒有月費,資料預設就留在你自己的網路裡。Shelly Pro 3EM 我排在它後面,理由不太一樣,這台是設計給配電箱用的,不是放廚房檯面的消費電子,機身自己存兩個月的逐分鐘用電紀錄,本地 Wi-Fi、藍牙或 LAN 就能跑自動化,完全不用碰雲端伺服器。SPAN Panel 排第三,因為它是這份榜單裡唯一直接把整個電箱換掉的選項,手機就能單獨關掉某一迴路,家裡加裝儲能電池之後,停電時要決定哪些迴路優先供電,這個功能就變得很有份量。\n\n我必須糾正一個市面上比較文章還在犯的錯誤。Sense 已經在 2025 年 12 月 31 日起不再零售硬體給一般消費者,但今年發布的好幾篇選購指南還是把它列成現役可買的選項,連售價都還寫著。這是錯的。Sense 正在轉型成跟電力公司合作的純軟體方案,它當年開創的 AI 自動辨識家電功能,現在要你的電力公司剛好跟他們合作才能用得到。我把它排在最後,標成歷史脈絡參考,不是你今天真的能下單買到的產品。\n\n買之前真正該花時間查的是電力公司回饋金,這筆錢會直接改變划不划算的計算。像南加州愛迪生對 Emporia Vue 就有回饋方案,金額從 50 美元到 500 多美元都有,看你的電力公司跟方案而定。下單前先去查你家電力公司的回饋頁面,因為這些監測器的標價常常不是你最後實際付的錢。",
+          "highlights": [
+            {
+              "title": "Sense 已經停售,市面上大多數比較文還沒更新",
+              "body": "Sense 從 2025 年 12 月 31 日起不再把家用電力監測器硬體賣給新客戶,直接退出消費端零售市場,轉而專心做嵌入下一代電力公司智慧電表的軟體。我查到好幾篇 2026 年發布的選購指南,還是把它列成現役商品,連售價跟購買連結都還留著。如果你想要 Sense 當年開創的 AI 自動辨識家電功能,以後要你家的電力公司剛好跟他們簽合作才用得到,目前多數電力公司都還沒有。"
+            },
+            {
+              "title": "不用月費、本地優先的監測器,長期划算程度完全不同",
+              "body": "Emporia Vue 3、Shelly Pro 3EM、Eyedro、Refoss 跟 IoTaWatt 這五款,核心功能都不需要月費,也不強制你註冊雲端帳號才能用,跟完全依賴 App 加雲端訂閱才能運作的 Sense 模式差很多。拉長到五年持有週期來看,光是這個差別,就可能比榜單上任何兩台監測器之間的購買價差還值錢。"
+            },
+            {
+              "title": "電力公司回饋金,實際付出金額可能直接砍半",
+              "body": "南加州愛迪生、SDGE、PG&E、賓州 PPL、俄亥俄州 Ohio Edison、佛蒙特州 Burlington Electric 跟 Green Mountain Power,各自對特定監測器有回饋方案,我查到的金額從 50 美元到 500 多美元都有,看你的電力公司跟方案而定。同一台硬體,純粹因為你家郵遞區號不同,實際到手價可能差很大,下單前先查自己電力公司的回饋頁面,比單純比較各品牌標價重要得多。"
+            },
+            {
+              "title": "本地運算的監測器,正好回應了這個品類讓人猶豫的隱私問題",
+              "body": "調查顯示超過 35% 的消費者會猶豫是否透過連網平台分享用電資料,超過 40% 的消費者特別對雲端監測方案感到猶豫,這個擔心是合理的,細顆粒度的用電資料可以反推你什麼時候在家、你的生活作息,甚至你正在用哪一個特定家電。Shelly Pro 3EM 跟 Emporia Vue 3 都預設走本地優先,Sense 的 AI 辨識架構原本需要把用電資料上傳才能運作,不過這點現在已經不是重點了,畢竟那台硬體已經從市面上消失。"
+            },
+            {
+              "title": "SPAN 跟 Wiser 適合全屋電氣化專案,不是單純好奇想看用電的屋主",
+              "body": "如果你同一次翻修就要加裝電動車充電座、熱泵、太陽能跟家用儲能電池,SPAN 整套換電箱跟施耐德的 Wiser Energy 都能給你夾式監測器做不到的斷路器層級控制。這種控制要花真的錢,SPAN 的 MSRP 從 2,550 美元起跳,還不含安裝,所以我只會推薦給已經決定要做全屋電氣化專案的人,不是只想看看自己家用電流向的屋主。"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
