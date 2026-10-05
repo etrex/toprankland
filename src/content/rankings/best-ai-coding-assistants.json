@@ -26998,6 +26998,228 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-10-05",
+      "rankings": [
+        {
+          "id": "claude-code",
+          "rank": 1,
+          "score": 9.6,
+          "scores": {
+            "codeQuality": 9.8,
+            "contextWindow": 9.7,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.8,
+            "valueForMoney": 9.2
+          }
+        },
+        {
+          "id": "openai-codex",
+          "rank": 2,
+          "score": 9.4,
+          "scores": {
+            "codeQuality": 9.2,
+            "contextWindow": 8.2,
+            "ideIntegration": 8.2,
+            "agenticCapability": 9.6,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "cursor",
+          "rank": 3,
+          "score": 9.1,
+          "scores": {
+            "codeQuality": 9.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 9.6,
+            "agenticCapability": 9.3,
+            "valueForMoney": 8.1
+          }
+        },
+        {
+          "id": "google-antigravity",
+          "rank": 4,
+          "score": 8.5,
+          "scores": {
+            "codeQuality": 8.2,
+            "contextWindow": 8.8,
+            "ideIntegration": 8.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "google-jules",
+          "rank": 5,
+          "score": 8.2,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.5,
+            "ideIntegration": 7.5,
+            "agenticCapability": 8.5,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "devin",
+          "rank": 6,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.5,
+            "agenticCapability": 9.0,
+            "valueForMoney": 7.0
+          }
+        },
+        {
+          "id": "github-copilot",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "codeQuality": 8.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 9.5,
+            "agenticCapability": 8.2,
+            "valueForMoney": 6.8
+          }
+        },
+        {
+          "id": "kiro",
+          "rank": 8,
+          "score": 7.9,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 8.3,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "amazon-q-developer",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "zed",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 7.5,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "aider",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 8.0,
+            "contextWindow": 8.0,
+            "ideIntegration": 7.0,
+            "agenticCapability": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "windsurf",
+          "rank": 12,
+          "score": 7.7,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.5,
+            "agenticCapability": 7.5,
+            "valueForMoney": 8.0
+          }
+        },
+        {
+          "id": "augment-code",
+          "rank": 13,
+          "score": 7.6,
+          "scores": {
+            "codeQuality": 7.5,
+            "contextWindow": 8.0,
+            "ideIntegration": 8.0,
+            "agenticCapability": 7.5,
+            "valueForMoney": 7.5
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Claude Code vs. Cursor vs. Codex vs. Antigravity, six months in",
+          "url": "https://thenewstack.io/claude-code-vs-cursor-vs-codex-vs-antigravity-2026/",
+          "source": "The New Stack"
+        },
+        {
+          "title": "Claude Updates by Anthropic, October 2026",
+          "url": "https://releasebot.io/updates/anthropic/claude",
+          "source": "Releasebot"
+        },
+        {
+          "title": "Claude Code vs Cursor vs Copilot 2026",
+          "url": "https://www.buildthisnow.com/blog/tools/extensions/claude-code-vs-cursor-vs-copilot",
+          "source": "Build This Now"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Claude Code holds the top spot today, and it's getting stronger support from fresh benchmark data: it leads SWE-bench Verified at roughly 80.8%, ahead of every editor-embedded competitor in this ranking, while Anthropic's October release of Sonnet 5.5 brings a model that's 30% faster at the same coding tasks. I'm nudging its score up slightly today, from 9.5 to 9.6, and bumping its agentic capability score from 9.7 to 9.8 to reflect that speed gain directly, since agentic workflows live and die on how many tool calls you can run per minute. OpenAI Codex holds a close second on the strength of GPT-6 Astra's coding gains, still the tightest race at the top of this entire list. Cursor holds third as the best all-around IDE experience, routing each task to whichever frontier model performs best for it, which is exactly why its ideIntegration score stays the highest in this ranking. Google Antigravity holds fourth as Google's newest entrant, still building the track record that would let it challenge the top three. GitHub Copilot remains the default pick for large enterprises buying through GitHub itself, even though its per-seat economics get expensive once you add GitHub Enterprise Cloud on top. Kiro holds eighth as AWS's spec-driven rebuild of Amazon Q Developer, a genuinely different design philosophy than anything else in this list. I'm holding every other rank steady; this week's news reinforces why the current order holds.",
+          "highlights": [
+            {
+              "title": "Claude Code's SWE-bench Lead Gets Sharper",
+              "body": "An 80.8% SWE-bench Verified score, ahead of every editor-embedded rival here, plus a 30% faster Sonnet 5.5 release, earns today's small bump to 9.6."
+            },
+            {
+              "title": "Codex Keeps the Top Two Tight",
+              "body": "GPT-6 Astra's coding gains keep OpenAI Codex within a tenth of a point of first place, the closest race in this entire ranking."
+            },
+            {
+              "title": "Cursor Wins by Not Picking One Model",
+              "body": "Routing each task to whichever frontier model performs best keeps its IDE integration score the highest in this list."
+            },
+            {
+              "title": "Kiro's Spec-Driven Rebuild Stands Apart",
+              "body": "AWS's ground-up replacement for Amazon Q Developer takes a genuinely different design philosophy than any other tool here."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Claude Code今天還是穩坐冠軍，而且最新的基準測試數據又給它加分，SWE-bench Verified的分數大約80.8%，是這張榜單裡所有嵌入式IDE對手都追不上的數字，Anthropic十月發表的Sonnet 5.5在同樣的程式任務上速度快了30%。今天我把它的分數小幅上調，從9.5調到9.6，agentic能力分數也從9.7調到9.8，直接反映這次的速度進步，因為agent工作流程的勝負關鍵就在於每分鐘能跑幾次工具呼叫。OpenAI Codex緊咬第二名，靠的是GPT-6 Astra在程式設計上的進步，這也是整張榜單頂端競爭最激烈的一組。Cursor守住第三，靠的是最均衡的IDE體驗，每個任務都會自動選用當下表現最好的前沿模型，不會把你綁死在單一廠商，這正是它的IDE整合分數在這張榜單裡最高的原因。Google Antigravity排第四，是Google最新的參賽者，還在累積能挑戰前三名的實績。GitHub Copilot依然是大企業透過GitHub採購的預設選擇，不過加上GitHub Enterprise Cloud之後每個席位的費用真的不便宜。Kiro排第八，是AWS用規格驅動開發理念重新打造的Amazon Q Developer，設計哲學跟這份名單裡其他工具真的不一樣。其他排名我全部維持不動，這週的消息是強化現有順序，不是要打亂它。",
+          "highlights": [
+            {
+              "title": "Claude Code的SWE-bench領先優勢更明顯",
+              "body": "80.8%的SWE-bench Verified分數，領先這張榜單所有嵌入式IDE對手，加上速度快30%的Sonnet 5.5，讓今天的分數小幅上調到9.6。"
+            },
+            {
+              "title": "Codex讓前兩名差距縮到很小",
+              "body": "GPT-6 Astra在程式設計上的進步，讓OpenAI Codex跟第一名只差零點幾分，是整張榜單競爭最激烈的位置。"
+            },
+            {
+              "title": "Cursor靠不綁死單一模型取勝",
+              "body": "每個任務自動選用當下表現最好的前沿模型，讓它的IDE整合分數在這張榜單裡最高。"
+            },
+            {
+              "title": "Kiro的規格驅動重建自成一格",
+              "body": "AWS從頭打造的Amazon Q Developer替代品，設計哲學跟這裡其他工具真的不一樣。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

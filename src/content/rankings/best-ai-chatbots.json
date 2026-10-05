@@ -19812,6 +19812,202 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-10-05",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.7,
+          "scores": {
+            "reasoning": 9.8,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.7,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.5,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "reasoning": 8.9,
+            "coding": 8.6,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Think your AI chatbot is up to date?",
+          "url": "https://www.tomsguide.com/ai/think-your-ai-chatbot-is-up-to-date-here-is-how-stale-chatgpt-claude-and-gemini-actually-are",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "LLM/AI Changelog - ChatGPT, Gemini, Perplexity & Copilot Release Notes",
+          "url": "https://reconn-ai.com/llm-changelog.php",
+          "source": "Reconn AI"
+        },
+        {
+          "title": "Claude vs ChatGPT vs Gemini vs Grok (September 2026)",
+          "url": "https://aitoolsreview.co.uk/insights/claude-vs-chatgpt-gemini-grok",
+          "source": "AI Tools Review"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ChatGPT holds the top spot today on the strength of GPT-6 Astra, which OpenAI introduced in September and which brings real, measurable improvements in coding, research, computer use, and complex multi-step work, exactly the categories that make up this ranking's reasoning and coding scores. Claude holds second behind Opus 5.5, Anthropic's flagship since September 22, which remains my pick for anyone doing serious coding or agentic work where a single wrong step compounds into wasted hours. Gemini holds third on Gemini 3.8 Flash's specific gains in software engineering and agentic knowledge work, a narrower but genuine improvement over 3.7 Flash. Grok holds fourth on its 4.7 release from September 21, which leans hardest into real-time X integration, the single factor keeping it ahead of Perplexity on the realtime score here. DeepSeek holds seventh on V4.1-Flash's native multimodal visual understanding and faster inference, a real architecture upgrade that keeps it the strongest value pick in this entire ranking for anyone price-sensitive about API costs. None of these releases reorder anything; they're each incremental wins within brands that were already sitting exactly where they are now, so I'm holding every rank steady today.",
+          "highlights": [
+            {
+              "title": "GPT-6 Astra Is Why ChatGPT Still Leads",
+              "body": "September's upgrade brings measurable gains in coding, research, and multi-step agentic work, the exact categories this ranking weighs most."
+            },
+            {
+              "title": "Opus 5.5 Keeps Claude the Serious Coding Pick",
+              "body": "Anthropic's flagship since September 22 remains the model I trust most when a wrong step in agentic coding costs real time."
+            },
+            {
+              "title": "Grok 4.7 Wins on Real-Time, Not Reasoning",
+              "body": "Its tightest-in-class X integration is the specific reason it holds the realtime score lead over Perplexity here."
+            },
+            {
+              "title": "DeepSeek's V4.1-Flash Is the Value Play",
+              "body": "Native multimodal understanding and faster inference at DeepSeek's price point make it the strongest dollar-for-capability pick in this entire list."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ChatGPT今天還是穩坐冠軍，靠的是OpenAI九月發表的GPT-6 Astra，在程式設計、研究、電腦操作跟複雜多步驟任務上都有實際可量測的進步，剛好對應這張榜單裡推理跟程式設計這兩項分數的權重。Claude排第二，背後是Anthropic從九月22日開始主推的Opus 5.5，說真的，認真做程式設計或agent任務、一步走錯就會浪費好幾個小時的那種工作，我還是最推這顆模型。Gemini排第三，靠的是Gemini 3.8 Flash在軟體工程跟agentic知識工作上的具體進步，比3.7 Flash進步幅度不算大但確實是真的。Grok排第四，九月21日發表的4.7版本主打跟X平台最緊密的即時整合，這也是它在即時性分數上能超過Perplexity的關鍵原因。DeepSeek排第七，V4.1-Flash帶來原生多模態視覺理解跟更快的推論速度，這是真正的架構升級，讓它依然是整張榜單裡對API成本敏感的人最划算的選擇。這幾個更新都沒有動到排名順序，每一個都是品牌內部的漸進式進步，原本的位置就已經合理，所以今天名單全部維持不動。",
+          "highlights": [
+            {
+              "title": "GPT-6 Astra是ChatGPT持續領先的原因",
+              "body": "九月的升級在程式設計、研究、多步驟agent任務上都有具體進步，剛好對應這張榜單權重最高的評分項目。"
+            },
+            {
+              "title": "Opus 5.5讓Claude依然是認真程式設計的首選",
+              "body": "Anthropic從九月22日開始主推的旗艦模型，依然是我在agent程式任務裡一步走錯就賠時間的時候最信任的模型。"
+            },
+            {
+              "title": "Grok 4.7靠即時性取勝，不是靠推理",
+              "body": "業界最緊密的X平台整合，正是它在即時性分數上超過Perplexity的具體原因。"
+            },
+            {
+              "title": "DeepSeek的V4.1-Flash是划算的選擇",
+              "body": "原生多模態理解加上更快的推論速度，在DeepSeek的價位上讓它成為整張榜單裡性價比最高的選擇。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

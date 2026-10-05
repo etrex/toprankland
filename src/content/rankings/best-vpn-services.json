@@ -19846,6 +19846,216 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-10-05",
+      "rankings": [
+        {
+          "id": "protonvpn",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "mullvad",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        },
+        {
+          "id": "airvpn",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "privacy": 9.0,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.0,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "pia",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 8.0,
+            "network": 9.0,
+            "usability": 8.0,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "nymvpn",
+          "rank": 11,
+          "score": 7.5,
+          "scores": {
+            "privacy": 9.0,
+            "speed": 7.0,
+            "network": 6.5,
+            "usability": 7.0,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "cyberghost",
+          "rank": 12,
+          "score": 7.2,
+          "scores": {
+            "privacy": 6.5,
+            "speed": 8.0,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Congress Has Another Site-Blocking Bill, And This One Targets VPNs",
+          "url": "https://www.eff.org/deeplinks/2026/10/congress-has-another-site-blocking-bill-and-one-targets-vpns",
+          "source": "EFF"
+        },
+        {
+          "title": "Utah's New Law Targeting VPNs Goes Into Effect May 6th",
+          "url": "https://www.eff.org/deeplinks/2026/04/utahs-new-law-regulating-vpns-goes-effect-next-week",
+          "source": "EFF"
+        },
+        {
+          "title": "Proton VPN: 2025's privacy milestones & the 2026 roadmap",
+          "url": "https://www.techradar.com/vpn/vpn-services/proton-vpn-2025s-privacy-milestones-and-the-2026-roadmap",
+          "source": "TechRadar"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ProtonVPN and Mullvad hold the top two spots unchanged, and I'm using today's entry to fix something that's bothered me for a while: AirVPN, PIA, NymVPN, and CyberGhost belong in this full ranking and I'm restoring all four with scores that reflect where they actually sit against the rest of the field. AirVPN takes ninth on a 9.0 privacy score, its open source Eddie client and genuine port forwarding support put it in the same privacy tier as IVPN and Mullvad, just held back by a smaller network and a less polished interface that asks more of the user than most people want to give. PIA lands tenth, and its 9.0 network score, 35,000 servers, is the largest raw footprint on this entire list, a court tested no logs policy backs that up, but middling privacy and usability scores keep it out of the top tier. NymVPN sits eleventh with the most interesting architecture here, a decentralized mixnet that shuffles and delays packets so no single observer can correlate your traffic, earning it a 9.0 privacy score that rivals the category leaders, though that same architecture caps its speed and network scores since mixnet routing trades raw throughput for that extra privacy layer. CyberGhost rounds out the list at twelfth, a 9.0 network score and dedicated streaming servers make it genuinely easy to use, but a 6.5 privacy score, the lowest here, reflects a corporate ownership structure under Kape Technologies that invites more scrutiny than single purpose privacy tools. On the news side, EFF is now tracking two separate site blocking bills in Congress that would specifically pressure VPN providers to restrict access for US users, worth watching if you rely on a VPN for anything beyond basic privacy. My top four stays exactly where it was: ProtonVPN and Mullvad for anyone who wants privacy first, NordVPN when raw speed and server count matter more, IVPN as the middle ground between Mullvad's minimalism and NordVPN's scale.",
+          "highlights": [
+            {
+              "title": "AirVPN's open source client earns it a top tier privacy score",
+              "body": "A 9.0 privacy score puts AirVPN alongside IVPN and Mullvad, the Eddie client is fully open source and genuine port forwarding support is rare at this price, the tradeoff is a smaller server network and a rougher interface."
+            },
+            {
+              "title": "PIA's 35,000 servers is the largest network on this list",
+              "body": "A 9.0 network score reflects more raw server count than any other provider here, backed by a court proven no logs policy, though privacy and usability scores both land in the middle of the pack."
+            },
+            {
+              "title": "NymVPN's mixnet architecture trades speed for a privacy layer nothing else here has",
+              "body": "A 9.0 privacy score comes from routing traffic through a decentralized mixnet that shuffles and delays packets so no single party can correlate your activity, the same design that caps its speed and network scores."
+            },
+            {
+              "title": "CyberGhost is easy to use but its ownership structure costs it on privacy",
+              "body": "A 9.0 network score and dedicated streaming servers make it simple to recommend for casual use, but a 6.5 privacy score, the lowest in this ranking, reflects Kape Technologies' corporate ownership drawing more scrutiny than independent providers face."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ProtonVPN跟Mullvad還是穩坐前兩名沒變，今天我想修正一個放在心裡一段時間的問題，AirVPN、PIA、NymVPN跟CyberGhost本來就該出現在完整榜單裡，我把這四家補回來，分數也照它們真實的實力落點給。AirVPN排第九，9.0分隱私分數，開源的Eddie客戶端加上真正的連接埠轉發支援，隱私等級其實跟IVPN、Mullvad同一層級，說真的扣分的地方是伺服器數量比較小，介面也比較陽春，要玩得順手需要花點時間摸。PIA排第十，9.0分網路規模，三萬五千台伺服器是這份榜單裡規模最大的，而且不是喊假的，是經過法院驗證的無日誌政策，不過隱私分數跟易用度都只是中等水準，所以排不進前段。NymVPN排第十一，架構是這裡面最特別的，用去中心化的混合網路把封包打散延遲，讓單一方根本沒辦法比對出你的流量，隱私分數拿到9.0分跟頂尖幾家不相上下，不得不說代價就是速度跟網路分數被壓低，混合網路路由本來就是用吞吐量去換隱私層的保護。CyberGhost排在第十二，9.0分網路規模加上專用的串流伺服器讓它真的好上手，但6.5分隱私分數是全榜最低，背後是Kape Technologies的企業持股結構，比起單一目的的隱私工具，這種背景自然招來更多關注跟質疑。消息面上，EFF現在追蹤國會兩個獨立的網站封鎖法案，都在針對VPN業者施壓要求限制美國用戶存取，如果你用VPN不只是為了基本隱私，這個趨勢值得盯著。我心中前四名完全沒變，想先顧隱私就選ProtonVPN或Mullvad，在意速度跟伺服器數量就選NordVPN，IVPN則是介於Mullvad的極簡跟NordVPN的規模之間剛好的平衡點。",
+          "highlights": [
+            {
+              "title": "AirVPN靠開源客戶端拿下頂級隱私分數",
+              "body": "9.0分隱私分數讓AirVPN跟IVPN、Mullvad站在同一層級，Eddie客戶端完全開源，這個價位能有真正的連接埠轉發支援很難得，代價是伺服器網路比較小，介面也比較不親民。"
+            },
+            {
+              "title": "PIA的三萬五千台伺服器是全榜規模最大的網路",
+              "body": "9.0分網路分數代表伺服器數量比這份榜單任何一家都多，背後還有經過法院驗證的無日誌政策撐腰，不過隱私跟易用度分數都落在中段。"
+            },
+            {
+              "title": "NymVPN的混合網路架構用速度換來這裡獨一無二的隱私層",
+              "body": "9.0分隱私分數來自把流量打散進去中心化混合網路，延遲打亂封包讓任何單一方都比對不出你的行為，同樣的設計也壓低了速度跟網路分數。"
+            },
+            {
+              "title": "CyberGhost好上手，但持股結構拖累了隱私分數",
+              "body": "9.0分網路分數加上專用串流伺服器讓它很適合日常使用，但6.5分隱私分數是這份榜單最低的，Kape Technologies的企業持股背景比起獨立業者自然招來更多質疑。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

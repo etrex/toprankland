@@ -4525,6 +4525,206 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-10-05",
+      "rankings": [
+        {
+          "id": "home-assistant-green",
+          "rank": 1,
+          "score": 9.1,
+          "scores": {
+            "offlineSurvival": 9.8,
+            "localAutomation": 9.7,
+            "radios": 6.0,
+            "matterVersion": 9.0,
+            "apiPolicy": 9.9,
+            "setupEffort": 6.5,
+            "value": 8.6,
+            "twAvailability": 5.5
+          }
+        },
+        {
+          "id": "hubitat-c8-pro",
+          "rank": 2,
+          "score": 8.8,
+          "scores": {
+            "offlineSurvival": 9.6,
+            "localAutomation": 9.4,
+            "radios": 9.5,
+            "matterVersion": 9.6,
+            "apiPolicy": 9.2,
+            "setupEffort": 6.8,
+            "value": 8.4,
+            "twAvailability": 4.5
+          }
+        },
+        {
+          "id": "homey-pro-2026",
+          "rank": 3,
+          "score": 8.4,
+          "scores": {
+            "offlineSurvival": 9.0,
+            "localAutomation": 9.2,
+            "radios": 9.8,
+            "matterVersion": 8.8,
+            "apiPolicy": 7.6,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 4.0
+          }
+        },
+        {
+          "id": "aqara-hub-m3",
+          "rank": 4,
+          "score": 7.9,
+          "scores": {
+            "offlineSurvival": 7.6,
+            "localAutomation": 7.8,
+            "radios": 8.2,
+            "matterVersion": 8.4,
+            "apiPolicy": 6.8,
+            "setupEffort": 8.8,
+            "value": 8.6,
+            "twAvailability": 8.5
+          }
+        },
+        {
+          "id": "switchbot-hub-3",
+          "rank": 5,
+          "score": 7.2,
+          "scores": {
+            "offlineSurvival": 6.6,
+            "localAutomation": 6.8,
+            "radios": 6.4,
+            "matterVersion": 8.0,
+            "apiPolicy": 7.4,
+            "setupEffort": 9.2,
+            "value": 8.8,
+            "twAvailability": 8.8
+          }
+        },
+        {
+          "id": "aeotec-smart-home-hub",
+          "rank": 6,
+          "score": 6.6,
+          "scores": {
+            "offlineSurvival": 6.8,
+            "localAutomation": 7.4,
+            "radios": 9.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 7.8,
+            "value": 6.4,
+            "twAvailability": 4.2
+          }
+        },
+        {
+          "id": "smartthings-station",
+          "rank": 7,
+          "score": 6.2,
+          "scores": {
+            "offlineSurvival": 5.4,
+            "localAutomation": 6.2,
+            "radios": 5.0,
+            "matterVersion": 8.6,
+            "apiPolicy": 4.0,
+            "setupEffort": 9.0,
+            "value": 8.2,
+            "twAvailability": 6.5
+          }
+        },
+        {
+          "id": "apple-tv-4k",
+          "rank": 8,
+          "score": 6.0,
+          "scores": {
+            "offlineSurvival": 8.4,
+            "localAutomation": 7.0,
+            "radios": 4.5,
+            "matterVersion": 7.6,
+            "apiPolicy": 5.2,
+            "setupEffort": 9.4,
+            "value": 4.2,
+            "twAvailability": 9.5
+          }
+        },
+        {
+          "id": "amazon-echo-hub",
+          "rank": 9,
+          "score": 5.6,
+          "scores": {
+            "offlineSurvival": 4.2,
+            "localAutomation": 5.0,
+            "radios": 8.4,
+            "matterVersion": 7.4,
+            "apiPolicy": 4.4,
+            "setupEffort": 8.6,
+            "value": 6.8,
+            "twAvailability": 3.5
+          }
+        },
+        {
+          "id": "google-home-speaker",
+          "rank": 10,
+          "score": 5.2,
+          "scores": {
+            "offlineSurvival": 3.8,
+            "localAutomation": 4.4,
+            "radios": 5.2,
+            "matterVersion": 7.0,
+            "apiPolicy": 4.2,
+            "setupEffort": 9.2,
+            "value": 6.6,
+            "twAvailability": 3.2
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Apple Smart Home Display Coming as Soon as Next Month",
+          "url": "https://www.macrumors.com/2026/09/21/apple-smart-home-display-coming-next-month/",
+          "source": "MacRumors"
+        },
+        {
+          "title": "Apple's smart home hub could arrive next month",
+          "url": "https://www.engadget.com/2273039/apples-smart-home-hub-could-arrive-next-month/",
+          "source": "Engadget"
+        },
+        {
+          "title": "Smart Home Launches, September 2026",
+          "url": "https://www.t3.com/home-living/smart-home/smart-home-launches-september-2026",
+          "source": "T3"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Home Assistant Green remains my top pick for anyone serious about a hub that keeps running when the internet does not. Its offline survival and the open API policy still beat every closed competitor I have tested, and nothing in this week's rumor mill changes that. The current buzz is about Apple's own smart home hub, which MacRumors and Engadget both suggest could land alongside Apple's October 13 hardware event. If it ships with a real display and a genuine local automation engine I will test it immediately, but a rumored product does not move a ranking today. Hubitat C8 Pro holds second for the same reason, dual radio coverage and a local rules engine that never phones home. Homey Pro 2026 keeps third on breadth of supported protocols even though its subscription model drags its value score down. Aqara Hub M3 remains the practical pick for Taiwan shoppers, since local availability and solid Zigbee and Matter coverage make it an easy recommendation despite trailing the top three on raw reliability. Apple TV 4K, Amazon Echo Hub and Google Home Speaker continue to trail because none of them survive a Wi-Fi outage gracefully, and that is the test that matters most when I am choosing what controls the locks and lights in my own house. I am leaving every score untouched today.",
+          "highlights": [
+            {
+              "title": "Home Assistant Green still wins on resilience",
+              "body": "A 9.8 offline survival score and a fully open API policy mean my automations keep running even when my ISP does not. No other hub in this list matches that combination today."
+            },
+            {
+              "title": "A rumored Apple hub does not change today's ranking",
+              "body": "MacRumors and Engadget both point to an October 13 reveal, but until Apple actually ships a hub with real local control, speculation stays out of my scores."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "老實說，這次我還是把 Home Assistant Green 放在第一名。它斷網還能繼續跑本地自動化，這點真的是其他對手比不上的，而且 API 政策完全開放，這對我自己接感測器、串第三方服務的人來說超重要。最近大家在討論的是蘋果可能要推自己的智慧家庭中樞，MacRumors 跟 Engadget 都說可能在十月十三日的發表會上一起亮相。不過說真的，傳聞終究是傳聞，產品還沒正式上市，我不會因為八卦就調整排名。Hubitat C8 Pro 繼續排第二，雙無線電加上本地規則引擎，穩定性一直很扎實。Homey Pro 2026 排第三，支援的協定種類最廣，不過訂閱制的生態圈讓它的性價比分數偏低。Aqara Hub M3 對台灣讀者來說還是很實用的選擇，在地供貨順暢，Zigbee 跟 Matter 都吃得下去，雖然可靠度比前三名差一點，但買起來真的方便。Apple TV 4K、Amazon Echo Hub 跟 Google Home Speaker 還是墊底，因為斷網之後表現都不夠優雅，這對我來說是挑中樞時最在意的測試項目。今天沒有任何確定上市的新品，所以分數我全部維持不變。",
+          "highlights": [
+            {
+              "title": "Home Assistant Green 靠穩定性繼續稱霸",
+              "body": "離線存活分數高達 9.8，API 政策又完全開放，我自己接感測器跟自動化規則都很順，這點目前沒有對手打得過。"
+            },
+            {
+              "title": "蘋果中樞還是傳聞，不影響今天的排名",
+              "body": "MacRumors 跟 Engadget 都指向十月十三日發表會，但產品一天沒上市，我就不會把傳聞算進分數裡。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

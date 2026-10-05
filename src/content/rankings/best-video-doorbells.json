@@ -18831,6 +18831,196 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-10-05",
+      "rankings": [
+        {
+          "id": "eufy-e340",
+          "rank": 1,
+          "score": 9.2,
+          "scores": {
+            "video": 9,
+            "value": 9.8,
+            "smartHome": 8,
+            "detection": 9.1,
+            "install": 9.5
+          }
+        },
+        {
+          "id": "aqara-g410",
+          "rank": 2,
+          "score": 9.0,
+          "scores": {
+            "video": 8.6,
+            "value": 9.5,
+            "smartHome": 10.0,
+            "detection": 9,
+            "install": 8.5
+          }
+        },
+        {
+          "id": "aqara-g400-wired",
+          "rank": 3,
+          "score": 8.7,
+          "scores": {
+            "video": 8.6,
+            "value": 8.8,
+            "smartHome": 9.2,
+            "detection": 8.8,
+            "install": 7.5
+          }
+        },
+        {
+          "id": "google-nest-doorbell-wired-2nd-gen",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "video": 8.5,
+            "value": 7.5,
+            "smartHome": 9.5,
+            "detection": 9.8,
+            "install": 7.5
+          }
+        },
+        {
+          "id": "google-nest-doorbell-wired-3rd-gen",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "video": 8.7,
+            "value": 7.8,
+            "smartHome": 9.5,
+            "detection": 9,
+            "install": 7.5
+          }
+        },
+        {
+          "id": "ring-battery-doorbell-pro-2nd-gen",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "video": 9.8,
+            "value": 6.5,
+            "smartHome": 8.5,
+            "detection": 9,
+            "install": 9
+          }
+        },
+        {
+          "id": "tapo-d225",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "video": 8,
+            "value": 9.8,
+            "smartHome": 7,
+            "detection": 8,
+            "install": 9
+          }
+        },
+        {
+          "id": "ring-wired-doorbell-pro-3rd-gen",
+          "rank": 8,
+          "score": 8.2,
+          "scores": {
+            "video": 9.8,
+            "value": 6.2,
+            "smartHome": 8.0,
+            "detection": 9.0,
+            "install": 8.0
+          }
+        },
+        {
+          "id": "arlo-video-doorbell-2k-2nd-gen",
+          "rank": 9,
+          "score": 8.0,
+          "scores": {
+            "video": 8.5,
+            "value": 6.5,
+            "smartHome": 8,
+            "detection": 8.5,
+            "install": 9
+          }
+        },
+        {
+          "id": "ring-battery-doorbell-plus",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "video": 8,
+            "value": 7,
+            "smartHome": 8.5,
+            "detection": 8,
+            "install": 8.5
+          }
+        },
+        {
+          "id": "blink-doorbell-sync-module-2",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "video": 6.5,
+            "value": 9.5,
+            "smartHome": 7,
+            "detection": 7,
+            "install": 9
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Blink debuts its first 2K video doorbells, delivering premium clarity",
+          "url": "https://www.aboutamazon.com/news/devices/blink-2k-video-doorbells-launch",
+          "source": "About Amazon"
+        },
+        {
+          "title": "Google Home is getting a slew of fresh upgrades",
+          "url": "https://techradar.com/home/smart-home/google-home-is-getting-a-slew-of-fresh-upgrades-for-find-my-phone-and-other-smart-home-tools-but-its-not-enough-for-some-users",
+          "source": "TechRadar"
+        },
+        {
+          "title": "39% of Americans Now Have a Video Doorbell at Home",
+          "url": "https://petapixel.com/2026/04/21/39-of-americans-now-have-a-video-doorbell-at-home/",
+          "source": "PetaPixel"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "The eufy E340 holds the top spot again, and the reason is still the same one that put it there: a 9.8 value score built on local storage with no mandatory subscription, paired with a 9.1 detection score that handles package and person alerts without a monthly fee gating the feature. I want to use today's entry to look at the subscription math behind this ranking, since it's the single biggest factor separating the top of this list from the bottom. Ring's Battery Doorbell Pro 2nd Gen posts the best video score here at 9.8, genuinely sharp 2K footage with color night vision, but its 6.5 value score is weighed down by the fact that most of its smart features sit behind a Ring Protect subscription, person detection and video history included. Aqara's G410 takes the opposite approach and it shows in a perfect 10.0 smartHome score, deep HomeKit and Matter integration plus local processing that doesn't ask for a subscription to unlock automations. Tapo's D225 proves the subscription-free approach works at the budget tier too, a 9.8 value score on a doorbell that costs a fraction of what Ring charges. None of this changes where things land, Google's recent Google Home platform upgrades keep the Nest doorbells competitive on detection accuracy at 9.8 and 9.0, but their value scores still trail the subscription-free options because Nest Aware remains necessary for full event history. If a monthly fee is a dealbreaker for you, eufy and Aqara are still the two names on this list worth starting with.",
+          "highlights": [
+            {
+              "title": "eufy's local storage model is still the reason its value score leads this list",
+              "body": "A 9.8 value score holds because the E340 handles person and package detection without gating those features behind a monthly subscription, unlike most of the Ring and Arlo lineup here."
+            },
+            {
+              "title": "Ring's video quality is the best here, but its subscription model caps its value score",
+              "body": "A 9.8 video score on the Battery Doorbell Pro 2nd Gen delivers genuinely sharp 2K color night vision, but a 6.5 value score reflects person detection and video history sitting behind Ring Protect."
+            },
+            {
+              "title": "Aqara's perfect smartHome score comes from skipping the subscription gate entirely",
+              "body": "A 10.0 smartHome score, the only perfect mark in this ranking, reflects deep HomeKit and Matter integration with local processing that unlocks automations without a monthly fee."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "eufy E340還是穩坐第一，原因跟之前一樣，9.8分CP值建立在本地儲存不需要強制訂閱上，搭配9.1分偵測分數，包裹跟人員警示不用月費才能解鎖。今天想特別聊聊這份榜單背後的訂閱費用計算，因為這是拉開前段跟後段最關鍵的因素。Ring Battery Doorbell Pro 2nd Gen拿下全榜最高的9.8分畫質，2K畫面加彩色夜視的效果真的很銳利，不得不說它6.5分的CP值被拖累了，因為大部分智慧功能都要訂閱Ring Protect才能用，人員偵測跟影片歷史紀錄都包含在裡面。Aqara G410走完全相反的路線，直接反映在滿分10.0的智慧家庭整合分數上，深度HomeKit跟Matter整合加上本地運算，不用訂閱就能解鎖自動化功能。Tapo D225也證明了不訂閱的做法在入門價位同樣行得通，9.8分CP值，價格只是Ring的一小部分。這些都沒有改變排名，Google最近升級Google Home平台，讓Nest門鈴的偵測準確度分數維持在9.8分跟9.0分這樣的高水準，但它們的CP值還是輸給不用訂閱的選項，因為要看完整事件歷史還是得訂閱Nest Aware。如果月費對你來說是個大問題，eufy跟Aqara依然是這份榜單最值得先考慮的兩個牌子。",
+          "highlights": [
+            {
+              "title": "eufy的本地儲存模式還是它CP值領先的原因",
+              "body": "9.8分CP值能維持，是因為E340的人員跟包裹偵測不需要訂閱月費才能解鎖，這點跟榜單裡大部分Ring跟Arlo的產品不一樣。"
+            },
+            {
+              "title": "Ring的畫質是這裡最好的，但訂閱制拖累了它的CP值",
+              "body": "Battery Doorbell Pro 2nd Gen拿下9.8分畫質，2K彩色夜視真的很銳利，但6.5分CP值反映出人員偵測跟影片歷史都被鎖在Ring Protect訂閱後面。"
+            },
+            {
+              "title": "Aqara滿分的智慧家庭分數來自完全不設訂閱門檻",
+              "body": "10.0分智慧家庭整合是這份榜單唯一的滿分，深度HomeKit跟Matter整合加上本地運算，不用月費就能解鎖自動化功能。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
