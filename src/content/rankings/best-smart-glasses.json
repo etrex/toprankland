@@ -117,17 +117,17 @@
     },
     {
       "id": "viture-pro-xr",
-      "name": "Viture Pro XR",
+      "name": "Viture Pro 2",
       "brand": "Viture",
-      "url": "https://www.viture.com/pro",
+      "url": "https://www.viture.com/pro2",
       "i18n": {
         "en": {
-          "description": "77g micro-OLED AR glasses with 4,000-nit dual 1080p displays, real-time 2D-to-3D conversion, and SpaceWalker software for Mac, Windows, and consoles.",
-          "priceRange": "$459"
+          "description": "A 63g Sony Micro-OLED AR headset with 1,600-nit UltraClarity 3.0 optics, 0 to -5.0D built-in diopter adjustment, and SpaceWalker's 3840x1080 side-by-side 3D at 60Hz, $160 cheaper than the model it replaces.",
+          "priceRange": "$299"
         },
         "zh-tw": {
-          "description": "77 克 micro-OLED AR 眼鏡，雙眼 1080p 4,000 nits、即時 2D 轉 3D、SpaceWalker 軟體支援 Mac、Windows 和遊戲主機。",
-          "priceRange": "約 NT$14,700"
+          "description": "63克Sony Micro-OLED AR眼鏡，1,600尼特UltraClarity 3.0顯示，內建0到-5.0D近視調節，支援SpaceWalker的3840x1080雙眼3D 60Hz輸出，價格比上一代便宜160美金。",
+          "priceRange": "約 NT$9,700"
         }
       }
     },
@@ -208,6 +208,22 @@
         "zh-tw": {
           "description": "目前消費級 XR 眼鏡裡視野最廣的一款，174 吋虛擬螢幕配 Sony 微型 OLED、1250 尼特亮度，還有九段電致變色調光，打電動看片都很爽，台灣要靠代購。",
           "priceRange": "約 NT$17,900"
+        }
+      }
+    },
+    {
+      "id": "ray-ban-meta-gen-3",
+      "name": "Ray-Ban Meta (Gen 3)",
+      "brand": "Meta x Ray-Ban",
+      "url": "https://www.meta.com/ai-glasses/ray-ban-meta-gen-3-wayfarer/",
+      "i18n": {
+        "en": {
+          "description": "The third-generation Wayfarer, Aviator, and new cat-eye Zena frames add a 12MP ultrawide camera for sharper 3K video, a 9-hour battery with 50 more hours in the case, six microphones, up from two, and a dedicated action button, starting at $449.",
+          "priceRange": "$449"
+        },
+        "zh-tw": {
+          "description": "第三代Wayfarer、Aviator，加上全新貓眼框型Zena，升級1200萬像素超廣角鏡頭拍出更清楚的3K影片，電池續航9小時、充電盒再補50小時，六組麥克風跟獨立快捷鍵，起價449美金。",
+          "priceRange": "約 NT$14,600"
         }
       }
     }
@@ -21067,8 +21083,20 @@
           }
         },
         {
-          "id": "oakley-meta-hstn",
+          "id": "ray-ban-meta-gen-3",
           "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "features": 9.2,
+            "design": 9.4,
+            "battery": 9.3,
+            "ecosystem": 9.5,
+            "value": 8.6
+          }
+        },
+        {
+          "id": "oakley-meta-hstn",
+          "rank": 3,
           "score": 9.0,
           "scores": {
             "features": 9.0,
@@ -21080,7 +21108,7 @@
         },
         {
           "id": "meta-ray-ban-display",
-          "rank": 3,
+          "rank": 4,
           "score": 8.8,
           "scores": {
             "features": 9.4,
@@ -21092,7 +21120,7 @@
         },
         {
           "id": "xreal-one-pro",
-          "rank": 4,
+          "rank": 5,
           "score": 8.7,
           "scores": {
             "features": 9.1,
@@ -21104,7 +21132,7 @@
         },
         {
           "id": "even-realities-g2",
-          "rank": 5,
+          "rank": 6,
           "score": 8.5,
           "scores": {
             "features": 8.3,
@@ -21116,7 +21144,7 @@
         },
         {
           "id": "oakley-meta-vanguard",
-          "rank": 6,
+          "rank": 7,
           "score": 8.4,
           "scores": {
             "features": 8.6,
@@ -21128,7 +21156,7 @@
         },
         {
           "id": "xreal-one",
-          "rank": 7,
+          "rank": 8,
           "score": 8.3,
           "scores": {
             "features": 8.5,
@@ -21139,8 +21167,20 @@
           }
         },
         {
+          "id": "viture-pro-xr",
+          "rank": 9,
+          "score": 8.3,
+          "scores": {
+            "features": 8.6,
+            "design": 8.3,
+            "battery": 8.0,
+            "ecosystem": 8.0,
+            "value": 8.8
+          }
+        },
+        {
           "id": "viture-beast",
-          "rank": 8,
+          "rank": 10,
           "score": 8.2,
           "scores": {
             "features": 8.6,
@@ -21151,20 +21191,8 @@
           }
         },
         {
-          "id": "viture-pro-xr",
-          "rank": 9,
-          "score": 8.0,
-          "scores": {
-            "features": 8.5,
-            "design": 8.0,
-            "battery": 8.0,
-            "ecosystem": 8.0,
-            "value": 8.0
-          }
-        },
-        {
           "id": "even-realities-g1",
-          "rank": 10,
+          "rank": 11,
           "score": 7.8,
           "scores": {
             "features": 7.0,
@@ -21176,7 +21204,7 @@
         },
         {
           "id": "solos-airgo-v-krypton",
-          "rank": 11,
+          "rank": 12,
           "score": 7.4,
           "scores": {
             "features": 7.5,
@@ -21188,7 +21216,7 @@
         },
         {
           "id": "rayneo-x3-pro",
-          "rank": 12,
+          "rank": 13,
           "score": 7.2,
           "scores": {
             "features": 9.0,
@@ -21214,32 +21242,37 @@
           "title": "Meta reveals new smart glasses ahead of Samsung smart glasses debut",
           "url": "https://www.sammobile.com/news/meta-ray-ban-3rd-gen-smart-glasses-launch-ahead-samsung/",
           "source": "SamMobile"
+        },
+        {
+          "title": "Viture Pro 2 review: Cheaper, more comfortable AR glasses",
+          "url": "https://www.tomsguide.com/computing/smart-glasses/viture-pro-2-xr-glasses-review",
+          "source": "Tom's Guide"
         }
       ],
       "i18n": {
         "en": {
-          "commentary": "Ray-Ban Meta Gen 2 holds onto the top spot, but the ground under it just shifted: Meta announced four new models at Connect 2026, including a Ray-Ban Meta Gen 3 priced at $349, Meta Adventurer Glasses at $249 shipping October 23, and the Gen 3 line is reportedly priced around $449 with Samsung's Gemini-powered Intelligent Eyewear now confirmed for a November launch at roughly $399. That's enough new information that I nudged the Gen 2's value score down a tenth of a point, from 9.5 to 9.4, because paying full price for last generation's hardware right as its successor ships at a similar or lower price is a weaker value proposition than it was a week ago.\n\nDespite that, the Gen 2 keeps first place because its ecosystem score still leads this list and Meta's software support for existing Gen 2 units isn't disappearing the moment Gen 3 ships. The Oakley Meta HSTN remains second, strong on ecosystem and battery life for athletes, and the Meta Ray-Ban Display holds third as the most feature-dense option, assuming you're willing to pay $799 for a heads-up display that's still working out its kinks.\n\nIf you don't already own a pair, I'd wait a few weeks. Both Meta's Gen 3 and Samsung's debut are close enough now that buying Gen 2 today means buying into a lineup that's about to get a direct, cheaper-or-equal-priced successor.",
+          "commentary": "Ray-Ban Meta Gen 3 is now shipping, and I'm adding it to this list at $449, a $70 premium over Gen 2. The upgrades are real: a 12MP ultrawide camera that shoots sharper 3K video, a 9-hour battery with 50 more hours sitting in the case, six microphones, up from two, and a dedicated action button that opens Meta AI without a voice command. That's enough to land it in second place.\n\nGen 2 keeps the top spot anyway. Meta is still selling it at the original $379 across Wayfarer, Headliner, and Skyler, and the ecosystem score reflects that existing Gen 2 owners get the same app support and Meta AI updates as Gen 3 buyers. Paying $70 more for a longer battery and a sharper camera makes sense if you're buying new, but it isn't enough of a leap to make the older, cheaper model the wrong choice. I'd call Gen 3 the better glasses and Gen 2 the better deal, and I'm ranking them in that order.\n\nOakley Meta HSTN holds third on the same athlete-focused strengths it's had all year, strong ecosystem and battery life in a sport frame.\n\nElsewhere, Viture refreshed its Pro line. The old Pro XR is gone, replaced by the Pro 2 at $299, $160 cheaper than what it replaces, while adding a brighter 1,600-nit Sony Micro-OLED panel, a 63-gram frame that's 16 percent thinner, and diopter adjustment down to -5.0D for nearsighted users who'd otherwise need contacts under these. That combination of a lower price and real optical upgrades is enough to move it past the Viture Beast into ninth.",
           "highlights": [
             {
-              "title": "Gen 3's imminent arrival dents Gen 2's value score",
-              "body": "With Meta's Gen 3 landing around $449 and Samsung's Gemini-powered debut confirmed for November near $399, paying full price for Gen 2 hardware today is a weaker deal than it was last week."
+              "title": "Gen 3 lands at #2, but Gen 2 remains the smarter buy",
+              "body": "A 9-hour battery, a sharper 12MP camera, and six mics justify Gen 3's $449 price for new buyers, but Meta keeps selling Gen 2 at the original $379 with identical ecosystem support."
             },
             {
-              "title": "Ecosystem depth is still why Gen 2 holds first place",
-              "body": "Meta's software support and app ecosystem for existing Gen 2 units remain the best in this category, and that doesn't evaporate the moment a successor ships."
+              "title": "Viture's Pro 2 undercuts its predecessor by $160",
+              "body": "A 1,600-nit Micro-OLED panel, a 63-gram frame, and diopter adjustment down to -5.0D all arrive at a lower price than the Pro XR it replaces, enough to push it past the Viture Beast in this ranking."
             }
           ]
         },
         "zh-tw": {
-          "commentary": "Ray-Ban Meta Gen 2 這次還是守住第一名，不過它腳下的地面已經開始鬆動了。Meta 在 Connect 2026 發表了四款新機型，包括定價 349 美金的 Ray-Ban Meta Gen 3、10 月 23 日上市、249 美金的 Meta Adventurer Glasses，據報導 Gen 3 系列定價大約在 449 美金，Samsung 搭載 Gemini 的 Intelligent Eyewear 現在也確認將在 11 月上市，價格大約 399 美金。這些新消息足夠讓我把 Gen 2 的性價比分數往下調 0.1 分，從 9.5 調到 9.4，因為在接班機型即將以相近或更低價格上市的這個時間點，全價買上一代硬體的划算程度，確實比一週前弱了一些。\n\n即便如此，Gen 2 還是守住第一名，因為它的生態系分數在這份清單裡依然領先，而且 Meta 對現有 Gen 2 用戶的軟體支援也不會在 Gen 3 上市那一刻就消失。Oakley Meta HSTN 繼續排第二，生態系跟電池續航對運動愛好者來說都很強。Meta Ray-Ban Display 守住第三名，是功能最豐富的選擇，前提是你願意花 799 美金買一個還在修正問題的抬頭顯示器。\n\n如果你還沒入手第一支，我會建議再等個幾週。Meta 的 Gen 3 跟 Samsung 的首款產品現在時間點都靠得很近，現在買 Gen 2 等於是買進一條馬上要迎來價格相近甚至更便宜接班機型的產品線。",
+          "commentary": "Ray-Ban Meta Gen 3已經正式開賣了，我把它加進這份榜單，定價449美金，比Gen 2貴了70美金。升級幅度是真的，1200萬像素超廣角鏡頭拍出來的3K影片更清楚，電池續航9小時，充電盒還能再補50小時，麥克風從兩組升級到六組，還多了一個獨立快捷鍵，按一下就能直接叫出Meta AI不用講話。這些升級讓它直接拿下第二名。\n\n不過Gen 2還是守住冠軍。Meta現在還是以379美金原價賣Gen 2，款式一樣是Wayfarer、Headliner、Skyler三款，生態系分數也反映現有Gen 2用戶拿到的App支援跟Meta AI更新跟Gen 3買家完全一樣。多花70美金換更長的電池跟更清楚的鏡頭，如果是第一次入手確實划算，但還沒到讓舊款變成錯誤選擇的程度。我會說Gen 3是更好的眼鏡，Gen 2是更好的交易，排名就照這個邏輯走。\n\nOakley Meta HSTN繼續排第三，運動向的強項整年都沒變，生態系跟電池續航對運動愛好者來說依然很夠力。\n\n另外，Viture這次把Pro系列整個換代了。舊款Pro XR已經下架，換成299美金的Pro 2，比它取代的機型便宜160美金，還升級成1,600尼特的Sony Micro-OLED面板，機身63克、比上一代薄16%，近視調節範圍也擴大到-5.0D，這個度數的近視族群不用額外戴隱形眼鏡就能直接用。價格降了規格也升了，這個組合夠讓它在排名上超過Viture Beast，排到第九。",
           "highlights": [
             {
-              "title": "Gen 3 即將到來讓 Gen 2 的性價比分數下滑",
-              "body": "Meta 的 Gen 3 定價約 449 美金，Samsung 搭載 Gemini 的首款產品也確認 11 月以約 399 美金上市，現在全價買 Gen 2 硬體，划算程度比一週前弱了。"
+              "title": "Gen 3排第二，但Gen 2依然是更划算的選擇",
+              "body": "9小時電池、更清晰的1200萬像素鏡頭、六組麥克風，這些升級讓449美金的Gen 3對新買家值得入手，但Meta仍以原價379美金賣Gen 2，生態系支援完全相同。"
             },
             {
-              "title": "生態系深度是 Gen 2 守住第一的原因",
-              "body": "Meta 對現有 Gen 2 用戶的軟體支援跟應用生態系依然是這個類別裡最強的，這點不會因為接班機型上市就立刻消失。"
+              "title": "Viture Pro 2比上一代便宜160美金",
+              "body": "1,600尼特Micro-OLED面板、63克機身、近視調節擴大到-5.0D，規格升級價格還降低，這樣的組合讓它在這份榜單裡排到了Viture Beast前面。"
             }
           ]
         }
