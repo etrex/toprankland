@@ -2,6 +2,60 @@
 
 ---
 
+## 2026-10-06 研究報告
+
+### 開場註記
+
+距離上一份研究報告（09-24）已經 12 天。這段期間站上持續有每日更新與競品維護的提交紀錄，且新增了一題 best-smart-home-energy-monitors（10-04 上線），目前站上共 148 份榜單。核對 09-23 與 08-26 兩份報告列出的待建清單，確認 best-bluetooth-trackers 已經上線，09-23 報告提出的 best-ai-pendants 也已經建置，實際上線的 slug 是 best-ai-wearable-pendants。尚未建置的題目還有 best-pimple-patches（09-23）、best-cloud-storage、best-medical-alert-systems、best-identity-theft-protection（08-26）四題，以及 09-24 報告點出的排程缺口 best-earplugs-for-sleeping、best-smart-displays、best-portable-tire-inflators 三題。本輪任務範圍限定市場研究與新主題發掘，不處理既有待建清單的排程順序，只記錄現狀供下一次有排程判斷權限的工作階段參考。
+
+本輪查到兩個新主題，兩題都有明確的結構性事件可以作為建站論述的核心，不是單純的市場規模成長故事。
+
+### 新主題建議
+
+1. **Best At-Home Clear Aligners 2026（全新主題，核心事實是這個品類的三個創始品牌在過去兩年內全部退出直接面對消費者的市場，退出的原因三個都不一樣，可以直接寫成一張時間線）**
+   - 建議 slug: `best-clear-aligners`
+   - EN title: Best At-Home Clear Aligners of 2026: NewSmile, ALIGNERCO, Smileie and Aligner32 Ranked After SmileDirectClub, Candid and Byte All Exited Direct-to-Consumer Sales
+   - ZH-TW title: 2026 最佳居家隱形牙套排行榜：NewSmile、ALIGNERCO、Smileie 與 Aligner32 在 SmileDirectClub、Candid 與 Byte 三大創始品牌全面退出直銷市場後的完整比較
+   - 目標關鍵字: best at home clear aligners 2026, is byte still available, smiledirectclub alternatives 2026, byte aligners shut down, candid aligners discontinued, newsmile vs alignerco, cheapest clear aligners 2026, at home invisalign alternative, clear aligners without dentist visit, best clear aligners for mild crowding
+   - SEO 潛力。這題成立的第一個理由是三個創始品牌退出市場的時間點與原因都可以用公開資料逐一核實，三件事合起來構成這個品類過去兩年最大的結構性變動。SmileDirectClub 2023 年 9 月申請破產保護，同年 12 月 8 日正式停業清算，官方說法是找不到願意注資的買家。Candid 在 2024 年 3 月 8 日是一般消費者最後一天可以購買保持器，之後完全停止對個人消費者銷售牙套、保持器、矯正配件與病歷，轉型成只服務牙醫診所的 CandidPro 模式。Byte 的退出最值得寫，Dentsply Sirona 在 2024 年 10 月 24 日宣布主動暫停 Byte 的銷售與行銷，公司自己的說法是跟 FDA 溝通之後對法規要求產生疑慮，暫停範圍包含新訂單與近期訂單的出貨與處理，2025 年 1 月起不再接受新患者，2025 年 2 月正式認列資產減損並關閉業務，Dentsply Sirona 的財報揭露這筆減損金額是 1.87 億美元，而且目前有一起聯邦法院允許繼續審理的訴訟案，原告指控 Dentsply Sirona 在 Byte 的業務處理上有疏失。截至 2026 年 9 月 30 日，Byte 官網只留一個聯絡信箱。SmileDirectClub 與 Byte 兩段都可以直接引用破產法庭紀錄或上市公司財報佐證，Candid 的轉型時間點目前只查到客服回覆與二手整理站引用，官方公告原文建置前要回 candidco.com 與 CandidPro 官網重新核實一次，不能只引用整理站的轉述。
+   - SEO 潛力（續，留下來的玩家與決策樹）。第二個理由是創始品牌出場之後，留下來的玩家定位分得很清楚，NewSmile 用貝殼狀邊緣設計，官網主打不接觸牙齦、降低刺激感；ALIGNERCO 主打最低價與免費保持器；Smileie 主打彈性方案與免費微調；Aligner32 與 Invisalign 則維持傳統牙醫診所監督模式。這代表「完全無牙醫監督的居家模式」與「牙醫遠端或現場監督模式」是這個品類現在唯一重要的分野，而不是單純比價格，這個決策樹是創始品牌出場後才真正成立的新角度，舊內容全部寫在三個品牌還在的時候，比較邏輯已經過期。第三個理由是客單價足夠支撐聯盟抽成，居家隱形牙套方案普遍落在 1,400 美元到 2,400 美元之間，遠高於站上牙齒相關的 best-teeth-whitening-kits、best-electric-toothbrushes、best-water-flossers 三題，可以在站內互相導流同一批口腔護理受眾。
+   - 建置注意。這是 YMYL 題，頁面只能陳述各品牌的公開事實，例如公司是否仍在營運、是否有牙醫遠端監督、退款與保持器政策、FDA 相關聲明，絕對不能替讀者判斷哪一款牙套適合哪一種咬合問題，也不能宣稱任何品牌比傳統牙醫矯正更安全或更快，每一項醫療相關陳述都要附上這是一般資訊而非醫療建議的提示。Byte 與 Dentsply Sirona 的訴訟案要客觀陳述訴訟狀態，不預判結果。
+   - 候選競品（9個，建置前逐一確認官網是否仍在接單）: NewSmile, ALIGNERCO, Smileie, Aligner32, SnapCorrect, Dr. Alfred, Impress, ClearCorrect, Invisalign（傳統牙醫監督模式基準組）
+   - 候選 scoreFactors: 牙醫監督模式（遠端 vs 本人 vs 無）、公開揭露的法規與訴訟狀態、治療總費用、保持器與矯正後保障、適用咬合問題範圍、退款與中途取消政策
+
+2. **Best Walking Pads 2026（全新主題，與站上既有 best-treadmills 完全不是同一個品類，品牌陣容、使用場景與搜尋意圖都不重疊）**
+   - 建議 slug: `best-walking-pads`
+   - EN title: Best Walking Pads of 2026: WalkingPad, UREVO, Sperax and Egofit Ranked by Speed Range, Incline, Noise Level and Under-Desk Footprint
+   - ZH-TW title: 2026 最佳走步機排行榜：WalkingPad、UREVO、Sperax 與 Egofit 依速度範圍、坡度、噪音分貝與桌下收納尺寸推薦
+   - 目標關鍵字: best walking pad 2026, under desk treadmill vs walking pad, walkingpad c2 review, urevo walking pad review, quietest walking pad, best walking pad for small apartment, walking pad for weight loss, walking pad speed incline comparison, cheapest walking pad 2026, walking pad vs regular treadmill
+   - SEO 潛力。這題與站上既有的 best-treadmills 是兩個不同的品類，既有榜單裡的 NordicTrack、ProForm 等十款競品全部是傳統跑步機，主打高速跑步與大型機體，而走步機是低速步行專用、機體壓扁到可以收進桌下或沙發底下，兩者的購買決策完全分開，不會互相取代。市調機構對這個窄分類給出的 2026 年市場規模是 12 億美元，2026 至 2036 的 CAGR 為 16.4%，是站上規劃中成長速度最快的品類之一。另一份更窄口徑、只算桌下跑步機的報告給出 2026 年 1.825 億美元，兩組數字口徑不同但方向一致，建站論述採用區間表述。這個品類值得做的第二個理由是媒體覆蓋密度今年明顯提升，fitnessvolt、gearuptofit、knowledgelib、frontdeskreview 等多家獨立評測站都在 2026 年同步發布或更新這個品類的排行內容，覆蓋密度足以證明搜尋量撐得起持續更新的內容產線。第三個理由是品牌定位已經分層清楚，WalkingPad C2 主打收納與摺疊設計；UREVO 主打性價比，旗下 CyberPad 加上 0 至 14% 自動坡度與較大踏板尺寸，是目前市面上少數同時有坡度調整的入門款；Sperax 主打輕量與低價；Egofit Walker Pro 主打最小體積，定位辦公室優先。這個「先問空間與是否需要坡度再推薦」的決策樹，目前多數內容仍然只列規格表沒有做決策引導。第四個理由是遠端工作與居家健康意識是站上多個既有品類（best-standing-desks、best-office-chairs、best-fitness-trackers）共用的受眾，站內互相導流的邊際成本低。
+   - 建置注意。噪音分貝與承重上限一律以各品牌官網當日規格頁為準，坡度調整功能要明確標示是否為自動感測還是手動段位調整，這是這個品類裡最容易被行銷文案模糊帶過的規格。
+   - 候選競品（8個）: WalkingPad C2, UREVO CyberPad, Sperax Walking Pad, Egofit Walker Pro, TRAILVIBER, Goplus Under Desk Treadmill, SuperFit Walking Pad, Redliro Walking Pad
+   - 候選 scoreFactors: 速度範圍、坡度調整方式（自動 vs 手動）、承重上限、收納與摺疊設計、噪音分貝、價格帶與保固
+
+### 市場動態
+
+- **Amazon 在 2026 年 10 月 1 日官方發布全新 Kindle 系列，這是站上既有 best-e-readers 下一次維護時應該直接採用的規格更新，不需要屆時重查**。標準款 Kindle 即日起出貨，Paperwhite 與 Colorsoft 開放預購，螢幕改成與邊框齊平的設計，旗艦款機身改用回收鋁材質取代塑膠。Paperwhite 螢幕放大到 7 吋、採用氧化物薄膜電晶體背板，官方稱是對比度最高的一代 Paperwhite，防水等級 IPX8，續航最長 12 週，Signature Edition 版本含 32GB 儲存、自動調光、磁吸底座充電與雙擊翻頁，鋁合金機身兩色售價 249.99 美元。整個系列定價區間拉大到 149.99 美元至 319.99 美元，比前一代價格階梯更陡。
+- **Byte 退出市場的監管細節值得完整寫進市場動態，這是上市公司財報與產業媒體交叉驗證過的事實，可信度高於業者自己的說法**。Dentsply Sirona 2024 年 10 月 24 日主動暫停 Byte 銷售與行銷的決定是在諮詢 FDA 之後做出的，公司自陳是對法規要求產生疑慮，2025 年第一季起不再接受新患者，2025 年 2 月正式關閉業務，當季財報認列 1.87 億美元資產減損，項目包含商標、固定資產、資本化軟體與營運資金。這筆減損金額與認列時間點都已經出現在 Dentsply Sirona 的公開財報裡，可以直接引用不需要轉述二手媒體報導。另有一起聯邦法院已允許繼續審理的訴訟案，原告方向 Dentsply Sirona 提出求償，站上建置 best-clear-aligners 時這部分只能客觀陳述訴訟狀態，不能預判結果。
+- **走步機與既有 best-treadmills 的品類邊界要在站內文案裡寫清楚，避免讀者誤以為是同一類商品的高低階版本**。走步機的核心限制是速度上限普遍在 3.5 到 4 英里每小時之間，只能支援步行而不能用於跑步，這與 best-treadmills 榜單裡動輒支援每小時 12 英里以上的跑步機是完全不同的運動強度分級，頁面交叉連結時需要附上這段說明，而不是單純列「相關排行榜」。
+
+### 資料來源
+
+- [Fortune: Bankrupt SmileDirectClub is shutting down](https://fortune.com/2023/12/11/bankrupt-smiledirectclub-shutting-down)
+- [NewMouth: Byte Aligners in 2026, Why Byte Is No Longer Available](https://www.newmouth.com/byte-review/)
+- [DrBicuspid: Regulatory concerns lead Dentsply to suspend sale of Byte aligners](https://www.drbicuspid.com/dental-business/regulatory-updates/article/15707037/regulatory-concerns-lead-dentsply-to-suspend-sale-of-byte-aligners)
+- [Dentsply Sirona: Form 10-K FY2025 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/818479/000081847926000075/xray-20251231.htm)
+- [Morningstar: Dentsply Sirona, Suspension of Byte Aligners Throws a Wrench Into Fast-Growing Segment](https://www.morningstar.com/company-reports/1247696-dentsply-sirona-suspension-of-byte-aligners-throws-a-wrench-into-fast-growing-segment)
+- [Orthodontic Products Online: Federal Court Allows Lawsuit Against Dentsply Sirona Over Byte Aligner Business to Proceed](https://orthodonticproductsonline.com/industry-news/company-news/federal-court-allows-dentsply-sirona-byte-aligner-lawsuit-to-proceed/)
+- [NewMouth: The Best Clear Aligners of 2026](https://www.newmouth.com/best-clear-aligner/)
+- [FactMR: Walking Pads Market](https://www.factmr.com/report/walking-pads-market)
+- [iMARC Group: Under Desk Treadmill Market](https://www.imarcgroup.com/under-desk-treadmill-market)
+- [FitnessVolt: 8 Best Walking Pads and Under-Desk Treadmills of 2026 for Home Offices](https://fitnessvolt.com/best-walking-pads/)
+- [T3: Amazon refreshes its entire Kindle family, now includes aluminium Kindle, Kindle Paperwhite and Colorsoft models](https://www.t3.com/tech/tablets/amazon-refreshes-its-entire-kindle-family-now-includes-aluminium-kindle-kindle-paperwhite-and-colorsoft-models)
+- [TechRepublic: Amazon's New Kindle Lineup Compared, Kindle vs Paperwhite vs Colorsoft](https://www.techrepublic.com/article/news-kindle-paperwhite-colorsoft-comparison/)
+
+---
+
 ## 2026-09-24 研究報告
 
 ### 開場註記
@@ -6355,3 +6409,236 @@ best-password-managers, best-standing-desks, best-wireless-chargers, best-ai-pro
 - [The Robots HQ: Best Window Cleaning Robot of 2026](https://therobotshq.com/robozine/best-window-cleaning-robot-2026/)
 - [CPSC: CPSC Posts New Product Recalls and Product Safety Warnings to its Web Site (September 24, 2026)](https://www.prnewswire.com/news-releases/cpsc-posts-new-product-recalls-and-product-safety-warnings-to-its-web-site-302889499.html)
 
+---
+
+## 2026-10-01 研究報告
+
+站上目前 143 檔排行榜，09-30 報告點名的兩個候選 best-ai-toys-for-kids 與 best-window-cleaning-robots 都還沒建置。本輪查到一條會直接改變 best-ai-toys-for-kids 判斷的新法規時間點，必須在下一輪建置前納入考量，另外本輪也找到一個全新候選主題，最佳藍牙防丟器，有明確的產品發布事件與獨佔資料層可以支撐。
+
+### 新主題建議
+
+1. **最佳藍牙防丟器（best-bluetooth-trackers）**：這是本輪第一優先的新候選。產品發布事件是明確的，Apple AirTag 2 已於 2026 年 1 月 26 日發表、1 月 30 日上市，單顆定價 29 美元，四入組 99 美元，規格是第二代超寬頻晶片讓精確尋物距離延長 50%，喇叭音量提高 50%，電池維持 CR2032 鈕扣電池、續航超過一年，首度支援 Apple Watch Series 9 以上機型的精確尋物。這個品類站上目前完全沒有覆蓋，而且市面上已經形成清楚的陣營，Pebblebee Clip 5 主打跨平台與可充電，Samsung Galaxy SmartTag 2 續航上看 500 天，Chipolo ONE Point 跑 Google Find My Device 網路，Tile Pro 是跨 iOS 與 Android 家庭的首選，Belkin SureFind Spot 14.99 美元起同時支援 Apple Find My 與 Google Find Hub。
+   - 建議 slug: `best-bluetooth-trackers`
+   - 目標關鍵字: best bluetooth tracker 2026, airtag 2 vs tile, best airtag alternative for android, bluetooth tracker anti stalking, find my device vs find my network tracker
+   - 獨佔資料層。這個品類的規格比較本身並不稀缺，BGR、TechRepublic、pickslab、hotairtag 都已經有詳細的規格榜單，本站若只做電池續航與定價比較不會有競爭力。真正能疊加的獨佔欄位是防跟蹤能力的實測比較與法律風險對照表。法庭文件顯示美國執法單位自 2021 年 AirTag 上市以來已經累積超過 4 萬件與 AirTag 相關的跟蹤通報案件，這組數字目前只出現在 2026 年對 Apple 提起的集體訴訟資料中，一般規格比較站不會引用。Apple 已於 2026 年對 AirTag 2 更新防跟蹤韌體，但各家競品對「陌生裝置跟著你移動」的警示機制成熟度差異很大，有些只支援 iPhone 偵測、沒有對應的 Android 偵測 App，本站可以把「是否同時支援 iOS 與 Android 雙向警示」、「是否有獨立防跟蹤 App（如 Apple 的 Tracker Detect）」、「出廠後是否曾因跟蹤爭議更新韌體」三欄並列。另外可疊加各州法規現況，加州刑法第 637.7 條明確禁止未經同意用電子追蹤裝置判定他人位置或行動，伊利諾州 2023 年已修法把藍牙防丟器明文納入跟蹤罪適用範圍，這類州法差異也是規格比較站不會整理的角度。
+   - 建置注意。寫作語氣需要清楚區分「找東西」的正當用途與「跟蹤人」的違法用途，標題與導言聚焦找回遺失物品的正當情境，防跟蹤比較欄位用事實陳述呈現，不做聳動化處理。
+
+### 待處理候選更新
+
+- **best-ai-toys-for-kids（延續 09-30 報告的第一優先候選，本輪查到關鍵法規變動，建置前必須納入）**：加州州長 Gavin Newsom 已於 2026 年 9 月 10 日簽署 SB 867，對販售給 16 歲以下兒童且內建「陪伴型聊天機器人」的玩具祭出四年禁售令，禁令自 2027 年 1 月 1 日生效，持續到 2031 年 1 月 1 日。法案定義的「陪伴型聊天機器人」是能做出類人適應性回應、具擬人特徵、且能維持跨多次互動關係的 AI 系統，排除純客服用途、電玩內建對話與不建立情感連結的語音助理。這條禁令把 09-30 報告已經寫入的 FTC COPPA 新規時間點往前推進一步，COPPA 新規是資料蒐集方式的限制，SB 867 則是直接禁止這整個品類在加州製造與銷售，兩條時間線疊在一起形成清楚的倒數視窗，2026 年 10 月到 2026 年 12 月是這個品類在加州仍合法銷售的最後一季。這對建置判斷有兩層意義，第一是時效性角度，站上若在禁令生效前建置，可以用「禁令生效倒數」當作明確的新聞鉤子吸引當下搜尋流量，第二是內容耐久性角度，2027 年起加州消費者對這個品類的「購買前比較」搜尋意圖會大幅萎縮，轉為「禁令是什麼」、「現有的還能不能用」這類資訊型搜尋，站上若建置需要同時規劃好禁令生效後的內容轉型，例如把排行榜改寫成「禁令前仍可購買地區與現行安全紀錄」的說明頁，而不是任由頁面在 2027 年後失去搜尋意圖。09-30 報告已查到的三起資安事件、COPPA 執法時間點與價格資料全部維持有效，不需要重查。
+- **best-window-cleaning-robots（延續 09-27、09-29、09-30 三輪的第二優先候選，本輪確認資料持續有效，可直接建置）**：IFA 2026 發表的 Ecovacs WINBOT W2S PRO OMNI 本輪查到更完整的效能數字，四向刷頭系統比前一代提升 46% 清潔效率，每平方公尺清潔時間縮短到 90 秒，TruEdge 2.0 技術結合邊框感測與四角刷洗。09-30 報告已確認的獨佔角度，安全繩規格與邊角清潔實測比較，本輪額外查到一則安全提醒可以直接補進比較欄位，2026 年 9 月 30 日的評測文章指出擦窗機器人都需要備用電池與固定繩，且沒有一款機型能清潔水平放置、從下往上清潔的玻璃，這條限制說明本站可以做成「適用窗型對照表」,是多數評測站沒有特別整理的欄位。
+
+### 觀察但不建議動工
+
+- **餐盒宅配服務（meal kit delivery services）**：不建議建置。HelloFresh、Blue Apron、Home Chef、EveryPlate、Sun Basket、Purple Carrot 這些品牌的評測已經被 Yahoo Health、Taste of Home、The Kitchn、Reviewed、Fortune 等大型媒體密集覆蓋，每家都做過實際試吃與配送測試，樣本數與測試深度本站難以超越。這個品類也沒有查到法規、回收、資料外洩這類可以疊加的獨佔資料層，純粹是口味與配送彈性的主觀比較，性質與先前報告點名的氫水瓶、刮痧板、可攜式洗衣機一樣，不跨過獨佔資料層門檻。
+
+### 市場動態
+
+- 2026 年 10 月的電商選品觀察（Shopify、Exploding Topics、Sell The Trend）顯示本月熱銷大類是美妝個人護理與居家季節裝飾，能量飲料品類年成長 945%,手拿包成長 831%,羽絨外套成長 819%,這些數字屬於零售選品參考，品項零散且多數已有站上既有分類覆蓋，不構成新主題建議，僅供後續市場脈絡段落引用。
+- AI 玩具品類的監管動態本輪持續擴大，除了加州 SB 867,目前已有超過 100 件 AI 相關法案在 30 多個州提出，其中加州與紐約各有一件待審法案專門處理 AI 兒童玩具,Common Sense Media 建議 5 歲以下兒童不應接觸 AI 玩具,6 到 12 歲則建議家長保持高度警戒，這些資訊可以在 best-ai-toys-for-kids 建置時並入監管時間軸段落。
+
+### 資料來源
+
+- [BGR: The 9 Best Bluetooth Trackers To Buy In 2026](https://www.bgr.com/2154285/best-bluetooth-trackers/)
+- [TechRepublic: 5 Best AirTag Alternatives for 2026](https://www.techrepublic.com/article/news-best-airtag-alternatives-2026/)
+- [MacRumors: AirTag 2 Orders and Release Date](https://www.macrumors.com/2026/01/26/airtag-2-release-date-2/)
+- [MacRumors: 10+ Things to Know About the New AirTag 2](https://www.macrumors.com/2026/01/26/10-things-to-know-about-the-new-airtag-2/)
+- [9to5Mac: Apple just changed AirTag 2's anti-stalking feature](https://9to5mac.com/2026/04/01/apple-just-changed-airtag-2s-anti-stalking-feature/)
+- [Six Colors: AirTag 2 doesn't break crowdsourcing or anti-stalking measures](https://sixcolors.com/post/2026/02/airtag-2-doesnt-break-crowdsourcing-or-anti-stalking-measures/)
+- [Attorney Michael Benavides: An AirTag in Your Bag, California Law on Bluetooth-Tracker Stalking](http://www.attorneymichaelbenavides.com/an-airtag-in-your-bag-california-law-on-bluetooth-tracker-stalking)
+- [Toy Association: California Governor Signs AI Toy & Chatbot Bills into Law](https://www.toyassociation.org/PressRoom2/News/2026-News/california-governor-signs-ai-toy-and-chatbot-bills-into-law.aspx)
+- [California State Senate (SD18): First-In-Nation AI Toy Moratorium Signed into Law](https://sd18.senate.ca.gov/news/first-nation-ai-toy-moratorium-signed-law)
+- [Transparency Coalition: Safety concerns lead California to halt chatbot toy sales, enact four-year moratorium](https://www.transparencycoalition.ai/news/safety-concerns-lead-california-to-halt-chatbot-toy-sales-enact-four-year-ban)
+- [IBTimes SG: California AI Chatbot Law, What Adam's Law and SB 867 Mean for Kids](https://www.ibtimes.sg/california-ai-chatbot-law-what-adams-law-sb-867-mean-kids-93654)
+- [WifiHiFi: IFA 2026, Ecovacs Debuts Winbot W2S Pro Omni Window Cleaner](https://wifihifi.com/ifa-2026-ecovacs-winbot-w2s-pro-omni-is-the-latest-window-cleaner/)
+- [National World: Meet the clever new cleaning robot that could give you your weekends back](https://www.nationalworld.com/must-read/meet-the-clever-new-cleaning-robot-that-could-give-you-your-weekends-back-8959725)
+- [Shopify: 20 Trending Products and Things To Sell Online (2026)](https://www.shopify.com/blog/trending-products)
+- [Exploding Topics: 44 Trending Products to Sell (2026)](https://explodingtopics.com/blog/trending-products)
+- [Yahoo Health: The 6 best meal kit delivery services for 2026](https://health.yahoo.com/wellness/nutrition/meal-kits/article/best-meal-delivery-services-kits-181408146.html)
+
+---
+
+## 2026-10-02 研究報告
+
+站上目前 144 檔排行榜。09-30 與 10-01 兩輪點名的 best-ai-toys-for-kids 與 best-window-cleaning-robots 都還沒建置。本輪查到一個全新的第一優先候選，最佳嬰兒監視器，獨佔資料層的厚度不輸 09-30 報告的 AI 兒童玩具題，另外也查證了一個表面熱門但判斷為不建置的候選，AI 女友應用程式排行。
+
+### 新主題建議
+
+1. **最佳嬰兒監視器（best-baby-monitors）**：這是本輪第一優先。核心事實是一個規模遠超單一品牌的供應鏈級資安事件。法國安全研究員 Sammy Azdoufal 在 Meari Technology 的雲端平台上查出五個嚴重漏洞，涵蓋未授權的 MQTT 資料存取、裝置定位外洩、未加密的動態截圖、以及所有 App 共用同一組硬編碼加密金鑰。Meari 的硬體、App 與雲端服務被超過 300 個白牌相機品牌採用，影響範圍達 118 個國家約 110 萬台連網攝影機，其中確認受影響的消費品牌包含 Arenti、Boifun、ieGeek、CloudEdge、Intelbras、Wyze 與 Petcube。最驚人的細節是存取門檻極低，外人只要申請一個免費帳號就能看到別人家的動態觸發截圖，截圖存放在 Alibaba Cloud 上的連結沒有簽章、沒有過期時間、不需要登入，等於任何人取得連結就能看。
+   - 建議 slug: `best-baby-monitors`
+   - 目標關鍵字: best baby monitor 2026, baby monitor hacking, is my baby monitor safe, baby monitor without wifi, nanit vs owlet vs eufy, Meari baby monitor brands affected
+   - 獨佔資料層。嬰兒監視器的規格比較本身競爭非常激烈，The Bump、Mommyhood101、Fathercraft、giftlist 都做過實測排行，站上如果只比較畫質、夜視與雙向通話不會有任何優勢。真正能疊加的獨佔欄位是品牌對照表，把目前已知的熱門選購品牌逐一標注是否建立在 Meari 這類共用白牌雲端平台上，這是一般評測站不會花時間查證供應鏈關係的角度。本輪已確認兩種對照結果可以直接寫入比較表，一邊是確認架構無雲端風險的機型，Infant Optics DXR-8 Pro 走加密無線電訊號直連，不需要網路、App 或帳號，Eufy 的監視器預設影像儲存在本機，用 AES 128 位元加密，但這個品牌 2022 年曾被紐約州檢察總長以「本機儲存」宣稱不實為由開罰 45 萬美元和解，建置時需要把這段歷史一併揭露，不能只引用廠商現在的說法。另一邊是確認架構依賴雲端服務的機型，Nanit 與 Owlet 被回報會蒐集使用統計與影片中繼資料，這類機型需要額外查證是否使用 Meari 平台或其他第三方白牌雲端。
+   - 第二層獨佔角度是 CPSC 回收紀錄。Babysense Max View（型號 VBM55，製造商為 Hisense）已於 2026 年 2 月 26 日被回收，約 8.18 萬台，原因是親機顯示單元充電時可能過熱甚至冒火花，Hisense 已收到 11 起事故回報，尚無人員受傷紀錄，銷售管道是 Amazon、Walmart 與 Babylist，銷售期間是 2023 年 1 月到 2025 年 12 月。這起回收與資安漏洞是兩條獨立的風險線，一條是隱私外洩，一條是實體火災風險，站上可以把「是否曾發生資安漏洞」與「是否曾因過熱起火回收」並列成兩欄，是目前查到的榜單文章都沒有同時處理的角度。
+   - 建置注意。這個品類直接涉及嬰幼兒居家安全與隱私，寫作語氣需要維持事實陳述，說明風險但不製造恐慌，目的是幫助新手父母在購買前看到品牌的實際安全與隱私紀錄。候選機型（6個，建置前需逐一查證現行代次與現價）：Nanit Pro、Infant Optics DXR-8 Pro、Eufy SpaceView 或現行代次、VTech VM819、Owlet Dream Duo、CuboAi Smart Baby Monitor 3。
+
+### 觀察但不建議動工
+
+- **AI 女友應用程式排行（AI girlfriend apps ranking）**：不建議建置。這個品類確實有熱搜量，Candy AI、Kissable、Kupid AI、DreamGF、CrushOn AI 等應用程式已經被至少八個以上的專門站密集覆蓋，包括 startuphub.ai、kissable.app、weavai.app、aicompanionguides.com，競爭非常擁擠。更重要的判斷是品牌調性問題，這個品類的核心賣點是成人向互動內容，與站上現有的 AI 工具類排行榜，best-ai-chatbots、best-ai-voice-generators、best-ai-image-generators，調性明顯不同，後者是生產力工具，前者是情色向娛樂應用，兩者混在同一個網站的風險是稀釋既有排行榜的信任度。本輪同時查到 Character.AI 與 Google 在 2026 年 1 月就五起未成年用戶自殺或嚴重心理傷害的訴訟達成和解，案件分布在佛羅里達、科羅拉多、紐約與德州，肯塔基州與賓州也各自對 Character.AI 提起州訴訟，這些事件主角是泛用型 AI 聊天機器人被未成年人用於情感依附，不是專門的成人向 AI 女友應用程式，但同樣說明這個大類的訴訟與輿論風險正在上升，不適合用「排行榜導購」的形式切入。
+
+### 待處理候選更新
+
+- **best-ai-toys-for-kids（延續 09-30、10-01 兩輪的候選，本輪沒有新增查證，法規倒數時間軸維持 10-01 報告的判斷）**：加州 SB 867 禁售令生效日仍是 2027 年 1 月 1 日,10-01 報告指出的建置時效窗口不變，下一輪如果要建置建議直接核對現價後動工，不需要再花一輪查證法規本身。
+- **best-window-cleaning-robots（延續 09-27、09-29、09-30、10-01 四輪的候選，資料持續有效，可直接建置）**：本輪沒有查到會改變判斷的新資訊，ECOVACS WINBOT W2S PRO OMNI 與 W3 兩代機型、安全繩規格對照表、適用窗型對照表都已經在前四輪確認，下一輪有建置排程可以直接採用。
+
+### 市場動態
+
+- **best-electric-bikes 可以直接引用的新回收案例**。Gazelle USA 於 2026 年 10 月 1 日回收 Urban Arrow 貨運電動自行車，原因是座椅固定夾的前螺栓可能斷裂造成座椅鬆動的跌倒風險，這是建置或更新電動自行車頁面安全段落時可以直接引用的最新案例。
+- **best-mattresses 可以直接引用的新回收案例**。Avenco 與 Novilla 床墊（製造商 PT Champion）於近日被回收，原因是違反床墊防焰強制標準，有嚴重受傷或死亡風險，這與站上既有頁面的安全段落直接相關。
+- **best-ai-chatbots 市場動態更新**。加州於 2026 年 9 月 10 日由州長 Newsom 正式簽署一系列聊天機器人兒童安全法案，其中核心是以 2025 年自殺身亡的加州少年 Adam Raine 命名的 Adam's Law,要求業者對未成年用戶設置使用時間限制、內建心理健康資源，並在偵測到自傷風險時通知家長，違規每案可罰款最高 100 萬美元。截至 2026 年 9 月中，已有 15 個州通過專門規範 AI 聊天機器人的法律，其中 10 個州是在 2026 年當年通過，包括 Washington、Nebraska、Idaho、Georgia、Iowa、Rhode Island 與 Hawaii,這些州都要求業者建立自傷偵測與危機轉介機制。這條監管趨勢線與 09-30、10-01 報告記錄的 AI 兒童玩具監管趨勢（COPPA 新規、加州 SB 867）同屬同一波「AI 產品兒童安全」立法潮，best-ai-chatbots 頁面更新時可以引用。
+
+### 資料來源
+
+- [Cybernews: Hacker checks out Amazon baby monitor, finds mother of all security flaws](https://cybernews.com/security/amazon-baby-monitor-security-flaw-millions/)
+- [eSecurityPlanet: Over 1 Million Baby Monitors and Security Cameras Exposed Through Meari Flaws](https://www.esecurityplanet.com/threats/over-1-million-baby-monitors-and-security-cameras-exposed-through-meari-flaws/)
+- [PetaPixel: Anyone Could Have Been Watching Your Kids on Certain Baby Monitors](https://petapixel.com/2026/05/11/anyone-could-have-been-watching-your-kids-on-certain-baby-monitors/)
+- [TechRepublic: Over 1 Million Baby Monitors, Security Cameras Exposed Through Meari Flaws](https://www.techrepublic.com/article/news-meari-iot-baby-monitor-camera-vulnerabilities/)
+- [Rankiteo: Arenti, ieGeek, Boifun and Meari Technology, When Secure Cameras Become Peep Shows](https://blog.rankiteo.com/themeaieg1783607332-arenti-iegeek-boifun-meari-technology-vulnerability-july-2026/)
+- [CPSC: Babysense Max View Baby Monitors Recalled Due to Fire Hazard; Manufactured by Hisense](https://cpsc.gov/Recalls/2026/Babysense-Max-View-Baby-Monitors-Recalled-Due-to-Fire-Hazard-Manufactured-by-Hisense)
+- [Boston 25 News: CPSC issues recall for Babysense baby monitors sold on Amazon and Walmart](https://www.boston25news.com/news/trending/recall-alert-81k-baby-monitors-recalled-pose-fire-hazard/KEUZZ6GP2FGDXBL733YF4OJXCQ/)
+- [Fathercraft: Best baby monitors for 2026, 8 tested on two kids, wifi and non-wifi](https://fathercraft.com/baby-monitor-reviews/)
+- [eufy: Best WiFi Baby Monitors 2026, Hybrid Picks vs Nanit](https://www.eufy.com/blogs/baby/best-wifi-baby-monitor)
+- [startuphub.ai: Best AI Girlfriend Apps 2026 (Updated June 2026): Top 18 Tested](https://www.startuphub.ai/ai-news/technology/2026/best-ai-girlfriend-apps-2026)
+- [ClassLawGroup: Character.AI Lawsuits for Child and Teen Harm](https://www.classlawgroup.com/character-ai-lawsuits)
+- [CalMatters: California enacts laws restricting chatbots and banning teens from addictive social media](https://calmatters.org/economy/technology/2026/09/california-enacts-laws-restricting-chatbots-protecting-kids-online/)
+- [Governor of California: Governor Newsom signs the strongest child safety chatbot and social media laws in the nation](https://www.gov.ca.gov/2026/09/10/governor-newsom-signs-the-strongest-child-safety-chatbot-and-social-media-laws-in-the-nation/)
+- [HNGN: Teen Deaths Spur AI Chatbot Laws in 15 States as Big Tech Shapes Rules](https://www.hngn.com/articles/273299/20260919/teen-deaths-spur-ai-chatbot-laws-15-states-big-tech-shapes-rules.htm)
+- [CPSC: Gazelle USA Recalls Urban Arrow Cargo Electric Bikes](https://www.cpsc.gov/Recalls)
+- [CPSC: Avenco and Novilla Mattresses Recalled Due to Risk of Serious Injury or Death from Fire](https://www.cpsc.gov/Recalls/2026/Avenco-and-Novilla-Mattresses-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Violates-Mandatory-Flammability-Standard-for-Mattresses-Manufactured-by-PT-Champion)
+
+
+---
+
+## 2026-10-03 研究報告
+
+站上目前 145 檔排行榜。09-27 以來持續追蹤的 best-window-cleaning-robots 與 09-30 以來追蹤的 best-ai-toys-for-kids 都還沒建置，10-02 剛上線的 best-baby-monitors 已經補進供應鏈資安角度的新類別。本輪查到一個全新的第一優先候選，球員卡與交易卡鑑定服務排行，這個品類有明確的市場規模與一起正在發酵的鑑定公司信任危機，獨佔資料層的厚度足以支撐建置判斷。
+
+### 新主題建議
+
+1. **最佳球員卡鑑定服務（best-card-grading-services）**：這是本輪第一優先。市場規模先行驗證，美國交易卡市場規模逼近 150 億美元，運動卡市場規模從 2025 年的 135 億美元成長到 2026 年的 145 億美元，年底前 PSA 單月就處理數十萬件鑑定申請，這代表「送鑑定前該選哪家」是真實存在、且持續發生的購買決策，不是一次性興趣。品牌陣營已經明朗，PSA 是市占最大、二級市場溢價最高的龍頭，BGS（Beckett）以子分數（centering、corners、edges、surface 四項細項評分）聞名，SGC 是目前主要鑑定公司中週轉最快的一家，CGC 則是後起但成長快速的第四家。
+   - 建議 slug: `best-card-grading-services`
+   - 目標關鍵字: best card grading service 2026, PSA vs BGS vs SGC, psa grading turnaround time, card grading cost comparison, is PSA grading trustworthy, sports card grading scandal, best grading service for pokemon cards
+   - 獨佔資料層。鑑定公司的費率與週轉時間比較本身競爭激烈，pregradecards.com、cardsense.app、cardgrading.app 都已經在做即時更新的費率與時效表，站上如果只做這兩欄不會有優勢。真正能疊加的獨佔角度是 2026 年正在發酵的 PSA 回購醜聞。起因是一名寶可夢卡收藏者送出約 30 張近乎一模一樣的現代卡，大部分初次鑑定結果是 PSA 9，送出後不久，其中 11 張的同一組鑑定編號在未經通知的情況下被改判為 PSA 10，這起事件引發大量收藏者質疑 PSA 是否在內部回購後動過評級結果，已經有卡商與卡展主辦方宣布暫停接受 PSA 送件。PSA 自家的詐欺報告同時揭露另一條數據，2026 年度攔截的仿冒收藏品市值超過 2 億美元，較 2024 年成長 45.3%，其中運動卡占詐欺案件的 43.1%，集換式卡牌（TCG）占 56.3%，這組數字直接說明「鑑定公司本身是否可信」與「送鑑定的卡片本身是否為真品」是這個品類兩個疊加的風險層，一般費率比較站不會把這兩條新聞放進排行榜內容。本站可以把「是否捲入 2026 年信任爭議」、「鑑定編號是否曾被追蹤到事後改判」、「官方詐欺攔截數據揭露透明度」三欄並列成獨家比較表，再疊加標準費率與週轉時間表格。
+   - 候選鑑定公司（4家）: PSA、BGS（Beckett Grading Services）、SGC、CGC Trading Cards。
+   - 建置注意。寫作語氣需要清楚區分「鑑定公司標準服務比較」與「醜聞爭議陳述」兩個段落，爭議段落只陳述已公開報導的事實與時間線，不做未經證實的指控，目的是幫助收藏者在送件前了解每家公司近期的信任度變化與實際費率落差。
+
+### 待處理候選更新
+
+- **best-ai-toys-for-kids（延續 09-30 以來各輪候選，本輪沒有新增查證，法規倒數時間軸維持 10-01 報告的判斷）**：加州 SB 867 禁售令生效日仍是 2027 年 1 月 1 日，10-01 報告指出的建置時效窗口不變，下一輪如果要建置建議直接核對現價後動工。
+- **best-window-cleaning-robots（延續 09-27 以來各輪候選，資料持續有效，可直接建置）**：ECOVACS WINBOT W2S PRO OMNI 與 W3 兩代機型、安全繩規格對照表、適用窗型對照表都已在前面各輪確認，下一輪有建置排程可以直接採用。
+
+### 市場動態
+
+- **best-fiber-supplements、best-probiotics 可以直接引用的新市場數據**。美國消化補給品市場規模預估從 2025 年 39.5 億美元成長到 2026 年 41.6 億美元，全球腸道健康補給品市場規模預估從 2026 年 160 億美元成長到 2033 年 291 億美元，美國補給品類益生菌、益生質、合生質需求年成長約 9%。這組數字可以直接補進站上已上線的 best-fiber-supplements 與 best-probiotics 頁面的市場脈絡段落，不需要另開新題，因為「腸道健康」是涵蓋益生菌與纖維補給品的大傘詞，不是獨立可排行的單一產品品類。
+- **best-electric-scooters 可以直接引用的新成長數據**。2026 年電商選品觀察顯示電動機車與滑板車品類年成長達 1730%，是本輪查到成長率最高的交通工具子類別之一，建置或更新 best-electric-scooters 頁面時可以引用這組數字強化「為什麼現在要買」的開場論點。
+- **觀察但暫不建置：OpenAI 首款消費性硬體裝置**。OpenAI 已確認將於 2026 年下半年推出與設計師 Jony Ive 合作開發的無螢幕、語音優先消費裝置，鴻海預計代工 4000 萬至 5000 萬台，目前已知有耳機造型（代號 Sweetpea）與筆型（代號 Gumdrop）兩種形式在開發。這則新聞值得持續追蹤但本輪不建議立刻規劃排行榜，原因是產品尚未公布定價、最終規格與確切上市日期，目前完全沒有「比較選購」的真實搜尋意圖可以承接，建議留到官方公布定價與上市日期後的下一輪研究再評估建置時機。
+
+### 資料來源
+
+- [Yahoo Finance: Sports Cards Market Growth 2026, From $10B to Junk Wax Era Warnings](https://finance.yahoo.com/news/sports-cards-market-growth-2026-162318968.html)
+- [ZikAnalytics: Best Selling Sports Cards on eBay (September 2026 Data)](https://www.zikanalytics.com/reports/ebay/best-selling/sports-cards)
+- [Bleacher Nation: PSA vs. BGS vs. SGC, A Guide to Grading Your Cards!](https://www.bleachernation.com/collectibles/2026/09/02/psa-vs-bgs-vs-sgc/)
+- [PreGradeCards: Grading Company Turnaround Times 2026, PSA, BGS, SGC](https://pregradecards.com/blog/grading-company-turnaround-times-2026)
+- [PreGradeCards: Card Grading Prices 2026, PSA, BGS, CGC & SGC Cost Comparison](https://pregradecards.com/blog/card-grading-prices-2026-psa-bgs-cgc-sgc-cost-comparison)
+- [Yahoo Sports: The PSA Grading Scandal, How Fraud Allegations Are Reshaping Trust in Sports Cards](https://sports.yahoo.com/articles/psa-grading-scandal-fraud-allegations-181418572.html)
+- [Slabfolio: PSA Grading Scandal Explained, The Buyback Controversy (2026)](https://slabfol.io/blog/psa-grading-scandal-2026)
+- [Sports Collectors Digest: Fraud, counterfeit trading cards rampant in hobby, PSA report shows](https://sportscollectorsdigest.com/fraud-counterfeit-trading-cards-rampant-in-hobby-psa-report-shows)
+- [GlobeNewswire: US Digestive Supplements Market 2026-2031](https://www.globenewswire.com/news-release/2026/08/28/3352559/0/en/us-digestive-supplements-market-2026-2031-growing-consumer-focus-on-gut-health-drives-market-growth.html)
+- [Grand View Research: Digestive Health Products Market Size Report, 2026-2033](https://www.grandviewresearch.com/industry-analysis/digestive-health-products-market)
+- [Introl: OpenAI Consumer Device, Jony Ive's Screenless AI Hardware 2026](https://introl.com/blog/openai-consumer-device-jony-ive-hardware-2026)
+- [Silicon Republic: OpenAI looks set to unveil first physical device in H2 2026](https://www.siliconrepublic.com/machines/open-ai-looks-set-to-unveil-first-physical-device-in-h2-2026)
+
+---
+
+## 2026-10-04 研究報告
+
+站上目前 146 檔排行榜，10-02 的最佳嬰兒監視器與 10-03 點名的最佳球員卡鑑定服務都已經上線。09-30 以來持續追蹤的 best-ai-toys-for-kids 與 09-27 以來持續追蹤的 best-window-cleaning-robots 兩個候選依然沒有建置，本輪確認兩者資料都還有效，可以直接排入建置排程。本輪查到一個全新的第一優先候選，Googlebook，這是今天正式開賣的全新筆電產品線，首發時間點完全重疊本次研究報告發布日，是本站少見能搶到第一手搜尋流量的建置機會。
+
+### 新主題建議
+
+1. **Googlebook 筆電排行（best-googlebooks）**：這是本輪第一優先，也是時效性最強的一個候選。Google 已確認 Googlebook 是 Chromebook 的後繼產品線，定位是「為 Gemini Intelligence 打造的筆電」，底層把 Android 技術堆疊與 ChromeOS 的桌面基礎整合在一起，取代既有的 Chromebook 品牌。首發定價與時程完全公開，美國上市日是 2026 年 10 月 4 日，也就是本篇報告發布的當天，加拿大、英國、愛爾蘭、法國、德國與澳洲則是 10 月 5 日跟進，預購已於 9 月 21 日開放。首發五款機型分別是 Acer Googlebook 14（899 美元，Intel Core Ultra 5，14 吋 2.8K OLED，續航 16 小時，2.51 磅，是唯一的 2-in-1 可翻轉機型）、Dell XPS Googlebook（999 美元，Snapdragon X Elite，13.4 吋 2.5K LCD，續航 18 小時，2.2 磅）、Lenovo Googlebook 15（1099 美元，Intel Core Ultra 5，15.3 吋 2.8K OLED，續航 13 小時，2.84 磅）、ASUS Googlebook 14（1299 美元，Intel Core Ultra 5，14 吋 2.8K OLED，續航 16 小時，2.2 磅）、HP Googlebook 14（1299 美元，官方續航估計達 19 小時，支援臉部與指紋雙辨識解鎖）。
+   - 建議 slug: `best-googlebooks`
+   - 目標關鍵字: best googlebook 2026, googlebook vs chromebook, which googlebook should i buy, googlebook models compared, googlebook price specs, is googlebook worth it, googlebook release date
+   - SEO 判斷。這個品類的搜尋量目前是零，因為產品今天才正式開賣，但這正是建置價值所在。TechRepublic、Yahoo Tech、Android Authority、Techgenyz、Gadget Hacks 等媒體已經在 9 月中下旬搶先寫出規格比較文，說明「五款機型怎麼選」是真實存在的首發購買決策，站上若能在上市首週內建置排行榜，可以搶到「Googlebook 哪款好」這類長尾詞的早期排名，這類詞在新產品線剛命名時競爭度最低，之後幾週會隨媒體報導量增加而迅速變擁擠。這個品類同時完全沒有被站上現有的 best-laptops 或 best-gaming-laptops 覆蓋，因為 Googlebook 是獨立的新作業系統與硬體標準，不是既有筆電品類的子集，值得獨立開一檔排行榜。
+   - 獨佔資料層。單純的五款規格比較本身不稀缺，前述幾家媒體都已經做過，站上如果只是重複價格與規格表不會有優勢。真正能疊加的獨佔角度是上市首週的輿論反彈紀錄。TechRadar 與 Android Authority 已經各自發出標題直接點名「使用者還沒拿到機器就已經討厭這條產品線」的文章，具體反彈理由包括三點，第一是 AI 強迫上身的疲勞感，文章直接引用使用者說法「已經很厭倦什麼東西都要硬塞 AI 進去」，並拿微軟 Copilot PC 當前車之鑑，指出 AI 功能並不在消費者的優先購買考量清單上；第二是命名爭議，不少評論認為 Googlebook 這個名字本身就是「糟糕的品牌命名」；第三是功能延續性落差，Google 被指出幾乎沒有採納使用者對 Chromebook 的既有意見回饋，Googlebook 即便加深了 Android 整合，仍然不能跑真正的桌面應用程式。這三條反彈理由目前只分散在評論性文章裡，沒有一家把它們整理成「上市首週負評總結」的對照表，本站可以把這個角度做成獨家欄位，同時並列官方宣稱賣點與早期負評，讓消費者在下單前看到完整的另一面。
+   - 建置注意。這個品類變動速度非常快，首發一週內評測會大量湧入，建議建置後安排密集更新頻率，把早期專業評測的實測續航、效能分數逐步補入規格欄位，而不是只依賴官方宣稱數字。
+
+### 待處理候選更新
+
+- **best-ai-toys-for-kids（延續 09-30 以來各輪候選，本輪沒有新增查證，法規倒數時間軸維持 10-01 報告的判斷）**：加州 SB 867 禁售令生效日仍是 2027 年 1 月 1 日，建置時效窗口不變，下一輪如果要建置建議直接核對現價後動工，不需要再花一輪查證法規本身。
+- **best-window-cleaning-robots（延續 09-27 以來各輪候選，本輪重新查證資料持續有效，可直接建置）**：ECOVACS WINBOT W2 PRO OMNI、WINBOT W2 OMNI 與 WINBOT W3 三代機型規格、安全繩規格對照表、適用窗型對照表都已在前面各輪確認，本輪額外查到 HUTT S7 是另一個有 6500Pa 吸力與 SLAM 4.0 導航的競品機型，可以補進比較表增加一個非 ECOVACS 陣營的選項，下一輪有建置排程可以直接採用。
+
+### 市場動態
+
+- **best-foldable-smartphones 可以直接引用的新上市日期**。Apple 首款折疊機 iPhone Duo 預計 2026 年 10 月 23 日正式開賣，這是蘋果首度進入折疊手機品類，建置或更新 best-foldable-smartphones 頁面時可以用這個日期當作「蘋果加入戰局」的新聞鉤子，目前這個品類的比較對象以三星、Google、中系品牌為主，蘋果入局會直接改變消費者的選購決策樹。
+- **best-smart-speakers 可以直接引用的新品動態**。HomePod mini 2 預計 10 月隨新一代 S 系列晶片、Siri AI 支援與新配色上市，站上既有頁面更新時可以把這款新品補進比較表。
+- **best-creatine、best-colostrum-supplements、best-protein-powders 可以直接引用的新市場數據**。市場研究機構 SPINS 把創肌酸、初乳、南非醉茄與蛋白質列為 2026 年四大熱門補給品成分，創肌酸補給品市場規模預估從 2025 年 16.6 億美元成長到 2026 年 18.5 億美元，年複合成長率 11.4%，"creatine supplement" 關鍵字月搜尋量 36.8 萬次，年成長 50%，"protein powders" 關鍵字月搜尋量 67.3 萬次，年成長 174%，這組數字可以直接補進站上已上線的三個對應頁面的市場脈絡段落，不需要另開新題，因為這三個品類本身都已經是獨立排行榜。
+- **觀察但暫不建置：皮膚保養小冰箱（skincare fridge）**。這個品類搜尋量確實存在，但已經被 glamgoss、StyleGuru、Bollywood Punch、ofzenandcomputing、The Happy Loved Life、Beyond the Peel 等至少六個以上的專門導購站密集覆蓋，而且查無法規、回收、資安這類可以疊加的獨佔資料層，純粹是容量、製冷效果與外型的主觀比較，性質與先前報告點名不建置的氫水瓶、刮痧板、餐盒宅配服務相同，不跨過獨佔資料層門檻，也與站上現有的 3C 與保健品調性不太搭。
+
+### 資料來源
+
+- [TechRepublic: Googlebook Starts at $899, Which of the 5 New Models Should You Buy?](https://www.techrepublic.com/article/news-googlebook-models-compared/)
+- [TechRepublic: Googlebook Cheat Sheet, Price, Models, Gemini Features, and Everything to Know](https://www.techrepublic.com/article/news-googlebook-cheat-sheet/)
+- [The Gadgeteer: 5 Googlebooks Announced for the New Android-Powered Laptop Era](https://the-gadgeteer.com/2026/09/24/googlebook-laptops-acer-dell-asus-hp-lenovo/)
+- [Yahoo Tech: Which Googlebook is right for you? All 5 models compared](https://tech.yahoo.com/ai/gemini/articles/googlebook-5-models-compared-182445527.html)
+- [Techgenyz: Googlebook Models Comparison, Five Laptops, Prices and Key Differences](https://techgenyz.com/googlebook-models-comparison-five-laptops-prices/)
+- [Yahoo Tech: Googlebooks are bringing Gemini Intelligence to premium laptops, but is the cost worth it?](https://tech.yahoo.com/ai/gemini/articles/googlebooks-bringing-gemini-intelligence-premium-130000732.html)
+- [TechRadar: Googlebook has only just been revealed, but here are 5 things people hate about it already](https://www.techradar.com/computing/laptops/googlebook-has-only-just-been-revealed-but-here-are-5-things-that-people-hate-about-the-laptop-already)
+- [Android Authority: The big Googlebook moment is almost here, and I couldn't care less](https://www.androidauthority.com/why-googlebook-isnt-exciting-3710521/)
+- [Android Authority: 3 reasons Googlebooks will succeed, and 3 reasons they'll fail](https://www.androidauthority.com/googlebooks-succeed-fail-reasons-3717519/)
+- [Gadget Hacks: Googlebook vs Chromebook, What to Check Before Preorder](https://android.gadgethacks.com/news/googlebook-vs-chromebook-what-to-check-before-preorder/)
+- [iOL: Every new Apple product expected to launch in October](https://iol.co.za/technology/gadgets/2026-10-03-every-new-apple-product-expected-to-launch-in-october/)
+- [TechRadar: Top tech of the month, the best new gadgets we've tested for October 2026](https://www.techradar.com/tech/top-tech-of-the-month-the-best-new-gadgets-weve-tested-for-october-2026)
+- [Cybernews: Best Window Cleaning Robot, Top 8 Picks in 2026](https://cybernews.com/robots/best-window-cleaning-robots/)
+- [Talk of the House: 10 Best Window Cleaning Robots (September 2026) for Suction Power](https://www.talkofthehouse.com/best-window-cleaning-robots/)
+- [Rising Trends: Top 50 Supplement Trends (September 2026)](https://www.risingtrends.co/trends/supplement-trends-2026)
+- [Research and Markets: Creatine Supplement Market Report 2026](https://www.researchandmarkets.com/reports/6031679/creatine-supplement-market-report)
+- [GlamGoss: The Best Skincare Fridge of 2026](https://glamgoss.com/buying-guides/best-skincare-fridge/)
+
+---
+
+## 2026-10-05 研究報告
+
+站上目前 147 檔排行榜。本輪核對發現一個狀態修正，10-04 報告寫的 best-window-cleaning-robots「依然沒有建置」是錯的，這題在 10-03 已經上線（commit 3e864ac），下一輪報告請依現有清單為準，不要再延續這個候選。09-30 以來追蹤的 best-ai-toys-for-kids 依然沒有建置，法規倒數時間軸不變。本輪查到一個全新的第一優先候選，最佳智慧家庭電力監測器，核心資料層是一家主要品牌已經悄悄退出零售市場、但多數比較文章還沒更新的落差，另外補一條獨佔的公用電力公司回饋金角度。
+
+### 新主題建議
+
+1. **最佳智慧家庭電力監測器（best-smart-home-energy-monitors）**：這是本輪第一優先。市場規模與搜尋量先行驗證，「energy monitor」關鍵字過去六個月美國搜尋量成長近 65%，品類本身已經從單純的省電小工具變成家庭電動化（電動車充電、熱泵、太陽能加儲能）普及後的必備診斷工具。品牌陣營已經分出兩條路線，一條是本地運算、不需訂閱的路線，代表是 Emporia Vue 3（99 美元做整戶監測，加 16 顆迴路感測器約 194 到 205 美元，無訂閱費，準確度正負 2%）、Shelly Pro 3EM（主打本地資料與智慧家庭自動化整合）與 Eyedro；另一條是雲端 AI 自動辨識家電的路線，代表是 Sense（約 289 到 309 美元，靠機器學習自動辨識個別家電用電特徵，不需逐一安裝迴路感測器）。
+   - 建議 slug: `best-smart-home-energy-monitors`
+   - 目標關鍵字: best home energy monitor 2026, emporia vue vs sense, is sense discontinued, home energy monitor utility rebate, energy monitor without subscription, shelly pro 3em review, smart energy monitor privacy
+   - SEO 判斷與獨佔資料層第一層。本輪查到一個會直接影響既有比較文章正確性的事實，Sense 已於 2025 年 12 月 31 日停止銷售自家的家用電力監測硬體給消費者，新機已經買不到，但本輪搜尋到的多篇「2026 最佳電力監測器」比較文（earthlyours.com、isupradesign.com、smarthomefuel.com 的 Sense vs Emporia 比較文）都還把 Sense 列成現役可購買選項，介紹其售價與規格，沒有註明已停售。Sense 官方的下一步是把同一套 AI 辨識軟體嵌入電力公司自家的下一代智慧電表,透過電力公司合作而非直接賣硬體給消費者，這代表消費者如果現在想買一台「會自動辨識家電的監測器」,Sense 這個選項實質上已經消失,只能等電力公司是否導入合作方案。本站可以把「目前是否仍可零售購買」這一欄做成清楚的時效性標注，直接糾正市面上其他比較文沒有更新的錯誤資訊，是這個品類目前查到的榜單文章都沒有處理的角度。
+   - 獨佔資料層第二層。公用電力公司回饋金是另一個一般規格比較站不會整理的角度。本輪查到多家電力公司對特定電力監測器提供現金回饋或免費提供「家用顯示器」，南加州愛迪生（SCE）對 Emporia Vue 提供 25 美元回饋，SDGE 與 PG&E（加州）、PPL 與 First Energy（賓州、俄亥俄州的 Ohio Edison）、Burlington Electric 與 Green Mountain Power（佛蒙特州）都各自有對應回饋方案，金額區間從 50 美元到 515 美元不等，依電力公司與方案而異。這代表同一款硬體，不同地區讀者的實際到手價可能天差地遠，本站可以做成「依电力公司查詢回饋資格」的互動式說明欄位，而不是只列出官網定價，這是多數比較文完全沒有整理的欄位。
+   - 獨佔資料層第三層。資料隱私是這個品類消費者猶豫的主要原因之一，調查顯示超過 35% 的消費者對透過連網平台分享用電資料感到猶豫，超過 40% 的消費者對採用雲端監測方案感到猶豫，核心擔憂是細顆粒度的用電資料可以反推居住者的作息、在家與否甚至特定家電使用模式。本站可以把「資料是否本地儲存」、「是否需要雲端帳號才能使用核心功能」、「廠商隱私政策是否公開資料保存期限」三欄並列成獨家對照表，Shelly Pro 3EM 與 Emporia Vue 3 都主打本地優先，Sense 的雲端 AI 辨識架構則需要資料上傳才能運作，這條路線分野可以直接對應前述「本地運算」與「雲端 AI」兩大陣營，寫作時三層獨佔角度可以互相呼應，不是各自孤立的資訊點。
+   - 建置注意。Sense 停售的時效性資訊需要在頁面上明顯標注查證日期，因為這類公司動向有可能在建置後又有新進展（例如正式宣布電力公司合作名單），建議安排比一般品類更頻繁的覆查頻率。電力公司回饋金額與資格隨地區與年度變動快，頁面需註明「請以所在電力公司官網最新公告為準」，避免讀者誤以為站上列出的金額是全國統一的保證回饋。
+   - 候選清單（6個，建置前逐一查證現行代次、現價與是否仍可零售購買）: Emporia Vue 3, Shelly Pro 3EM, Eyedro EyeFi, Refoss Energy Monitor, IoTaWatt, Sense（標注為「2025年12月31日起停止零售銷售，僅供比較與歷史脈絡參考」）。
+
+### 待處理候選更新
+
+- **best-ai-toys-for-kids（延續 09-30 以來各輪候選，本輪沒有新增查證，法規倒數時間軸維持 10-01 報告的判斷）**：加州 SB 867 禁售令生效日仍是 2027 年 1 月 1 日，建置時效窗口不變，下一輪如果要建置建議直接核對現價後動工，不需要再花一輪查證法規本身。
+- **best-window-cleaning-robots（狀態修正：已於 10-03 上線，不再是待建候選）**：10-04 報告誤寫此題仍未建置，本輪核對 src/content/rankings/ 與 git log 確認 commit 3e864ac「content: add best window cleaning robots ranking」已於 10-03 完成，請後續報告以此為準，不要再重複列入候選清單。
+
+### 市場動態
+
+- **best-foldable-smartphones 可以直接引用的新上市細節**。iPhone Duo 已在 Apple 秋季發表會正式公布定價與規格，256GB 1,999 美元、512GB 2,199 美元、1TB 2,599 美元、2TB 3,199 美元，10 月 16 日開放預購、10 月 23 日在超過 70 個國家與地區開賣，螢幕規格是外層 5.4 吋、展開後內層 7.6 吋，機身為 5 級鈦金屬，鉸鍵由超過 100 個零件組成，防水防塵等級 IP68，前蓋為 Ceramic Shield 2，搭載 A20 Pro 處理器（六核心 CPU、七核心 GPU、雙 16 核心神經網路引擎），顏色為星白與夜空兩色。這是蘋果首款量產折疊機，站上既有頁面更新時可以用完整定價與規格表直接取代 10-04 報告當時只確認上市日期、尚無規格的版本。
+- **best-smart-rings 可以直接引用的最新市占數據**。Oura 在 2026 年第一季持續在全球智慧戒指市場占有約 79% 市占率，Oura Ring 5 是 2026 年最大的智慧戒指發布案，5 月 28 日開賣（英國 6 月 4 日跟進），號稱是全球最小的智慧戒指，重量僅 2 到 2.69 克，比 Ring 4 再縮小約 40%，上市後 12 個月累計銷售 360 萬枚，付費會員數在 6 月 30 日達到 500 萬，是一年前的兩倍。三星 Galaxy Ring 2 已確認延期到 2027 年初，普遍歸因於三星與 Oura 之間持續中的專利訴訟，Ultrahuman 的美國業務也因為與 Oura 的另一起法律爭議受到干擾。這組數據可以直接補進站上既有 best-smart-rings 頁面的市場脈絡段落，不需要另開新題。
+- **best-robot-vacuums 可以直接引用的新機型動態**。Dreame Cyber X 這款會爬樓梯的機器人吸塵器已經從 CES 2026 的概念機進入實際上市階段，定價 1,199 歐元，預計 2026 年 9 月開始供貨，靠 Bionic QuadTrack 可變形底盤爬樓，單階爬行時間 27 秒，可應付最高約 25 公分的階高與 42 度傾角，下樓時會從機身後方伸出兩支旋轉刷臂清潔每一階，搭配對接站可提供合計 6000Pa 吸力，同時支援與 X60 Pro 系列搭配使用。這是站上既有頁面可以補入的新一代機型，代表「爬樓梯」正式從概念變成可購買的實際功能分層。
+- **best-ai-chatbots 可以直接引用的最新模型與市占動態**。Anthropic 於近期發布 Claude Opus 5.5，在獨立評測機構 Artificial Analysis 指數上以 58 分領先，Sonnet 5.5 得分 56，OpenAI 的 GPT-6 Astra 得分 53、GPT-6.1 Sol 得分 52，Claude 第三季超越 Gemini 成為美國用戶成長最快的聊天機器人，季增幅度約 15%。OpenAI 同期推出 500 美元月費的 Pro 500 方案與常駐型代理人功能「dots」，Google 的 Gemini 3.5 Pro 則接連錯過 6、7、8 月的預告上市時間，Gemini 4 仍在早期後訓練階段、尚無發布日期。這組最新排名與時程可以直接更新站上既有頁面的模型比較段落。
+
+### 資料來源
+
+- [HomeEnergyGeek: Best Home Energy Monitoring Systems 2026, 7 Monitors + 4 Smart Panels Compared](https://homeenergygeek.com/articles/home-energy-monitoring-systems-2026)
+- [SmartHomeExplorer: Best Smart Home Power Monitors 2026, 4 No-Sub Picks](https://www.smarthomeexplorer.com/guides/best-smart-home-power-monitors-2026)
+- [EarthlyOurs: Best Home Energy Monitors 2026, Sense vs Emporia vs Refoss](https://earthlyours.com/best-home-energy-monitors-2026/)
+- [SmartHomeFuel: Sense vs Emporia (2026), Accuracy Test, Features & Real-World Results](https://smarthomefuel.com/article/sense-vs-emporia-comparison)
+- [Emporia Energy: Local, State & Utility Incentives for Emporia Products](https://www.emporiaenergy.com/incentives/)
+- [Emporia Energy Help Center: Rebate Information](https://help.emporiaenergy.com/en/articles/13893278-rebate-information)
+- [NCBI PMC: Data privacy and smart home energy appliances, A stated choice experiment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10637986/)
+- [PrivacySmartHome: Smart Home Energy Monitors, Privacy and Local Data 2026](https://www.privacysmarthome.com/guides/smart-home-energy-monitors-privacy-and-local-data-2026/)
+- [Variety: Apple Announces iPhone 18, iPhone Duo Foldable Model Price and Availability](https://variety.com/2026/digital/news/apple-iphone-duo-18-foldable-price-availability-1236855996/)
+- [PopSci: Everything Apple just announced at its fall 2026 event](https://www.popsci.com/gear/apple-event-announcements-fall-2026-iphone-duo-apple-watch-12-iphone-18/)
+- [Sahha: The Smart Ring Market in 2026, Oura, Samsung Galaxy Ring, Ultrahuman, RingConn and Garmin's Cirqa](https://sahha.ai/blog/smart-ring-market-2026/)
+- [Smart Analytics Global: Global Smart Ring Market Grew Just 3% YoY in Q1 2026](https://smartanalyticsglobal.com/mart-ring-market-q1-2026-oura-leadership-growth-outlook/)
+- [Memeburn: Oura Ring 5 Launches as Samsung Galaxy Ring Falls Silent](https://memeburn.com/oura-ring-5-launches-as-samsung-galaxy-ring-fall/)
+- [Digital Citizen: Dreame Unveils Stair-Climbing 'Cyber X' Robot Vacuum Concept at CES 2026](https://www.digitalcitizen.life/dreame-unveils-stair-climbing-cyber-x-robot-vacuum-concept-at-ces-2026/)
+- [Notebookcheck: Dreame Cyber X price revealed, Cost of stair climbing and cleaning](https://www.notebookcheck.net/Dreame-Cyber-X-price-revealed-Cost-of-stair-climbing-and-cleaning.1310037.0.html)
+- [llm-stats: AI Updates Today (October 2026)](https://llm-stats.com/llm-updates)
+- [felloai: Best AI Models in October 2026, Updated Rankings and Comparisons](https://felloai.com/best-ai-models/)

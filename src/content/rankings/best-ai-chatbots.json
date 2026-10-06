@@ -20008,6 +20008,202 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-10-06",
+      "rankings": [
+        {
+          "id": "chatgpt",
+          "rank": 1,
+          "score": 9.7,
+          "scores": {
+            "reasoning": 9.8,
+            "coding": 9.2,
+            "writing": 9.4,
+            "realtime": 9.0,
+            "value": 9.4,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "claude",
+          "rank": 2,
+          "score": 9.5,
+          "scores": {
+            "reasoning": 9.6,
+            "coding": 9.7,
+            "writing": 9.7,
+            "realtime": 7.6,
+            "value": 9.4,
+            "ecosystem": 9.5
+          }
+        },
+        {
+          "id": "gemini",
+          "rank": 3,
+          "score": 9.4,
+          "scores": {
+            "reasoning": 9.7,
+            "coding": 9.3,
+            "writing": 8.9,
+            "realtime": 9.5,
+            "value": 9.5,
+            "ecosystem": 9.7
+          }
+        },
+        {
+          "id": "grok",
+          "rank": 4,
+          "score": 9.0,
+          "scores": {
+            "reasoning": 9.1,
+            "coding": 9.1,
+            "writing": 8.4,
+            "realtime": 9.8,
+            "value": 7.0,
+            "ecosystem": 7.5
+          }
+        },
+        {
+          "id": "perplexity",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "reasoning": 8.7,
+            "coding": 7.6,
+            "writing": 8.0,
+            "realtime": 9.5,
+            "value": 8.7,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "copilot",
+          "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "reasoning": 8.5,
+            "coding": 8.7,
+            "writing": 8.4,
+            "realtime": 8.0,
+            "value": 8.0,
+            "ecosystem": 9.6
+          }
+        },
+        {
+          "id": "deepseek",
+          "rank": 7,
+          "score": 8.3,
+          "scores": {
+            "reasoning": 8.9,
+            "coding": 8.6,
+            "writing": 7.8,
+            "realtime": 7.0,
+            "value": 10.0,
+            "ecosystem": 7.0
+          }
+        },
+        {
+          "id": "meta-ai",
+          "rank": 8,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.4,
+            "coding": 7.0,
+            "writing": 7.5,
+            "realtime": 8.0,
+            "value": 10.0,
+            "ecosystem": 8.5
+          }
+        },
+        {
+          "id": "qwen-chat",
+          "rank": 9,
+          "score": 7.6,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.6,
+            "writing": 7.0,
+            "realtime": 6.8,
+            "value": 9.0,
+            "ecosystem": 6.5
+          }
+        },
+        {
+          "id": "mistral-le-chat",
+          "rank": 10,
+          "score": 7.4,
+          "scores": {
+            "reasoning": 7.5,
+            "coding": 7.3,
+            "writing": 7.6,
+            "realtime": 7.0,
+            "value": 8.0,
+            "ecosystem": 7.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Think your AI chatbot is up to date?",
+          "url": "https://www.tomsguide.com/ai/think-your-ai-chatbot-is-up-to-date-here-is-how-stale-chatgpt-claude-and-gemini-actually-are",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "LLM/AI Changelog - ChatGPT, Gemini, Perplexity & Copilot Release Notes",
+          "url": "https://reconn-ai.com/llm-changelog.php",
+          "source": "Reconn AI"
+        },
+        {
+          "title": "Claude vs ChatGPT vs Gemini vs Grok (September 2026)",
+          "url": "https://aitoolsreview.co.uk/insights/claude-vs-chatgpt-gemini-grok",
+          "source": "AI Tools Review"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "I'm not reshuffling anything today, and the reason is that this market is being pulled in two directions that cancel each other out on a composite score. On raw reasoning benchmarks, independent arena testing has Claude's latest release edging out GPT and Gemini this quarter, which is exactly why Claude keeps a 9.6 reasoning score and the best writing and coding marks on this list. But ChatGPT stays number one overall because reasoning alone doesn't win a chatbot ranking, ecosystem reach and real-time capability matter just as much for the average person deciding which app to open, and ChatGPT's 9.0 realtime score plus a 9.7 ecosystem score, backed by its install base across phones, browsers, and enterprise tools, is still the widest net of any assistant here. Gemini stays third for the same reason, Google ties or beats everyone on realtime search grounding at 9.5 and has the deepest ecosystem tie-in through Workspace and Android, but its writing score lags the top two. Grok holds fourth on the back of its unmatched 9.8 realtime score, which makes sense given its direct pipe into X's live firehose, but its value score of 7.0 reflects a subscription structure that's noticeably pricier for what casual users actually need. Perplexity's new multi-model orchestration approach, routing a single query across several underlying models at once, is a genuinely interesting idea worth watching, but it's a feature layer built on top of existing models, so it doesn't move Perplexity off fifth until the underlying model itself leaps ahead. My practical read for readers hasn't changed, pick ChatGPT if you want one app that does everything well, pick Claude if writing or coding quality is your top priority, pick Gemini if you live inside Google's ecosystem already.",
+          "highlights": [
+            {
+              "title": "ChatGPT wins on breadth, not any single benchmark",
+              "body": "Its realtime and ecosystem scores, 9.0 and 9.7, reflect an app that's genuinely useful across phone, browser, and enterprise contexts without forcing you to think about which product tier you need, and that breadth is what keeps it ahead of Claude's stronger reasoning and writing marks."
+            },
+            {
+              "title": "Claude is the right call for anyone who writes or codes for a living",
+              "body": "A 9.7 coding score and matching 9.7 writing score are the best on this list, and recent independent arena testing backs up that Claude's latest model edges out competitors on pure reasoning quality this quarter even though it trails on realtime grounding."
+            },
+            {
+              "title": "Grok's realtime score is real, but so is its price problem",
+              "body": "A 9.8 realtime score driven by direct access to X's live content firehose is unmatched, but a value score of 7.0, the second lowest on this list, means you're paying a premium for that speed that most casual users won't fully use."
+            },
+            {
+              "title": "Perplexity's model-orchestration pitch is a feature, not a new frontier",
+              "body": "Routing one query across several underlying models at once is a smart product decision, but it doesn't change the underlying model quality enough to move Perplexity off fifth until it demonstrably outperforms the models it's routing between."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "今天沒有調整任何名次，原因是這個市場正被兩股力量往不同方向拉，結果剛好在總分上互相抵消。純看推理能力的獨立競技場測試，Claude 最新版本這個季度在跑分上確實小贏 GPT 跟 Gemini，這也是為什麼 Claude 的推理分數能拿到 9.6，寫作跟程式能力也是這份名單裡最高的。但 ChatGPT 整體還是排第一，因為單靠推理能力贏不了整體排名，一般人決定要打開哪個 App，生態系覆蓋範圍跟即時資訊能力一樣重要，ChatGPT 的即時分數 9.0 加上生態系分數 9.7，背後是手機、瀏覽器、企業工具全面覆蓋的安裝基數，網撒得還是最大的。Gemini 排第三也是同樣道理，Google 在即時搜尋整合上拿到 9.5 分，跟所有對手打平甚至更好，加上 Workspace 跟 Android 的深度整合，但寫作分數就是比前兩名弱一點。Grok 守住第四，靠的是 9.8 分這個獨一無二的即時分數，畢竟它直接接到 X 平台的即時資訊流，這點說得過去，但它的性價比分數只有 7.0，反映出訂閱費用對一般使用者的日常需求來說明顯偏貴。Perplexity 這次推出的多模型同時調度新玩法，一個問題同時丟給幾個底層模型處理，這個方向確實值得關注，但終究是建立在現有模型上的功能層，不是全新的前沿模型，所以暫時不足以讓它離開第五名。我給讀者的實際建議沒有變，想要一個 App 什麼都做得不錯選 ChatGPT，寫作或程式品質是你的首要考量選 Claude，已經活在 Google 生態系裡的話選 Gemini。",
+          "highlights": [
+            {
+              "title": "ChatGPT 贏在覆蓋面廣，不是靠單一跑分項目",
+              "body": "即時分數 9.0 跟生態系分數 9.7，代表這個 App 在手機、瀏覽器、企業場景裡都真的好用，不用先想清楚自己該訂哪個方案，這種廣度就是它能壓過 Claude 更強的推理跟寫作分數的原因。"
+            },
+            {
+              "title": "靠寫作或寫程式吃飯的人，選 Claude 是對的",
+              "body": "程式能力 9.7 分搭配寫作能力同樣 9.7 分，是這份名單裡最高的組合，最近的獨立競技場測試也證實 Claude 最新模型這季在純推理品質上小贏對手，即便它在即時資訊整合上還是落後。"
+            },
+            {
+              "title": "Grok 的即時資訊是真本事，但價格問題也是真的",
+              "body": "9.8 分的即時表現來自直接接上 X 平台即時資訊流，這點無人能比，但性價比分數只有 7.0，是這份名單裡第二低，代表你在為大部分輕度使用者根本用不到的速度付出溢價。"
+            },
+            {
+              "title": "Perplexity 的多模型調度是個聰明功能，但還不是新前沿",
+              "body": "一個問題同時丟給幾個底層模型處理是不錯的產品決策，但在底層模型品質沒有明顯超越被調度的對象之前，還不足以讓 Perplexity 離開第五名。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

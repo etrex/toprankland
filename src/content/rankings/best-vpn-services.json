@@ -20056,6 +20056,221 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-10-06",
+      "rankings": [
+        {
+          "id": "protonvpn",
+          "rank": 1,
+          "score": 9.3,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.8,
+            "network": 9.9,
+            "usability": 9.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "mullvad",
+          "rank": 2,
+          "score": 9.2,
+          "scores": {
+            "privacy": 9.8,
+            "speed": 8.5,
+            "network": 8.0,
+            "usability": 8.5,
+            "price": 9.5
+          }
+        },
+        {
+          "id": "nordvpn",
+          "rank": 3,
+          "score": 8.8,
+          "scores": {
+            "privacy": 8.5,
+            "speed": 9.3,
+            "network": 9.6,
+            "usability": 9.1,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "ivpn",
+          "rank": 4,
+          "score": 8.6,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 8.0,
+            "network": 7.5,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "expressvpn",
+          "rank": 5,
+          "score": 8.5,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 9.4,
+            "network": 9.5,
+            "usability": 9.5,
+            "price": 7.0
+          }
+        },
+        {
+          "id": "surfshark",
+          "rank": 6,
+          "score": 8.2,
+          "scores": {
+            "privacy": 7.6,
+            "speed": 8.5,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "windscribe",
+          "rank": 7,
+          "score": 8.0,
+          "scores": {
+            "privacy": 8.1,
+            "speed": 8.0,
+            "network": 8.0,
+            "usability": 8.0,
+            "price": 9.0
+          }
+        },
+        {
+          "id": "obscuravpn",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "privacy": 9.5,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.5,
+            "price": 7.5
+          }
+        },
+        {
+          "id": "airvpn",
+          "rank": 9,
+          "score": 7.8,
+          "scores": {
+            "privacy": 9.0,
+            "speed": 7.5,
+            "network": 7.0,
+            "usability": 7.0,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "pia",
+          "rank": 10,
+          "score": 7.6,
+          "scores": {
+            "privacy": 7.5,
+            "speed": 8.0,
+            "network": 9.0,
+            "usability": 8.0,
+            "price": 8.5
+          }
+        },
+        {
+          "id": "nymvpn",
+          "rank": 11,
+          "score": 7.5,
+          "scores": {
+            "privacy": 9.0,
+            "speed": 7.0,
+            "network": 6.5,
+            "usability": 7.0,
+            "price": 8.0
+          }
+        },
+        {
+          "id": "cyberghost",
+          "rank": 12,
+          "score": 7.2,
+          "scores": {
+            "privacy": 6.5,
+            "speed": 8.0,
+            "network": 9.0,
+            "usability": 8.5,
+            "price": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Congress Has Another Site-Blocking Bill, And This One Targets VPNs",
+          "url": "https://www.eff.org/deeplinks/2026/10/congress-has-another-site-blocking-bill-and-one-targets-vpns",
+          "source": "EFF"
+        },
+        {
+          "title": "Utah's New Law Targeting VPNs Goes Into Effect May 6th",
+          "url": "https://www.eff.org/deeplinks/2026/04/utahs-new-law-regulating-vpns-goes-effect-next-week",
+          "source": "EFF"
+        },
+        {
+          "title": "Proton VPN: 2025's privacy milestones & the 2026 roadmap",
+          "url": "https://www.techradar.com/vpn/vpn-services/proton-vpn-2025s-privacy-milestones-and-the-2026-roadmap",
+          "source": "TechRadar"
+        },
+        {
+          "title": "Independent auditors inspect NordVPN's security once again, here's what they found",
+          "url": "https://www.techradar.com/vpn/vpn-services/independent-auditors-inspect-nordvpns-security-once-again-heres-what-they-found",
+          "source": "TechRadar"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "ProtonVPN and Mullvad hold the top two spots unchanged, and I want to use today's entry on NordVPN's sixth clean Deloitte audit, which landed this year covering its standard servers, Double VPN, Onion Over VPN, obfuscated servers, and P2P infrastructure under the ISAE 3000 standard. Six consecutive clean audits is a real track record, and it keeps NordVPN at rank 3 with an 8.8 score instead of pushing it higher. The audits confirm current practice, and they do not erase the 2019 breach that exposed customer emails and raised the original no-logs doubts. An audit tells you what the auditor could verify in a specific window. It does not retroactively rewrite history, so this is confirmation of existing trust, nothing more. ProtonVPN keeps the top spot on a 9.9 network score and 9.8 privacy score built on Swiss jurisdiction and a fully open-source client, while Mullvad holds second on its own 9.8 privacy score and a genuinely unique no-account model, you can pay in cash and never give the company an email address. IVPN at rank 4 and AirVPN at rank 9 both score 9.0 or better on privacy for the same reason, minimal data collection built directly into the architecture itself. The field below splits on speed and network size, the dimension where ExpressVPN and NordVPN's larger server networks earn their place. Nothing here moved rank today, the audit reinforces existing positions and creates no new ones.",
+          "highlights": [
+            {
+              "title": "NordVPN's Sixth Clean Audit Confirms Current Practice, Not History",
+              "body": "Deloitte's latest ISAE 3000 review covered standard, Double VPN, Onion Over VPN, obfuscated, and P2P servers with no contradictory findings, but six clean audits confirm present day practice. They do not erase the 2019 breach that first raised no-logs questions."
+            },
+            {
+              "title": "ProtonVPN's Swiss Jurisdiction Plus Open Source Earns the Top Spot",
+              "body": "A 9.9 network score and 9.8 privacy score come from operating under Swiss privacy law while publishing a fully open-source client that anyone can audit independently instead of taking the company's word for it."
+            },
+            {
+              "title": "Mullvad's No-Account Model Is a Different Category of Privacy",
+              "body": "A 9.8 privacy score reflects a system where you can pay in cash and never hand over an email address, a structural privacy guarantee that most competitors can only approximate through policy promises."
+            },
+            {
+              "title": "IVPN and AirVPN Prove Minimal Data Collection Beats Marketing Claims",
+              "body": "Both score 9.0 or better on privacy by collecting less data in the first place, a design choice that holds up under audit scrutiny better than a no-logs claim layered on top of broader data retention."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "ProtonVPN跟Mullvad繼續包辦前兩名沒有變動，今天想講NordVPN今年拿到的第六次Deloitte乾淨稽核報告，涵蓋標準伺服器、Double VPN、Onion Over VPN、混淆伺服器跟P2P架構，用的是ISAE 3000標準。連續六次乾淨稽核確實是真本事，但這只讓NordVPN維持第三名8.8分，不會因此往上爬，因為稽核只能確認現在的做法，沒辦法把2019年那次外洩客戶email、讓大家開始懷疑無日誌政策的事件抹掉。稽核報告講的是審計師在特定時間窗口查到的東西，不會回頭改寫歷史，所以我把這次當成確認既有位置，不是升等的理由。ProtonVPN繼續第一，network分數9.9,privacy分數9.8，靠的是瑞士司法管轄加上完全開源的客戶端，任何人都能自己檢查程式碼。Mullvad排第二，privacy分數同樣9.8，靠的是獨特的免帳號模式，可以用現金付款，完全不用留email給公司。IVPN排第四、AirVPN排第九，privacy都拿到9.0以上，原因一樣，從設計上就少收集資料，不是光靠政策承諾。後段的差距則落在速度跟伺服器規模上，不是信任問題，這也正是ExpressVPN跟NordVPN靠龐大伺服器網路守住位置的地方。今天沒有任何排名變動，稽核只是強化既有順位，不是製造新的順位。",
+          "highlights": [
+            {
+              "title": "NordVPN第六次乾淨稽核確認的是現況，不是歷史",
+              "body": "Deloitte最新的ISAE 3000報告涵蓋標準、Double VPN、Onion Over VPN、混淆跟P2P伺服器都沒發現矛盾，但六次乾淨稽核確認的是現在的做法，不會把2019年那次引發無日誌質疑的外洩事件抹掉。"
+            },
+            {
+              "title": "ProtonVPN靠瑞士司法管轄加開源拿下第一",
+              "body": "network分數9.9加privacy分數9.8，來自在瑞士隱私法下運作，同時公開完全開源的客戶端，任何人都能自行檢查，不是只能相信公司說的話。"
+            },
+            {
+              "title": "Mullvad的免帳號模式是另一個等級的隱私",
+              "body": "privacy分數9.8反映一套可以用現金付款、完全不用留email的系統，這種結構性的隱私保障，大多數對手只能靠政策承諾去接近而已。"
+            },
+            {
+              "title": "IVPN跟AirVPN證明少收集資料勝過行銷話術",
+              "body": "兩家privacy都拿9.0以上，原因是從設計源頭就少收集資料，這種做法在稽核檢驗下，比疊在大量資料保留上面的無日誌宣稱更站得住腳。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

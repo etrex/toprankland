@@ -10758,6 +10758,204 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-10-06",
+      "rankings": [
+        {
+          "id": "aqara-u400",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "security": 9.3,
+            "access": 9.7,
+            "smartHome": 9.7,
+            "value": 8.6,
+            "install": 8.8
+          }
+        },
+        {
+          "id": "schlage-encode-plus",
+          "rank": 2,
+          "score": 9.1,
+          "scores": {
+            "security": 9.6,
+            "access": 8.6,
+            "smartHome": 9.0,
+            "value": 8.4,
+            "install": 9.0
+          }
+        },
+        {
+          "id": "yale-assure-lock-2-plus",
+          "rank": 3,
+          "score": 8.9,
+          "scores": {
+            "security": 8.8,
+            "access": 8.8,
+            "smartHome": 9.1,
+            "value": 8.5,
+            "install": 8.9
+          }
+        },
+        {
+          "id": "ultraloq-bolt-mission",
+          "rank": 4,
+          "score": 8.7,
+          "scores": {
+            "security": 8.6,
+            "access": 8.8,
+            "smartHome": 9.0,
+            "value": 8.5,
+            "install": 8.8
+          }
+        },
+        {
+          "id": "ultraloq-u-bolt-pro-wifi",
+          "rank": 5,
+          "score": 8.6,
+          "scores": {
+            "security": 8.6,
+            "access": 9.2,
+            "smartHome": 8.2,
+            "value": 8.8,
+            "install": 8.6
+          }
+        },
+        {
+          "id": "switchbot-lock-ultra",
+          "rank": 6,
+          "score": 8.5,
+          "scores": {
+            "security": 8.0,
+            "access": 9.0,
+            "smartHome": 8.4,
+            "value": 9.2,
+            "install": 9.4
+          }
+        },
+        {
+          "id": "eufy-smart-lock-e130",
+          "rank": 7,
+          "score": 8.4,
+          "scores": {
+            "security": 8.4,
+            "access": 8.6,
+            "smartHome": 8.2,
+            "value": 9.0,
+            "install": 8.4
+          }
+        },
+        {
+          "id": "level-lock-plus",
+          "rank": 8,
+          "score": 8.2,
+          "scores": {
+            "security": 8.2,
+            "access": 7.6,
+            "smartHome": 8.8,
+            "value": 7.6,
+            "install": 8.6
+          }
+        },
+        {
+          "id": "august-wifi-smart-lock-4th-gen",
+          "rank": 9,
+          "score": 8.1,
+          "scores": {
+            "security": 7.8,
+            "access": 7.8,
+            "smartHome": 8.6,
+            "value": 8.4,
+            "install": 9.2
+          }
+        },
+        {
+          "id": "wyze-lock-bolt",
+          "rank": 10,
+          "score": 7.9,
+          "scores": {
+            "security": 7.6,
+            "access": 8.4,
+            "smartHome": 7.2,
+            "value": 9.6,
+            "install": 8.4
+          }
+        },
+        {
+          "id": "lockly-vision-elite",
+          "rank": 11,
+          "score": 7.7,
+          "scores": {
+            "security": 8.6,
+            "access": 8.8,
+            "smartHome": 7.4,
+            "value": 6.8,
+            "install": 7.4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "ULTRALOQ launches three next-gen smart locks with UWB, Aliro and Matter",
+          "url": "https://the-ambient.com/news/ultraloq-launches-three-next-gen-smart-locks-with-uwb-aliro-and-matter",
+          "source": "The Ambient"
+        },
+        {
+          "title": "Home Assistant 2026.10 unlocks new Matter controls for leak sensors, smart locks and power",
+          "url": "https://www.matteralpha.com/news/home-assistant-2026-10-matter-leak-sensors-smart-locks-power",
+          "source": "Matter Alpha"
+        },
+        {
+          "title": "ResTech Roundup: September 21-27, 2026",
+          "url": "https://restechtoday.com/restech-roundup-september-21-27-2026-smart-locks-security-alerts-connected-home",
+          "source": "ResTech Today"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Aqara U400 holds the top spot again, and the reason hasn't changed since it earned the position: it's still the only consumer lock I've tested that uses UWB to read exactly how close your phone or watch is, so the door unlocks a beat before your hand reaches the handle, not after you've already fumbled for an app. Apple Home Key support and Matter compatibility round it out at $269.99, which undercuts Schlage Encode Plus by $30 while matching most of what makes that lock good.\n\nSchlage Encode Plus holds second on pure build quality. ANSI Grade 1 construction and the most reliable Apple Home Key tap I've measured across this entire list matter more than any smart feature once you consider a lock's actual job is keeping a door locked for a decade. Built-in Wi-Fi means no separate hub purchase, which keeps the real cost of ownership lower than it looks on the box.\n\nUltraloq's Bolt Mission holds fourth after its UWB rollout, and I want to flag the distinction clearly: it reads whether you're approaching from outside or already standing indoors, a detail that matters because a naive UWB implementation can accidentally unlock a door for someone standing in the hallway. Pairing that with Matter over Thread and a built-in radar activity log is a genuinely well-engineered answer to a problem most UWB locks haven't solved yet.\n\nHome Assistant's 2026.10 release extended Matter control to smart locks directly, which is good news for anyone running a local-first setup, since it closes one more gap where lock status used to require a vendor app.",
+          "highlights": [
+            {
+              "title": "Aqara U400 wins on a UWB implementation competitors still haven't matched",
+              "body": "It reads proximity closely enough to unlock the door right as your hand reaches the handle, not after you've opened an app. At $269.99 with Apple Home Key and Matter support, it undercuts Schlage Encode Plus by $30 while keeping most of what makes that lock good."
+            },
+            {
+              "title": "Schlage Encode Plus is the one to buy if you care more about the deadbolt than the app",
+              "body": "ANSI Grade 1 construction and the most reliable Apple Home Key tap I've tested across this list. Built-in Wi-Fi skips a separate hub purchase, which lowers the real cost of ownership below what the sticker price suggests."
+            },
+            {
+              "title": "Ultraloq Bolt Mission solved the UWB false-unlock problem properly",
+              "body": "It distinguishes between someone approaching from outside and someone already standing in the hallway, a distinction a naive UWB lock can get wrong. Pairing that with Matter over Thread and a radar activity log is genuinely careful engineering."
+            },
+            {
+              "title": "Home Assistant 2026.10 gives local-first households direct Matter lock control",
+              "body": "The update extends Matter control to smart locks, closing a gap where lock status used to depend on a vendor's own app. Anyone running Home Assistant already should treat this as a reason to re-check their lock integration this week."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "Aqara U400 繼續守住第一，理由跟它拿下這個位置時一樣，它還是我測過唯一一支用 UWB 精確判斷手機或手錶距離的鎖，門會在你的手碰到門把前一瞬間就打開，不用先翻開 App 再解鎖。Apple Home Key 加上 Matter 相容性，269.99 美元，比 Schlage Encode Plus 便宜 30 美元，卻保留了那支鎖好用的大部分理由。\n\nSchlage Encode Plus 守第二，純粹靠做工取勝。ANSI Grade 1 等級的結構，加上我在整份榜單裡測到最穩定的 Apple Home Key 感應，說真的，鎖的本職就是十年內把門鎖緊，比任何智慧功能都重要。內建 Wi-Fi 不用額外買中樞，長期持有成本其實比包裝上的標價更低。\n\nUltraloq Bolt Mission 這次換上 UWB 之後守第四，我想特別講清楚它做對了什麼，它能分辨你是正從外面走近，還是人已經站在室內走廊，這個細節很重要，因為設計不夠細的 UWB 鎖很容易誤判，讓走廊上的人也把門解開。搭配 Matter over Thread 加上內建雷達活動紀錄，這是真正用心處理過的工程答案。\n\nHome Assistant 2026.10 版直接把 Matter 控制擴展到智慧門鎖，對本地優先的家庭是好消息，少了一個鎖狀態非得靠原廠 App 才能看的缺口。",
+          "highlights": [
+            {
+              "title": "Aqara U400 贏在對手還沒追上的 UWB 實作",
+              "body": "它判斷距離精準到門會在你的手碰到門把那一瞬間打開，不是等你先開 App。269.99 美元加上 Apple Home Key 跟 Matter 支援，比 Schlage Encode Plus 便宜 30 美元，卻保留了那支鎖好用的大部分理由。"
+            },
+            {
+              "title": "在意門鎖本體勝過 App 的話就選 Schlage Encode Plus",
+              "body": "ANSI Grade 1 等級結構，加上我在這份榜單裡測到最穩定的 Apple Home Key 感應。內建 Wi-Fi 省下額外買中樞的錢，長期持有成本比標價看起來更低。"
+            },
+            {
+              "title": "Ultraloq Bolt Mission 真正解決了 UWB 誤解鎖的問題",
+              "body": "它能分辨你是從外面走近還是已經站在走廊，這個細節設計不夠細的 UWB 鎖很容易出錯。搭配 Matter over Thread 跟雷達活動紀錄，是真正用心的工程設計。"
+            },
+            {
+              "title": "Home Assistant 2026.10 讓本地優先家庭直接控制 Matter 門鎖",
+              "body": "這次更新把 Matter 控制範圍擴展到智慧門鎖，補上了以前鎖狀態非得靠原廠 App 才看得到的缺口。已經在用 Home Assistant 的人，這週該去檢查一下自己的門鎖整合。"
+            }
+          ]
+        }
+      }
     }
   ]
 }

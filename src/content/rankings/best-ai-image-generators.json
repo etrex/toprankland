@@ -19517,6 +19517,211 @@
           ]
         }
       }
+    },
+    {
+      "date": "2026-10-06",
+      "rankings": [
+        {
+          "id": "gpt-image-2",
+          "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "promptAccuracy": 9.9,
+            "photorealism": 9.1,
+            "artisticQuality": 8.4,
+            "textRendering": 9.7,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "midjourney-v8",
+          "rank": 2,
+          "score": 9.3,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.1,
+            "artisticQuality": 9.9,
+            "textRendering": 7.5,
+            "valueForMoney": 9.0
+          }
+        },
+        {
+          "id": "nano-banana-pro",
+          "rank": 3,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.4,
+            "photorealism": 9.3,
+            "artisticQuality": 8.7,
+            "textRendering": 9.5,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "flux-2-pro",
+          "rank": 4,
+          "score": 9.2,
+          "scores": {
+            "promptAccuracy": 9.0,
+            "photorealism": 9.9,
+            "artisticQuality": 8.8,
+            "textRendering": 8.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "seedream-4-5",
+          "rank": 5,
+          "score": 8.7,
+          "scores": {
+            "promptAccuracy": 8.6,
+            "photorealism": 9.2,
+            "artisticQuality": 9.0,
+            "textRendering": 7.8,
+            "valueForMoney": 9.3
+          }
+        },
+        {
+          "id": "ideogram-v3",
+          "rank": 6,
+          "score": 8.6,
+          "scores": {
+            "promptAccuracy": 8.8,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 9.8,
+            "valueForMoney": 8.8
+          }
+        },
+        {
+          "id": "adobe-firefly-4",
+          "rank": 7,
+          "score": 8.2,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.0,
+            "artisticQuality": 8.0,
+            "textRendering": 8.0,
+            "valueForMoney": 8.5
+          }
+        },
+        {
+          "id": "stable-diffusion-3-5-large",
+          "rank": 8,
+          "score": 8.0,
+          "scores": {
+            "promptAccuracy": 7.8,
+            "photorealism": 8.5,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 9.5
+          }
+        },
+        {
+          "id": "recraft-v3",
+          "rank": 9,
+          "score": 7.9,
+          "scores": {
+            "promptAccuracy": 8.2,
+            "photorealism": 7.8,
+            "artisticQuality": 8.3,
+            "textRendering": 8.8,
+            "valueForMoney": 8.2
+          }
+        },
+        {
+          "id": "krea-ai",
+          "rank": 10,
+          "score": 7.8,
+          "scores": {
+            "promptAccuracy": 8.0,
+            "photorealism": 8.2,
+            "artisticQuality": 8.0,
+            "textRendering": 7.5,
+            "valueForMoney": 7.8
+          }
+        },
+        {
+          "id": "google-imagen-4",
+          "rank": 11,
+          "score": 7.6,
+          "scores": {
+            "promptAccuracy": 8.7,
+            "photorealism": 9.0,
+            "artisticQuality": 8.2,
+            "textRendering": 8.5,
+            "valueForMoney": 6.0
+          }
+        },
+        {
+          "id": "leonardo-phoenix",
+          "rank": 12,
+          "score": 7.5,
+          "scores": {
+            "promptAccuracy": 7.5,
+            "photorealism": 7.8,
+            "artisticQuality": 8.0,
+            "textRendering": 7.0,
+            "valueForMoney": 8.0
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "5 Best AI Image-to-Video Converters for Creators in 2026",
+          "url": "https://pctechmag.com/2026/09/5-best-ai-image-to-video-converters-for-creators-in-2026",
+          "source": "PC Tech Magazine"
+        },
+        {
+          "title": "AI video News",
+          "url": "https://blog.mean.ceo/ai-video-news-september-2026/",
+          "source": "Mean.CEO"
+        }
+      ],
+      "i18n": {
+        "en": {
+          "commentary": "Rankings hold steady, but I want to flag two successor models surfacing in the news this week that I'm deliberately not acting on yet. Google is reportedly moving Nano Banana Pro toward a next version built explicitly for graphics, mockups, and still frames with a direct handoff into Veo for animation, and ByteDance's Seedream line is reportedly getting a major update focused on infographics and UI work. Both would directly affect competitors already in this list, Nano Banana Pro sits third and Seedream 4.5 sits fifth, but neither successor has shipped broadly enough for me to test or find independent benchmarks on yet, so I'm holding both exactly where they are until there's something concrete to evaluate. What hasn't changed is the fundamental shape of this market, GPT Image 2 keeps the top spot because its 9.9 prompt accuracy and 9.7 text rendering are still the best combination for anyone who needs an image that matches a detailed brief, including legible text in the output, which remains the hardest unsolved problem in this category for most other models. Midjourney V8.1 holds second purely on artistic quality, a 9.9 score that no model here touches, which is exactly why professional illustrators and concept artists haven't abandoned it despite its weaker text rendering. Flux 2 Pro's photorealism score of 9.9 ties it for the best in class, and its 9.5 value score makes it the smartest pick if realistic output per dollar is your priority over Midjourney's stylized strength. My advice is unchanged, pick based on what you're actually making, GPT Image 2 for accuracy and text, Midjourney for art, Flux for photorealistic value.",
+          "highlights": [
+            {
+              "title": "GPT Image 2 wins on the hardest unsolved problem in AI images",
+              "body": "Legible text rendering inside a generated image remains where most models fall apart, and GPT Image 2's 9.7 score paired with 9.9 prompt accuracy means it's still the only reliable choice when your brief requires exact wording to show up correctly."
+            },
+            {
+              "title": "Nano Banana and Seedream successors are coming, but not ranked yet",
+              "body": "Reports point to a next-generation Nano Banana built for graphics work with a Veo handoff and a major Seedream update focused on infographics, both relevant to competitors sitting third and fifth here, but I need shipped, testable versions before touching their scores."
+            },
+            {
+              "title": "Midjourney V8.1 remains the artist's choice, not the generalist's",
+              "body": "A 9.9 artistic quality score, untouched by any competitor on this list, explains why illustrators keep paying for it despite a comparatively weak 7.5 text rendering score that rules it out for anything typography-heavy."
+            },
+            {
+              "title": "Flux 2 Pro is the smartest buy for realistic output on a budget",
+              "body": "Tying for the best photorealism score at 9.9 while also posting a 9.5 value score makes it the rational pick over pricier options when what you need is a convincing photo-style image over stylized art."
+            }
+          ]
+        },
+        "zh-tw": {
+          "commentary": "排名維持不變，但這週有兩個後繼機型的消息值得先提出來，我目前刻意不急著根據它們調整排名。有消息說 Google 正在把 Nano Banana Pro 推向下一代，專門針對設計圖、模擬圖跟靜態畫面，還能直接交給 Veo 轉成動態影片，另外 ByteDance 的 Seedream 系列據傳也要大更新，主打資訊圖表跟介面設計。這兩個消息都直接牽涉到名單裡已經在榜上的對手，Nano Banana Pro 現在排第三，Seedream 4.5 排第五，但兩個後繼機型都還沒大規模出貨，我也找不到獨立測試數據，所以先讓它們維持原位，等有實際東西能評估再動。沒有變的是這個市場的基本格局，GPT Image 2 繼續排第一，因為它的提示精準度 9.9 分加上文字渲染 9.7 分，對需要圖片精確符合詳細需求、而且畫面裡文字要清楚可讀的人來說，還是最好的組合，這也是大部分其他模型目前最過不去的難題。Midjourney V8.1 純靠藝術品質守住第二，9.9 分這份名單裡沒人碰得到，這也是為什麼專業插畫師跟概念設計師，就算它的文字渲染比較弱，還是沒有放棄它。Flux 2 Pro 的真實感分數 9.9 跟同級最高打平，性價比分數又有 9.5，如果你要的是每一塊錢能換到的真實感，而不是 Midjourney 那種風格化強項，Flux 才是聰明的選擇。我的建議沒變，看你實際要做什麼來選，精準度跟文字選 GPT Image 2，藝術風格選 Midjourney，真實感性價比選 Flux。",
+          "highlights": [
+            {
+              "title": "GPT Image 2 解決了 AI 圖像最難的那個問題",
+              "body": "生成圖片裡文字要清楚可讀，這是大多數模型最容易翻車的地方，GPT Image 2 的文字渲染 9.7 分搭配提示精準度 9.9 分，代表當你需要圖片上的文字一字不差地呈現時，它依然是唯一可靠的選擇。"
+            },
+            {
+              "title": "Nano Banana 跟 Seedream 的後繼機型要來了，但還沒上榜",
+              "body": "消息指出下一代 Nano Banana 會專攻設計圖並能銜接 Veo，Seedream 也傳出針對資訊圖表的大更新，這兩個都跟目前排第三、第五的對手直接相關，但我需要先看到出貨、能實測的版本才會動它們的分數。"
+            },
+            {
+              "title": "Midjourney V8.1 還是藝術創作者的選擇，不是萬用工具",
+              "body": "9.9 分的藝術品質，這份名單裡沒人追得上，這解釋了為什麼插畫師還是願意付費使用它，即便它 7.5 分的文字渲染表現偏弱，排版要求重的工作完全不適合它。"
+            },
+            {
+              "title": "預算有限又要真實感，Flux 2 Pro 才是聰明的選擇",
+              "body": "真實感分數 9.9 跟同級最高打平，性價比分數又有 9.5，比起更貴的選項，當你要的是讓人信服的照片風格畫面而不是風格化藝術時，選它才合理。"
+            }
+          ]
+        }
+      }
     }
   ]
 }
