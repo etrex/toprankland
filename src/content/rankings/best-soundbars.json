@@ -194,6 +194,38 @@
           "priceRange": "NT$74,900"
         }
       }
+    },
+    {
+      "id": "samsung-hw-q990h",
+      "name": "Samsung HW-Q990H",
+      "brand": "Samsung",
+      "url": "https://www.samsung.com/us/audio-devices/soundbar/q990h-black-hw-q990h-za/",
+      "i18n": {
+        "en": {
+          "description": "Samsung's 2026 flagship keeps the same 23-driver, 11.1.4-channel hardware as last year's Q990F, then layers in Sound Elevation and a sharper Active Voice Amplifier Pro that locks dialogue onto the screen, making it the most AI-tuned surround package you can buy.",
+          "priceRange": "$1,999"
+        },
+        "zh-tw": {
+          "description": "三星2026年旗艦聲霸沿用跟Q990F一樣的23顆單體、11.1.4聲道硬體，加上新的Sound Elevation音場抬升技術跟更聰明的Active Voice Amplifier Pro對白增強，把人聲牢牢定在畫面上，是目前AI調校最細緻的環繞套裝。",
+          "priceRange": "NT$59,900"
+        }
+      }
+    },
+    {
+      "id": "bose-lifestyle-ultra-soundbar",
+      "name": "Bose Lifestyle Ultra Soundbar",
+      "brand": "Bose",
+      "url": "https://www.bose.com/p/home-theater/bose-lifestyle-ultra-soundbar/LSULT-SOUNDBAR.html",
+      "i18n": {
+        "en": {
+          "description": "Bose's first all-new soundbar platform in over a decade pairs TrueSpatial processing with six full-range drivers and dual PhaseGuide channels for a genuinely wide Atmos stage, and it ships with Alexa built in for voice control right out of the box.",
+          "priceRange": "$1,099"
+        },
+        "zh-tw": {
+          "description": "Bose十年來首次大改款的聲霸平台，靠TrueSpatial空間音效技術加上六顆全頻單體跟兩組PhaseGuide聲道，撐出扎實有寬度的Atmos音場，開箱就內建Alexa語音控制超方便。",
+          "priceRange": "約 NT$34,900"
+        }
+      }
     }
   ],
   "history": [
@@ -16793,8 +16825,20 @@
       "date": "2026-10-05",
       "rankings": [
         {
-          "id": "samsung-hw-q990f",
+          "id": "samsung-hw-q990h",
           "rank": 1,
+          "score": 9.5,
+          "scores": {
+            "atmos": 9.7,
+            "surround": 9.8,
+            "music": 8.9,
+            "gaming": 9.4,
+            "value": 8.9
+          }
+        },
+        {
+          "id": "samsung-hw-q990f",
+          "rank": 2,
           "score": 9.4,
           "scores": {
             "atmos": 9.6,
@@ -16806,7 +16850,7 @@
         },
         {
           "id": "sonos-arc-ultra",
-          "rank": 2,
+          "rank": 3,
           "score": 9.2,
           "scores": {
             "atmos": 9.2,
@@ -16818,7 +16862,7 @@
         },
         {
           "id": "sony-bravia-theatre-bar-9",
-          "rank": 3,
+          "rank": 4,
           "score": 8.9,
           "scores": {
             "atmos": 9.4,
@@ -16830,7 +16874,7 @@
         },
         {
           "id": "kef-xio",
-          "rank": 4,
+          "rank": 5,
           "score": 8.8,
           "scores": {
             "atmos": 9.5,
@@ -16842,7 +16886,7 @@
         },
         {
           "id": "lg-s95tr",
-          "rank": 5,
+          "rank": 6,
           "score": 8.7,
           "scores": {
             "atmos": 9.3,
@@ -16853,8 +16897,20 @@
           }
         },
         {
+          "id": "bose-lifestyle-ultra-soundbar",
+          "rank": 7,
+          "score": 8.6,
+          "scores": {
+            "atmos": 8.6,
+            "surround": 8.0,
+            "music": 8.9,
+            "gaming": 7.9,
+            "value": 8.0
+          }
+        },
+        {
           "id": "samsung-hw-qs750f",
-          "rank": 6,
+          "rank": 8,
           "score": 8.5,
           "scores": {
             "atmos": 8.4,
@@ -16866,7 +16922,7 @@
         },
         {
           "id": "bose-smart-ultra-soundbar",
-          "rank": 7,
+          "rank": 9,
           "score": 8.3,
           "scores": {
             "atmos": 8.2,
@@ -16878,7 +16934,7 @@
         },
         {
           "id": "sonos-beam-gen-2",
-          "rank": 8,
+          "rank": 10,
           "score": 8.1,
           "scores": {
             "atmos": 7.8,
@@ -16890,7 +16946,7 @@
         },
         {
           "id": "vizio-elevate",
-          "rank": 9,
+          "rank": 11,
           "score": 7.6,
           "scores": {
             "atmos": 8.5,
@@ -16902,7 +16958,7 @@
         },
         {
           "id": "sonos-ray",
-          "rank": 10,
+          "rank": 12,
           "score": 7.3,
           "scores": {
             "atmos": 6.5,
@@ -16914,7 +16970,7 @@
         },
         {
           "id": "yamaha-sr-b40a",
-          "rank": 11,
+          "rank": 13,
           "score": 7.1,
           "scores": {
             "atmos": 7.0,

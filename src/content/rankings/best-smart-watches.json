@@ -23,7 +23,7 @@
       "id": "apple-ultra2",
       "name": "Apple Watch Ultra 2",
       "brand": "Apple",
-      "url": "https://www.apple.com/apple-watch-ultra-2/",
+      "url": "https://www.amazon.com/dp/B0CSTGJVKF",
       "i18n": {
         "en": {
           "description": "Titanium adventure watch with up to 60h battery and brightest Apple Watch display",
@@ -55,7 +55,7 @@
       "id": "apple-s10",
       "name": "Apple Watch Series 10",
       "brand": "Apple",
-      "url": "https://www.apple.com/apple-watch-series-10/",
+      "url": "https://www.amazon.com/dp/B0DGHQ2QH6",
       "i18n": {
         "en": {
           "description": "Thinnest Apple Watch ever with faster charging and new sleep apnea detection",
@@ -119,7 +119,7 @@
       "id": "google-pw3",
       "name": "Google Pixel Watch 3",
       "brand": "Google",
-      "url": "https://store.google.com/us/product/pixel_watch_3",
+      "url": "https://www.amazon.com/dp/B0D91268TH",
       "i18n": {
         "en": {
           "description": "Improved battery life with Fitbit health tracking and Wear OS 4 integration",
@@ -151,7 +151,7 @@
       "id": "amazfit-balance2",
       "name": "Amazfit Balance 2",
       "brand": "Amazfit",
-      "url": "https://www.amazfit.com/en/",
+      "url": "https://discover.zepp.com/products/balance-2",
       "i18n": {
         "en": {
           "description": "AI health coach integration with Zepp OS and 21-day battery",
@@ -199,7 +199,7 @@
       "id": "huawei-gt5-pro",
       "name": "Huawei Watch GT 5 Pro",
       "brand": "Huawei",
-      "url": "https://consumer.huawei.com/en/wearables/watch-gt5-pro/",
+      "url": "https://consumer.huawei.com/uk/wearables/watch-gt5-pro/",
       "i18n": {
         "en": {
           "description": "Titanium build with 14-day battery and advanced health sensors",
@@ -231,7 +231,7 @@
       "id": "apple-s11",
       "name": "Apple Watch Series 11",
       "brand": "Apple",
-      "url": "https://www.apple.com/apple-watch-series-11/",
+      "url": "https://www.amazon.com/dp/B0FQF5BZ8Z",
       "i18n": {
         "en": {
           "description": "Apple's 2025 flagship everyday watch with hypertension detection and a brighter always-on display.",
@@ -276,6 +276,22 @@
       }
     },
     {
+      "id": "google-pw5",
+      "name": "Google Pixel Watch 5",
+      "brand": "Google",
+      "url": "https://store.google.com/us/product/pixel_watch_5",
+      "i18n": {
+        "en": {
+          "description": "Google's newest flagship runs Wear OS 7 on a faster Snapdragon W5 Gen 2 Accelerated chip, pushes its Actua 360 display to 3,000 nits, and puts Gemini AI health coaching at the center of the experience, with the 45mm model lasting up to 40 hours with always-on display enabled.",
+          "priceRange": "$399+"
+        },
+        "zh-tw": {
+          "description": "Google 2026 年新旗艦，Wear OS 7 搭配更快的 Snapdragon W5 Gen 2 Accelerated 晶片，Actua 360 螢幕最高來到 3000 尼特，Gemini AI 健康教練整合進日常使用，45mm 版本開啟長效顯示還能撐到 40 小時。",
+          "priceRange": "約 NT$12,900"
+        }
+      }
+    },
+    {
       "id": "oneplus-watch3",
       "name": "OnePlus Watch 3",
       "brand": "OnePlus",
@@ -295,7 +311,7 @@
       "id": "apple-ultra3",
       "name": "Apple Watch Ultra 3",
       "brand": "Apple",
-      "url": "https://www.apple.com/apple-watch-ultra-3/",
+      "url": "https://www.amazon.com/dp/B0FQFW2PKL",
       "i18n": {
         "en": {
           "description": "watchOS 26 paired with a brighter display, satellite messaging, and 42-hour battery makes this the best adventure smartwatch in the Apple ecosystem.",
@@ -25279,8 +25295,20 @@
           }
         },
         {
-          "id": "google-pw4",
+          "id": "google-pw5",
           "rank": 7,
+          "score": 8.9,
+          "scores": {
+            "health": 8.7,
+            "battery": 9.0,
+            "display": 8.8,
+            "ecosystem": 8.5,
+            "value": 8.6
+          }
+        },
+        {
+          "id": "google-pw4",
+          "rank": 8,
           "score": 8.8,
           "scores": {
             "health": 8.5,
@@ -25292,7 +25320,7 @@
         },
         {
           "id": "apple-s10",
-          "rank": 8,
+          "rank": 9,
           "score": 8.7,
           "scores": {
             "health": 9.0,
@@ -25304,7 +25332,7 @@
         },
         {
           "id": "garmin-fr965",
-          "rank": 9,
+          "rank": 10,
           "score": 8.7,
           "scores": {
             "health": 9.5,
@@ -25316,7 +25344,7 @@
         },
         {
           "id": "garmin-venu-x1",
-          "rank": 10,
+          "rank": 11,
           "score": 8.4,
           "scores": {
             "health": 9.0,
@@ -25328,7 +25356,7 @@
         },
         {
           "id": "garmin-fenix8-pro",
-          "rank": 11,
+          "rank": 12,
           "score": 8.3,
           "scores": {
             "health": 9.5,
@@ -25340,7 +25368,7 @@
         },
         {
           "id": "samsung-gw7",
-          "rank": 12,
+          "rank": 13,
           "score": 8.3,
           "scores": {
             "health": 8.4,
@@ -25352,7 +25380,7 @@
         },
         {
           "id": "oneplus-watch3",
-          "rank": 13,
+          "rank": 14,
           "score": 8.2,
           "scores": {
             "health": 8.0,
@@ -25364,7 +25392,7 @@
         },
         {
           "id": "google-pw3",
-          "rank": 14,
+          "rank": 15,
           "score": 8.0,
           "scores": {
             "health": 8.4,
@@ -25376,7 +25404,7 @@
         },
         {
           "id": "withings-scanwatch2",
-          "rank": 15,
+          "rank": 16,
           "score": 7.8,
           "scores": {
             "health": 8.4,
@@ -25388,7 +25416,7 @@
         },
         {
           "id": "coros-pace3",
-          "rank": 16,
+          "rank": 17,
           "score": 7.6,
           "scores": {
             "health": 7.9,
@@ -25400,7 +25428,7 @@
         },
         {
           "id": "amazfit-balance2",
-          "rank": 17,
+          "rank": 18,
           "score": 7.5,
           "scores": {
             "health": 7.9,
@@ -25412,7 +25440,7 @@
         },
         {
           "id": "oneplus-watch2r",
-          "rank": 18,
+          "rank": 19,
           "score": 7.3,
           "scores": {
             "health": 7.4,
@@ -25424,7 +25452,7 @@
         },
         {
           "id": "huawei-gt5-pro",
-          "rank": 19,
+          "rank": 20,
           "score": 7.1,
           "scores": {
             "health": 7.9,

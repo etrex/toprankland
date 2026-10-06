@@ -40,7 +40,7 @@
       "id": "arlo-pro-5s",
       "name": "Pro 5S",
       "brand": "Arlo",
-      "url": "https://www.arlo.com/en-us/cameras/pro/arlo-pro-5.html",
+      "url": "https://us.arlo.com/products/arlo-pro-5",
       "i18n": {
         "en": {
           "description": "2K HDR outdoor camera with 160° FOV, 8-month battery, 12x zoom, dual-band Wi-Fi, and best-in-class AI motion accuracy.",
@@ -72,7 +72,7 @@
       "id": "google-nest-cam-outdoor",
       "name": "Nest Cam (Outdoor, Wired)",
       "brand": "Google",
-      "url": "https://store.google.com/us/product/nest_cam",
+      "url": "https://store.google.com/us/product/nest_cam_outdoor_wired_2nd_gen",
       "i18n": {
         "en": {
           "description": "2K HDR wired outdoor camera with 152° FOV, Gemini-powered AI alerts, Google Home integration, and IP65 weatherproofing.",
@@ -104,7 +104,7 @@
       "id": "ring-spotlight-cam-pro",
       "name": "Spotlight Cam Pro",
       "brand": "Ring",
-      "url": "https://ring.com/products/spotlight-cam-pro-battery",
+      "url": "https://ring.com/products/spotlight-cam-pro-2nd-gen",
       "i18n": {
         "en": {
           "description": "1080p outdoor camera with radar-powered 3D Motion Detection, Bird's Eye View, dual spotlights, and optional battery or wired power.",
@@ -225,6 +225,22 @@
         "zh-tw": {
           "description": "4K 太陽能監視器，MaxColor Vision 真彩色夜視，BionicMind 人臉辨識，最高 16TB 本地儲存，不用付月費。",
           "priceRange": "約 NT$16,900"
+        }
+      }
+    },
+    {
+      "id": "eufy-solocam-e50",
+      "name": "SoloCam E50",
+      "brand": "eufy",
+      "url": "https://www.eufy.com/products/t81801w0",
+      "i18n": {
+        "en": {
+          "description": "4K dual-lens solar camera that pairs a wide-angle view with a 12x hybrid zoom telephoto lens, backed by mmWave radar detection and free local storage up to 512GB.",
+          "priceRange": "$230"
+        },
+        "zh-tw": {
+          "description": "4K 雙鏡頭太陽能攝影機，廣角鏡頭搭配 12 倍混合變焦長焦鏡頭，還有毫米波雷達偵測，本地儲存最高 512GB，完全免月費。",
+          "priceRange": "約 NT$7,300"
         }
       }
     }
@@ -18172,8 +18188,21 @@
           }
         },
         {
-          "id": "google-nest-cam-outdoor",
+          "id": "eufy-solocam-e50",
           "rank": 6,
+          "score": 8.4,
+          "scores": {
+            "videoQuality": 9,
+            "nightVision": 8,
+            "aiDetection": 8.8,
+            "storageFlexibility": 8.5,
+            "batteryLife": 8.5,
+            "valueForMoney": 8
+          }
+        },
+        {
+          "id": "google-nest-cam-outdoor",
+          "rank": 7,
           "score": 8.3,
           "scores": {
             "videoQuality": 8.8,
@@ -18186,7 +18215,7 @@
         },
         {
           "id": "reolink-trackflex-floodlight",
-          "rank": 7,
+          "rank": 8,
           "score": 8.3,
           "scores": {
             "videoQuality": 9.5,
@@ -18199,7 +18228,7 @@
         },
         {
           "id": "aosu-solarcam-t2-ultra",
-          "rank": 8,
+          "rank": 9,
           "score": 8.1,
           "scores": {
             "videoQuality": 9.5,
@@ -18212,7 +18241,7 @@
         },
         {
           "id": "tp-link-tapo-c460",
-          "rank": 9,
+          "rank": 10,
           "score": 8.0,
           "scores": {
             "videoQuality": 8.5,
@@ -18225,7 +18254,7 @@
         },
         {
           "id": "baseus-security-x1-pro",
-          "rank": 10,
+          "rank": 11,
           "score": 8.0,
           "scores": {
             "videoQuality": 7.5,
@@ -18238,7 +18267,7 @@
         },
         {
           "id": "wyze-cam-v4",
-          "rank": 11,
+          "rank": 12,
           "score": 7.9,
           "scores": {
             "videoQuality": 8,
@@ -18251,7 +18280,7 @@
         },
         {
           "id": "ring-spotlight-cam-pro",
-          "rank": 12,
+          "rank": 13,
           "score": 7.8,
           "scores": {
             "videoQuality": 7.5,
@@ -18264,7 +18293,7 @@
         },
         {
           "id": "blink-outdoor-4",
-          "rank": 13,
+          "rank": 14,
           "score": 7.5,
           "scores": {
             "videoQuality": 7,
